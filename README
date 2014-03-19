@@ -1,0 +1,16 @@
+This project is aimed at analyzing bridge bidding archives. 
+Archives should be in the Portable Bridge Notation (.pbn files)
+
+The software consists of two parts:
+
+1. pbn2prolog.perl
+Perl script for converting each deal in a .pbn file into a Prolog clause, preserving all information. Subdirectories contain the various .pbn files. The db*.pl files contain generated Prolog clauses. 
+
+2. analyse.pl
+A Prolog program (written for SWI-Prolog), that does three things:
+- "init": extract the relevant information per deal for analyzing the bidding
+- "defs": derive characteristics of the deal relevant for analyzing the bidding
+- "stat": Prolog predicates that generate text files in table format that can be used as input for R. These are stored in the results subdirectory
+
+TODO: predefined R programs for statistical analysis of results
+
