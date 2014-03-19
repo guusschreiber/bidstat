@@ -1,10 +1,25 @@
+AUTHOR: Guus Schreiber, schreiber.guus@gmail.com, http://www.cs.vu.nl/~guus/
+
+OBJECTIVE
+
+This is a private project I've been wanting to do for a long time. People claim that bridge bidding has drastically changed over time, for example that there is more activity in the bidding. Do historical data support his claim? What, if any, is the nature of the changes?  
+
+It is my intention to publish the results in relevant fora, once these are mature enough to warrant such action. 
+
+ACKNOWLEDGEMENTS
+
+Richard van Haastrecht provided the PBN data through his great website http://bridgetoernooi.com/. Thanks also to all those people who invested their time in generating PBN files.
+
+DESCRIPTION
+
 This project is aimed at analyzing bridge bidding archives. 
-Archives should be in the Portable Bridge Notation (.pbn files)
+Archives of bridge deals are assumed to be in the Portable Bridge Notation (.pbn files, see http://home.iae.nl/users/veugent/pbn/pbn_v10.txt)
 
 The software consists of two parts:
 
 1. pbn2prolog.perl
 Perl script for converting each deal in a .pbn file into a Prolog clause, preserving all information. Subdirectories contain the various .pbn files. The db*.pl files contain generated Prolog clauses. 
+Note: I'm not an experienced Perl program. The code is certainly not optimal nor efficient. 
 
 2. analyse.pl
 A Prolog program (written for SWI-Prolog), that does three things:
