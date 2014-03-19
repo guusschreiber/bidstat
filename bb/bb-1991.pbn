@@ -1,0 +1,5451 @@
+% PBN created by BFC s1.lin P
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "1"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KT82.87.J52.KQJ5 4.AQT5432.874.94 J9653.K9.AQ93.A7 AQ7.J6.KT6.T8632"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "N"]
+3D =1= X 3H =2= X
+AP
+[Note "1:Preempt in !H or !S"]
+[Note "2:Pass or correct"]
+[Play "W"]
+CK C4 C7 C2
+H7 HA H9 H6
+SK S4 S9 SQ
+D5 D7 DA D6
+D2 D4 D3 DK
+S2 D8 S3 SA
+*
+[Stage "Segment 1"]
+[HomeTeam "Iceland"]
+[VisitTeam "Poland"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KT82.87.J52.KQJ5 4.AQT5432.874.94 J9653.K9.AQ93.A7 AQ7.J6.KT6.T8632"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+3H X Pass 4S
+AP
+[Play "N"]
+HA H9 H6 H7
+D7 DQ DK D2
+C4 CA C3 C5
+S4 S9 S7 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "2"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QJ9.96.97.K97542 A5.8542.QJ8432.8 T74.AQ3.AT6.QJT3 K8632.KJT7.K5.A6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "E"]
+1C =1= 1S 2C X =2=
+3C 4H 5C X
+AP
+[Note "1:Polish !C"]
+[Note "2:Responsive"]
+[Play "S"]
+HJ H6 H2 HQ
+S2 SJ SA S4
+SK S9 S5 S7
+S3 SQ C8 ST
+-  -  D3 -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QJ9.96.97.K97542 A5.8542.QJ8432.8 T74.AQ3.AT6.QJT3 K8632.KJT7.K5.A6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "9"]
+[Auction "E"]
+1D =1= 1S AP
+[Note "1:10 - 15, 2+!D"]
+[Play "W"]
+D9 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "3"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:954.A532.AQ3.T43 AQT7632.94.J95.5 KJ.JT.74.KJ98762 8.KQ876.KT862.AQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+1H Pass 2H =1= Pass
+2S =2= Pass 3S Pass
+4S AP
+[Note "1:transfer to !S"]
+[Note "2:NF"]
+[Play "W"]
+C4 C5 CK CA
+S5 SQ SK S8
+DQ D5 D4 D2
+DA D9 D7 D6
+HA H4 HT H6
+H2 H9 HJ -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:954.A532.AQ3.T43 AQT7632.94.J95.5 KJ.JT.74.KJ98762 8.KQ876.KT862.AQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+Pass =1= Pass 1H =2= Pass
+2D Pass 4S AP
+[Note "1:13+"]
+[Note "2:7-11 short !H or !C, 5+major"]
+[Play "E"]
+HJ HK HA H4
+SJ S8 S4 ST
+D7 D6 DQ D5
+D4 D2 DA D9
+SK D8 D3 DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "4"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:JT65.AQJ82.8.A97 AK872.654.KQJ5.Q 943.973.T7642.K6 Q.KT.A93.JT85432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+1H 1S Pass 1NT
+Pass 2D Pass 3C
+AP
+[Play "W"]
+D8 D5 D7 DA
+S5 S2 S4 SQ
+C7 DJ DT D3
+HA H4 H7 HT
+HQ H5 H3 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:JT65.AQJ82.8.A97 AK872.654.KQJ5.Q 943.973.T7642.K6 Q.KT.A93.JT85432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1H 1S Pass 1NT
+Pass 3NT AP
+[Play "W"]
+HQ H4 H7 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "5"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:872.AJ.Q942.6543 KJ43.943.KT.T872 Q9.QT6.A863.AKJ9 AT65.K8752.J75.Q"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+Pass 1NT AP
+[Play "S"]
+H5 HJ H3 H6
+CQ C3 C2 CA
+H2 C4 C7 CK
+D5 D2 DK DA
+D7 D9 DT D3
+H7 HA H4 HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:872.AJ.Q942.6543 KJ43.943.KT.T872 Q9.QT6.A863.AKJ9 AT65.K8752.J75.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1C =1= 1D ! 1NT
+AP
+[Note "1:16+"]
+[Play "N"]
+S3 S9 ST S7
+S4 SQ SA S2
+SJ D3 S5 S8
+SK D6 S6 C3
+C2 CA CQ C4
+DT DA D5 D2
+DK D8 D7 DQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "6"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ74..Q65.KJT985 AT532.54.JT73.A6 K986.AQ96.AK.432 .KJT8732.9842.Q7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1NT 2H 3H Pass
+3NT AP
+[Play "S"]
+D2 D5 DT DK
+C7 CK C6 C2
+CQ C5 CA C3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ74..Q65.KJT985 AT532.54.JT73.A6 K986.AQ96.AK.432 .KJT8732.9842.Q7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "E"]
+1NT 3H X AP
+[Play "W"]
+SQ SA S6 C7
+C5 H4 H6 HT
+C8 CA C2 CQ
+C9 H5 HA H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "7"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KT4.QT8543.JT3.Q Q82.K.AKQ965.JT5 A753.A7.84.K9742 J96.J962.72.A863"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass 2H 3D 3H
+AP
+[Play "N"]
+DA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KT4.QT8543.JT3.Q Q82.K.AKQ965.JT5 A753.A7.84.K9742 J96.J962.72.A863"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "S"]
+1D =1= Pass 3D AP
+[Note "1:0 - 7 HCP"]
+[Play "W"]
+CQ C5 C2 CA
+D3 DA D4 D2
+DT DK D8 D7
+DJ DQ C4 H2
+H3 CT CK C3
+H4 HK HA H6
+HT D5 H7 H9
+H5 CJ C7 C6
+ST S2 S3 S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "8"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A98.AJ52.T83.Q75 T.KT976.AK974.92 KQ654.Q3.J52.K64 J732.84.Q6.AJT83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 1S Pass
+2H ! 3D Pass 3H
+AP
+[Play "E"]
+SK S2 S8 ST
+S4 S3 SA H6
+C4 CT CQ C2
+S5 S7 S9 H7
+C6 CJ C5 C9
+CK CA C7 D4
+D2 DQ D3 D7
+D5 D6 D8 DA
+DJ H4 DT D9
+S6 SJ H2 H9
+-  -  -  DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A98.AJ52.T83.Q75 T.KT976.AK974.92 KQ654.Q3.J52.K64 J732.84.Q6.AJT83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+1D =1= 1H 1S 1NT
+Pass 2D Pass 2H
+AP
+[Note "1:2+!D"]
+[Play "E"]
+SQ S2 S8 ST
+S4 S3 S9 H6
+D2 DQ D3 D4
+H3 H4 H2 HK
+HQ H8 H5 H7
+S5 S7 SA H9
+D5 D6 D8 DA
+DJ C3 DT DK
+S6 C8 HJ HT
+C4 SJ HA D7
+C6 CT CQ C2
+CK CA C5 C9
+SK CJ C7 D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "9"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:862.AJ842.KJ3.52 KJ974.KT9753.8.4 QT5..Q975.AQT963 A3.Q6.AT642.KJ87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Auction "N"]
+2C =1= Pass 2D =2= Pass
+2H =3= AP
+[Note "1:weak !D or !H+!S / strong"]
+[Note "2:Pass or correct"]
+[Note "3:longer !H"]
+[Play "E"]
+D5 DA D3 D8
+S5 SA S2 S4
+ST S3 S6 SK
+SQ H6 S8 S7
+C3 HQ HA H3
+CA C7 C2 C4
+C6 CJ C5 S9
+C9 CK DJ SJ
+CT C8 DK H5
+D7 D2 -  HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:862.AJ842.KJ3.52 KJ974.KT9753.8.4 QT5..Q975.AQT963 A3.Q6.AT642.KJ87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+2NT =1= Pass 3D =2= Pass
+3H =3= Pass 4H AP
+[Note "1:5 - 5 majors / minors"]
+[Note "2:Pass or correct"]
+[Note "3:majors"]
+[Play "E"]
+CA C7 C2 C4
+D5 DA D3 D8
+C3 CK C5 S4
+C6 C8 S2 H3
+S5 S3 S6 SK
+ST SA S8 S7
+D7 D2 DJ H5
+SQ HQ HA S9
+C9 H6 H2 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "10"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K98763.2.T98.Q98 AQ5.J654.K5.KT64 JT42.KQ7.Q62.732 .AT983.AJ743.AJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Auction "E"]
+Pass 1H 1S 2S !
+Pass 3S =1= Pass 4C
+Pass 4D Pass 4S
+Pass 4NT Pass 6H
+AP
+[Note "1:Splinter"]
+[Play "W"]
+D9 D5 DQ DA
+H2 H4 H7 HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K98763.2.T98.Q98 AQ5.J654.K5.KT64 JT42.KQ7.Q62.732 .AT983.AJ743.AJ5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Auction "E"]
+Pass Pass =1= Pass 1C =2=
+Pass 1S =3= Pass 1NT =4=
+Pass 3S =5= Pass 4C
+Pass 4S Pass 6C
+AP
+[Note "1:13+"]
+[Note "2:7 - 11 balanced / GF"]
+[Note "3:short !S"]
+[Note "4:GF relay"]
+[Note "5:0553, 13 - 15"]
+[Play "E"]
+D2 DJ D8 D5
+C2 CA C8 C4
+C3 CJ C9 C6
+C7 C5 CQ CK
+D6 D3 D9 DK
+H7 H8 H2 H4
+HQ HA S3 H5
+HK H3 S6 HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{Poland were given a 3 IMP penalty because of differing explanations of the auction by Balicki and Zmudminski. Thus they only gained 13 IMPs instead of the 16 shown in the segment scoresheet. This adjustment has been included in the files which give the cumulative IMP scores.}
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "11"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.A9742.Q542.J5 Q4.JT3.AK93.KQT7 AJ85.Q65.86.A942 K9732.K8.JT7.863"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2H Pass 2S AP
+[Play "E"]
+D8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+{}
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.A9742.Q542.J5 Q4.JT3.AK93.KQT7 AJ85.Q65.86.A942 K9732.K8.JT7.863"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+1C =1= Pass 1D =2= Pass
+1S Pass 1NT AP
+[Note "1:8 - 12 no shortness"]
+[Note "2:Relay"]
+[Play "E"]
+C2 C3 CJ CK
+C4 C6 C5 CT
+SA S2 S6 SQ
+D8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "12"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:972.T85.AQJ93.87 J865.K7.64.KJT64 AK43.9642.72.AQ2 QT.AQJ3.KT85.953"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1C =1= Pass
+1D =2= Pass 1H =3= Pass
+2D =4= AP
+[Note "1:Polish !C"]
+[Note "2:0 - 6, minors or str. bal."]
+[Note "3:3+!H nearly forcing"]
+[Note "4:to play opposite weak NT"]
+[Play "N"]
+HK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:972.T85.AQJ93.87 J865.K7.64.KJT64 AK43.9642.72.AQ2 QT.AQJ3.KT85.953"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "W"]
+2D =1= AP
+[Note "1:weak !D or !C+!H"]
+[Play "N"]
+HK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "13"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AK2.QT93.KJ97.93 85.A82.T85.AJT74 QT93.K75.64.KQ65 J764.J64.AQ32.82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "5"]
+[Auction "N"]
+Pass Pass Pass 1C =1=
+Pass 1S Pass Pass
+2C X AP
+[Note "1:Polish !C"]
+[Play "E"]
+ST -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AK2.QT93.KJ97.93 85.A82.T85.AJT74 QT93.K75.64.KQ65 J764.J64.AQ32.82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "4"]
+[Auction "N"]
+1S =1= Pass 2D =2= AP
+[Note "1:7 - 12, 0-2 or 6+!S"]
+[Note "2:NF"]
+[Play "W"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "14"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+3NT AP
+[Play "S"]
+DA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+{Deal record and detailed bidding sequence not available for this board}
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+3NT AP
+[Play "S"]
+DA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "15"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass 4S AP
+[Play "N"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 4S
+AP
+[Play "S"]
+DA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{}
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "16"]
+[West "Lasocki"]
+[North "Baldursson"]
+[East "Gawrys"]
+[South "Jorgensen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKQ4.AT76.A8.J86 T653.3.93.KQT932 92.KJ842.Q54.A75 J87.Q95.KJT762.4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[Auction "W"]
+1C =1= 3C 3H Pass
+4D Pass 5C Pass
+5H Pass 6D Pass
+6H AP
+[Note "1:Polish !C"]
+[Play "S"]
+C4 C6 CK CA
+H5 H6 H3 HK
+H9 HT C2 H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKQ4.AT76.A8.J86 T653.3.93.KQT932 92.KJ842.Q54.A75 J87.Q95.KJT762.4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1C =1= 1S ! 2H Pass
+3H Pass 4C Pass
+4D Pass 4H AP
+[Note "1:17+"]
+[Play "S"]
+C4 C6 CT CA
+H5 H6 H3 HK
+H9 HT C2 H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC s2.lin P
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "17"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A.T84.QT64.K8763 KT98643.5.AKJ83. Q75.AK96.2.AQJ95 J2.QJ732.975.T42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Auction "N"]
+1S 2C Pass 2S
+3D 3H X 4C
+4S X AP
+[Play "E"]
+HA H2 H8 H5
+CA C2 C3 S3
+S5 S2 SA SK
+C5 C4 C6 S4
+SQ SJ C7 S6
+C9 CT CK S8
+S7 H3 H4 S9
+D2 D5 D4 DA
+H6 D7 D6 DK
+H9 D9 DT D3
+HK H7 HT ST
+*
+[Stage "Segment 2"]
+[HomeTeam "Iceland +49"]
+[VisitTeam "Poland +35"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A.T84.QT64.K8763 KT98643.5.AKJ83. Q75.AK96.2.AQJ95 J2.QJ732.975.T42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Auction "N"]
+1S 2C Pass 2S
+4S X AP
+[Play "E"]
+HA H2 H4 H5
+CA C2 C3 S3
+S5 S2 SA SK
+C5 C4 C6 S4
+SQ SJ H8 S6
+C9 CT CK S8
+S7 H3 C7 S9
+D2 D5 D4 DA
+H6 D7 D6 DK
+H9 D9 DT D3
+HK HJ HT ST
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "18"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ872.T5.943.A6 K.AJ972.K6.JT984 954.8643.AQJ75.5 T63.KQ.T82.KQ732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2S Pass
+3D Pass 4S AP
+[Play "N"]
+CJ C5 C2 CA
+D6 DQ D2 D3
+SK S4 S3 SQ
+H2 H3 HQ H5
+-  -  HK -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ872.T5.943.A6 K.AJ972.K6.JT984 954.8643.AQJ75.5 T63.KQ.T82.KQ732"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S 2H
+2S 3C 3S 5C
+AP
+[Play "W"]
+SA SK S4 S3
+D4 D6 DQ D2
+D3 DK DA D8
+D9 -  DJ DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "19"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT7.A82.K975.QJ8 AJ92.KQ7.864.A75 8654.T965.QJT3.T K3.J43.A2.K96432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 2D =1= Pass
+3C Pass 3H =2= Pass
+3S Pass 5C AP
+[Note "1:Forcing"]
+[Note "2:Values"]
+[Play "W"]
+D5 D4 DT DA
+C8 CA CT C2
+CJ C5 H5 CK
+S7 S2 S4 SK
+ST SJ S5 S3
+SQ SA S6 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT7.A82.K975.QJ8 AJ92.KQ7.864.A75 8654.T965.QJT3.T K3.J43.A2.K96432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+2C =1= Pass 2D =2= Pass
+2NT =3= Pass 3NT AP
+[Note "1:Precision"]
+[Note "2:Enquiry"]
+[Note "3:6+!C no shortness"]
+[Play "W"]
+D5 D4 DT D2
+D7 D6 DQ DA
+C8 CA CT C2
+CJ C5 H5 CK
+CQ C7 S4 C3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "20"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A4.AQJ4.JT.AQ743 KJT953.T65.52.JT 62.932.AK83.8652 Q87.K87.Q9764.K9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "11"]
+[Auction "W"]
+1C =1= 1S Pass 2C !
+2H Pass 2S Pass
+3C Pass 4C AP
+[Note "1:Polish"]
+[Play "N"]
+S3 S2 SQ SA
+CT C2 C9 CA
+CJ C5 CK C3
+SK S6 S7 S4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A4.AQJ4.JT.AQ743 KJT953.T65.52.JT 62.932.AK83.8652 Q87.K87.Q9764.K9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "13"]
+[Auction "W"]
+1C 2S X Pass
+3C Pass 3D Pass
+3H Pass 4C Pass
+4S Pass 5C AP
+[Play "N"]
+D2 DK D4 DT
+CT C2 C9 CQ
+CJ C5 CK CA
+D5 DA D6 DJ
+H5 H2 H7 HJ
+S3 C6 S7 C3
+H6 H3 H8 HQ
+HT H9 HK HA
+S5 S2 S8 H4
+S9 S6 SQ SA
+ST C8 D7 S4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "21"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ85.K4.J54.8763 Q32.A763.A7632.K A97.QT85.K98.AT9 T64.J92.QT.QJ542"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+1D Pass 1NT AP
+[Play "W"]
+S5 S2 S9 ST
+C3 CK C9 C2
+DJ D2 D8 DT
+S8 S3 SA S4
+SK SQ S7 S6
+SJ D3 H5 C4
+HK HA H8 H2
+H4 H3 HQ H9
+D4 H6 HT HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ85.K4.J54.8763 Q32.A763.A7632.K A97.QT85.K98.AT9 T64.J92.QT.QJ542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1D"]
+[Result "6"]
+[Auction "N"]
+1D AP
+[Play "E"]
+H8 H9 HK HA
+C9 C2 C3 CK
+HQ H2 H4 H3
+H5 HJ D4 H6
+SA S4 SJ SQ
+HT DQ C6 H7
+CA CQ C7 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "22"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:643.A94.AJ5.AJ98 J92.86.KT942.743 AQ5.QT752.83.Q62 KT87.KJ3.Q76.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1NT AP
+[Play "W"]
+S4 SJ SQ SK
+D5 DT D3 D6
+DJ D2 D8 DQ
+S3 S2 SA S8
+HA H6 H2 HJ
+S6 S9 S5 ST
+DA D4 C2 D7
+H9 H8 H5 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:643.A94.AJ5.AJ98 J92.86.KT942.743 AQ5.QT752.83.Q62 KT87.KJ3.Q76.KT5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1D =1= Pass
+1H X Pass 1S
+1NT Pass 2NT Pass
+3NT AP
+[Note "1:Precision"]
+[Play "S"]
+S7 S3 SJ SQ
+H3 HA H6 H2
+HJ H4 H8 HT
+SK S4 S2 SA
+CK CA C3 CQ
+C5 CJ C4 C2
+CT C9 C7 C6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "23"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT8.K972.J873.87 Q32.T85.T654.AQ3 AK974.QJ43.AQ2.5 65.A6.K9.KJT9642"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1NT 2D
+3C 3D Pass 3H
+3NT Pass Pass X
+4C AP
+[Play "W"]
+D3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT8.K972.J873.87 Q32.T85.T654.AQ3 AK974.QJ43.AQ2.5 65.A6.K9.KJT9642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+2C =1= Pass 3C X
+3NT Pass Pass X
+4C 4H AP
+[Note "1:Precision"]
+[Play "N"]
+CQ C5 C2 C7
+D4 D2 DK D3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "24"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.J952.Q8.AQ2 4.AQ.J943.K87643 AK98.873.K76.JT9 QT73.KT64.AT52.5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "W"]
+Pass 1C 1S X
+2S AP
+[Play "S"]
+C5 CQ CK C9
+S3 C2 C8 CT
+H4 H2 HA H3
+S7 CA C3 CJ
+DA D8 D3 D6
+H6 H5 HQ H7
+SQ H9 C7 H8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.J952.Q8.AQ2 4.AQ.J943.K87643 AK98.873.K76.JT9 QT73.KT64.AT52.5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1D
+X XX 1S Pass
+Pass 2S X Pass
+Pass 5D AP
+[Play "W"]
+S2 S4 SK S3
+DQ D3 D6 D2
+H2 HA H3 H4
+D8 D4 D7 DT
+CA -  -  C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "25"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK93.K76.J9.AT63 JT62.82.AKQ853.K 54.A94.62.QJ9742 Q87.QJT53.T74.85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Auction "N"]
+1D Pass 1H X
+2D 3C AP
+[Play "S"]
+HQ H6 H2 HA
+C5 CA CK C2
+C8 C3 D3 CQ
+S7 SA S2 S4
+S8 SK S6 S5
+SQ S3 ST C4
+H5 HK H8 H4
+H3 S9 SJ C7
+D4 D9 DQ D2
+DT DJ DA D6
+D7 C6 DK H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK93.K76.J9.AT63 JT62.82.AKQ853.K 54.A94.62.QJ9742 Q87.QJT53.T74.85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Auction "N"]
+1D Pass 1H X
+2D 3C AP
+[Play "S"]
+HQ H6 H2 HA
+C5 CA CK C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "26"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ9.QJ92.KT3.K96 54.763.AJ84.QJT7 A87632.K.6.A8543 KT.AT854.Q9752.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1S Pass 3NT Pass
+4S AP
+[Play "S"]
+C2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ9.QJ92.KT3.K96 54.763.AJ84.QJT7 A87632.K.6.A8543 KT.AT854.Q9752.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1S 2H 3NT Pass
+4S AP
+[Play "S"]
+C2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "27"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.Q942.KQ92.K984 KQ98654.K6.T8.A6 AT7.AJT8.A73.Q32 32.753.J654.JT75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 1S X
+Pass 2S 3S X
+AP
+[Play "E"]
+S7 S2 SJ SQ
+SA S3 H2 SK
+ST H3 C4 S4
+DA D4 D2 D8
+D3 D5 DQ DT
+CQ C5 C8 C6
+D7 D6 D9 S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.Q942.KQ92.K984 KQ98654.K6.T8.A6 AT7.AJT8.A73.Q32 32.753.J654.JT75"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass Pass 1S X
+Pass 2S 3S Pass
+Pass X Pass 4H
+AP
+[Play "S"]
+S2 SJ SK SA
+D4 DQ D8 D3
+H3 HQ HK HA
+H5 H2 H6 HT
+H7 H9 S4 H8
+C5 C4 C6 CQ
+C7 C8 CA C2
+-  -  SQ S7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "28"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "5"]
+[Auction "W"]
+1C AP
+[Play "N"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal ""]
+[Scoring "#"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Auction "W"]
+AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "29"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AQ7.8532.T7.A865 J9532.4.KJ5.T732 86.T7.Q98643.Q94 KT4.AKQJ96.A2.KJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 2D =1= Pass
+2H =2= Pass 2NT =3= Pass
+3H =4= Pass 3S Pass
+4S AP
+[Note "1:Multi"]
+[Note "2:Pass or correct"]
+[Note "3:20 - 22 bal."]
+[Note "4:Transfer"]
+[Play "W"]
+H2 H4 HT HA
+SA S2 S6 SK
+S7 S3 S8 ST
+H3 C2 H7 HK
+H5 C3 D3 HQ
+H8 C7 D4 HJ
+SQ CT D6 H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AQ7.8532.T7.A865 J9532.4.KJ5.T732 86.T7.Q98643.Q94 KT4.AKQJ96.A2.KJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C =1= Pass
+1D =2= Pass 2D =3= Pass
+2S Pass 3H Pass
+3NT Pass 4H AP
+[Note "1:Polish"]
+[Note "2:Neg./ no 4M / big bal."]
+[Note "3:GF"]
+[Play "W"]
+DT D5 D3 DA
+H2 H4 H7 HA
+H3 C2 HT HK
+H5 S2 D4 HQ
+H8 S3 D6 HJ
+SQ S5 S6 ST
+D7 DK D8 D2
+C5 DJ D9 H6
+SA S9 S8 SK
+S7 SJ C4 S4
+CA C3 C9 CK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "30"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.AJ865.53.QJT874 AK842.K74.KJ.K32 J9765.Q32.9874.9 QT3.T9.AQT62.A65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Auction "E"]
+Pass 1D 1H 1S
+Pass 2S Pass 3H
+Pass 4S Pass 4NT
+Pass 5S Pass 6S
+AP
+[Play "E"]
+C9 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.AJ865.53.QJT874 AK842.K74.KJ.K32 J9765.Q32.9874.9 QT3.T9.AQT62.A65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3HX"]
+[Result "5"]
+[Auction "E"]
+Pass 1D 2NT ! X
+3H Pass Pass X
+AP
+[Play "S"]
+HT H5 HK H2
+D6 D3 DK D4
+DQ D5 DJ D7
+DA HJ S2 D8
+C5 C4 CK C9
+S3 H6 SA S5
+CA CQ C2 D9
+D2 HA C3 S6
+C6 CJ H4 HQ
+ST H8 S4 S7
+DT C7 H7 S9
+SQ CT SK SJ
+H9 C8 S8 H3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "31"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ94.9.T74.T9643 T87.A8732.KJ63.8 J32.KQ4.AQ85.K72 A65.JT65.92.AQJ5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 3H AP
+[Play "E"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ94.9.T74.T9643 T87.A8732.KJ63.8 J32.KQ4.AQ85.K72 A65.JT65.92.AQJ5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 3H AP
+[Play "E"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "32"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q93.QJ864.T62.JT J862.93.J985.742 A.752.AQ743.K985 KT754.AKT.K.AQ63"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D 1S
+Pass 3S Pass 4C
+Pass 4S AP
+[Play "W"]
+HQ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Arnth\\'Son"]
+[North "Gawrys"]
+[East "Johansson"]
+[South "Lasocki"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q93.QJ864.T62.JT J862.93.J985.742 A.752.AQ743.K985 KT754.AKT.K.AQ63"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D X
+1H Pass 2H 2S
+AP
+[Play "W"]
+HQ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC s3.lin P
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "33"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ.AQ8.AK83.Q942 A9532.KT4.Q42.AK T874.75.JT95.J83 Q6.J9632.76.T765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass =1= Pass 1D =2= 1NT
+AP
+[Note "1:13+ any"]
+[Note "2:0 - 6"]
+[Play "N"]
+S3 S4 SQ SK
+D2 D5 D6 DA
+D4 D9 D7 DK
+DQ DT H2 D3
+CA C3 C5 C2
+CK C8 C6 C4
+S2 -  -  -
+*
+[Stage "Segment 3"]
+[HomeTeam "Poland +70"]
+[VisitTeam "Iceland +103"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ.AQ8.AK83.Q942 A9532.KT4.Q42.AK T874.75.JT95.J83 Q6.J9632.76.T765"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2D =1= Pass
+2H Pass Pass 2NT =2=
+3H AP
+[Note "1:transfer"]
+[Note "2:minors"]
+[Play "E"]
+DJ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "34"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ5.A754.5.A842 6.J82.AT83.KQT65 T82.T963.K92.J93 K9743.KQ.QJ764.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6CX"]
+[Result "8"]
+[Auction "E"]
+Pass 2D =1= X =2= 2NT =3=
+Pass 3S ! Pass 4C
+Pass 4H Pass 6C
+Pass Pass X AP
+[Note "1:7 - 12, 5+M 5+m"]
+[Note "2:Take out"]
+[Note "3:Relay, values"]
+[Play "E"]
+S8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ5.A754.5.A842 6.J82.AT83.KQT65 T82.T963.K92.J93 K9743.KQ.QJ764.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+Pass 1S Pass 1NT =1=
+Pass 2C =2= Pass 2NT
+AP
+[Note "1:Forcing"]
+[Note "2:11 - 16 w. !D / 11 - 14 5332"]
+[Play "E"]
+H9 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "36"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:42.83.KT73.JT642 KT5.AKQ9.AJ9.Q95 Q.J7542.Q642.A73 AJ98763.T6.85.K8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "13"]
+[Auction "W"]
+Pass Pass =1= Pass 1C =2=
+Pass 1D =3= Pass 3S =4=
+Pass 4C =5= Pass 4S =6=
+Pass 6NT AP
+[Note "1:13+"]
+[Note "2:12+ or 7 - 11 no shortness"]
+[Note "3:18+ or 13 - 17 no shortness"]
+[Note "4:7!S 222, 10 - 11"]
+[Note "5:Relay"]
+[Note "6:no red controls"]
+[Play "E"]
+H4 HT H3 H9
+SQ S3 S2 SK
+C7 CK C2 C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:42.83.KT73.JT642 KT5.AKQ9.AJ9.Q95 Q.J7542.Q642.A73 AJ98763.T6.85.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2NT Pass 3S
+Pass 4D Pass 4NT =1=
+Pass 5C =2= Pass 6S
+AP
+[Note "1:RKC"]
+[Note "2:0 or 3"]
+[Play "W"]
+H8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "37"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ52.A5.QJ7.KQT8 A96.J9.T84.A7532 Q74.T7632.A3.J94 T83.KQ84.K9652.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "6"]
+[Auction "N"]
+1H =1= Pass 2D =2= X =3=
+Pass 2H Pass 2S
+Pass 3S AP
+[Note "1:0 - 2 or 6+!S, 7 - 12"]
+[Note "2:NF"]
+[Note "3:Take out of !D"]
+[Play "N"]
+D8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ52.A5.QJ7.KQT8 A96.J9.T84.A7532 Q74.T7632.A3.J94 T83.KQ84.K9652.6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1C =1=
+Pass 1D =2= Pass 1S =3=
+Pass 1NT AP
+[Note "1:Polish"]
+[Note "2:0 - 7"]
+[Note "3:3+!S"]
+[Play "S"]
+D5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "38"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A76.963.J3.KQ762 QJ83.Q7.Q86.AT54 K.AT2.AKT752.J98 T9542.KJ854.94.3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1D Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "N"]
+S3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A76.963.J3.KQ762 QJ83.Q7.Q86.AT54 K.AT2.AKT752.J98 T9542.KJ854.94.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+1D 2D ! X 4S
+5D AP
+[Play "S"]
+C3 C2 CA C8
+D4 C6 C4 C9
+S2 S6 S8 SK
+D9 D3 D6 DA
+S4 CQ C5 CJ
+S5 SA S3 H2
+H4 CK CT HT
+H5 DJ D8 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "39"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ752.86.JT.KJT7 .AKQJ.K974.AQ532 K8643.4.AQ862.64 AT9.T97532.53.98"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "12"]
+[Auction "S"]
+1D =1= Pass 1H =2= X
+1S =3= X 1NT Pass
+3H Pass 4H 4S
+Pass Pass 5C Pass
+5H AP
+[Note "1:0 - 7"]
+[Note "2:NF"]
+[Note "3:Natural!"]
+[Play "E"]
+S4 SA S2 D4
+C4 C8 C7 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ752.86.JT.KJT7 .AKQJ.K974.AQ532 K8643.4.AQ862.64 AT9.T97532.53.98"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "10"]
+[Auction "S"]
+2D =1= Pass 2NT =2= Pass
+3D ! Pass 6H AP
+[Note "1:Multi"]
+[Note "2:Strong"]
+[Play "E"]
+H4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "40"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:97.7532.K65.KT32 82.K96.QJT.AJ875 KJ654.QJT.3.Q964 AQT3.A84.A98742."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1S =1= Pass 2C =2=
+Pass 3C =3= Pass 3D =4=
+Pass 3S =5= Pass 3NT
+AP
+[Note "1:7 - 12, 0 - 2 or 6+!S"]
+[Note "2:Relay"]
+[Note "3:Maximum, 5+!C"]
+[Note "4:Relay"]
+[Note "5:2!S no second suit"]
+[Play "W"]
+H2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:97.7532.K65.KT32 82.K96.QJT.AJ875 KJ654.QJT.3.Q964 AQT3.A84.A98742."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+Pass 1C 1S 2D
+Pass 3D Pass 6D
+AP
+[Play "W"]
+H2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "42"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J975.Q93.QJ76.42 Q4.J85.A532.KT87 A.AK64.T84.QJ963 KT8632.T72.K9.A5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+1D =1= 1S Pass 1NT
+AP
+[Note "1:Precision"]
+[Play "E"]
+CJ CA C2 C7
+SA S2 S5 SQ
+C3 C5 C4 C8
+-  -  -  H5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J975.Q93.QJ76.42 Q4.J85.A532.KT87 A.AK64.T84.QJ963 KT8632.T72.K9.A5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+2C =1= 2S AP
+[Note "1:Precision"]
+[Play "W"]
+DQ D2 D4 DK
+S5 SQ -  S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "43"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ764.A.65.K632 2.KQJ963.AQ4.A84 983.T854.JT8.QT7 AT5.72.K9732.J95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "S"]
+1H =1= 1S X =2= Pass
+2D Pass 3H Pass
+3S Pass 4D Pass
+4H Pass 4NT Pass
+5D Pass 6D AP
+[Note "1:7 - 12, 0 - 2 or 6+!H"]
+[Note "2:Values"]
+[Play "W"]
+SK S2 S3 SA
+HA H3 H4 H2
+SQ D4 S8 S5
+D5 DA D8 D2
+D6 DQ DT D3
+C2 HK H5 H7
+S4 H6 H8 D9
+-  -  -  DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ764.A.65.K632 2.KQJ963.AQ4.A84 983.T854.JT8.QT7 AT5.72.K9732.J95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass 1S X Pass
+1NT Pass 4H AP
+[Play "E"]
+S8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "44"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K73.AJT43.QJT.J6 AQJ8.986.A642.K2 T6542.KQ.53.AQ54 9.752.K987.T9873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1H 1S X =1= Pass
+1NT AP
+[Note "1:Negative"]
+[Play "N"]
+D2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K73.AJT43.QJT.J6 AQJ8.986.A642.K2 T6542.KQ.53.AQ54 9.752.K987.T9873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1H 1S X =1= Pass
+1NT AP
+[Note "1:Negatve"]
+[Play "N"]
+D2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "45"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T74.T92.AKQT843. AQ952.AQ873.62.K K86.KJ6..AJT9742 J3.54.J975.Q8653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass =1= 2C =2= Pass 3D
+X 3NT AP
+[Note "1:13+"]
+[Note "2:Precision"]
+[Play "S"]
+SJ S4 S2 S6
+S3 S7 S9 SK
+C3 H2 CK CA
+CQ ST D2 CJ
+H4 HT HA HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T74.T92.AKQT843. AQ952.AQ873.62.K K86.KJ6..AJT9742 J3.54.J975.Q8653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1S 2C Pass 2D
+2H 3C Pass 3D
+AP
+[Play "N"]
+SA S6 S3 S4
+S2 SK SJ S7
+CK CA C3 ST
+H3 C2 C5 DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "46"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:853.T53.96.Q8732 KT42.AJ97.AJ3.A5 AQ76.K4.Q852.J64 J9.Q862.KT74.KT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D =1= Pass Pass X
+Pass 1H Pass 2H
+Pass 2NT Pass 3NT
+AP
+[Note "1:Precision"]
+[Play "W"]
+C3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:853.T53.96.Q8732 KT42.AJ97.AJ3.A5 AQ76.K4.Q852.J64 J9.Q862.KT74.KT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "4"]
+[Auction "E"]
+1NT =1= Pass 2C Pass
+2S AP
+[Note "1:12 - 14"]
+[Play "S"]
+D4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "47"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T952.K98.J3.KQ32 KQJ4.4.QT9865.85 863.QJ75.A.AJ974 A7.AT632.K742.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+2C =1= Pass 2NT =2= Pass
+3D AP
+[Note "1:7 - 12, 5-4 !H!D or !C!S"]
+[Note "2:Forcing asking bid"]
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T952.K98.J3.KQ32 KQJ4.4.QT9865.85 863.QJ75.A.AJ974 A7.AT632.K742.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 3D AP
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "48"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT987.A4.AJ4.KT7 2.J82.K9.AQ96543 KQJ43.KQT9.T762. 65.7653.Q853.J82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+1S 2C 4C Pass
+4NT =1= Pass 5D =2= Pass
+6S AP
+[Note "1:RKCB"]
+[Note "2:1 or 4"]
+[Play "N"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT987.A4.AJ4.KT7 2.J82.K9.AQ96543 KQJ43.KQT9.T762. 65.7653.Q853.J82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+1NT 3C 4C Pass
+4S AP
+[Play "N"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC s3.lin P
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "33"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ.AQ8.AK83.Q942 A9532.KT4.Q42.AK T874.75.JT95.J83 Q6.J9632.76.T765"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass =1= Pass 1D =2= 1NT
+AP
+[Note "1:13+ any"]
+[Note "2:0 - 6"]
+[Play "N"]
+S3 S4 SQ SK
+D2 D5 D6 DA
+D4 D9 D7 DK
+DQ DT H2 D3
+CA C3 C5 C2
+CK C8 C6 C4
+S2 -  -  -
+*
+[Stage "Segment 3"]
+[HomeTeam "Poland +70"]
+[VisitTeam "Iceland +103"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ.AQ8.AK83.Q942 A9532.KT4.Q42.AK T874.75.JT95.J83 Q6.J9632.76.T765"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2D =1= Pass
+2H Pass Pass 2NT =2=
+3H AP
+[Note "1:transfer"]
+[Note "2:minors"]
+[Play "E"]
+DJ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "34"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ5.A754.5.A842 6.J82.AT83.KQT65 T82.T963.K92.J93 K9743.KQ.QJ764.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6CX"]
+[Result "8"]
+[Auction "E"]
+Pass 2D =1= X =2= 2NT =3=
+Pass 3S ! Pass 4C
+Pass 4H Pass 6C
+Pass Pass X AP
+[Note "1:7 - 12, 5+M 5+m"]
+[Note "2:Take out"]
+[Note "3:Relay, values"]
+[Play "E"]
+S8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQJ5.A754.5.A842 6.J82.AT83.KQT65 T82.T963.K92.J93 K9743.KQ.QJ764.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+Pass 1S Pass 1NT =1=
+Pass 2C =2= Pass 2NT
+AP
+[Note "1:Forcing"]
+[Note "2:11 - 16 w. !D / 11 - 14 5332"]
+[Play "E"]
+H9 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "36"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:42.83.KT73.JT642 KT5.AKQ9.AJ9.Q95 Q.J7542.Q642.A73 AJ98763.T6.85.K8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "13"]
+[Auction "W"]
+Pass Pass =1= Pass 1C =2=
+Pass 1D =3= Pass 3S =4=
+Pass 4C =5= Pass 4S =6=
+Pass 6NT AP
+[Note "1:13+"]
+[Note "2:12+ or 7 - 11 no shortness"]
+[Note "3:18+ or 13 - 17 no shortness"]
+[Note "4:7!S 222, 10 - 11"]
+[Note "5:Relay"]
+[Note "6:no red controls"]
+[Play "E"]
+H4 HT H3 H9
+SQ S3 S2 SK
+C7 CK C2 C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:42.83.KT73.JT642 KT5.AKQ9.AJ9.Q95 Q.J7542.Q642.A73 AJ98763.T6.85.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2NT Pass 3S
+Pass 4D Pass 4NT =1=
+Pass 5C =2= Pass 6S
+AP
+[Note "1:RKC"]
+[Note "2:0 or 3"]
+[Play "W"]
+H8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "37"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ52.A5.QJ7.KQT8 A96.J9.T84.A7532 Q74.T7632.A3.J94 T83.KQ84.K9652.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "6"]
+[Auction "N"]
+1H =1= Pass 2D =2= X =3=
+Pass 2H Pass 2S
+Pass 3S AP
+[Note "1:0 - 2 or 6+!S, 7 - 12"]
+[Note "2:NF"]
+[Note "3:Take out of !D"]
+[Play "N"]
+D8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ52.A5.QJ7.KQT8 A96.J9.T84.A7532 Q74.T7632.A3.J94 T83.KQ84.K9652.6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1C =1=
+Pass 1D =2= Pass 1S =3=
+Pass 1NT AP
+[Note "1:Polish"]
+[Note "2:0 - 7"]
+[Note "3:3+!S"]
+[Play "S"]
+D5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "38"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A76.963.J3.KQ762 QJ83.Q7.Q86.AT54 K.AT2.AKT752.J98 T9542.KJ854.94.3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1D Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "N"]
+S3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A76.963.J3.KQ762 QJ83.Q7.Q86.AT54 K.AT2.AKT752.J98 T9542.KJ854.94.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+1D 2D ! X 4S
+5D AP
+[Play "S"]
+C3 C2 CA C8
+D4 C6 C4 C9
+S2 S6 S8 SK
+D9 D3 D6 DA
+S4 CQ C5 CJ
+S5 SA S3 H2
+H4 CK CT HT
+H5 DJ D8 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "39"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ752.86.JT.KJT7 .AKQJ.K974.AQ532 K8643.4.AQ862.64 AT9.T97532.53.98"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "12"]
+[Auction "S"]
+1D =1= Pass 1H =2= X
+1S =3= X 1NT Pass
+3H Pass 4H 4S
+Pass Pass 5C Pass
+5H AP
+[Note "1:0 - 7"]
+[Note "2:NF"]
+[Note "3:Natural!"]
+[Play "E"]
+S4 SA S2 D4
+C4 C8 C7 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ752.86.JT.KJT7 .AKQJ.K974.AQ532 K8643.4.AQ862.64 AT9.T97532.53.98"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "10"]
+[Auction "S"]
+2D =1= Pass 2NT =2= Pass
+3D ! Pass 6H AP
+[Note "1:Multi"]
+[Note "2:Strong"]
+[Play "E"]
+H4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "40"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:97.7532.K65.KT32 82.K96.QJT.AJ875 KJ654.QJT.3.Q964 AQT3.A84.A98742."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1S =1= Pass 2C =2=
+Pass 3C =3= Pass 3D =4=
+Pass 3S =5= Pass 3NT
+AP
+[Note "1:7 - 12, 0 - 2 or 6+!S"]
+[Note "2:Relay"]
+[Note "3:Maximum, 5+!C"]
+[Note "4:Relay"]
+[Note "5:2!S no second suit"]
+[Play "W"]
+H2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:97.7532.K65.KT32 82.K96.QJT.AJ875 KJ654.QJT.3.Q964 AQT3.A84.A98742."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+Pass 1C 1S 2D
+Pass 3D Pass 6D
+AP
+[Play "W"]
+H2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "42"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J975.Q93.QJ76.42 Q4.J85.A532.KT87 A.AK64.T84.QJ963 KT8632.T72.K9.A5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+1D =1= 1S Pass 1NT
+AP
+[Note "1:Precision"]
+[Play "E"]
+CJ CA C2 C7
+SA S2 S5 SQ
+C3 C5 C4 C8
+-  -  -  H5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J975.Q93.QJ76.42 Q4.J85.A532.KT87 A.AK64.T84.QJ963 KT8632.T72.K9.A5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+2C =1= 2S AP
+[Note "1:Precision"]
+[Play "W"]
+DQ D2 D4 DK
+S5 SQ -  S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "43"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ764.A.65.K632 2.KQJ963.AQ4.A84 983.T854.JT8.QT7 AT5.72.K9732.J95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "S"]
+1H =1= 1S X =2= Pass
+2D Pass 3H Pass
+3S Pass 4D Pass
+4H Pass 4NT Pass
+5D Pass 6D AP
+[Note "1:7 - 12, 0 - 2 or 6+!H"]
+[Note "2:Values"]
+[Play "W"]
+SK S2 S3 SA
+HA H3 H4 H2
+SQ D4 S8 S5
+D5 DA D8 D2
+D6 DQ DT D3
+C2 HK H5 H7
+S4 H6 H8 D9
+-  -  -  DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ764.A.65.K632 2.KQJ963.AQ4.A84 983.T854.JT8.QT7 AT5.72.K9732.J95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass 1S X Pass
+1NT Pass 4H AP
+[Play "E"]
+S8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "44"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K73.AJT43.QJT.J6 AQJ8.986.A642.K2 T6542.KQ.53.AQ54 9.752.K987.T9873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1H 1S X =1= Pass
+1NT AP
+[Note "1:Negative"]
+[Play "N"]
+D2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K73.AJT43.QJT.J6 AQJ8.986.A642.K2 T6542.KQ.53.AQ54 9.752.K987.T9873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1H 1S X =1= Pass
+1NT AP
+[Note "1:Negatve"]
+[Play "N"]
+D2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "45"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T74.T92.AKQT843. AQ952.AQ873.62.K K86.KJ6..AJT9742 J3.54.J975.Q8653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass =1= 2C =2= Pass 3D
+X 3NT AP
+[Note "1:13+"]
+[Note "2:Precision"]
+[Play "S"]
+SJ S4 S2 S6
+S3 S7 S9 SK
+C3 H2 CK CA
+CQ ST D2 CJ
+H4 HT HA HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T74.T92.AKQT843. AQ952.AQ873.62.K K86.KJ6..AJT9742 J3.54.J975.Q8653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1S 2C Pass 2D
+2H 3C Pass 3D
+AP
+[Play "N"]
+SA S6 S3 S4
+S2 SK SJ S7
+CK CA C3 ST
+H3 C2 C5 DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "46"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:853.T53.96.Q8732 KT42.AJ97.AJ3.A5 AQ76.K4.Q852.J64 J9.Q862.KT74.KT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D =1= Pass Pass X
+Pass 1H Pass 2H
+Pass 2NT Pass 3NT
+AP
+[Note "1:Precision"]
+[Play "W"]
+C3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:853.T53.96.Q8732 KT42.AJ97.AJ3.A5 AQ76.K4.Q852.J64 J9.Q862.KT74.KT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "4"]
+[Auction "E"]
+1NT =1= Pass 2C Pass
+2S AP
+[Note "1:12 - 14"]
+[Play "S"]
+D4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "47"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T952.K98.J3.KQ32 KQJ4.4.QT9865.85 863.QJ75.A.AJ974 A7.AT632.K742.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+2C =1= Pass 2NT =2= Pass
+3D AP
+[Note "1:7 - 12, 5-4 !H!D or !C!S"]
+[Note "2:Forcing asking bid"]
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T952.K98.J3.KQ32 KQJ4.4.QT9865.85 863.QJ75.A.AJ974 A7.AT632.K742.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 3D AP
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "48"]
+[West "Arnth\\'Son"]
+[North "Balicki"]
+[East "Johansson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT987.A4.AJ4.KT7 2.J82.K9.AQ96543 KQJ43.KQT9.T762. 65.7653.Q853.J82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+1S 2C 4C Pass
+4NT =1= Pass 5D =2= Pass
+6S AP
+[Note "1:RKCB"]
+[Note "2:1 or 4"]
+[Play "N"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991 "]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Martens"]
+[North "Jonsson"]
+[East "Szym\\'Ski"]
+[South "Arnson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT987.A4.AJ4.KT7 2.J82.K9.AQ96543 KQJ43.KQT9.T762. 65.7653.Q853.J82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+1NT 3C 4C Pass
+4S AP
+[Play "N"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC s4.lin P
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "49"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q963.J874.A7.J74 T.A95.QJT82.T853 84.KT3.9543.AK96 AKJ752.Q62.K6.Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1D =1= Pass 1S =2= Pass
+1NT =3= Pass 2S AP
+[Note "1:0 - 7 any dist."]
+[Note "2:Non-forcing"]
+[Note "3:Maximum"]
+[Play "W"]
+H4 -  -  -
+*
+[Stage "Segment 4"]
+[HomeTeam "Poland +114"]
+[VisitTeam "Iceland +154"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q963.J874.A7.J74 T.A95.QJT82.T853 84.KT3.9543.AK96 AKJ752.Q62.K6.Q2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT Pass 2S AP
+[Play "W"]
+H4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "50"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A864.AJ63.J5.K97 52.Q98742.T2.AQ8 QT.KT5.964.J5432 KJ973..AKQ873.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Auction "E"]
+Pass Pass =1= 1D =2= 1H
+X 1S Pass 2H
+Pass 3D AP
+[Note "1:13+ any"]
+[Note "2:majors or minors"]
+[Play "W"]
+D5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A864.AJ63.J5.K97 52.Q98742.T2.AQ8 QT.KT5.964.J5432 KJ973..AKQ873.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Auction "E"]
+Pass 1S Pass 1NT =1=
+Pass 2C =2= Pass 2H
+Pass 3D AP
+[Note "1:Forcing"]
+[Note "2:11-16 with !D / 5332"]
+[Play "W"]
+D5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "51"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT642.A932.A7.T8 983.QJ4.KQT32.92 J5.T7.9865.AKJ54 AK7.K865.J4.Q763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass =1= 1S 2D =2= 2S
+AP
+[Note "1:13+ any"]
+[Note "2:Non-forcing"]
+[Play "N"]
+HQ H7 H5 H3
+S3 S5 SK S2
+S8 SJ SA S4
+D2 D5 D4 DA
+S9 D6 S7 SQ
+C2 C4 CQ CT
+-  -  H6 -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT642.A932.A7.T8 983.QJ4.KQT32.92 J5.T7.9865.AKJ54 AK7.K865.J4.Q763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "7"]
+[Auction "S"]
+1C =1= 1S AP
+[Note "1:2+!C"]
+[Play "N"]
+C9 CA C3 C8
+HJ H7 H5 H2
+S3 S5 SK S2
+S8 SJ SA S4
+HQ HT H6 H3
+C2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "52"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q97.876.AJ.KJ653 AT86432.3.Q84.A2 K5.AJ95.KT53.T87 J.KQT42.9762.Q94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+Pass 1S =1= Pass 2H =2=
+Pass 3S AP
+[Note "1:7 - 12, 0 - 2 or 6+!S"]
+[Note "2:Non-forcing"]
+[Play "E"]
+C7 CQ CK CA
+H5 HQ H6 H3
+S5 SJ SQ SA
+SK H2 S7 ST
+D3 D2 DA D4
+DK D6 DJ DQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q97.876.AJ.KJ653 AT86432.3.Q84.A2 K5.AJ95.KT53.T87 J.KQT42.9762.Q94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "7"]
+[Auction "W"]
+Pass 1S Pass 1NT =1=
+Pass 2H =2= Pass 2S
+Pass Pass X Pass
+3C AP
+[Note "1:Forcing"]
+[Note "2:strong 5-4 or min. 6!S"]
+[Play "N"]
+H3 H5 HQ H6
+C2 H9 H2 H7
+SA S5 SJ S7
+S2 SK C4 S9
+CA HJ H4 H8
+S3 CT CQ SQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "53"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:63.JT54.AT.A7652 QT8752.A82.3.J43 J9.KQ73.KQJ8765. AK4.96.942.KQT98"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "N"]
+1D =1= 2H =2= Pass 4H
+4S Pass Pass X
+AP
+[Note "1:0 - 7 any"]
+[Note "2:4!H longer !D"]
+[Play "E"]
+H3 H6 HT H8
+D6 C8 CA C3
+S9 C9 C2 C4
+DJ D2 DA D3
+SJ CT C5 CJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:63.JT54.AT.A7652 QT8752.A82.3.J43 J9.KQ73.KQJ8765. AK4.96.942.KQT98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "N"]
+2D =1= 3D 3H =2= 3NT
+Pass 5D X AP
+[Note "1:Multi"]
+[Note "2:Pass or correct"]
+[Play "S"]
+SA S3 S2 S9
+SK S6 S5 SJ
+H6 H4 HA H3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "54"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K952.AQJ65.T.K83 QT64.7.AK953.JT2 J83.4.Q876.AQ975 A7.KT9832.J42.64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "5"]
+[Auction "E"]
+Pass 1H =1= Pass 2H =2=
+AP
+[Note "1:7 - 12, 0 - 2 or 6+!H"]
+[Note "2:Pass or correct"]
+[Play "W"]
+DT -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K952.AQJ65.T.K83 QT64.7.AK953.JT2 J83.4.Q876.AQ975 A7.KT9832.J42.64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+Pass 2D =1= X 2H =2=
+3C AP
+[Note "1:Multi"]
+[Note "2:Pass or correct"]
+[Play "S"]
+C4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "55"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J8.QJ862.AK7.832 4.KT975.QT4.AJ64 KQT932.43.953.QT A765.A.J862.K975"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Auction "S"]
+1H =1= Pass Pass 1S
+Pass 1NT 2C 2S
+3C 3S AP
+[Note "1:7 - 12, 0 - 2 or 6+!H"]
+[Play "S"]
+C5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J8.QJ862.AK7.832 4.KT975.QT4.AJ64 KQT932.43.953.QT A765.A.J862.K975"]
+[Scoring "#"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Auction "S"]
+AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "58"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ9.T32.AT8.KQJ3 A852.A96.K762.82 763.Q.QJ93.97654 KT4.KJ8754.54.AT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "2"]
+[Auction "E"]
+Pass 1H =1= X =2= Pass
+1NT =3= AP
+[Note "1:7 - 12, 0 - 2 or 6+!H"]
+[Note "2:13 - 19 bal."]
+[Note "3:Negative"]
+[Play "S"]
+H7 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ9.T32.AT8.KQJ3 A852.A96.K762.82 763.Q.QJ93.97654 KT4.KJ8754.54.AT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2C =1= Pass 3H
+Pass 4H AP
+[Note "1:3!S"]
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "60"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J73.AT97.75.J854 AK54.QJ82.Q98.97 QT982.4.KJ43.AK2 6.K653.AT62.QT63"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+Pass 1C =1= 1S Pass
+1NT =2= Pass 2D =3= Pass
+2S AP
+[Note "1:7 - 12, 3 - 5!H 3 - 5!S"]
+[Note "2:Forcing"]
+[Note "3:3+!D"]
+[Play "S"]
+C3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J73.AT97.75.J854 AK54.QJ82.Q98.97 QT982.4.KJ43.AK2 6.K653.AT62.QT63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "W"]
+Pass 1D =1= 1S X
+2S Pass Pass 3D
+Pass 3H AP
+[Note "1:2+!D"]
+[Play "E"]
+ST -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "61"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ96.K74.K6.KJ74 432.QT.A9752.852 5.AJ98.JT83.A963 AQT87.6532.Q4.QT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "2"]
+[Auction "N"]
+1D =1= Pass 1S Pass
+1NT =2= AP
+[Note "1:0 - 7 any"]
+[Note "2:Maximum"]
+[Play "E"]
+D3 DQ DK DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ96.K74.K6.KJ74 432.QT.A9752.852 5.AJ98.JT83.A963 AQT87.6532.Q4.QT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "4"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S X AP
+[Play "W"]
+H4 HT HJ H2
+SK S2 S5 SQ
+H7 HQ HA H3
+DK D2 DJ DQ
+D6 DA D3 D4
+S9 D5 D8 S7
+HK S3 H8 H5
+C4 D7 DT SA
+S6 C2 H9 H6
+SJ S4 C3 S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "63"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A76.973.T952.Q85 K532.A64.K3.KT74 QJT.JT5.AQ764.92 984.KQ82.J8.AJ63"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1C =1= Pass 1S =2= Pass
+1NT AP
+[Note "1:7 - 12, 3-5!H 3-5!S"]
+[Note "2:Non-forcing"]
+[Play "W"]
+DT DK DA D8
+D5 D3 DQ DJ
+D9 S2 D6 S4
+D2 S3 D7 C3
+H3 H4 D4 S8
+SA S5 SQ S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A76.973.T952.Q85 K532.A64.K3.KT74 QJT.JT5.AQ764.92 984.KQ82.J8.AJ63"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1C =1= Pass 1S Pass
+1NT Pass 3NT AP
+[Note "1:2+!C"]
+[Play "W"]
+H7 H4 HJ HK
+C5 CK C2 C3
+CQ C4 C9 CJ
+H3 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "64"]
+[West "Jorgensen"]
+[North "Balicki"]
+[East "Baldursson"]
+[South "Zmudzinski"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:5.KQJT75.AQT7.AQ T876.A9.83.KT873 KQ92.86432.KJ2.2 AJ43..9654.J9654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Auction "W"]
+1C =1= Pass 1NT ! Pass
+2C =2= Pass 2NT =3= Pass
+3C =4= Pass 3S =5= Pass
+4C =6= X XX =7= 5C
+5H AP
+[Note "1:16+"]
+[Note "2:Relay"]
+[Note "3:4!S 5!H"]
+[Note "4:Relay"]
+[Note "5:4 - 5 - 2 - 2 !"]
+[Note "6:Relay"]
+[Note "7:1 - 2 controls"]
+[Play "N"]
+C7 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1991 Final"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Lasocki"]
+[North "Jonsson"]
+[East "Gawrys"]
+[South "Arnarson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:5.KQJT75.AQT7.AQ T876.A9.83.KT873 KQ92.86432.KJ2.2 AJ43..9654.J9654"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1C =1= Pass 1H Pass
+3S =2= Pass 4H AP
+[Note "1:Polish !C"]
+[Note "2:Splinter"]
+[Play "S"]
+C5 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC s5.lin P
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "65"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K6.AK542.84.JT83 J7.T9.AT9732.754 AQ83.J73.KJ.K962 T9542.Q86.Q65.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass 1C =1= Pass 1H
+Pass 1NT Pass 2C =2=
+Pass 2S =3= Pass 4H
+AP
+[Note "1:Polish !C"]
+[Note "2:Magister"]
+[Note "3:Max. 3!H"]
+[Play "N"]
+DA DJ D6 D4
+C4 C2 CQ C3
+C5 C6 CA C8
+*
+[Stage "Segment 5"]
+[HomeTeam "Iceland +182"]
+[VisitTeam "Poland +149"]
+[Room "Open"]
+{The starting score for this segment includes a 3 IMP Penalty on Poland.
+Bidding sequence not known in closed room}
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K6.AK542.84.JT83 J7.T9.AT9732.754 AQ83.J73.KJ.K962 T9542.Q86.Q65.AQ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+Pass 4H AP
+[Play "N"]
+S9 SK S7 S3
+H6 HA HT H3
+S2 S6 SJ SQ
+S4 D4 H9 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{}
+{Only the EW hands and the position of the@DAQ are known for this board. Bidding or card play are not known }
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "66"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q.75.KT63.AKT975 J765.Q963.954.Q3 A932.AK2.J2.J864 KT84.JT84.AQ87.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+3NT AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q.75.KT63.AKT975 J765.Q963.954.Q3 A932.AK2.J2.J864 KT84.JT84.AQ87.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "12"]
+[Auction "E"]
+5C AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{}
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "67"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKJ9.Q32.976.Q95 QT5.7.Q83.T87432 842.98654.AK52.6 763.AKJT.JT4.AKJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2S ! Pass
+2NT =1= Pass 3C AP
+[Note "1:Good fit"]
+[Play "E"]
+DA D4 D6 D8
+DK DT D7 D3
+S2 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKJ9.Q32.976.Q95 QT5.7.Q83.T87432 842.98654.AK52.6 763.AKJT.JT4.AKJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Auction "S"]
+1C =1= Pass 1D =2= Pass
+1H Pass 2C AP
+[Note "1:Polish !C"]
+[Note "2:Negative"]
+[Play "W"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "68"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:65.432.JT764.953 KT832.K65.AKQ2.4 QJ.AQT987.9.KQT6 A974.J.853.AJ872"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S 2H 4S
+AP
+[Play "E"]
+CK CA C3 C4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:65.432.JT764.953 KT832.K65.AKQ2.4 QJ.AQT987.9.KQT6 A974.J.853.AJ872"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 1S 2H 4S
+AP
+[Play "E"]
+CK CA C3 C4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "69"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A432.J643.85.AQT T86.T2.J732.J965 95.AQ8.K964.K743 KQJ7.K975.AQT.82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1SX"]
+[Result "6"]
+[Auction "N"]
+Pass 1C =1= X XX
+Pass Pass 1D Pass
+Pass X XX Pass
+1S Pass Pass X
+AP
+[Note "1:Polish"]
+[Play "E"]
+S5 SQ S2 S6
+S9 SK S3 S8
+D4 S7 SA ST
+C3 C2 CA C5
+C4 C8 CQ C6
+CK H5 CT CJ
+HA H7 H3 H2
+HQ HK H4 HT
+C7 SJ S4 D2
+H8 H9 HJ D3
+D6 DT H6 D7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A432.J643.85.AQT T86.T2.J732.J965 95.AQ8.K964.K743 KQJ7.K975.AQT.82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1NT =1= Pass
+Pass X AP
+[Note "1:15 - 18"]
+[Play "W"]
+H3 H2 HQ HK
+S2 S6 S5 SK
+SA S8 S9 SQ
+H4 HT HA H5
+HJ D2 H8 H9
+S3 ST D4 S7
+-  D3 D6 DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "70"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K6.QT73.JT2.KQJ3 J85.K9.AK9876.T6 Q732.J54.Q53.A52 AT94.A862.4.9874"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "5"]
+[Auction "E"]
+Pass Pass 1C =1= 2D
+X Pass 2H Pass
+2S AP
+[Note "1:Polish"]
+[Play "S"]
+D4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K6.QT73.JT2.KQJ3 J85.K9.AK9876.T6 Q732.J54.Q53.A52 AT94.A862.4.9874"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D =1= 2D
+X Pass 2H AP
+[Note "1:Precision"]
+[Play "N"]
+DA D3 D4 DT
+SJ S2 SA S6
+S5 S7 ST SK
+HK H4 H2 H3
+S8 SQ S4 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "71"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q83.J3.T543.Q972 AT6.K97.AQJ62.K6 J974.AQ42.K97.A8 K52.T865.8.JT543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 1C =1= Pass
+1D =2= Pass 1NT Pass
+2C Pass 2D Pass
+2H =3= AP
+[Note "1:16+"]
+[Note "2:0 - 1 controls"]
+[Note "3:Scrambling"]
+[Play "W"]
+D3 DQ DK D8
+D4 DJ D9 S2
+S8 S6 S4 SK
+C2 CK CA C3
+HJ HK H2 H5
+CQ C6 C8 CT
+H3 H7 HQ H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q83.J3.T543.Q972 AT6.K97.AQJ62.K6 J974.AQ42.K97.A8 K52.T865.8.JT543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1NT =1= Pass
+2C Pass 2D Pass
+2H Pass 2NT Pass
+3C AP
+[Note "1:15 18"]
+[Play "W"]
+D4 DA D7 D8
+D3 DQ DK C3
+C2 CK CA C4
+D5 DJ D9 S2
+CQ C6 C8 CJ
+S3 S6 S9 SK
+C7 D2 S4 CT
+S8 SA S7 S5
+SQ ST SJ C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{No Information is available, other than contract and result, for boards 72, 73 and 74}
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "72"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 3NT AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 3NT AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "73"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+4S AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "74"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+4S AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal ""]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+4S AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{}
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "75"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQT82.QJ.AKJT3.3 64.T975.Q92.AQ85 J5.6432.85.KJT97 K973.AK8.764.642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 3D Pass 3S
+AP
+[Play "N"]
+HT -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQT82.QJ.AKJT3.3 64.T975.Q92.AQ85 J5.6432.85.KJT97 K973.AK8.764.642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1C =1= Pass 1D
+Pass 1S Pass 1NT
+Pass 3D Pass 3S
+AP
+[Note "1:16+"]
+[Play "N"]
+HT -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "76"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8432.KJ975.J5.5 KT65.864.A6.K743 9.AT3.QT974.AQT8 QJ7.Q2.K832.J962"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+3H Pass 4H AP
+[Play "N"]
+H4 H3 HQ HK
+DA D4 D2 DJ
+D6 D7 DK D5
+H6 D9 D3 C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8432.KJ975.J5.5 KT65.864.A6.K743 9.AT3.QT974.AQT8 QJ7.Q2.K832.J962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1D =1= Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+3H Pass 4H AP
+[Note "1:Precision"]
+[Play "S"]
+D2 D5 DA D4
+DK DJ D6 D7
+C2 C5 CK CA
+H2 HJ H4 H3
+HQ HK H6 HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "77"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K754.AKQ9752.Q6. 98.8.K875.AT9763 AJT632.JT.A2.J52 Q.643.JT943.KQ84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 2S Pass 4C
+Pass 4D Pass 5C
+Pass 5H =1= Pass 5NT =2=
+Pass 6D Pass 6S
+AP
+[Note "1:cuebid!"]
+[Note "2:Ask for aces"]
+[Play "S"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K754.AKQ9752.Q6. 98.8.K875.AT9763 AJT632.JT.A2.J52 Q.643.JT943.KQ84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7S"]
+[Result "13"]
+[Auction "N"]
+Pass 1S Pass 2C =1=
+X XX =2= Pass 2D =3=
+Pass 2S =4= Pass 2NT =5=
+Pass 3C =6= Pass 3D =7=
+Pass 3S =8= Pass 4C =9=
+Pass 4H ! Pass 7S
+AP
+[Note "1:GF Relay"]
+[Note "2:6+!S"]
+[Note "3:Relay"]
+[Note "4:6!S 2!H"]
+[Note "5:Relay"]
+[Note "6:6!S 2!H 2!D 3!C"]
+[Note "7:Relay"]
+[Note "8:4 controls"]
+[Note "9:Relay"]
+[Play "S"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "78"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q876.KT984.A642. AJ5.AJ62.Q.Q9743 T93.75.T97.JT652 K42.Q3.KJ853.AK8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "2"]
+[Auction "E"]
+Pass 1NT X ! XX
+Pass Pass 2H X
+2S Pass Pass X
+AP
+[Play "S"]
+S2 S6 SJ S3
+-  -  DQ -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q876.KT984.A642. AJ5.AJ62.Q.Q9743 T93.75.T97.JT652 K42.Q3.KJ853.AK8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Auction "E"]
+Pass 1D 1H 2C
+Pass 2NT Pass 3S
+Pass 4C Pass 4H
+Pass 4S Pass 4NT
+Pass 5D Pass 6C
+AP
+[Play "E"]
+H7 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "79"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A976.AJ975.K.A76 5.KT42.QJT976.Q5 82.Q6.85432.J932 KQJT43.83.A.KT84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+1S 2H Pass Pass
+2S AP
+[Play "W"]
+HA H2 H6 H3
+H7 HK HQ H8
+SA S5 S2 ST
+H9 HT S8 C4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A976.AJ975.K.A76 5.KT42.QJT976.Q5 82.Q6.85432.J932 KQJT43.83.A.KT84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Auction "S"]
+1S 2H Pass Pass
+2S Pass 3D AP
+[Play "E"]
+HQ H3 H5 HK
+S2 ST SA S5
+H6 H8 HA H2
+C2 C4 CA C5
+S8 DA HJ H4
+C3 C8 C6 CQ
+D2 S3 DK DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "80"]
+[West "Lasocki"]
+[North "Johansson"]
+[East "Gawrys"]
+[South "Arnthorson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:84.J8.863.KQ7654 63.AK42.AT2.A982 QJT.T95.KJ754.JT AK9752.Q763.Q9.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass 4S
+AP
+[Play "E"]
+CJ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl Final 1991"]
+[Site "Yokohama"]
+[Date "1991.00.00"]
+[Board "#"]
+[West "Jorgensen"]
+[North "Symanowski"]
+[East "Baldursson"]
+[South "Martens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:84.J8.863.KQ7654 63.AK42.AT2.A982 QJT.T95.KJ754.JT AK9752.Q763.Q9.3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 1C =1= 1D 1S
+Pass 1NT =2= Pass 2H
+Pass 4H AP
+[Note "1:Natural or 15 bal."]
+[Note "2:15 - 18"]
+[Play "W"]
+D8 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

@@ -1,0 +1,6197 @@
+% PBN 2.0
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "1"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT64.A64.J7.KJ96 K982.Q93.AK8.AQ4 Q5.T852.96543.73 J73.KJ7.QT2.T852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "EW 400"]
+[Auction "N"]
+1C      X       Pass    1NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+S4 S2 SQ S3
+S6 S8 S5 S7
+HA H3 H5 HJ
+SA S9 D3 SJ
+H6 H9 HT HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "1"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT64.A64.J7.KJ96 K982.Q93.AK8.AQ4 Q5.T852.96543.73 J73.KJ7.QT2.T852"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3DX"]
+[Result "5"]
+[Score "NS -800"]
+[Auction "N"]
+1NT     X       2C      X
+Pass    Pass    2D      X
+2S      X       3D      Pass
+Pass    X       Pass    Pass
+Pass
+[Play "W"]
+C2 CJ CQ C3
+H7 H4 HQ H2
+HK HA H9 H5
+HJ H6 H3 HT
+S3 S4 SK S5
+C5 C6 CA C7
+S7 S6 S2 SQ
+DQ D7 D8 D3
+C8 C9 C4 H8
+D2 DJ DK D4
+SJ ST S8 D5
+DT CK DA D6
+CT SA S9 D9
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "2"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:62.9854.KJ6.QJ85 QT4.QT2.Q83.A762 AKJ853.6.942.KT4 97.AKJ73.AT75.93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "E"]
+Pass    Pass    1S      2H
+Pass    2NT     Pass    Pass
+Pass
+[Play "W"]
+H6 H3 H8 HT
+D2 H7 H4 HQ
+S8 HJ H5 H2
+CT HK H9 C2
+D9 HA S2 C6
+D4 DA D6 D3
+S3 D5 DK D8
+C4 C3 C5 CA
+S5 D7 DJ DQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "2"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:62.9854.KJ6.QJ85 QT4.QT2.Q83.A762 AKJ853.6.942.KT4 97.AKJ73.AT75.93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "6"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    Pass    1S      X
+1NT     X       2S      Pass
+Pass    2NT     Pass    Pass
+Pass
+[Play "W"]
+D2 D5 DK D3
+SJ S7 S6 S4
+SA S9 S2 ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "3"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:853.K52.AT8.8764 QJ2.QJT6.J973.KJ AKT974.A83.K4.Q2 6.974.Q652.AT953"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "S"]
+Pass    Pass    1S      Pass
+2S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+CT C4 CK C2
+CA C6 CJ CQ
+H4 H2 HT HA
+S6 S3 S2 SA
+D6 S5 SJ SK
+C3 S8 SQ S4
+H9 HK H6 H8
+D2 D8 D3 DK
+H7 H5 D7 ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "3"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:853.K52.AT8.8764 QJ2.QJT6.J973.KJ AKT974.A83.K4.Q2 6.974.Q652.AT953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1D      Pass    1S      Pass
+1NT     Pass    2S      Pass
+3S      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+HQ HA H4 H2
+S2 SA S6 S3
+SJ SK D2 S5
+SQ S4 H7 S8
+CK C2 C3 C4
+CJ CQ CA C6
+D3 H3 CT C7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "4"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T5.AK732.AJ8.Q54 J9872.5.764.AK82 K64.Q4.KQT953.J6 AQ3.JT986.2.T973"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "EW 660"]
+[Auction "W"]
+1H      Pass    2D      Pass
+2NT     Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+S7 S4 SQ S5
+S2 S6 SA ST
+S8 SK S3 H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "4"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T5.AK732.AJ8.Q54 J9872.5.764.AK82 K64.Q4.KQT953.J6 AQ3.JT986.2.T973"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "7"]
+[Score "NS 800"]
+[Auction "W"]
+1H      Pass    2D      Pass
+2H      Pass    3H      Pass
+4H      Pass    Pass    X
+Pass    Pass    Pass
+[Play "N"]
+CA C6 CT C4
+S2 SK SA S5
+S7 S4 SQ ST
+CK CJ C7 C5
+SJ S6 S3 H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "5"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQ75.A7.Q6.A982 JT63.KQ65.AT.K76 92.J432.95432.T5 84.T98.KJ87.QJ43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS 80"]
+[Auction "N"]
+1S      Pass    Pass    Pass
+[Play "E"]
+HK H2 H8 HA
+C6 CT CJ C2
+S3 S2 S4 SA
+C7 C5 C3 CA
+CK S9 C4 C8
+DA D9 DJ DQ
+HQ H3 H9 H7
+DT D2 DK D6
+S6 D3 D8 S5
+H5 HJ HT C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "5"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQ75.A7.Q6.A982 JT63.KQ65.AT.K76 92.J432.95432.T5 84.T98.KJ87.QJ43"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS 80"]
+[Auction "N"]
+1C      Pass    1D      Pass
+1S      Pass    Pass    Pass
+[Play "E"]
+HK H2 H8 HA
+C6 CT CJ C2
+S3 S2 S4 SA
+C7 C5 C3 CA
+CK S9 C4 C8
+DA D9 DJ DQ
+HQ H3 H9 H7
+DT D2 DK D6
+S6 D3 D8 S5
+H5 HJ HT C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "6"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT7.J72.QT5.AQJ9 63.K4.AK4.K87532 Q952.A98.9763.T4 KJ84.QT653.J82.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+1C      2C      Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+H2 H4 HA H3
+H7 HK H9 H5
+SA S6 S2 SJ
+HJ C2 H8 HQ
+CA C3 C4 C6
+ST S3 S5 SK
+D5 DA D3 D2
+C9 CK CT S4
+CJ C5 D6 S8
+S7 C7 S9 H6
+DT C8 SQ HT
+DQ DK D7 D8
+CQ D4 D9 DJ
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "6"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT7.J72.QT5.AQJ9 63.K4.AK4.K87532 Q952.A98.9763.T4 KJ84.QT653.J82.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "E"]
+1NT     Pass    Pass    Pass
+[Play "S"]
+C2 CT C6 C9
+DK D3 D2 DT
+HK HA H3 H2
+DA D6 D8 DQ
+H4 H8 HQ H7
+C3 H9 H5 HJ
+C5 C4 S4 CA
+D4 D7 DJ D5
+C7 S2 HT S7
+S3 S5 H6 CJ
+S6 SQ S8 ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "7"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J84.Q42.K732.986 5.JT9.AQJT85.AQ3 Q73.AK75.94.T542 AKT962.863.6.KJ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "S"]
+Pass    1C      Pass    1S
+Pass    2D      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+HK H3 H4 HJ
+HA H6 HQ HT
+H5 H8 H2 H9
+D4 D6 DK DQ
+D9 S2 D7 DA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "7"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J84.Q42.K732.986 5.JT9.AQJT85.AQ3 Q73.AK75.94.T542 AKT962.863.6.KJ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    2D      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+HA H3 H4 H9
+C2 CK C6 C3
+D4 D6 D2 DQ
+D9 S2 D3 DA
+C4 S6 DK DJ
+H5 H6 HQ HT
+HK H8 H2 HJ
+H7 S9 C8 D5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "8"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J954.J83.AT2.876 87.QT9.Q54.JT543 KT.AK42.J976.KQ2 AQ632.765.K83.A9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+Pass    Pass
+[Play "S"]
+S3 S4 S7 ST
+D3 DT DQ D6
+SA S5 S8 SK
+SQ S9 C3 H2
+S2 SJ D4 C2
+CA C6 C4 CK
+S6 H3 D5 H4
+H7 H8 HT HA
+D8 D2 C5 DJ
+DK DA H9 D9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "8"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J954.J83.AT2.876 87.QT9.Q54.JT543 KT.AK42.J976.KQ2 AQ632.765.K83.A9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+Pass    Pass
+[Play "S"]
+S2 S4 S7 ST
+D3 D2 DQ D9
+CA C6 C3 CK
+C9 C7 C4 C2
+H7 HJ HQ HK
+SA S5 S8 SK
+H5 H3 HT H2
+H6 H8 H9 HA
+D8 DT D4 D6
+DK DA D5 D7
+S3 C8 CJ CQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "9"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:532.JT83.KQT63.6 A7.642.987.KJ875 JT864.K5.AJ.AQ32 KQ9.AQ97.542.T94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+2S      Pass    Pass    Pass
+[Play "W"]
+CT C6 C8 CQ
+C4 S2 C5 C2
+S9 S3 SA S4
+HA H3 H2 HK
+HQ H8 H4 H5
+SQ S5 S7 S6
+C9 HT CJ CA
+SK HJ D7 S8
+H9 D3 H6 ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "9"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:532.JT83.KQT63.6 A7.642.987.KJ875 JT864.K5.AJ.AQ32 KQ9.AQ97.542.T94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+Pass    Pass
+[Play "W"]
+CT C6 C8 CQ
+C4 S2 C5 C2
+SK S3 S7 ST
+D2 D3 D7 DA
+S9 S5 SA S4
+D4 DK D9 DJ
+D5 DQ D8 C3
+SQ D6 H2 H5
+HA H3 H4 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "10"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A74.KQ84.J98.K97 KQT.J762.AQ74.52 J9653.T3.3.AJ843 82.A95.KT652.QT6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "E"]
+1C      Pass    1S      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+D5 D8 DA D3
+CQ CK C5 CJ
+S2 S4 SQ S3
+C6 C7 C2 CA
+HA H4 H2 H3
+CT C9 D7 C3
+D2 D9 DQ S5
+S8 SA ST S6
+H5 S7 SK S9
+D6 DJ D4 SJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "10"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A74.KQ84.J98.K97 KQT.J762.AQ74.52 J9653.T3.3.AJ843 82.A95.KT652.QT6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "E"]
+1H      Pass    1S      Pass
+1NT     Pass    2C      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+D2 D8 DA D3
+D5 D9 D4 S3
+H5 HQ H2 H3
+CQ C9 C5 CJ
+D6 DJ DQ S5
+S2 S4 ST S6
+S8 SA SQ S9
+C6 CK C2 C3
+CT C7 SK C4
+HA H4 H6 HT
+H9 HK H7 C8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "11"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T63.QT653.K8.T87 7.AJ.T9652.AQ543 98.K742.AQJ4.K92 AKQJ542.98.73.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "S"]
+Pass    1C      Pass    1S
+Pass    2C      X       4S
+Pass    Pass    Pass
+[Play "S"]
+DK D2 D4 D3
+D8 D9 DJ D7
+C7 D5 DQ SJ
+S3 S7 S8 SA
+S6 C3 S9 SK
+ST C4 H7 SQ
+CT CQ CK C6
+HQ HA H2 H8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "11"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T63.QT653.K8.T87 7.AJ.T9652.AQ543 98.K742.AQJ4.K92 AKQJ542.98.73.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    2C      Pass    4S
+Pass    Pass    Pass
+[Play "S"]
+DK D2 D4 D7
+D8 D5 DJ D3
+C7 D6 DQ SJ
+S3 S7 S8 SA
+S6 C3 S9 SK
+ST C4 H7 SQ
+C8 C5 CK CJ
+CT CQ C2 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "12"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J98.T82.4.AKQT83 3.AK763.KJ85.754 K742.954.AQT.J96 AQT65.QJ.97632.2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "W"]
+1C      1H      X       1S
+Pass    Pass    1NT     2H
+3C      Pass    Pass    Pass
+[Play "N"]
+S3 S2 SQ S8
+H3 H4 HQ H2
+D8 S4 SA S9
+C4 S7 S5 SJ
+HA H5 HJ H8
+HK H9 D2 HT
+C5 C6 C2 C3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "12"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J98.T82.4.AKQT83 3.AK763.KJ85.754 K742.954.AQT.J96 AQT65.QJ.97632.2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1H      Pass    1S
+3C      Pass    Pass    3D
+Pass    4D      Pass    Pass
+Pass
+[Play "W"]
+CA C4 C6 C2
+D4 D5 DT D2
+C3 C5 CJ D3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "13"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:972.7.T985.KT632 8.T532.AQJ42.J87 AJ5.AKJ64.3.AQ54 KQT643.Q98.K76.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Auction "N"]
+Pass    Pass    1H      1S
+Pass    2D      Pass    3D
+4C      Pass    5C      Pass
+Pass    Pass
+[Play "E"]
+S8 SA ST S2
+H2 HA H8 H7
+H3 HK H9 S7
+H5 H4 HQ C2
+C7 C4 C9 CK
+C8 CA S6 C3
+CJ CQ S3 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "13"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:972.7.T985.KT632 8.T532.AQJ42.J87 AJ5.AKJ64.3.AQ54 KQT643.Q98.K76.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "N"]
+Pass    Pass    1C      1S
+Pass    Pass    X       Pass
+2C      Pass    2H      Pass
+Pass    Pass
+[Play "W"]
+SK S2 S8 SA
+H8 H7 H2 HA
+H9 S7 H3 HK
+HQ D5 H5 H4
+SQ S9 C7 S5
+S3 C2 HT SJ
+D6 D8 DA D3
+D7 D9 D2 H6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "14"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK8742.A9.KJ3.K3 .QT8732.A982.QJ6 J63.J64.65.A9875 QT95.K5.QT74.T42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+1D      2H      Pass    Pass
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+CQ C5 C2 CK
+H2 S3 S5 SA
+C6 CA C4 C3
+DA D5 D4 DK
+HT H4 H5 HA
+D2 D6 DQ DJ
+H3 H6 HK H9
+CJ C7 CT S2
+D8 S6 D7 D3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "14"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK8742.A9.KJ3.K3 .QT8732.A982.QJ6 J63.J64.65.A9875 QT95.K5.QT74.T42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+1C      2H      X       Pass
+2S      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "S"]
+CQ CA C2 C3
+DA D5 D4 DK
+HT H4 H5 HA
+H2 S3 S5 SA
+C6 C5 C4 CK
+D2 D6 D7 D3
+H3 H6 HK H9
+CJ C7 CT S2
+D8 S6 DT DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "15"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJ84.A87.632.Q92 KT3.T965.Q5.AK87 976.J.A9874.T543 Q52.KQ432.KJT.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "S"]
+Pass    1C      Pass    1H
+Pass    2H      Pass    2NT
+Pass    4H      Pass    Pass
+Pass
+[Play "S"]
+H7 H5 HJ HK
+H8 H9 S6 H2
+D2 DQ DA DT
+D3 D5 D4 DJ
+D6 S3 D7 DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "15"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJ84.A87.632.Q92 KT3.T965.Q5.AK87 976.J.A9874.T543 Q52.KQ432.KJT.J6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "S"]
+Pass    1H      Pass    4H
+Pass    Pass    Pass
+[Play "N"]
+S7 S2 SJ SK
+HJ HK H7 H5
+D4 H2 HA H6
+S6 S5 SA S3
+C5 H3 H8 H9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "16"]
+[West "Facchini"]
+[North "Soloway"]
+[East "Zuchelli"]
+[South "Swanson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J642.Q954.A96.72 A7.AJ6.K54.AKT63 K5.KT873.2.QJ985 QT983.2.QJT873.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "9"]
+[Score "NS -150"]
+[Auction "W"]
+Pass    Pass    Pass    6D
+Pass    Pass    Pass
+[Play "W"]
+C7 CA C5 C4
+DA D4 D2 DQ
+H4 HA H3 H2
+H5 H6 H7 D3
+S2 S7 SK SQ
+C2 C3 CQ D7
+S4 SA S5 S3
+H9 HJ H8 DT
+S6 D5 HT ST
+D9 C6 C8 D8
+D6 DK HK DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "16"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J642.Q954.A96.72 A7.AJ6.K54.AKT63 K5.KT873.2.QJ985 QT983.2.QJT873.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1C      1H      1S
+2H      2NT     Pass    3D
+Pass    3NT     Pass    5D
+Pass    6D      Pass    Pass
+Pass
+[Play "W"]
+H4 HA H3 H2
+H5 H6 H7 D3
+C2 CA C5 C4
+C7 CK C8 S3
+H9 HJ H8 D7
+D6 D4 D2 DT
+S2 SA S5 S8
+S4 S7 SK S9
+D9 C3 CQ D8
+DA D5 HT DJ
+S6 C6 C9 ST
+*
+
+% PBN 2.0
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "17"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ862.QJ.K843.Q .A9654.J75.K5432 9543.K83.A62.AJ6 QT7.T72.QT9.T987"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+1S      Pass    2NT     Pass
+3D      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+C5 C6 C7 CQ
+H4 S3 S7 SA
+HA H3 H2 HJ
+C2 CJ C8 D3
+C3 S4 ST SJ
+H5 S5 SQ SK
+D5 DA D9 D4
+D7 D2 DT DK
+H6 H8 H7 HQ
+H9 S9 HT S2
+DJ HK DQ D8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "17"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ862.QJ.K843.Q .A9654.J75.K5432 9543.K83.A62.AJ6 QT7.T72.QT9.T987"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+1S      Pass    2C      Pass
+2D      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+C3 C6 C7 CQ
+H4 S3 S7 SA
+H5 H3 H2 HJ
+D5 DA D9 D3
+C2 CA C8 HQ
+H9 S4 ST SJ
+C5 S5 SQ SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "18"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KJ6.KT3.QT9842.T A742.J652.J653.7 T95.AQ74.AK7.963 Q83.98..AKQJ8542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "4"]
+[Score "NS 250"]
+[Auction "E"]
+Pass    Pass    1NT     Pass
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+CJ CT C7 C3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "18"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KJ6.KT3.QT9842.T A742.J652.J653.7 T95.AQ74.AK7.963 Q83.98..AKQJ8542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    Pass    1H      3C
+Pass    4C      Pass    Pass
+Pass
+[Play "E"]
+H3 H2 HA H8
+D2 D3 DK C2
+CT C7 C3 CA
+D4 D5 C6 CK
+D8 D6 C9 CQ
+D9 S2 H4 CJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "19"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT94.K.97.A97532 QJ.Q.AQT8532.KQ6 A2.T9752.64.JT84 87653.AJ8643.KJ."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Auction "S"]
+Pass    1D      Pass    1H
+X       3D      Pass    3S
+Pass    3NT     Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+S4 SJ SA S3
+SK SQ S2 S5
+CA C6 C4 H3
+S9 HQ D4 S6
+C2 CK C8 S7
+C3 CQ CT S8
+D7 D2 D6 DK
+HK D3 H2 HA
+D9 DA H5 DJ
+C5 D5 CJ H4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "19"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT94.K.97.A97532 QJ.Q.AQT8532.KQ6 A2.T9752.64.JT84 87653.AJ8643.KJ."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "S"]
+Pass    1D      Pass    1H
+X       3D      Pass    3H
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+CJ S3 C2 CQ
+H2 HA HK HQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "20"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJ.AQ82.JT96.654 95.T9765.AKQ3.KJ Q8632.43.842.Q93 AT74.KJ.75.AT872"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "W"]
+Pass    1H      Pass    2C
+Pass    2D      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+DJ DA D2 D5
+HA H5 H4 HK
+SK S5 S2 SA
+HQ H6 H3 HJ
+C4 CJ CQ CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "20"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJ.AQ82.JT96.654 95.T9765.AKQ3.KJ Q8632.43.842.Q93 AT74.KJ.75.AT872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass    1H      Pass    2C
+Pass    2D      Pass    2S
+Pass    3C      Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+S3 SA SJ S5
+D2 D5 D6 DA
+D4 D7 D9 DK
+D8 C2 DT DQ
+CQ HJ DJ D3
+C3 C7 C4 CK
+C9 CA C5 CJ
+H3 CT C6 S9
+H4 HK HA H5
+S2 S4 SK H6
+S6 S7 H2 HT
+S8 ST H8 H7
+SQ C8 HQ H9
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "21"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9742.A873.Q7.A9 K65.Q95.963.QJ53 A83.KJ4.A85.K872 JT.T62.KJT42.T64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1S      Pass    2NT     Pass
+3H      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+CQ C2 C4 CA
+S5 SA ST S2
+SK S3 SJ SQ
+D6 D5 DK D7
+D9 D8 D2 DQ
+S6 S8 H2 S9
+H5 HJ H6 H3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "21"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9742.A873.Q7.A9 K65.Q95.963.QJ53 A83.KJ4.A85.K872 JT.T62.KJT42.T64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1S      Pass    2C      Pass
+2H      Pass    3D      Pass
+3NT     Pass    4H      Pass
+Pass    Pass
+[Play "E"]
+C3 C2 CT CA
+H5 HJ H2 H3
+SK S3 SJ SQ
+D3 D5 DK D7
+D9 D8 D2 DQ
+S5 SA ST S2
+H9 HK H6 H7
+HQ H4 HT HA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "22"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQT863.KT53.4.92 J7.A982.QJ.T7653 A954.Q.K9865.J84 2.J764.AT732.AKQ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+1S      X       3S      4H
+Pass    Pass    Pass
+[Play "E"]
+SK S7 S4 S2
+SQ SJ S5 H4
+H3 H2 HQ H6
+S3 DJ S9 H7
+C2 C3 C4 CA
+C9 C5 C8 CK
+HK HA D5 HJ
+D4 DQ D6 D2
+H5 C6 CJ CQ
+HT H8 D8 D3
+S6 H9 SA D7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "22"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQT863.KT53.4.92 J7.A982.QJ.T7653 A954.Q.K9865.J84 2.J764.AT732.AKQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 200"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+1S      X       3S      4H
+4S      X       Pass    Pass
+Pass
+[Play "S"]
+DQ D5 D2 D4
+DJ DK DA S3
+S7 S4 S2 SK
+SJ SA D3 S6
+C3 D9 DT S8
+HA HQ H4 H3
+C5 C4 CA C2
+C6 C8 CK C9
+C7 CJ CQ ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "23"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QJT86.KJ96.T2.Q3 72.T8.Q8765.JT82 A543.A74.KJ4.K76 K9.Q532.A93.A954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+Pass    Pass    1S      X
+2NT     Pass    3NT     Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+H2 H9 HT HA
+C4 CQ C2 C6
+SK SQ S2 S3
+H3 HJ H8 H7
+S9 SJ S7 S4
+D3 S6 D5 SA
+H5 H6 D6 H4
+HQ HK C8 C7
+CA C3 CT CK
+DA D2 D7 D4
+D9 DT DQ DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "23"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QJT86.KJ96.T2.Q3 72.T8.Q8765.JT82 A543.A74.KJ4.K76 K9.Q532.A93.A954"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+Pass    Pass    1NT     Pass
+2C      Pass    2S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+H5 HJ H8 H4
+SK SJ S2 S3
+H2 H6 HT HA
+S9 ST S7 S4
+C4 CQ C2 C6
+D3 S6 D5 SA
+H3 H9 D6 H7
+HQ HK C8 C7
+CA C3 CT CK
+DA D2 D7 D4
+D9 DT DQ DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "24"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJT9653.K83..653 4.QJT765.T865.K2 KQ2.9.AKQ42.QJ84 87.A42.J973.AT97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+4S      Pass    Pass    Pass
+[Play "N"]
+CK C4 CT C3
+C2 CQ CA C5
+H5 H9 HA H3
+S4 C8 C7 C6
+HQ D2 H2 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "24"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJT9653.K83..653 4.QJT765.T865.K2 KQ2.9.AKQ42.QJ84 87.A42.J973.AT97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+1S      Pass    2D      Pass
+2S      Pass    4H      Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+CK C4 C9 C3
+C2 CQ CA C5
+S4 C8 C7 C6
+HQ H9 HA H3
+D5 CJ CT H8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "25"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:6.JT.876.KQJT962 QJ.K9764.AT43.73 AT8743.AQ3.QJ.54 K952.852.K952.A8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Auction "N"]
+3C      Pass    Pass    Pass
+[Play "E"]
+SQ SA S2 S6
+SJ S3 S5 C2
+HK HA H2 HJ
+C3 C4 C8 CK
+D3 DQ DK D6
+C7 C5 CA C6
+DA DJ D2 D7
+DT S4 D5 D8
+D4 S7 D9 C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "25"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:6.JT.876.KQJT962 QJ.K9764.AT43.73 AT8743.AQ3.QJ.54 K952.852.K952.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+2C      Pass    2S      Pass
+3C      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+D2 D6 DA DJ
+DK D7 D3 DQ
+D9 D8 D4 S3
+D5 C2 DT S4
+S2 S6 SQ SA
+C8 CK C3 C5
+CA CQ C7 C4
+SK C6 SJ S7
+S5 C9 H4 S8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "26"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK.K876.T43.AT83 J98543.A43..7542 7.T2.Q8752.KQJ96 QT62.QJ95.AKJ96."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "11"]
+[Score "NS 990"]
+[Auction "E"]
+1NT     Pass    2S      Pass
+2NT     Pass    3C      X
+Pass    4S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "W"]
+CK S2 C3 C2
+D2 DA D3 H3
+D5 DK D4 H4
+H2 H5 H6 HA
+C6 S6 C8 C4
+D7 D6 DT S3
+C9 ST CT C5
+D8 D9 H7 S4
+CJ SQ CA C7
+DQ DJ SA S5
+HT H9 HK S8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "26"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK.K876.T43.AT83 J98543.A43..7542 7.T2.Q8752.KQJ96 QT62.QJ95.AKJ96."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "11"]
+[Score "NS 990"]
+[Auction "E"]
+1H      1S      X       4S
+X       Pass    Pass    Pass
+[Play "W"]
+CK S2 C3 C2
+D2 DA D3 H3
+D5 DK D4 H4
+H2 H5 H6 HA
+C6 S6 C8 C4
+D7 D6 DT S3
+C9 ST CT C5
+D8 D9 H7 S4
+CJ SQ CA C7
+DQ DJ SA S5
+HT H9 HK S8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "27"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:763.AQ3.KQ52.KJ6 Q952.K764.97.T75 AJT4.JT2.A8.Q842 K8.985.JT643.A93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "S"]
+1D      Pass    1S      Pass
+1NT     Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+H4 HT H9 H3
+C5 C2 C3 CK
+C7 CQ CA C6
+HK H2 H8 HQ
+H6 HJ H5 HA
+S2 ST SK S3
+CT C4 C9 CJ
+S5 SJ S8 S6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "27"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:763.AQ3.KQ52.KJ6 Q952.K764.97.T75 AJT4.JT2.A8.Q842 K8.985.JT643.A93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "S"]
+1NT     Pass    2C      Pass
+2D      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+S2 SJ SK S3
+D7 D8 D4 DQ
+C5 CQ CA C6
+D9 DA D3 D2
+HK H2 H5 HQ
+C7 C8 C9 CJ
+S5 ST S8 S7
+H4 HJ H8 H3
+H6 HT H9 HA
+CT C2 C3 CK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "28"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J9.943.Q952.T542 AT64.QJ.A64.Q876 752.AKT86.KJT.J3 KQ83.752.873.AK9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1C      1H      X
+1S      X       2H      4S
+Pass    Pass    Pass
+[Play "W"]
+H4 HJ HK H2
+H3 HQ HA H5
+D2 D4 DJ D3
+D5 DA DT D7
+S9 S4 S2 SK
+SJ ST S5 SQ
+H9 SA H6 H7
+D9 S6 S7 S8
+DQ D6 C3 S3
+C2 C6 CJ CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "28"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J9.943.Q952.T542 AT64.QJ.A64.Q876 752.AKT86.KJT.J3 KQ83.752.873.AK9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "W"]
+Pass    1D      1H      1S
+Pass    2S      Pass    2NT
+Pass    3S      Pass    Pass
+Pass
+[Play "W"]
+H3 HJ HK H2
+H4 HQ HA H5
+SJ SA S2 S3
+S9 S4 S5 SK
+H9 S6 H6 H7
+D2 ST S7 S8
+C2 C6 C3 CA
+C4 C7 CJ CK
+C5 C8 H8 C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "29"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:84.QT86.86.JT653 A9653.54.J53.AK9 K2.AJ73.KQ92.Q82 QJT7.K92.AT74.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "N"]
+Pass    1S      X       2NT
+Pass    3S      Pass    Pass
+Pass
+[Play "S"]
+DK DA D8 D3
+S2 SQ S4 SA
+SK S7 S8 S3
+C2 C4 CT CA
+DQ D4 D6 DJ
+HA H2 H6 H4
+C8 C7 CJ CK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "29"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:84.QT86.86.JT653 A9653.54.J53.AK9 K2.AJ73.KQ92.Q82 QJT7.K92.AT74.74"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "N"]
+Pass    1S      X       XX
+2C      X       Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+DK DA D8 D3
+S2 SQ S4 SA
+SK S7 S8 S3
+D2 D4 D6 DJ
+DQ D7 C3 D5
+HA H2 H6 H4
+D9 DT C5 H5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "30"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A94.K9753.T3.AQT KJ762.QJ4.K98.J3 Q8.T62.QJ2.98542 T53.A8.A7654.K76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1H      1S      Pass    2H
+Pass    2S      Pass    3S
+Pass    Pass    Pass
+[Play "W"]
+H6 H8 HK H4
+H2 HA H3 HQ
+SQ S3 S4 SJ
+C5 C6 CQ C3
+C2 C7 CA CJ
+C4 CK CT D8
+S8 ST SA S2
+C8 S5 S9 SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "30"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A94.K9753.T3.AQT KJ762.QJ4.K98.J3 Q8.T62.QJ2.98542 T53.A8.A7654.K76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1H      1S      Pass    3S
+Pass    Pass    Pass
+[Play "W"]
+H2 H8 HK H4
+H6 HA H3 HJ
+SQ ST S4 S2
+C9 C6 CQ C3
+D2 D4 D3 DK
+C2 C7 CA CJ
+HT S3 H5 HQ
+S8 S5 S9 SJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "31"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A3.J76.T54.J9653 KJ7652.T54..Q742 QT9.AQ3.KQJ62.A8 84.K982.A9873.KT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "S"]
+Pass    2S      2NT     Pass
+Pass    Pass
+[Play "E"]
+S8 S3 SK S9
+S4 SA S6 ST
+DA D4 S2 DQ
+H2 H6 HT HQ
+CK C3 C2 C8
+D9 DT H4 D2
+CT C5 C4 CA
+H8 C6 S5 SQ
+D3 D5 C7 DK
+D7 C9 H5 DJ
+D8 CJ S7 D6
+H9 HJ SJ H3
+HK H7 CQ HA
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "31"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A3.J76.T54.J9653 KJ7652.T54..Q742 QT9.AQ3.KQJ62.A8 84.K982.A9873.KT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    2S      X       Pass
+3C      Pass    3D      Pass
+Pass    Pass
+[Play "E"]
+S8 SA S2 S9
+S4 S3 SK ST
+HK H6 H4 H3
+H2 H7 HT HQ
+D3 D4 S5 DJ
+H8 HJ H5 HA
+D7 DT S6 SQ
+DA D5 S7 DK
+D8 C3 SJ DQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "32"]
+[West "Garozzo"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J.T8752.86532.84 AK5.AKQJ9.KJ.JT9 Q8742.63.AT97.Q2 T963.4.Q4.AK7653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Auction "W"]
+Pass    2C      Pass    3C
+Pass    3H      Pass    3S
+Pass    3NT     Pass    4NT
+Pass    6NT     Pass    Pass
+Pass
+[Play "E"]
+S7 S3 SJ SA
+DA D4 D5 DK
+D7 DQ D2 DJ
+H3 H4 H7 HA
+H6 S6 H2 HK
+S2 C3 H5 HQ
+CQ CA C4 CJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Hamilton Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "32"]
+[West "Wolff"]
+[North "Pittala"]
+[East "Hamman"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J.T8752.86532.84 AK5.AKQJ9.KJ.JT9 Q8742.63.AT97.Q2 T963.4.Q4.AK7653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Auction "W"]
+Pass    1C      Pass    1NT
+Pass    2H      Pass    3C
+Pass    3H      Pass    3S
+Pass    4C      Pass    5C
+Pass    6C      Pass    Pass
+Pass
+[Play "E"]
+DA D4 D6 DJ
+D7 DQ D3 DK
+C2 CA C4 CJ
+H3 H4 H2 HA
+CQ CK C8 CT
+*
+
+% PBN 2.0
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "33"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K83.Q983.A32.KJT T6.JT4.QJ86.Q953 AQ954.72.T754.42 J72.AK65.K9.A876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "N"]
+1C      Pass    1S      X
+1NT     Pass    Pass    Pass
+[Play "E"]
+HJ H2 H5 HQ
+S6 S4 S2 SK
+ST SQ S7 S8
+CQ C2 C6 CJ
+HT H7 H6 H3
+H4 D4 HK H8
+C3 D5 HA H9
+D6 D7 D9 DA
+C5 SA SJ S3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "33"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K83.Q983.A32.KJT T6.JT4.QJ86.Q953 AQ954.72.T754.42 J72.AK65.K9.A876"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "N"]
+1C      Pass    1S      Pass
+1NT     Pass    2S      Pass
+Pass    Pass
+[Play "W"]
+HK H3 HT H2
+HA H8 H4 H7
+H5 H9 HJ S4
+S2 SK S6 S5
+S7 S8 ST SQ
+SJ S3 D8 SA
+C6 CT CQ C2
+D9 D2 D6 D4
+CA CJ C3 C4
+H6 HQ C5 D5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "34"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ52.K532.9.J963 J86.A87.QJ432.AK 97.J94.AKT865.72 AT43.QT6.7.QT854"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "E"]
+Pass    1NT     Pass    2C
+Pass    2D      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+D5 D7 D9 DQ
+C7 C4 C3 CK
+C2 C5 C6 CA
+S7 ST SQ S6
+S9 SA SK S8
+D6 CQ C9 D2
+H4 C8 CJ D3
+D8 S3 S2 SJ
+H9 HT HK H7
+DT S4 S5 D4
+HJ H6 H2 HA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "34"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ52.K532.9.J963 J86.A87.QJ432.AK 97.J94.AKT865.72 AT43.QT6.7.QT854"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Auction "E"]
+Pass    1NT     Pass    2H
+Pass    2S      Pass    3C
+Pass    Pass    Pass
+[Play "E"]
+H2 H7 HJ HQ
+D9 D2 DT D7
+C3 CA C2 C4
+C6 D3 D5 C5
+C9 CK C7 C8
+SK S6 S7 ST
+CJ D4 D8 CQ
+H3 DJ D6 CT
+S2 S8 S9 SA
+SQ SJ H4 S3
+S5 DQ DK S4
+H5 H8 H9 HT
+HK HA DA H6
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "35"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J6.J85.Q43.A8754 AKT4.K.J8762.KQ6 Q872.T963.AK95.J 953.AQ742.T.T932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    2S      Pass    Pass
+Pass
+[Play "N"]
+S2 S3 SJ SA
+DA DT D3 D2
+H3 H2 HJ HK
+D5 S5 D4 D6
+H6 HA H5 D7
+H9 HQ H8 D8
+CJ C2 CA C6
+S7 S9 S6 SK
+S8 C3 C4 CK
+DK H7 DQ DJ
+SQ C9 C5 S4
+HT H4 C7 ST
+D9 CT C8 CQ
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "35"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J6.J85.Q43.A8754 AKT4.K.J8762.KQ6 Q872.T963.AK95.J 953.AQ742.T.T932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1S      Pass    1NT
+Pass    2D      Pass    2H
+Pass    2NT     Pass    Pass
+Pass
+[Play "S"]
+C4 C6 CJ C2
+H5 HK H6 H2
+CA CK H3 C3
+SJ SK S2 S3
+C5 CQ H9 C9
+DQ D2 D5 DT
+S6 ST SQ S5
+D3 D6 DA H4
+D4 D7 DK H7
+C8 DJ D9 HQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "36"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:53.QT.QJ9863.764 AJT92.J87.4.QT95 Q8764.9.AT2.AK32 K.AK65432.K75.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "W"]
+Pass    Pass    1S      3H
+Pass    4H      Pass    Pass
+Pass
+[Play "W"]
+S5 S2 SQ SK
+HT H7 H9 HA
+C4 CQ CK C8
+C6 C5 CA CJ
+D3 D4 DA D5
+C7 C9 C2 D7
+HQ H8 S4 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "36"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:53.QT.QJ9863.764 AJT92.J87.4.QT95 Q8764.9.AT2.AK32 K.AK65432.K75.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Auction "W"]
+Pass    Pass    1S      2H
+Pass    Pass    X       Pass
+3D      3H      Pass    Pass
+Pass
+[Play "W"]
+S5 S2 S4 SK
+HT H7 H9 HA
+HQ H8 D2 HK
+C4 CQ CK C8
+D3 D4 DT DK
+D6 HJ DA D5
+S3 SA S6 D7
+C6 SJ SQ H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "37"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ762.K8.A73.AQ7 A3.AQ9763.J8.542 Q984.J.KT64.KJT8 T5.T542.Q952.963"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1NT     2H      3H      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+C4 CT C3 C7
+SA S4 S5 SJ
+S3 S8 ST SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "37"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ762.K8.A73.AQ7 A3.AQ9763.J8.542 Q984.J.KT64.KJT8 T5.T542.Q952.963"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1D      1H      1S      3H
+3S      4H      4S      Pass
+Pass    Pass
+[Play "W"]
+H2 H8 HQ HJ
+H4 HK HA S4
+S5 SK SA S8
+D2 DA DJ D4
+ST S2 S3 SQ
+D5 D3 D8 DK
+C3 CA C2 C8
+C6 C7 C4 CT
+C9 CQ C5 CK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "38"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ.QT2.QJ2.QJ975 72.76.KT86543.64 T85.J9543.9.KT83 KJ9643.AK8.A7.A2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Auction "E"]
+1NT     3D      Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+CQ C4 C3 C2
+C5 C6 CK CA
+D2 D3 D9 DA
+DJ DK CT D7
+DQ D4 C8 S3
+CJ D5 H3 S4
+C9 D6 H5 S6
+C7 D8 S8 S9
+SA S2 S5 SJ
+SQ S7 ST SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "38"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ.QT2.QJ2.QJ975 72.76.KT86543.64 T85.J9543.9.KT83 KJ9643.AK8.A7.A2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+1NT     Pass    2H      X
+Pass    3D      Pass    3S
+Pass    4D      Pass    Pass
+Pass
+[Play "W"]
+C3 CA C5 C4
+D9 DA D2 D3
+H3 D7 DJ DK
+S5 SJ SQ S2
+C8 C2 CQ C6
+H4 S3 DQ D4
+CT S4 C9 D5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "39"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8762.J43.Q652.T5 Q54.Q97652.J3.K8 K9.K8.KT87.97432 AJT3.AT.A94.AQJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    Pass    Pass    1C
+Pass    1H      Pass    1NT
+Pass    2C      Pass    2D
+Pass    2H      Pass    3H
+Pass    3NT     Pass    4H
+Pass    Pass    Pass
+[Play "N"]
+C3 CQ CT C8
+H8 HA H3 H2
+HK HT H4 H5
+D7 DA D2 D3
+C2 C6 C5 CK
+C4 D4 HJ HQ
+S9 SA S2 S4
+C7 CA S6 DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "39"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:8762.J43.Q652.T5 Q54.Q97652.J3.K8 K9.K8.KT87.97432 AJT3.AT.A94.AQJ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    Pass    Pass    2NT
+Pass    3D      Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "S"]
+S8 SQ SK SA
+H3 H2 H8 HA
+H4 HQ HK HT
+D2 D3 D7 DA
+C5 CK C2 C6
+CT C8 C3 CA
+S2 DJ C4 CQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "40"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT86.K87.QJ85.Q9 Q2.QT432.A9.J754 AK543.6.KT63.AK2 97.AJ95.742.T863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+Pass    Pass    1C      Pass
+1D      Pass    1S      Pass
+3NT     Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+C3 C9 CJ CA
+S7 S6 S2 SA
+S9 S8 SQ SK
+HA H7 H2 H6
+D2 D5 DA D3
+C6 CQ C5 C2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "40"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT86.K87.QJ85.Q9 Q2.QT432.A9.J754 AK543.6.KT63.AK2 97.AJ95.742.T863"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+Pass    Pass    1C      Pass
+1D      1H      1S      1NT
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+HA H7 HT H6
+H9 HK H2 D3
+S7 S6 S2 SA
+S9 S8 SQ SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "41"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A9753.74.T.KJT86 T6.KQT95.64.A742 KJ.A8.AKQ852.Q53 Q842.J632.J973.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "N"]
+Pass    Pass    2NT     Pass
+3H      X       Pass    Pass
+4C      Pass    4D      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+HK HA H2 H4
+D4 DA D3 DT
+D6 DK D7 H7
+S6 SK S2 S3
+ST SJ S4 SA
+CA C3 C9 CK
+H5 H8 HJ S5
+C2 CQ H3 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "41"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A9753.74.T.KJT86 T6.KQT95.64.A742 KJ.A8.AKQ852.Q53 Q842.J632.J973.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "N"]
+Pass    Pass    1D      Pass
+1NT     Pass    2D      Pass
+2S      Pass    2NT     Pass
+3C      Pass    3H      Pass
+4C      Pass    6C      Pass
+Pass    Pass
+[Play "E"]
+HQ HA H2 H4
+D4 DA D3 DT
+D6 DK D7 H7
+C2 C3 C9 CJ
+C4 C5 H3 CT
+CA CQ S2 C6
+HK H8 HJ C8
+C7 D2 H6 CK
+S6 SK S4 S3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "42"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:9.AT952.AQ843.84 J72.QJ.T72.A9732 AQ8543.K643.K.T5 KT6.87.J965.KQJ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "E"]
+1H      Pass    1S      Pass
+2D      Pass    3C      X
+3D      Pass    4H      Pass
+Pass    Pass
+[Play "S"]
+C3 C5 CJ C4
+C7 CT CK C8
+D2 DK D5 D3
+HJ H3 H7 HA
+HQ HK H8 H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "42"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:9.AT952.AQ843.84 J72.QJ.T72.A9732 AQ8543.K643.K.T5 KT6.87.J965.KQJ6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "E"]
+1H      Pass    1S      Pass
+2D      Pass    4H      Pass
+Pass    Pass
+[Play "S"]
+CA C5 CK C4
+C7 CT CJ C8
+D2 DK D5 D3
+HJ HK H7 H2
+HQ H3 H8 HT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "43"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K943.A854.9.AQ98 A862.QJT6.753.62 QT75.932.QJT.KT5 J.K7.AK8642.J743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Auction "S"]
+1C      Pass    1NT     2D
+Pass    Pass    Pass
+[Play "S"]
+S3 SA S7 SJ
+H4 H6 H2 HK
+C8 C2 CK C3
+D9 D3 DQ DA
+C9 C6 CT C4
+S4 D5 DJ DK
+CA D7 C5 C7
+S9 S2 S5 D2
+H8 HT DT D8
+SK S6 ST D4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "43"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K943.A854.9.AQ98 A862.QJT6.753.62 QT75.932.QJT.KT5 J.K7.AK8642.J743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -150"]
+[Auction "S"]
+1C      Pass    1D      2D
+Pass    Pass    X       Pass
+3D      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+DK D9 D7 DT
+DA S3 D3 DJ
+SJ S9 S2 S5
+D2 SK D5 DQ
+D4 S4 S6 ST
+C3 CA C2 C5
+C4 C8 C6 CK
+C7 CQ S8 CT
+D8 C9 SA S7
+HK HA H6 H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "44"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ8632.J92.8.T98 K94.KQ87.6432.62 A.64.AQJT7.AKQJ5 T75.AT53.K95.743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "W"]
+Pass    Pass    1C      Pass
+2S      Pass    3D      Pass
+Pass    Pass
+[Play "S"]
+S5 S2 S9 SA
+D5 D8 D2 DA
+DK S3 D3 DQ
+D9 S6 D4 DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "44"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ8632.J92.8.T98 K94.KQ87.6432.62 A.64.AQJT7.AKQJ5 T75.AT53.K95.743"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "W"]
+Pass    Pass    1C      Pass
+2S      Pass    3D      Pass
+3S      Pass    4C      Pass
+Pass    Pass
+[Play "S"]
+C4 C8 C2 C5
+DK D8 D2 DQ
+H3 H2 HQ H4
+HA H9 H7 H6
+C3 C9 C6 CJ
+D9 CT D3 D7
+H5 HJ HK CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "45"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T842.AKJ652.984. AQ3.QT8.K732.QT7 J9.974.Q6.A96432 K765.3.AJT5.KJ85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS -600"]
+[Auction "N"]
+Pass    1NT     Pass    2C
+2H      Pass    3H      4H
+Pass    5D      Pass    Pass
+Pass
+[Play "S"]
+SJ S5 S2 SQ
+D6 DJ D9 D2
+C4 C5 D4 C7
+H4 H3 H6 HQ
+DQ DA D8 D3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "45"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T842.AKJ652.984. AQ3.QT8.K732.QT7 J9.974.Q6.A96432 K765.3.AJT5.KJ85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Auction "N"]
+Pass    1D      Pass    1S
+2H      2S      Pass    3D
+Pass    3NT     Pass    Pass
+Pass
+[Play "S"]
+H7 H3 HK H8
+S9 S5 S4 SA
+CA C5 D4 CQ
+SJ S6 S2 SQ
+C2 C8 H2 CT
+D6 DJ D8 D2
+DQ DA D9 D3
+C3 CK H6 C7
+C4 CJ H5 HT
+C6 DT HJ D7
+C9 D5 HA DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "46"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:843.JT83.K932.65 JT76.65.QJT87.QT 52.9.A54.AK98732 AKQ9.AKQ742.6.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    Pass    2C      4H
+Pass    Pass    Pass
+[Play "E"]
+C6 CT CA C4
+C5 CQ CK CJ
+D9 D7 DA D6
+H8 D8 C2 H7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "46"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:843.JT83.K932.65 JT76.65.QJT87.QT 52.9.A54.AK98732 AKQ9.AKQ742.6.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    Pass    2C      X
+Pass    2D      3C      4H
+Pass    Pass    Pass
+[Play "E"]
+C6 CT CK C4
+C5 CQ CA CJ
+D9 D7 DA D6
+D2 D8 D4 H2
+H3 H5 H9 HA
+H8 H6 C2 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "47"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ6.KQ64.J4.QJT8 A743.AJ5.A3.A632 98.87.KQ965.9754 JT52.T932.T872.K"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "S"]
+1H      X       Pass    1S
+Pass    2H      Pass    2S
+Pass    Pass    Pass
+[Play "S"]
+CQ C2 C4 CK
+HK HA H8 HT
+D4 D3 DQ D2
+HQ H5 H7 H2
+H4 HJ S8 H3
+C8 C3 C5 S2
+S6 SA S9 S5
+CT CA C7 D7
+CJ C6 C9 ST
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "47"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ6.KQ64.J4.QJT8 A743.AJ5.A3.A632 98.87.KQ965.9754 JT52.T932.T872.K"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "6"]
+[Score "NS -200"]
+[Auction "S"]
+1C      X       1D      Pass
+1H      Pass    2D      Pass
+Pass    Pass
+[Play "E"]
+SJ SK SA S9
+ST SQ S3 S8
+CK CQ C2 C4
+H2 HK H5 H7
+D2 DJ DA D5
+H3 C8 CA C5
+D7 CT C3 C7
+HT H4 HJ H8
+D8 CJ C6 C9
+H9 H6 HA D6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Open"]
+[Board "48"]
+[West "Garozzo"]
+[North "Kantar"]
+[East "Belladonna"]
+[South "Eisenberg"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ7.JT8.985.9764 T43.K72.762.AK83 Q5.AQ5.QJT3.QJ52 A9862.9643.AK4.T"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "W"]
+Pass    Pass    1NT     2C
+Pass    2H      Pass    Pass
+Pass
+[Play "E"]
+DQ DA D5 D2
+S5 S2 SK S3
+H5 H3 HJ H2
+D3 DK D9 D6
+C2 CT C4 CA
+C5 D4 C6 CK
+CJ H4 C7 C3
+SQ SA S7 S4
+DT S6 SJ ST
+HQ H6 HT H7
+HA H9 H8 HK
+CQ S8 C9 C8
+DJ S9 D8 D7
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.29"]
+[Room "Closed"]
+[Board "48"]
+[West "Wolff"]
+[North "Facchini"]
+[East "Hamman"]
+[South "Zuchelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ7.JT8.985.9764 T43.K72.762.AK83 Q5.AQ5.QJT3.QJ52 A9862.9643.AK4.T"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "W"]
+Pass    Pass    1D      X
+Pass    1NT     Pass    2S
+Pass    3S      Pass    Pass
+Pass
+[Play "W"]
+D5 D2 DT DA
+SJ S3 S5 S2
+D9 D6 D3 DK
+C4 CA C2 CT
+C6 CK C5 D4
+HT H2 H5 H9
+D8 D7 DJ S6
+S7 S4 SQ SA
+H8 H7 HQ H3
+HJ HK HA H4
+C7 ST DQ H6
+*
+
+% PBN 2.0
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[HomeTeam "Italy"]
+[VisitTeam "USA"]
+[Room "Open"]
+[Board "49"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T2.KJ64.T74.AK95 A53.52.KJ653.863 K74.AQT93.A92.QJ QJ986.87.Q8.T742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+1D      Pass    1H      Pass
+2H      Pass    2NT     Pass
+3H      Pass    4H      Pass
+Pass    Pass
+[Play "W"]
+SQ S2 SA S4
+D8 D4 D5 DA
+H7 HK H2 H3
+H8 H4 H5 H9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "49"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T2.KJ64.T74.AK95 A53.52.KJ653.863 K74.AQT93.A92.QJ QJ986.87.Q8.T742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2D      X       2H      Pass
+4H      Pass    Pass    Pass
+[Play "W"]
+DQ D4 D6 DA
+H7 HK H2 H3
+H8 H4 H5 H9
+C4 C5 C3 CQ
+C2 C9 C6 CJ
+S6 HJ S3 HT
+C7 CA C8 D2
+CT CK D5 D9
+S8 S2 S5 SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "50"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ73.J.Q653.KQJ8 AKT842.Q7.J.A542 965.K654.AK42.T9 .AT9832.T987.763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "E"]
+1C      2S      X       Pass
+2NT     Pass    Pass    Pass
+[Play "S"]
+S4 S9 H3 S3
+CA CT C3 CQ
+SA S5 HT S7
+SK S6 C6 SJ
+HQ H4 H2 HJ
+H7 H5 H8 D3
+C2 H6 HA D5
+C4 C9 C7 C8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "50"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ73.J.Q653.KQJ8 AKT842.Q7.J.A542 965.K654.AK42.T9 .AT9832.T987.763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "E"]
+1D      1S      X       Pass
+1NT     2S      Pass    Pass
+2NT     Pass    Pass    Pass
+[Play "S"]
+SK S5 H3 S3
+C2 C9 C3 C8
+CA CT C6 CJ
+DJ DA D7 D3
+S2 DK D8 D5
+SA S6 H2 SJ
+HQ H4 H8 HJ
+H7 H5 H9 D6
+S4 H6 HA S7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "51"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT83.75.KJT8.AJ6 A5.J963.AQ75.K95 64.AQ842.643.QT7 QJ972.KT.92.8432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "2"]
+[Auction "S"]
+1D      Pass    1H      Pass
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "E"]
+D9 DJ D5 D3
+D2 DK DA D4
+HK H5 H3 HQ
+HT H7 H6 H2
+SJ SK SA S4
+S2 S3 H9 HA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "51"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KT83.75.KJT8.AJ6 A5.J963.AQ75.K95 64.AQ842.643.QT7 QJ972.KT.92.8432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1S      X       1NT     Pass
+Pass    Pass
+[Play "E"]
+S2 S8 SA S4
+HT H5 H3 H2
+HK H7 H6 HA
+D2 DJ D5 D3
+D9 DK DA D4
+C2 S3 HJ HQ
+S9 DT DQ D6
+S7 C6 H9 H4
+SJ SK S5 S6
+C3 D8 D7 H8
+C4 CA C5 C7
+C8 CJ CK CT
+SQ ST C9 CQ
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "52"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT986.JT32.Q.A97 43.854.T97.KT654 J72.AK9.AKJ54.83 AK5.Q76.8632.QJ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+2C      Pass    2D      Pass
+3H      Pass    3S      Pass
+3NT     Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+CQ CA C6 C3
+SK ST S3 S2
+CJ C7 C4 C8
+C2 C9 CT S7
+SA S6 S4 SJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "52"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT986.JT32.Q.A97 43.854.T97.KT654 J72.AK9.AKJ54.83 AK5.Q76.8632.QJ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+2D      Pass    2H      Pass
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+DT D4 D2 DQ
+S3 S2 SK ST
+C4 C3 CQ CA
+S4 SJ SA S6
+C5 C8 CJ C7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "53"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.AQT2.J2.AQ843 JT853.J43.K765.T K642.95.T843.976 Q9.K876.AQ9.KJ52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "N"]
+1C      Pass    1D      Pass
+1H      Pass    1S      Pass
+2C      Pass    Pass    Pass
+[Play "E"]
+CT C6 C2 CQ
+S3 SK S9 S7
+H3 H5 H6 HQ
+H4 H9 H7 HA
+HJ C7 H8 H2
+S5 S2 SQ SA
+S8 C9 HK HT
+ST S4 D9 C3
+D5 DT DQ D2
+D6 D3 DA DJ
+D7 S6 C5 C8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "53"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.AQT2.J2.AQ843 JT853.J43.K765.T K642.95.T843.976 Q9.K876.AQ9.KJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "N"]
+1C      1H      Pass    1NT
+Pass    Pass    Pass
+[Play "N"]
+C3 CT C6 C2
+SA S3 S2 SQ
+HT HJ H5 H6
+S7 S5 SK S9
+HA H3 H9 HK
+HQ H4 S4 H7
+CA S8 C7 C5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "54"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A65.J8.QT7652.86 KQT84.953.AK.Q93 9.K7642.943.JT54 J732.AQT.J8.AK72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Auction "E"]
+Pass    1S      Pass    2C
+Pass    2S      Pass    3H
+Pass    3NT     Pass    4S
+Pass    4NT     Pass    6S
+Pass    Pass    Pass
+[Play "W"]
+H4 HQ H8 H3
+S9 S2 S5 ST
+H7 SJ SA S4
+H6 HA HJ H5
+D3 S3 S6 S8
+D4 S7 D2 SK
+D9 D8 D5 SQ
+C4 DJ D6 DA
+H2 HT D7 DK
+C5 C2 C6 CQ
+CT CA C8 C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "54"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A65.J8.QT7652.86 KQT84.953.AK.Q93 9.K7642.943.JT54 J732.AQT.J8.AK72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS +480"]
+[Auction "E"]
+Pass    1S      Pass    2C
+Pass    2S      Pass    3H
+Pass    3NT     Pass    4S
+Pass    5D      Pass    5S
+Pass    Pass    Pass
+[Play "W"]
+H4 HQ H8 H3
+S9 S2 S5 ST
+H7 SJ SA S4
+H6 HA HJ H5
+D3 S3 S6 S8
+D4 S7 D2 SK
+D9 D8 D5 SQ
+C4 DJ D6 DA
+H2 HT D7 DK
+C5 C2 C6 CQ
+CT CA C8 C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "55"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT84.T9.T.AQT986 Q53.KQ7.8643.J72 J72.A52.AQJ9.543 A96.J8643.K752.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    Pass    1D      1H
+1S      2H      Pass    Pass
+3C      Pass    3S      Pass
+4C      Pass    Pass    Pass
+[Play "W"]
+HK HA H3 H9
+C2 C3 CK CA
+C7 C4 D5 CQ
+HQ H2 H4 HT
+CJ C5 S6 C6
+D3 DA D2 DT
+SQ S2 S9 ST
+S3 S7 SA S4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "55"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT84.T9.T.AQT986 Q53.KQ7.8643.J72 J72.A52.AQJ9.543 A96.J8643.K752.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Score "NS 110"]
+[Auction "S"]
+Pass    Pass    1D      Pass
+2C      Pass    Pass    Pass
+[Play "W"]
+HK HA H3 H9
+C2 C3 CK CA
+C7 C4 D7 CQ
+SQ S2 S6 S4
+CJ C5 D5 C6
+D4 DA D2 DT
+S3 SJ SA S8
+D3 D9 DK HT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "56"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQJ9754..KQ53.K8 K6.J753.AT6.AQ63 T3.Q6.J98742.J74 82.AKT9842..T952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "W"]
+1S      X       Pass    2S
+3S      Pass    Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+SA S6 ST S2
+S4 SK S3 S8
+D3 D6 D2 H2
+D5 H3 H6 HA
+S5 H5 HQ HK
+S7 HJ D4 H4
+DQ DA D7 C2
+DK DT D8 H8
+C8 C3 CJ C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "56"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQJ9754..KQ53.K8 K6.J753.AT6.AQ63 T3.Q6.J98742.J74 82.AKT9842..T952"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+1C      Pass    1D      3H
+4S      Pass    Pass    Pass
+[Play "N"]
+H3 H6 HK S4
+S6 S3 S2 SA
+SK ST S8 S5
+H5 HQ HA S7
+DA D2 H2 DK
+CA C4 C2 C8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "57"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K943.J82.J43.J72 Q65.KT76.Q98.KT6 JT82.5.AKT2.AQ95 A7.AQ943.765.843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "N"]
+Pass    Pass    1D      1H
+1S      2H      3H      Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+H6 H5 HA H2
+HK S2 H3 H8
+SQ SJ S7 S3
+S5 S8 SA S4
+H7 ST HQ HJ
+D8 DA D5 D3
+D9 DK D6 D4
+DQ D2 D7 DJ
+HT C5 H4 S9
+S6 C9 C3 SK
+C6 CQ C4 C2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "57"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K943.J82.J43.J72 Q65.KT76.Q98.KT6 JT82.5.AKT2.AQ95 A7.AQ943.765.843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "N"]
+Pass    Pass    1D      1H
+Pass    2H      X       Pass
+2S      Pass    Pass    Pass
+[Play "E"]
+H6 H5 HA H2
+HT S2 H3 H8
+CK CQ C3 C2
+H7 S8 H4 HJ
+SQ SJ S7 S3
+HK ST H9 D3
+C6 C5 C4 CJ
+S5 D2 SA SK
+S6 DT HQ S4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "58"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ6.K3.KT754.AK8 T43.Q6.832.JT542 72.J9752.A9.9763 KJ985.AT84.QJ6.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "E"]
+1D      Pass    1H      1S
+2NT     Pass    3C      Pass
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+S3 S2 SK S6
+S4 S7 S8 SQ
+H6 H2 HA HK
+ST C3 S5 SA
+HQ H5 H4 H3
+D3 D9 DJ DK
+D2 DA D6 D4
+C2 HJ H8 C8
+C4 C6 CQ CA
+D8 C7 DQ D5
+C5 H7 HT D7
+CT C9 SJ DT
+CJ H9 S9 CK
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "58"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ6.K3.KT754.AK8 T43.Q6.832.JT542 72.J9752.A9.9763 KJ985.AT84.QJ6.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "E"]
+1C      Pass    1D      1S
+1NT     Pass    2H      Pass
+2S      Pass    3C      Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+S3 S2 SK S6
+S4 S7 S8 SQ
+D2 DA D6 D4
+H6 H2 H4 HK
+D3 D9 DJ D5
+ST C3 S5 SA
+D8 C6 DQ DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "59"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQT76.QJ54.A7.T7 K32.T97632.K43.9 9854.K8.J5.AKQ64 J.A.QT9862.J8532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "S"]
+1S      Pass    2C      2D
+Pass    2H      4S      Pass
+Pass    Pass
+[Play "W"]
+C9 CA C2 C7
+S2 S4 SJ SA
+SK S5 D2 S6
+H2 H8 HA H4
+S3 C4 C3 CT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "59"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQT76.QJ54.A7.T7 K32.T97632.K43.9 9854.K8.J5.AKQ64 J.A.QT9862.J8532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "8"]
+[Score "NS 500"]
+[Auction "S"]
+1S      Pass    2C      2D
+2H      3C      4S      5D
+X       Pass    Pass    Pass
+[Play "S"]
+CT C9 CQ C2
+DA D3 D5 D2
+D7 D4 DJ DQ
+H4 H2 H8 HA
+C7 H3 CK C8
+SA S2 S4 SJ
+H5 H6 HK D6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "60"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A73.Q84.64.Q8743 92.KT92.AQT87.AT Q654.AJ3.KJ52.52 KJT8.765.93.KJ96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "W"]
+Pass    1D      Pass    1S
+Pass    2D      Pass    Pass
+Pass
+[Play "E"]
+C5 C6 C7 CA
+S4 ST S3 S2
+D5 D3 D6 DA
+S5 SJ SA S9
+HA H5 HQ HK
+HJ H6 H4 H2
+H3 H7 H8 H9
+C2 CK C3 CT
+S6 SK S7 HT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "60"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A73.Q84.64.Q8743 92.KT92.AQT87.AT Q654.AJ3.KJ52.52 KJT8.765.93.KJ96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "W"]
+Pass    1H      Pass    1NT
+Pass    2D      Pass    2H
+Pass    Pass    Pass
+[Play "E"]
+H3 H5 HQ HK
+S4 S8 SA S9
+DK D3 D6 DQ
+C5 CJ C3 CT
+HJ H6 H4 H9
+HA H7 H8 H2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "61"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJ.K64.AK862.73 A9875.QT82.T7.85 6432.J75.J3.QJ62 T.A93.Q954.AKT94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "N"]
+1NT     Pass    Pass    Pass
+[Play "E"]
+S7 S2 ST SQ
+C8 CJ CK C3
+HQ H5 H3 H4
+H2 H7 HA H6
+H8 HJ H9 HK
+SA S3 CT SK
+HT S4 C4 D2
+C5 C2 C9 C7
+S5 C6 CA D6
+DT DJ D4 D8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "61"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJ.K64.AK862.73 A9875.QT82.T7.85 6432.J75.J3.QJ62 T.A93.Q954.AKT94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "N"]
+1NT     Pass    Pass    Pass
+[Play "E"]
+S9 S2 ST SQ
+D7 DJ DQ D2
+DT D3 D4 DA
+H8 S3 D5 DK
+C5 H5 D9 D6
+C8 CQ C9 C3
+SA S4 H9 SJ
+S5 S6 H3 SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "62"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:543.74.KT74.AT83 AQJ.K93.AJ9.Q954 872.QT865.Q532.K KT96.AJ2.86.J762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "E"]
+Pass    1C      1H      1NT
+Pass    2NT     Pass    3C
+Pass    3D      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+H7 H3 H6 HJ
+S3 SQ S2 S6
+C3 C4 CK C2
+DK DA D2 D6
+CA C5 H8 CJ
+H4 H9 HT HA
+C8 C9 D3 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "62"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:543.74.KT74.AT83 AQJ.K93.AJ9.Q954 872.QT865.Q532.K KT96.AJ2.86.J762"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "E"]
+Pass    1NT     Pass    2C
+Pass    3C      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+H5 H2 H7 H9
+CK C2 C3 C4
+H6 HJ H4 HK
+S2 CJ CA C5
+DQ D6 D4 DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "63"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:94.AKJ96543.5.KQ KT862.7.AQT7.976 A73.T8.K84.AJ854 QJ5.Q2.J9632.T32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "13"]
+[Score "NS 710"]
+[Auction "S"]
+1H      1S      2C      2S
+4H      Pass    Pass    Pass
+[Play "W"]
+S6 SA S5 S4
+H7 H8 H2 HA
+C6 HT HQ HK
+C7 C4 C2 CK
+C9 CA C3 CQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "63"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:94.AKJ96543.5.KQ KT862.7.AQT7.976 A73.T8.K84.AJ854 QJ5.Q2.J9632.T32"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "13"]
+[Score "NS 710"]
+[Auction "S"]
+4H      4S      5H      Pass
+Pass    Pass
+[Play "W"]
+S2 SA S5 S4
+H7 HT H2 HA
+C6 H8 HQ HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "64"]
+[West "Swanson"]
+[North "Pittala"]
+[East "Soloway"]
+[South "Franco"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K43.9743.KT9.QT7 982.AQJ8.AJ52.94 QT5.T52.764.K853 AJ76.K6.Q83.AJ62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "W"]
+Pass    1D      Pass    2C
+Pass    2H      Pass    2S
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+SQ SA S3 S2
+D4 D3 D9 DJ
+S5 S6 SK S8
+ST SJ S4 S9
+H2 S7 H4 C4
+H5 HK H3 H8
+HT H6 H7 HJ
+C3 C2 H9 HQ
+D6 C6 C7 HA
+C5 CA CT C9
+D7 D8 DT DA
+C8 DQ DK D2
+CK CJ CQ D5
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "64"]
+[West "Garozzo"]
+[North "Hamman"]
+[East "Belladonna"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K43.9743.KT9.QT7 982.AQJ8.AJ52.94 QT5.T52.764.K853 AJ76.K6.Q83.AJ62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass    1H      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+S3 S2 SQ SA
+D9 DJ D4 D3
+SK S8 ST SJ
+C7 C4 CK CA
+S4 S9 S5 S6
+H3 H8 H2 HK
+H4 D2 H5 S7
+H7 HA HT H6
+H9 HQ C3 C2
+CQ HJ C5 C6
+CT C9 C8 CJ
+DT DA D6 D8
+DK D5 D7 DQ
+
+% PBN 2.0
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[HomeTeam "Italy"]
+[VisitTeam "USA"]
+[Room "Open"]
+[Board "65"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK862.86.T73.A53 QT97543..A962.Q8 J.AQT7542.K85.KJ .KJ93.QJ4.T97642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+1S      Pass    3H      Pass
+3S      Pass    4H      Pass
+Pass    Pass
+[Play "W"]
+DQ D3 DA D5
+C2 C3 C8 CK
+H3 H6 D2 HA
+D4 D7 D6 DK
+H9 S2 S3 SJ
+DJ DT D9 D8
+CT CA CQ CJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "65"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK862.86.T73.A53 QT97543..A962.Q8 J.AQT7542.K85.KJ .KJ93.QJ4.T97642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+1S      Pass    3H      Pass
+3S      Pass    4H      Pass
+Pass    Pass
+[Play "W"]
+DQ D3 DA D5
+D4 D7 D2 DK
+H3 H6 S3 HA
+H9 S2 S4 SJ
+DJ DT D6 D8
+C2 C3 CQ CK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "66"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A84.KJ52.Q4.T964 96.T986.AT75.QJ5 KQ732..K9863.K72 JT5.AQ743.J2.A83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    Pass    1S      Pass
+2S      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+ST S4 S6 SK
+D2 DQ DA D3
+S5 SA S9 S2
+DJ D4 D5 DK
+H7 C4 DT D9
+CA C6 CQ CK
+C3 C9 CJ C2
+SJ CT D7 D8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "66"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A84.KJ52.Q4.T964 96.T986.AT75.QJ5 KQ732..K9863.K72 JT5.AQ743.J2.A83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    Pass    1S      Pass
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+S5 S4 S6 S7
+D2 DQ DA D3
+ST SA S9 S2
+DJ D4 D5 DK
+H7 S8 D7 D6
+CA C4 C5 CK
+SJ C6 H6 SK
+C3 C9 CJ C2
+C8 CT CQ C7
+H3 H2 DT D8
+H4 H5 H8 S3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "67"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T8.JT97.QJT72.Q2 95.Q8542.953.K63 Q632.A6.AK864.AT AKJ74.K3..J98754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "S"]
+Pass    Pass    1C      2C
+Pass    3C      Pass    3S
+4C      Pass    4D      Pass
+Pass    Pass
+[Play "E"]
+SK S8 S9 S2
+C4 C2 CK CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "67"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T8.JT97.QJT72.Q2 95.Q8542.953.K63 Q632.A6.AK864.AT AKJ74.K3..J98754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "S"]
+Pass    Pass    1NT     2S
+2NT     Pass    3C      X
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+SK S8 S9 S2
+C4 CQ CK CA
+S4 D2 D3 DA
+S7 D7 D5 DK
+SJ DT D9 D8
+C5 DJ H2 D4
+C7 DQ H4 D6
+SA ST S5 S3
+CJ C2 C3 CT
+C9 H7 C6 S6
+C8 H9 H5 H6
+H3 HT H8 HA
+HK HJ HQ SQ
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "68"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K64.JT7.J652.A53 Q82.A942.T97.JT6 AJT93.KQ5.843.84 75.863.AKQ.KQ972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    Pass    1S      2C
+2S      Pass    Pass    X
+Pass    3C      Pass    Pass
+Pass
+[Play "W"]
+S4 S2 S9 S5
+D2 D7 D8 DA
+CA C6 C4 CK
+C3 CT C8 C2
+C5 CJ S3 C7
+D5 D9 D3 DQ
+D6 DT D4 DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "68"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K64.JT7.J652.A53 Q82.A942.T97.JT6 AJT93.KQ5.843.84 75.863.AKQ.KQ972"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Auction "W"]
+Pass    Pass    1S      2C
+2S      3C      Pass    Pass
+X       Pass    3S      Pass
+Pass    Pass
+[Play "S"]
+DQ D2 D7 D3
+CK CA C6 C4
+S5 S4 S2 SA
+S7 S6 SQ SJ
+C2 C3 CJ C8
+H3 SK S8 S3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "69"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT63.JT72.KT54. 982.85.3.QJT9862 J75.93.AQ9876.K3 A4.AKQ64.J2.A754"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "11"]
+[Score "NS -550"]
+[Auction "N"]
+Pass    3C      Pass    5C
+X       Pass    Pass    Pass
+[Play "S"]
+S5 SA S6 S2
+C3 CA S3 C2
+H3 HA H2 H5
+H9 HK H7 H8
+CK HQ HT D3
+SJ S4 ST S8
+DA D2 D5 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "69"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT63.JT72.KT54. 982.85.3.QJT9862 J75.93.AQ9876.K3 A4.AKQ64.J2.A754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS -400"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+1S      Pass    2S      X
+3S      4C      Pass    4H
+Pass    5C      Pass    Pass
+Pass
+[Play "N"]
+SK S2 S5 SA
+S3 C2 C3 CA
+H2 H5 H3 HA
+H7 H8 H9 HK
+HT D3 CK HQ
+S6 S8 SJ S4
+ST S9 S7 C4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "70"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K9.J5.KQ73.QJ862 Q8732.8.AJT52.T9 T4.AKQT974.86.75 AJ65.632.94.AK43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS 500"]
+[Auction "E"]
+1D      1S      2H      3H
+Pass    4S      5H      X
+Pass    Pass    Pass
+[Play "N"]
+CA C2 C9 C5
+CK C6 CT C7
+SA S9 S2 S4
+D9 DQ DA D6
+D4 DK DJ D8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "70"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K9.J5.KQ73.QJ862 Q8732.8.AJT52.T9 T4.AKQT974.86.75 AJ65.632.94.AK43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 590"]
+[Auction "E"]
+1D      1S      3H      4C
+X       Pass    Pass    4S
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "W"]
+HA H2 HJ H8
+HK H3 H5 S2
+S4 SA S9 S3
+D6 D4 DQ DA
+D8 D9 DK D2
+ST SJ D3 DT
+H4 S5 SK S7
+C5 CA CQ C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "71"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT9.954.983.T986 J632.AT82.AT62.3 75.KJ73.J.AKQJ72 AQ84.Q6.KQ754.54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "S"]
+Pass    Pass    2C      2D
+Pass    3C      Pass    3D
+Pass    4D      Pass    Pass
+Pass
+[Play "S"]
+C6 C3 CQ C4
+S9 S2 S7 SA
+D3 D2 DJ DK
+D8 D6 C2 DQ
+D9 DA S5 D4
+SK S3 C7 SQ
+H4 H2 HK H6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "71"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT9.954.983.T986 J632.AT82.AT62.3 75.KJ73.J.AKQJ72 AQ84.Q6.KQ754.54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "S"]
+Pass    Pass    1C      X
+Pass    2C      X       2D
+3C      3D      Pass    3S
+Pass    4C      Pass    4D
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+CT C3 CK C4
+D3 D2 DJ DK
+S9 S2 S5 SA
+SK S3 S7 S4
+H9 HA H3 H6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "72"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65.KT7.K76.A972 T74.J5.QJ932.865 KJ82.AQ832.A5.QJ Q93.964.T84.KT43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -980"]
+[Auction "W"]
+1NT     Pass    2D      Pass
+3NT     Pass    4C      Pass
+4D      Pass    5H      Pass
+6H      Pass    Pass    Pass
+[Play "S"]
+H4 H7 HJ HQ
+CK CA C5 CQ
+H6 HK H5 H2
+C3 C2 C6 CJ
+S3 S5 S4 SK
+S9 SA S7 S2
+SQ S6 ST SJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "72"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65.KT7.K76.A972 T74.J5.QJ932.865 KJ82.AQ832.A5.QJ Q93.964.T84.KT43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS -990"]
+[Auction "W"]
+1NT     Pass    2C      Pass
+2D      Pass    3H      Pass
+4H      Pass    4S      Pass
+4NT     Pass    5D      Pass
+6H      Pass    6NT     Pass
+Pass    Pass
+[Play "N"]
+DQ DA D4 D6
+C5 CQ C3 C2
+H5 HA H4 H7
+HJ H2 H6 HK
+S4 SJ SQ S5
+C6 CJ CK CA
+D3 HQ H9 HT
+S7 H8 S3 C7
+D2 H3 S9 D7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "73"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T93.6.K7632.AK52 K876.QT843.954.Q QJ54.A97.AQT8.84 A2.KJ52.J.JT9763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS 150"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2C      Pass    2S      Pass
+3C      Pass    3D      Pass
+4D      Pass    Pass    Pass
+[Play "W"]
+CJ CA CQ C4
+DJ DK D4 D8
+C3 D2 D5 DT
+C6 D3 D9 DA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "73"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T93.6.K7632.AK52 K876.QT843.954.Q QJ54.A97.AQT8.84 A2.KJ52.J.JT9763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "11"]
+[Score "NS 150"]
+[Auction "N"]
+Pass    Pass    1D      1H
+2H      3H      Pass    Pass
+4D      Pass    Pass    Pass
+[Play "W"]
+H2 H6 HQ HA
+DJ DK D4 D8
+C3 D2 D5 DT
+C6 D3 D9 DQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "74"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q964.Q872.AQ3.72 J85.AT95.JT.T964 T.J643.872.AQJ83 AK732.K.K9654.K5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "E"]
+Pass    Pass    Pass    1S
+Pass    Pass    2C      2D
+Pass    2S      Pass    Pass
+Pass
+[Play "E"]
+C7 C4 C8 CK
+S6 S5 ST SA
+H7 H5 H6 HK
+DQ DT D2 D4
+C2 C6 CJ C5
+S4 C9 CA S2
+SQ S8 C3 SK
+D3 DJ D7 D5
+H2 HA H3 D6
+H8 H9 H4 S3
+DA SJ D8 D9
+HQ HT HJ S7
+S9 CT CQ DK
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "74"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q964.Q872.AQ3.72 J85.AT95.JT.T964 T.J643.872.AQJ83 AK732.K.K9654.K5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS -300"]
+[Auction "E"]
+Pass    Pass    Pass    1S
+Pass    2S      Pass    4S
+Pass    Pass    Pass
+[Play "E"]
+H2 H5 H6 HK
+S4 S5 ST SA
+S6 S8 C3 SK
+DQ DT D2 D4
+SQ SJ H3 S2
+S9 H9 D7 S3
+DA DJ D8 D5
+D3 C4 C8 D6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "75"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:.9854.AJ.KQJ9653 K43.AJ3.K9872.72 JT9876.T76.T4.T4 AQ52.KQ2.Q653.A8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "2"]
+[Auction "S"]
+2C      Pass    2S      X
+3C      3S      Pass    3NT
+Pass    Pass    Pass
+[Play "S"]
+CK C2 C4 C8
+CQ C7 CT CA
+H4 SK S6 S2
+DA D2 D4 D3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "75"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:.9854.AJ.KQJ9653 K43.AJ3.K9872.72 JT9876.T76.T4.T4 AQ52.KQ2.Q653.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -500"]
+[Auction "S"]
+1C      1D      Pass    2C
+5C      X       Pass    Pass
+Pass
+[Play "W"]
+C2 C4 C8 C9
+C7 CT CA C3
+H3 H6 HK H4
+HA H7 HQ H5
+HJ HT H2 H8
+D7 D4 DQ DA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "76"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q83.75.AK62.J853 J.QT86.QJ854.T96 AKT654..73.AQ742 972.AKJ9432.T9.K"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "12"]
+[Score "NS -750"]
+[Auction "W"]
+Pass    Pass    1S      3H
+3S      4H      4S      Pass
+Pass    5H      5S      X
+Pass    Pass    Pass
+[Play "S"]
+HA H5 HT S4
+S2 S3 SJ SA
+S7 S8 H6 SK
+S9 SQ D4 S5
+CK CJ C6 C2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "76"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q83.75.AK62.J853 J.QT86.QJ854.T96 AKT654..73.AQ742 972.AKJ9432.T9.K"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -980"]
+[Auction "W"]
+Pass    Pass    1S      2H
+3S      4H      4NT     5H
+Pass    Pass    6S      Pass
+Pass    Pass
+[Play "S"]
+HK H5 HT S4
+S2 S3 SJ SA
+S7 S8 D4 SK
+S9 SQ H6 S5
+CK CJ C6 C2
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "77"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T7.JT732.KJ73.T3 AJ8653.Q4.A.Q876 KQ9.K986.962.J52 42.A5.QT854.AK94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    1S      Pass    2D
+Pass    2S      Pass    3C
+Pass    4C      Pass    4H
+Pass    4NT     Pass    5C
+Pass    6C      Pass    Pass
+Pass
+[Play "N"]
+HJ HQ HK HA
+C3 C6 C2 CK
+S7 SJ SQ S2
+H2 H4 H9 H5
+D3 DA D2 D4
+CT C7 C5 CA
+ST SA S9 S4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "77"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T7.JT732.KJ73.T3 AJ8653.Q4.A.Q876 KQ9.K986.962.J52 42.A5.QT854.AK94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    1S      Pass    2D
+Pass    2S      Pass    3C
+Pass    4C      Pass    4H
+Pass    4S      Pass    5C
+Pass    6C      Pass    Pass
+Pass
+[Play "N"]
+HJ HQ HK HA
+S7 SJ SQ S2
+H2 H4 H9 H5
+H3 C6 H6 S4
+ST S3 S9 C4
+C3 C7 C2 CA
+CT C8 C5 CK
+D3 CQ CJ C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "78"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K63.Q953.KQT7.74 J4.K.9854.AKQ986 AQ97.JT8742..J53 T852.A6.AJ632.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    1D      1H      1S
+3H      4C      Pass    4D
+Pass    Pass    Pass
+[Play "W"]
+HJ H6 H3 HK
+H2 DA D7 D4
+H4 HA H5 S4
+C3 C2 C4 CK
+C5 CT C7 CA
+CJ S2 DT CQ
+SQ S5 S3 SJ
+SA S8 S6 D5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "78"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K63.Q953.KQT7.74 J4.K.9854.AKQ986 AQ97.JT8742..J53 T852.A6.AJ632.T2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "E"]
+Pass    1C      1H      X
+3H      3NT     4H      X
+Pass    5C      X       Pass
+Pass    Pass
+[Play "W"]
+HJ H6 H3 HK
+H2 DA D7 D4
+H4 HA H5 S4
+C3 C2 C4 CA
+C5 CT C7 CK
+CJ S2 S3 CQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "79"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T63.543.QJ.T8654 QJ982.AKJ.K962.9 K74.QT8762.AT7.2 A5.9.8543.AKQJ73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "S"]
+Pass    1S      Pass    3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+H2 H9 H3 HJ
+H6 D3 H4 HA
+C2 CA C4 C9
+S4 CK C5 S2
+HQ CQ C6 S8
+D7 CJ C8 D2
+S7 SA S3 S9
+SK S5 S6 SJ
+H7 C3 H5 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "79"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T63.543.QJ.T8654 QJ982.AKJ.K962.9 K74.QT8762.AT7.2 A5.9.8543.AKQJ73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "S"]
+Pass    1S      2H      3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+H7 H9 H3 HJ
+H2 D3 H4 HA
+C2 CA C4 C9
+S4 CK C5 S2
+HQ CQ C6 D2
+S7 SA S3 S8
+SK S5 S6 SQ
+H6 D4 H5 HK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "80"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q852.3.AKJ8.K654 KJ.K652.Q97.A873 A6.AQT94.652.QT2 T9743.J87.T43.J9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "5"]
+[Score "NS -500"]
+[Auction "W"]
+1D      X       XX      1S
+X       1NT     X       XX
+Pass    2C      Pass    Pass
+X       Pass    Pass    2D
+Pass    Pass    X       Pass
+Pass    2S      X       Pass
+Pass    Pass
+[Play "W"]
+H3 H2 HQ H7
+DA D7 D2 D3
+DK D9 D5 D4
+C4 C3 CQ C9
+C5 H5 HA H8
+S2 H6 H4 HJ
+D8 DQ D6 DT
+S5 HK H9 CJ
+DJ C7 CT S3
+S8 SJ SA S4
+SQ SK HT S7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "80"]
+[West "Franco"]
+[North "Eisenberg"]
+[East "Pittala"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q852.3.AKJ8.K654 KJ.K652.Q97.A873 A6.AQT94.652.QT2 T9743.J87.T43.J9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "W"]
+1D      Pass    1H      Pass
+1S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+DT DJ DQ D2
+HJ H3 H2 HT
+D3 DA D7 D5
+CJ C4 C3 CT
+D4 D8 D9 D6
+C9 CK C7 C2
+S3 DK H5 H4
+S4 C5 CA CQ
+H7 C6 C8 H9
+H8 S2 H6 HA
+S7 S5 HK HQ
+S9 SQ SJ S6
+ST S8 SK SA
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[HomeTeam "Italy"]
+[VisitTeam "USA"]
+[Room "Open"]
+[Board "81"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK974.A7.K94.962 62.K3.AT65.AJ854 QJ.QJT4.873.KQT7 T853.98652.QJ2.3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "N"]
+1S 2C X Pass
+Pass 2D 3NT Pass
+Pass Pass
+[Play "W"]
+DQ D4 D6 D3
+DJ DK DA D7
+D2 D9 DT D8
+H2 C2 D5 H4
+C3 C6 CA C7
+H8 C9 C4 CT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "81"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK974.A7.K94.962 62.K3.AT65.AJ854 QJ.QJT4.873.KQT7 T853.98652.QJ2.3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "N"]
+1S Pass 2C Pass
+2S Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+DQ D4 D6 D3
+DJ DK DA D7
+D2 D9 DT D8
+H2 C2 D5 H4
+C3 C6 C4 CK
+S3 S4 S2 SQ
+S5 S7 S6 SJ
+H5 HA H3 HQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "82"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ.QT65.J73.Q754 K965.KJ3.K864.AJ A432.A2.AQ52.K92 T87.9874.T9.T863"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1D 1NT Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H9 H5 H3 HA
+H4 H6 HJ H2
+S7 SJ SK S2
+S8 SQ S5 S3
+C3 C4 CJ CK
+C6 CQ CA C2
+ST D3 S6 SA
+H7 C5 S9 S4
+D9 DJ D4 D2
+DT D7 D6 DQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "82"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ.QT65.J73.Q754 K965.KJ3.K864.AJ A432.A2.AQ52.K92 T87.9874.T9.T863"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "6"]
+[Score "NS -500"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1NT X 2C
+X Pass Pass XX
+Pass 2D X XX
+Pass 2S X Pass
+Pass Pass
+[Play "W"]
+S2 S7 SJ SK
+S3 S8 SQ S5
+HA H4 H5 HJ
+SA ST C7 S6
+H2 H7 HT HK
+S4 D9 H6 S9
+C2 H8 HQ H3
+DA DT DJ DK
+DQ C3 D3 D4
+D2 C6 D7 D8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "83"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J.K.AKT9876.9753 T95.A83.54.KT862 KQ8763.QJT62.32. A42.9754.QJ.AQJ4"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 1S X
+2D 3C 3H Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "E"]
+CA C3 C2 S3
+H7 HK HA H2
+DJ DA D4 D2
+S2 SJ S5 S6
+C4 C5 C8 S7
+SA D6 S9 SK
+DQ DK D5 D3
+S4 D7 H3 H6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "83"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J.K.AKT9876.9753 T95.A83.54.KT862 KQ8763.QJT62.32. A42.9754.QJ.AQJ4"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "12"]
+[Score "NS 170"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 1S Pass
+2D Pass 2H Pass
+3D Pass Pass Pass
+[Play "W"]
+ST S3 S2 SJ
+H3 H2 H4 HK
+C2 D2 C4 C3
+S5 SK SA D6
+C6 D3 CJ C5
+S9 SQ S4 C7
+C8 S8 DQ DA
+D4 S6 DJ DK
+D5 S7 H5 DT
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "84"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T6.73.KJ87.KT643 Q73.A864.AT3.Q92 AJ952.KJT.94.A87 K84.Q952.Q652.J5"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1D 1S X
+Pass 1NT Pass Pass
+Pass
+[Play "E"]
+S5 S4 ST SQ
+HT H2 H3 HA
+HK H9 H7 H4
+SA S8 S6 S3
+S2 SK C3 S7
+HJ HQ C6 H6
+C7 H5 D8 H8
+CA C5 C4 C2
+SJ D2 D7 D3
+S9 D5 CT C9
+D9 DQ DK DT
+D4 D6 DJ DA
+C8 CJ CK CQ
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "84"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T6.73.KJ87.KT643 Q73.A864.AT3.Q92 AJ952.KJT.94.A87 K84.Q952.Q652.J5"]
+[Declarer "N"]
+[Contract "2HX"]
+[Result "7"]
+[Score "NS -200"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H 1S 2H
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+D9 D2 DJ DA
+HK H2 H3 H4
+D4 D5 DK D3
+HT D6 D7 DT
+SA S4 S6 S3
+S2 S8 ST SQ
+HJ H5 H7 HA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "85"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q.T7.AQJ965.T865 KJT743.A862..A92 92.QJ43.K32.KJ43 A865.K95.T874.Q7"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 2S
+3D 4S Pass Pass
+Pass
+[Play "S"]
+S2 S5 SQ SK
+S9 S6 D6 SJ
+CK C7 C5 C2
+C3 CQ C6 C9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "85"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q.T7.AQJ965.T865 KJT743.A862..A92 92.QJ43.K32.KJ43 A865.K95.T874.Q7"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+HQ H5 H7 HA
+S2 S5 SQ SK
+S9 S6 D6 SJ
+H3 HK HT H2
+HJ H9 C6 H6
+C4 C7 CT CA
+H4 CQ C5 H8
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "86"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ3.KQT7.Q94.K32 A98764.32.8.QT85 T5.9865.AT63.AJ4 J2.AJ4.KJ752.976"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "E"]
+1H 1S 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+D8 D3 DK D9
+SA S5 SJ SQ
+S4 ST S2 S3
+H2 H5 HA H7
+H3 D6 D2 D4
+S6 H6 HJ SK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "86"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ3.KQT7.Q94.K32 A98764.32.8.QT85 T5.9865.AT63.AJ4 J2.AJ4.KJ752.976"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT 2S 3C Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "S"]
+D8 DA D2 D4
+H2 H5 HA H7
+S9 D3 DK D9
+H3 D6 D5 DQ
+C5 C4 C9 CK
+S4 H6 H4 HK
+S6 H8 HJ HQ
+CT CJ C6 C3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "87"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K97.A65.T5.KJT74 JT5.KQJ7.AK4.Q62 8642.T942.J62.A3 AQ3.83.Q9873.985"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2C
+X 2H Pass 2NT
+Pass Pass Pass
+[Play "N"]
+CA C5 C7 C2
+C3 C8 CK C6
+S4 C9 C4 CQ
+H2 H3 HA HK
+S2 D3 CJ S5
+S8 S3 CT H7
+H4 H8 H5 HJ
+H9 SQ H6 HQ
+D2 D7 D5 DA
+D6 D8 DT DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "87"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K97.A65.T5.KJT74 JT5.KQJ7.AK4.Q62 8642.T942.J62.A3 AQ3.83.Q9873.985"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS -120"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2C
+X 2H Pass 2NT
+Pass Pass Pass
+[Play "N"]
+CA C5 C7 C2
+C3 C8 CK C6
+S8 C9 C4 CQ
+H2 H3 H5 HK
+H4 H8 HA HQ
+S6 D3 CJ S5
+S2 S3 CT H7
+H9 SQ H6 HJ
+D2 D7 D5 DA
+D6 D8 DT DK
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "88"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ92.T74.J7432.T K854.K8632.85.Q6 T3.AQ5.T9.J97543 A76.J9.AKQ6.AK82"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 1NT
+Pass 2C Pass 2D
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Play "W"]
+D3 D5 D9 DA
+H4 H2 HQ HJ
+D2 D8 DT DK
+H7 H3 H5 H9
+CT CQ C3 C2
+HT H6 HA D6
+D4 C6 CJ CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "88"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ92.T74.J7432.T K854.K8632.85.Q6 T3.AQ5.T9.J97543 A76.J9.AKQ6.AK82"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass Pass 2NT
+Pass 3C Pass 3D
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+SQ S4 S3 S6
+S2 SK ST S7
+HT H2 H5 H9
+D2 D5 D9 DA
+H4 H3 HQ HJ
+CT C6 C3 CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "89"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ53.J5.AK532.73 J98742.986.QJ.J8 A6.Q74.T4.K96542 T.AKT32.9876.AQT"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "N"]
+1D Pass 1NT 2H
+2S Pass 3C Pass
+Pass Pass
+[Play "W"]
+HA H5 H6 H4
+HK HJ H8 H7
+H2 S3 H9 HQ
+CT C3 C8 C2
+D9 DA DJ D4
+CQ C7 CJ C4
+CA D2 S2 C5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "89"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ53.J5.AK532.73 J98742.986.QJ.J8 A6.Q74.T4.K96542 T.AKT32.9876.AQT"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "N"]
+1S Pass 1NT X
+2D Pass Pass Pass
+[Play "E"]
+CJ C2 CQ C3
+DJ D4 D6 DA
+C8 C9 CT C7
+H6 H4 HA H5
+S2 S6 ST SK
+H8 H7 HK HJ
+DQ C4 CA D2
+S4 SA D7 S3
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "90"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKJ52.J982.Q.AJT 943.K43.K53.9865 QT76.QT65.T976.K 8.A7.AJ842.Q7432"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 2S 2NT
+X 3C Pass Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+D3 D6 DA DQ
+H3 H5 HA H2
+HK H6 H7 H8
+H4 HT S8 H9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "90"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKJ52.J982.Q.AJT 943.K43.K53.9865 QT76.QT65.T976.K 8.A7.AJ842.Q7432"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 2S 2NT
+X Pass 3C Pass
+3H Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+D3 D6 DA DQ
+H4 H5 HA H2
+HK H6 H7 H8
+H3 HT S8 H9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "91"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ32.KQ8.QJ96.32 94.T973.8752.T75 KT875.J642.AK.J4 J6.A5.T43.AKQ986"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT Pass 2C X
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+C5 CJ CQ C2
+C7 C4 CA C3
+D2 DA D3 D6
+S4 S5 S6 SA
+S9 S7 SJ SQ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "91"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ32.KQ8.QJ96.32 94.T973.8752.T75 KT875.J642.AK.J4 J6.A5.T43.AKQ986"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "S"]
+1S Pass 4D Pass
+4S Pass Pass Pass
+[Play "W"]
+HT H2 HA H8
+C5 C4 CA C2
+C7 CJ CK C3
+H3 H4 H5 HQ
+S4 S5 S6 SA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "92"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:43.QT87.QT64.754 AKT9..A97.J98632 7652.K432.J53.KT QJ8.AJ965.K82.AQ"]
+[Declarer "N"]
+[Contract "7C"]
+[Result "13"]
+[Score "NS 2140"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2S Pass 3H
+Pass 3NT Pass 4C
+Pass 4D Pass 4NT
+Pass 5D Pass 5H
+X XX Pass 5S
+X 5NT Pass 7C
+Pass Pass Pass
+[Play "E"]
+H2 H5 HQ C2
+CT CQ C4 C3
+CK CA C5 C6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "92"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:43.QT87.QT64.754 AKT9..A97.J98632 7652.K432.J53.KT QJ8.AJ965.K82.AQ"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "13"]
+[Score "NS 1470"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 3C Pass 4NT
+Pass 5H Pass 6NT
+Pass Pass Pass
+[Play "W"]
+C5 C9 CT CQ
+C4 C2 CK CA
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "93"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.Q84.QT832.AKJ J854.J5.964.Q654 AQ63.K9632.A7.T7 972.AT7.KJ5.9832"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2C Pass
+2D Pass 3H Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "W"]
+C9 CK C6 C7
+HA H4 H5 HK
+C2 CA C4 CT
+H7 HQ HJ H2
+S2 SK S4 S3
+S7 ST SJ SQ
+S9 H8 S5 S6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "93"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.Q84.QT832.AKJ J854.J5.964.Q654 AQ63.K9632.A7.T7 972.AT7.KJ5.9832"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2D Pass
+2NT Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+C8 CK C6 C7
+HA H4 H5 HK
+C2 CA C4 CT
+H7 HQ HJ H2
+S2 SK S4 S3
+S7 ST SJ SQ
+S9 H8 S5 S6
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "94"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KJ92.AJ973.965.6 .KT42.AKT3.T9543 QT765.5.J842.AKQ A843.Q86.Q7.J872"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1D 1S X
+XX 2S 3C X
+3S Pass Pass Pass
+[Play "N"]
+S3 S9 HT S5
+C2 C6 C3 CA
+C7 D5 C4 CK
+C8 D6 C5 CQ
+H6 HA H2 H5
+DQ D9 D3 DJ
+SA S2 CT S6
+S4 SJ C9 S7
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "94"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KJ92.AJ973.965.6 .KT42.AKT3.T9543 QT765.5.J842.AKQ A843.Q86.Q7.J872"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1S Pass
+4S Pass Pass Pass
+[Play "N"]
+C2 C6 C9 CA
+C7 D5 C3 CK
+C8 D6 C4 CQ
+DQ D9 D3 D2
+SA S2 DT S5
+S3 S9 CT S6
+H6 HA H2 H5
+H8 H3 H4 S7
+D7 SJ DK D4
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "95"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:972.AQ98.K75.J84 J.JT652.Q8.K6532 KT654.K4.643.AT7 AQ83.73.AJT92.Q9"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H 1S 1NT
+Pass 2C Pass 2D
+Pass Pass Pass
+[Play "S"]
+S7 SJ SK SA
+S2 H2 S4 SQ
+S9 D8 S5 S3
+C4 C2 CA C9
+DK DQ D3 D2
+C8 C3 CT CQ
+D5 H5 D4 DA
+D7 H6 D6 DJ
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "95"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:972.AQ98.K75.J84 J.JT652.Q8.K6532 KT654.K4.643.AT7 AQ83.73.AJT92.Q9"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass 1S Pass
+1NT Pass Pass Pass
+[Play "W"]
+H2 H4 H7 H9
+SJ SK SA S2
+D8 D3 DJ D5
+DQ D4 D2 DK
+C2 ST SQ S7
+C3 D6 DA D7
+C6 S4 DT C4
+H6 S5 D9 C8
+HT HK H3 H8
+H5 S6 S8 S9
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Open"]
+[Board "96"]
+[West "Eisenberg"]
+[North "Belladonna"]
+[East "Kantar"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K83.K975.A965.T5 J9762.T64.J8.AJ3 AT4.AJ2.KQ7.KQ76 Q5.Q83.T432.9842"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1C Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S2 S4 SQ SK
+H4 HJ HQ H5
+S9 ST S5 S3
+CA CK C4 C5
+S6 SA D4 S8
+H6 HA H3 H7
+HT H2 H8 HK
+D8 C6 C2 H9
+CJ CQ C8 CT
+DJ DK D2 D5
+*
+
+[Event "1975 Bermuda Bowl Final"]
+[Site "Bermuda"]
+[Date "1975.01.30"]
+[Room "Closed"]
+[Board "96"]
+[West "Franco"]
+[North "Hamman"]
+[East "Pittala"]
+[South "Wolff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K83.K975.A965.T5 J9762.T64.J8.AJ3 AT4.AJ2.KQ7.KQ76 Q5.Q83.T432.9842"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1C Pass
+2C Pass 2D Pass
+2H Pass 2NT Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "S"]
+C2 C5 CA C6
+C4 CT CJ CK
+D2 D5 D8 DK
+D3 D6 DJ DQ
+D4 DA S2 D7
+HQ H5 H4 HJ
+DT D9 C3 S4
+C8 S3 S6 CQ
+H3 H7 H6 HA
+H8 HK HT H2
+*
+

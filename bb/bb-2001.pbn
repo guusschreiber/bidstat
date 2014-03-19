@@ -1,0 +1,7795 @@
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "1"]
+[HomeTeam "USA"]
+[VisitTeam "Norway"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ5.QJ832.T8.J97 83.A5.7653.QT543 74.T64.AKQ9.AK86 AJT962.K97.J42.2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "N"]
+Pass 1NT 2D Pass
+2H Pass 2S 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+S8 S4 SA S5
+CQ CA C2 CJ
+HA H4 H7 HJ
+CT CK H9 -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "1"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ5.QJ832.T8.J97 83.A5.7653.QT543 74.T64.AKQ9.AK86 AJT962.K97.J42.2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "N"]
+Pass 1NT 2S 2NT
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "S"]
+D2 D8 D6 D9
+H7 HQ HA H6
+D4 DT D3 DA
+H9 H2 H5 HT
+HK H3 S8 H4
+SA - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:63.KQ5.QJ97.A972 Q72.AJ9.82.QJT64 AJ94.T43.AT.K853 KT85.8762.K6543."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "E"]
+1C Pass 2C Pass
+3NT Pass Pass Pass
+[Play "S"]
+D4 DQ D2 DT
+H7 C7 C4 C5
+D3 D7 D8 DA
+H2 HK H9 H4
+DK DJ C6 C3
+H6 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:63.KQ5.QJ97.A972 Q72.AJ9.82.QJT64 AJ94.T43.AT.K853 KT85.8762.K6543."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "E"]
+1C Pass 1D Pass
+1S Pass 2H Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+CQ C3 D6 CA
+CT CK D3 C7
+D2 DA D4 D7
+D8 DT D5 DQ
+CJ C5 H2 C2
+S2 S4 S8 S3
+SQ SA S5 S6
+HA H3 H6 HK
+S7 S9 ST H5
+C4 SJ SK C9
+- - DK -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K86.K92.K8742.J9 A4.A6.QJ53.AQ832 T7.53.AT96.KT654 QJ9532.QJT874..7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "S"]
+2S Pass 2NT Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "W"]
+D2 DQ DA S2
+S6 SA S7 S3
+SK S4 ST SQ
+S8 C2 C4 SJ
+H2 HA H3 H4
+HK H6 H5 HT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K86.K92.K8742.J9 A4.A6.QJ53.AQ832 T7.53.AT96.KT654 QJ9532.QJT874..7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "S"]
+2D Pass 2NT Pass
+3S Pass 3NT Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "W"]
+CJ CA C6 C7
+S6 SA S7 S2
+SK S4 ST SJ
+D2 DJ DA S3
+S8 C2 D6 SQ
+H2 HA H3 H4
+HK H6 H5 HT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Deal "W:7.K9432.Q2.KQ852 JT9632.A.A653.T3 AK8.JT765.KJ4.96 Q54.Q8.T987.AJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass 2S Pass 3S
+Pass Pass Pass
+[Play "E"]
+C9 C4 CQ C3
+D4 D7 D2 DA
+SK S4 S7 ST
+C6 CA C2 CT
+SA S5 H2 S9
+S8 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Deal "W:7.K9432.Q2.KQ852 JT9632.A.A653.T3 AK8.JT765.KJ4.96 Q54.Q8.T987.AJ74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass 1S Pass 2S
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+HJ H8 H2 HA
+C6 CA C2 C3
+SK SQ S7 S2
+H6 HQ HK S3
+SA S4 C5 ST
+S8 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K42.J8763.Q765.5 JT875.K95.K9.A84 Q3.QT2.AJ82.Q972 A96.A4.T43.KJT63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "11"]
+[Score "NS 200"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass Pass Pass
+[Play "E"]
+S3 S6 SK S5
+C9 CJ C5 C8
+H2 H4 H3 HK
+SQ SA S2 SJ
+D2 S9 S4 ST
+C2 C3 H6 CA
+C7 CT H7 C4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K42.J8763.Q765.5 JT875.K95.K9.A84 Q3.QT2.AJ82.Q972 A96.A4.T43.KJT63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1S Pass 2C Pass
+2NT Pass 3S Pass
+4S Pass Pass Pass
+[Play "E"]
+H2 H4 HJ HK
+S3 S6 SK S7
+C7 CT C5 C4
+SQ SA S2 S5
+D2 S9 S4 SJ
+C2 C3 H3 CA
+CQ CK D5 C8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ642.J8.KJ52.A5 AJ83.T432.83.943 T.K975.A976.KJ86 975.AQ6.QT4.QT72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2D Pass
+3D Pass Pass Pass
+[Play "N"]
+D8 D9 DQ DK
+SA ST S5 SQ
+D3 D6 DT DJ
+S3 D7 S7 S4
+C3 CK C2 C5
+C4 C6 C7 CA
+S8 DA S9 S2
+C9 C8 CT D2
+SJ H5 D4 D5
+- - - SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ642.J8.KJ52.A5 AJ83.T432.83.943 T.K975.A976.KJ86 975.AQ6.QT4.QT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2D Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+C2 C5 C9 CJ
+D4 DJ D3 D7
+HQ HJ H4 H5
+S5 S2 SJ ST
+S9 SK S3 C6
+HA H8 H2 HK
+S7 SQ SA -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Deal "W:T.J98542.QT73.43 987642.3.A96.AK8 AKQJ5.K76.84.J96 3.AQT.KJ52.QT752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2NT Pass 3NT X
+Pass Pass XX Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "W"]
+ST S2 S5 S3
+C3 C8 CJ CQ
+D3 DA D4 D2
+H2 H3 H6 HQ
+C4 CA C6 C2
+DQ D6 D8 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Deal "W:T.J98542.QT73.43 987642.3.A96.AK8 AKQJ5.K76.84.J96 3.AQT.KJ52.QT752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2NT Pass 3S Pass
+3NT Pass Pass Pass
+[Play "W"]
+H5 H3 HK HA
+C4 CK C6 C2
+C3 CA C9 C5
+H2 C8 CJ CQ
+H4 S2 S5 CT
+H8 S4 H6 C7
+D3 DA D4 D2
+DQ D6 D8 DJ
+ST - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ.A5432.5.T9753 A7.Q86.AK872.KJ2 JT9843.KJT.Q93.6 652.97.JT64.AQ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Auction "W"]
+Pass 1D 1S 2D
+X 2NT Pass Pass
+Pass
+[Play "E"]
+SJ S2 SQ SA
+C6 C4 C3 CK
+D3 D4 D5 DA
+S3 C8 C5 CJ
+HT CQ C7 C2
+ST CA C9 S7
+D9 DT CT DK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ.A5432.5.T9753 A7.Q86.AK872.KJ2 JT9843.KJT.Q93.6 652.97.JT64.AQ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass 1D 2S 2NT
+3S X Pass 5D
+Pass Pass Pass
+[Play "E"]
+SJ S2 SQ SA
+D3 D4 D5 DA
+D9 D6 H2 DK
+C6 C4 C3 CK
+DQ - - CJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K6.AQJ832.K84.J8 T82.T95.Q72.Q954 Q53.K764.3.AKT76 AJ974..AJT965.32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 2H 2S 4H
+Pass Pass 4S Pass
+Pass 5D Pass 5H
+Pass Pass Pass
+[Play "N"]
+S2 S3 SA S6
+D2 D3 DA D4
+S8 - S9 SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K6.AQJ832.K84.J8 T82.T95.Q72.Q954 Q53.K764.3.AKT76 AJ974..AJT965.32"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "N"]
+Pass 1C 1S 2H
+Pass 4H 5D 5H
+Pass Pass Pass
+[Play "N"]
+DQ D3 DA D4
+S2 S3 SA S6
+S8 - S4 SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Deal "W:AKT83.J94.75.J85 Q.Q8653.Q843.K97 9754.AT7.JT2.QT3 J62.K2.AK96.A642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+Pass 1C 1S X
+2S X Pass 3H
+Pass Pass Pass
+[Play "E"]
+S5 S2 SK SQ
+H7 HK HJ H3
+HT H2 H4 H8
+S4 S6 S8 C7
+S7 SJ SA H5
+D2 DA D5 D3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Deal "W:AKT83.J94.75.J85 Q.Q8653.Q843.K97 9754.AT7.JT2.QT3 J62.K2.AK96.A642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "E"]
+Pass 1NT Pass 2D
+Pass 2H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+S8 SQ S5 S6
+H4 H3 H7 HK
+H9 HQ HA H2
+CJ CK C3 C2
+HJ H6 HT D6
+SA H5 S4 S2
+C5 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QT3.982.T5.KJ932 AK4.AJ.K872.QT64 9652.643.AJ64.85 J87.KQT75.Q93.A7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Auction "S"]
+1H Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S3 S4 S9 SJ
+DT DK DA D3
+ST SK S6 S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QT3.982.T5.KJ932 AK4.AJ.K872.QT64 9652.643.AJ64.85 J87.KQT75.Q93.A7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Auction "S"]
+1H Pass 2C Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S3 S4 S9 SJ
+D5 DK DA D3
+ST SK S2 S7
+- HA - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQT.K762.64.8752 953.J853.K.AKQT4 A82.94.A9873.J93 J764.AQT.QJT52.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1DX"]
+[Result "5"]
+[Score "NS 300"]
+[Auction "W"]
+Pass 1C 1D Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+C6 C7 CA C3
+S7 C2 CQ C9
+S4 C5 CK CJ
+DT C8 CT D9
+HQ HK H5 H4
+D2 D4 DK DA
+S6 ST S3 SA
+SJ SK S5 S2
+D5 SQ S9 S8
+HA H2 H3 H9
+HT H6 H8 D3
+- - - D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQT.K762.64.8752 953.J853.K.AKQT4 A82.94.A9873.J93 J764.AQT.QJT52.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "5"]
+[Score "NS 500"]
+[Auction "W"]
+Pass 1C 1D 1S
+1NT Pass Pass X
+Pass Pass 2D X
+Pass Pass Pass
+[Play "S"]
+C6 C2 CQ C3
+S4 C5 CK C9
+S6 C7 CA CJ
+DT C8 CT D9
+S7 SK S3 S2
+D2 D4 DK DA
+DJ D6 S5 D3
+HQ - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Deal "W:KJT5.84.8.AQJ964 A97.AKJ962.J972. Q84.Q7.AK54.T852 632.T53.QT63.K73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "N"]
+1H Pass 1NT 2C
+2H 3H Pass 3S
+Pass 4C Pass Pass
+Pass
+[Play "N"]
+HK H7 H3 H4
+HA HQ H5 H8
+D2 DA D3 D8
+- CT C3 C4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Deal "W:KJT5.84.8.AQJ964 A97.AKJ962.J972. Q84.Q7.AK54.T852 632.T53.QT63.K73"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+1H Pass 1NT 2C
+3H 4C Pass 4S
+Pass Pass Pass
+[Play "N"]
+HA H7 H3 H4
+HK HQ H5 H8
+HJ SQ HT C4
+SA S4 S2 ST
+H6 S8 D3 C6
+S7 C2 C3 CQ
+D2 DA D6 D8
+D7 DK DT C9
+D9 D4 DQ S5
+- - - SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A.AKJT42.AK6.A97 KT752.3.Q95.Q843 J9643.96.T832.T6 Q8.Q875.J74.KJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+3C Pass 3D Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+S5 S3 S8 SA
+C3 C6 C2 CA
+C4 CT CK C7
+H3 H6 H5 HA
+C8 H9 C5 C9
+S2 S4 SQ H2
+S7 S6 H7 HK
+ST S9 HQ HJ
+CQ D2 CJ H4
+SK SJ H8 HT
+D5 D3 D4 DA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A.AKJT42.AK6.A97 KT752.3.Q95.Q843 J9643.96.T832.T6 Q8.Q875.J74.KJ52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 3H Pass
+3S Pass 4C Pass
+4H Pass 6H Pass
+Pass Pass
+[Play "N"]
+S2 S3 SQ SA
+C3 CT CJ C7
+S5 S4 S8 H2
+C4 C6 C2 CA
+C8 H6 C5 C9
+H3 H9 H5 HJ
+S7 D2 H7 HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J9.QJ3.KJ876.K53 KQ643.85.32.AT87 A8.KT7642.94.962 T752.A9.AQT5.QJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "11"]
+[Score "NS 990"]
+[Auction "S"]
+1NT Pass 2H X
+2S 3S X XX
+Pass 4H X Pass
+4S X Pass Pass
+Pass
+[Play "W"]
+S9 SK SA S2
+H3 H5 H4 HA
+C3 C7 C2 CQ
+SJ SQ S8 S7
+D6 S3 H2 ST
+C5 C8 C6 CJ
+CK CA C9 C4
+D7 CT H6 H9
+DK D2 D9 DQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J9.QJ3.KJ876.K53 KQ643.85.32.AT87 A8.KT7642.94.962 T752.A9.AQT5.QJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass 3C Pass
+4S Pass Pass Pass
+[Play "E"]
+H7 HA H3 H5
+SA S2 S9 SQ
+HK H9 HJ H8
+D9 DQ DK D2
+S8 S5 SJ SK
+D4 DA D6 D3
+C2 CQ C3 C7
+C6 CJ C5 C8
+- C4 CK -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[Room "Open"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:532.J2.K987.AT94 8764.AT753.62.Q6 QJT.6.QJ53.K8532 AK9.KQ984.AT4.J7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 3H Pass Pass
+Pass
+[Play "W"]
+H2 H3 H6 H9
+HJ HA C2 HQ
+S2 S4 ST SA
+- - - S9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 1"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[Room "Closed"]
+[West "Meltzer R."]
+[North "Saelensminde"]
+[East "Larsen Kyle"]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:532.J2.K987.AT94 8764.AT753.62.Q6 QJT.6.QJ53.K8532 AK9.KQ984.AT4.J7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+Pass 2D Pass 3C
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+DQ DA D7 D6
+H6 HK H2 H3
+ST SA S2 S4
+SJ SK S3 S6
+C2 H4 HJ HA
+SQ S9 S5 S7
+D3 D4 DK D2
+C3 C7 CA C6
+- - C4 -
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[HomeTeam "USA"]
+[VisitTeam "Norway"]
+[Board "1"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8.KJ7643.QJ32.Q9 K2.AQ.AKT5.AJ876 A974.T952.98.K54 QJT653.8.764.T32"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -400"]
+[Scoring "IMP"]
+[Auction "N"]
+2H 3NT Pass Pass
+Pass
+[Play "S"]
+H2 H8 HK HA
+S7 SQ S8 S2
+CK C2 C9 CJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "1"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8.KJ7643.QJ32.Q9 K2.AQ.AKT5.AJ876 A974.T952.98.K54 QJT653.8.764.T32"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+2H X 4H 4S
+Pass 5NT Pass 6S
+Pass Pass Pass
+[Play "N"]
+H6 HQ H5 H8
+S8 SK S4 S3
+H3 HA H2 D4
+H4 S2 S7 SQ
+H7 C6 SA SJ
+HJ C7 HT S5
+D2 DA D8 D7
+D3 DK D9 D6
+DJ D5 C4 S6
+HK DT S9 ST
+C9 CA C5 C2
+CQ C8 CK C3
+DQ CJ H9 CT
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K9.J5.J8432.9764 AJ7654.97.AK.KQ8 3.AKT632.Q9765.2 QT82.Q84.T.AJT53"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1S 2H 3H
+Pass 4C Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+HA H4 H5 H7
+HK H8 HJ H9
+H2 HQ S9 SJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K9.J5.J8432.9764 AJ7654.97.AK.KQ8 3.AKT632.Q9765.2 QT82.Q84.T.AJT53"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1C 4H X
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+HK H4 HJ H7
+HA H8 H5 H9
+H6 HQ S9 SJ
+D5 DT D2 DA
+D6 S8 D3 DK
+S3 SQ SK SA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9.K9865.J6.AQT42 Q642.Q.KQ9752.53 JT753.A72.A843.7 AK8.JT43.T.KJ986"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "S"]
+1H Pass 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+DK DA DT D6
+C3 C7 C6 CQ
+C5 H2 C8 C2
+S2 S3 SA S9
+HQ HA CK C4
+S4 S5 SK H5
+D2 H7 C9 CT
+DQ D3 CJ DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9.K9865.J6.AQT42 Q642.Q.KQ9752.53 JT753.A72.A843.7 AK8.JT43.T.KJ986"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 3H Pass
+Pass Pass
+[Play "W"]
+DK DA DT D6
+S6 S3 SA S9
+HQ HA H3 H6
+C3 C7 C6 CQ
+C5 S5 C8 CA
+D2 H2 C9 C2
+S2 S7 S8 H5
+D5 H7 CJ C4
+S4 SJ SK H8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T82.92.J76.QT875 A753.AQ63.A2.K62 Q96.KT8.K943.J94 KJ4.J754.QT85.A3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 660"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+D4 DT DJ DA
+S6 SJ S2 S5
+HK H4 H2 HQ
+C4 C3 CQ CK
+H8 HJ H9 H3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T82.92.J76.QT875 A753.AQ63.A2.K62 Q96.KT8.K943.J94 KJ4.J754.QT85.A3"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C Pass 1NT
+Pass 2C Pass 2H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+C5 C2 CJ CA
+H2 HQ HK H4
+C7 CK C4 C3
+H9 HA H8 H5
+S2 S3 S6 SJ
+C8 H3 HT HJ
+D6 DA D3 D5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.T987.T6432.7 97632.A52.A.QJ64 KT54.QJ4.Q7.AK82 8.K63.KJ985.T953"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1NT Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "W"]
+C5 C7 CJ CA
+C3 SJ C4 C2
+HK HT H2 HQ
+S8 SA S2 S4
+H3 H9 HA H4
+D5 SQ S3 S5
+H6 H7 H5 HJ
+- - - SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQJ.T987.T6432.7 97632.A52.A.QJ64 KT54.QJ4.Q7.AK82 8.K63.KJ985.T953"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S 1NT Pass
+Pass Pass
+[Play "W"]
+D8 D2 DA D7
+C9 C7 C4 C2
+C3 D3 CJ CK
+S8 SA S2 S5
+HK HT H2 H4
+DK D4 C6 DQ
+C5 H7 CQ C8
+CT SQ S6 S4
+D5 SJ S3 ST
+H3 H9 HA HJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:.J94.K532.AQJ642 AJT976.K6.AQ4.75 432.Q32.T9876.T8 KQ85.AT875.J.K93"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 450"]
+[Scoring "IMP"]
+[Auction "E"]
+1C 1S Pass 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "W"]
+CT C3 C2 C5
+C8 CK CA C7
+D6 C9 CJ S6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:.J94.K532.AQJ642 AJT976.K6.AQ4.75 432.Q32.T9876.T8 KQ85.AT875.J.K93"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 450"]
+[Scoring "IMP"]
+[Auction "E"]
+2C 2S Pass 4S
+Pass Pass Pass
+[Play "W"]
+CT C3 C6 C7
+C8 CK CA C5
+D6 C9 CQ SJ
+S2 SK C2 S6
+D7 DJ D2 DA
+D8 S5 D3 D4
+S3 S8 C4 S9
+D9 SQ D5 DQ
+H2 H5 H4 HK
+S4 H7 H9 SA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AJ43.KJ.AK7.K962 Q9.A972.J986.J54 T652.T86.43.Q873 K87.Q543.QT52.AT"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "S"]
+1C Pass Pass X
+XX 1H 2C Pass
+Pass 2D Pass Pass
+2S Pass Pass Pass
+[Play "W"]
+D8 D3 DQ DA
+D6 D4 D2 DK
+D9 S2 D5 D7
+C4 C3 CT CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AJ43.KJ.AK7.K962 Q9.A972.J986.J54 T652.T86.43.Q873 K87.Q543.QT52.AT"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "S"]
+1C Pass 1D Pass
+1NT Pass Pass Pass
+[Play "W"]
+D6 D3 DQ DA
+C4 CQ CA C2
+D8 D4 D2 D7
+DJ S2 D5 DK
+CJ C3 CT C9
+D9 C7 DT S3
+SQ S5 S7 S4
+S9 S6 S8 SJ
+C5 C8 H3 C6
+HA H6 H4 HJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AT72.632.KQJ.K64 9653.874.T94.AQJ J8.KQJ5.875.9752 KQ4.AT9.A632.T83"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1H Pass
+1NT Pass Pass Pass
+[Play "N"]
+S6 S8 SQ SA
+H8 HK H9 H6
+CA C2 C3 CK
+S3 SJ SK S2
+S5 D5 S4 ST
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AT72.632.KQJ.K64 9653.874.T94.AQJ J8.KQJ5.875.9752 KQ4.AT9.A632.T83"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 80"]
+[Scoring "IMP"]
+[Auction "W"]
+1D Pass 1H X
+XX 1S Pass Pass
+Pass
+[Play "E"]
+HK H9 H2 H4
+HQ HT H6 H7
+H5 HA H3 H8
+C7 C3 C4 CQ
+S8 SK S2 S3
+D5 D2 DJ D4
+D7 DA DK D9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A85.K9.T75.97542 JT64.65.98.JT863 32.AJ743.QJ642.A KQ97.QT82.AK3.KQ"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1H X
+1NT Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+CK C2 C3 CA
+DK D5 D9 D4
+DA D7 D8 D2
+D3 DT H6 D6
+CQ C4 C6 H3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A85.K9.T75.97542 JT64.65.98.JT863 32.AJ743.QJ642.A KQ97.QT82.AK3.KQ"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1H X
+1NT Pass 2D X
+Pass 2S 3D Pass
+Pass Pass
+[Play "W"]
+DK D5 D8 D2
+DA D7 D9 D4
+D3 DT S4 DQ
+H2 H9 H5 H3
+H8 HK H6 H4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ98752.98.K86.K T63.Q52.T753.AT3 J4.KJ73.AQ42.954 K.AT64.J9.QJ8762"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -650"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 1NT 2C
+2S 3C 4S Pass
+Pass Pass
+[Play "S"]
+S3 S4 SK SA
+S6 SJ C7 S2
+D3 D2 D9 DK
+ST H3 C2 SQ
+H2 HJ - H9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ98752.98.K86.K T63.Q52.T753.AT3 J4.KJ73.AQ42.954 K.AT64.J9.QJ8762"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -650"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 1NT 2C
+2S 3C 4S Pass
+Pass Pass
+[Play "S"]
+CA C4 C2 CK
+C3 C5 CJ S2
+D3 DA D9 D8
+S3 S4 SK SA
+S6 SJ C6 S5
+D5 D2 DJ DK
+ST - - SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:97.A9754.QT84.83 Q86.Q83.K97.AT76 AT52.KJT62.J5.Q9 KJ43..A632.KJ542"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass 1H X
+3C X 3H 4C
+Pass Pass Pass
+[Play "S"]
+HA H3 H2 C2
+C3 C6 C9 CK
+C8 CA CQ C4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:97.A9754.QT84.83 Q86.Q83.K97.AT76 AT52.KJT62.J5.Q9 KJ43..A632.KJ542"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "S"]
+2D Pass 3H X
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+H2 D2 HA H3
+HK D3 H5 HQ
+HJ S3 H4 H8
+H6 C2 H9 D7
+HT C4 H7 S6
+DJ - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQJ42.J75.A97.T8 T876.KQ4.KT542.6 93.A63.J.AKQ9532 A5.T982.Q863.J74"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "W"]
+1S Pass 3C Pass
+3S Pass 4C Pass
+4D Pass 4H Pass
+4S Pass 6C Pass
+Pass Pass
+[Play "S"]
+HT H5 H4 HA
+SA S2 ST S3
+H9 H7 HQ H3
+H2 HJ HK H6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQJ42.J75.A97.T8 T876.KQ4.KT542.6 93.A63.J.AKQ9532 A5.T982.Q863.J74"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -400"]
+[Scoring "IMP"]
+[Auction "W"]
+1S Pass 2C Pass
+2S Pass 3H Pass
+3NT Pass Pass Pass
+[Play "N"]
+D2 DJ DQ DA
+C6 CA C4 CT
+D4 CK C7 C8
+H4 CQ CJ H5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J763.KQ76.A7.AQ5 KQ2.T52.JT83.K83 9854.83.9542.J72 AT.AJ94.KQ6.T964"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -630"]
+[Scoring "IMP"]
+[Auction "N"]
+1C Pass Pass 1NT
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+HK H2 H3 HA
+DA D3 D2 DK
+CQ CK C2 C4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J763.KQ76.A7.AQ5 KQ2.T52.JT83.K83 9854.83.9542.J72 AT.AJ94.KQ6.T964"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Room "Closed"]
+[Score "NS -200"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass Pass Pass
+[Play "E"]
+D3 D2 DQ D7
+H2 H3 H9 HK
+S2 S4 ST S7
+D8 D4 DK DA
+SQ S5 SA SJ
+DT D5 D6 H6
+DJ D9 C4 S3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:32.T9.Q432.T9853 T98.Q852.A76.742 K76.K3.KJT985.QJ AQJ54.AJ764..AK6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Room "Open"]
+[Score "NS 480"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1NT 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+CQ CA CT C2
+H3 HA H9 H2
+HK HJ HT H5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:32.T9.Q432.T9853 T98.Q852.A76.742 K76.K3.KJT985.QJ AQJ54.AJ764..AK6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS 480"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1NT 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "W"]
+CQ CA CT C4
+H3 HA H9 H2
+HK HJ HT H5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AT.T43.Q532.K742 72.AK97.AKJ94.A9 KQ6543.QJ2.6.JT8 J98.865.T87.Q653"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D 1S Pass
+1NT X 2S Pass
+Pass X Pass 3D
+Pass Pass Pass
+[Play "N"]
+HQ H5 H3 HK
+SQ S8 ST S7
+S3 S9 SA S2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AT.T43.Q532.K742 72.AK97.AKJ94.A9 KQ6543.QJ2.6.JT8 J98.865.T87.Q653"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -90"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1C 1H Pass
+1S X Pass 2C
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+HQ H5 H3 HA
+D6 D7 D5 DA
+SQ S8 ST S2
+S6 S9 SA S7
+HJ H6 H4 H9
+CJ C3 C7 CA
+S3 D8 D2 DK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K752.Q8.T542.KJ7 AT.A74.A976.Q432 Q984.JT932.K83.A J63.K65.QJ.T9865"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1NT Pass Pass
+Pass
+[Play "E"]
+HJ HK HQ H4
+CA CT C7 CQ
+HT H5 H8 HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 2"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K752.Q8.T542.KJ7 AT.A74.A976.Q432 Q984.JT932.K83.A J63.K65.QJ.T9865"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1D 1H 1NT
+Pass Pass Pass
+[Play "W"]
+HQ H4 H3 HK
+C7 C2 CA C8
+H8 HA HJ H6
+CK CQ S9 C5
+S2 ST SQ S3
+D2 H7 HT H5
+- - H9 -
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[HomeTeam "Norway"]
+[VisitTeam "USA"]
+[Board "1"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:82.4.AKT65.KJ987 KQ6.AQ75.Q73.Q42 T9754.KT82.4.AT3 AJ3.J963.J982.65"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "N"]
+1D 1NT 2C Pass
+Pass Pass
+[Play "W"]
+C6 CJ CQ CA
+D8 DA D3 D4
+H3 H4 HA H2
+S3 S2 SQ S5
+SJ S8 S6 S4
+C5 C7 C2 C3
+D2 D5 D7 CT
+H6 D6 H5 HK
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "1"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:82.4.AKT65.KJ987 KQ6.AQ75.Q73.Q42 T9754.KT82.4.AT3 AJ3.J963.J982.65"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+1D 1NT 2C 2NT
+Pass Pass Pass
+[Play "S"]
+ST S3 S8 SK
+H2 H3 H4 HA
+H8 H6 D6 HQ
+HK H9 D5 H7
+S5 SJ S2 S6
+HT HJ DT H5
+S4 SA C7 SQ
+- D2 - -
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:JT.T32.AKJ5.AK86 432.85.T73.J5432 KQ975.K97.Q82.T9 A86.AQJ64.964.Q7"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass 2H X
+Pass Pass 3NT Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "N"]
+HA H2 H5 H7
+HQ H3 H8 HK
+S6 ST S2 S5
+SA SJ S3 SQ
+HJ HT C4 H9
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "2"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:JT.T32.AKJ5.AK86 432.85.T73.J5432 KQ975.K97.Q82.T9 A86.AQJ64.964.Q7"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -430"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 3S Pass
+3NT Pass Pass Pass
+[Play "S"]
+C3 C9 CQ CA
+S4 S5 S6 SJ
+S2 SK SA ST
+C4 CT C7 CK
+D3 DQ D4 D5
+S3 SQ S8 H2
+- S7 - -
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ74.864.852.Q84 J6.KQT32.QT94.AK T832.95.AK763.65 K95.AJ7.J.JT9732"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+DA DJ D8 D4
+S8 S5 SQ S6
+DK H7 D5 DQ
+H5 HA H4 H2
+H9 HJ H6 H3
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "3"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ74.864.852.Q84 J6.KQT32.QT94.AK T832.95.AK763.65 K95.AJ7.J.JT9732"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2D Pass 4H
+Pass Pass Pass
+[Play "N"]
+DK DJ D8 D4
+ST S5 SQ SJ
+C6 C2 C8 CA
+D3 S9 D2 DQ
+DA HJ D5 D9
+H5 HA H4 H2
+H9 H7 H6 HK
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q76.J975.QT7.AQ8 KJT.T643.95.9742 954.2.AJ864.KJ65 A832.AKQ8.K32.T3"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 120"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass Pass 1NT
+Pass Pass Pass
+[Play "W"]
+H5 HT H2 H8
+SQ ST S5 S2
+D7 D5 DA D2
+CQ C2 C5 C3
+CA C4 C6 CT
+C8 C7 CJ S3
+- - CK D3
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "4"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q76.J975.QT7.AQ8 KJT.T643.95.9742 954.2.AJ864.KJ65 A832.AKQ8.K32.T3"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1D 1NT
+X Pass 2C Pass
+2D Pass Pass Pass
+[Play "S"]
+HK H5 H3 H2
+HA H7 H4 D4
+DK D7 D5 D6
+D2 DT D9 D8
+H8 H9 HT DJ
+- - - DA
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8532.Q64.T92.Q86 AQ97.KT8.AK85.94 JT4.J72.QJ63.K32 K6.A953.74.AJT75"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -460"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+DQ D4 D2 D5
+D3 D7 D9 DK
+C2 C5 CQ C9
+D6 H3 DT DA
+C3 CT C8 C4
+CK CA C6 H8
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "5"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8532.Q64.T92.Q86 AQ97.KT8.AK85.94 JT4.J72.QJ63.K32 K6.A953.74.AJT75"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -490"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3C
+Pass 3D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H2 H3 HQ HK
+HJ HA H4 HT
+H7 H9 H6 H8
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:76.Q7542.A86.632 KJT542.T3.QJ4.T9 AQ3.KJ9.K5.QJ754 98.A86.T9732.AK8"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 2S 2NT 3S
+Pass Pass Pass
+[Play "W"]
+C4 CA C2 C9
+SQ S8 S6 S2
+CQ CK C6 CT
+SA S9 S7 S4
+CJ C8 C3 S5
+S3 D2 H2 SK
+DK D3 D6 DJ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "6"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:76.Q7542.A86.632 KJT542.T3.QJ4.T9 AQ3.KJ9.K5.QJ754 98.A86.T9732.AK8"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -170"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 2S 2NT Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "N"]
+CK C2 C9 C7
+D3 D6 DJ DK
+H6 H2 H3 HJ
+D7 DA D4 D5
+D2 D8 DQ HK
+HA H4 HT H9
+S9 S6 SK SA
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT.J986.AQ9.QJ63 A76.K732.KT8.KT4 8532.AQ.J743.A97 KJ94.T54.652.852"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Open"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 1S Pass
+1NT Pass Pass Pass
+[Play "W"]
+H2 HQ H4 H8
+DK D3 D2 DQ
+H3 HA HT H6
+S7 S2 S4 ST
+SA S3 SJ SQ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "7"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT.J986.AQ9.QJ63 A76.K732.KT8.KT4 8532.AQ.J743.A97 KJ94.T54.652.852"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "5"]
+[Room "Closed"]
+[Score "NS -300"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT Pass 2C Pass
+2H Pass 2NT Pass
+Pass Pass
+[Play "W"]
+H3 HQ H4 H6
+D8 D3 D2 DQ
+CK CA C2 CQ
+DK DJ D5 D9
+H2 HA H5 H8
+C4 C7 C5 CJ
+CT C9 C8 C3
+SA S2 S4 ST
+S7 S3 SK SQ
+S6 S5 SJ C6
+- - S9 -
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T5.KQT63.32.JT94 AKQ83.4.Q54.AKQ3 J.AJ752.AJT6.852 97642.98.K987.76"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 300"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C 1H X
+2S X 3H Pass
+4H Pass Pass X
+Pass Pass Pass
+[Play "S"]
+C7 CJ CQ C5
+C6 C4 CA C2
+S9 C9 CK C8
+S4 S5 SA SJ
+S2 ST SK H2
+H8 HK H4 H5
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "8"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T5.KQT63.32.JT94 AKQ83.4.Q54.AKQ3 J.AJ752.AJT6.852 97642.98.K987.76"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+2H X 3D Pass
+Pass 4S 5H 5S
+Pass Pass Pass
+[Play "E"]
+HA H8 H3 H4
+H2 H9 HQ S3
+SJ S2 S5 SA
+H5 S4 ST SK
+HJ S6 H6 SQ
+H7 S9 HK S8
+DA D7 D3 DQ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.97.K42.QJT9764 K73.AQT632.A5.83 QJ9864..QJ76.A52 A52.KJ854.T983.K"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+3C 3H 3S 4H
+Pass Pass 4S 5H
+Pass Pass Pass
+[Play "S"]
+SQ S2 ST SK
+SJ HK H7 H6
+S4 HJ H9 HT
+DJ DT D2 D5
+S9 SA C4 S7
+D6 D3 D4 DA
+CA CK C6 C8
+S8 S5 C7 S3
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "9"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T.97.K42.QJT9764 K73.AQT632.A5.83 QJ9864..QJ76.A52 A52.KJ854.T983.K"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "N"]
+3C 3H 4S X
+Pass Pass Pass
+[Play "W"]
+CK C4 C8 CA
+S2 ST SK SQ
+S5 C6 C3 C2
+HK H7 H2 S4
+SA H9 S3 SJ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QT652.J42.65.J54 AK9.7653.K7.QT72 743.K98.AJ983.63 J8.AQT.QT42.AK98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 660"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2H Pass 2S
+Pass 3C Pass 3D
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S5 S9 S3 S8
+HJ H3 H8 HT
+S6 SK S7 SJ
+H2 H5 H9 HQ
+H4 H6 HK HA
+D5 DK DA D2
+S2 SA S4 D4
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "10"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QT652.J42.65.J54 AK9.7653.K7.QT72 743.K98.AJ983.63 J8.AQT.QT42.AK98"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 660"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+D3 DT D5 D7
+C3 CA C4 C2
+DA D2 D6 DK
+DJ DQ S2 S9
+C6 CK C5 C7
+- C9 CJ CQ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ.K98753.8.J75 643.AQT.KJ5.AK32 T952.62.QT963.T8 A87.J4.A742.Q964"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -430"]
+[Scoring "IMP"]
+[Auction "S"]
+1H 1NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H6 HJ HK HA
+C8 C4 C5 CA
+CT C6 C7 CK
+D3 CQ CJ C3
+H2 C9 H9 C2
+D6 H4 H3 HQ
+S2 S7 H5 HT
+D9 DA D8 D5
+DT D2 H7 DK
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "11"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ.K98753.8.J75 643.AQT.KJ5.AK32 T952.62.QT963.T8 A87.J4.A742.Q964"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -490"]
+[Scoring "IMP"]
+[Auction "S"]
+2H 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+DT D2 D8 DJ
+C8 C4 C7 CA
+CT CQ C5 C2
+H2 HJ HK HA
+D9 DA H5 D5
+S2 S7 SJ S3
+S5 SA SQ S4
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A4.JT732.A543.Q5 Q53.AK4.K6.AKJT8 T8762.Q965.T82.4 KJ9.8.QJ97.97632"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "W"]
+1H X 3H Pass
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+H6 H8 HT HK
+C4 C2 C5 CA
+D2 D7 DA DK
+H9 S9 H3 H4
+HQ C3 H2 HA
+- - - CK
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "12"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A4.JT732.A543.Q5 Q53.AK4.K6.AKJT8 T8762.Q965.T82.4 KJ9.8.QJ97.97632"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 600"]
+[Scoring "IMP"]
+[Auction "W"]
+1H X 3C X
+4H 5C Pass Pass
+Pass
+[Play "E"]
+HQ H8 H7 HA
+C4 C2 C5 CA
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A976.T82.T64.A98 Q.A653.KQ52.K542 JT85.QJ94.J73.J6 K432.K7.A98.QT73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -630"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+HQ HK H2 H3
+C6 C3 C9 CK
+CJ CQ CA C4
+H4 H7 HT H5
+HJ S2 H8 HA
+S5 CT C8 C5
+S8 S3 S7 SQ
+D3 C7 S6 C2
+D7 DA D4 D2
+DJ D8 D6 DQ
+ST D9 DT DK
+- - - D5
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "13"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A976.T82.T64.A98 Q.A653.KQ52.K542 JT85.QJ94.J73.J6 K432.K7.A98.QT73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -630"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+HQ HK H2 H5
+C6 C3 CA C2
+H4 H7 HT H3
+H9 S2 H8 HA
+CJ C7 C8 CK
+S5 S3 SA SQ
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQJ72.KT97.8.KQ5 865.J84.QT2.T642 94.A2.KJ965.AJ87 AT3.Q653.A743.93"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -460"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 2D Pass
+2H Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+C9 CK C6 C7
+S3 SK S5 S4
+ST SQ S6 S9
+SA SJ S8 D5
+H3 HT HJ HA
+C3 CQ C2 C8
+D3 S7 H4 D6
+DA D8 DT DJ
+H5 HK H8 H2
+- S2 C4 D9
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "14"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQJ72.KT97.8.KQ5 865.J84.QT2.T642 94.A2.KJ965.AJ87 AT3.Q653.A743.93"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -490"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 2D Pass
+2H Pass 2NT Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H5 HT HJ HA
+S3 SK S5 S4
+SA SQ S6 S9
+D3 D8 DQ DK
+C3 CK C2 C7
+ST SJ S8 D5
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ94.72.KQ65.KJT A762.Q9864.2.532 J53.KJT.J83.Q864 T8.A53.AT974.A97"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 150"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+H6 HT HA H2
+D2 D8 D7 D5
+C2 C4 C9 CT
+- - - SK
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "15"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ94.72.KQ65.KJT A762.Q9864.2.532 J53.KJT.J83.Q864 T8.A53.AT974.A97"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 150"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+H6 HJ H3 H2
+C2 C4 C7 CK
+C3 C6 C9 CT
+S2 SJ S8 S4
+SA S5 ST SK
+D2 D3 DA D5
+H4 D8 D7 D6
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[West "Sontag Alan"]
+[North "Aa Terje"]
+[East "Weichsel P."]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T863.96.T85.AT63 AQJ952.2.AJ962.2 .KJ543.Q743.K854 K74.AQT87.K.QJ97"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1S Pass 1NT
+Pass 2C Pass 2D
+Pass 3S Pass 4C
+Pass 4D Pass 4H
+Pass 5H Pass 6S
+Pass Pass Pass
+[Play "E"]
+C5 C7 CA C2
+C8 C9 C6 S2
+D3 DK D5 D2
+H3 HA H6 H2
+H4 H7 H9 S5
+D4 H8 D8 DA
+D7 S7 DT D6
+H5 S4 S3 SJ
+DQ SK C3 D9
+*
+
+[Event "2001 Bermuda Bowl final Seg 3"]
+[Site "Paris"]
+[Date "2001.11.01"]
+[Board "16"]
+[West "Brogeland B."]
+[North "Martel Chip"]
+[East "Saelensminde"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T863.96.T85.AT63 AQJ952.2.AJ962.2 .KJ543.Q743.K854 K74.AQT87.K.QJ97"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS 980"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 5H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+D4 DK D5 D2
+C4 CQ CA C2
+H3 S4 S8 SQ
+D3 H7 D8 DA
+D7 S7 DT D6
+C5 C7 C3 S2
+H5 HQ H6 H2
+H4 HA H9 D9
+C8 C9 C6 S5
+DQ SK CT DJ
+- CJ - -
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[HomeTeam "Norway"]
+[VisitTeam "USA"]
+[Board "1"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9843.95.A75.J74 KJT65.AQ43.T3.96 Q2.KJT762.K64.82 7.8.QJ982.AKQT53"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -430"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 2H 3C
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+HJ H8 H9 HQ
+C2 CA C4 C6
+C8 CK C7 C9
+S2 CQ CJ S6
+HK CT S3 H4
+H2 C5 D5 S5
+H6 C3 S9 H3
+SQ S7 S4 SK
+- - - SJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "1"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9843.95.A75.J74 KJT65.AQ43.T3.96 Q2.KJT762.K64.82 7.8.QJ982.AKQT53"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 2H Pass 2S
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C4 C6 C8 CT
+S3 SJ SQ S7
+CJ C9 C2 CA
+C7 S5 H2 CK
+S4 H3 H6 CQ
+H5 S6 H7 C5
+D5 D3 S2 C3
+H9 HQ HK H8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:96.AJ964.K9.T763 AQ2.K85.AJ76.A85 8753.73.T5.KQJ94 KJT4.QT2.Q8432.2"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+CK C2 C7 C5
+CQ D2 C3 C8
+DT D3 D9 DJ
+S7 SJ S6 S2
+D5 DQ DK DA
+H3 HQ HA H5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:96.AJ964.K9.T763 AQ2.K85.AJ76.A85 8753.73.T5.KQJ94 KJT4.QT2.Q8432.2"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "E"]
+2D 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+CK C2 C3 C5
+CQ H2 C6 C8
+CJ HT C7 CA
+S3 S4 S6 SA
+S5 ST S9 S2
+D5 D2 D9 DJ
+S7 SK H4 SQ
+DT D3 DK DA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q32.J86.AJT9.J63 AJ94.AQ32.KQ62.2 KT75.54.8743.854 86.KT97.5.AKQT97"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Room "Open"]
+[Score "NS -1430"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D Pass 2C
+Pass 2H Pass 3H
+Pass 3S Pass 4NT
+Pass 5S Pass 6H
+Pass Pass Pass
+[Play "N"]
+S7 S8 SQ SA
+H5 H7 H6 HA
+H4 H9 H8 HQ
+S5 HK HJ H2
+C4 CA C3 C2
+C5 CK C6 S4
+C8 CQ CJ S9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q32.J86.AJT9.J63 AJ94.AQ32.KQ62.2 KT75.54.8743.854 86.KT97.5.AKQT97"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -1430"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 3C
+Pass 3H Pass 4C
+Pass 4D Pass 4NT
+Pass 5S Pass 6H
+Pass Pass Pass
+[Play "S"]
+DA D2 D8 D5
+DJ DK D3 S6
+H6 HA H4 H7
+H8 H2 H5 HK
+HJ HQ S5 H9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K7.QJT6.AKJ83.A7 A93.A95.Q52.T532 JT8654.K843.76.K Q2.72.T94.QJ9864"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "W"]
+1D Pass 1S Pass
+2NT Pass 3D Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+C3 CK C6 C7
+H5 H3 H7 HQ
+HA H4 H2 HT
+H9 HK C4 H6
+S3 S4 S2 SK
+S9 SJ SQ S7
+DQ D6 D4 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K7.QJT6.AKJ83.A7 A93.A95.Q52.T532 JT8654.K843.76.K Q2.72.T94.QJ9864"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1D Pass
+1NT Pass 2H Pass
+2S Pass 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+CQ C7 C2 CK
+S2 SK SA S6
+C4 CA C3 D6
+SQ S7 S3 SJ
+C6 H6 C5 S4
+H2 HT H5 H3
+H7 HJ HA H4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A874.84.T9.Q9862 KJ52.AKT95.842.7 T96.J3.AJ653.543 Q3.Q762.KQ7.AKJT"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1H Pass 2S
+Pass 2NT Pass 3C
+Pass 3H Pass 4C
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+ST S3 SA S2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A874.84.T9.Q9862 KJ52.AKT95.842.7 T96.J3.AJ653.543 Q3.Q762.KQ7.AKJT"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1H Pass 1NT
+Pass 2H Pass 2S
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "S"]
+C5 CA C2 C7
+H3 H2 H4 HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQJ4.J3.985.AK84 A873.642.QJ3.Q96 952.KT95.AK64.52 T6.AQ87.T72.JT73"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 1NT Pass
+Pass Pass
+[Play "N"]
+D2 D9 DJ DK
+S6 SK S3 S5
+HQ HJ H2 H5
+D7 D8 DQ DA
+ST SQ SA S2
+HA H3 H4 HT
+DT D5 D3 D4
+CJ CK C6 C2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQJ4.J3.985.AK84 A873.642.QJ3.Q96 952.KT95.AK64.52 T6.AQ87.T72.JT73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass 2C Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "S"]
+DQ DA D2 D5
+S3 S2 S6 SQ
+H2 H5 H7 HJ
+H4 H9 HQ H3
+C6 C2 CJ CA
+S7 S5 ST SK
+SA S9 H8 S4
+CQ C5 C3 C4
+H6 HT HA D8
+D3 DK DT D9
+DJ D6 D7 C8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT72.Q83.876.KJ4 KJ85.J7.KJ94.AQ5 A43.A96.53.97632 96.KT542.AQT2.T8"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Open"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+C2 CT CK CA
+H6 H2 HQ HJ
+C3 C8 CJ C5
+C9 S6 C4 CQ
+HA H4 H3 H7
+C7 S9 H8 S5
+C6 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT72.Q83.876.KJ4 KJ85.J7.KJ94.AQ5 A43.A96.53.97632 96.KT542.AQT2.T8"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+C3 CT CK C5
+C2 C8 CJ CA
+HA H2 H3 HJ
+C7 D2 C4 CQ
+H9 HT HQ H7
+SA S6 S2 SJ
+C9 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T75.A6.87653.J43 AQJ4.J953.AKQ9.5 K932.K.JT4.KT987 86.QT8742.2.AQ62"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 4H Pass 5C
+Pass 6H Pass Pass
+Pass
+[Play "W"]
+S5 SA S3 S6
+D3 DA D4 D2
+D5 DK DT S8
+D6 DQ DJ C6
+- D9 HK -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T75.A6.87653.J43 AQJ4.J953.AKQ9.5 K932.K.JT4.KT987 86.QT8742.2.AQ62"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C 1D 1H
+Pass 2NT Pass 3C
+Pass 3D Pass 4C
+Pass 4D Pass 5H
+Pass 6H Pass Pass
+Pass
+[Play "W"]
+S5 SA S2 S6
+D3 DA D4 D2
+D5 DK DT S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:865.T932.J8.K983 QT2.Q4.A2.Q76542 K4.AK76.KQ6543.A AJ973.J85.T97.JT"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1D 1S
+Pass 2D 2H Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+CJ C3 C4 CA
+H8 H2 H4 HA
+H5 H3 HQ HK
+HJ H9 S2 H6
+SA S5 ST S4
+SJ S6 SQ SK
+- - - D3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:865.T932.J8.K983 QT2.Q4.A2.Q76542 K4.AK76.KQ6543.A AJ973.J85.T97.JT"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 2D Pass
+Pass Pass
+[Play "E"]
+HQ HA H5 H2
+C2 CA CT C3
+DA D3 D9 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:976.AK82.84.KQ84 A8.JT976.Q9.A532 QT532.Q5.AJT762. KJ4.43.K53.JT976"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1C 1H 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+H4 HA H6 H5
+DK D4 D9 DJ
+CJ CK CA S2
+S4 S6 SA ST
+H3 H2 HJ HQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:976.AK82.84.KQ84 A8.JT976.Q9.A532 QT532.Q5.AJT762. KJ4.43.K53.JT976"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1D 1H 1S X
+1NT 2C 3D Pass
+3S Pass Pass Pass
+[Play "N"]
+CJ CK CA S2
+D3 D4 D9 DA
+D5 D8 DQ D2
+C6 C4 C2 S3
+DK S6 S8 D6
+H3 HK HJ H5
+S4 S7 SA S5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AT8.J852.KT9.T72 97.KQ973.J842.Q6 Q6543.T.Q765.KJ9 KJ2.A64.A3.A8543"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass 2D Pass 2H
+Pass 2NT Pass 4H
+Pass Pass Pass
+[Play "S"]
+C2 CQ CK CA
+C7 C6 C9 C4
+SA S7 S3 SJ
+ST S9 S6 SK
+CT H7 CJ C3
+H2 HK HT H4
+- H3 D5 -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AT8.J852.KT9.T72 97.KQ973.J842.Q6 Q6543.T.Q765.KJ9 KJ2.A64.A3.A8543"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+C2 CQ CK CA
+D9 D2 D5 DA
+DK D4 D6 D3
+CT C6 CJ C3
+SA S7 S3 SK
+ST S9 SQ S2
+H2 H3 HT HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:63.KT6.AKT.J8763 QJT8754.42.987.5 92.Q93.QJ6532.A4 AK.AJ875.4.KQT92"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "W"]
+1C 2S Pass 4S
+Pass Pass Pass
+[Play "E"]
+DQ D4 DK D8
+D2 SK DA D9
+CA CK C3 C5
+H3 HA HT H4
+C4 CQ C6 H2
+H9 H5 HK S4
+D3 SA DT D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:63.KT6.AKT.J8763 QJT8754.42.987.5 92.Q93.QJ6532.A4 AK.AJ875.4.KQT92"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "W"]
+1NT Pass Pass X
+Pass 2S 3D 3H
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+CA C2 C3 C5
+D2 D4 DK D7
+C4 C9 C8 ST
+S2 SK S3 S4
+S9 SA S6 S5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K65.9874.987.K93 T987.A62.AJ4.T52 QJ42.QJT.KT3.A84 A3.K53.Q652.QJ76"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Room "Open"]
+[Score "NS -200"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 1S Pass
+2C Pass Pass Pass
+[Play "W"]
+D5 D7 DA D3
+HK H4 H2 HQ
+H5 H7 HA HJ
+H3 H8 H6 HT
+SA S5 S7 SJ
+S3 SK S8 S2
+C6 S6 S9 SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K65.9874.987.K93 T987.A62.AJ4.T52 QJ42.QJT.KT3.A84 A3.K53.Q652.QJ76"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS -90"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S X
+Pass 1NT Pass Pass
+Pass
+[Play "S"]
+HQ H3 H4 HA
+C4 CQ CK C2
+HT H5 H9 H2
+HJ HK H7 H6
+D3 D2 D7 DA
+C8 CJ C3 C5
+DK D5 D8 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:7.KQJT86.A8.AKJ3 AJ95.54.T65.9875 84.A92.J973.QT42 KQT632.73.KQ42.6"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "E"]
+1H Pass 2H 2S
+3C 3S Pass 4S
+X Pass Pass Pass
+[Play "E"]
+CA C5 C4 C6
+HK H4 H9 H7
+H6 H5 HA H3
+C3 C7 C2 S6
+S7 SA S4 SQ
+CJ C8 CT ST
+- - - S2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:7.KQJT86.A8.AKJ3 AJ95.54.T65.9875 84.A92.J973.QT42 KQT632.73.KQ42.6"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "E"]
+1C Pass 1D 3S
+4H Pass Pass Pass
+[Play "S"]
+SA S4 S2 S7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:94.A92.A95.AQT63 KJ72.Q7543.QT8.K T6.KT6.K43.98542 AQ853.J8.J762.J7"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT 2D 2NT 3S
+Pass Pass Pass
+[Play "S"]
+S4 S2 ST SA
+S9 SJ S6 S3
+HA H3 H6 HJ
+CA CK C2 C7
+DA D8 D3 D2
+H9 HQ - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:94.A92.A95.AQT63 KJ72.Q7543.QT8.K T6.KT6.K43.98542 AQ853.J8.J762.J7"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+1NT 2C Pass 3S
+Pass Pass Pass
+[Play "S"]
+S4 S2 ST SA
+H2 HQ HK H8
+CA CK C9 C7
+S9 SJ S6 S3
+HA H3 H6 HJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[West "Meltzer R."]
+[North "Helness Tor"]
+[East "Larsen Kyle"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.J752.J4.KJ9853 Q95.KQT3.AKQ5.QT K843.A986.632.A4 AJT72.4.T987.762"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2NT Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+H5 HQ HA H4
+C9 CT CA C2
+CK CQ C4 C6
+H2 HT H6 C7
+S6 S9 S3 S2
+C3 SQ S4 S7
+- S5 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 4"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.J752.J4.KJ9853 Q95.KQT3.AKQ5.QT K843.A986.632.A4 AJT72.4.T987.762"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C Pass 1D
+2C Pass Pass 2S
+Pass Pass 2NT X
+3C 3S Pass Pass
+Pass
+[Play "W"]
+C8 CT CA C2
+CK CQ C4 C6
+CJ SQ D2 C7
+H2 HK HA H4
+DJ DA D3 D7
+S6 S9 S3 S2
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[HomeTeam "Norway"]
+[VisitTeam "USA"]
+[Board "1"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K87.KQ5.AT6.KQ87 QJ9.J9.K5432.T62 .87432.QJ9.AJ953 AT65432.AT6.87.4"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2D 2S
+Pass 3S X Pass
+4H Pass Pass 4S
+X Pass Pass Pass
+[Play "N"]
+HK H9 H2 HA
+S7 S9 C3 SA
+SK SJ C5 S2
+CK C2 C9 C4
+HQ HJ H3 H6
+C7 C6 CA S3
+S8 SQ H4 ST
+C8 CT CJ S4
+DA D2 D9 D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "1"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K87.KQ5.AT6.KQ87 QJ9.J9.K5432.T62 .87432.QJ9.AJ953 AT65432.AT6.87.4"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2D 2S
+3H 3S 4H 4S
+X Pass Pass Pass
+[Play "N"]
+HK H9 H2 HA
+S7 S9 C3 SA
+DA D2 D9 D7
+HQ HJ H3 H6
+CK C2 C5 -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK7.K87.Q6543.65 JT6542.J432.T.K9 93.T95.AK72.AT43 Q8.AQ6.J98.QJ872"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass Pass Pass
+[Play "S"]
+S4 S9 SQ SA
+DT DA D8 D5
+S2 D2 D9 DQ
+H2 DK DJ D3
+S5 D7 C2 D4
+H3 HT H6 HK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK7.K87.Q6543.65 JT6542.J432.T.K9 93.T95.AK72.AT43 Q8.AQ6.J98.QJ872"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -400"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 2D Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+S5 S3 SQ SK
+DT DA D8 D3
+- HT HA H7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ2.AKJT2.AK.T76 T7.8743.QT8732.J AJ93.Q5.964.K943 8654.96.J5.AQ852"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 450"]
+[Scoring "IMP"]
+[Auction "S"]
+2NT Pass 3C X
+3H Pass 3NT Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "E"]
+DJ DK D2 D6
+S4 SK S7 S3
+S5 SQ ST S9
+- S2 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ2.AKJT2.AK.T76 T7.8743.QT8732.J AJ93.Q5.964.K943 8654.96.J5.AQ852"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 460"]
+[Scoring "IMP"]
+[Auction "S"]
+2NT Pass 3C X
+3H Pass 3NT Pass
+Pass Pass
+[Play "W"]
+CJ CK CA C7
+- - CQ -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K97.J2.AK6.KJ852 QJ865.AKT.QT53.9 432.Q9843.742.Q3 AT.765.J98.AT764"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Open"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "W"]
+1C 1S Pass 1NT
+Pass Pass Pass
+[Play "W"]
+C5 C9 CQ CA
+S7 S5 S2 SA
+SK S6 S3 ST
+CJ D3 C3 C4
+CK D5 H3 C6
+DK DT D2 D8
+DA DQ D4 D9
+H2 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K97.J2.AK6.KJ852 QJ865.AKT.QT53.9 432.Q9843.742.Q3 AT.765.J98.AT764"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "W"]
+1NT 2S Pass 2NT
+Pass 3D Pass Pass
+Pass
+[Play "E"]
+CQ CA C2 C9
+S2 ST SK S5
+C3 C4 C5 D3
+S3 SA S7 S6
+H8 C6 C8 DT
+S4 H5 S9 SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K6432.J73.Q82.T2 97.K654.AT74.AK5 AQ8.Q2.J6.QJ9863 JT5.AT98.K953.74"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+CT CA CQ C4
+S2 S7 SQ S5
+C2 CK CJ C7
+H3 HK H2 H8
+D2 D4 D6 DK
+D8 DA DJ D3
+DQ D7 S8 D5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K6432.J73.Q82.T2 97.K654.AT74.AK5 AQ8.Q2.J6.QJ9863 JT5.AT98.K953.74"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -140"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1D 2C X
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+CQ C4 C2 CA
+H2 HA H3 H5
+HQ H8 H7 H4
+CJ C7 CT CK
+C3 H9 HJ HK
+C6 HT S2 C5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQT5.A985.KJ75. 7.QT32.962.AJ842 J984.7.QT43.KT73 632.KJ64.A8.Q965"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Room "Open"]
+[Score "NS -1430"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 3S Pass
+4D Pass 4S Pass
+6S Pass Pass Pass
+[Play "S"]
+CA C3 C6 S5
+H2 H7 H4 HA
+H3 S8 H6 H5
+S7 S4 S2 SA
+HT SJ HJ H8
+C2 CK C5 H9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQT5.A985.KJ75. 7.QT32.962.AJ842 J984.7.QT43.KT73 632.KJ64.A8.Q965"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -680"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 3H Pass
+4C X 4S Pass
+5C Pass 5S Pass
+Pass Pass
+[Play "S"]
+H3 H7 HK HA
+H2 S4 H4 H5
+D2 D3 D8 DK
+HT S8 H6 H8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q9652.J63.A52.42 T73..KQ98764.A93 84.AQ97.JT.KT875 AKJ.KT8542.3.QJ6"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -130"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 2D Pass 2H
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+S8 SA S2 S3
+DJ D3 D2 DK
+CK C6 C4 C9
+S4 SJ SQ S7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q9652.J63.A52.42 T73..KQ98764.A93 84.AQ97.JT.KT875 AKJ.KT8542.3.QJ6"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS 300"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2D Pass 3C
+Pass 3D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+S5 S3 S8 SJ
+D2 DK DT D3
+D5 D8 DJ H2
+S2 S7 S4 SK
+C2 C9 CT C6
+C4 C3 C5 CQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ85.AK86.T94.AQ 932.JT3.A532.854 T64.Q95.K76.K962 AJ7.742.QJ8.JT73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -400"]
+[Scoring "IMP"]
+[Auction "W"]
+1D Pass 1NT Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "S"]
+C3 CQ C4 C2
+SA SK S2 S4
+DQ D4 D3 DK
+C7 CA C5 C6
+H2 HA H3 H9
+H4 H6 HJ HQ
+CJ S5 C8 CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ85.AK86.T94.AQ 932.JT3.A532.854 T64.Q95.K76.K962 AJ7.742.QJ8.JT73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -460"]
+[Scoring "IMP"]
+[Auction "W"]
+1H Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+SJ SK S2 S4
+SA S5 S3 ST
+C3 CA C4 C2
+C7 CQ C5 C6
+H2 HA H3 H5
+H4 HK HT H9
+H7 H6 HJ HQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ.KQ52.85.AKJ75 Q9.AJ6.JT64.QT93 A8742.984.KQ2.84 T653.T73.A973.62"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 400"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2H Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "E"]
+CT C4 C6 CJ
+D4 DK DA D5
+C3 C8 C2 CA
+H6 H4 H3 HK
+S9 S2 S3 SK
+C9 D2 D3 CK
+SQ SA - SJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ.KQ52.85.AKJ75 Q9.AJ6.JT64.QT93 A8742.984.KQ2.84 T653.T73.A973.62"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "N"]
+1C Pass 1S Pass
+2H Pass 2S Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "W"]
+D3 D5 DT DK
+C2 CJ CQ C4
+DA D8 D4 DQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJT863..AQ983.Q5 Q92.KJT8764.K.98 A754.A5.65.AKT42 .Q932.JT742.J763"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Room "Open"]
+[Score "NS -1430"]
+[Scoring "IMP"]
+[Auction "E"]
+1S 2H 3C 4H
+4S Pass 4NT Pass
+5H Pass 5NT Pass
+6H Pass 6S Pass
+Pass Pass
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJT863..AQ983.Q5 Q92.KJT8764.K.98 A754.A5.65.AKT42 .Q932.JT742.J763"]
+[Declarer "E"]
+[Contract "7S"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "E"]
+1S 3H 4H 5H
+6H Pass 7S Pass
+Pass Pass
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K742.A8.K9432.KJ AQT8.K4.QT765.83 653.J962.AJ8.T94 J9.QT753..AQ7652"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -130"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 1H 2C
+Pass 2NT Pass 3C
+Pass Pass Pass
+[Play "S"]
+D2 DT DJ C2
+HA H4 H6 H5
+D3 D5 D8 C5
+S4 ST S3 S9
+CK C3 C4 CQ
+D4 D6 DA C6
+S7 S8 S5 SJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K742.A8.K9432.KJ AQT8.K4.QT765.83 653.J962.AJ8.T94 J9.QT753..AQ7652"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -130"]
+[Scoring "IMP"]
+[Auction "S"]
+1D 1S X 2C
+2D Pass Pass 2H
+Pass 2NT Pass 3C
+Pass Pass Pass
+[Play "S"]
+D2 D5 D8 C2
+S2 S8 S3 SJ
+HA H4 H2 H3
+D3 D6 DJ C5
+S4 ST S5 S9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8543.AT76.8.842 KQJ.KQ843.AT64.A 762.J9.Q973.Q953 T9.52.KJ52.KJT76"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H Pass 1NT
+Pass 2NT Pass 3C
+Pass 3D Pass 4D
+Pass 4NT Pass 5D
+Pass Pass Pass
+[Play "E"]
+C3 C6 C8 CA
+D3 D2 D8 DA
+D7 DJ S4 D4
+H9 H2 H6 HK
+S2 S9 SA SK
+S6 ST S3 SJ
+S7 H5 S5 SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8543.AT76.8.842 KQJ.KQ843.AT64.A 762.J9.Q973.Q953 T9.52.KJ52.KJT76"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "W"]
+2D X XX 3C
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+HJ H2 HA H3
+S2 S9 S3 SK
+C3 C6 C2 CA
+DQ DK D8 DT
+C5 CK C4 H4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T543.A6.8743.A74 AKJ98.95.A65.QT2 2.KQT73.KQT9.J65 Q76.J842.J2.K983"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -140"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass Pass X Pass
+2NT X 3D Pass
+Pass 3S Pass Pass
+Pass
+[Play "S"]
+S2 S6 S5 S8
+DQ D2 D3 D5
+H3 H2 HA H5
+HQ H4 H6 H9
+DK DJ D4 DA
+D9 S7 D7 D6
+H7 SQ S3 S9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T543.A6.8743.A74 AKJ98.95.A65.QT2 2.KQT73.KQT9.J65 Q76.J842.J2.K983"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT Pass Pass
+Pass
+[Play "S"]
+HQ H2 H6 H5
+DK D2 D3 DA
+S2 S6 S3 SA
+H3 SQ - S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:82.KJT4.A742.J82 6.Q8653.J.AQ7653 KJT.97.KQT83.KT4 AQ97543.A2.965.9"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1NT 3S
+Pass Pass Pass
+[Play "E"]
+HJ HQ H7 H2
+S8 S6 SJ SQ
+S2 C3 ST SA
+D2 H3 SK S3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:82.KJT4.A742.J82 6.Q8653.J.AQ7653 KJT.97.KQT83.KT4 AQ97543.A2.965.9"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 2C Pass 2S
+3D Pass Pass Pass
+[Play "N"]
+C9 C2 CA C4
+SQ S2 S6 SJ
+S3 S8 DJ ST
+D5 C8 C3 CT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:73.AKQ2.T832.765 QJT4.T987.K5.AK2 6.65.AQ96.JT9843 AK9852.J43.J74.Q"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+CJ CQ C7 C2
+S6 S2 S7 SQ
+C3 S5 S3 SJ
+C4 H3 C5 CA
+C8 H4 C6 CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:73.AKQ2.T832.765 QJT4.T987.K5.AK2 6.65.AQ96.JT9843 AK9852.J43.J74.Q"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "S"]
+HA H7 H5 H3
+HK H8 H6 H4
+D2 D5 DQ D4
+D3 DK DA D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ4.Q763.53.AK54 62.J982.QT6.QT32 KT95.AK5.A742.J6 J873.T4.KJ98.987"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -630"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1D Pass
+1NT Pass 2D Pass
+2H Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+C3 CJ C7 C4
+S6 S5 S3 SQ
+H2 HA H4 H3
+H8 HK HT H6
+H9 H5 D8 HQ
+S2 S9 S7 SA
+D6 SK S8 S4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 5"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[West "Brogeland B."]
+[North "Larsen Kyle"]
+[East "Saelensminde"]
+[South "Meltzer R."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ4.Q763.53.AK54 62.J982.QT6.QT32 KT95.AK5.A742.J6 J873.T4.KJ98.987"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -600"]
+[Scoring "IMP"]
+[Auction "W"]
+1NT Pass 2C Pass
+2H Pass 2S Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "N"]
+D6 D2 DK D3
+DT D4 D8 D5
+DQ DA D9 C4
+S2 S5 S3 SQ
+S6 S9 S7 SA
+C2 SK S8 S4
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[HomeTeam "Norway"]
+[VisitTeam "USA"]
+[Board "1"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ8.KQ32.QJT.K64 42.954.A8532.AQT 7653.AJT.6.J8732 AJT9.876.K974.95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "N"]
+Pass Pass Pass 1C
+1D X 3D Pass
+Pass Pass
+[Play "E"]
+C3 C5 CK CA
+D6 D4 DT DA
+C7 DK DJ D3
+CJ C9 C4 CT
+S7 SA S8 S2
+S3 S9 SK S4
+HJ H6 HK H4
+C2 D7 DQ D2
+HT H7 H2 H5
+HA H8 H3 H9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "1"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ8.KQ32.QJT.K64 42.954.A8532.AQT 7653.AJT.6.J8732 AJT9.876.K974.95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass Pass Pass
+[Play "N"]
+D3 D6 DK DT
+CA C2 C9 CK
+D2 C3 D9 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ952.KT3.AJ43.7 K63.A9.T8.KQT942 T87.Q72.Q6.A8653 Q4.J8654.K9752.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Auction "E"]
+Pass 2D 2S Pass
+Pass Pass
+[Play "N"]
+HA H2 H4 H3
+H9 HQ H6 HT
+D8 DQ DK DA
+DT D6 D2 DJ
+C2 S7 D7 D4
+C4 CA CJ C7
+C9 C3 S4 S5
+CT S8 D5 D3
+S3 ST SQ SA
+SK H7 H5 SJ
+CK - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "2"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ952.KT3.AJ43.7 K63.A9.T8.KQT942 T87.Q72.Q6.A8653 Q4.J8654.K9752.J"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "6"]
+[Score "NS -300"]
+[Auction "E"]
+Pass Pass 1S 2C
+2S Pass Pass 3C
+Pass Pass Pass
+[Play "E"]
+S7 SQ SA S3
+CA CJ C7 CK
+ST S4 S2 SK
+C3 D2 D3 CQ
+C5 H4 S9 CT
+C6 D5 D4 C9
+C8 H5 H3 C2
+S8 H6 SJ S6
+H2 H8 S5 C4
+H7 HJ HT HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A972.72.AQT84.K3 KJ84.964.K5.9862 T53.AKQJ8.J32.AT Q6.T53.976.QJ754"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Auction "S"]
+2H X Pass Pass
+3C Pass Pass 3NT
+Pass Pass Pass
+[Play "S"]
+C4 C3 C8 CA
+D7 DQ DK D3
+C5 CK C2 CT
+D6 D4 D5 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "3"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A972.72.AQT84.K3 KJ84.964.K5.9862 T53.AKQJ8.J32.AT Q6.T53.976.QJ754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C8 CA C7 C3
+DK D2 D6 DQ
+C2 CT CJ CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Deal "W:QJ953.Q43.KJT9.4 84.K86.7632.A632 K76.T5.Q54.KQT87 AT2.AJ972.A8.J95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "W"]
+Pass Pass 1C 1H
+1S 2H Pass Pass
+2S Pass Pass Pass
+[Play "N"]
+HK H5 H2 H3
+D7 D4 DA DT
+D2 D5 D8 DJ
+CA C7 C5 C4
+D3 DQ S2 D9
+H6 HT HA H4
+C3 CT C9 DK
+S4 S6 ST SJ
+- - - S3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "4"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "Both"]
+[Deal "W:QJ953.Q43.KJT9.4 84.K86.7632.A632 K76.T5.Q54.KQT87 AT2.AJ972.A8.J95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 200"]
+[Auction "W"]
+Pass Pass 1C 1H
+1S 2H X Pass
+3S Pass Pass Pass
+[Play "N"]
+H6 H5 HA H3
+D2 D4 DA D9
+HK HT HJ HQ
+D3 D5 D8 DK
+CA C7 C5 C4
+D7 DQ S2 DT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T4.87.A3.AQ86542 AK.T95.KJ98654.J 987632.KQ6.Q72.T QJ5.AJ432.T.K973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Score "NS -200"]
+[Auction "N"]
+1D 2S X 2NT
+3D Pass 3H Pass
+4H X Pass Pass
+Pass
+[Play "W"]
+CA CJ CT C3
+C2 D4 H6 C7
+S4 SA S6 S5
+H7 HT HQ HA
+DA D5 D2 DT
+ST SK S2 SJ
+D3 DK D7 C9
+- H5 HK -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "5"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T4.87.A3.AQ86542 AK.T95.KJ98654.J 987632.KQ6.Q72.T QJ5.AJ432.T.K973"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "N"]
+1D 2S 3H Pass
+4H Pass Pass Pass
+[Play "W"]
+CA CJ CT C3
+C2 D4 H6 C7
+DA D5 D2 DT
+C5 HT HQ C9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A9.Q7432.K65.T42 86.JT5.987.K9853 T74.AK.AJT42.A76 KQJ532.986.Q3.QJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Auction "E"]
+1D 1S X Pass
+1NT Pass 2D Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "S"]
+SK SA S8 S7
+H8 H2 HT HA
+H6 H3 HJ HK
+D3 DK D7 D4
+H9 HQ H5 C6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "6"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A9.Q7432.K65.T42 86.JT5.987.K9853 T74.AK.AJT42.A76 KQJ532.986.Q3.QJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Auction "E"]
+1NT 2H 3H Pass
+3S Pass 3NT Pass
+Pass Pass
+[Play "S"]
+SK S9 S8 S4
+S2 SA S6 S7
+H6 H2 H5 HA
+H8 H3 HT HK
+D3 DK D7 D2
+H9 HQ HJ C6
+S3 H7 C3 ST
+- H4 C5 C7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Deal "W:A98.QT.A9832.K65 K7532.AKJ9.J4.JT 4.543.KQ5.Q98742 QJT6.8762.T76.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "S"]
+Pass 1NT 2C 3C
+3S 3NT Pass Pass
+Pass
+[Play "N"]
+HA H3 H2 HT
+HK H4 H6 HQ
+HJ H5 H7 C5
+H9 C2 H8 C6
+D4 DK DT D2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "7"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "Both"]
+[Deal "W:A98.QT.A9832.K65 K7532.AKJ9.J4.JT 4.543.KQ5.Q98742 QJT6.8762.T76.A3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "S"]
+Pass 1D 1S 2D
+2S 3D Pass Pass
+3S Pass Pass Pass
+[Play "E"]
+DK D6 DA D4
+H3 H2 HQ HA
+DQ D7 D2 DJ
+C2 CA C5 CT
+D5 DT D3 CJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:953.AKT.AKQ2.Q62 AKJ6.32.T954.AT8 QT842.9865.863.4 7.QJ74.J7.KJ9753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "W"]
+1D 1S Pass 2C
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+DK D4 D8 D7
+DA D5 D6 DJ
+HK H2 H9 H4
+HA H3 H5 H7
+S3 SA S4 S7
+D2 D9 D3 C3
+C2 CA C4 C5
+- C8 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "8"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:953.AKT.AKQ2.Q62 AKJ6.32.T954.AT8 QT842.9865.863.4 7.QJ74.J7.KJ9753"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "W"]
+1D 1S Pass 2C
+Pass 3C Pass Pass
+Pass
+[Play "W"]
+DK D4 D3 D7
+DA D5 D6 DJ
+HA H2 H9 H4
+HK H3 H5 H7
+DQ D9 D8 C3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK8652.T.8743.62 .A8763.AJ6.T8753 QJ7.QJ952.KQ2.K9 T943.K4.T95.AQJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2S Pass 3D
+Pass 4S Pass Pass
+Pass
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "9"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK8652.T.8743.62 .A8763.AJ6.T8753 QJ7.QJ952.KQ2.K9 T943.K4.T95.AQJ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+1H 1NT X Pass
+2C Pass Pass 3S
+Pass 4S Pass Pass
+Pass
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Deal "W:KJ7543.AT6.9.Q73 A8.K5.T843.AJ985 96.QJ84.AQ7652.K QT2.9732.KJ.T642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3CX"]
+[Result "8"]
+[Score "NS -200"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass Pass 3C
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+S9 ST SJ SA
+CK C2 C3 CA
+S6 S2 SK S8
+DA DJ D9 D4
+D6 DK C7 D3
+H4 H2 H6 HK
+D2 H3 CQ DT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "10"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "Both"]
+[Deal "W:KJ7543.AT6.9.Q73 A8.K5.T843.AJ985 96.QJ84.AQ7652.K QT2.9732.KJ.T642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass 2S Pass
+Pass Pass
+[Play "N"]
+HK H4 H2 HA
+CA CK C2 C3
+H5 H8 H9 HT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:2.7532.QJT763.Q4 AQ63.AQ86.4.JT98 T85.JT9.A9852.32 KJ974.K4.K.AK765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Auction "S"]
+1C 2D 3D 4D
+4S Pass 4NT Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "W"]
+DQ D4 DA DK
+C4 C8 C2 CA
+S2 S3 S5 SK
+D7 SA S8 S4
+D3 S6 ST SJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "11"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:2.7532.QJT763.Q4 AQ63.AQ86.4.JT98 T85.JT9.A9852.32 KJ974.K4.K.AK765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Auction "S"]
+1C 2C X 2H
+2S 3D 4D X
+4S Pass 4NT Pass
+5H Pass 6S Pass
+Pass Pass
+[Play "W"]
+DQ D4 DA DK
+C4 C8 C3 CA
+S2 S3 S5 SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:642.QT64.QJ53.94 A5.K987.AT9.KQJT KQ93.A32.864.752 JT87.J5.K72.A863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass 1C 1S 1NT
+Pass 2C Pass 2S
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+S6 SA S3 S7
+C4 CT C7 C3
+C9 CJ C2 C6
+S4 CQ C5 C8
+S2 S5 SQ S8
+DJ DA D4 D2
+H4 CK S9 CA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "12"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:642.QT64.QJ53.94 A5.K987.AT9.KQJT KQ93.A32.864.752 JT87.J5.K72.A863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "W"]
+Pass 1C Pass 1NT
+Pass 2C Pass 2H
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+D3 D9 D4 D2
+C4 CK C2 CA
+H4 H7 HA HJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Deal "W:JT82.K753.32.KJT AK5.942.AQJ94.Q7 Q3.AQ86.KT.98642 9764.JT.8765.A53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "N"]
+1C Pass 1D Pass
+1NT Pass Pass Pass
+[Play "E"]
+C6 C3 CK C7
+C2 C5 CJ CQ
+DK D5 D2 DQ
+C4 CA CT -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "13"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "Both"]
+[Deal "W:JT82.K753.32.KJT AK5.942.AQJ94.Q7 Q3.AQ86.KT.98642 9764.JT.8765.A53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "N"]
+1NT Pass Pass Pass
+[Play "E"]
+C4 C3 CT CQ
+DT D5 D2 DA
+DK D6 D3 DJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ3.T83.JT53.A85 AT.K972.AK8.JT63 742.QJ54.762.KQ4 Q9865.A6.Q94.972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "E"]
+Pass 2D Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+H3 HK H4 H6
+S3 SA S7 S5
+SJ ST S2 S6
+HT H2 H5 HA
+- - - SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "14"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ3.T83.JT53.A85 AT.K972.AK8.JT63 742.QJ54.762.KQ4 Q9865.A6.Q94.972"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "E"]
+CK C2 C5 C3
+CQ C7 C8 CT
+C4 C9 CA CJ
+D2 D4 DT DA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ8765.8.J97.JT7 K.AQT5.AQT8.9843 T3.J7632.62.AKQ2 Q942.K94.K543.65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass 2S X 3C
+Pass 3S Pass Pass
+Pass
+[Play "N"]
+DA D2 D3 D7
+DT D6 DK DJ
+H5 H2 HK H8
+HT H3 H9 S5
+DQ S3 D4 D9
+SK ST S2 S6
+C4 C2 C6 CJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "15"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ8765.8.J97.JT7 K.AQT5.AQT8.9843 T3.J7632.62.AKQ2 Q942.K94.K543.65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "S"]
+Pass 2S X Pass
+2NT Pass 3C Pass
+3D Pass Pass Pass
+[Play "W"]
+H8 HT H2 H4
+D7 DA D2 D3
+D9 D8 D6 DK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[Room "Open"]
+[West "Stansby Lew"]
+[North "Aa Terje"]
+[East "Martel Chip"]
+[South "Grotheim G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A73.KQJ2.J54.KJ8 642.9543.T87.632 QT5.T8.AQ963.T54 KJ98.A76.K2.AQ97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "3"]
+[Score "NS -800"]
+[Auction "W"]
+1C Pass 1D 1NT
+X Pass Pass Pass
+[Play "W"]
+HK H3 H8 H6
+D4 D7 D9 DK
+DJ D8 DQ D2
+H2 H4 HT HA
+HJ H5 C5 H7
+HQ - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 6"]
+[Site "Paris"]
+[Date "2001.11.02"]
+[Board "16"]
+[Room "Closed"]
+[West "Brogeland B."]
+[North "Weichsel P."]
+[East "Saelensminde"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A73.KQJ2.J54.KJ8 642.9543.T87.632 QT5.T8.AQ963.T54 KJ98.A76.K2.AQ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S6 ST SJ SA
+D7 D3 DK DJ
+S2 S5 SK S3
+S4 SQ S9 S7
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[HomeTeam "USA"]
+[VisitTeam "Norway"]
+[Board "1"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ72.9.Q762.KQ42 T9.KQT72.A53.AJT A653.43.K94.8653 Q84.AJ865.JT8.97"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2S Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+H4 H5 H9 HK
+H3 HJ S2 H7
+C3 C9 CK CA
+S3 HA D6 HT
+C5 C7 CQ CT
+SA S4 S7 ST
+S6 SQ SK S9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "1"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ72.9.Q762.KQ42 T9.KQT72.A53.AJT A653.43.K94.8653 Q84.AJ865.JT8.97"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "N"]
+1C 1H 1S 3C
+3S 4H Pass Pass
+Pass
+[Play "S"]
+C5 C7 CQ CA
+S6 S4 SJ S9
+SA S8 S2 ST
+S3 SQ SK H2
+H3 H5 H9 HK
+H4 H6 S7 HQ
+C3 C9 CK CJ
+C6 D8 C4 CT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "2"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J82.QT64.AJ82.Q5 AQ94.982.Q43.AT6 T53.K75.765.KJ98 K76.AJ3.KT9.7432"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Room "Open"]
+[Score ""]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass Pass Pass
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "2"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J82.QT64.AJ82.Q5 AQ94.982.Q43.AT6 T53.K75.765.KJ98 K76.AJ3.KT9.7432"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass Pass Pass
+[Play "E"]
+H4 H2 HK HA
+D2 DQ D5 D9
+DJ D3 D6 DT
+SJ S4 S3 SK
+S8 SA S5 S6
+S2 SQ ST S7
+C5 S9 C8 C2
+CQ CA C9 C3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "3"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJT95.Q6.Q43.J97 74.KJ9742.K2.A52 63.AT83.AJ86.T63 AQ82.5.T975.KQ84"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -120"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H Pass 2NT
+Pass Pass Pass
+[Play "S"]
+SJ S4 S6 SQ
+H6 HJ HA H5
+S9 S7 S3 S2
+SK H2 C6 SA
+C7 C2 C3 CQ
+C9 CA CT C4
+HQ HK H3 S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "3"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJT95.Q6.Q43.J97 74.KJ9742.K2.A52 63.AT83.AJ86.T63 AQ82.5.T975.KQ84"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 2H Pass 2NT
+Pass Pass Pass
+[Play "S"]
+SJ S4 S6 SQ
+H6 HK HA H5
+S9 S7 S3 S2
+ST H2 D6 SA
+C7 C2 C3 CQ
+C9 CA C6 C4
+CJ C5 CT CK
+D3 H4 H3 C8
+D4 D2 DJ D9
+HQ H7 H8 S8
+SK H9 HT D5
+S5 HJ D8 D7
+DQ DK DA DT
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "4"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T65.QT43.T654.T9 A2.J97.J9.KJ7654 KQ8.A82.Q83.Q832 J9743.K65.AK72.A"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1C 1S
+Pass 1NT Pass 2D
+Pass 2S Pass Pass
+Pass
+[Play "W"]
+CT C4 C3 CA
+D6 D9 D3 DA
+D4 DJ D8 DK
+D5 S2 DQ D2
+C9 CK C2 D7
+H4 H7 H2 HK
+S6 SA S8 S3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "4"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T65.QT43.T654.T9 A2.J97.J9.KJ7654 KQ8.A82.Q83.Q832 J9743.K65.AK72.A"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 600"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 2C Pass 2D
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "W"]
+H3 H9 HA H5
+HQ H7 H8 H6
+ST S2 SQ S4
+S6 SA S8 S3
+C9 C4 C2 CA
+H4 HJ H2 HK
+S5 C5 SK SJ
+- - D3 D2
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "5"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT87.T763.542.A2 A52.AJ95.86.T976 QJ64.82.KQJ3.K53 93.KQ4.AT97.QJ84"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+S3 S7 S5 S6
+S9 ST SA S4
+H4 S8 S2 SJ
+D7 D2 D8 DK
+C4 CA C6 C3
+DA D4 D6 DQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "5"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT87.T763.542.A2 A52.AJ95.86.T976 QJ64.82.KQJ3.K53 93.KQ4.AT97.QJ84"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "W"]
+CQ CA C7 C5
+DA D2 D8 DQ
+C4 C2 C9 CK
+HQ H3 H5 H8
+DT D4 D6 DK
+HK H6 H9 H2
+H4 H7 HJ S4
+S3 S7 SA SJ
+D7 HT HA SQ
+S9 SK S2 S6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "6"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AK95.T4.Q65.AJT6 T8732.A932.KJ42. .KJ5.973.KQ97542 QJ64.Q876.AT8.83"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -300"]
+[Scoring "IMP"]
+[Auction "E"]
+1C X 3S X
+3NT 4S Pass Pass
+X Pass Pass Pass
+[Play "W"]
+CK C3 C6 S2
+H5 H6 HT H2
+C5 C8 CJ S3
+C4 S4 SK ST
+HK H7 H4 H3
+HJ H8 S5 H9
+C2 S6 SA S7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "6"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AK95.T4.Q65.AJT6 T8732.A932.KJ42. .KJ5.973.KQ97542 QJ64.Q876.AT8.83"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -600"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT 2C 3S 4D
+Pass Pass 5C Pass
+Pass Pass
+[Play "N"]
+SQ SA S2 D3
+C3 CA S8 C2
+S4 SK S3 D7
+S6 S5 S7 C4
+DT D5 D4 D9
+D8 D6 DJ CQ
+C8 CJ H2 C5
+- H4 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "7"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:652.QJT5.Q.Q7532 J8.K9.AJT865.964 Q74.8743.732.AK8 AKT93.A62.K94.JT"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "13"]
+[Room "Open"]
+[Score "NS -720"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 2D Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+HQ H9 H3 HA
+DQ D5 D2 DK
+C2 DA D3 D4
+S6 DJ D7 D9
+S2 DT H4 H6
+C3 D6 C8 CT
+C5 D8 S4 CJ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "7"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:652.QJT5.Q.Q7532 J8.K9.AJT865.964 Q74.8743.732.AK8 AKT93.A62.K94.JT"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2D Pass 3D
+Pass Pass Pass
+[Play "N"]
+CA CJ C7 C4
+CK CT C2 C6
+H8 H2 HT HK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "8"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A9864.Q9843.T2.J 32.JT.A76.AT7653 QJ5.76.QJ843.KQ8 KT7.AK52.K95.942"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1D X
+1S 3C Pass Pass
+3H Pass 3S Pass
+Pass Pass
+[Play "N"]
+S2 SQ SK SA
+CA C8 C2 CJ
+D6 D3 DK D2
+HJ H6 HK H3
+HT H7 HA H4
+DA D4 D9 DT
+D7 DQ D5 H8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "8"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A9864.Q9843.T2.J 32.JT.A76.AT7653 QJ5.76.QJ843.KQ8 KT7.AK52.K95.942"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Room "Closed"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1NT Pass Pass
+Pass
+[Play "E"]
+D4 D5 DT D7
+DJ DK D2 D6
+CK C2 CJ C3
+DQ D9 S4 DA
+C8 C4 H3 CA
+H6 H2 HQ HJ
+H7 H5 H8 HT
+SJ SK SA S2
+SQ S7 S6 S3
+CQ C9 S8 C5
+D8 HK H4 C6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "9"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:94.T.JT764.AQ764 AK3.QJ952.AQ5.T2 T82.A87643.8.J85 QJ765.K.K932.K93"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Room "Open"]
+[Score "NS -680"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT 2D 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+HT H2 HA HK
+C4 H5 H8 SJ
+S4 SA S2 S6
+S9 SK S8 S5
+D4 S3 ST SQ
+DT DA D8 D9
+C6 HQ H3 C3
+D6 HJ H4 C9
+C7 H9 H6 CK
+D7 DQ C5 D2
+DJ D5 C8 DK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "9"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:94.T.JT764.AQ764 AK3.QJ952.AQ5.T2 T82.A87643.8.J85 QJ765.K.K932.K93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1NT Pass 2H
+Pass 2NT Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+D8 DK D4 D5
+S2 S6 S4 SA
+S8 S5 S9 SK
+ST SJ C4 S3
+HA HK HT H2
+CJ CK CA C2
+C5 C3 CQ CT
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "10"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:654.K.KQT9852.AQ A.A864.A763.T432 KJT873.T32.J4.K9 Q92.QJ975..J8765"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass 2S Pass
+4S Pass Pass Pass
+[Play "N"]
+HQ HK HA H3
+H7 D2 DA D4
+S2 D5 D3 DJ
+C6 CQ C2 C9
+S9 S4 SA S3
+- - D7 -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "10"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:654.K.KQT9852.AQ A.A864.A763.T432 KJT873.T32.J4.K9 Q92.QJ975..J8765"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1S Pass
+3D Pass Pass Pass
+[Play "S"]
+SA S3 S2 S5
+C4 C9 CJ CQ
+D7 D4 C8 DT
+DA DJ H5 DK
+C2 CK C5 CA
+D3 S7 H7 DQ
+D6 S8 H9 D8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "11"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ5.QT93.8652.A9 A873.5.AQJ93.762 K42.A82.T7.KJ853 T96.KJ764.K4.QT4"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -120"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 1NT
+Pass Pass Pass
+[Play "S"]
+H3 H5 HA H6
+CA C2 C3 CT
+C9 C6 CK C4
+S5 C7 CJ CQ
+D2 D3 DT DK
+H9 S3 H2 HK
+D5 DA D7 D4
+- DQ - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "11"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ5.QT93.8652.A9 A873.5.AQJ93.762 K42.A82.T7.KJ853 T96.KJ764.K4.QT4"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 1NT
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+C3 CT CA C2
+CK C4 C9 C6
+C5 CQ D5 C7
+HA H4 H3 H5
+H2 HJ HQ D3
+D7 D4 D2 DA
+DT DK D6 D9
+H8 HK H9 S3
+S2 ST SQ SA
+C8 H6 D8 DQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "12"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK7.987.KQ9.Q754 T9432.AQ4.J6.K63 J65.K632.85432.J Q8.JT5.AT7.AT982"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1H Pass
+1NT Pass 2D Pass
+Pass 2S Pass Pass
+2NT Pass 3D Pass
+Pass Pass
+[Play "S"]
+SQ SA S4 S5
+CA C4 C6 CJ
+S8 S7 ST SJ
+D7 DK D6 D4
+C2 C5 C3 D5
+DA D9 DJ D3
+HJ H7 HA H2
+DT SK S2 S6
+HT H8 H4 HK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "12"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK7.987.KQ9.Q754 T9432.AQ4.J6.K63 J65.K632.85432.J Q8.JT5.AT7.AT982"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "W"]
+1D 1S 2D X
+Pass 2H Pass 2S
+3D Pass Pass Pass
+[Play "N"]
+S2 SJ SQ SA
+CK CJ C2 C4
+ST S5 S8 SK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "13"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q43.975.Q9843.65 KJ87.T42.J7.AQT2 AT952.86.K5.KJ84 6.AKQJ3.AT62.973"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1S 2H
+Pass 2S Pass 4H
+Pass Pass Pass
+[Play "N"]
+S3 S7 S9 S6
+H7 HT H6 H3
+DQ D7 D5 DT
+H5 H2 H8 HA
+D4 DJ DK DA
+D8 H4 S2 D6
+S4 SK SA HJ
+C5 C2 CJ C9
+SQ S8 S5 D2
+C6 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "13"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q43.975.Q9843.65 KJ87.T42.J7.AQT2 AT952.86.K5.KJ84 6.AKQJ3.AT62.973"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -600"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass Pass 1S 2H
+2S 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+S5 S6 SQ SK
+H6 HA H5 H4
+CJ C9 C6 C2
+DK DA D3 D7
+D5 D2 DQ DJ
+S9 C3 S4 S8
+SA - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "14"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKJT32.Q743..KQ3 864.A9.764.AJ752 7.2.AQT9853.T964 Q95.KJT865.KJ2.8"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Room "Open"]
+[Score "NS -130"]
+[Scoring "IMP"]
+[Auction "E"]
+1S Pass 1NT 2H
+X Pass 3D Pass
+Pass Pass
+[Play "N"]
+HJ H3 H9 H2
+C8 CK CA C6
+H5 H4 HA D3
+DJ S2 D4 DA
+DK S3 D6 DQ
+S5 SA S4 S7
+S9 SK S6 C4
+SQ SJ S8 DT
+D2 H7 D7 D9
+H6 CQ C2 CT
+H8 ST C5 C9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "14"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKJT32.Q743..KQ3 864.A9.764.AJ752 7.2.AQT9853.T964 Q95.KJT865.KJ2.8"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1C Pass 2S Pass
+2NT Pass 3C Pass
+3S Pass 4D Pass
+4S Pass 5D Pass
+Pass Pass
+[Play "N"]
+HJ H3 HA H2
+C8 C3 CA C4
+- - H9 -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "15"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ8.A.T95.AKJ984 T52.Q96532.KQ6.Q J9.J87.J84.T7652 A7643.KT4.A732.3"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+1C 1H Pass 4H
+Pass Pass Pass
+[Play "N"]
+SJ SA S8 S5
+H7 H4 HA H6
+S9 S3 SQ S2
+C7 S4 SK ST
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "15"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ8.A.T95.AKJ984 T52.Q96532.KQ6.Q J9.J87.J84.T7652 A7643.KT4.A732.3"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 50"]
+[Scoring "IMP"]
+[Auction "S"]
+1C 2H Pass 2NT
+3C 3D Pass 4H
+Pass Pass Pass
+[Play "N"]
+SJ S3 S8 S2
+S9 SA SQ S5
+H7 H4 HA H2
+C2 C3 CA CQ
+C5 S4 SK ST
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "16"]
+[West "Helgemo G."]
+[North "Martel Chip"]
+[East "Helness Tor"]
+[South "Stansby Lew"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKJ7.5.AK73.A954 65.AT7.QJ852.K86 Q2.KJ832.964.JT7 T9843.Q964.T.Q32"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+2D X Pass Pass
+XX Pass 2H Pass
+2NT Pass Pass Pass
+[Play "N"]
+HA H2 H4 H5
+HT HJ HQ D3
+D2 D4 DT DA
+C6 CJ CQ C4
+S6 SQ ST S7
+H7 HK H6 D7
+CK CT C2 C5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 7"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "16"]
+[West "Sontag Alan"]
+[North "Saelensminde"]
+[East "Weichsel P."]
+[South "Brogeland B."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKJ7.5.AK73.A954 65.AT7.QJ852.K86 Q2.KJ832.964.JT7 T9843.Q964.T.Q32"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -600"]
+[Scoring "IMP"]
+[Auction "W"]
+1C X XX 1D
+Pass Pass 1H Pass
+1S Pass 2D Pass
+3NT Pass Pass Pass
+[Play "N"]
+C6 CJ CQ CA
+CK C7 C2 C4
+HT HJ HQ H5
+D2 D4 DT DA
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[HomeTeam "USA"]
+[VisitTeam "Norway"]
+[Board "1"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ75.K76..JT754 Q3.T983.AT2.Q832 T6.A542.KQ9.AK96 9842.QJ.J876543."]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 400"]
+[Scoring "IMP"]
+[Auction "N"]
+1S Pass 2C Pass
+3D Pass 3NT Pass
+4D Pass 4H Pass
+4S Pass 5C Pass
+Pass Pass
+[Play "W"]
+HQ H6 HT HA
+D8 C4 C2 CA
+D5 H7 DA DQ
+HJ HK H3 H2
+D3 CJ C3 C6
+D4 C5 C8 C9
+D6 C7 CQ CK
+D7 S5 D2 DK
+S2 S7 SQ ST
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "1"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ75.K76..JT754 Q3.T983.AT2.Q832 T6.A542.KQ9.AK96 9842.QJ.J876543."]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS 920"]
+[Scoring "IMP"]
+[Auction "N"]
+1S Pass 2C Pass
+4D Pass 4H Pass
+4NT Pass 5C Pass
+5D Pass 6C Pass
+Pass Pass
+[Play "W"]
+D3 C4 D2 D9
+D4 C7 C2 CA
+S2 S5 SQ ST
+HJ H6 HT HA
+D5 C5 DT DK
+- CJ - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "2"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A643.83.A643.J94 T87.KQJT.T.AKQ82 J95.A942.K952.T6 KQ2.765.QJ87.753"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+D5 D7 DA DT
+SJ SK S4 ST
+HA H6 H8 HQ
+S9 SQ SA S7
+S5 S2 S3 S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "2"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A643.83.A643.J94 T87.KQJT.T.AKQ82 J95.A942.K952.T6 KQ2.765.QJ87.753"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass 1C Pass 1NT
+Pass 2C Pass Pass
+Pass
+[Play "W"]
+D2 D7 DA DT
+HA H5 H8 HK
+H2 H6 H3 HT
+C6 C3 C4 CA
+CT C5 C9 CK
+S5 C7 CJ CQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "3"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT6.K9652.2.KJ98 A943.QT8.AQ65.AT K52.43.JT987.Q52 Q87.AJ7.K43.7643"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1NT Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+DT D3 D2 DA
+H4 H7 HK HT
+CQ C3 C8 CT
+C5 C4 C9 CA
+SK S7 S6 S4
+C2 C6 CJ D5
+- - CK -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "3"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT6.K9652.2.KJ98 A943.QT8.AQ65.AT K52.43.JT987.Q52 Q87.AJ7.K43.7643"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -600"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+DJ D3 D2 DQ
+S2 SQ S6 S3
+S5 S7 ST SA
+SK S8 SJ S4
+C2 C3 CK CT
+CQ C4 C8 CA
+D8 C6 H2 S9
+- - - D5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "4"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J42.J3.AQT9.6432 AQ5.KQ6542.75.K7 T98763.8.KJ84.T9 K.AT97.632.AQJ85"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2H Pass 3S
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "E"]
+D8 D2 DA D7
+- - D9 D5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "4"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J42.J3.AQT9.6432 AQ5.KQ6542.75.K7 T98763.8.KJ84.T9 K.AT97.632.AQJ85"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Score "NS 650"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H Pass 2NT
+Pass 3S Pass 3NT
+Pass 4C Pass 4H
+Pass Pass Pass
+[Play "E"]
+D4 D2 DA D5
+DK D3 D9 D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "5"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:6.T987.AK65.A864 KQ8743.AJ.87.KQ2 AJ92.543.Q92.J97 T5.KQ62.JT43.T53"]
+[Declarer "S"]
+[Contract "2NTX"]
+[Result "7"]
+[Room "Open"]
+[Score "NS -200"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1S Pass 1NT
+X 2S Pass Pass
+X Pass 2NT X
+Pass Pass Pass
+[Play "W"]
+ST S6 S3 SJ
+H6 H7 HJ H4
+S5 C4 SQ SA
+H2 H8 HA H5
+CT H9 SK S2
+C5 HT S7 S9
+D3 D5 D7 DQ
+D4 DK D8 D2
+DT DA C2 D9
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "5"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:6.T987.AK65.A864 KQ8743.AJ.87.KQ2 AJ92.543.Q92.J97 T5.KQ62.JT43.T53"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 1NT
+X XX 2C Pass
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+H3 H2 H8 HA
+H4 HQ H7 HJ
+H5 HK H9 D7
+SA S5 S6 SK
+D2 D3 DK D8
+C7 H6 HT S8
+SJ ST C4 S3
+DQ D4 D5 S4
+C9 C3 CA CK
+D9 - DA S7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "6"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q3.Q65.A72.KQJ65 94.K832.KQT.9842 JT652.974.9853.A AK87.AJT.J64.T73"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -110"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+C9 CA CT C5
+S4 S2 S8 SQ
+C2 H4 C7 CK
+C4 H7 C3 CJ
+C8 H9 S7 CQ
+S9 S5 SK S3
+DT D3 D6 DA
+H2 D5 SA C6
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "6"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q3.Q65.A72.KQJ65 94.K832.KQT.9842 JT652.974.9853.A AK87.AJT.J64.T73"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Room "Closed"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass Pass Pass
+[Play "S"]
+DK D3 D4 D2
+H3 H4 HA H5
+H2 H7 HJ H6
+HK H9 HT HQ
+C2 CA C3 C5
+S4 S2 S7 SQ
+- - - CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "7"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A96.62.AT.A87543 754.A.KQ864.KJ96 KT8.KQJT54.J952. QJ32.9873.73.QT2"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "S"]
+2C Pass 3C Pass
+3H Pass Pass Pass
+[Play "W"]
+DK D2 D7 DA
+HA H4 H3 H2
+S7 SK S2 S6
+- HK - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "7"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A96.62.AT.A87543 754.A.KQ864.KJ96 KT8.KQJT54.J952. QJ32.9873.73.QT2"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS 170"]
+[Scoring "IMP"]
+[Auction "S"]
+1C 1D 1H Pass
+2C Pass 2H Pass
+Pass Pass
+[Play "E"]
+D7 DA D4 D2
+H3 H2 HA H4
+C2 CA CK S8
+- H6 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "8"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:.AT643.JT864.KJT QT932.K8.Q93.876 J75.J95.K5.AQ952 AK864.Q72.A72.43"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "W"]
+1H Pass 4H Pass
+Pass Pass
+[Play "N"]
+ST S5 SK H4
+D3 DK DA D4
+S9 S7 S4 H3
+DQ D5 D2 DT
+SQ SJ S8 H6
+HK H5 H2 HT
+S3 - - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "8"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:.AT643.JT864.KJT QT932.K8.Q93.876 J75.J95.K5.AQ952 AK864.Q72.A72.43"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1C 1S
+2H 3S Pass Pass
+4D Pass 4H Pass
+Pass Pass
+[Play "N"]
+ST S5 SA H3
+D3 D5 DA DT
+S2 S7 S6 H4
+D9 DK D2 D4
+HK H5 H2 HT
+SQ SJ S4 H6
+H8 H9 H7 HA
+- - - CK
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "9"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q.K753.AJ653.AK8 T2.QJT84.2.QJ765 AJ974.62.KQT9.32 K8653.A9.874.T94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Score "NS 430"]
+[Scoring "IMP"]
+[Auction "N"]
+1D 1H 1S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+C5 C2 C9 CK
+S2 S4 SK SQ
+CQ C3 CT CA
+D2 DK D4 D5
+ST SA S3 C8
+- SJ - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "9"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q.K753.AJ653.AK8 T2.QJT84.2.QJ765 AJ974.62.KQT9.32 K8653.A9.874.T94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS 430"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2H Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "E"]
+HQ H2 HA H5
+HT H6 H9 H3
+CQ C2 C4 CK
+S2 S4 SK SQ
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "10"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT7.J854.Q765.7 5432.3.K83.QJ863 9.AKQT6.A4.AT542 KQ86.972.JT92.K9"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Room "Open"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1C Pass
+2NT Pass 3C Pass
+3D Pass 3H Pass
+3NT Pass 6H Pass
+Pass Pass
+[Play "N"]
+H2 H4 H3 H6
+C9 C7 C3 CA
+CK H5 C6 C4
+S6 SA S2 S9
+S8 SJ S3 HT
+D9 H8 C8 C2
+SQ ST S4 HQ
+D2 HJ CJ C5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "10"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT7.J854.Q765.7 5432.3.K83.QJ863 9.AKQT6.A4.AT542 KQ86.972.JT92.K9"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Room "Closed"]
+[Score "NS -680"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1H Pass
+2C Pass 3C Pass
+3H Pass 4C Pass
+4H Pass Pass Pass
+[Play "N"]
+SK SA S2 S9
+C9 C7 C3 CA
+CK H4 C6 C2
+S6 S7 S3 H6
+DJ H5 C8 C4
+D2 D5 D3 DA
+- - - C5
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "11"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A72.A962.32.K762 963.Q7.K8754.QJT J85.T53.QJT6.A54 KQT4.KJ84.A9.983"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "6"]
+[Room "Open"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 1NT X
+Pass Pass Pass
+[Play "E"]
+SK S2 S9 S5
+H4 H2 HQ H5
+ST S7 S6 S8
+S4 SA S3 SJ
+DA D2 D4 DQ
+SQ C2 D7 C4
+C3 CK CQ C5
+D9 D3 DK D6
+C8 C6 CJ CA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "11"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A72.A962.32.K762 963.Q7.K8754.QJT J85.T53.QJT6.A54 KQT4.KJ84.A9.983"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -120"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass Pass Pass
+[Play "S"]
+C6 CT CA C8
+CK CJ C5 C3
+C2 CQ C4 C9
+SA S3 S5 SQ
+C7 D4 D6 H4
+D3 D5 DT DA
+HA H7 H3 H8
+D2 DK DJ D9
+S2 S6 S8 ST
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "12"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J4.A32.AJ75.AJT5 AQ5.QJT.KT.97432 K982.8754.Q62.Q8 T763.K96.9843.K6"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Open"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "W"]
+1D X 1H 1S
+X Pass 1NT Pass
+Pass Pass
+[Play "S"]
+S3 S4 SQ SK
+CK CA C3 CQ
+D4 DA DT D2
+D3 D5 DK D6
+S6 SJ SA S2
+ST H2 S5 S8
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "12"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J4.A32.AJ75.AJT5 AQ5.QJT.KT.97432 K982.8754.Q62.Q8 T763.K96.9843.K6"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Closed"]
+[Score "NS -150"]
+[Scoring "IMP"]
+[Auction "W"]
+1C Pass 1H Pass
+1NT Pass Pass Pass
+[Play "N"]
+C2 C8 CK CA
+DK D2 D4 D5
+HQ H4 H6 H2
+HJ H5 H9 H3
+DT DQ D3 D7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "13"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:764..AKT9643.AKJ AK5.J632.QJ5.T53 J9.AKQ74..Q98642 QT832.T985.872.7"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "N"]
+1C Pass 2C Pass
+2NT Pass 3H Pass
+4C Pass 4H Pass
+6C Pass Pass Pass
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "13"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:764..AKT9643.AKJ AK5.J632.QJ5.T53 J9.AKQ74..Q98642 QT832.T985.872.7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -100"]
+[Scoring "IMP"]
+[Auction "N"]
+1D Pass 1H Pass
+3D Pass 3H Pass
+3NT Pass Pass Pass
+[Play "E"]
+SA S9 S2 S4
+SK SJ S3 S6
+S5 H4 - -
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "14"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:8542.K2.8765.852 A76.J743.JT2.JT7 KQ9.AT86.A3.AQ43 JT3.Q95.KQ94.K96"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Open"]
+[Score "NS -90"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1NT Pass
+Pass Pass
+[Play "N"]
+SJ S2 S7 SK
+C6 C2 CT C4
+H9 HK H3 H8
+CK C5 C7 CQ
+DK D5 D2 DA
+C9 C8 CJ CA
+D4 H2 S6 C3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "14"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:8542.K2.8765.852 A76.J743.JT2.JT7 KQ9.AT86.A3.AQ43 JT3.Q95.KQ94.K96"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS -90"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1C Pass
+Pass Pass
+[Play "N"]
+C6 C2 CT CQ
+H5 HK H3 H6
+H9 H2 H4 HA
+HQ C5 H7 H8
+S3 S2 S6 SK
+C9 D5 HJ HT
+CK C8 C7 CA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "15"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.Q53.KQJ986.8542 AKJ872.A62.43.76 653.KJT87.A7.JT9 QT94.94.T52.AKQ3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1S Pass 4S
+Pass Pass Pass
+[Play "N"]
+CJ CA C2 C7
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "15"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.Q53.KQJ986.8542 AKJ872.A62.43.76 653.KJT87.A7.JT9 QT94.94.T52.AKQ3"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Room "Closed"]
+[Score "NS -420"]
+[Scoring "IMP"]
+[Auction "S"]
+2D 2S 3D 4D
+Pass 4H Pass 4S
+Pass Pass Pass
+[Play "N"]
+DA D2 D6 D3
+D7 D5 DJ D4
+H7 H4 H3 HA
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "16"]
+[West "Grotheim G."]
+[North "Weichsel P."]
+[East "Aa Terje"]
+[South "Sontag Alan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:92.Q95432.J5.986 4.AJT76.A6.AQT74 KQJT.8.KQ72.K532 A87653.K.T9843.J"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Room "Open"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H X 1S
+Pass 3C Pass 3S
+Pass Pass Pass
+[Play "W"]
+DJ DA D2 D3
+S2 S4 SK SA
+S9 C4 ST S3
+*
+
+[Event "2001 Bermuda Bowl Final Seg 8"]
+[Site "Paris"]
+[Date "2001.11.03"]
+[Board "16"]
+[West "Stansby Lew"]
+[North "Helness Tor"]
+[East "Martel Chip"]
+[South "Helgemo G."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:92.Q95432.J5.986 4.AJT76.A6.AQT74 KQJT.8.KQ72.K532 A87653.K.T9843.J"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Room "Closed"]
+[Score "NS 110"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1H X 1S
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "W"]
+DJ DA D2 D3
+S2 S4 ST SA
+S9 C4 SJ S8
+D5 H6 SQ S3
+H2 D6 D7 DT
+*
+

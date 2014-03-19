@@ -1,0 +1,6220 @@
+% PBN 2.0
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "1"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T987.KJ83.J64.82 AQJ653.T54.2.K65 4.Q976.AKQ73.JT4 K2.A2.T985.AQ973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Auction "N"]
+Pass    2S      X       XX
+3H      Pass    Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+DA D5 D4 D2
+DK D8 D6 S3
+S4 SK S7 S5
+H7 S2 S8 SA
+D3 H2 S9 SQ
+H9 D9 ST SJ
+C4 C3 C2 CK
+CT CA C8 C5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "1"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T987.KJ83.J64.82 AQJ653.T54.2.K65 4.Q976.AKQ73.JT4 K2.A2.T985.AQ973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "N"]
+Pass    2S      X       2NT
+X       3C      Pass    3S
+Pass    Pass    Pass
+[Play "S"]
+DA D5 D6 D2
+H6 HA H3 H4
+H7 H2 HK H5
+D3 D8 D4 S3
+H9 SK H8 HT
+S4 S2 S7 SA
+C4 D9 S8 SQ
+D7 DT S9 SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "2"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9763.8532.A8.J52 AJ4.Q4.KT932.K86 KQT52.KJ7.J765.7 8.AT96.Q4.AQT943"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass    1D      1S      X
+3S      Pass    Pass    X
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+SK S8 S6 S4
+HK HA H2 H4
+C7 C3 C2 C8
+D5 DQ DA D2
+S2 H6 S9 SA
+H7 H9 H3 HQ
+D6 C4 C5 CK
+S5 CA CJ C6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "2"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:9763.8532.A8.J52 AJ4.Q4.KT932.K86 KQT52.KJ7.J765.7 8.AT96.Q4.AQT943"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Auction "E"]
+Pass    1D      1S      2C
+3S      3NT     Pass    Pass
+Pass
+[Play "W"]
+SK S8 S6 S4
+S2 H6 S9 SJ
+C7 CQ C2 C6
+D5 DQ D8 D2
+D6 D4 DA D3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "3"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T932.Q74.942.KJ9 J876.K96.T3.AT32 A5.JT.K8765.8764 KQ4.A8532.AQJ.Q5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Auction "S"]
+Pass    Pass    Pass    1C
+Pass    1S      Pass    1NT
+Pass    2C      Pass    2H
+Pass    2S      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "S"]
+S2 S6 SA S4
+D2 D3 D6 DQ
+H4 H9 HT H2
+S3 S7 S5 SQ
+S9 S8 D8 SK
+H7 HK HJ H3
+D4 DT D5 DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "3"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T932.Q74.942.KJ9 J876.K96.T3.AT32 A5.JT.K8765.8764 KQ4.A8532.AQJ.Q5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "S"]
+Pass    Pass    Pass    1H
+Pass    2H      Pass    3C
+Pass    4H      Pass    Pass
+Pass
+[Play "S"]
+D4 D3 DK DA
+H4 HK HT H2
+H7 H6 HJ HA
+S2 S6 SA SK
+D2 DT D5 DJ
+S3 S7 S5 SQ
+S9 SJ C4 S4
+ST S8 D6 H3
+D9 C2 D7 DQ
+C9 CA C6 C5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "4"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:95.T98.Q9872.762 K842.J2.KT3.9543 QJ.AKQ643.A.AKQ8 AT763.75.J654.JT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+Pass    Pass    1C      1S
+Pass    2S      X       Pass
+3D      Pass    4H      Pass
+Pass    Pass
+[Play "S"]
+CJ C2 C3 CA
+H5 H8 H2 HA
+H7 H9 HJ HK
+CT C6 C4 CK
+S3 HT S8 H3
+S7 C7 C5 C8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "4"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:95.T98.Q9872.762 K842.J2.KT3.9543 QJ.AKQ643.A.AKQ8 AT763.75.J654.JT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+Pass    Pass    2C      Pass
+2D      Pass    2H      Pass
+4H      Pass    Pass    Pass
+[Play "S"]
+CJ C2 C3 CA
+H5 H8 H2 HA
+H7 H9 HJ HK
+CT C6 C4 CK
+S3 C7 C5 CQ
+D6 HT C9 C8
+SA S5 S2 SQ
+D5 DQ D3 DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "5"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A2.T5.QJ86.KQ972 QT6.KJ932.K9.J86 K8754.A74.T52.T4 J93.Q86.A743.A53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "N"]
+1C      1H      1S      2C
+X       2H      Pass    Pass
+Pass
+[Play "S"]
+CT C3 CQ C6
+SK S3 S2 S6
+C4 CA C2 C8
+HA H6 H5 HK
+S4 S9 SA ST
+H4 C5 C9 CJ
+S5 SJ HT SQ
+D2 D3 D8 DK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "5"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A2.T5.QJ86.KQ972 QT6.KJ932.K9.J86 K8754.A74.T52.T4 J93.Q86.A743.A53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "N"]
+1D      1H      1S      2H
+3C      Pass    Pass    3H
+Pass    Pass    Pass
+[Play "S"]
+CT C3 CQ C6
+S8 S3 SA S6
+SK S9 S2 ST
+S4 SJ H5 SQ
+HA H6 HT H2
+C4 CA C2 C8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "6"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ872.Q.QJT2.KQ8 JT643.T4.A973.52 9.AK975.54.AJ973 A5.J8632.K86.T64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "E"]
+1S      Pass    3C      Pass
+3D      Pass    3H      Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+S4 S9 SA S2
+S3 D4 S5 SK
+H4 H5 H2 HQ
+C2 C3 C4 CK
+C5 C7 C6 CQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "6"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ872.Q.QJT2.KQ8 JT643.T4.A973.52 9.AK975.54.AJ973 A5.J8632.K86.T64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "E"]
+1S      Pass    2H      Pass
+2NT     Pass    3C      Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+C5 C3 CT CK
+S3 S9 SA SK
+ST D4 S5 S7
+D3 D5 DK D2
+DA H5 D8 DQ
+D9 H7 D6 DT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "7"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT6.KQT6.AJ76.A2 AQ875.J4.Q2.KQ98 32.98.T8543.T765 K94.A7532.K9.J43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "S"]
+1NT     Pass    Pass    Pass
+[Play "W"]
+S5 S2 SK S6
+SQ S3 S9 SJ
+SA D3 S4 ST
+S8 D4 H3 H6
+S7 D5 H2 C2
+CK C5 C3 CA
+H4 H8 H5 HK
+D2 D8 D9 DA
+DQ DT DK D6
+HJ H9 HA HT
+C8 C6 H7 HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "7"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT6.KQT6.AJ76.A2 AQ875.J4.Q2.KQ98 32.98.T8543.T765 K94.A7532.K9.J43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "3"]
+[Score "NS -400"]
+[Auction "S"]
+1NT     Pass    Pass    Pass
+[Play "W"]
+S7 S2 SK S6
+SQ S3 S9 ST
+CK C5 C3 C2
+C9 C6 C4 CA
+H4 H8 HA HK
+SA D3 S4 SJ
+S8 D4 H3 D6
+S5 D5 H2 D7
+C8 CT CJ DJ
+HJ H9 H5 HT
+CQ C7 H7 H6
+D2 D8 DK DA
+DQ DT D9 HQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "8"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:43.A543.AKT52.J2 Q82.Q96.964.Q543 AKT9765.KJ8.83.6 J.T72.QJ7.AKT987"]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "6"]
+[Score "NS -1100"]
+[Auction "W"]
+1D      Pass    1S      2C
+Pass    3C      4S      5C
+X       Pass    Pass    Pass
+[Play "W"]
+DA D4 D8 D7
+DK D6 D3 DJ
+D2 D9 C6 DQ
+S3 S2 SA SJ
+HA H6 H8 H2
+H3 H9 HJ H7
+H4 HQ HK HT
+S4 S8 SK C7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "8"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:43.A543.AKT52.J2 Q82.Q96.964.Q543 AKT9765.KJ8.83.6 J.T72.QJ7.AKT987"]
+[Scoring "Chicago"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+1D      Pass    1S      2C
+Pass    Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+CA C2 C3 C6
+H2 H3 HQ HK
+SJ S3 S2 SA
+C7 S4 S8 SK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "9"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q843.T8.QJ94.KQ9 K6.AJ6432.K87.86 A97.K97.62.AJ542 JT52.Q5.AT53.T73"]
+[Scoring "Chicago"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 200"]
+[Auction "N"]
+Pass    1H      2C      X
+3C      3H      Pass    Pass
+Pass
+[Play "S"]
+D6 D3 D9 DK
+H7 H5 H8 HA
+HK HQ HT H2
+D2 DA D4 D7
+S7 SJ S3 S6
+C5 D5 DJ D8
+SA S2 S4 SK
+CA C3 C9 C6
+C2 C7 CQ C8
+S9 DT DQ HJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "9"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q843.T8.QJ94.KQ9 K6.AJ6432.K87.86 A97.K97.62.AJ542 JT52.Q5.AT53.T73"]
+[Scoring "Chicago"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    1H      Pass    1NT
+Pass    2H      Pass    Pass
+Pass
+[Play "S"]
+D6 D3 DJ DK
+H7 H5 H8 HA
+HK HQ HT H2
+D2 DA D4 D7
+C5 C3 C9 C6
+CJ D5 DQ D8
+H9 DT D9 C8
+C2 C7 CQ H3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "10"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AT4.Q8.Q8632.Q95 QJ972.AKT42.T.64 K6.J97653.AK5.A3 853..J974.KJT872"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "7"]
+[Score "NS 800"]
+[Auction "E"]
+Pass    Pass    1H      Pass
+1NT     2S      3H      Pass
+4H      X       Pass    Pass
+Pass
+[Play "N"]
+S3 S4 S9 SK
+C8 HQ HA H3
+S5 SA SQ S6
+D4 D2 DT DK
+D9 DQ H2 D5
+C2 C5 C4 CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "10"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AT4.Q8.Q8632.Q95 QJ972.AKT42.T.64 K6.J97653.AK5.A3 853..J974.KJT872"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    1S      2H      3C
+Pass    3S      Pass    Pass
+Pass
+[Play "W"]
+DK D4 D2 DT
+DA D7 D3 S2
+H3 S3 H8 H2
+S6 S5 SA S7
+SK S8 S4 SJ
+C3 CT CQ C4
+CA C2 C5 C6
+D5 DJ DQ S9
+H5 C7 ST SQ
+H6 C8 HQ H4
+H7 D9 D6 HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "11"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ82.87.Q52.AT54 T764.QT.AK8.J632 3.KJ52.T764.KQ87 KJ95.A9643.J93.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "S"]
+1C      Pass    1H      Pass
+1S      Pass    2C      Pass
+Pass    Pass
+[Play "W"]
+DA D4 D3 D2
+HT HJ HA H7
+C2 C7 C9 CT
+HQ HK H3 H8
+C6 H2 H4 C5
+C3 CQ S9 C4
+S4 S3 S5 SQ
+S6 D7 SJ SA
+S7 C8 SK S2
+D8 H5 H6 CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "11"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ82.87.Q52.AT54 T764.QT.AK8.J632 3.KJ52.T764.KQ87 KJ95.A9643.J93.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "S"]
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "E"]
+H4 H7 HQ HK
+S5 SQ S4 S3
+C9 C4 C2 CQ
+S9 CA C3 C7
+SJ SA S6 D4
+H6 CT CJ CK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "12"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT875.JT7.J82.32 AJ2.AQ62..K98765 96.543.AKT9764.4 Q43.K98.Q53.AQJT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "6"]
+[Score "NS 1100"]
+[Auction "W"]
+Pass    1C      4D      X
+5D      Pass    Pass    X
+Pass    Pass    Pass
+[Play "S"]
+CA C2 C9 C4
+S4 S5 SJ S6
+H9 H7 HA H3
+HK HT H2 H4
+H8 HJ HQ H5
+CT C3 CK D4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "12"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT875.JT7.J82.32 AJ2.AQ62..K98765 96.543.AKT9764.4 Q43.K98.Q53.AQJT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "13"]
+[Score "NS 1390"]
+[Auction "W"]
+Pass    1H      3D      3NT
+Pass    4C      Pass    6C
+Pass    Pass    Pass
+[Play "E"]
+DA D3 D2 C5
+C4 CA C2 C6
+D4 CQ C3 C7
+S6 S3 S5 SJ
+H3 HK H7 H2
+H4 H9 HT HA
+H5 H8 HJ HQ
+S9 S4 S7 SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "13"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT953.52.93.QT72 86.AK73.JT862.43 K.JT94.K75.AKJ65 AJ742.Q86.AQ4.98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "7"]
+[Auction "N"]
+Pass    Pass    1C      1S
+Pass    Pass    X       Pass
+2C      2D      Pass    Pass
+3C      Pass    Pass    3D
+Pass    Pass    Pass
+[Play "S"]
+CK C8 CT C3
+HJ H6 H2 HA
+D5 DQ D3 D2
+C5 C9 CQ C4
+H9 HQ H5 H3
+SK SJ S3 S6
+H4 H8 D9 H7
+D7 S2 S5 S8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "13"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT953.52.93.QT72 86.AK73.JT862.43 K.JT94.K75.AKJ65 AJ742.Q86.AQ4.98"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2H      Pass    2S      Pass
+Pass    Pass
+[Play "W"]
+C9 C2 C4 CA
+S2 S3 S6 SK
+C8 CQ C3 C5
+SJ S9 S8 C6
+H6 H2 HK H4
+DA D3 D2 DK
+DQ D9 D6 D5
+HQ H5 H3 H9
+H8 C7 HA HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "14"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQT3.A62.K953.92 842.JT74.AQJ2.64 J75.K53.87.KJ753 K96.Q98.T64.AQT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS 150"]
+[Auction "E"]
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "N"]
+D6 D3 DJ D7
+H9 H2 H4 HK
+S6 SQ S2 S7
+CA C2 C6 CK
+HQ H6 H7 H3
+H8 HA HT H5
+CT C9 C4 C3
+CQ D5 S4 C5
+D4 DK DA D8
+DT D9 DQ C7
+C8 S3 D2 S5
+S9 ST HJ CJ
+SK SA S8 SJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "14"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQT3.A62.K953.92 842.JT74.AQJ2.64 J75.K53.87.KJ753 K96.Q98.T64.AQT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS 150"]
+[Auction "E"]
+1D      Pass    1NT     Pass
+Pass    Pass
+[Play "N"]
+H9 H2 H4 H3
+HQ H6 H7 HK
+S6 SQ S2 S5
+CQ C2 C4 CJ
+H8 HA HT H5
+CA C9 C6 CK
+CT D3 S4 C3
+C8 D5 D2 C5
+D4 DK DA D7
+D6 D9 DQ D8
+DT S3 DJ C7
+S9 ST HJ S7
+SK SA S8 SJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "15"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T6.AKQJ7543.5.Q4 75.T96.KQ92.AJ87 QJ93.2.A873.T632 AK842.8.JT64.K95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "S"]
+1H      Pass    1S      Pass
+3H      Pass    Pass    Pass
+[Play "W"]
+S7 S3 SK S6
+DQ DA D4 D5
+H6 H2 H8 HA
+H9 C2 S8 HK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "15"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T6.AKQJ7543.5.Q4 75.T96.KQ92.AJ87 QJ93.2.A873.T632 AK842.8.JT64.K95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+4C      Pass    4H      Pass
+Pass    Pass
+[Play "E"]
+SK S6 S7 S3
+SA ST S5 S9
+S2 HJ D9 SJ
+H8 HA H6 H2
+D6 HK H9 C3
+C5 HQ HT D3
+D4 D5 DQ DA
+S4 C4 C8 SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "16"]
+[West "Garozzo"]
+[North "Soloway"]
+[East "Lauria"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT3.T74.AKT5.Q54 87542.Q9852.4.T8 AQJ96.A63.93.A32 .KJ.QJ8762.KJ976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+1D      Pass    1S      2NT
+Pass    3H      X       3S
+X       4C      4S      Pass
+Pass    Pass
+[Play "S"]
+D6 DA D4 D3
+C6 SK S2 S6
+C7 ST S4 S9
+D2 S3 S5 SA
+D7 H4 S7 SQ
+D8 H7 S8 SJ
+C9 C4 C8 CA
+CJ CQ CT C2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "16"]
+[West "Passell"]
+[North "Belladonna"]
+[East "Brachman"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT3.T74.AKT5.Q54 87542.Q9852.4.T8 AQJ96.A63.93.A32 .KJ.QJ8762.KJ976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+1D      Pass    1S      2C
+Pass    Pass    3C      Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+D6 DA D4 D3
+C6 SK S2 S6
+C7 ST S4 S9
+D2 S3 S5 SJ
+D7 H4 S7 SQ
+D8 D5 S8 SA
+C9 C4 C8 CA
+CK C5 CT C2
+CJ CQ H2 C3
+*
+
+% PBN 2.0
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "17"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:762.KJ94.KJT5.A8 AT3.T52.A86432.2 KJ8.Q6.7.QJ96543 Q954.A873.Q9.KT7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "N"]
+1H      Pass    2C      Pass
+2D      Pass    3C      Pass
+Pass    Pass
+[Play "W"]
+S4 S2 SA S8
+S5 S6 ST SK
+D9 DK DA D7
+SQ S7 S3 SJ
+DQ D5 D2 C3
+C7 CA C2 C4
+CK C8 D3 CQ
+HA H4 H2 H6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "17"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:762.KJ94.KJT5.A8 AT3.T52.A86432.2 KJ8.Q6.7.QJ96543 Q954.A873.Q9.KT7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "N"]
+1H      3D      4C      Pass
+5C      Pass    Pass    Pass
+[Play "W"]
+DQ DK DA D7
+S9 S2 SA S8
+S4 S6 S3 SK
+CK CA C2 CJ
+D9 DJ D2 SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "18"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J98.Q75.AT874.T2 Q76.K96.K653.J43 AKT5.32.J2.KQ975 432.AJT84.Q9.A86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "E"]
+Pass    Pass    1S      Pass
+1NT     Pass    2C      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+DQ DA D6 D2
+CA C2 C3 CK
+D9 D4 DK DJ
+HA H5 H6 H2
+H4 H7 HK H3
+H8 D7 D3 ST
+C6 CT C4 CQ
+C8 S8 CJ C5
+S2 SJ SQ SA
+S3 S9 S6 S5
+HT HQ H9 C7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "18"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J98.Q75.AT874.T2 Q76.K96.K653.J43 AKT5.32.J2.KQ975 432.AJT84.Q9.A86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    Pass    1C      1H
+Pass    2H      Pass    Pass
+Pass
+[Play "E"]
+CT CJ CQ CA
+C2 C3 CK C6
+S8 C4 C9 C8
+DA D3 DJ DQ
+D4 DK D2 D9
+H5 HK H2 H4
+HQ H9 H3 H8
+H7 H6 C5 HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "19"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A98432.84.843.A4 T5.AQ652.2.K8752 Q6.97.KQJ976.J96 KJ7.KJT3.AT5.QT3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "5"]
+[Score "NS -200"]
+[Auction "S"]
+2S      Pass    3S      Pass
+Pass    Pass
+[Play "W"]
+D2 DK DA D3
+S5 D6 DT D4
+H2 H7 HK H4
+ST D7 D5 D8
+HA H9 H3 H8
+C2 C6 CT CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "19"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A98432.84.843.A4 T5.AQ652.2.K8752 Q6.97.KQJ976.J96 KJ7.KJT3.AT5.QT3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    Pass    1D      1H
+1S      4H      Pass    Pass
+Pass
+[Play "S"]
+SA S5 S6 S7
+C4 C2 CJ CQ
+H4 H2 H7 HK
+H8 H5 H9 HJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "20"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A.K963.KJ732.QT9 84.Q874.T4.A7642 QJ732.JT2.AQ8.KJ KT965.A5.965.853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+1H      Pass    1S      Pass
+2D      Pass    3C      Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+C4 CK C3 C9
+HQ H2 H5 H9
+C2 CJ C5 CT
+H4 HJ HA H3
+CA S2 C8 CQ
+C7 S3 ST D2
+C6 S7 D5 D3
+S8 SJ SK SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "20"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A.K963.KJ732.QT9 84.Q874.T4.A7642 QJ732.JT2.AQ8.KJ KT965.A5.965.853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+1D      Pass    1S      Pass
+1NT     Pass    2C      Pass
+2H      Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+C4 CK C8 C9
+S4 S2 S5 SA
+D4 DQ D5 D2
+S8 SQ SK H3
+DT DA D6 D3
+H8 SJ S6 H6
+CA CJ C3 CT
+H4 H2 HA H9
+H7 S3 ST D7
+C2 S7 S9 DJ
+HQ HT H5 HK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "21"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT96.KJT9.Q52.63 543.Q32.K9643.K7 QJ87.A87.AJ.AQJ9 K2.654.T87.T8542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS 690"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1H      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+D8 D2 D3 DJ
+SK SA S3 SJ
+C2 C3 C7 CJ
+S2 ST S4 S7
+C4 C6 CK CA
+H4 HJ HQ H7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "21"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT96.KJT9.Q52.63 543.Q32.K9643.K7 QJ87.A87.AJ.AQJ9 K2.654.T87.T8542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 680"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1S      Pass    1NT     Pass
+2C      Pass    2S      Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+D4 DJ D7 D2
+S3 SJ SK SA
+C7 CJ C2 C3
+S4 S7 S2 ST
+CK CA C4 C6
+S5 SQ H4 S6
+HQ H7 H5 HJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "22"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A632.AK764.864.7 KQJ8.Q.QJ9.AQJ95 974.J92.KT2.KT82 T5.T853.A753.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "E"]
+1H      X       Pass    2D
+Pass    Pass    Pass
+[Play "E"]
+C7 CQ CK C3
+D4 C5 C8 C4
+S2 S8 S9 ST
+SA SJ S4 S5
+HA HQ H2 H3
+S3 SQ S7 H5
+D6 DQ D2 D3
+D8 D9 DT DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "22"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A632.AK764.864.7 KQJ8.Q.QJ9.AQJ95 974.J92.KT2.KT82 T5.T853.A753.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+2D      2S      Pass    3D
+Pass    Pass    Pass
+[Play "E"]
+HK HQ H2 H3
+C7 CA C2 C3
+SA SK S4 S5
+D4 DQ DK DA
+S2 SQ S7 ST
+S3 SJ S9 C4
+S6 S8 DT C6
+HA D9 H9 HT
+D6 DJ D2 D3
+D8 CQ CK D5
+H4 C5 HJ H5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "23"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T9764.7.842.J632 J53.KQJ96.QJ.K98 AQ2.A832.AK9.T74 K8.T54.T7653.AQ5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "S"]
+Pass    1H      1NT     X
+2S      Pass    Pass    Pass
+[Play "W"]
+HK HA H4 H7
+H6 H2 H5 S4
+DJ DK D3 D2
+H9 H3 HT S6
+DQ DA D5 D4
+HJ H8 D6 S7
+C8 CT CQ C2
+C9 C4 CA C3
+S5 D9 DT D8
+CK C7 C5 C6
+HQ S2 D7 CJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "23"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T9764.7.842.J632 J53.KQJ96.QJ.K98 AQ2.A832.AK9.T74 K8.T54.T7653.AQ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass    1H      1NT     2H
+Pass    Pass    Pass
+[Play "N"]
+DA D3 D2 DJ
+C4 C5 CJ CK
+DK D6 D4 DQ
+C7 CQ C2 C8
+H2 H4 H7 HK
+H3 HT S4 H6
+HA H5 S6 H9
+CT CA C3 C9
+D9 DT D8 S3
+S2 D5 S7 HJ
+H8 D7 C6 HQ
+SQ SK S9 SJ
+SA S8 ST S5
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "24"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T962.43.953.KQJ9 A754.KQT5.84.AT4 KQ83.AJ98.T6.872 J.762.AKQJ72.653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "W"]
+Pass    1C      Pass    1D
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+SQ SJ ST S4
+SK C3 S2 S5
+S8 C5 S9 SA
+HA H2 H3 HK
+S3 H6 S6 S7
+D6 DA D3 D8
+DT DK D5 D4
+C2 DQ D9 C4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "24"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T962.43.953.KQJ9 A754.KQT5.84.AT4 KQ83.AJ98.T6.872 J.762.AKQJ72.653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "6"]
+[Score "NS -200"]
+[Auction "W"]
+Pass    1H      Pass    2D
+Pass    2H      Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+SK SJ S2 SA
+HA H2 H3 HK
+DT DA D3 D4
+HJ H6 H4 HT
+H9 H7 CK HQ
+D6 DK D5 D8
+H8 DQ D9 C4
+SQ D2 S6 S4
+C2 C3 CJ CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "25"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.875.JT754.KQ93 QJ8764.632.3.654 AKT532.KJ9.Q8.82 .AQT4.AK962.AJT7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1SX"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "N"]
+Pass    Pass    1S      X
+Pass    Pass    Pass
+[Play "W"]
+DA D4 D3 D8
+D9 D5 S4 DQ
+HT H5 H6 H9
+DK D7 C4 S2
+CA C3 C5 C2
+D2 DT C6 HK
+D6 DJ SJ HJ
+H4 H7 H2 S3
+C7 S9 SQ S5
+HQ H8 H3 ST
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "25"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9.875.JT754.KQ93 QJ8764.632.3.654 AKT532.KJ9.Q8.82 .AQT4.AK962.AJT7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "5"]
+[Score "NS -500"]
+[Auction "N"]
+Pass    Pass    2S      X
+Pass    Pass    Pass
+[Play "W"]
+DA D4 D3 D8
+D6 D5 S4 DQ
+HT H5 H6 H9
+C7 CK C4 C2
+D2 DJ H3 S2
+CA C3 C5 C8
+HA H7 H2 HJ
+H4 H8 S6 HK
+D9 S9 SJ SK
+CT D7 S7 S5
+CJ C9 C6 S3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "26"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T53.743.A983.T86 K974.AJ92.KQ.K93 AQ.QT85.J654.AJ5 J862.K6.T72.Q742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "E"]
+Pass    1NT     Pass    Pass
+Pass
+[Play "W"]
+H5 H6 H7 H9
+SQ S2 S5 S4
+SA S6 S3 S7
+H8 HK H3 H2
+D4 S8 ST SK
+C5 SJ C6 S9
+CA C2 C8 CK
+CJ CQ CT C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "26"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T53.743.A983.T86 K974.AJ92.KQ.K93 AQ.QT85.J654.AJ5 J862.K6.T72.Q742"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    1NT     Pass    Pass
+Pass
+[Play "W"]
+H5 H6 H7 H9
+C5 CQ C6 C3
+SA S2 S3 SK
+D4 D2 DA DQ
+D5 D7 D3 DK
+SQ S6 S5 S4
+DJ DT D8 S7
+D6 C2 D9 S9
+H8 HK H3 H2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "27"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K8752.K32.Q2.J65 QJT4.Q97.987.T72 A93.J84.AKJ.AKQ9 6.AT65.T6543.843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "S"]
+Pass    Pass    2NT     Pass
+3S      Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+D6 D2 D7 DK
+S6 S2 S4 SA
+C4 S5 ST S9
+D3 DQ D9 DJ
+H6 S7 SJ S3
+D4 H2 D8 DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "27"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K8752.K32.Q2.J65 QJT4.Q97.987.T72 A93.J84.AKJ.AKQ9 6.AT65.T6543.843"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1H      Pass    1NT     Pass
+2S      Pass    2NT     Pass
+3D      Pass    3S      Pass
+4C      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+H7 H4 HA H2
+H9 H8 H5 HK
+S4 SA S6 S2
+ST S3 D3 SK
+D7 DJ D4 DQ
+D8 DK D5 D2
+D9 DA D6 H3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "28"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJT8.K3.652.T542 A753.AQ7.KJ8.KQ8 Q2.T8652.AT73.A3 964.J94.Q94.J976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "W"]
+Pass    1C      Pass    Pass
+X       1NT     Pass    Pass
+Pass
+[Play "E"]
+H6 H9 H3 H7
+DA D4 D2 DK
+HT HJ HK HA
+CA C6 CT CK
+H2 H4 C4 HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "28"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJT8.K3.652.T542 A753.AQ7.KJ8.KQ8 Q2.T8652.AT73.A3 964.J94.Q94.J976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "W"]
+Pass    1C      Pass    1D
+Pass    1NT     Pass    Pass
+Pass
+[Play "E"]
+H5 H4 HK HA
+C3 C6 C2 CK
+CA C7 C4 CQ
+H2 H9 H3 H7
+DA D4 D2 DK
+H6 HJ C5 HQ
+D3 CJ CT C8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "29"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T7.K984.AQJ2.542 Q64.AQT65.T.J973 AKJ8532..K8743.Q 9.J732.965.AKT86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 1370"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+1NT     Pass    3D      Pass
+5D      Pass    6D      Pass
+Pass    Pass
+[Play "W"]
+CA C2 C3 CQ
+CK C4 C7 D3
+D5 D2 DT DK
+D6 DJ H5 D4
+S9 S7 S4 SA
+D9 DQ H6 D7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "29"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T7.K984.AQJ2.542 Q64.AQT65.T.J973 AKJ8532..K8743.Q 9.J732.965.AKT86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+Pass    Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+CA C2 C3 CQ
+CK C4 C7 S2
+S9 S7 S4 SA
+D5 ST S6 SK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "30"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ6.AJT96.87.JT 42.8742.AQT42.52 JT83.Q3.93.KQ983 975.K5.KJ65.A764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+1H      Pass    1S      Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+D5 D7 DA D3
+CA CT C5 C3
+DK D8 D2 D9
+C7 CJ C2 C8
+S5 SA S2 S3
+S7 SK S4 S8
+S9 S6 H4 ST
+C4 H6 H2 CK
+C6 H9 D4 CQ
+D6 HT H7 C9
+H5 HJ H8 H3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "30"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ6.AJT96.87.JT 42.8742.AQT42.52 JT83.Q3.93.KQ983 975.K5.KJ65.A764"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "E"]
+2D      X       3S      4C
+4S      Pass    Pass    5D
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "E"]
+SK S2 S3 S5
+SQ S4 S8 S7
+HA H2 H3 H5
+D8 D2 D9 DJ
+D7 D4 D3 DK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "31"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:8.J92.QJ952.KJ94 K92.7654.K3.QT53 AT64.K3.T864.A72 QJ753.AQT8.A7.86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "S"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    X
+Pass    2C      Pass    2H
+Pass    Pass    Pass
+[Play "S"]
+S8 S2 SA S3
+H2 S9 S4 S5
+C4 C3 CA C6
+H9 SK S6 S7
+CK C5 C2 C8
+CJ CQ C7 D7
+HJ H4 H3 HQ
+D2 H5 HK HA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "31"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:8.J92.QJ952.KJ94 K92.7654.K3.QT53 AT64.K3.T864.A72 QJ753.AQT8.A7.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS -300"]
+[Auction "S"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "W"]
+H7 H3 HQ H2
+H4 HK HA H9
+H5 C2 HT HJ
+D3 DT DA D2
+H6 D4 H8 C4
+S9 S4 SQ S8
+SK SA S3 D5
+DK D6 D7 D9
+S2 ST SJ C9
+C3 S6 S7 CJ
+C5 C7 S5 DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Open"]
+[Board "32"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:2.JT9742.KJ6.KQ2 AT4.8.QT98732.T9 98653.Q53.54.A86 KQJ7.AK6.A.J7543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+2H      Pass    Pass    X
+Pass    4D      Pass    4S
+Pass    Pass    Pass
+[Play "W"]
+HJ H8 H3 HA
+CK C9 C6 C3
+S2 SA S3 S7
+C2 CT CA C4
+H2 S4 S5 SK
+CQ ST C8 C5
+D6 D2 D5 DA
+H4 D3 S6 SQ
+H7 D7 S8 SJ
+H9 D8 S9 CJ
+DK D9 D4 H6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.17"]
+[Room "Closed"]
+[Board "32"]
+[West "Passell"]
+[North "Lauria"]
+[East "Brachman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:2.JT9742.KJ6.KQ2 AT4.8.QT98732.T9 98653.Q53.54.A86 KQJ7.AK6.A.J7543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    Pass    Pass    1S
+2H      3D      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+HJ H8 H3 HA
+D6 D2 D4 DA
+S2 SA S3 SQ
+DJ DT D5 C3
+H2 CT HQ HK
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[HomeTeam "Italy"]
+[VisitTeam "USA"]
+[Room "Open"]
+[Board "33"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ73.JT764.A764. 8652.AQ5.92.QT94 KJT4.93.KJ3.KJ87 9.K82.QT85.A6532"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Scoring "IMP"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass 2NT Pass
+3C Pass 3NT Pass
+4S Pass Pass Pass
+[Play "W"]
+D5 D4 D9 DJ
+HK H4 H5 H3
+S9 S3 S2 SK
+H2 H6 HA H9
+CA S7 CT CJ
+C2 SA S5 S4
+H8 H7 HQ ST
+C3 SQ C4 C7
+C5 HJ S6 C8
+D8 D6 D2 DK
+C6 D7 S8 SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "33"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ73.JT764.A764. 8652.AQ5.92.QT94 KJT4.93.KJ3.KJ87 9.K82.QT85.A6532"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "N"]
+2D Pass 4S Pass
+Pass Pass
+[Play "W"]
+D5 D4 D9 DJ
+HK H4 H5 H3
+S9 S3 S2 SJ
+H2 H6 HA H9
+D8 DA D2 D3
+C2 SA S5 S4
+H8 HJ HQ SK
+C3 SQ S6 ST
+C5 HT C4 C7
+C6 H7 C9 C8
+DT D6 S8 DK
+CA S7 CT CJ
+DQ D7 CQ CK
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "34"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:732.A.A7642.A872 T54.QT863.J3.KJ6 Q8.KJ974.T8.QT93 AKJ96.52.KQ95.54"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1H 1S
+Pass 2S Pass 3D
+Pass 3S Pass Pass
+Pass
+[Play "E"]
+HA H3 H4 H5
+DA D3 D8 D5
+D2 DJ DT D9
+S2 ST S8 S6
+S3 S4 SQ SA
+S7 S5 H7 SK
+D4 H6 H9 DK
+C8 HT HJ H2
+CA C6 C3 C4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "34"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:732.A.A7642.A872 T54.QT863.J3.KJ6 Q8.KJ974.T8.QT93 AKJ96.52.KQ95.54"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1H 1S
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+HA H3 H4 H5
+C2 CK C3 C4
+DA DJ D8 D5
+C7 C6 C9 C5
+C8 CJ CT S6
+S2 S4 S8 SA
+S3 S5 SQ SK
+D2 D3 DT DK
+S7 ST H9 SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "35"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A93.62.Q954.T653 .AKT9874.KT83.74 KT852.J.A762.K98 QJ764.Q53.J.AQJ2"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS -680"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+C9 CJ C3 C4
+DA DJ DQ DK
+S2 S4 SA H4
+D2 H3 D4 D3
+S5 S6 S3 H7
+D6 H5 D5 D8
+HJ HQ H2 H8
+S8 S7 S9 H9
+D7 C2 H6 HA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "35"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A93.62.Q954.T653 .AKT9874.KT83.74 KT852.J.A762.K98 QJ764.Q53.J.AQJ2"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS -1430"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass 1D 1S 2C
+2S 4H 4S 6H
+Pass Pass Pass
+[Play "N"]
+S5 S4 S3 H7
+C8 CJ C3 C4
+DA DJ D4 D3
+C9 CQ C5 C7
+CK CA C6 D8
+HJ HQ H2 H4
+D2 H5 H6 H8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "36"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A64.K9742.T6.J63 KT.3.KJ9432.9542 Q98753.A.AQ8.K87 J2.QJT865.75.AQT"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1S 2H
+2S 3D 4S Pass
+Pass Pass
+[Play "S"]
+D7 D6 D9 DQ
+S2 SA ST S3
+SJ S4 SK S5
+CQ C3 C2 C7
+CA C6 C4 C8
+CT CJ C5 CK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "36"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A64.K9742.T6.J63 KT.3.KJ9432.9542 Q98753.A.AQ8.K87 J2.QJT865.75.AQT"]
+[Declarer "N"]
+[Contract "3DX"]
+[Result "7"]
+[Score "NS -500"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 1S 2H
+Pass Pass X Pass
+Pass 3D X Pass
+Pass Pass
+[Play "E"]
+S3 S2 SA ST
+CK CA C3 C2
+DQ D5 D6 DJ
+HA H5 H2 H3
+C7 CT CJ C4
+C8 H6 HK D9
+D8 D7 DT D2
+S5 SJ S4 SK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "37"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJT.Q83.K732.J62 K93.K65.AT9.K874 Q8.AJ2.Q54.AQT95 76542.T974.J86.3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1C 1NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+HT HQ HK HA
+S2 ST SK S8
+H9 H3 H6 H2
+S7 SA S3 SQ
+C3 CJ CK CA
+S6 C2 C4 CQ
+S4 C6 C7 CT
+S5 D2 C8 C9
+D6 D3 D9 DQ
+H4 H8 S9 C5
+H7 D7 H5 HJ
+D8 DK DA D4
+DJ SJ DT D5
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "37"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJT.Q83.K732.J62 K93.K65.AT9.K874 Q8.AJ2.Q54.AQT95 76542.T974.J86.3"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1D 1NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+D6 D2 D9 DQ
+S2 ST SK S8
+S4 SA S3 SQ
+C3 CJ C4 C5
+S5 C2 C7 CQ
+H4 H3 H5 HJ
+S6 C6 C8 CA
+S7 D3 CK C9
+H7 SJ S9 D4
+H9 H8 H6 HA
+D8 D7 DT CT
+HT HQ HK H2
+DJ DK DA D5
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "38"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT964.A4.AKJ42.5 J.JT963.753.AKQ2 A87.Q72.Q9.J8764 Q532.K85.T86.T93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Scoring "IMP"]
+[Auction "E"]
+1S X Pass 1NT
+2D Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+CA C4 CT C5
+HJ HQ HK HA
+SJ SA S2 S4
+H3 S7 S3 S6
+D3 S8 S5 S9
+C2 H2 SQ SK
+D5 DQ D6 D2
+D7 D9 DT DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "38"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT964.A4.AKJ42.5 J.JT963.753.AKQ2 A87.Q72.Q9.J8764 Q532.K85.T86.T93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Scoring "IMP"]
+[Auction "E"]
+1D 1H 1NT Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+CA C4 C3 C5
+SJ SA S2 S4
+H3 S7 S3 S6
+D3 S8 S5 S9
+C2 C6 SQ SK
+H6 H2 H5 HA
+H9 HQ HK H4
+CQ C7 C9 ST
+D5 DQ D6 D2
+D7 D9 DT DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "39"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT3.Q54.QT.KQJ43 876.K8.J9873.T92 A92.AT76.A4.A875 KJ54.J932.K652.6"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "S"]
+1D Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "E"]
+H2 H4 HK HA
+C6 CK C2 C5
+SJ ST S6 S2
+D2 DT DJ DA
+S4 C3 C9 CA
+S5 CQ CT C7
+H3 CJ D3 C8
+D5 C4 S7 D4
+SK SQ S8 SA
+D6 S3 D7 S9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "39"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT3.Q54.QT.KQJ43 876.K8.J9873.T92 A92.AT76.A4.A875 KJ54.J932.K652.6"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Scoring "IMP"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass 3C Pass
+3H Pass 3NT Pass
+Pass Pass
+[Play "W"]
+D7 D4 DK DT
+D3 DA D2 DQ
+C2 CA C6 C3
+C9 C5 S5 CK
+CT C7 S4 CQ
+S6 C8 D5 CJ
+S7 S2 H2 C4
+S8 SA SJ S3
+H8 HA H3 H4
+D8 S9 SK ST
+D9 H6 D6 H5
+DJ H7 H9 SQ
+HK HT HJ HQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "40"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q32.965.Q32.AQ65 AJ.KQ73.T9865.97 KT97654.J842..83 8.AT.AKJ74.KJT42"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Score "NS 400"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 3S 4NT
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+H2 HT H5 H3
+S4 DA D2 D5
+S5 DK D3 D6
+H4 HA H6 H7
+S6 S8 S2 SA
+H8 C2 H9 HK
+S7 D4 S3 SJ
+C3 D7 DQ D8
+C8 C4 CA C7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "40"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q32.965.Q32.AQ65 AJ.KQ73.T9865.97 KT97654.J842..83 8.AT.AKJ74.KJT42"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass Pass 3S 4NT
+Pass 5D Pass Pass
+Pass
+[Play "E"]
+H2 HA H5 H3
+S4 DA D2 D5
+S5 DK D3 D6
+S6 S8 S2 SA
+C8 CJ CQ C7
+S7 D4 DQ D8
+H4 HT H6 HK
+S9 D7 S3 SJ
+C3 C2 CA C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "41"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A9.J874.KQ654.92 JT72.KQ6.J82.AK8 KQ85.932.973.J43 643.AT5.AT.QT765"]
+[Declarer "N"]
+[Contract "4DX"]
+[Result "6"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1C Pass 3C
+3D Pass Pass 3NT
+Pass Pass 4D Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+CK C3 C5 C2
+HK H2 HT H4
+HQ H3 H5 H7
+H6 H9 HA H8
+CA C4 C6 C9
+C8 CJ CQ D4
+S2 SK S3 S9
+D2 D3 DA D5
+S7 S5 C7 DK
+ST S8 S4 SA
+D8 D7 DT DQ
+DJ D9 S6 D6
+SJ SQ CT HJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "41"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A9.J874.KQ654.92 JT72.KQ6.J82.AK8 KQ85.932.973.J43 643.AT5.AT.QT765"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Scoring "IMP"]
+[Auction "N"]
+Pass 1S Pass 1NT
+X Pass 2C X
+2D Pass Pass 2S
+Pass Pass Pass
+[Play "S"]
+D3 DT DQ D2
+C3 CT C9 C8
+S5 S3 SA S2
+C4 C5 C2 CK
+SQ S4 S9 SJ
+H9 H5 H4 HK
+CJ C6 D4 CA
+D7 DA D5 D8
+S8 CQ H7 DJ
+H3 HT HJ HQ
+H2 HA H8 H6
+SK S6 D6 S7
+D9 C7 DK ST
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "42"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T96.983.KQ2.A762 3.KQJT.T9854.T84 AQJ54.A764.A63.K K872.52.J7.QJ953"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1S Pass
+2S Pass 3H Pass
+4S Pass Pass Pass
+[Play "N"]
+CQ C2 C4 CK
+D7 DQ D4 D3
+S2 ST S3 S4
+SK S9 DT S5
+DJ D2 D5 DA
+S7 S6 D9 SA
+S8 C6 D8 SQ
+H2 DK HT D6
+C3 CA C8 H4
+C5 C7 CT SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "42"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T96.983.KQ2.A762 3.KQJT.T9854.T84 AQJ54.A764.A63.K K872.52.J7.QJ953"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+2NT Pass 3H Pass
+4S Pass Pass Pass
+[Play "S"]
+HK HA H5 H3
+C4 CK C3 C2
+D4 D3 D7 DQ
+C8 H4 C5 CA
+S3 S4 S2 ST
+D5 S5 SK S9
+HT H6 H2 H8
+HJ H7 DJ H9
+DT D6 S7 D2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "43"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T75.62.QJT4.Q763 J9432.J953..T954 6.AQ874.A9763.J2 AKQ8.KT.K852.AK8"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 1S 2D 2H
+3D 3S Pass 4S
+Pass Pass Pass
+[Play "N"]
+HA HT H6 H3
+C2 CA C3 C4
+S6 SA S5 S2
+D3 SK S7 S3
+D6 SQ ST S4
+H4 HK H2 H5
+CJ CK C6 C5
+D7 C8 CQ C9
+D9 D2 D4 S9
+HQ S8 C7 HJ
+DA DK DT SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "43"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T75.62.QJT4.Q763 J9432.J953..T954 6.AQ874.A9763.J2 AKQ8.KT.K852.AK8"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "S"]
+Pass Pass 1H X
+Pass 1S Pass 2H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+HA HT H2 H3
+H4 HK H6 H5
+S6 SA S5 S2
+D3 SK S7 S3
+D6 SQ ST S4
+C2 CA C3 C4
+CJ CK C6 C5
+D7 C8 CQ C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "44"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQ63.A87.4.KT852 K54.KJT96.K92.J7 JT8.Q542.Q85.A94 972.3.AJT763.Q63"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Scoring "IMP"]
+[Auction "W"]
+1C 1H 1NT 2D
+Pass Pass Pass
+[Play "W"]
+C5 C7 CA C3
+S3 SK SJ S2
+CK CJ C4 C6
+SQ S4 S8 S7
+SA S5 ST S9
+C2 H6 C9 CQ
+HA H9 H5 H3
+S6 HT H2 D3
+D4 DK D5 D6
+H7 D2 D8 DT
+C8 D9 DQ DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "44"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQ63.A87.4.KT852 K54.KJT96.K92.J7 JT8.Q542.Q85.A94 972.3.AJT763.Q63"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "5"]
+[Score "NS 200"]
+[Scoring "IMP"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+D7 D4 DK D5
+DA C2 D9 DQ
+DJ H7 D2 D8
+DT C5 HJ H2
+D6 C8 S4 C4
+D3 S3 C7 C9
+H3 HA H6 H4
+C3 CT CJ CA
+S2 S6 SK SJ
+S7 H8 HK H5
+S9 SQ H9 HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "45"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ5.T8.AK876.QT9 KJT96.KQ63.954.J 84.A974.QT32.A82 732.J52.J.K76543"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "E"]
+ST S4 S2 SQ
+D4 DQ DJ D6
+D5 DT C3 D7
+D9 D3 C4 DA
+H3 D2 C5 DK
+S6 H4 H2 D8
+CJ CA C6 C9
+H6 C2 CK CT
+S9 S8 S3 SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "45"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ5.T8.AK876.QT9 KJT96.KQ63.954.J 84.A974.QT32.A82 732.J52.J.K76543"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Scoring "IMP"]
+[Auction "N"]
+1NT 2C 3NT Pass
+Pass Pass
+[Play "E"]
+ST S4 S2 SQ
+D4 DQ DJ D6
+D5 DT C3 D7
+D9 D3 C4 DA
+H3 D2 C5 DK
+S6 H4 H2 D8
+CJ CA C6 C9
+H6 C2 CK CT
+S9 S8 S3 SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "46"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J87.T.A97642.AK5 AT9.K2.KQT5.9762 KQ6543.AQ7.J83.J 2.J986543..QT843"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -450"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1S Pass
+2S Pass 4C Pass
+4D Pass 4H Pass
+5C Pass 5S Pass
+Pass Pass
+[Play "N"]
+H9 HT HK HA
+H8 S7 H2 H7
+S2 S8 S9 SK
+H3 SJ SA S3
+H4 DA DK D3
+C3 CA C2 CJ
+C4 CK C6 D8
+H5 D2 DQ DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "46"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J87.T.A97642.AK5 AT9.K2.KQT5.9762 KQ6543.AQ7.J83.J 2.J986543..QT843"]
+[Declarer "W"]
+[Contract "6SX"]
+[Result "11"]
+[Score "NS 100"]
+[Scoring "IMP"]
+[Auction "E"]
+1D Pass 1H 2H
+Pass 4H 6S Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+H3 HT HK HA
+CQ CA C2 CJ
+S2 S7 SA S3
+H4 DA DK D3
+C3 CK C6 D8
+C4 C5 C7 S4
+H5 D2 H2 HQ
+H8 SJ C9 H7
+H6 S8 S9 SK
+C8 D4 ST SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "47"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:5.AQJ9832.98.A54 KJ83.K4.AKQ42.K7 AQ642.76.7.JT963 T97.T5.JT653.Q82"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Scoring "IMP"]
+[Auction "S"]
+1H X Pass 2D
+3H 3NT 4H Pass
+Pass Pass
+[Play "W"]
+DA D7 D3 D8
+S3 SQ S7 S5
+S8 SA S9 C4
+CK C9 C2 C5
+C7 CJ C8 CA
+D2 H6 D5 D9
+H4 H7 H5 HA
+HK C3 HT HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "47"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:5.AQJ9832.98.A54 KJ83.K4.AKQ42.K7 AQ642.76.7.JT963 T97.T5.JT653.Q82"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Scoring "IMP"]
+[Auction "S"]
+1H X 1S Pass
+2H Pass Pass Pass
+[Play "W"]
+DA D7 D3 D8
+C7 CJ CQ CA
+D2 H6 D5 D9
+H4 H7 H5 HA
+HK C3 HT HQ
+CK C6 C2 C4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "48"]
+[West "Kantar"]
+[North "Belladonna"]
+[East "Eisenberg"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K753.983.K765.86 AT8.AKT.J943.AJ2 96.Q742.AT82.753 QJ42.J65.Q.KQT94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Play "E"]
+H2 HJ H3 HT
+S6 SQ S3 S8
+S9 S2 S5 ST
+C3 S4 S7 SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "48"]
+[West "De Falco"]
+[North "Soloway"]
+[East "Franco"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K753.983.K765.86 AT8.AKT.J943.AJ2 96.Q742.AT82.753 QJ42.J65.Q.KQT94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Scoring "IMP"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Play "E"]
+H2 HJ H3 HT
+S6 SQ S3 S8
+S9 S2 S5 ST
+C3 S4 S7 SA
+*
+
+% PBN 2.0
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[HomeTeam "Italy"]
+[VisitTeam "USA"]
+[Room "Open"]
+[Board "49"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT82.J7.AT2.KQJ4 K93.T42.KJ93.752 Q764.K9865.6.T93 J5.AQ3.Q8754.A86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3DX"]
+[Result "9"]
+[Auction "N"]
+1NT     Pass    2D      X
+Pass    3D      X       Pass
+Pass    Pass
+[Play "S"]
+D6 D4 D2 D9
+H5 D5 DA DK
+H6 HQ HJ H2
+S4 S5 S2 SK
+SQ SJ S8 S3
+CT C6 CJ C2
+H8 HA H7 H4
+H9 D7 DT DJ
+S6 D8 ST S9
+C3 CA C4 C5
+C9 C8 CQ C7
+S7 DQ SA HT
+HK H3 CK D3
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "49"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT82.J7.AT2.KQJ4 K93.T42.KJ93.752 Q764.K9865.6.T93 J5.AQ3.Q8754.A86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "N"]
+1NT     Pass    2D      X
+Pass    3D      Pass    Pass
+Pass
+[Play "S"]
+CT CA C4 C2
+D6 D4 D2 DJ
+H6 D5 DA DK
+C3 C6 CK C5
+C9 C8 CQ C7
+H5 DQ DT D3
+S4 S5 S2 SK
+H8 H3 HJ HT
+S6 SJ SA S3
+S7 D7 S8 S9
+SQ D8 H7 D9
+H9 HQ ST H2
+HK HA CJ H4
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "50"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q65.QT652.864.75 K9732.94.AQT.J82 AJ4.A83.J2.KT643 T8.KJ7.K9753.AQ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    Pass    1C      1D
+2H      2S      3H      Pass
+Pass    4D      Pass    Pass
+Pass
+[Play "E"]
+C7 C2 C4 C9
+S5 S2 SJ S8
+C5 C8 C3 CQ
+D4 DA D2 D3
+D6 DT DJ DK
+S6 S3 SA ST
+H2 H4 HA H7
+D8 CJ C6 CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "50"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q65.QT652.864.75 K9732.94.AQT.J82 AJ4.A83.J2.KT643 T8.KJ7.K9753.AQ9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "E"]
+Pass    Pass    1D      Pass
+1H      1S      2H      2S
+Pass    Pass    Pass
+[Play "W"]
+C3 C9 C7 C2
+SA ST SQ SK
+C4 CQ C5 C8
+SJ S8 S5 S2
+CK CA S6 CJ
+HA H7 H5 H4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "51"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:.J98654.AQ52.AT7 AJ63..T643.KQ653 T842.32.KJ87.942 KQ975.AKQT7.9.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "S"]
+1H      X       Pass    2H
+3D      Pass    Pass    3S
+Pass    4S      Pass    4NT
+Pass    5D      X       5S
+Pass    Pass    Pass
+[Play "S"]
+DA D3 D8 D9
+D2 D4 DK S5
+H4 S3 S2 SK
+C7 CQ C9 C8
+CA C3 C4 CJ
+D5 DT DJ S7
+H5 D6 H3 HA
+H6 C5 H2 HK
+H8 C6 S4 HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "51"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:.J98654.AQ52.AT7 AJ63..T643.KQ653 T842.32.KJ87.942 KQ975.AKQT7.9.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Auction "S"]
+1H      1S      Pass    3H
+Pass    4C      Pass    6S
+Pass    Pass    Pass
+[Play "N"]
+H3 HA H4 D3
+H2 HK H5 D4
+S2 S5 H6 SA
+C2 CJ CA C3
+D8 D9 DA D6
+C4 H7 H8 SJ
+S4 S9 D2 S3
+S8 SK C7 S6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "52"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A85.KJT6.K.QJT96 QT32.A42.QJ62.42 KJ.Q953.98754.K7 9764.87.AT3.A853"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "W"]
+1C      Pass    1H      Pass
+2H      Pass    Pass    Pass
+[Play "S"]
+H7 H6 HA H3
+S4 S5 S2 SJ
+H8 HK H2 H5
+S6 S8 S3 SK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "52"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A85.KJT6.K.QJT96 QT32.A42.QJ62.42 KJ.Q953.98754.K7 9764.87.AT3.A853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+1H      Pass    3H      Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+S2 SJ S4 S5
+H2 H3 H7 HJ
+C4 CK CA C6
+D2 D4 D3 DK
+HA H5 H8 HK
+H4 H9 C3 H6
+S3 SK S6 S8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "53"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9543.KT542.K5.2 K762.A.42.AKJ743 .J9873.A96.QT865 AJT8.Q6.QJT873.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    1C      Pass    1D
+X       1S      2H      4S
+Pass    Pass    Pass
+[Play "S"]
+H3 HQ HK HA
+D6 DQ DK D2
+H7 H6 H2 S2
+DA D3 D5 D4
+HJ D7 H4 S6
+C5 C9 C2 CA
+C6 D8 S3 CK
+D9 S8 S4 S7
+H8 DT S5 SK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "53"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q9543.KT542.K5.2 K762.A.42.AKJ743 .J9873.A96.QT865 AJT8.Q6.QJT873.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "8"]
+[Score "NS 150"]
+[Auction "N"]
+Pass    2C      Pass    2NT
+Pass    3C      Pass    3D
+Pass    3H      Pass    3NT
+Pass    4D      Pass    5D
+Pass    Pass    Pass
+[Play "N"]
+S4 S2 D6 S8
+HT HA H3 H6
+C2 CA C5 C9
+D5 CK C6 HQ
+S3 S6 D9 ST
+DK C3 C8 D3
+S5 S7 DA SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "54"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J952.Q73.AT87.K3 K6.KJ92.4.JT9762 AT43.T865.93.AQ4 Q87.A4.KQJ652.85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+Pass    1H      Pass    2D
+Pass    3C      Pass    3D
+Pass    Pass    Pass
+[Play "E"]
+H3 H9 HT HA
+S2 SK SA S7
+DA D4 D3 DK
+CK C2 C4 C5
+H7 HK H5 H4
+S5 S6 S3 SQ
+D7 C6 D9 DQ
+D8 C7 H8 DJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "54"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J952.Q73.AT87.K3 K6.KJ92.4.JT9762 AT43.T865.93.AQ4 Q87.A4.KQJ652.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Score "NS 110"]
+[Auction "E"]
+Pass    Pass    Pass    3C
+Pass    3D      Pass    Pass
+Pass
+[Play "W"]
+H6 HA H3 H2
+SA S7 S2 SK
+H5 H4 HQ HK
+S3 SQ S5 S6
+S4 S8 S9 D4
+H8 C5 H7 HJ
+HT D2 D7 H9
+D3 DK DT C2
+D9 DQ DA C6
+CQ C8 C3 C7
+C4 D5 CK C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "55"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:985.KQ85.K832.92 KQT.A43.AT74.KT6 A764.T6.Q.AQ8754 J32.J972.J965.J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1NT     Pass    Pass
+Pass
+[Play "N"]
+C4 C3 C9 CT
+SA S2 S5 SK
+DQ D5 D2 DA
+H6 DJ DK D4
+CQ CJ C2 C6
+CA H2 S8 CK
+C8 H7 D3 H3
+C7 S3 S9 H4
+C5 D6 D8 D7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "55"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:985.KQ85.K832.92 KQT.A43.AT74.KT6 A764.T6.Q.AQ8754 J32.J972.J965.J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1NT     Pass    2C
+Pass    2D      Pass    Pass
+Pass
+[Play "N"]
+DQ D5 D2 DA
+C8 D9 D3 D4
+CQ C3 C9 CT
+CA CJ C2 C6
+C4 H2 D8 CK
+S7 D6 DK D7
+SA S2 S9 SK
+S4 S3 S8 ST
+S6 SJ S5 SQ
+H6 H9 HQ H3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "56"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.AQ5432.A.T9 KQ8.J7.975.AKJ54 T97.K986.KJ3.Q86 A43.T.QT8642.732"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "W"]
+1H      X       XX      3D
+3H      Pass    4H      4S
+X       5D      X       Pass
+Pass    Pass
+[Play "W"]
+HA H7 H6 HT
+H3 HJ HK D2
+S2 SK S7 S3
+DA D5 D3 DT
+S6 SQ S9 S4
+H5 D7 DJ DQ
+C9 CJ CQ C2
+S5 D9 DK D4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "56"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J652.AQ5432.A.T9 KQ8.J7.975.AKJ54 T97.K986.KJ3.Q86 A43.T.QT8642.732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "W"]
+1H      2C      2H      3C
+3H      Pass    Pass    Pass
+[Play "N"]
+CK C6 C2 CT
+D5 D3 DT DA
+H7 H6 HT HA
+HJ HK D2 H2
+D7 DK D4 C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "57"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:65.85.Q52.AQJT98 QJ.T943.KT987.43 AT87432.A2.J.765 K9.KQJ76.A643.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "N"]
+Pass    Pass    1S      X
+3C      Pass    4C      Pass
+Pass    Pass
+[Play "E"]
+HT H2 HJ H5
+H3 HA H6 H8
+SJ SA S9 S5
+SQ S2 SK S6
+DK DJ D3 D2
+DT C5 D4 D5
+D7 ST H7 C8
+D8 C6 D6 DQ
+C3 C7 C2 C9
+C4 S3 CK CA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "57"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:65.85.Q52.AQJT98 QJ.T943.KT987.43 AT87432.A2.J.765 K9.KQJ76.A643.K2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "N"]
+3C      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "W"]
+HK H5 H3 HA
+SK S5 SJ ST
+HQ H8 H4 H2
+DA D2 D7 DJ
+D3 DQ DK S2
+S9 S6 SQ SA
+C2 C8 C3 C5
+D4 D5 D8 S3
+CK CA C4 C6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "58"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q873.J6543.T4.94 AK64.AKQ.8.KT753 J9..AKJ9765.AQJ2 T52.T9872.Q32.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "9"]
+[Score "NS 500"]
+[Auction "E"]
+Pass    1C      5D      X
+Pass    Pass    Pass
+[Play "N"]
+HT H3 HQ D5
+C6 C4 CK CJ
+D2 D4 D8 DA
+C8 C9 C3 CA
+DQ S3 C5 C2
+D3 DT S6 D6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "58"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q873.J6543.T4.94 AK64.AKQ.8.KT753 J9..AKJ9765.AQJ2 T52.T9872.Q32.86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1C"]
+[Result "5"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    1C      Pass    Pass
+Pass
+[Play "W"]
+DA D2 DT D8
+DK D3 D4 C3
+C2 H2 H3 HA
+D5 DQ C9 CT
+S9 S2 S7 SA
+SJ S5 S3 SK
+D6 ST SQ S4
+CJ C6 C4 C5
+CA C8 H4 C7
+DJ H7 H5 CK
+CQ H8 H6 HK
+D7 H9 HJ HQ
+D9 HT S8 S6
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "59"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A965.Q974..QJ853 T73.AJ6.AKT5.K42 J4.K53.QJ9764.A9 KQ82.T82.832.T76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "S"]
+Pass    1NT     Pass    Pass
+2C      Pass    2H      Pass
+Pass    Pass
+[Play "E"]
+H2 H4 HJ HK
+D2 H7 D5 D4
+C6 CQ C2 C9
+C7 C3 C4 CA
+D3 H9 DT D6
+CT C5 CK H3
+D8 HQ DK D7
+S2 SA S3 S4
+S8 C8 H6 H5
+SQ S5 S7 SJ
+SK S6 ST D9
+H8 S9 HA DJ
+HT CJ DA DQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "59"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A965.Q974..QJ853 T73.AJ6.AKT5.K42 J4.K53.QJ9764.A9 KQ82.T82.832.T76"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "S"]
+Pass    1NT     Pass    Pass
+2D      Pass    2H      Pass
+Pass    Pass
+[Play "E"]
+H2 H4 HJ HK
+D2 H7 D5 D4
+C6 CQ C2 C9
+C7 C3 C4 CA
+D3 H9 DT D6
+CT C5 CK H3
+D8 HQ DK D7
+S2 CJ H6 S4
+H8 C8 HA H5
+SQ SA S3 SJ
+S8 S5 S7 D9
+SK S6 ST DJ
+HT S9 DA DQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "60"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT952.T82.A54.QJ 4.943.Q863.AKT73 Q86.A7.J972.8542 KJ73.KQJ65.KT.96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    Pass    Pass    1H
+1S      2C      2S      3H
+Pass    4H      Pass    Pass
+Pass
+[Play "W"]
+CQ CK C5 C6
+SA S4 S6 SJ
+CJ CA C2 C9
+DA D3 D2 DK
+D5 DQ D7 DT
+D4 D6 D9 H5
+S2 C3 S8 SK
+S5 H3 SQ S3
+S9 D8 DJ HK
+ST H9 HA S7
+H2 H4 H7 HQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "60"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT952.T82.A54.QJ 4.943.Q863.AKT73 Q86.A7.J972.8542 KJ73.KQJ65.KT.96"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "4"]
+[Auction "W"]
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "S"]
+HK H2 H3 HA
+S3 ST S4 S6
+SK S2 D3 SQ
+HQ H8 H4 H7
+HJ HT H9 D2
+H6 S5 D6 D7
+H5 D4 D8 D9
+C6 CJ CA C2
+C9 CQ CK C4
+DT D5 CT C5
+DK DA DQ DJ
+S7 SA C3 S8
+SJ S9 C7 C8
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "61"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A762.652.K954.A6 K54.KJ.872.K9873 JT3.AQ83.QJT6.T5 Q98.T974.A3.QJ42"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Auction "N"]
+Pass    Pass    Pass    Pass
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "61"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A762.652.K954.A6 K54.KJ.872.K9873 JT3.AQ83.QJT6.T5 Q98.T974.A3.QJ42"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Auction "N"]
+Pass    Pass    Pass    Pass
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "62"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK8743.K4.872.94 962.Q852.K3.A752 QJT5.AT.A654.QJ8 .J9763.QJT9.KT63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+H2 HA H6 H4
+S2 SQ H9 S3
+S6 SJ C3 S4
+S9 S5 H3 SA
+C2 CQ CK C4
+DK D4 DQ D2
+D3 DA D9 D7
+H5 HT H7 HK
+CA C8 C6 C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "62"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AK8743.K4.872.94 962.Q852.K3.A752 QJT5.AT.A654.QJ8 .J9763.QJT9.KT63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+S2 SQ H3 S3
+S6 S5 H6 SA
+C2 CJ CK C4
+D3 D4 DQ D2
+DK DA DJ D7
+S9 ST C3 SK
+CA C8 C6 C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "63"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K52.T75.KQJ987.6 J94.QJ9832.T5.95 AT6.AK.432.JT732 Q873.64.A6.AKQ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    Pass    1D      1NT
+X       3H      Pass    Pass
+Pass
+[Play "N"]
+HA H4 H5 H2
+HK H6 H7 H3
+D2 DA D9 D5
+C2 CA C6 C5
+C3 CK HT C9
+D3 D6 DK DT
+SA S3 S2 S4
+ST SQ SK S9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "63"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K52.T75.KQJ987.6 J94.QJ9832.T5.95 AT6.AK.432.JT732 Q873.64.A6.AKQ84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1D      1H      Pass    2D
+X       2H      3D      Pass
+Pass    3H      Pass    Pass
+4D      Pass    Pass    Pass
+[Play "W"]
+C9 CT CQ C6
+C5 C2 CA D7
+D5 D2 DA DK
+DT C3 C4 S2
+H8 HA H4 H5
+H2 D3 D6 DQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Open"]
+[Board "64"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J86.542.Q82.KJT9 KQT9754.QJ96.9.Q A32.KT83.AT.A876 .A7.KJ76543.5432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 590"]
+[Auction "W"]
+Pass    4S      X       Pass
+Pass    Pass
+[Play "E"]
+S2 C2 SJ SK
+DA D3 D2 D9
+H3 H7 H2 H6
+DT DK D8 CQ
+C6 C3 C9 S4
+SA C4 S6 SQ
+H8 HA H4 H9
+C7 C5 CT S5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.18"]
+[Room "Closed"]
+[Board "64"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J86.542.Q82.KJT9 KQT9754.QJ96.9.Q A32.KT83.AT.A876 .A7.KJ76543.5432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    4S      X       Pass
+Pass    Pass
+[Play "E"]
+S2 C2 SJ SK
+DA D3 D2 D9
+CA C3 C9 CQ
+C8 C4 CT S4
+SA C5 S6 SQ
+HT H7 H2 HQ
+S3 D4 S8 ST
+*
+
+% PBN 2.0
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "65"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q64.J8762.Q.KT43 J82.T.AT9872.A52 AKT9.Q43.J43.J76 753.AK95.K65.Q98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    Pass    1S      X
+2S      3D      Pass    Pass
+Pass
+[Play "S"]
+SA S3 S6 S2
+SK S5 S4 S8
+ST S7 SQ SJ
+HQ HA H2 HT
+H3 HK H6 C2
+H4 H5 H7 D2
+D3 D5 DQ DA
+D4 DK C4 D7
+C6 H9 HJ D8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "65"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q64.J8762.Q.KT43 J82.T.AT9872.A52 AKT9.Q43.J43.J76 753.AK95.K65.Q98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    Pass    1S      X
+2S      4D      Pass    Pass
+Pass
+[Play "S"]
+SA S3 S4 S2
+SK S5 S6 S8
+ST S7 SQ SJ
+D3 D5 DQ DA
+D4 D6 C4 D7
+DJ DK H2 D2
+C6 C8 C3 CA
+C7 H5 H7 DT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "66"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:76.J84.AJ7653.Q7 J5.AK5.Q84.JT532 KT832.Q9632.K2.8 AQ94.T7.T9.AK964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "11"]
+[Score "NS 150"]
+[Auction "E"]
+Pass    Pass    1S      2C
+2D      3D      X       Pass
+Pass    4C      Pass    Pass
+Pass
+[Play "E"]
+S7 S5 SK SA
+C7 C2 C8 CA
+CQ C3 H2 CK
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "66"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:76.J84.AJ7653.Q7 J5.AK5.Q84.JT532 KT832.Q9632.K2.8 AQ94.T7.T9.AK964"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "4"]
+[Score "NS 150"]
+[Auction "E"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "S"]
+CJ C8 CK C7
+C2 H2 CA CQ
+C3 H3 C9 S6
+CT H6 C6 S7
+C5 S2 C4 D3
+HK H9 H7 H4
+SJ SK SA D5
+S5 S3 SQ D6
+HA HQ HT H8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "67"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQJ82.AT3.Q976.K KT9.74.JT854.T75 653.J9852.AK3.J6 74.KQ6.2.AQ98432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "S"]
+1S      Pass    2S      3C
+3D      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+C5 C6 CA CK
+C7 CJ CQ S2
+D4 DA D2 D6
+SK S3 S4 SJ
+DT D3 S7 D7
+H4 H2 HK HA
+S9 S5 C2 SA
+ST S6 C3 SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "67"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQJ82.AT3.Q976.K KT9.74.JT854.T75 653.J9852.AK3.J6 74.KQ6.2.AQ98432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS -110"]
+[Auction "S"]
+1S      Pass    1NT     3C
+Pass    Pass    Pass
+[Play "S"]
+D6 D4 DK D2
+HA H4 H5 HK
+SA S9 S3 S4
+SQ SK S5 S7
+CK C5 C6 CQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "68"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.97.983.Q8742 JT84.AKQ64.Q5.K5 K73.JT8.K764.AJ3 A65.532.AJT2.T96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass    2D      Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "W"]
+H7 HA H8 H2
+H9 HK HT H3
+C2 HQ HJ H5
+D3 DQ D4 D2
+D8 D5 D6 DT
+D9 C5 D7 DA
+S2 SJ SK S5
+C4 CK CA C6
+CQ H4 C3 C9
+SQ ST S3 S6
+S9 S4 S7 SA
+C7 H6 CJ CT
+C8 S8 DK DJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "68"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.97.983.Q8742 JT84.AKQ64.Q5.K5 K73.JT8.K764.AJ3 A65.532.AJT2.T96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1H      Pass    1NT
+Pass    2H      Pass    2S
+Pass    3C      Pass    3D
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+C4 CK CA C6
+C8 C5 CJ C9
+CQ S4 C3 CT
+C7 S8 D4 H2
+C2 ST S3 S5
+SQ SJ S7 SA
+H7 HA H8 H3
+H9 HK HT H5
+D3 HQ HJ S6
+D8 H6 D6 D2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "69"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT4.JT74.T5.AJ3 82.95.QJ82.T7642 QJ763.AK8.A43.85 95.Q632.K976.KQ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1S      Pass    2NT     Pass
+3NT     Pass    4H      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+DQ DA D6 D5
+S2 S3 S5 SA
+S8 S6 S9 SK
+H5 H8 HQ HJ
+D2 D3 DK DT
+C2 C5 CK CA
+H9 HA H2 H4
+C4 HK H3 H7
+D8 D4 D7 S4
+C6 C8 H6 HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "69"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKT4.JT74.T5.AJ3 82.95.QJ82.T7642 QJ763.AK8.A43.85 95.Q632.K976.KQ9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS -100"]
+[Auction "N"]
+1H      Pass    1S      Pass
+2S      Pass    2NT     Pass
+3H      Pass    4D      Pass
+4S      Pass    5H      Pass
+6S      Pass    Pass    Pass
+[Play "W"]
+CK CA C2 C5
+S5 SA S2 S3
+H2 H4 H9 HA
+S9 SK S8 S6
+HQ HJ H5 H8
+CQ C3 C4 C8
+H6 H7 C6 HK
+D6 D5 D2 DA
+H3 ST D8 S7
+D7 HT C7 D3
+C9 CJ CT D4
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "70"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT8.97432.JT72.6 AKJ53.KQ5.A4.Q82 92.JT8.KQ853.KT7 764.A6.96.AJ9543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 980"]
+[Auction "E"]
+Pass    1S      Pass    2C
+Pass    2NT     Pass    3S
+Pass    4D      Pass    4S
+Pass    4NT     Pass    5H
+Pass    6S      Pass    Pass
+Pass
+[Play "W"]
+DQ D6 D2 DA
+S2 S4 S8 SA
+H8 HA H2 H5
+HT H6 H3 HQ
+HJ D9 H4 HK
+D3 S6 D7 D4
+S9 S7 ST SJ
+D5 C3 SQ SK
+C7 CJ C6 C2
+CT CA H7 C8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "70"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QT8.97432.JT72.6 AKJ53.KQ5.A4.Q82 92.JT8.KQ853.KT7 764.A6.96.AJ9543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 920"]
+[Auction "E"]
+Pass    1C      1D      1NT
+Pass    2S      Pass    3C
+Pass    3D      Pass    4C
+Pass    4D      Pass    4H
+Pass    6C      Pass    Pass
+Pass
+[Play "W"]
+DK D6 D2 DA
+C7 CA C6 C2
+H8 HA H2 H5
+HT H6 H3 HQ
+HJ D9 H4 HK
+D3 C3 D7 D4
+CK C4 H9 CQ
+CT CJ H7 C8
+S2 S4 S8 SJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "71"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT75.J8653.8.J96 Q63.Q.KQ964.5432 A82.AT7.JT75.AQ7 K94.K942.A32.KT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS -200"]
+[Auction "S"]
+Pass    Pass    1NT     Pass
+2D      X       2H      Pass
+Pass    Pass
+[Play "E"]
+DA D8 D9 D5
+D2 H3 D4 D7
+H2 H5 HQ HA
+D3 H6 D6 DJ
+C8 C6 C2 CA
+CT H8 DQ DT
+CK C9 C3 C7
+HK HJ S3 H7
+SK S5 S6 S2
+S4 S7 SQ S8
+S9 ST DK HT
+H4 SJ C4 SA
+H9 CJ C5 CQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "71"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT75.J8653.8.J96 Q63.Q.KQ964.5432 A82.AT7.JT75.AQ7 K94.K942.A32.KT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "S"]
+Pass    Pass    1NT     Pass
+2D      Pass    2H      Pass
+Pass    Pass
+[Play "E"]
+D2 D8 DQ D5
+CK C6 C5 C7
+D3 H3 D4 D7
+C8 C9 C2 CQ
+CT CJ C3 CA
+DA H5 D6 DJ
+S4 S5 S3 SA
+S9 H6 D9 DT
+SK SJ S6 S2
+H2 H8 HQ HA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "72"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:94.7654.QJ8.K653 AK.982.K432.AJ42 QJ8653.K3.976.Q7 T72.AQJT.AT5.T98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Auction "W"]
+Pass    1C      1S      X
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+S3 S2 S9 SK
+H3 HT H4 H2
+CQ CT C3 C2
+D6 D5 DJ DK
+HK HA H5 H9
+C7 C9 C5 C4
+S5 C8 C6 CJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "72"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:94.7654.QJ8.K653 AK.982.K432.AJ42 QJ8653.K3.976.Q7 T72.AQJT.AT5.T98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "W"]
+Pass    1NT     Pass    2C
+Pass    2D      Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+S5 S2 S9 SK
+D6 DA D8 D2
+C7 CT CK CA
+CQ C8 C3 C2
+S3 S7 S4 SA
+H3 HT H4 H2
+S6 C9 C5 CJ
+HK HA H5 H9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "73"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK87.Q.JT962.KJT 43.K63.75.Q85432 96.975.KQ843.A97 QJT52.AJT842.A.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "11"]
+[Score "NS 550"]
+[Auction "N"]
+1D      Pass    3D      4D
+5D      X       Pass    Pass
+Pass
+[Play "E"]
+S4 S6 ST SA
+D5 DK DA D2
+S3 S9 SQ SK
+D7 D3 H8 DJ
+H3 H5 HA HQ
+H6 H7 H2 D6
+C2 D4 S2 S7
+HK H9 H4 D9
+C3 D8 S5 S8
+C4 C7 C6 CK
+C5 C9 HT CJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "73"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK87.Q.JT962.KJT 43.K63.75.Q85432 96.975.KQ843.A97 QJT52.AJT842.A.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS 150"]
+[Auction "N"]
+1S      Pass    1NT     2H
+Pass    Pass    X       Pass
+3D      Pass    Pass    Pass
+[Play "E"]
+H3 H5 HA HQ
+H6 H7 HJ D2
+S4 S6 S2 SA
+S3 S9 S5 SK
+D5 DK DA D6
+CQ CA C6 CT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "74"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:JT2.Q43.JT9.AKQT AQ74.K7.K6432.J9 K953.AJ82.85.853 86.T965.AQ7.7642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[Auction "E"]
+1D      1S      Pass    Pass
+Pass
+[Play "W"]
+D8 DA D9 D2
+HA H5 H3 HK
+D5 D7 DT DK
+H2 HT HQ H7
+S9 S6 S2 S4
+HJ H6 H4 S7
+S3 DQ DJ D3
+S5 S8 ST SQ
+SK C2 SJ SA
+C3 C4 CT D6
+H8 C6 CQ D4
+C5 C7 CK C9
+C8 H9 CA CJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "74"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:JT2.Q43.JT9.AKQT AQ74.K7.K6432.J9 K953.AJ82.85.853 86.T965.AQ7.7642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Auction "E"]
+1C      1S      X       Pass
+1NT     Pass    Pass    Pass
+[Play "S"]
+D2 D5 DQ D9
+C9 C3 C7 CK
+SA S3 S6 SJ
+D3 D8 DA DT
+DK C5 D7 DJ
+D6 H2 H5 H3
+D4 H8 C2 H4
+H7 HA H6 HQ
+CJ C8 C4 CT
+HK HJ H9 CQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "75"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.J9876.52.AQT3 .T54.AT63.KJ8762 AKT8753.A32.K9.9 J642.KQ.QJ874.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "S"]
+Pass    Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+HK H6 H4 HA
+S2 SQ C7 S3
+S4 S9 C2 SA
+S6 C3 C6 SK
+HQ H7 HT H3
+D4 D2 DA D9
+SJ H8 H5 H2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "75"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.J9876.52.AQT3 .T54.AT63.KJ8762 AKT8753.A32.K9.9 J642.KQ.QJ874.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "S"]
+Pass    Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+HK H6 H4 HA
+S2 SQ C7 S3
+S4 S9 C2 SA
+S6 C3 C6 SK
+HQ H7 H5 H3
+C5 CA C8 C9
+C4 CT CJ S5
+SJ D2 HT S7
+D4 D5 DA D9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "76"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:32.A9873.632.Q75 K974.QJ.754.T986 QJ5.KT42.KQT9.A3 AT86.65.AJ8.KJ42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+2D      Pass    2H      Pass
+Pass    Pass
+[Play "S"]
+C2 CQ C6 C3
+S6 S3 SK S5
+DA D2 D7 DQ
+C4 C5 C8 CA
+H5 H3 HJ HK
+H6 HA HQ H2
+SA S2 S4 SJ
+CK C7 C9 H4
+S8 D3 S7 SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "76"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:32.A9873.632.Q75 K974.QJ.754.T986 QJ5.KT42.KQT9.A3 AT86.65.AJ8.KJ42"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+2D      Pass    2H      Pass
+Pass    Pass
+[Play "S"]
+H5 H3 HQ HK
+H6 HA HJ H2
+SA S2 S4 SQ
+S6 S3 SK S5
+DA D2 D7 DK
+D8 D3 D4 D9
+DJ D6 D5 DQ
+C2 C5 C6 DT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "77"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K962.KT8.A42.865 AT73.Q7.JT7.KJ74 QJ4.9543.85.AQ93 85.AJ62.KQ963.T2"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Auction "N"]
+Pass    Pass    Pass    Pass
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "77"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K962.KT8.A42.865 AT73.Q7.JT7.KJ74 QJ4.9543.85.AQ93 85.AJ62.KQ963.T2"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Auction "N"]
+Pass    Pass    Pass    Pass
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "78"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ9.KT.JT954.KJ T64.QJ7.8732.AQT 8532.85.KQ.76543 J7.A96432.A6.982"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "E"]
+1C      Pass    1D      2H
+Pass    3H      Pass    Pass
+Pass
+[Play "E"]
+SA S4 S2 S7
+SK S6 S3 SJ
+SQ ST S5 H2
+CJ CQ C6 C2
+HK HQ H5 H3
+CK CA C3 C8
+HT H7 H8 HA
+D4 D2 DQ DA
+D5 D7 DK D6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "78"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ9.KT.JT954.KJ T64.QJ7.8732.AQT 8532.85.KQ.76543 J7.A96432.A6.982"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "E"]
+1D      Pass    1S      2H
+4S      Pass    Pass    Pass
+[Play "N"]
+C2 CJ CQ C3
+C8 CK CA C4
+HA HT HJ H5
+DA D4 D2 DQ
+H2 HK H7 H8
+S7 SA S4 S2
+SJ SK S6 S3
+H3 SQ ST S5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "79"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:62.K2.Q953.AKT32 A54.AJT9853.A8.7 QJ.Q6.K64.QJ9854 KT9873.74.JT72.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "S"]
+1C      X       2NT     3S
+Pass    4H      Pass    4S
+Pass    Pass    Pass
+[Play "S"]
+CK C7 C4 C6
+D3 D8 DK D2
+C2 S4 CJ H4
+H2 HA H6 H7
+HK H3 HQ S7
+S2 S5 SJ SK
+S6 SA SQ S3
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "79"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:62.K2.Q953.AKT32 A54.AJT9853.A8.7 QJ.Q6.K64.QJ9854 KT9873.74.JT72.6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS -590"]
+[Auction "S"]
+1D      X       XX      4S
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "S"]
+CA C7 C5 C6
+D3 D8 DK D2
+D5 DA D4 D7
+S2 SA SQ S3
+S6 S5 SJ SK
+H2 HA H6 H4
+HK HJ HQ H7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Open"]
+[Board "80"]
+[West "Pittala"]
+[North "Eisenberg"]
+[East "Belladonna"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJ6.42.AQ98.T974 K7432.Q87.4.Q652 T9.KJT.KJ72.AKJ8 A85.A9653.T653.3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+H5 H2 HQ HK
+C3 C4 C2 CA
+D3 DA D4 D2
+S5 CT C5 C8
+D5 C9 C6 CJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.19.19"]
+[Room "Closed"]
+[Board "80"]
+[West "Goldman"]
+[North "Lauria"]
+[East "Soloway"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJ6.42.AQ98.T974 K7432.Q87.4.Q652 T9.KJT.KJ72.AKJ8 A85.A9653.T653.3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+H5 H2 HQ HK
+C3 C4 C2 CA
+D3 DA D4 D2
+S5 CT C5 C8
+D5 C9 C6 CJ
+*
+
+% PBN 2.0
+%
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[HomeTeam "USA"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "81"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:842.J953.8743.72 6.AT72.KQT96.654 T975.Q6.A52.AKJT AKQJ3.K84.J.Q983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    Pass    1C      X
+Pass    2C      Pass    3S
+Pass    4D      Pass    4S
+Pass    Pass    Pass
+[Play "N"]
+C7 C4 CK C3
+C2 C5 CA C8
+S2 C6 CJ CQ
+H3 H2 HQ HK
+S4 S6 S5 SA
+S8 D6 S7 SK
+D3 D9 S9 SQ
+D4 H7 ST SJ
+D7 DT DA DJ
+D8 HT CT C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "81"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:842.J953.8743.72 6.AT72.KQT96.654 T975.Q6.A52.AKJT AKQJ3.K84.J.Q983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "N"]
+Pass    Pass    1S      1NT
+Pass    2S      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+C7 C4 CK C3
+C2 C5 CA C8
+S2 C6 CJ CQ
+D3 DQ D2 DJ
+D4 DK D5 C9
+S4 S6 S5 SA
+S8 H2 S7 SK
+H3 D6 S9 SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "82"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK73.AQJ9752.9.A T965.K8.J8.JT975 2.T63.QT763.K843 QJ84.4.AK542.Q62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS -480"]
+[Auction "E"]
+1C      Pass    1D      Pass
+2H      Pass    3H      Pass
+5H      Pass    Pass    Pass
+[Play "S"]
+CJ C3 C2 CA
+S6 S2 S8 SA
+H8 H3 H4 HA
+S5 H6 S4 S3
+C5 CK C6 D9
+C9 C4 CQ H2
+S9 HT SJ S7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "82"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK73.AQJ9752.9.A T965.K8.J8.JT975 2.T63.QT763.K843 QJ84.4.AK542.Q62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS 50"]
+[Auction "E"]
+2C      Pass    2D      X
+2H      Pass    3S      Pass
+4NT     Pass    5C      Pass
+6H      Pass    Pass    Pass
+[Play "S"]
+DJ DQ DA D9
+D8 D3 DK H9
+C5 C3 C2 CA
+S5 S2 S4 SA
+S6 H3 S8 S3
+HK HT H4 H2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "83"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ74.T92.KQ9.KJ9 JT9653.K.75.AT87 82.8753.J86.6543 A.AQJ64.AT432.Q2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "S"]
+1C      1S      Pass    2C
+Pass    2S      Pass    3H
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+C6 C2 CJ CA
+C3 CQ CK C7
+S2 SA S4 S3
+H3 H4 H2 HK
+C4 D2 C9 CT
+C5 D3 S7 C8
+D6 DA D9 D5
+H5 HA H9 D7
+H7 HQ HT S5
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "83"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ74.T92.KQ9.KJ9 JT9653.K.75.AT87 82.8753.J86.6543 A.AQJ64.AT432.Q2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS -200"]
+[Auction "S"]
+1NT     Pass    Pass    2H
+Pass    Pass    Pass
+[Play "S"]
+DK D5 D8 D3
+H2 HK H3 H4
+D9 D7 D6 DA
+H9 S3 H5 HA
+HT S5 H7 HQ
+S4 C7 H8 HJ
+DQ S6 DJ D2
+SK S9 S2 SA
+S7 C8 C3 H6
+C9 ST C4 DT
+CJ SJ C5 D4
+CK CA C6 CQ
+SQ CT S8 C2
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "84"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:973.A82.A53.AT64 AKQJT652.Q5.Q2.9 8.KJ97.876.J8752 4.T643.KJT94.KQ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+1D      4S      Pass    Pass
+Pass
+[Play "E"]
+C2 CQ CA C9
+H9 H3 HA H5
+HK H4 H8 HQ
+HJ H6 H2 S2
+S8 S4 S3 SA
+D8 DJ DA D2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "84"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:973.A82.A53.AT64 AKQJT652.Q5.Q2.9 8.KJ97.876.J8752 4.T643.KJT94.KQ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+1C      4S      Pass    Pass
+Pass
+[Play "E"]
+C2 CQ CA C9
+H9 H3 HA H5
+HK H4 H8 HQ
+HJ H6 H2 S2
+S8 S4 S3 SA
+D8 DJ DA D2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "85"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK7.T.KQ762.T963 T432.AJ42.T9.K84 J65.853.J43.AQ72 Q98.KQ976.A85.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "N"]
+1D      Pass    1NT     2H
+Pass    3H      Pass    Pass
+Pass
+[Play "N"]
+SK S2 S5 S9
+DK D9 D3 D5
+CT C4 CQ C5
+SA S3 S6 S8
+C3 C8 CA CJ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "85"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK7.T.KQ762.T963 T432.AJ42.T9.K84 J65.853.J43.AQ72 Q98.KQ976.A85.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "N"]
+1D      Pass    1H      2H
+Pass    3H      Pass    Pass
+Pass
+[Play "N"]
+DK D9 D3 DA
+HT H2 H3 HK
+D7 H4 H5 HQ
+C3 HJ H8 H6
+SK S2 S5 S9
+CT CK CA C5
+D2 DT DJ D5
+C6 C4 CQ CJ
+C9 C8 C2 H9
+DQ HA D4 D8
+SA S3 S6 S8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "86"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A842.Q7.A64.Q872 J63.KT8.Q82.KT53 T7.A953.KJ953.A9 KQ95.J642.T7.J64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "E"]
+1S      Pass    2D      Pass
+2NT     Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+C3 C9 CJ CQ
+D2 DJ D7 D4
+HK H3 H2 HQ
+C5 CA C4 C2
+D8 D3 DT DA
+DQ DK S9 D6
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "86"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A842.Q7.A64.Q872 J63.KT8.Q82.KT53 T7.A953.KJ953.A9 KQ95.J642.T7.J64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "6"]
+[Score "NS 400"]
+[Auction "E"]
+1C      Pass    1H      1S
+Pass    2S      3D      Pass
+3H      Pass    3S      Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+SK SA S3 S7
+D7 D4 D2 DJ
+H2 HQ HK H3
+S5 S2 SJ ST
+S9 S4 S6 H5
+DT DA D8 D3
+H4 H7 H8 HA
+HJ C2 HT H9
+SQ S8 C3 D5
+C4 CQ CK CA
+H6 D6 DQ DK
+CJ C7 C5 C9
+C6 C8 CT D9
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "87"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J7643.A53.AK3.T5 A92.9862.82.9876 Q.KJT7.J74.AJ432 KT85.Q4.QT965.KQ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "S"]
+1S      Pass    2C      Pass
+2D      Pass    2NT     Pass
+Pass    Pass
+[Play "E"]
+DT D3 D2 DJ
+CQ C5 C6 C2
+ST S3 S2 SQ
+H4 H3 H2 HJ
+D5 DA D8 D4
+CK CT C7 C3
+S5 S4 SA C4
+SK S6 S9 H7
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "87"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J7643.A53.AK3.T5 A92.9862.82.9876 Q.KJT7.J74.AJ432 KT85.Q4.QT965.KQ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "S"]
+1S      Pass    2C      Pass
+2S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+D9 DA D8 D4
+CK CT C9 C2
+ST S3 S2 SQ
+CQ C5 C6 CA
+H4 H3 H2 HJ
+D6 S4 C7 CJ
+S5 D3 C8 C3
+DT DK D2 D7
+HQ HA H6 H7
+D5 H5 H8 HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "88"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT5.KT987.A6.AQ6 7432.J2.J873.K83 A986.AQ.K952.954 KJ.6543.QT4.JT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Auction "W"]
+1H      Pass    1S      Pass
+2H      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+C2 CQ CK C4
+DT DA D3 D2
+H3 H7 H2 HA
+SK S5 S2 S6
+DQ D6 D7 DK
+SJ SQ S3 S8
+C7 ST S4 S9
+H4 H8 HJ HQ
+H5 C6 S7 SA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "88"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT5.KT987.A6.AQ6 7432.J2.J873.K83 A986.AQ.K952.954 KJ.6543.QT4.JT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Auction "W"]
+1H      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+CJ CA C3 C4
+SK SQ S2 S6
+CT CQ CK C5
+C2 C6 C8 C9
+H3 H7 H2 HA
+H4 HK HJ HQ
+H5 HT S3 D2
+H6 H9 S4 D5
+C7 H8 S7 S8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "89"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K7.QJT9.T85.AK82 .AK6.AKJ7.Q76543 T9532.42.943.JT9 AQJ864.8753.Q62."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "N"]
+1C      1D      Pass    2C
+Pass    3C      Pass    3S
+Pass    3NT     Pass    4S
+Pass    Pass    Pass
+[Play "N"]
+CA C3 C9 S4
+S7 C4 S2 SA
+SK C5 S3 SQ
+HQ HA H2 H3
+C2 C6 CT S6
+D5 C7 S5 SJ
+D8 D7 D3 DQ
+DT DJ D4 D6
+H9 DA D9 D2
+C8 CQ CJ S8
+HT HK H4 H5
+HJ H6 S9 H7
+CK DK ST H8
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "89"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K7.QJT9.T85.AK82 .AK6.AKJ7.Q76543 T9532.42.943.JT9 AQJ864.8753.Q62."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "N"]
+1H      2C      Pass    2S
+Pass    3D      Pass    3S
+Pass    Pass    Pass
+[Play "N"]
+HQ HA H4 H3
+C2 C3 C9 S4
+S7 C4 S2 SA
+SK C5 S3 SJ
+HJ HK H2 H5
+C8 C6 CT S6
+D5 D7 D3 DQ
+D8 DA D4 D6
+DT DK D9 D2
+CK C7 CJ S8
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "90"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J754.K.9652.Q642 AT6.T953.K8.KJT9 Q83.QJ.QJT743.87 K92.A87642.A.A53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Auction "E"]
+Pass    Pass    1D      X
+Pass    2D      Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+C2 C9 C8 C3
+HK H3 HJ HA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "90"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J754.K.9652.Q642 AT6.T953.K8.KJT9 Q83.QJ.QJT743.87 K92.A87642.A.A53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 680"]
+[Auction "E"]
+Pass    Pass    Pass    1H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+C2 C9 C8 C3
+HK H3 HJ HA
+D2 D8 D3 DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "91"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q8432.K9.J8.K865 KJT97..AKQ72.A74 A65.8754.T65.QJT .AQJT632.943.932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "S"]
+Pass    1C      Pass    1H
+Pass    1S      Pass    2H
+Pass    3D      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+C5 CA CT C2
+S2 SJ SA H2
+D8 DA D5 D3
+S3 SK S5 C3
+S4 S7 S6 H3
+H9 C4 H4 HA
+HK C7 H5 HQ
+CK D2 CJ C9
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "91"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q8432.K9.J8.K865 KJT97..AKQ72.A74 A65.8754.T65.QJT .AQJT632.943.932"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "S"]
+Pass    1S      Pass    2H
+Pass    3D      Pass    3H
+Pass    4D      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+C5 C4 CT C2
+C6 CA CQ C3
+S2 SJ SA H2
+H9 C7 H4 HA
+D8 DA D5 D3
+S3 SK S5 C9
+S4 S7 S6 H3
+HK S9 H5 HQ
+SQ ST D6 H6
+DJ D2 H7 HJ
+C8 D7 H8 HT
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "92"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:942.K53.Q95.AQT8 KQT8.T9642.T.432 J6.AQ7.AK62.K975 A753.J8.J8743.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+D4 D9 DT DK
+C6 CA C4 C5
+CJ CQ C3 C7
+D3 C8 C2 C9
+H8 CT H2 CK
+HJ HK H4 H7
+S3 H5 H6 HQ
+D7 H3 H9 HA
+D8 DQ S8 D2
+DJ D5 HT DA
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "92"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:942.K53.Q95.AQT8 KQT8.T9642.T.432 J6.AQ7.AK62.K975 A753.J8.J8743.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+D4 D9 DT DK
+C6 CA C4 C5
+CJ CQ C3 C7
+D3 CT C2 C9
+H8 C8 H2 CK
+HJ HK H4 H7
+S3 H5 H6 HQ
+S5 H3 H9 HA
+D7 DQ S8 D2
+D8 D5 ST DA
+DJ S2 HT D6
+SA S4 SQ S6
+S7 S9 SK SJ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "93"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:6.6543.AKQ2.J643 AQ32.AQ.J86.KQ82 KJ74.K97.954.AT9 T985.JT82.T73.75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "6"]
+[Score "NS 500"]
+[Auction "N"]
+Pass    1C      Pass    1D
+Pass    1NT     Pass    2C
+Pass    2S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "S"]
+D9 D3 DQ D6
+D4 D7 DK D8
+D5 DT DA DJ
+HK H2 H6 HQ
+H7 H8 H3 HA
+CA C5 C3 CQ
+CT C7 C4 CK
+C9 ST C6 C2
+H9 HJ H4 S2
+SJ HT CJ C8
+S4 S5 S6 SQ
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "93"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:6.6543.AKQ2.J643 AQ32.AQ.J86.KQ82 KJ74.K97.954.AT9 T985.JT82.T73.75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1C"]
+[Result "3"]
+[Score "NS 400"]
+[Auction "N"]
+Pass    1C      Pass    Pass
+Pass
+[Play "S"]
+D4 D3 DQ D6
+CA C5 C3 CK
+CT C7 C4 C2
+C9 D7 C6 CQ
+S4 S5 S6 SA
+SK S8 H3 SQ
+D5 DT DK D8
+S7 H2 CJ C8
+D9 H8 DA DJ
+H7 HT D2 S2
+H9 HJ H4 HA
+SJ S9 H5 S3
+HK ST H6 HQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "94"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKT.54.QJ92.Q763 7632.KT72.K5.A84 Q954.A96.T874.T2 J8.QJ83.A63.KJ95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 100"]
+[Auction "E"]
+1D      Pass    1H      Pass
+1NT     Pass    Pass    Pass
+[Play "S"]
+S7 S4 S8 ST
+S2 S5 SJ SA
+S3 S9 D3 SK
+D5 D4 DA DJ
+HT H6 H3 H4
+H2 H9 HJ H5
+C8 C2 CJ C3
+CA CT C5 C6
+HK HA H8 D2
+S6 SQ D6 D9
+DK D7 C9 DQ
+H7 D8 HQ C7
+C4 DT CK CQ
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "94"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKT.54.QJ92.Q763 7632.KT72.K5.A84 Q954.A96.T874.T2 J8.QJ83.A63.KJ95"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1D      X       2D      3D
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+D4 DA D9 D5
+S5 SJ SK S2
+H9 HJ H4 H2
+S4 S8 SA S3
+D7 D3 DQ DK
+S9 H3 ST S6
+HA H8 H5 H7
+H6 HQ D2 HT
+C2 CJ C3 C4
+CT C5 C6 CA
+D8 D6 DJ HK
+DT CK C7 C8
+SQ C9 CQ S7
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "95"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q754.65.KT43.A42 J9.K42.AJ98.J876 3.A9873.65.QT953 AKT862.QJT.Q72.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "S"]
+Pass    Pass    Pass    1S
+Pass    2C      Pass    2S
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+H7 HT H6 HK
+S3 S2 S4 SJ
+D5 SA S5 S9
+D6 DQ DK DA
+HA HJ H5 H2
+C3 CK CA C6
+C9 S6 C4 C8
+H3 HQ C2 H4
+C5 SK S7 C7
+CT D2 D3 DJ
+H8 D7 DT D9
+CQ S8 SQ CJ
+H9 ST D4 D8
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "95"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q754.65.KT43.A42 J9.K42.AJ98.J876 3.A9873.65.QT953 AKT862.QJT.Q72.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    Pass    Pass    1S
+Pass    1NT     Pass    2S
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+C3 CK CA C6
+C9 D2 C4 C7
+CQ S2 C2 C8
+C5 D7 H6 CJ
+S3 S6 S4 SJ
+H9 SA S5 S9
+H3 SK S7 H2
+D5 DQ DK DA
+D6 S8 D3 DJ
+HA HT H5 H4
+CT ST D4 D8
+H7 HJ SQ HK
+H8 HQ DT D9
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Open"]
+[Board "96"]
+[West "De Falco"]
+[North "Eisenberg"]
+[East "Franco"]
+[South "Kantar"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T975.A53.972.QT6 Q62.9764.AKJT.J7 4.QJ.8643.AK9842 AKJ83.KT82.Q5.53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+Pass    Pass    2C      X
+3C      X       Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "W"]
+C6 C7 CA C3
+CT CJ CK C5
+HA H4 HQ HK
+H5 H6 HJ H2
+*
+
+[Event "1979 Bermuda Bowl Final"]
+[Site "Rio de Janeiro"]
+[Date "1979.10.19"]
+[Room "Closed"]
+[Board "96"]
+[West "Goldman"]
+[North "Belladonna"]
+[East "Soloway"]
+[South "Pittala"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T975.A53.972.QT6 Q62.9764.AKJT.J7 4.QJ.8643.AK9842 AKJ83.KT82.Q5.53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass    1D      Pass    1S
+Pass    1NT     Pass    2C
+Pass    2S      Pass    4S
+Pass    Pass    Pass
+[Play "W"]
+H3 H4 HJ HK
+S5 SQ S4 S3
+S7 S2 C9 SJ
+S9 S6 C2 SA
+ST H6 D3 SK
+*
+

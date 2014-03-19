@@ -1,0 +1,8175 @@
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[HomeTeam "Italy"]
+[VisitTeam "North America"]
+[Room "Open"]
+[Board "1"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT52.KJ9.Q83.Q94 K9.A65.976.JT762 7.QT742.AJT54.A8 AJ8643.83.K2.K53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass    Pass    1H      1S
+1NT     Pass    2D      Pass
+2NT     Pass    3H      Pass
+4H      Pass    Pass    Pass
+[Play "W"]
+C3 CQ C2 C8
+H3 H9 H5 H2
+H8 HJ HA H4
+S8 HK H6 H7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "1"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT52.KJ9.Q83.Q94 K9.A65.976.JT762 7.QT742.AJT54.A8 AJ8643.83.K2.K53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+Pass    Pass    1H      1S
+2H      Pass    Pass    2S
+2NT     Pass    3D      Pass
+Pass    Pass
+[Play "W"]
+SA S2 S9 S7
+S3 SQ SK D4
+H8 H9 H5 H2
+DK D3 D6 DT
+H3 HJ HA H4
+D2 HK H6 H7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "2"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J6.T75.Q9.T97653 Q954.A63.A832.A8 AKT732.K.T764.KQ 8.QJ9842.KJ5.J42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    1C      1S      2H
+Pass    2NT     Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+SJ SQ SA S8
+S6 S4 SK H2
+H5 H3 HK HQ
+HT S5 S2 H4
+H7 H6 S3 H8
+C3 CA CQ C2
+D9 DA D4 D5
+DQ D2 D6 DJ
+C5 C8 CK CJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "2"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J6.T75.Q9.T97653 Q954.A63.A832.A8 AKT732.K.T764.KQ 8.QJ9842.KJ5.J42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    1D      2S      3H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+SJ SQ SK S8
+S6 S4 ST H2
+H5 H3 HK HQ
+H7 S5 S2 C2
+C3 CA CQ C4
+HT HA D4 H4
+D9 DA D6 D5
+DQ D2 D7 DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "3"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K76.AT54.AQ.Q853 J9842.K962.J9.T9 T5.QJ73.T854.K76 AQ3.8.K7632.AJ42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "5"]
+[Score "NS 300"]
+[Auction "S"]
+1C      Pass    1D      1NT
+Pass    2C      Pass    Pass
+Pass
+[Play "N"]
+ST SQ SK S2
+S5 SA S7 S4
+H3 H8 HA H2
+C6 S3 S6 S8
+D4 D2 DQ D9
+C7 CA CQ C9
+D5 D7 DA DJ
+CK C2 C3 CT
+DT DK C5 S9
+H7 D3 HT HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "3"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K76.AT54.AQ.Q853 J9842.K962.J9.T9 T5.QJ73.T854.K76 AQ3.8.K7632.AJ42"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+1C      Pass    1H      X
+2H      2S      Pass    Pass
+3H      Pass    Pass    Pass
+[Play "E"]
+H8 H4 HK H3
+D2 H5 H2 H7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "4"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J96.AT542..KQT64 7.KQ987.742.9532 QT5.63.AKJ865.A7 AK8432.J.QT93.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "7"]
+[Auction "W"]
+1H      Pass    2D      2S
+Pass    Pass    2NT     Pass
+3C      Pass    3D      Pass
+4C      Pass    4H      Pass
+Pass    Pass
+[Play "N"]
+S7 S5 SK S6
+D2 ST SA S9
+H7 SQ S2 SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "4"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J96.AT542..KQT64 7.KQ987.742.9532 QT5.63.AKJ865.A7 AK8432.J.QT93.J8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    1D      1S
+2H      Pass    2NT     Pass
+3C      Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+S2 S6 S7 ST
+C8 C4 C2 CA
+CJ CK C3 C7
+D3 CQ C5 H3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "5"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K987.T3.A654.A76 T42.A92.KQJT.J82 A.KQJ854.2.KQ954 QJ653.76.9873.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "12"]
+[Score "NS 620"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1S      Pass    2H      Pass
+2NT     Pass    3C      Pass
+4C      Pass    4D      Pass
+4NT     Pass    5C      Pass
+Pass    Pass
+[Play "W"]
+D9 DA DT D2
+C3 C6 C2 CK
+CT CA C8 C4
+D3 C7 CJ CQ
+H6 H3 HA HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "5"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K987.T3.A654.A76 T42.A92.KQJT.J82 A.KQJ854.2.KQ954 QJ653.76.9873.T3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 1370"]
+[Auction "N"]
+Pass    Pass    1H      Pass
+1S      Pass    3C      Pass
+3D      X       3H      Pass
+4C      Pass    5C      Pass
+5D      Pass    5S      Pass
+5NT     Pass    6C      Pass
+Pass    Pass
+[Play "W"]
+D9 DA DT D2
+C3 C6 C2 CK
+CT CA C8 C4
+D3 C7 CJ CQ
+H6 H3 HA HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "6"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T542.AK2.J5.Q852 AJ63.T863.Q9.AT7 K87.975.A8764.J3 Q9.QJ4.KT32.K964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "E"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    Pass
+Pass
+[Play "W"]
+D6 D2 DJ DQ
+H5 HQ HK H3
+D4 D3 D5 D9
+H7 HJ HA H6
+H9 H4 H2 HT
+S7 SQ S2 S3
+DA DT C8 S6
+D7 DK S4 C7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "6"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T542.AK2.J5.Q852 AJ63.T863.Q9.AT7 K87.975.A8764.J3 Q9.QJ4.KT32.K964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+X       XX      Pass    1NT
+Pass    Pass    Pass
+[Play "E"]
+S5 S3 S7 S9
+D5 DQ DA D2
+DJ D9 D4 D3
+CQ CA C3 C4
+HK H3 H5 HQ
+S2 S6 SK SQ
+H2 H6 H7 HJ
+S4 H8 D6 DK
+HA HT H9 H4
+C2 CT CJ CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "7"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ652.A5.KQJ843. Q84.KQJ83.6.J943 AT7.9.T97.AKQT62 93.T7642.A52.875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Auction "S"]
+1D      1H      3C      3H
+3S      Pass    4H      Pass
+5D      Pass    5NT     Pass
+6D      Pass    6S      Pass
+Pass    Pass
+[Play "W"]
+HK H9 H2 HA
+S4 S7 S3 SK
+S8 ST S9 S2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "7"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ652.A5.KQJ843. Q84.KQJ83.6.J943 AT7.9.T97.AKQT62 93.T7642.A52.875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 1370"]
+[Auction "S"]
+1D      Pass    3C      Pass
+3S      Pass    4C      Pass
+4S      Pass    4NT     Pass
+5D      Pass    6D      Pass
+Pass    Pass
+[Play "W"]
+HK H9 H2 HA
+H3 D7 H4 H5
+D6 DT D2 D3
+C3 D9 D5 D4
+C4 C2 C5 D8
+S4 C6 DA DK
+H8 CT HT DJ
+S8 SA S3 S2
+C9 CA C7 S5
+CJ CK C8 S6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "8"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.KQJ65.964.KJ3 K9865.982.K2.954 AT3.43.QJT3.8762 J72.AT7.A875.AQT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -50"]
+[Auction "W"]
+Pass    Pass    Pass    1C
+1H      1S      Pass    2C
+Pass    2S      Pass    Pass
+Pass
+[Play "E"]
+H4 H7 HJ H2
+H3 HA HQ H8
+SA S2 S4 SK
+C7 CT CJ C4
+C2 HT HK H9
+D3 D5 D4 DK
+S3 S7 SQ S5
+DT DA D9 D2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "8"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.KQJ65.964.KJ3 K9865.982.K2.954 AT3.43.QJT3.8762 J72.AT7.A875.AQT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1H      Pass    1NT     X
+Pass    2S      Pass    Pass
+Pass
+[Play "E"]
+H4 H7 HJ H2
+H3 HA HQ H8
+D3 D5 D4 DK
+DT DA D6 D2
+DJ D7 D9 S5
+C2 HT HK H9
+C6 S2 H6 C4
+DQ D8 H5 S6
+C7 CA C3 C5
+C8 CT CJ C9
+ST CQ CK S8
+S3 S7 SQ SK
+SA SJ S4 S9
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "9"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J73.T2.AKQ642.KT QT86.Q9854.JT.63 94.AKJ73.5.AQJ42 AK52.6.9873.9875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+1D      Pass    2C      Pass
+2D      Pass    2H      Pass
+3D      Pass    4C      Pass
+4H      Pass    Pass    Pass
+[Play "W"]
+SA S3 S8 S4
+SK S7 S6 S9
+S5 SJ SQ H3
+H6 HT HQ H7
+D3 DA DJ D5
+C5 H2 H4 HJ
+C7 D2 H5 HA
+D8 D4 H8 HK
+C8 CK C3 C2
+D7 DK DT C4
+C9 CT C6 CJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "9"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J73.T2.AKQ642.KT QT86.Q9854.JT.63 94.AKJ73.5.AQJ42 AK52.6.9873.9875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+1D      Pass    2H      Pass
+3D      Pass    4C      Pass
+4H      Pass    Pass    Pass
+[Play "W"]
+SA S3 S8 S4
+SK S7 S6 S9
+S5 SJ SQ H3
+D3 DA DT D5
+H6 HT HQ HA
+S2 H2 H4 HK
+C5 CK C3 C2
+D7 DK DJ CJ
+D8 DQ H9 HJ
+C7 CT C6 C4
+D9 D6 H8 CQ
+C8 D2 ST H7
+C9 D4 H5 CA
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "10"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T865.7.QT7643.98 7.KJT98543.AK9.T K93.2.J82.AJ6542 AQJ42.AQ6.5.KQ73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Score "NS 1430"]
+[Auction "E"]
+Pass    1D      Pass    2C
+Pass    2H      Pass    2S
+Pass    3H      Pass    4NT
+Pass    5D      Pass    6H
+Pass    Pass    Pass
+[Play "W"]
+CA C3 C8 CT
+C5 CK C9 S7
+H2 HA H7 H3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "10"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T865.7.QT7643.98 7.KJT98543.AK9.T K93.2.J82.AJ6542 AQJ42.AQ6.5.KQ73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS 1460"]
+[Auction "E"]
+Pass    2H      Pass    2S
+Pass    3H      Pass    4NT
+Pass    5D      Pass    6H
+Pass    Pass    Pass
+[Play "W"]
+H2 H6 H7 HK
+S3 SA S5 S7
+S9 S2 S6 H3
+D2 D5 D3 DA
+D8 HQ D4 D9
+SK S4 S8 H4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "11"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT7.Q7.A75.Q8532 98.AKT8654.4.AJ4 AK53.J3.KQJT3.T9 Q642.92.9862.K76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "S"]
+Pass    1H      X       Pass
+2C      3H      Pass    Pass
+Pass
+[Play "N"]
+SK S2 S7 S8
+DQ D2 D7 D4
+D3 D6 DA H4
+H3 H2 H7 HA
+HJ H9 HQ HK
+SA S4 ST S9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "11"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT7.Q7.A75.Q8532 98.AKT8654.4.AJ4 AK53.J3.KQJT3.T9 Q642.92.9862.K76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "S"]
+Pass    1H      X       1S
+2C      3H      Pass    Pass
+Pass
+[Play "N"]
+DK D2 D5 D4
+CT C6 CQ CA
+H3 H2 H7 HA
+HJ H9 HQ HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "12"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A652.J.J932.AKQ2 Q3.K7642.A854.J6 T874.AQT8.K6.983 KJ9.953.QT7.T754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+1C      1H      X       Pass
+2S      Pass    2NT     Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+DA D6 D7 D2
+D4 DK DT D3
+S3 S4 S9 S2
+C6 C3 C7 CA
+SQ S7 SJ SA
+D5 S8 DQ D9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "12"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A652.J.J932.AKQ2 Q3.K7642.A854.J6 T874.AQT8.K6.983 KJ9.953.QT7.T754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "W"]
+1S      Pass    2S      Pass
+Pass    Pass
+[Play "N"]
+H4 HA H3 HJ
+HK HQ H5 D2
+D4 DK D7 D3
+S3 S4 S9 S2
+C6 C3 C7 CA
+SQ S7 SJ SA
+CJ C8 C4 CK
+H2 C9 C5 CQ
+D5 S8 CT C2
+H6 HT H9 D9
+H7 H8 SK DJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "13"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJT72.T954.Q.KT2 K63.AJ6.AJ872.96 85.K87.KT53.AJ87 A94.Q32.964.Q543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Score "NS 200"]
+[Auction "N"]
+Pass    1D      Pass    1NT
+Pass    Pass    Pass
+[Play "N"]
+SJ S3 S8 S4
+ST S6 S5 SA
+H4 HJ HK H2
+CT C6 C7 C3
+S2 SK C8 S9
+H5 HA H7 H3
+H9 H6 H8 HQ
+DQ DA D3 D4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "13"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJT72.T954.Q.KT2 K63.AJ6.AJ872.96 85.K87.KT53.AJ87 A94.Q32.964.Q543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NTX"]
+[Result "5"]
+[Score "NS 500"]
+[Auction "N"]
+Pass    1D      Pass    1NT
+X       Pass    Pass    Pass
+[Play "N"]
+SQ S3 S5 S4
+SJ S6 S8 SA
+DQ DA D3 D9
+H4 D7 DT D4
+CT C6 C7 C3
+S2 SK H7 S9
+H5 D8 DK D6
+CK C9 CJ C4
+ST H6 C8 H2
+S7 D2 D5 H3
+C2 HJ CA C5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "14"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A963.T8.KQ86.T72 KQJT8.KQ75.T93.9 742.A6.2.AKQJ864 5.J9432.AJ754.53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    Pass    1C      Pass
+1S      Pass    3C      Pass
+3D      Pass    3NT     Pass
+4C      Pass    5C      Pass
+6C      Pass    Pass    Pass
+[Play "N"]
+S5 SA S8 S2
+C3 C2 C9 CA
+D4 DK D3 D2
+D5 D6 D9 C4
+C5 C7 DT C6
+D7 D8 SK CK
+H2 CT H5 C8
+DJ DQ SQ CJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "14"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A963.T8.KQ86.T72 KQJT8.KQ75.T93.9 742.A6.2.AKQJ864 5.J9432.AJ754.53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "E"]
+Pass    1S      X       Pass
+1NT     Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+SK S2 S5 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "15"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QJ74.AKT2.QT6.T3 853.4.AKJ943.Q52 AK96.J763.87.A74 T2.Q985.52.KJ986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "S"]
+1C      3D      Pass    Pass
+Pass
+[Play "N"]
+SK S2 S4 S3
+D7 D2 DQ DA
+CA C6 C3 C2
+D8 D5 DT DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "15"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QJ74.AKT2.QT6.T3 853.4.AKJ943.Q52 AK96.J763.87.A74 T2.Q985.52.KJ986"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "S"]
+1S      2D      3D      4C
+Pass    5C      Pass    Pass
+X       Pass    Pass    Pass
+[Play "S"]
+HA H4 H3 H5
+S4 S3 SK S2
+S7 S5 SA ST
+HK C2 H6 HQ
+SJ S8 S6 C6
+H2 C5 H7 H8
+D6 DA D7 D2
+DT DK D8 D5
+DQ D3 S9 C8
+HT CQ HJ H9
+CT D4 C4 C9
+SQ D9 C7 CJ
+C3 DJ CA CK
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "16"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "D\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A982.72.543.AJT4 QJ.AKQT8.A2.K985 T.J9643.J87.Q762 K76543.5.KQT96.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "W"]
+Pass    1C      Pass    1S
+Pass    2H      Pass    3D
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+ST S3 SA SQ
+C2 C3 CJ C5
+CQ D6 C4 C8
+C7 S4 CA C9
+C6 S5 CT CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "16"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A982.72.543.AJT4 QJ.AKQT8.A2.K985 T.J9643.J87.Q762 K76543.5.KQT96.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "10"]
+[Auction "W"]
+Pass    1H      Pass    1S
+Pass    2NT     Pass    3D
+Pass    3H      Pass    4D
+Pass    4S      Pass    4NT
+Pass    5H      Pass    5S
+Pass    Pass    Pass
+[Play "W"]
+CA C5 C2 C3
+C4 C9 CQ S3
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[HomeTeam "Italy"]
+[VisitTeam "North America"]
+[Room "Open"]
+[Board "17"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ732.A6.A52.KJT T96.743.96.A9542 A854.KQJ5.T7.Q73 J.T982.KQJ843.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+1D      Pass    1NT     Pass
+2S      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+ST S4 SJ SK
+S6 SA D8 S2
+S9 S5 H2 SQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "17"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ732.A6.A52.KJT T96.743.96.A9542 A854.KQJ5.T7.Q73 J.T982.KQJ843.86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "N"]
+1S      Pass    3NT     Pass
+4D      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+ST S4 SJ SK
+S6 SA D8 S2
+S9 S5 H2 SQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "18"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QT9762.AK.A.A985 5.J8643.T543.764 J84.QT97.QJ2.JT3 AK3.52.K9876.KQ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "E"]
+1S      Pass    1NT     2D
+2S      3D      3S      Pass
+4S      Pass    Pass    X
+Pass    Pass    Pass
+[Play "S"]
+D5 D2 D6 DA
+S5 SJ SK S2
+C4 C3 CQ C5
+C6 CT C2 CA
+H3 S4 SA S6
+C7 CJ CK C8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "18"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QT9762.AK.A.A985 5.J8643.T543.764 J84.QT97.QJ2.JT3 AK3.52.K9876.KQ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+1C      Pass    1H      Pass
+1S      Pass    1NT     Pass
+2S      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "S"]
+C6 C3 CQ CA
+S5 S8 SA S2
+C4 CT CK C5
+C7 CJ C2 C8
+D3 SJ SK S6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "19"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKT54.843.KT2.A4 83.KJ52.AQ875.Q3 QJ96.T6.J6.JT865 72.AQ97.943.K972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Auction "S"]
+1S      X       3S      4H
+4S      Pass    Pass    X
+Pass    Pass    Pass
+[Play "W"]
+H2 H6 HQ H3
+S8 S9 S2 S4
+C3 CJ C2 CA
+CQ C5 C7 C4
+HJ HT HA H4
+DQ D6 D3 D2
+DA DJ D4 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "19"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKT54.843.KT2.A4 83.KJ52.AQ875.Q3 QJ96.T6.J6.JT865 72.AQ97.943.K972"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "S"]
+1S      Pass    2S      Pass
+Pass    2NT     3S      Pass
+Pass    Pass
+[Play "W"]
+H2 H6 HQ H3
+S3 S6 S2 SA
+C3 C5 C2 CA
+CQ C6 C7 C4
+HK HT H7 H4
+H5 S9 H9 H8
+DQ DJ D3 D2
+DA D6 D4 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "20"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K72.KQT64.Q.AJ73 AT63.972.763.T92 94.83.JT9854.Q54 QJ85.AJ5.AK2.K86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "W"]
+1H      Pass    Pass    1NT
+Pass    Pass    Pass
+[Play "W"]
+HK H2 H3 H5
+HT H7 H8 HJ
+S2 S3 S4 SQ
+S7 S6 S9 SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "20"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K72.KQT64.Q.AJ73 AT63.972.763.T92 94.83.JT9854.Q54 QJ85.AJ5.AK2.K86"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "W"]
+1H      Pass    Pass    X
+Pass    1S      Pass    2S
+Pass    Pass    Pass
+[Play "E"]
+H8 HA H6 H2
+S4 SQ S2 S3
+S9 S5 S7 ST
+D4 S8 SK SA
+H3 H5 HT H7
+D5 HJ HQ H9
+D8 DA DQ D3
+D9 DK C7 D6
+DT D2 H4 D7
+CQ CK CA C2
+C4 C6 CJ C9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "21"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ96.54.5.QJT984 J84.AT983.62.K65 K72.KJ6.AKQT94.3 T53.Q72.J873.A72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+Pass    Pass    1D      Pass
+1H      Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+H8 HJ HQ H4
+H3 HK H7 H5
+D2 DA D3 D5
+D6 DK D7 C4
+C5 DQ D8 C8
+S4 SK S3 S6
+S8 S7 ST SA
+SJ S2 S5 SQ
+H9 H6 C2 S9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "21"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ96.54.5.QJT984 J84.AT983.62.K65 K72.KJ6.AKQT94.3 T53.Q72.J873.A72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+Pass    Pass    1D      Pass
+2C      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+H2 H4 HA H6
+HQ H5 HT HJ
+H7 C4 H3 HK
+S3 S6 S4 SK
+S5 SA S8 S7
+ST SQ SJ S2
+C2 S9 D2 D4
+D3 D5 D6 DA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "22"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:952.AQJ9.9542.72 KJ.K542.AK.AT983 87.T73.J63.KQJ54 AQT643.86.QT87.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "E"]
+Pass    1NT     Pass    2S
+Pass    2NT     Pass    4S
+Pass    Pass    Pass
+[Play "E"]
+HQ H2 H3 H6
+S5 SJ S7 S3
+S2 SK S8 SA
+S9 C3 D3 SQ
+H9 H4 HT H8
+D2 DA D6 D7
+D4 DK DJ D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "22"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:952.AQJ9.9542.72 KJ.K542.AK.AT983 87.T73.J63.KQJ54 AQT643.86.QT87.6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "E"]
+Pass    1C      Pass    1S
+Pass    2H      Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "E"]
+HQ HK H3 H6
+S2 SK S7 S3
+D2 DA D3 D7
+D4 DK D6 D8
+C2 CA C4 C6
+C7 C3 C5 S4
+D5 SJ DJ DT
+H9 C8 CJ SA
+S5 H2 S8 SQ
+S9 H4 H7 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "23"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A8.Q65.AK6542.83 QT96.K98742.Q.T4 J543.AJT3.7.AQJ9 K72..JT983.K7652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "7"]
+[Auction "S"]
+1D      Pass    2C      Pass
+2D      Pass    2H      Pass
+4H      Pass    Pass    Pass
+[Play "E"]
+S2 SA S6 S3
+CK C3 C4 CJ
+SK S8 S9 S4
+S7 H5 ST S5
+C2 H6 H2 HT
+C5 C8 CT CA
+C6 D2 H4 CQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "23"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A8.Q65.AK6542.83 QT96.K98742.Q.T4 J543.AJT3.7.AQJ9 K72..JT983.K7652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "S"]
+1D      Pass    1H      Pass
+2H      Pass    3C      Pass
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+S2 S8 SQ S3
+S7 SA ST S4
+CK C3 C4 CJ
+C2 C8 CT CQ
+C5 D2 H7 C9
+D3 DA DQ D7
+D8 DK H2 S5
+C6 HQ HK HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "24"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A4.AQJ.A864.QT96 Q8752.987.K2.J53 93.K54.QJT753.AK KJT6.T632.9.8742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS -920"]
+[Auction "W"]
+1NT     Pass    2D      Pass
+2NT     Pass    3D      Pass
+3H      Pass    3NT     Pass
+4S      Pass    6D      Pass
+Pass    Pass
+[Play "S"]
+ST SA S2 S3
+D9 DA D2 D3
+C2 C6 C3 CA
+C4 C9 C5 CK
+H2 HA H7 H4
+C7 CQ CJ S9
+S6 D4 DK D5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "24"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A4.AQJ.A864.QT96 Q8752.987.K2.J53 93.K54.QJT753.AK KJT6.T632.9.8742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS -920"]
+[Auction "W"]
+1NT     Pass    2D      Pass
+3C      Pass    3D      Pass
+3NT     Pass    4D      Pass
+4H      Pass    4NT     Pass
+5S      Pass    6D      Pass
+Pass    Pass
+[Play "S"]
+H6 HJ H7 HK
+D9 DA D2 DQ
+C2 D4 DK D3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "25"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J98642.A96.T86.7 A.KQ7.KJ52.KJ843 KQ75.J53.A94.AQT T3.T842.Q73.9652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass    1D      X       Pass
+2C      X       2NT     Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+SA S5 S3 S2
+C4 CQ C2 C7
+D2 D4 DQ D6
+DJ DA D3 D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "25"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J98642.A96.T86.7 A.KQ7.KJ52.KJ843 KQ75.J53.A94.AQT T3.T842.Q73.9652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass    1C      Pass    1D
+1S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+HK H3 H2 HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "26"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ853.QJT9..KJ98 QT76.72.K6.Q7652 9.AK543.AJ542.T4 A42.86.QT9873.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "E"]
+Pass    Pass    1H      Pass
+4C      Pass    4D      Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+H8 H9 H2 H3
+H6 HQ H7 HA
+C3 C8 CQ CT
+D3 S3 D6 DA
+S2 SK S6 S9
+CA C9 C2 C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "26"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ853.QJT9..KJ98 QT76.72.K6.Q7652 9.AK543.AJ542.T4 A42.86.QT9873.A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "E"]
+1S      Pass    2H      Pass
+3H      Pass    4D      Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+CA C8 C2 C4
+H6 H9 H2 H3
+H8 HT H7 HA
+S2 SJ SQ S9
+D3 S3 D6 DA
+D7 HJ DK D2
+S4 S5 S6 H4
+C3 C9 CQ CT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "27"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q94.KT875.A93.85 T532.A.QJ8765.J2 J876.432.KT4.A63 AK.QJ96.2.KQT974"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "S"]
+Pass    2D      Pass    3NT
+Pass    Pass    Pass
+[Play "S"]
+H7 HA H2 H6
+C5 CJ C3 C4
+C8 C2 CA C7
+HK D5 H4 HQ
+DA D6 DT D2
+D3 D7 DK H9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "27"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q94.KT875.A93.85 T532.A.QJ8765.J2 J876.432.KT4.A63 AK.QJ96.2.KQT974"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass    Pass    Pass    2C
+Pass    2D      Pass    2H
+Pass    3C      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+S6 SA S9 S2
+CA C4 C5 CJ
+S7 SK S4 S3
+C3 CK C8 C2
+C6 CQ H5 D7
+H2 CT H7 D8
+H3 C9 D3 D5
+D4 C7 D9 D6
+DT D2 DA DJ
+H4 H6 H8 HA
+S8 H9 SQ S5
+SJ HJ HK ST
+DK HQ HT DQ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "28"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A65.AK96.T54.974 K7.QJ82.Q763.AT8 Q982.T753.K2.532 JT43.4.AJ98.KQJ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "10"]
+[Auction "W"]
+Pass    1C      Pass    1S
+Pass    1NT     Pass    2NT
+Pass    Pass    Pass
+[Play "E"]
+H7 H4 HK H2
+H3 S3 H6 HQ
+D2 DJ D4 D3
+DK DA D5 D6
+S9 D9 DT DQ
+C2 D8 S5 D7
+C3 C6 C4 CA
+C5 CK C7 CT
+HT CQ C9 C8
+S2 CJ S6 S7
+S8 S4 SA SK
+H5 ST HA H8
+SQ SJ H9 HJ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "28"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A65.AK96.T54.974 K7.QJ82.Q763.AT8 Q982.T753.K2.532 JT43.4.AJ98.KQJ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "W"]
+Pass    Pass    Pass    1D
+X       XX      1H      1S
+Pass    2NT     Pass    Pass
+Pass
+[Play "E"]
+H5 H4 HA H2
+H3 S3 H6 HQ
+D2 DJ D4 D3
+S2 S4 S5 SK
+DK DA D5 DQ
+C2 C6 C4 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "29"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT3.98632.A872.9 84.QJ5.QT94.KT82 QJ65.AK.J653.AQ3 K972.T74.K.J7654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2H      Pass    2S      Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+C5 C9 CK CA
+SK SA S4 SQ
+H4 H2 H5 HA
+H7 H3 HJ HK
+S2 ST S8 S5
+HT H9 HQ D3
+C4 D2 C2 CQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "29"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT3.98632.A872.9 84.QJ5.QT94.KT82 QJ65.AK.J653.AQ3 K972.T74.K.J7654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2C      Pass    2S      Pass
+3H      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+C5 C9 CK CA
+H4 H2 H5 HA
+H7 H3 HJ HK
+SK SA S4 SQ
+HT H6 HQ D3
+C4 D2 CT CQ
+S2 S3 S8 SJ
+S7 ST DT S5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "30"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJT83.T85432.5.Q 64.A7.AKJT62.984 AK75.6.Q43.T6532 92.KQJ9.987.AKJ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    1D      Pass    2C
+Pass    2D      Pass    2H
+Pass    3D      Pass    5D
+Pass    Pass    Pass
+[Play "W"]
+SK S2 S3 S4
+SA S9 S8 S6
+C2 CA CQ C4
+D3 D7 D5 DA
+D4 D8 H2 DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "30"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJT83.T85432.5.Q 64.A7.AKJT62.984 AK75.6.Q43.T6532 92.KQJ9.987.AKJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "5"]
+[Auction "E"]
+Pass    1D      Pass    1H
+1S      2D      3S      4C
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+SQ S4 S7 S2
+S3 S6 SK S9
+H2 H7 H6 HJ
+D5 D2 DQ D9
+CQ C4 C2 CA
+H3 HA C3 H9
+H4 DA D3 D7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "31"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J983.K73.A3.A874 K64.A92.KT54.532 QT5.T65.Q987.KJ9 A72.QJ84.J62.QT6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+1C      Pass    1D      Pass
+1S      Pass    Pass    1NT
+Pass    Pass    Pass
+[Play "S"]
+S3 SK S5 S2
+DA D4 D7 DJ
+S8 S4 SQ SA
+H3 H2 H5 HJ
+D3 DK D8 D2
+C4 DT DQ D6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "31"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J983.K73.A3.A874 K64.A92.KT54.532 QT5.T65.Q987.KJ9 A72.QJ84.J62.QT6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "S"]
+1C      Pass    1NT     Pass
+Pass    Pass
+[Play "E"]
+H4 H3 HA H5
+H8 HK H9 H6
+SA S3 S4 SQ
+HQ H7 H2 HT
+HJ C4 D5 D7
+D2 D3 DK D8
+D6 DA D4 D9
+S2 S8 SK S5
+DJ C7 DT DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Open"]
+[Board "32"]
+[West "Bill Root"]
+[North "Giorgio Belladonna"]
+[East "Al Roth"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQT863.K96.83.32 5.T75.T7542.JT86 J4.AJ83.AKQ96.95 A972.Q42.J.AKQ74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "W"]
+Pass    Pass    1D      X
+1S      Pass    1NT     2C
+2S      3C      4S      Pass
+Pass    Pass
+[Play "N"]
+CJ C5 CQ C2
+D2 DA DJ D3
+S5 SJ SA S3
+CT C9 C4 C3
+D4 DK S2 D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.01"]
+[Room "Closed"]
+[Board "32"]
+[West "Pietro Forquet"]
+[North "Edgar Kaplan"]
+[East "Benito Garozzo"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQT863.K96.83.32 5.T75.T7542.JT86 J4.AJ83.AKQ96.95 A972.Q42.J.AKQ74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "W"]
+Pass    Pass    1H      2C
+2S      Pass    3D      Pass
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+CJ C5 CQ C2
+D2 DA DJ D3
+S5 SJ S2 S3
+H5 S4 SA S6
+CT C9 C4 C3
+D4 DK S7 D8
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "33"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKT.AQ9.Q4.T9643 QJ843.5.632.KQJ2 972.JT3.JT875.A5 65.K87642.AK9.87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "N"]
+1C      1S      Pass    2H
+Pass    2S      Pass    Pass
+Pass
+[Play "S"]
+DJ DA D4 D2
+CA C8 C3 CK
+D5 DK DQ D3
+HT HK HA H5
+H3 H2 HQ S3
+C5 C7 C4 CQ
+S7 D9 C6 CJ
+DT S5 ST D6
+S2 S6 SA S4
+D7 H4 CT C2
+D8 H6 C9 SJ
+S9 H7 SK S8
+HJ H8 H9 SQ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "33"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKT.AQ9.Q4.T9643 QJ843.5.632.KQJ2 972.JT3.JT875.A5 65.K87642.AK9.87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS -80"]
+[Auction "N"]
+1C      Pass    1D      1H
+Pass    1S      Pass    Pass
+Pass
+[Play "S"]
+DT DK D4 D2
+S2 S5 SK S3
+D5 DA DQ D3
+S7 S6 SA S4
+CA C7 C9 CK
+DJ D9 H9 D6
+D8 H2 C3 S8
+S9 H4 ST SJ
+C5 C8 C4 CQ
+H3 H6 C6 CJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "34"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J97.JT2.AQJ7.A86 AQT42.76.T943.K9 .A8543.2.QJT7532 K8653.KQ9.K865.4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "E"]
+1D      1S      2H      4S
+Pass    Pass    5C      Pass
+Pass    X       Pass    Pass
+Pass
+[Play "N"]
+S5 S7 SA C2
+C4 CA C9 CQ
+HQ HJ H6 H3
+S3 S9 ST C3
+H9 H2 H7 HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "34"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J97.JT2.AQJ7.A86 AQT42.76.T943.K9 .A8543.2.QJT7532 K8653.KQ9.K865.4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "E"]
+1C      1S      2H      4S
+Pass    Pass    5C      Pass
+5H      Pass    Pass    Pass
+[Play "N"]
+S5 S7 SA H3
+C4 CA C9 C2
+D5 C6 CK C3
+S3 S9 S2 H4
+D6 C8 H6 C5
+S6 SJ S4 H5
+H9 H2 H7 HA
+D8 D7 D3 CQ
+HQ DJ D4 CJ
+HK HT D9 H8
+S8 HJ ST D2
+DK DA DT C7
+SK DQ SQ CT
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "35"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J754.J4.73.JT732 T62.KT72.98.8654 K98.AQ983.QT6.K9 AQ3.65.AKJ542.AQ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    Pass    1H      X
+Pass    1S      Pass    3D
+Pass    Pass    Pass
+[Play "S"]
+HJ HK HA H5
+H4 H2 HQ H6
+D3 H7 H3 S3
+S4 S2 SK SA
+D7 D8 D6 DA
+C2 D9 DT DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "35"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J754.J4.73.JT732 T62.KT72.98.8654 K98.AQ983.QT6.K9 AQ3.65.AKJ542.AQ"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "S"]
+Pass    Pass    1H      X
+Pass    1S      Pass    2H
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+H8 H5 HJ HK
+D6 DJ D3 D8
+DT DA D7 D9
+S8 SA S4 S2
+C9 CA C2 C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "36"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:97.QT5.876.J8542 AKQT53.73.KQ2.AK J862.AKJ4.J93.QT 4.9862.AT54.9763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "W"]
+Pass    1S      Pass    1NT
+Pass    3D      Pass    4D
+Pass    4S      Pass    Pass
+Pass
+[Play "E"]
+HA H2 HT H3
+HK H6 H5 H7
+H4 H8 HQ S3
+S2 S4 S7 SA
+S6 C3 S9 SK
+S8 C6 C2 SQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "36"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:97.QT5.876.J8542 AKQT53.73.KQ2.AK J862.AKJ4.J93.QT 4.9862.AT54.9763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "W"]
+Pass    1NT     Pass    2D
+Pass    2S      Pass    2NT
+Pass    3S      Pass    3NT
+Pass    4S      Pass    Pass
+Pass
+[Play "E"]
+HA H2 HT H3
+HK H6 H5 H7
+H4 H8 HQ S3
+S2 S4 S7 SA
+S6 C3 S9 SK
+S8 C6 C2 SQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "37"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.AK9765.K5.T87 852..JT42.AKJ932 KQJ.J843.A987.65 T9643.QT2.Q63.Q4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "N"]
+1H      3C      4H      5C
+5H      Pass    Pass    Pass
+[Play "E"]
+CA C5 C4 C7
+CK C6 CQ C8
+CJ HJ HQ CT
+S2 SJ S3 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "37"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.AK9765.K5.T87 852..JT42.AKJ932 KQJ.J843.A987.65 T9643.QT2.Q63.Q4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "N"]
+1H      2C      2H      Pass
+4H      Pass    Pass    Pass
+[Play "E"]
+CA C5 C4 C7
+CK C6 CQ C8
+CJ HJ HQ CT
+S2 SJ S3 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "38"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT.AT652.AT5.QJ3 A853.Q983.Q96.97 QJ762.J7.874.T65 94.K4.KJ32.AK842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -50"]
+[Auction "E"]
+1H      Pass    Pass    X
+Pass    1S      Pass    1NT
+Pass    2NT     Pass    Pass
+Pass
+[Play "E"]
+H2 H8 HJ HK
+DA D6 D4 DJ
+SK S3 S6 S4
+ST S5 S2 S9
+D5 D9 D7 D2
+DT DQ D8 DK
+HA H3 H7 H4
+CQ C7 C5 CA
+H5 S8 S7 D3
+C3 C9 CT C2
+CJ SA SQ C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "38"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KT.AT652.AT5.QJ3 A853.Q983.Q96.97 QJ762.J7.874.T65 94.K4.KJ32.AK842"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Auction "E"]
+1H      Pass    Pass    X
+Pass    1S      Pass    2C
+Pass    Pass    Pass
+[Play "E"]
+H5 H3 HJ HK
+H2 HQ H7 H4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "39"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A8762.AK654.QT4. J54.T.KJ975.QT32 KQT3.J82.86.AJ85 9.Q973.A32.K9764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+1S      Pass    2S      Pass
+3H      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+C2 CA C7 D4
+S4 SK S9 S2
+S5 SQ C4 S6
+SJ S3 D2 SA
+HT HJ HQ H4
+D9 D6 DA DT
+DK D8 D3 DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "39"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A8762.AK654.QT4. J54.T.KJ975.QT32 KQT3.J82.86.AJ85 9.Q973.A32.K9764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+1H      Pass    2C      Pass
+2S      Pass    3S      Pass
+4H      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+D7 D8 DA D4
+DJ D6 D3 DT
+C2 CA C7 DQ
+S4 SK S9 S2
+S5 SQ D2 S6
+SJ S3 C4 SA
+HT H2 H3 HA
+C3 H8 H7 HK
+CT HJ HQ H4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "40"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:762.8.AJT962.T76 Q5.AKJ762.K8.KQ3 AJ94.QT3.Q.AJ952 KT83.954.7543.84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "W"]
+Pass    1H      1S      Pass
+2S      3H      3S      Pass
+Pass    Pass
+[Play "S"]
+H4 H8 HK H3
+C4 C6 CK CA
+D5 DA D8 DQ
+D3 D2 DK S4
+C8 CT CQ C2
+S3 C7 C3 C5
+D4 DT SQ HT
+H5 S2 HA HQ
+SK S6 S5 SJ
+D7 D9 H2 C9
+S8 DJ H6 CJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "40"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:762.8.AJT962.T76 Q5.AKJ762.K8.KQ3 AJ94.QT3.Q.AJ952 KT83.954.7543.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "W"]
+Pass    1H      Pass    1S
+Pass    3H      Pass    Pass
+Pass
+[Play "E"]
+DQ D3 DA D8
+H3 D4 DT DK
+HT H4 H8 HJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "41"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQJ3.9765.K93.95 K842.KQT8.AQ7.A6 95.4.J2.KQT87432 T76.AJ32.T8654.J"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Auction "N"]
+Pass    1C      4C      4D
+Pass    5D      Pass    Pass
+Pass
+[Play "N"]
+SA S2 S9 S6
+SQ SK S5 S7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "41"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQJ3.9765.K93.95 K842.KQT8.AQ7.A6 95.4.J2.KQT87432 T76.AJ32.T8654.J"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "8"]
+[Auction "N"]
+Pass    1NT     4C      Pass
+Pass    Pass
+[Play "W"]
+D5 D3 DQ D2
+HA H5 HK H4
+S6 SJ SK S5
+D4 D9 DA DJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "42"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J.AQT53.AKJ82.T2 Q743.K.T3.A98543 K98652.862..KJ76 AT.J974.Q97654.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "E"]
+1H      Pass    1S      Pass
+2D      Pass    2S      Pass
+3H      Pass    Pass    Pass
+[Play "S"]
+S3 S2 ST SJ
+CA C6 CQ CT
+HK H2 H4 HA
+D3 H6 D4 D2
+C3 H8 H9 HQ
+DT S5 D5 DA
+S4 S6 D6 DK
+C4 C7 H7 H3
+C5 S8 D9 DJ
+C8 CK HJ C2
+C9 CJ DQ D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "42"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J.AQT53.AKJ82.T2 Q743.K.T3.A98543 K98652.862..KJ76 AT.J974.Q97654.Q"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "E"]
+1H      Pass    1S      Pass
+2D      Pass    2S      Pass
+Pass    Pass
+[Play "N"]
+CQ C2 C3 CK
+D6 CT CA C6
+SA SJ S3 S2
+H4 HA HK H2
+D4 DA D3 H6
+D5 DK DT C7
+D7 D2 C4 S5
+ST H3 S4 SK
+H7 H5 SQ S9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "43"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ43.J53.J.JT753 QT72.KQT.AT98.K9 965.A.Q652.AQ862 A8.987642.K743.4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Auction "S"]
+Pass    1S      Pass    1NT
+Pass    2D      Pass    Pass
+Pass
+[Play "N"]
+HA H2 H3 HT
+CA C4 C3 C9
+C2 S8 CT CK
+D2 DK DJ D8
+D5 D3 C5 DA
+D6 H4 H5 HK
+DQ D4 S4 D9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "43"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ43.J53.J.JT753 QT72.KQT.AT98.K9 965.A.Q652.AQ862 A8.987642.K743.4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1D      2C      2H
+3C      3H      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+DJ DA D2 D3
+H3 HK HA H2
+H5 D8 D5 D4
+C3 CK CA C4
+HJ D9 D6 D7
+CJ C9 C2 H4
+S3 S2 S5 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "44"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J832.973.AK5.A94 AQT94.A.JT842.75 K76.T8654.Q73.83 5.KQJ2.96.KQJT62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Auction "W"]
+Pass    Pass    Pass    3C
+Pass    Pass    Pass
+[Play "W"]
+DA D2 D7 D6
+DK D4 D3 D9
+D5 D8 DQ C2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "44"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J832.973.AK5.A94 AQT94.A.JT842.75 K76.T8654.Q73.83 5.KQJ2.96.KQJT62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1S      Pass    3C
+Pass    3D      Pass    3H
+Pass    3S      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+H3 HA H4 H2
+C4 C5 C8 CT
+CA C7 C3 CK
+S2 SA S6 S5
+DK D2 D3 D9
+S3 ST SK C2
+DA D4 D7 D6
+D5 D8 DQ C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "45"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT6.Q3.AJT52.987 9.J876542.K3.T53 A52.A9.Q974.KQ62 QJ8743.KT.86.AJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "5"]
+[Auction "N"]
+Pass    Pass    1C      1S
+1NT     2H      2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+H2 H9 HK H3
+H4 HA HT HQ
+DK D9 D6 D2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "45"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT6.Q3.AJT52.987 9.J876542.K3.T53 A52.A9.Q974.KQ62 QJ8743.KT.86.AJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Auction "N"]
+Pass    Pass    1C      1S
+2D      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+SQ S6 S9 SA
+D6 D2 DK D9
+CA C7 CT CK
+CJ C8 C3 CQ
+C4 C9 C5 C2
+D8 D5 D3 DQ
+S3 H3 H2 C6
+S4 ST H4 S2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "46"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J4.K.AKT743.K942 A.A743.QJ952.A53 Q98732.JT852.6.T KT65.Q96.8.QJ876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Auction "E"]
+1D      Pass    1S      Pass
+2D      Pass    2S      Pass
+Pass    X       Pass    3C
+Pass    Pass    Pass
+[Play "E"]
+DA D2 D6 D8
+D3 DQ CT CJ
+S4 SA S2 S5
+HK H3 H2 H6
+D4 D5 S3 H9
+D7 D9 S7 C6
+SJ H4 S8 SK
+DT C3 S9 S6
+DK DJ H5 C7
+C9 H7 SQ ST
+C2 C5 H8 C8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "46"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J4.K.AKT743.K942 A.A743.QJ952.A53 Q98732.JT852.6.T KT65.Q96.8.QJ876"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Score "NS 110"]
+[Auction "E"]
+1D      X       1S      2C
+Pass    2D      Pass    2S
+Pass    3C      Pass    Pass
+Pass
+[Play "E"]
+DA D2 D6 D8
+D7 DJ CT CJ
+S4 SA S2 S5
+HK HA H2 H6
+D3 D5 S3 C6
+SJ H3 S7 SK
+D4 C3 S8 S6
+DT D9 H5 C7
+DK C5 S9 ST
+C2 DQ H8 H9
+C4 CA HT C8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "47"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:942.52.A865.J752 AJT73.K.K2.QT843 .AQJT93.QJT93.A9 KQ865.8764.74.K6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1S      2H      4S
+Pass    Pass    4NT     Pass
+5D      5S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "N"]
+DQ D4 DA D2
+HA H4 H5 HK
+HQ H6 H2 S3
+H3 S5 S2 SA
+C9 CK C2 C3
+CA C6 C5 CT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "47"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:942.52.A865.J752 AJT73.K.K2.QT843 .AQJT93.QJT93.A9 KQ865.8764.74.K6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "12"]
+[Score "NS 620"]
+[Auction "S"]
+Pass    1C      2NT     Pass
+3D      Pass    3H      3S
+4D      4S      5D      Pass
+Pass    Pass
+[Play "W"]
+SA DQ S5 S2
+DK DJ D4 D5
+C4 CA C6 C2
+D2 D3 D7 DA
+HK HA H4 H2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "48"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT95.A2.J65.J432 KQ32.Q875.2.A875 64.K963.Q9743.T9 J87.JT4.AKT8.KQ6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "W"]
+Pass    Pass    Pass    1D
+Pass    1H      Pass    1NT
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+ST S2 S4 SJ
+S5 S3 S6 S8
+H2 H5 HK HT
+DJ D2 D3 D8
+HA H7 H3 H4
+SA SQ D9 S7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "48"]
+[West "Kehela"]
+[North "d\\'Alelio"]
+[East "Murray"]
+[South "Pabis Ticci"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT95.A2.J65.J432 KQ32.Q875.2.A875 64.K963.Q9743.T9 J87.JT4.AKT8.KQ6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "W"]
+Pass    2C      Pass    2NT
+Pass    3D      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+ST S2 S4 SJ
+H2 H5 HK HT
+D5 D2 D4 DA
+HA H7 H3 H4
+DJ C5 D3 D8
+SA S3 S6 S7
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "49"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8642.J3.J62.AT95 K975.QT8754.98.8 AQJ3.A62.KQ74.J7 T.K9.AT53.KQ6432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "N"]
+Pass    Pass    1D      2C
+Pass    2H      2S      Pass
+3S      Pass    Pass    Pass
+[Play "W"]
+CQ CA C8 C7
+ST S2 S5 SQ
+D3 DJ D8 D4
+C2 S4 S7 SJ
+C3 C5 S9 CJ
+DA D2 D9 DK
+HK H3 H4 H2
+H9 HJ HQ HA
+C4 S6 SK SA
+C6 S8 H5 H6
+D5 D6 H7 DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "49"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8642.J3.J62.AT95 K975.QT8754.98.8 AQJ3.A62.KQ74.J7 T.K9.AT53.KQ6432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+Pass    2H      Pass    Pass
+Pass
+[Play "S"]
+DK D3 D2 D8
+D4 DA D6 D9
+D7 D5 DJ H4
+C7 CK CA C8
+CJ CQ C5 S5
+SJ ST S2 S7
+HA H9 H3 H5
+H2 HK HJ H7
+DQ DT S4 H8
+H6 C2 C9 HQ
+SA C3 S6 SK
+SQ C4 S8 S9
+S3 C6 CT HT
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "50"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q53.843.732.T863 K642.J76.T86.J54 J987.KQ2.AKJ.A97 AT.AT95.Q954.KQ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "E"]
+Pass    Pass    1NT     Pass
+Pass    Pass
+[Play "N"]
+D4 D2 DT DJ
+ST SQ SK S9
+D5 D3 D8 DA
+SA S3 S2 S7
+DQ D7 D6 DK
+HT S5 S4 SJ
+H5 C3 S6 S8
+HA H3 H6 HK
+D9 C6 C4 C7
+H9 H4 H7 HQ
+C2 C8 C5 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "50"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q53.843.732.T863 K642.J76.T86.J54 J987.KQ2.AKJ.A97 AT.AT95.Q954.KQ2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "E"]
+Pass    Pass    1NT     Pass
+Pass    Pass
+[Play "N"]
+D4 D2 DT DJ
+SA S3 S2 S7
+DQ D3 D6 DA
+ST SQ SK S8
+HA H3 H6 HK
+HT H4 H7 H2
+H5 H8 HJ HQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "51"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJT9753.J5.AJ.A8 K6.AT7.KT62.K754 82.Q864.Q54.9632 Q4.K932.9873.QJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "S"]
+1S      X       Pass    1NT
+2S      Pass    Pass    Pass
+[Play "W"]
+D2 D4 D7 DJ
+S6 S2 S4 SA
+SK S8 SQ S9
+DK D5 D3 DA
+H7 H4 HK HJ
+C4 C2 CJ CA
+HT HQ H2 H5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "51"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJT9753.J5.AJ.A8 K6.AT7.KT62.K754 82.Q864.Q54.9632 Q4.K932.9873.QJT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "S"]
+1S      X       Pass    2H
+3S      Pass    Pass    Pass
+[Play "W"]
+HA H4 H9 H5
+HT H6 HK HJ
+C7 C2 CQ CA
+C4 C3 CT C8
+DK D4 D9 DJ
+C5 C9 CJ S3
+S6 S2 S4 SA
+SK S8 SQ SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "52"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9.Q4.AKQJ642.KJ9 AJ7.KT95.975.763 K652.J32.T.AQ852 QT843.A876.83.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Score "NS -690"]
+[Auction "W"]
+1D      Pass    1S      Pass
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+S4 S9 SA S2
+S3 H4 SJ SK
+C4 CK C3 C2
+D3 DA D5 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "52"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9.Q4.AKQJ642.KJ9 AJ7.KT95.975.763 K652.J32.T.AQ852 QT843.A876.83.T4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "W"]
+1D      Pass    2C      Pass
+3D      Pass    3S      Pass
+4C      Pass    5C      Pass
+5D      Pass    Pass    Pass
+[Play "N"]
+H5 H2 HA H4
+HK H3 H6 HQ
+SA S2 S3 S9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "53"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ64.AQ62.T97.72 K32.5.K864.AT965 A98.KT74.53.KQ83 T75.J983.AQJ2.J4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    Pass    1C      1D
+X       3D      Pass    Pass
+Pass
+[Play "N"]
+C7 CA C8 C4
+HQ H5 H4 HJ
+SQ S2 S8 S5
+SJ SK SA S7
+C2 C5 CQ CJ
+S6 C6 C3 DQ
+D7 D4 D3 DA
+D9 D6 D5 DJ
+DT DK H7 D2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "53"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ64.AQ62.T97.72 K32.5.K864.AT965 A98.KT74.53.KQ83 T75.J983.AQJ2.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass    Pass    1H      Pass
+2H      X       Pass    3D
+3H      Pass    Pass    Pass
+[Play "W"]
+S5 SQ S2 S8
+H3 H2 H5 HK
+H8 HQ C5 H4
+C4 C2 C6 CK
+DJ D7 D4 D3
+DA D9 D6 D5
+D2 DT DK H7
+HJ HA D8 HT
+CJ C7 C9 CQ
+S7 S4 S3 SA
+ST SJ SK S9
+DQ H6 CA C3
+H9 S6 CT C8
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "54"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:743.43.KT65.AKJ8 AJ98.AJ976.7.QT2 T652.Q852.942.54 KQ.KT.AQJ83.9763"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "E"]
+Pass    1H      Pass    2D
+Pass    2H      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+CK C2 C4 C3
+C8 CT C5 C6
+H3 H6 H2 HK
+H4 HJ HQ HT
+D5 D7 D2 DA
+S3 S8 S2 SK
+S4 SA S5 SQ
+S7 SJ S6 D3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "54"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:743.43.KT65.AKJ8 AJ98.AJ976.7.QT2 T652.Q852.942.54 KQ.KT.AQJ83.9763"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    1S      Pass    2D
+Pass    2H      Pass    3C
+X       3H      Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+C5 C3 CA C2
+C4 C6 CK CT
+H2 C7 C8 CQ
+D2 DA D5 D7
+D4 D3 D6 H6
+S2 SK S3 S8
+S5 SQ S4 SA
+S6 C9 S7 SJ
+ST HK DT S9
+HQ HT H3 H7
+D9 DQ DK H9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "55"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T82.AT65.AK8.AQ3 64.J9832.Q942.K6 AQ3.K7.T765.J542 KJ975.Q4.J3.T987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+1NT     Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+H3 H7 HQ H5
+H2 HK H4 H6
+CK C2 C7 CQ
+S4 S3 SJ S2
+C6 C4 CT CA
+D2 D5 D3 DA
+D4 D6 DJ D8
+H8 CJ C9 C3
+D9 D7 S9 DK
+H9 C5 S5 HA
+S6 SQ SK S8
+HJ DT C8 ST
+DQ SA S7 HT
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "55"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T82.AT65.AK8.AQ3 64.J9832.Q942.K6 AQ3.K7.T765.J542 KJ975.Q4.J3.T987"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+1C      Pass    1S      Pass
+1NT     Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+H3 H7 HQ H5
+H2 HK H4 H6
+CK C2 C7 CQ
+S6 S3 SJ S2
+C6 C4 C9 CA
+D2 D5 DJ D8
+H8 CJ C8 C3
+D4 D6 D3 DA
+D9 D7 S5 DK
+S4 SA S7 S8
+DQ DT S9 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "56"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:63.K6.AQT94.K732 T542.T7432.J3.96 J87.QJ95.872.Q84 AKQ9.A8.K65.AJT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2DX"]
+[Result "8"]
+[Score "NS -180"]
+[Auction "W"]
+1D      Pass    1H      X
+Pass    Pass    1NT     X
+2C      Pass    Pass    X
+2D      Pass    Pass    X
+Pass    Pass    Pass
+[Play "N"]
+DJ D2 D5 DQ
+H2 H5 H8 HK
+H3 HJ HA H6
+S5 S7 SA S3
+S2 S8 SK S6
+S4 SJ SQ D4
+C6 CQ CA C2
+C9 C4 CJ CK
+H4 C8 CT C3
+D3 D7 C5 C7
+H7 D8 D6 D9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "56"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:63.K6.AQT94.K732 T542.T7432.J3.96 J87.QJ95.872.Q84 AKQ9.A8.K65.AJT5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "W"]
+1D      Pass    1H      X
+Pass    1S      Pass    2H
+Pass    2S      Pass    Pass
+Pass
+[Play "E"]
+D8 D5 DQ D3
+D2 D6 DA DJ
+D7 DK D4 C6
+C4 CA C2 C9
+C8 C5 C3 S2
+H5 HA H6 H2
+CQ CT C7 S4
+S7 SA S3 S5
+SJ CJ CK ST
+H9 H8 HK H3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "57"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK543.8.J3.QJ942 87.Q97.9542.AT65 QT9.JT432.AQ76.3 J62.AK65.KT8.K87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "N"]
+1S      Pass    2H      Pass
+2S      Pass    3S      Pass
+Pass    Pass
+[Play "E"]
+S8 SQ S2 S3
+CT C3 C7 C9
+S7 S9 SJ SA
+C5 ST C8 C2
+H7 H2 HK H8
+C6 H3 CK C4
+H9 D6 S6 SK
+D2 D7 DK DJ
+HQ H4 H5 S4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "57"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK543.8.J3.QJ942 87.Q97.9542.AT65 QT9.JT432.AQ76.3 J62.AK65.KT8.K87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "N"]
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+H7 H2 HA H8
+S7 S9 S2 S3
+C5 C3 CK C2
+S8 ST S6 SA
+C6 SQ C7 C4
+H9 H3 H5 S4
+D2 H4 SJ SK
+CA HT C8 CQ
+D4 D6 DK D3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "58"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J62.QT3.8.AQ9752 AQ97.AJ64.AK7.K8 3.97.T96532.JT64 KT854.K852.QJ4.3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS 1430"]
+[Auction "E"]
+Pass    2NT     Pass    3C
+X       3S      Pass    4C
+X       4H      Pass    4S
+Pass    6S      Pass    Pass
+Pass
+[Play "W"]
+CT C3 CA C8
+D2 DJ D8 D7
+S3 S4 S2 SA
+D3 SK S6 S7
+C4 S5 SJ SQ
+D5 ST C2 S9
+D6 D4 C5 DK
+D9 DQ C7 DA
+C6 H2 C9 CK
+H7 HK H3 H4
+H9 H5 HT HJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "58"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J62.QT3.8.AQ9752 AQ97.AJ64.AK7.K8 3.97.T96532.JT64 KT854.K852.QJ4.3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Score "NS 680"]
+[Auction "E"]
+Pass    2NT     Pass    3C
+X       3H      Pass    3S
+Pass    4C      Pass    4H
+Pass    4S      Pass    5C
+Pass    5D      Pass    5S
+Pass    Pass    Pass
+[Play "E"]
+D8 DA D2 D4
+S2 SA S3 S4
+S6 SQ D3 S5
+SJ S7 D5 SK
+CA C8 C4 C3
+C2 CK C6 H2
+C5 DK D6 DJ
+C7 D7 D9 DQ
+H3 H4 H7 HK
+HT HJ H9 H5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "59"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT2.K873.954.63 AJ87.A4.8.KQJT92 953.JT5.AK72.A85 64.Q962.QJT63.74"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "S"]
+Pass    1S      Pass    1NT
+Pass    2C      Pass    Pass
+Pass
+[Play "N"]
+DK D3 D4 D8
+CA C4 C6 C2
+C5 C7 C3 C9
+C8 H2 H8 CK
+D2 D6 D5 CQ
+S9 S4 S2 S8
+HJ HQ HK HA
+H5 DT H3 CJ
+HT H6 H7 H4
+DA DJ D9 CT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "59"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT2.K873.954.63 AJ87.A4.8.KQJT92 953.JT5.AK72.A85 64.Q962.QJT63.74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Score "NS -150"]
+[Auction "S"]
+Pass    1C      1D      Pass
+1S      2C      2S      Pass
+Pass    Pass
+[Play "W"]
+CK C5 C7 C3
+CQ CA C4 C6
+SJ S9 S4 S2
+CJ C8 D3 D4
+CT S3 S6 ST
+D8 DA D6 D5
+HA HJ H2 H3
+SA S5 DQ SQ
+C9 D2 H6 SK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "60"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:86.Q75.Q96.AK954 K4.AKJ6.85.QJT72 QJ953.T93.AK73.6 AT72.842.JT42.83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Auction "W"]
+Pass    1C      1S      Pass
+1NT     Pass    Pass    Pass
+[Play "N"]
+HA H3 H2 H7
+CQ C6 C3 CA
+S4 SQ SA S6
+HJ H9 H8 H5
+CJ HT C8 CK
+SK S3 S2 S8
+HK D3 H4 HQ
+H6 S5 D2 D6
+CT S9 S7 C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "60"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:86.Q75.Q96.AK954 K4.AKJ6.85.QJT72 QJ953.T93.AK73.6 AT72.842.JT42.83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "W"]
+Pass    1H      1S      Pass
+1NT     Pass    2D      Pass
+2S      Pass    Pass    Pass
+[Play "S"]
+H4 H5 HJ H3
+H8 H7 HK H9
+H2 HQ HA HT
+DT DQ D8 D3
+SA S6 S4 SQ
+C8 CA C2 C6
+C3 CK C7 D7
+S2 S8 SK S3
+ST C4 CQ S9
+D2 D6 D5 DA
+S7 C5 H6 SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "61"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKJ94.Q765.J5.KQ T852.JT9.Q43.AJ6 Q7.842.AKT862.T4 63.AK3.97.987532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "11"]
+[Score "NS 200"]
+[Auction "N"]
+1S      Pass    1NT     Pass
+2H      Pass    Pass    Pass
+[Play "E"]
+HT H2 HK H5
+H9 H4 HA H6
+HJ H8 H3 HQ
+D3 DA D7 DJ
+D4 DK D9 D5
+DQ D2 C2 H7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "61"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKJ94.Q765.J5.KQ T852.JT9.Q43.AJ6 Q7.842.AKT862.T4 63.AK3.97.987532"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+1H      Pass    1NT     Pass
+2S      Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+C9 CQ C6 C4
+D7 DJ DQ DA
+D9 D5 D3 DK
+C2 H5 D4 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "62"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QT86.AQ63.4.A974 KJ3.JT98.875.KQ3 A95.5.AKQ932.862 742.K742.JT6.JT5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "E"]
+2C      Pass    2NT     Pass
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+CJ CA C3 C2
+D6 D4 D5 DA
+DT C4 D7 DK
+DJ C7 D8 DQ
+S2 H3 HJ D9
+H2 H6 H8 D3
+S4 S6 H9 D2
+S7 S8 S3 SA
+C5 C9 CQ C6
+CT HQ CK C8
+H4 ST SK S5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "62"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QT86.AQ63.4.A974 KJ3.JT98.875.KQ3 A95.5.AKQ932.862 742.K742.JT6.JT5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1C      Pass    2D      Pass
+2H      Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+HJ H5 H2 HQ
+D5 DA D6 D4
+D7 DK DT C4
+D8 DQ DJ C7
+H8 D9 S2 C9
+H9 D3 S4 H3
+HT D2 H4 H6
+SJ S9 S7 S6
+C3 C2 CT CA
+CQ C6 H7 HA
+S3 S5 C5 SQ
+SK SA HK S8
+CK C8 CJ ST
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "63"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.AKJT86.KQJ8.972 KQ98.9753.T743.3 A7532.Q4.A9.KJ64 JT64.2.652.AQT85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -200"]
+[Auction "S"]
+1H      Pass    1S      Pass
+3H      Pass    4NT     Pass
+5D      Pass    6H      Pass
+Pass    Pass
+[Play "W"]
+C3 CJ CQ C7
+D3 C4 CA C2
+H3 C6 CT C9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "63"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.AKJT86.KQJ8.972 KQ98.9753.T743.3 A7532.Q4.A9.KJ64 JT64.2.652.AQT85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -100"]
+[Auction "S"]
+1D      Pass    2C      Pass
+2H      Pass    2S      Pass
+3H      Pass    4D      Pass
+5H      Pass    6H      Pass
+Pass    Pass
+[Play "W"]
+C3 CJ CQ C9
+S9 SA SJ C7
+S8 S2 S4 H6
+DT DA D2 D8
+SQ S3 S6 HT
+H9 HQ H2 H8
+H3 H4 CT HJ
+H5 S5 C5 HA
+H7 S7 D5 HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Open"]
+[Board "64"]
+[West "Walter Avarelli"]
+[North "Edgar Kaplan"]
+[East "Giorgio Belladonna"]
+[South "Norman Kay"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J9.QT7.KT975.AKJ 54.A942.Q63.9764 AQT862.K8.J842.8 K73.J653.A.QT532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "W"]
+1C      Pass    2S      Pass
+3D      Pass    4S      Pass
+Pass    Pass
+[Play "S"]
+DA D5 D3 D2
+H6 H7 HA H8
+S3 D7 D6 D4
+H3 HT H2 HK
+C2 CA C4 C8
+SK SJ S4 S2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.02"]
+[Room "Closed"]
+[Board "64"]
+[West "Sammy Kehela"]
+[North "Pietro Forquet"]
+[East "Eric Murray"]
+[South "Benito Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J9.QT7.KT975.AKJ 54.A942.Q63.9764 AQT862.K8.J842.8 K73.J653.A.QT532"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "W"]
+1D      Pass    1S      Pass
+1NT     Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+C6 C8 CQ CA
+S5 S2 SK SJ
+H2 H8 H3 HT
+HA HK H5 H7
+H4 D2 HJ HQ
+C4 D4 C2 CK
+C7 D8 C3 CJ
+S4 SA S3 S9
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "65"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K32.K8.K92.T6532 Q96.97.T843.K984 J8.QJ543.J76.QJ7 AT754.AT62.AQ5.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+Pass    1D      Pass    1S
+Pass    1NT     Pass    2H
+Pass    2S      Pass    Pass
+Pass
+[Play "N"]
+C3 C4 CJ CA
+H8 H9 HJ H2
+DK D3 D6 DQ
+D2 DT DJ DA
+HK H7 H3 HA
+SK D4 H4 H6
+D9 D8 D7 D5
+C5 CK C7 HT
+S2 S6 S8 SA
+S3 SQ SJ S4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "65"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K32.K8.K92.T6532 Q96.97.T843.K984 J8.QJ543.J76.QJ7 AT754.AT62.AQ5.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    Pass    Pass    1S
+Pass    2S      Pass    3H
+Pass    3S      Pass    4S
+Pass    Pass    Pass
+[Play "N"]
+C3 C9 CJ CA
+H8 H7 HJ H6
+S2 S6 S8 SA
+HK H9 H3 HA
+D2 S9 H4 H2
+C2 CK C7 D5
+DK D3 D6 DQ
+SK SQ SJ S4
+C5 C8 CQ S5
+S3 C4 D7 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "66"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ65.J97.KQ98.J9 743.QT82.A43.K73 A98.AK4.J6.AT865 KT2.653.T752.Q42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "E"]
+Pass    Pass    1NT     Pass
+2C      Pass    2NT     Pass
+3C      Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+D2 D8 D3 D6
+C2 CJ CK CA
+CQ C9 C3 C5
+H6 H7 H8 HK
+SK S5 S3 S9
+H5 HJ HQ HA
+C4 H9 C7 CT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "66"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ65.J97.KQ98.J9 743.QT82.A43.K73 A98.AK4.J6.AT865 KT2.653.T752.Q42"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass    Pass    1NT     Pass
+2D      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+D2 D8 D3 D6
+C2 CJ CK CA
+CQ C9 C3 C5
+H6 H7 H8 HK
+SK S5 S3 S9
+H5 HJ HQ HA
+C4 H9 C7 CT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "67"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT.QJ53.AQ9.AT62 AKQ8.K97.KJ6.J85 976.T842.832.KQ4 5432.A6.T754.973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS -90"]
+[Auction "S"]
+1NT     X       Pass    2D
+Pass    Pass    Pass
+[Play "S"]
+SJ SA S6 S2
+H3 H7 H2 HA
+D9 DJ D2 D4
+ST SK S7 S3
+DQ SQ S9 S4
+DA D6 D3 D5
+HQ HK H4 H6
+C6 DK D8 D7
+C2 CJ CQ C3
+H5 H9 HT DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "67"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:JT.QJ53.AQ9.AT62 AKQ8.K97.KJ6.J85 976.T842.832.KQ4 5432.A6.T754.973"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "S"]
+1C      1NT     Pass    Pass
+Pass
+[Play "N"]
+H2 HA H3 H7
+D2 D4 D9 DK
+S6 S2 ST SK
+S7 S3 SJ SQ
+S9 S4 C6 SA
+D3 S5 C2 S8
+D8 D5 DQ DJ
+H4 H6 H5 HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "68"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK872.KJ8.62.654 4.A532.KQJT53.T3 QJ3.QT64.74.A972 T965.97.A98.KQJ8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "W"]
+Pass    1D      Pass    1S
+Pass    2D      Pass    3D
+Pass    Pass    Pass
+[Play "E"]
+H4 H7 HK HA
+C2 CK C4 C3
+CA C8 C5 CT
+HQ H9 H8 H2
+SQ S5 S8 S4
+SJ S6 S2 D3
+D4 D8 D2 DK
+D7 DA D6 D5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "68"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK872.KJ8.62.654 4.A532.KQJT53.T3 QJ3.QT64.74.A972 T965.97.A98.KQJ8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+Pass    1D      Pass    1H
+1S      2D      2S      3D
+Pass    Pass    3S      Pass
+Pass    Pass
+[Play "N"]
+DQ D4 D9 D2
+C3 C2 CJ C4
+CT CA CQ C5
+S4 SQ S5 S2
+D3 SJ S6 S7
+H3 S3 S9 SA
+D5 H4 ST SK
+HA H6 H7 HK
+DT D7 DA D6
+H2 C7 CK C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "69"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A8.K732.KQ94.872 QJT932.J8.32.AQT 764.T96.T75.6543 K5.AQ54.AJ86.KJ9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+1D      1S      Pass    2D
+Pass    3S      Pass    4C
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+D5 DA D9 D2
+S4 SK SA S2
+D7 D6 DK D3
+S6 S5 S8 S9
+S7 H4 H2 SQ
+C3 H5 H3 SJ
+C4 HQ C2 ST
+C5 C9 C7 CA
+C6 CJ C8 CQ
+H6 CK H7 CT
+H9 HA HK H8
+DT D8 D4 S3
+HT DJ DQ HJ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "69"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A8.K732.KQ94.872 QJT932.J8.32.AQT 764.T96.T75.6543 K5.AQ54.AJ86.KJ9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+1C      1S      Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+DQ D2 D5 DA
+S8 S2 S4 SK
+SA S3 S6 S5
+D4 D3 DT DJ
+C2 CQ C3 CJ
+H2 SQ S7 H4
+H3 SJ C4 HQ
+H7 ST C5 D6
+C7 S9 H6 C9
+C8 CA C6 CK
+D9 CT H9 D8
+HK H8 HT HA
+DK HJ D7 H5
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "70"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQT5.AK85.T982.8 KJ2.QT64.J7.AKT3 9876.J.KQ4.J6542 43.9732.A653.Q97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "E"]
+1S      X       3S      Pass
+Pass    Pass
+[Play "S"]
+CK C2 C7 C8
+DJ DQ DA D2
+D7 D4 D6 D8
+H4 HJ H2 HA
+H6 DK H3 HK
+SJ C4 D3 DT
+CA C5 C9 S5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "70"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQT5.AK85.T982.8 KJ2.QT64.J7.AKT3 9876.J.KQ4.J6542 43.9732.A653.Q97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "E"]
+1H      X       Pass    1S
+Pass    1NT     Pass    Pass
+Pass
+[Play "W"]
+HJ H2 H8 HQ
+C2 H9 HK H4
+S6 S3 S5 SJ
+C4 C7 C8 CA
+C5 CQ D2 C3
+S8 H3 HA H6
+DQ DA DT DJ
+C6 C9 H5 CK
+S9 H7 ST HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "71"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QJT752.QJ4.QJT4. 6.8763.96.AK8752 AK83.AT5.532.J43 94.K92.AK87.QT96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS -200"]
+[Auction "S"]
+Pass    Pass    1S      X
+4S      X       Pass    Pass
+Pass
+[Play "E"]
+DA D4 D9 D2
+DK DT D6 D3
+D7 DJ S6 D5
+HK H4 H8 H5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "71"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QJT752.QJ4.QJT4. 6.8763.96.AK8752 AK83.AT5.532.J43 94.K92.AK87.QT96"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1S      Pass    2S      Pass
+3S      Pass    Pass    Pass
+[Play "W"]
+CA C3 C6 S2
+S6 SA S4 S5
+H8 SK S9 S7
+D6 D2 D7 DQ
+H3 HT HK H4
+D9 D3 DA D4
+C2 D5 DK DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "72"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q84.K743.AK982.9 AK96.AQ8.73.AT83 JT32.T6.T.KQJ542 75.J952.QJ654.76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "W"]
+1D      X       2C      Pass
+Pass    Pass
+[Play "S"]
+S7 S4 SA S2
+S5 S8 SK S3
+C6 SQ S9 ST
+H2 H3 HQ H6
+H5 H4 HA HT
+C7 C9 S6 SJ
+H9 H7 H8 C2
+D4 D2 CA CQ
+DJ DK D7 DT
+D5 D8 D3 C4
+D6 D9 C3 CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "72"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q84.K743.AK982.9 AK96.AQ8.73.AT83 JT32.T6.T.KQJ542 75.J952.QJ654.76"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2CX"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "W"]
+1D      X       2C      Pass
+Pass    X       Pass    Pass
+Pass
+[Play "S"]
+S7 S4 SA S2
+S5 S8 SK S3
+C6 SQ S9 ST
+H2 H3 HQ H6
+H5 H4 HA HT
+C7 C9 S6 SJ
+H9 H7 H8 C2
+D4 D2 CA CQ
+DJ DK D7 DT
+D5 D8 D3 C4
+D6 D9 C3 CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "73"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q.Q975.T5.AJ9852 AT98.JT83.KJ98.6 KJ54.A4.A742.T74 7632.K62.Q63.KQ3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "E"]
+D8 D2 DQ D5
+DJ DA D6 DT
+C6 CT CK CA
+H8 C4 C3 CJ
+ST C7 CQ C2
+D9 D4 D3 H5
+DK D7 H2 H7
+H3 H4 HK H9
+HT HA H6 HQ
+SA S4 S2 SQ
+S9 SJ S3 C5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "73"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q.Q975.T5.AJ9852 AT98.JT83.KJ98.6 KJ54.A4.A742.T74 7632.K62.Q63.KQ3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1H      Pass    1S      Pass
+2C      Pass    Pass    Pass
+[Play "W"]
+D3 D5 D8 DA
+S2 SQ SA S4
+D6 DT DJ D2
+DQ C2 D9 D4
+C3 CA C6 C4
+CQ C5 H8 C7
+CK C8 H3 CT
+S3 H5 S8 SJ
+S6 H7 S9 SK
+H2 C9 DK D7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "74"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:973.K8653.654.KJ 62.T2.92.Q986532 QJ5.AQ4.KJT73.74 AKT84.J97.AQ8.AT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "E"]
+Pass    Pass    1D      1S
+Pass    Pass    Pass
+[Play "E"]
+D5 D9 DT DQ
+D4 D2 D3 DA
+D6 S2 D7 D8
+H3 H2 HA H7
+S3 S6 S5 SA
+S7 C2 SJ SK
+S9 C3 SQ S8
+H5 C5 DK S4
+H6 HT HQ HJ
+CJ C6 C4 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "74"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:973.K8653.654.KJ 62.T2.92.Q986532 QJ5.AQ4.KJT73.74 AKT84.J97.AQ8.AT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "E"]
+Pass    Pass    1D      1NT
+Pass    2C      Pass    2D
+Pass    3C      Pass    Pass
+Pass
+[Play "W"]
+DJ DQ D4 D2
+C4 CA CJ C2
+S5 SA S3 S2
+SJ SK S7 S6
+SQ S4 S9 C8
+DT DA D5 D9
+C7 ST H3 HT
+HA H7 H8 H2
+H4 H9 HK C3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "75"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QT742.632.A85.53 A.T8754.K43.T842 K863.KJ.T72.AQJ6 J95.AQ9.QJ96.K97"]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    Pass    1C      X
+1S      2H      2S      Pass
+Pass    3C      Pass    Pass
+3S      Pass    Pass    Pass
+[Play "W"]
+H5 HJ HQ H2
+D3 D2 DJ D5
+D4 D7 D6 DA
+SA S3 S5 S2
+DK DT D9 D8
+H4 HK HA H3
+H7 S8 H9 H6
+C8 SK S9 S4
+C4 S6 SJ SQ
+C2 CJ CK C5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "75"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QT742.632.A85.53 A.T8754.K43.T842 K863.KJ.T72.AQJ6 J95.AQ9.QJ96.K97"]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    Pass    1NT     Pass
+2S      Pass    3S      Pass
+Pass    Pass
+[Play "W"]
+H7 HJ HQ H2
+D3 D2 DQ D5
+D4 D7 D6 DA
+C2 CQ CK C5
+H4 HK HA H3
+DK DT D9 D8
+C4 CJ C7 C3
+C8 C6 C9 S7
+SA S3 S5 S2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "76"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJ743.Q.AT8.J97 T6.72.J942.K8632 92.AK96.7653.QT5 K85.JT8543.KQ.A4"]
+[Scoring "Chicago"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "W"]
+1S      Pass    1NT     2H
+2S      Pass    Pass    Pass
+[Play "N"]
+H7 HA H3 HQ
+H2 HK H4 D8
+S6 S2 S5 SQ
+ST S9 S8 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "76"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJ743.Q.AT8.J97 T6.72.J942.K8632 92.AK96.7653.QT5 K85.JT8543.KQ.A4"]
+[Scoring "Chicago"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "W"]
+1S      Pass    1NT     2H
+2S      Pass    Pass    Pass
+[Play "N"]
+H7 HA H3 HQ
+H2 HK H4 D8
+S6 S2 S5 SQ
+ST S9 S8 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "77"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K6.AK954.QJT6.52 Q9874.Q3.973.A86 AJT.JT876.84.KQ9 532.2.AK52.JT743"]
+[Scoring "Chicago"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "N"]
+1H      Pass    3NT     Pass
+4H      Pass    Pass    Pass
+[Play "E"]
+D7 D8 DK D6
+D9 D4 DA DT
+H3 H6 H2 HA
+HQ H7 C3 HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "77"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:K6.AK954.QJT6.52 Q9874.Q3.973.A86 AJT.JT876.84.KQ9 532.2.AK52.JT743"]
+[Scoring "Chicago"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "N"]
+1D      Pass    1NT     Pass
+2H      Pass    3H      Pass
+Pass    Pass
+[Play "E"]
+S9 SJ S2 S6
+H3 H6 H2 HA
+HQ H7 C3 HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "78"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:JT742.Q954.KQ.92 8.6.A643.AKQJ743 AQ.KJ2.8752.T865 K9653.AT873.JT9."]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass    1C      Pass    1S
+Pass    2D      Pass    2H
+Pass    3C      Pass    3H
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+SA S3 S2 S8
+SQ S5 S4 H6
+HK HA H4 D3
+D5 SK S7 D4
+D2 D9 DQ DA
+C5 H3 C2 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "78"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:JT742.Q954.KQ.92 8.6.A643.AKQJ743 AQ.KJ2.8752.T865 K9653.AT873.JT9."]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "E"]
+Pass    1D      Pass    1S
+Pass    3C      Pass    3H
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+D8 D9 DQ DA
+C5 H3 C2 CA
+C6 H7 C9 CK
+C8 H8 S2 CQ
+CT HT H5 CJ
+H2 S3 H9 C7
+HJ S5 S4 C4
+SQ S6 S7 C3
+D2 DT DK D3
+HK HA H4 H6
+D5 DJ HQ D4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "79"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K64.T954.KQ964.T J853.73.J82.AQ84 AT9.AQ2.T3.KJ972 Q72.KJ86.A75.653"]
+[Scoring "Chicago"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "10"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1D      Pass    1NT     Pass
+Pass    Pass
+[Play "E"]
+H6 HT H3 H2
+D5 D4 D2 DT
+D7 DK D8 D3
+DA D6 DJ C2
+C3 CT CA C7
+HK H4 H7 HQ
+H8 H5 S3 HA
+C5 H9 C4 CK
+S2 SK S5 S9
+C6 DQ S8 C9
+S7 D9 C8 CJ
+SQ S6 SJ SA
+HJ S4 CQ ST
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "79"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K64.T954.KQ964.T J853.73.J82.AQ84 AT9.AQ2.T3.KJ972 Q72.KJ86.A75.653"]
+[Scoring "Chicago"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "S"]
+Pass    Pass    1C      Pass
+1D      Pass    1H      Pass
+2H      Pass    Pass    Pass
+[Play "E"]
+C6 CT CA C2
+SQ SK S3 S9
+HK H4 H3 HQ
+S2 S4 S8 ST
+D5 DK D2 D3
+S7 S6 S5 SA
+D7 D4 DJ DT
+H6 H9 SJ H2
+DA DQ D8 C7
+H8 H5 H7 HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "80"]
+[West "Forquet"]
+[North "Kaplan"]
+[East "Garozzo"]
+[South "Kay"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A7.T973.AJT754.Q KT82.AKQ5.K9.AJ7 Q95.J6.863.K8642 J643.842.Q2.T953"]
+[Scoring "Chicago"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "W"]
+Pass    2NT     Pass    Pass
+Pass
+[Play "E"]
+C2 CT CQ CA
+S5 S3 SA SK
+D3 DQ DJ D9
+SQ S4 S7 ST
+D6 D2 DA DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "80"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A7.T973.AJT754.Q KT82.AKQ5.K9.AJ7 Q95.J6.863.K8642 J643.842.Q2.T953"]
+[Scoring "Chicago"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "W"]
+Pass    1NT     Pass    Pass
+2D      2H      Pass    2S
+Pass    Pass    Pass
+[Play "W"]
+CQ CA C8 C3
+SA S2 S9 SJ
+DA D9 D3 D2
+D4 DK D6 DQ
+S7 SK S5 S3
+D7 CJ CK C5
+D5 S8 SQ S4
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "81"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K876.KJ7643.J3.3 AT542.T52.K8.A98 QJ93.8.AT94.KQT4 .AQ9.Q7652.J7652"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "5"]
+[Score "NS 150"]
+[Auction "N"]
+2H      Pass    Pass    2NT
+Pass    Pass    Pass
+[Play "N"]
+S6 S2 S9 D2
+HJ H2 H8 H9
+S7 SA S3 D5
+C3 CA C4 C2
+H3 C9 CQ C5
+SK S4 SQ HQ
+H4 H5 D4 HA
+D3 DK DA D6
+S8 S5 SJ C6
+DJ D8 DT DQ
+H6 C8 D9 D7
+H7 HT CK C7
+HK ST CT CJ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "81"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K876.KJ7643.J3.3 AT542.T52.K8.A98 QJ93.8.AT94.KQT4 .AQ9.Q7652.J7652"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Auction "N"]
+Pass    1S      Pass    1NT
+Pass    Pass    Pass
+[Play "N"]
+H6 H2 H8 H9
+C3 CA C4 C2
+H3 C8 CT CJ
+D3 DK DA D2
+SK SA S3 D7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "82"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJ74.T8.A93.KQ94 QT95.Q94.KJT.T32 K63.K7652.752.AJ 82.AJ3.Q864.8765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "E"]
+1S      Pass    2H      Pass
+2NT     Pass    Pass    Pass
+[Play "S"]
+C2 CA C5 C4
+S5 S3 S8 SA
+S9 SK S2 S4
+C3 CJ C6 C9
+SQ S6 D8 SJ
+ST H2 C8 S7
+HQ HK HA H8
+H4 H5 HJ HT
+CT D2 C7 CQ
+DJ D5 H3 CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "82"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJ74.T8.A93.KQ94 QT95.Q94.KJT.T32 K63.K7652.752.AJ 82.AJ3.Q864.8765"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "E"]
+1NT     Pass    2C      Pass
+2S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+C3 CJ C5 C4
+S5 SK S2 S4
+SQ S6 S8 SJ
+DK D2 D4 D3
+DJ D5 D6 D9
+DT D7 D8 DA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "83"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AK3.8753.KQ4.KJ2 872.JT6.AT5.A865 9654.AK42.J32.T7 QJT.Q9.9876.Q943"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "S"]
+1NT     Pass    2C      Pass
+2H      Pass    3H      Pass
+Pass    Pass
+[Play "W"]
+HJ H2 HQ H3
+S2 S4 SQ SA
+H6 HA H9 H5
+HT HK D9 H7
+CA C7 C3 CK
+S8 S9 ST SK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "83"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AK3.8753.KQ4.KJ2 872.JT6.AT5.A865 9654.AK42.J32.T7 QJT.Q9.9876.Q943"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "S"]
+1C      Pass    1D      Pass
+1H      Pass    2H      Pass
+Pass    Pass
+[Play "W"]
+S8 S9 ST SA
+H6 HA H9 H3
+CA CT C3 C2
+S2 S4 SJ SK
+HT HK HQ H5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "84"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J8.AQ843.KT.J976 AT96.62.875.AK82 KQ742.JT7.AJ43.Q 53.K95.Q962.T543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+2H      Pass    2S      Pass
+3C      Pass    4H      Pass
+Pass    Pass
+[Play "N"]
+CK CQ C3 C6
+D8 D3 D2 DT
+SA S2 S3 SJ
+H2 HJ HK HA
+H6 HT H5 H3
+C2 H7 H9 HQ
+S9 SK S5 S8
+S6 SQ D6 C7
+ST S4 C4 H4
+D5 DA D9 DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "84"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J8.AQ843.KT.J976 AT96.62.875.AK82 KQ742.JT7.AJ43.Q 53.K95.Q962.T543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+2H      Pass    3H      Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+CK CQ C3 C6
+D7 D3 DQ DK
+SA S2 S3 S8
+D5 DA D2 DT
+H2 HJ H5 H3
+H6 H7 H9 HQ
+C2 HT C4 C7
+D8 D4 D6 H4
+S6 S4 HK HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "85"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQT53.T4.T3.AT4 9876.865.KJ95.73 J2.KQJ3.876.K652 4.A972.AQ42.QJ98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "N"]
+1S      Pass    1NT     Pass
+2S      Pass    3S      Pass
+3NT     Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+S9 SJ S4 S3
+S6 S2 C9 SA
+S7 C2 D4 SK
+S8 D6 H9 SQ
+H5 H3 HA HT
+DK D7 D2 DT
+D5 D8 DA D3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "85"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQT53.T4.T3.AT4 9876.865.KJ95.73 J2.KQJ3.876.K652 4.A972.AQ42.QJ98"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "N"]
+1S      Pass    2C      X
+3S      4D      4S      Pass
+Pass    Pass
+[Play "E"]
+D5 D6 DA D3
+DJ D7 D2 DT
+C7 C2 CJ CA
+S6 S2 S4 SA
+S7 SJ H7 SK
+S8 D8 H2 SQ
+S9 C5 C8 ST
+H5 H3 HA HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "86"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:64.AK632.J3.AKJ8 KQ9875.Q987..653 J.T5.AKQT852.Q74 AT32.J4.9764.T92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6SX"]
+[Result "8"]
+[Score "NS -800"]
+[Auction "E"]
+1H      2S      3D      4S
+4NT     Pass    6D      X
+Pass    6S      X       Pass
+Pass    Pass
+[Play "W"]
+DA D4 D3 S5
+H5 HJ HK H7
+C7 C2 CK C3
+CQ C9 C8 C5
+C4 CT CA C6
+HT H4 HA H8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "86"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:64.AK632.J3.AKJ8 KQ9875.Q987..653 J.T5.AKQT852.Q74 AT32.J4.9764.T92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6SX"]
+[Result "8"]
+[Score "NS -800"]
+[Auction "E"]
+1H      1S      2D      2S
+3C      Pass    3D      Pass
+5D      Pass    6D      Pass
+Pass    6S      X       Pass
+Pass    Pass
+[Play "W"]
+HT H4 HK H7
+C7 C2 CK C3
+CQ C9 C8 C5
+C4 CT CA C6
+H5 HJ HA H8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "87"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A54.AK6.Q82.T742 KQ92.Q4.T976.AJ3 763.J8.K43.KQ965 JT8.T97532.AJ5.8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "S"]
+1C      Pass    1NT     Pass
+Pass    Pass
+[Play "E"]
+HT H6 HQ H8
+H2 HA H4 HJ
+C8 CT CJ CK
+H9 C7 C3 C5
+S8 C2 CA C6
+SJ S4 SK S3
+ST S5 S2 S6
+H3 HK D7 D3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "87"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:A54.AK6.Q82.T742 KQ92.Q4.T976.AJ3 763.J8.K43.KQ965 JT8.T97532.AJ5.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "S"]
+1C      Pass    1S      Pass
+1NT     Pass    2C      Pass
+Pass    Pass
+[Play "W"]
+DT D3 D5 DQ
+C3 CK C8 C2
+H4 H8 H2 HA
+CA C5 H5 C4
+S2 S3 ST SA
+CJ CQ H3 C7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "88"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A5.KQ842.95.QT93 KJ764.AT3.QT8.85 Q83.975.A763.762 T92.J6.KJ42.AKJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "W"]
+Pass    Pass    Pass    1C
+1H      1S      Pass    Pass
+Pass
+[Play "E"]
+H7 H6 HQ HA
+C6 CA C3 C5
+SQ ST S5 S4
+S3 S2 SA S6
+H5 HJ HK H3
+H9 C4 H8 HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "88"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A5.KQ842.95.QT93 KJ764.AT3.QT8.85 Q83.975.A763.762 T92.J6.KJ42.AKJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "W"]
+Pass    Pass    Pass    1C
+1H      1S      Pass    Pass
+2C      2S      Pass    Pass
+Pass
+[Play "E"]
+H5 H6 HQ HA
+C6 CK C3 C5
+SQ ST S5 S4
+S3 S2 SA S6
+H7 HJ HK H3
+DA D2 D5 D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "89"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT9.K9.AQT85.753 652.A8743.K6.962 K74.T52.J932.AJ4 AQ83.QJ6.74.KQT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "N"]
+Pass    Pass    1D      X
+2NT     3H      Pass    Pass
+Pass
+[Play "S"]
+D2 D4 DQ DK
+H2 HJ HK H3
+D3 D7 DA D6
+S4 SQ SJ S2
+H5 HQ H9 H4
+HT H6 C3 HA
+C4 CK C5 C2
+S7 SA S9 S5
+SK S3 ST S6
+CA C8 C7 C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "89"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT9.K9.AQT85.753 652.A8743.K6.962 K74.T52.J932.AJ4 AQ83.QJ6.74.KQT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "6"]
+[Score "NS -150"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+1D      1H      2D      2H
+3D      Pass    Pass    Pass
+[Play "E"]
+C2 CA C8 C3
+DK D9 D4 D5
+C6 C4 CT C5
+C9 CJ CK C7
+HA H2 HQ HK
+H4 H5 HJ H9
+D6 D2 D7 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "90"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:43.T62.A543.AKT9 QT76.9854.98.J73 KJ98.AKQJ.KQ7.85 A52.73.JT62.Q642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "E"]
+Pass    Pass    1C      Pass
+2C      Pass    2NT     Pass
+3C      Pass    3H      Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+D6 D3 D8 DK
+H3 H2 H4 HA
+H7 H6 H5 HK
+S2 HT H8 HQ
+C2 C9 H9 HJ
+CQ CA C3 C5
+S5 S3 S6 SJ
+D2 DA D9 D7
+SA S4 SQ SK
+C4 CK C7 C8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "90"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:43.T62.A543.AKT9 QT76.9854.98.J73 KJ98.AKQJ.KQ7.85 A52.73.JT62.Q642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "11"]
+[Score "NS 100"]
+[Auction "E"]
+1C      Pass    1D      Pass
+2D      Pass    4NT     Pass
+5H      Pass    6NT     Pass
+Pass    Pass
+[Play "N"]
+H7 H2 H4 HA
+H3 H6 H5 HK
+S2 HT H8 HQ
+C2 C9 H9 HJ
+D2 DA D8 D7
+S5 S3 S7 S9
+C4 CA C3 C5
+SA S4 S6 S8
+C6 CK C7 C8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "91"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KT963.A.KQT986.6 AQJ84.86.74.AK85 52.KJT975.5.QJ97 7.Q432.AJ32.T432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+1D      1S      3H      Pass
+Pass    Pass
+[Play "E"]
+S7 S9 SJ S2
+H2 HA H6 H5
+DA DK D7 D5
+C2 C6 CK C7
+C3 S3 SA S5
+C4 S6 S4 HJ
+H3 D6 H8 HK
+HQ D8 S8 HT
+CT D9 CA C9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "91"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KT963.A.KQT986.6 AQJ84.86.74.AK85 52.KJT975.5.QJ97 7.Q432.AJ32.T432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "S"]
+1S      Pass    1NT     Pass
+2D      2S      3H      Pass
+Pass    Pass
+[Play "E"]
+S7 S3 S4 S2
+DA D6 D7 D5
+D2 DK D4 S5
+C4 C6 CK C7
+H2 HA H6 H5
+D3 DQ H8 H9
+H3 S6 C5 HK
+C2 S9 CA CQ
+HQ ST SA H7
+H4 D8 C8 HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "92"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:876.853.AJ82.AT5 2.KT94.T975.KJ92 AT93.QJ6.Q63.Q63 KQJ54.A72.K4.874"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "W"]
+Pass    Pass    Pass    1S
+Pass    1NT     Pass    2C
+Pass    Pass    Pass
+[Play "W"]
+H5 H9 HQ HA
+S6 S2 SA SJ
+DA D5 D3 DK
+D2 DT DQ D4
+D8 D7 D6 C7
+S7 H4 S3 SK
+S8 HT S9 SQ
+H3 HK H6 H2
+DJ D9 HJ C4
+C5 C2 CQ C8
+CA C9 C3 S4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "92"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:876.853.AJ82.AT5 2.KT94.T975.KJ92 AT93.QJ6.Q63.Q63 KQJ54.A72.K4.874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    Pass    Pass    1C
+Pass    1D      Pass    1S
+Pass    1NT     Pass    Pass
+Pass
+[Play "E"]
+HQ H2 H3 HK
+S3 SJ S6 S2
+SA SK S7 H4
+D3 D4 DJ D5
+H6 H7 H8 HT
+D6 DK DA D7
+HJ HA H5 H9
+S9 SQ S8 C2
+C3 C4 C5 CK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "93"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ9.752.A762.AKQ K87.AQJT.T93.965 A6542.K9863.KJ.T T3.4.Q854.J87432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "N"]
+1NT     Pass    2D      Pass
+2NT     Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "W"]
+H4 H5 HA H3
+S3 H2 HT HK
+C2 CA C5 CT
+C3 CK C6 H6
+C4 CQ C9 H8
+ST SQ S7 S2
+D4 SJ SK SA
+C7 S9 S8 S4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "93"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJ9.752.A762.AKQ K87.AQJT.T93.965 A6542.K9863.KJ.T T3.4.Q854.J87432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1C      Pass    1S      Pass
+2C      Pass    2H      Pass
+2NT     Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "W"]
+D4 D2 D9 DJ
+D5 D6 D3 DK
+C2 CQ C5 CT
+S3 SQ S7 S2
+C3 CA C6 H3
+C4 CK C9 H6
+D8 DA DT H8
+ST S9 S8 SA
+H4 SJ SK S4
+C7 H2 HQ HK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "94"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J9.JT32.Q432.J95 Q74.9854.765.A84 AKT65.AQ.A8.Q763 832.K76.KJT9.KT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "E"]
+Pass    Pass    1C      Pass
+1D      Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "S"]
+H4 HQ HK H2
+H5 HA H7 H3
+SQ S5 S2 SJ
+D7 D8 DK D2
+H8 C3 H6 HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "94"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J9.JT32.Q432.J95 Q74.9854.765.A84 AKT65.AQ.A8.Q763 832.K76.KJT9.KT2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "E"]
+Pass    Pass    1S      Pass
+Pass    Pass
+[Play "N"]
+DT DQ D5 D8
+S2 SJ S4 S5
+S3 S9 SQ SA
+S8 D2 S7 SK
+C2 C9 CA C3
+HK H2 H4 HQ
+DK D3 D6 DA
+H6 H3 H5 HA
+CK C5 C4 C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "95"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K9753.J872.K64.4 A62.A65.73.QJ963 QJT8.T43.JT82.75 4.KQ9.AQ95.AKT82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -920"]
+[Auction "S"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    2C
+Pass    4C      Pass    6C
+Pass    Pass    Pass
+[Play "S"]
+H2 H5 HT HK
+C4 C3 C5 CA
+S3 CQ C7 C2
+DK D3 D2 DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "95"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K9753.J872.K64.4 A62.A65.73.QJ963 QJT8.T43.JT82.75 4.KQ9.AQ95.AKT82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -920"]
+[Auction "S"]
+Pass    Pass    Pass    1C
+Pass    2C      Pass    2D
+Pass    3NT     Pass    4H
+Pass    4S      Pass    6C
+Pass    Pass    Pass
+[Play "S"]
+S5 SA S8 S4
+C4 C3 C5 CA
+S9 CQ C7 C2
+DK D3 D2 DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Open"]
+[Board "96"]
+[West "Forquet"]
+[North "Roth"]
+[East "Garozzo"]
+[South "Root"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.J8653.97.AJT85 AKQJ542.42.65.62 86.T97.KJT843.Q3 T73.AKQ.AQ2.K974"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "W"]
+Pass    1S      Pass    2NT
+Pass    3NT     Pass    4C
+X       4S      Pass    4NT
+Pass    5D      X       5S
+Pass    Pass    Pass
+[Play "E"]
+CQ CK CA C2
+C3 C4 CJ C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.03"]
+[Room "Closed"]
+[Board "96"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.J8653.97.AJT85 AKQJ542.42.65.62 86.T97.KJT843.Q3 T73.AKQ.AQ2.K974"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[Score "NS 990"]
+[Auction "W"]
+Pass    4S      Pass    4NT
+Pass    5D      Pass    6NT
+Pass    Pass    Pass
+[Play "W"]
+CA C2 C3 C4
+H3 H4 H9 HA
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "97"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK92.532.754.KT6 T854.AK986.K86.7 QJ.QJ4.QJT.AQ954 763.T7.A932.J832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1S      2H      Pass    Pass
+3C      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+HT H2 HK H4
+DA D4 D6 DJ
+D2 D5 DK DT
+D3 D7 D8 DQ
+S3 S2 S4 SQ
+S6 S9 S5 SJ
+C2 CT C7 CQ
+C3 CK S8 C4
+S7 SA ST C5
+H7 SK H6 C9
+D9 H3 HA HJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "97"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK92.532.754.KT6 T854.AK986.K86.7 QJ.QJ4.QJT.AQ954 763.T7.A932.J832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1S      Pass    2C      Pass
+3C      Pass    3NT     Pass
+Pass    Pass
+[Play "W"]
+D2 D4 DK DT
+D3 D5 D8 DQ
+S3 S2 S4 SQ
+S6 S9 S5 SJ
+C2 CK C7 C4
+S7 SA S8 C5
+H7 SK ST DJ
+C3 C6 H6 CQ
+HT H2 HK HJ
+C8 H3 HA H4
+DA D7 D6 C9
+D9 H5 H8 HQ
+CJ CT H9 CA
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "98"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.KT43.A932.Q94 K984.52.T765.JT2 AQT76.AQ76.J.876 J3.J98.KQ84.AK53"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+Pass    Pass    1S      X
+Pass    2D      Pass    Pass
+2H      Pass    3H      Pass
+4H      Pass    Pass    Pass
+[Play "S"]
+CJ C6 CA C4
+C2 C7 CK C9
+CT C8 C3 CQ
+S4 ST SJ S2
+D5 H6 C5 D2
+S8 SA S3 S5
+D6 DJ DQ DA
+D7 H7 D4 D3
+S9 S6 D8 H3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "98"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:52.KT43.A932.Q94 K984.52.T765.JT2 AQT76.AQ76.J.876 J3.J98.KQ84.AK53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2DX"]
+[Result "6"]
+[Score "NS -500"]
+[Auction "E"]
+Pass    Pass    1S      X
+Pass    1NT     Pass    2C
+X       Pass    Pass    2D
+X       Pass    Pass    Pass
+[Play "E"]
+S5 S8 SQ S3
+C4 C2 C6 CK
+D2 D5 DJ DK
+S2 S4 SA SJ
+D9 S9 ST D8
+DA D6 H7 D4
+D3 D7 S7 DQ
+H3 H2 HQ HJ
+CQ CT C8 C3
+HK H5 H6 H8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "99"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9872.AQ.KJ843.Q8 AKJ5.KJT862.72.6 Q.754.AT95.JT975 T643.93.Q6.AK432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "S"]
+Pass    1S      Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "N"]
+CJ CA C8 C6
+C5 CK CQ D2
+H4 H3 HA H2
+DA D6 D4 D7
+D5 DQ DK S5
+H5 H9 HQ HK
+SQ S3 S2 SA
+H7 S4 S7 SK
+C7 C2 S8 HJ
+D9 S6 D3 H6
+C9 ST S9 SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "99"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:9872.AQ.KJ843.Q8 AKJ5.KJT862.72.6 Q.754.AT95.JT975 T643.93.Q6.AK432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "S"]
+1D      X       2D      2S
+Pass    3S      Pass    4S
+Pass    Pass    Pass
+[Play "S"]
+D4 D2 DA D6
+DK D7 D5 DQ
+S2 SJ SQ S3
+C8 C6 CT CA
+HA H2 H4 H3
+D3 H6 D9 S4
+HQ HK H5 H9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "100"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.Q7654.A4.KQT43 T8743.AT3.76.A85 AJ5.J.KT852.J762 KQ92.K982.QJ93.9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4CX"]
+[Result "10"]
+[Auction "W"]
+Pass    Pass    Pass    1D
+1H      1S      Pass    Pass
+2C      2S      3C      3S
+4C      X       Pass    Pass
+Pass
+[Play "N"]
+D7 D8 D9 DA
+H3 HJ HK H5
+C5 CJ C9 C3
+S3 SA S2 S6
+S4 S5 SQ C4
+D6 DK D3 D4
+S7 SJ SK CT
+HT C2 H2 H4
+CA D2 DJ CQ
+C8 C6 S9 CK
+HA C7 H8 H6
+S8 D5 DQ H7
+ST DT H9 HQ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "100"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.Q7654.A4.KQT43 T8743.AT3.76.A85 AJ5.J.KT852.J762 KQ92.K982.QJ93.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2SX"]
+[Result "9"]
+[Score "NS 870"]
+[Auction "W"]
+Pass    Pass    Pass    2C
+Pass    2S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "E"]
+HJ HK H4 H3
+C2 C9 CQ CA
+C6 S2 C3 C5
+S5 SK S6 S3
+SJ H2 H5 HT
+SA S9 C4 S4
+D2 D3 DA D6
+DK D9 D4 D7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "101"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:863.A54.AK5.KT72 KQ.QJ2.Q8643.A83 T54.9873.T97.Q65 AJ972.KT6.J2.J94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "N"]
+1C      1D      Pass    1S
+Pass    2C      Pass    2S
+Pass    Pass    Pass
+[Play "N"]
+S6 SK S4 S2
+S3 SQ S5 S7
+HA H2 H7 HT
+S8 D3 ST SJ
+DK D4 D7 DJ
+H5 HJ H3 HK
+DA D6 D9 D2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "101"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:863.A54.AK5.KT72 KQ.QJ2.Q8643.A83 T54.9873.T97.Q65 AJ972.KT6.J2.J94"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "N"]
+1C      Pass    1D      1S
+Pass    2C      Pass    2S
+Pass    3D      Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+C2 C3 CQ C4
+CT C8 C6 C9
+C7 CA C5 CJ
+S3 SK S4 S2
+S6 SQ S5 S7
+HA HQ H3 HK
+CK D3 ST S9
+DA D4 D7 D2
+DK D6 D9 DJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "102"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J9.J87.JT976.J42 AKQ3.A932.Q8.AK9 T654.K6.K.T87653 872.QT54.A5432.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    2NT     Pass    3C
+Pass    3S      Pass    3NT
+Pass    4H      Pass    5D
+Pass    6H      Pass    Pass
+Pass
+[Play "W"]
+C6 CQ C2 C9
+H6 H4 H8 HA
+C3 D2 C4 CA
+C5 S2 CJ CK
+S4 S7 S9 SA
+S5 S8 SJ SK
+S6 D3 H7 SQ
+DK DA D6 DQ
+HK H5 HJ H2
+ST HT D7 S3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "102"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J9.J87.JT976.J42 AKQ3.A932.Q8.AK9 T654.K6.K.T87653 872.QT54.A5432.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "E"]
+Pass    2NT     Pass    3C
+Pass    3H      Pass    4D
+Pass    4S      Pass    4NT
+Pass    5C      Pass    5H
+Pass    Pass    Pass
+[Play "W"]
+S4 S2 SJ SA
+C3 CQ C2 C9
+HK HQ H7 H2
+C5 S7 CJ CA
+DK DA D6 D8
+H6 H4 H8 H9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "103"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ3.QT43.82.J762 AQ8754.987.Q5.AT T.KJ65.KJT763.K4 962.A2.A94.Q9853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass    1S      X       Pass
+2H      Pass    Pass    2S
+Pass    Pass    Pass
+[Play "N"]
+H5 H2 HQ H9
+DK DA D8 DQ
+D6 D4 D2 D5
+H6 HA H3 H8
+ST S2 S3 SQ
+D7 S6 SJ SA
+HJ S9 H4 H7
+C4 C3 C7 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "103"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ3.QT43.82.J762 AQ8754.987.Q5.AT T.KJ65.KJT763.K4 962.A2.A94.Q9853"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Score "NS -200"]
+[Auction "S"]
+Pass    1S      X       Pass
+1NT     Pass    2D      3S
+Pass    Pass    Pass
+[Play "N"]
+ST S2 S3 SQ
+C4 C3 C2 CA
+CK C5 C6 CT
+DK DA D2 D5
+D3 C8 CJ S4
+H6 S6 SJ SA
+H5 S9 SK S5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "104"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A942.95.AJ97.K53 QJ63.8432.83.Q74 T875.KT7.Q54.J86 K.AQJ6.KT62.AT92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+1S      Pass    2S      X
+Pass    3H      Pass    Pass
+Pass
+[Play "E"]
+S8 SK SA S3
+S5 D2 S2 SQ
+H7 HJ H5 H2
+D4 D6 DA D3
+S7 C2 S9 SJ
+HT HQ H9 H3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "104"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A942.95.AJ97.K53 QJ63.8432.83.Q74 T875.KT7.Q54.J86 K.AQJ6.KT62.AT92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "W"]
+Pass    Pass    Pass    1NT
+Pass    Pass    Pass
+[Play "W"]
+S2 S3 ST SK
+H5 H2 H7 HA
+H9 H3 HK HJ
+C3 CQ CJ C2
+CK C4 C6 CT
+SA S6 S5 D2
+C5 C7 C8 C9
+S4 D3 S7 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "105"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:963.T87.KT7.8743 J754.43.AJ86.AT5 AKQT2.Q62.9543.Q 8.AKJ95.Q2.KJ962"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "12"]
+[Auction "N"]
+Pass    Pass    1S      X
+Pass    1NT     Pass    2H
+Pass    2NT     Pass    3C
+Pass    4C      Pass    Pass
+Pass
+[Play "N"]
+S9 S4 ST S8
+S3 S5 SQ C2
+H7 H3 H2 HA
+H8 H4 H6 HK
+HT C5 HQ H5
+C3 CA CQ C6
+C4 CT D3 CK
+C7 D6 D4 CJ
+C8 D8 D5 C9
+D7 S7 S2 HJ
+S6 SJ D9 H9
+DT DJ SK D2
+DK DA SA DQ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "105"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:963.T87.KT7.8743 J754.43.AJ86.AT5 AKQT2.Q62.9543.Q 8.AKJ95.Q2.KJ962"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "12"]
+[Score "NS -170"]
+[Auction "N"]
+Pass    Pass    1S      2H
+Pass    2NT     Pass    3C
+Pass    Pass    Pass
+[Play "N"]
+S6 S7 ST S8
+S9 S4 SQ C2
+DK DA D3 DQ
+H7 H3 H2 HA
+H8 H4 H6 HK
+HT C5 HQ H5
+C3 CA CQ C6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "106"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q3.T9765.8754.K7 T54.K2.AKJ2.QJ98 J9762.Q43.QT3.T5 AK8.AJ8.96.A6432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 1370"]
+[Auction "E"]
+Pass    1D      Pass    3C
+Pass    4C      Pass    4S
+Pass    5C      Pass    6C
+Pass    Pass    Pass
+[Play "E"]
+HT H2 HQ HA
+C7 C8 C5 CA
+CK C9 CT C2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "106"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q3.T9765.8754.K7 T54.K2.AKJ2.QJ98 J9762.Q43.QT3.T5 AK8.AJ8.96.A6432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+Pass    1C      Pass    1NT
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+H6 H2 HQ HA
+D7 DA D3 D6
+CK CQ C5 C2
+SQ S4 S2 SA
+C7 CJ CT C3
+HT C8 S7 C4
+D4 C9 S6 CA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "107"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ72.2.AQ52.Q853 KJ84.K9854.T.K94 T653.QT63.K96.T6 9.AJ7.J8743.AJ72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+1D      X       Pass    2NT
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "N"]
+D6 D7 DA DT
+D9 D3 D2 H4
+C6 CJ CQ C4
+DK D4 D5 H5
+H3 H7 H2 HK
+H6 HA C3 H9
+HT D8 DQ H8
+HQ HJ S7 S4
+CT CA C5 C9
+-  DJ -  -
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "107"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ72.2.AQ52.Q853 KJ84.K9854.T.K94 T653.QT63.K96.T6 9.AJ7.J8743.AJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "S"]
+2C      Pass    2H      Pass
+2S      Pass    Pass    Pass
+[Play "W"]
+H5 HT HJ H2
+SJ S3 S9 S2
+H9 H3 H7 S7
+C4 CT CJ C3
+DT D6 D3 DA
+C9 C6 C2 C5
+H4 H6 HA SQ
+CK S5 C7 C8
+S4 DK D4 D2
+S8 S6 D8 SA
+H8 ST CA CQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "108"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ52.52.KQ932.43 QT964.K94.T4.QJ9 .A763.J865.KT875 K873.QJT8.A7.A62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Auction "W"]
+Pass    Pass    1H      Pass
+1S      Pass    2C      Pass
+2D      Pass    Pass    Pass
+[Play "N"]
+DT D5 DA D2
+D4 D6 D7 DK
+CQ CK CA C3
+H4 H3 HQ H2
+H9 HA HJ H5
+HK H6 H8 D3
+CJ C5 C2 C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "108"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ52.52.KQ932.43 QT964.K94.T4.QJ9 .A763.J865.KT875 K873.QJT8.A7.A62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+Pass    Pass    Pass    1C
+1D      1S      4D      Pass
+Pass    Pass
+[Play "N"]
+CJ CK CA C3
+H4 HA HJ H2
+D4 D5 D7 DK
+CQ C5 C2 C4
+HK H3 H8 H5
+H9 H6 HT D2
+DT D6 DA DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "109"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ2.Q76.AJ8.KJ86 J75.952.T9542.Q4 96.AT43.Q763.T52 KT843.KJ8.K.A973"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1NT     Pass    Pass    Pass
+[Play "E"]
+S5 S6 SK S2
+S7 S9 S4 SQ
+C4 C2 CA CK
+SJ H3 S3 SA
+CQ C5 C3 C6
+H2 H4 HK H6
+D2 D3 ST D8
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "109"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ2.Q76.AJ8.KJ86 J75.952.T9542.Q4 96.AT43.Q763.T52 KT843.KJ8.K.A973"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "N"]
+1NT     Pass    2D      Pass
+2NT     Pass    Pass    Pass
+[Play "E"]
+D4 D3 DK DA
+C4 C2 CA CK
+S5 S6 ST SA
+CQ C5 C3 C6
+S7 S9 SK S2
+SJ H3 S3 SQ
+D2 CT C7 C8
+D5 D6 H8 DJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "110"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQT4.J873..AK965 932.KQ42.QJT75.T 875.T9.K982.8432 KJ6.A65.A643.QJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "E"]
+1S      Pass    Pass    X
+2C      2H      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+CA CT C4 C7
+CK S2 C2 CJ
+C5 S3 C8 CQ
+H7 HK H9 H5
+S4 DQ DK DA
+ST DJ D2 D3
+SQ DT D8 D4
+H3 H2 HT HA
+H8 HQ S5 H6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "110"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQT4.J873..AK965 932.KQ42.QJT75.T 875.T9.K982.8432 KJ6.A65.A643.QJ7"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "E"]
+1C      Pass    1D      X
+1H      2C      Pass    2D
+Pass    Pass    Pass
+[Play "E"]
+H8 HK H9 H5
+C5 D5 D2 DA
+S4 DQ DK D3
+H3 H2 HT HA
+C9 DJ D8 D4
+C6 DT D9 D6
+CK CT C2 C7
+HJ HQ S5 H6
+H7 H4 C3 S6
+CA S2 C4 CJ
+SA S3 S7 SJ
+SQ S9 S8 SK
+ST D7 C8 CQ
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "111"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:76.9862.T62.KT84 Q8432.KQ.K73.532 AJT95.AJT4.QJ8.A K.753.A954.QJ976"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+Pass    Pass    1S      2NT
+Pass    3C      3H      Pass
+Pass    Pass
+[Play "E"]
+CQ C4 C2 CA
+D4 DT DK D8
+DA D2 D3 DJ
+D5 D6 D7 DQ
+H3 H2 HK HA
+H5 H9 HQ H4
+SK S6 S2 SJ
+D9 S7 S4 HT
+H7 H8 S3 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "111"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:76.9862.T62.KT84 Q8432.KQ.K73.532 AJT95.AJT4.QJ8.A K.753.A954.QJ976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    Pass    1H      Pass
+Pass    1S      Pass    2C
+Pass    Pass    Pass
+[Play "S"]
+H9 HQ HA H3
+D2 D3 D8 DA
+H2 HK H4 H5
+S6 S2 SA SK
+D6 DK DQ D4
+S7 SQ S5 D5
+C8 S3 S9 C6
+DT D7 DJ D9
+CK S4 SJ CQ
+H6 C2 HT H7
+C4 C3 CA C7
+H8 S8 ST CJ
+CT C5 HJ C9
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "112"]
+[West "Forquet"]
+[North "Murray"]
+[East "Garozzo"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ96.Q8.72.AJT98 732.732.K863.Q64 K8.J965.AJT5.K73 QT54.AKT4.Q94.52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "W"]
+Pass    Pass    1D      X
+XX      Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "S"]
+HA H8 H3 H5
+HK HQ H2 H6
+D4 D2 DK DA
+C2 C8 CQ C3
+DQ D7 D3 DT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "112"]
+[West "Root"]
+[North "Belladonna"]
+[East "Roth"]
+[South "Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ96.Q8.72.AJT98 732.732.K863.Q64 K8.J965.AJT5.K73 QT54.AKT4.Q94.52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Auction "W"]
+Pass    Pass    1D      1H
+X       Pass    1NT     Pass
+2NT     Pass    Pass    Pass
+[Play "S"]
+HK H8 H2 H5
+HA HQ H3 H6
+S4 S6 S7 S8
+C2 C9 CQ C3
+H4 D2 H7 HJ
+S5 S9 S2 SK
+C5 C8 C4 CK
+D4 CA C6 C7
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "113"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T52.84.T5.AKJ953 AQ3.T75.643.T874 KJ86.AK96.AK987. 974.QJ32.QJ2.Q62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "N"]
+3C      Pass    Pass    Pass
+[Play "E"]
+D4 DA D2 D5
+H5 HA H2 H4
+H7 HK H3 H8
+HT H6 HJ C3
+D3 DK DJ DT
+D6 D7 DQ C5
+SA S6 S4 S2
+S3 SK S7 S5
+SQ H9 HQ ST
+CT S8 S9 C9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "113"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T52.84.T5.AKJ953 AQ3.T75.643.T874 KJ86.AK96.AK987. 974.QJ32.QJ2.Q62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "N"]
+Pass    Pass    2D      Pass
+2NT     Pass    3C      Pass
+Pass    Pass
+[Play "W"]
+C2 CA C4 S6
+C6 CK C7 D7
+CQ CJ C8 H6
+H2 H4 HT HA
+D2 D5 D3 DA
+DJ DT D4 DK
+DQ C3 D6 D8
+S4 S2 S3 SJ
+H3 S5 CT D9
+S7 ST SA S8
+*
+
+% PBN 2.0
+%
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "114"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ92.732.T93.K97 JT83.AQJ6.852.JT K754.K95.J74.A83 6.T84.AKQ6.Q6542"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "7"]
+[Score "NS 80"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+Pass    1H      Pass    Pass
+Pass
+[Play "W"]
+H5 H4 H7 HQ
+CA C2 C7 CJ
+S4 S6 SA S3
+HK H8 H2 HJ
+H9 HT H3 HA
+C3 C4 CK CT
+S7 D6 SQ S8
+SK C5 S2 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "114"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ92.732.T93.K97 JT83.AQJ6.852.JT K754.K95.J74.A83 6.T84.AKQ6.Q6542"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    Pass    1C      Pass
+1S      Pass    Pass    X
+Pass    1NT     Pass    Pass
+X       Pass    Pass    2C
+Pass    Pass    2S      Pass
+Pass    Pass
+[Play "S"]
+CJ C3 C2 CK
+S3 S4 S6 SA
+CT CA C4 C7
+D2 C8 CQ C9
+D5 D4 DA D3
+D8 D7 DK D9
+H6 DJ DQ DT
+HA H5 H4 H2
+HQ HK H8 H3
+S8 S5 D6 SQ
+HJ H9 HT H7
+SJ SK C5 S2
+ST S7 C6 S9
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "115"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T52.6.T9.AKJ9652 9864.Q97.Q4.T874 J.AKJ832.K853.Q3 AKQ73.T54.AJ762."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "S"]
+3C      Pass    3H      4C
+X       4S      5C      Pass
+Pass    X       Pass    Pass
+Pass
+[Play "W"]
+DQ DK DA D9
+D4 D3 DJ DT
+S4 SJ SA S2
+H7 D5 D7 CA
+S6 C3 S3 S5
+C4 CQ H4 C2
+H9 HA H5 H6
+HQ HK HT ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "115"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T52.6.T9.AKJ9652 9864.Q97.Q4.T874 J.AKJ832.K853.Q3 AKQ73.T54.AJ762."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "S"]
+3C      Pass    3H      X
+4C      Pass    Pass    Pass
+[Play "W"]
+DQ DK DA D9
+D4 D3 DJ DT
+S4 SJ SA S2
+H7 D5 D7 CA
+C4 CQ D2 C2
+C7 D8 D6 S5
+S6 C3 S3 ST
+H9 HA H4 H6
+HQ HK H5 C5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "116"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.AKT95.A94.AK95 T76.QJ.KJT6.JT32 K5.876432.Q3.Q74 AQ98432..8752.86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "12"]
+[Score "NS -680"]
+[Auction "W"]
+1C      Pass    1H      3S
+4H      4S      5H      Pass
+Pass    Pass
+[Play "S"]
+SA SJ S6 S5
+D8 DA D6 D3
+S4 HA HJ H2
+D2 HK HQ H3
+S2 HT ST H4
+D7 H9 S7 H6
+C8 H5 DJ H8
+D5 D4 DT H7
+S3 D9 C2 SK
+C6 C5 C3 CQ
+S8 CA CT C4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "116"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.AKT95.A94.AK95 T76.QJ.KJT6.JT32 K5.876432.Q3.Q74 AQ98432..8752.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+1H      Pass    1S      Pass
+2C      Pass    2NT     Pass
+3NT     Pass    4H      Pass
+5D      Pass    5H      Pass
+Pass    Pass
+[Play "N"]
+HQ H2 S2 HA
+HJ H3 D2 HK
+C2 C4 C6 CA
+C3 CQ C8 C5
+CT C7 S3 CK
+S6 SK SA SJ
+DK D3 D5 D4
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "117"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ73.KJT5.85.74 T2.AQ873.J2.KT93 95.942.AT93.QJ62 A864.6.KQ764.A85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass    Pass    Pass    1S
+Pass    2H      Pass    2NT
+Pass    Pass    Pass
+[Play "N"]
+SK S2 S5 S4
+SJ ST S9 SA
+D5 DJ DA D4
+D8 D2 D3 DK
+S3 H3 D9 DQ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "117"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQJ73.KJT5.85.74 T2.AQ873.J2.KT93 95.942.AT93.QJ62 A864.6.KQ764.A85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "N"]
+Pass    Pass    Pass    1D
+1S      2H      Pass    Pass
+Pass
+[Play "S"]
+S9 S4 SJ S2
+CJ CA C7 C3
+H2 H6 H5 HQ
+H4 D4 HT HA
+H9 D6 HJ H3
+CQ C5 C4 CT
+DA D7 D5 D2
+S5 SA S3 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "118"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQ5.T2.KT.J9874 J98743.KJ3.J6.63 2.AQ64.85432.A52 T6.9875.AQ97.KQT"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "11"]
+[Score "NS -150"]
+[Auction "E"]
+1S      Pass    1NT     X
+2C      Pass    Pass    Pass
+[Play "S"]
+DJ D2 DA DT
+C3 CA CK C4
+S3 S2 S6 SA
+S7 C2 ST S5
+C6 C5 CQ C7
+D6 D3 D7 DK
+S4 D4 CT CJ
+HJ HQ H5 H2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "118"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQ5.T2.KT.J9874 J98743.KJ3.J6.63 2.AQ64.85432.A52 T6.9875.AQ97.KQT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "E"]
+1C      Pass    1H      Pass
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "N"]
+ST SA S3 S2
+CT C4 C3 C2
+D7 DK D6 D2
+D9 DT DJ D3
+S6 SK SJ H4
+CQ C7 C6 CA
+DQ C8 S9 D4
+CK C9 S4 C5
+H9 HT HJ HQ
+DA S5 S7 D5
+H5 H2 HK HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "119"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ74.AQJT.Q2.AKT A.K64.K6543.J842 Q6532.9.JT987.Q3 T98.87532.A.9765"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+2NT     Pass    3C      Pass
+3S      Pass    4D      Pass
+4H      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+C2 C3 C9 CK
+SA S2 S8 S4
+D4 D7 DA D2
+H4 H9 H7 HA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "119"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KJ74.AQJT.Q2.AKT A.K64.K6543.J842 Q6532.9.JT987.Q3 T98.87532.A.9765"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+1D      Pass    1H      Pass
+1NT     Pass    2S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+DA D2 D6 D7
+H3 HA H4 H9
+C5 CT CJ CQ
+S8 SJ SA S2
+H2 DQ DK D8
+H5 HT H6 S3
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "120"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQJT62.A2.KQ7.63 4.K54.842.AKT874 K975.Q76.A95.Q92 83.JT983.JT63.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+1S      2C      2NT     Pass
+3C      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+CA C2 CJ C3
+CK C9 C5 C6
+C4 CQ S3 S6
+H4 H6 H3 HA
+HK H7 H8 H2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "120"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQJT62.A2.KQ7.63 4.K54.842.AKT874 K975.Q76.A95.Q92 83.JT983.JT63.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+1S      2C      2NT     Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+CA C2 CJ C3
+CK C9 C5 C6
+C4 CQ S3 S6
+H4 H6 H3 HA
+HK H7 H8 H2
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "121"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ732.Q4.9532.65 T.J85.87.KJT9743 K854.AKT97.J64.A J96.632.AKQT.Q82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "N"]
+Pass    Pass    1H      Pass
+1S      Pass    3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+D8 D4 DA D2
+D7 D6 DK D3
+C4 DJ DQ D5
+ST SK DT D9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "121"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ732.Q4.9532.65 T.J85.87.KJT9743 K854.AKT97.J64.A J96.632.AKQT.Q82"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "N"]
+Pass    Pass    1S      Pass
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "W"]
+DA D2 D8 D4
+DK D3 D7 D6
+DQ D5 C7 DJ
+C2 C5 CK CA
+S6 S2 ST SK
+S9 SA C3 S4
+SJ SQ H5 S5
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "122"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJ7643.Q7.2.AT87 K.A9432.AKQ8.J42 T852.KJT6.T973.3 Q9.85.J654.KQ965"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "E"]
+1S      X       2S      3C
+4S      Pass    Pass    Pass
+[Play "S"]
+DQ D3 D4 D2
+DA D7 D5 S3
+HA H6 H5 H7
+DK D9 D6 S4
+H2 HK H8 HQ
+SK S2 S9 SJ
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "122"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJ7643.Q7.2.AT87 K.A9432.AKQ8.J42 T852.KJT6.T973.3 Q9.85.J654.KQ965"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "9"]
+[Score "NS -500"]
+[Auction "E"]
+1S      X       3S      4C
+4S      5C      Pass    Pass
+X       Pass    Pass    Pass
+[Play "E"]
+SA SK S2 S9
+HQ HA H6 H5
+CA C2 C3 CK
+H7 H2 HT H8
+S3 H3 HJ C9
+C7 CJ S5 C5
+C8 C4 D7 CQ
+D2 DA D3 D4
+S4 DK D9 D5
+CT DQ DT D6
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "123"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K98.AQT8.AJT5.KT 652.J9654.86.J62 JT7.2.Q743.87543 AQ43.K73.K92.AQ9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "S"]
+1NT     Pass    Pass    Pass
+[Play "W"]
+H5 H2 HK HA
+D6 D3 D2 DA
+D8 D4 D9 DJ
+S2 D7 DK DT
+H9 C3 H3 H8
+C2 C4 CA CT
+C6 C5 CQ CK
+S5 DQ S3 D5
+CJ C7 C9 S8
+S6 S7 SA S9
+HJ ST H7 HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "123"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K98.AQT8.AJT5.KT 652.J9654.86.J62 JT7.2.Q743.87543 AQ43.K73.K92.AQ9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "S"]
+1D      Pass    1H      1NT
+X       Pass    2C      Pass
+2D      Pass    Pass    Pass
+[Play "W"]
+H5 H2 HK HA
+H4 S7 H3 HQ
+H9 D3 H7 H8
+S2 SJ SA S8
+S5 ST S3 SK
+S6 D4 S4 S9
+C2 C3 CA CT
+C6 C4 C9 CK
+HJ DQ DK HT
+D6 C5 SQ DJ
+D8 D7 D2 DA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "124"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK72.T973.AK9.84 96.AJ542.QJ.J752 J3.KQ6.8765.AQ63 QT854.8.T432.KT9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+1S      Pass    2C      Pass
+2H      Pass    4H      Pass
+Pass    Pass
+[Play "N"]
+DQ D5 D2 DA
+C2 CQ CK C4
+DJ D6 D3 DK
+H2 HK H8 H3
+C5 CA C9 C8
+C7 C3 CT H7
+S6 S3 S4 SA
+S9 SJ S5 SK
+CJ H6 S8 S2
+HJ C6 D4 H9
+HA HQ DT HT
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "124"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK72.T973.AK9.84 96.AJ542.QJ.J752 J3.KQ6.8765.AQ63 QT854.8.T432.KT9"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -430"]
+[Auction "W"]
+1D      Pass    2D      Pass
+2NT     Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+H4 H6 H8 HT
+DJ D5 D2 DA
+DQ D6 D3 DK
+S6 D7 DT D9
+S9 SJ S4 S2
+H2 D8 D4 H3
+HA HK S5 H7
+CJ C3 C9 C4
+C2 CA CT C8
+H5 HQ S8 H9
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "125"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT754.KJ8.K7.J32 K63.754.T985.KT4 J98.Q96.J62.A965 Q2.AT32.AQ43.Q87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS 110"]
+[Auction "N"]
+1S      Pass    1NT     X
+Pass    2D      2S      Pass
+Pass    Pass
+[Play "E"]
+S3 SJ SQ SA
+SK S8 S2 S4
+H7 H6 HA H8
+D5 D2 DA D7
+D8 D6 D3 DK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "125"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT754.KJ8.K7.J32 K63.754.T985.KT4 J98.Q96.J62.A965 Q2.AT32.AQ43.Q87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Score "NS 80"]
+[Auction "N"]
+1C      Pass    1D      Pass
+1S      Pass    Pass    Pass
+[Play "E"]
+DT D2 D3 DK
+S3 S8 SQ S4
+D5 D6 DA D7
+D8 DJ DQ S5
+H4 H6 HA HK
+H5 H9 H2 H8
+SK S9 S2 S7
+S6 SJ H3 SA
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "126"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:8753.AQ75.J84.T7 QJ9.2.Q965.AK953 AK642.KT63.2.Q64 T.J984.AKT73.J82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "E"]
+Pass    1C      1S      2D
+2S      3D      3S      Pass
+4S      Pass    Pass    Pass
+[Play "N"]
+DA D4 D6 D2
+C2 C7 CK C4
+C8 CT CA C6
+D3 D8 D5 S2
+ST S3 S9 SA
+DT S5 SJ SK
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "126"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:8753.AQ75.J84.T7 QJ9.2.Q965.AK953 AK642.KT63.2.Q64 T.J984.AKT73.J82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "E"]
+Pass    1D      X       2D
+2H      3D      3H      Pass
+Pass    Pass
+[Play "S"]
+CK C4 C2 C7
+D5 D2 DK D4
+D9 H3 D3 D8
+H2 HK H4 H5
+C9 H6 H8 HA
+CA C6 C8 CT
+C3 CQ CJ DJ
+S9 SA ST S3
+SJ SK H9 S5
+D6 HT HJ HQ
+SQ S2 D7 S7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "127"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A6.KQJ542.KJ73.T 93.T7.A862.AK987 T752.A98.T95.Q65 KQJ84.63.Q4.J432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "5"]
+[Auction "S"]
+1H      2C      Pass    2S
+Pass    Pass    Pass
+[Play "S"]
+HK H7 H9 H3
+HQ HT HA H6
+DK DA DT DQ
+CT CA C5 C2
+SA S3 S2 SJ
+DJ D2 -  -
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "127"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A6.KQJ542.KJ73.T 93.T7.A862.AK987 T752.A98.T95.Q65 KQJ84.63.Q4.J432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "S"]
+1D      Pass    1H      2S
+3H      Pass    4H      Pass
+Pass    Pass
+[Play "E"]
+SK SA S3 S2
+H3 HK H7 H8
+H6 H2 HT HA
+DQ DK DA DT
+C2 CT CA C5
+SJ S6 S9 ST
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Open"]
+[Board "128"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT7532.6.KT653.Q KJ9.AQ973.9.KT43 Q.JT542.42.J9762 864.K8.AQJ87.A85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "W"]
+2S      Pass    Pass    3D
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+SQ S4 SA S9
+C2 C5 CQ CK
+D2 DJ DK D9
+HT HK H6 H3
+HJ H8 S2 H7
+*
+
+[Event "1967 Bermuda Bowl Final"]
+[Site "Miami Beach"]
+[Date "1967.06.04"]
+[Room "Closed"]
+[Board "128"]
+[West "Kay"]
+[North "Pabis Ticci"]
+[East "Kaplan"]
+[South "d\\'Alelio"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT7532.6.KT653.Q KJ9.AQ973.9.KT43 Q.JT542.42.J9762 864.K8.AQJ87.A85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "9"]
+[Score "NS 550"]
+[Auction "W"]
+Pass    1H      Pass    2C
+X       2H      Pass    3D
+Pass    3NT     X       Pass
+Pass    Pass
+[Play "E"]
+SQ S4 S2 S9
+C2 C5 CQ CK
+D2 DJ DK D9
+H2 S6 SA SJ
+C6 S8 S3 SK
+H4 HK H6 H3
+D4 DA D3 C3
+C7 DQ D5 H7
+H5 H8 S5 HA
+HT D7 S7 HQ
+HJ D8 D6 H9
+*
+

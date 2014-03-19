@@ -1,0 +1,6055 @@
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "1"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:3.T9854.J642.AK9 K42.J72.A9853.63 AT876.K.T7.J7542 QJ95.AQ63.KQ.QT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    2C
+Pass    2S      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "S"]
+S7 SQ S3 S2
+D7 DK D2 D3
+DT DQ D4 D5
+SA S5 H4 SK
+C2 CT CK C3
+HK HA H5 H2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "1"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:3.T9854.J642.AK9 K42.J72.A9853.63 AT876.K.T7.J7542 QJ95.AQ63.KQ.QT8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "10"]
+[Score "NS -180"]
+[Auction "N"]
+Pass    Pass    Pass    1NT
+Pass    2NT     Pass    Pass
+Pass
+[Play "N"]
+HT H2 HK HA
+S3 SK SA S5
+CK C3 C2 CT
+CA C6 C4 C8
+C9 D3 C5 CQ
+D2 D5 D7 DK
+D4 D8 DT DQ
+H4 S2 S6 SQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "2"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKJ3.Q4.KT873.A3 Q95.A87.AJ.T9764 T2.KJT63.54.KQ52 8764.952.Q962.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "E"]
+1C      Pass    1H      Pass
+2D      Pass    2H      Pass
+2S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+S8 SA S5 S2
+H2 HQ H7 H3
+H5 H4 H8 HK
+H9 D3 HA HJ
+CJ CA C4 C2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "2"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKJ3.Q4.KT873.A3 Q95.A87.AJ.T9764 T2.KJT63.54.KQ52 8764.952.Q962.J8"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "E"]
+1D      Pass    1H      Pass
+1S      Pass    1NT     Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+S8 SA S5 S2
+H2 HQ HA H3
+CJ CA C4 C2
+H5 H4 H7 HK
+H9 D3 H8 HJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "3"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ96.K875.AJ.JT8 K53.A43.KQT2.AK7 T2.JT6.8764.6432 Q874.Q92.953.Q95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1S      X       Pass    1NT
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "S"]
+H5 H3 HT HQ
+DJ DK D4 D3
+DA D2 D6 D9
+H7 H4 HJ H2
+HK HA H6 H9
+SA SK S2 S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "3"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ96.K875.AJ.JT8 K53.A43.KQT2.AK7 T2.JT6.8764.6432 Q874.Q92.953.Q95"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Auction "S"]
+1D      X       Pass    1S
+Pass    1NT     Pass    Pass
+Pass
+[Play "N"]
+D8 D3 DA D2
+D4 D5 DJ DK
+D6 D9 H5 DQ
+D7 H2 S6 DT
+C2 CQ C8 C7
+S2 S4 S9 SK
+C3 C5 CT CA
+C4 C9 CJ CK
+ST S7 SJ S3
+H6 H9 HK HA
+C6 S8 SA S5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "4"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:543.QJ2.AKQ76.87 KQ.K9.J854.AQ942 JT98762.T73.T.KJ A.A8654.932.T653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "3"]
+[Auction "W"]
+1D      1NT     3S      3NT
+Pass    Pass    Pass
+[Play "E"]
+SJ SA S3 SQ
+CJ CT C7 C2
+ST H4 S4 SK
+H3 HA H2 H9
+CK C3 C8 C9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "4"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:543.QJ2.AKQ76.87 KQ.K9.J854.AQ942 JT98762.T73.T.KJ A.A8654.932.T653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "8"]
+[Score "NS -800"]
+[Auction "W"]
+1D      2C      4S      5C
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "E"]
+DT D2 DQ D4
+S2 D3 DA D5
+SJ D9 DK D8
+CJ H4 D6 DJ
+H3 HA H2 H9
+CK C3 C7 CQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "5"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T2.8732.T863.K75 KQ3.954.J2.QJ432 J984.QJT6.AK94.T A765.AK.Q75.A986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -460"]
+[Auction "N"]
+Pass    Pass    1S      1NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+ST SK S4 S5
+CK CQ CT C6
+H7 H4 HT HA
+C5 C2 D9 CA
+C7 C3 H6 C9
+H2 CJ D4 C8
+H3 C4 DA S6
+D3 D2 DK D5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "5"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T2.8732.T863.K75 KQ3.954.J2.QJ432 J984.QJT6.AK94.T A765.AK.Q75.A986"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass    Pass    Pass    1NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+H7 H4 HT HA
+S2 SK S4 S5
+CK CQ CT C6
+D3 D2 DK D5
+DT DJ D4 D7
+H2 H5 HJ HK
+C5 C2 H6 CA
+C7 C3 D9 C9
+D6 CJ S8 C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "6"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:74.K972.T9643.54 QJT8.T.AKQJ852.8 K632.AQ84..AJT76 A95.J653.7.KQ932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    1S      X       XX
+2D      X       2H      X
+Pass    3D      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+HA H3 H7 HT
+H4 H5 H9 S8
+H8 H6 HK ST
+HQ HJ H2 C8
+CA C2 C4 D2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "6"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:74.K972.T9643.54 QJT8.T.AKQJ852.8 K632.AQ84..AJT76 A95.J653.7.KQ932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "E"]
+Pass    1D      X       Pass
+1H      1S      2D      2S
+Pass    5D      X       Pass
+Pass    Pass
+[Play "W"]
+S2 S5 S7 ST
+C6 D7 D3 DA
+C7 C2 D4 DK
+H8 H3 D6 DQ
+H4 C3 D9 DJ
+CA C9 C4 C8
+HA H5 H2 HT
+HQ H6 H7 D2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "7"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:84.AKT9.AKT97.QT K76.Q5432.5.KJ82 QJ52.8.Q64.A9763 AT93.J76.J832.54"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[Auction "S"]
+1H      Pass    1S      Pass
+2D      Pass    Pass    Pass
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "7"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:84.AKT9.AKT97.QT K76.Q5432.5.KJ82 QJ52.8.Q64.A9763 AT93.J76.J832.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C      Pass    2C      Pass
+2D      Pass    2NT     Pass
+3H      Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+S3 S4 SK S2
+S9 S8 S7 SJ
+D2 DA D5 D4
+C4 CT CJ CA
+C5 CQ CK C3
+ST D7 S6 S5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "8"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q7.JT52.876.KJ83 653.K9876.J42.A7 AK842.A3.AQ95.T6 JT9.Q4.KT3.Q9542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    1C      Pass
+1D      Pass    1S      Pass
+1NT     Pass    2D      Pass
+2H      Pass    2S      Pass
+2NT     Pass    Pass    Pass
+[Play "N"]
+H7 H3 HQ H2
+H6 HA H4 H5
+C7 CT C2 C3
+S3 S2 S9 SQ
+S5 SA ST S7
+S6 SK SJ D6
+H8 S8 D3 D7
+D2 S4 CQ C8
+D4 DA DT D8
+CA C6 C4 CJ
+HK D5 C5 HT
+DJ D9 DK HJ
+H9 DQ C9 CK
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "8"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q7.JT52.876.KJ83 653.K9876.J42.A7 AK842.A3.AQ95.T6 JT9.Q4.KT3.Q9542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+1NT     Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "N"]
+H6 H3 HQ H2
+H9 HA H4 H5
+C7 CT C2 C3
+CA C6 C4 CJ
+H7 D5 C5 HJ
+S3 D9 C9 CK
+S5 S2 S9 SQ
+S6 S4 ST S7
+D2 DQ CQ C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "9"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J987.KJ5.AQ932.Q AT543.T742.J.863 Q6.863.865.AJT95 K2.AQ9.KT74.K742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Auction "N"]
+1S      Pass    1NT     X
+2D      2H      Pass    Pass
+Pass
+[Play "S"]
+D5 D4 DQ DJ
+D8 DT D2 C3
+S6 SK S7 S3
+SQ S2 S8 SA
+C5 H9 S9 S4
+D6 DK DA C6
+CA C2 CQ C8
+H3 HA H5 H2
+C9 CK HJ S5
+H6 HQ HK H4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "9"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J987.KJ5.AQ932.Q AT543.T742.J.863 Q6.863.865.AJT95 K2.AQ9.KT74.K742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[Auction "N"]
+1D      Pass    1NT     Pass
+2D      Pass    Pass    Pass
+[Play "E"]
+H2 H3 HQ HK
+S3 SQ SK S7
+H4 H6 HA H5
+H7 H8 H9 HJ
+C3 CA C2 CQ
+ST S6 S2 S9
+S4 D5 D7 S8
+C6 C5 CK D2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "10"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A86432.94.A.9632 KJ7..KT986.AKQ84 95.Q6532.QJ43.J7 QT.AKJT87.752.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "E"]
+2S      3D      Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+DA D6 D3 D2
+C2 CA C7 C5
+SA S7 S5 ST
+C3 CK CJ CT
+C6 CQ S9 D5
+C9 C4 D4 H7
+H4 D8 H2 HA
+H9 D9 H3 HK
+S2 DT H5 HT
+S3 SJ HQ H8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "10"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A86432.94.A.9632 KJ7..KT986.AKQ84 95.Q6532.QJ43.J7 QT.AKJT87.752.T5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "E"]
+Pass    1C      Pass    1H
+1S      2D      Pass    3H
+Pass    3NT     Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+DA D6 D3 D2
+SA S7 S9 ST
+S2 SJ S5 SQ
+H4 D8 H2 HA
+H9 C4 H3 HK
+C2 D9 HQ HJ
+S3 DK DQ D5
+S4 SK H5 H7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "11"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT76..KJT96.8653 32.T63.AQ843.KJ4 AKQ54.AKQ2.52.Q7 98.J98754.7.AT92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "S"]
+Pass    Pass    1C      1H
+X       2H      2S      3H
+4H      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+D7 D9 DQ D2
+CA C3 CJ CQ
+CT C5 C4 C7
+C2 C6 CK S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "11"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT76..KJT96.8653 32.T63.AQ843.KJ4 AKQ54.AKQ2.52.Q7 98.J98754.7.AT92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "S"]
+Pass    Pass    1C      2H
+Pass    3H      3S      Pass
+4S      Pass    Pass    Pass
+[Play "E"]
+D7 D9 DQ D2
+CA C3 CJ CQ
+CT C5 C4 C7
+C2 C6 CK S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "12"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:JT6.T97.4.J98743 98742.Q5.T752.Q6 K3.AKJ86.K9.AT52 AQ5.432.AQJ863.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "10"]
+[Auction "W"]
+Pass    Pass    1C      1D
+Pass    2D      2H      3D
+3H      Pass    Pass    4D
+Pass    Pass    Pass
+[Play "W"]
+SJ S2 S3 SQ
+C3 C6 C2 CK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "12"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:JT6.T97.4.J98743 98742.Q5.T752.Q6 K3.AKJ86.K9.AT52 AQ5.432.AQJ863.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "W"]
+Pass    Pass    1H      2D
+Pass    Pass    2NT     Pass
+3C      Pass    Pass    Pass
+[Play "N"]
+D7 DK DA D4
+D2 D9 DQ C3
+C6 C2 CK C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "13"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT852.QJ.9.JT42 J93.753.A53.AQ95 K764.KT96.T4.K73 .A842.KQJ8762.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Auction "N"]
+2S      Pass    3S      4D
+Pass    5D      Pass    Pass
+Pass
+[Play "N"]
+HQ H3 H6 H2
+HJ H5 H9 HA
+D9 DA D4 D2
+S5 D3 DT DK
+C2 H7 HT H4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "13"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQT852.QJ.9.JT42 J93.753.A53.AQ95 K764.KT96.T4.K73 .A842.KQJ8762.86"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Auction "N"]
+2S      Pass    3S      4D
+Pass    5D      Pass    Pass
+Pass
+[Play "N"]
+SA S3 S4 D2
+D9 D3 D4 DK
+S2 DA DT D6
+S5 S9 S6 D7
+HJ H3 H6 H2
+C2 CQ CK C6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "14"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T976.K6.AKQ.KQ92 Q43.QJ874.3.AJ83 852.T92.J87642.T AKJ.A53.T95.7654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1C      1H      Pass    3H
+Pass    Pass    Pass
+[Play "W"]
+CT C4 C2 CJ
+H2 HA H6 H4
+H9 H3 HK H7
+HT C5 CQ CA
+D2 D5 DQ D3
+D4 C6 CK C3
+S2 C7 C9 C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "14"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T976.K6.AKQ.KQ92 Q43.QJ874.3.AJ83 852.T92.J87642.T AKJ.A53.T95.7654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "E"]
+1NT     Pass    2C      Pass
+2S      Pass    3D      Pass
+Pass    Pass
+[Play "N"]
+SA S6 S3 S2
+H3 HK H4 H2
+C4 CK CA CT
+H5 H6 HQ H9
+SK S7 SQ S5
+SJ S9 S4 S8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "15"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKQ82.Q65.QJT.QT 7.K932.872.J5432 9654.J874.K963.8 JT3.AT.A54.AK976"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "10"]
+[Auction "S"]
+1NT     Pass    Pass    X
+Pass    2C      Pass    Pass
+Pass
+[Play "N"]
+S4 S3 SQ S7
+S5 ST SK C2
+C8 CA CT C3
+D6 CK CQ C4
+S6 SJ SA C5
+D3 D5 DT D2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "15"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKQ82.Q65.QJT.QT 7.K932.872.J5432 9654.J874.K963.8 JT3.AT.A54.AK976"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[Score "NS 50"]
+[Auction "S"]
+1S      Pass    2S      3C
+3S      4C      Pass    5C
+Pass    Pass    Pass
+[Play "S"]
+SA S7 S4 S3
+DQ D2 D3 D4
+DJ D7 D6 DA
+CT C2 C8 CA
+SQ C3 S5 ST
+CQ C4 D9 CK
+H5 H2 H4 HA
+H6 HK H7 HT
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "16"]
+[West "Garozzo"]
+[North "Wolff"]
+[East "Belladonna"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q832.83.J765.QT5 KT74.K.83.J98742 J65.A7652.AT4.K3 A9.QJT94.KQ92.A6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    1H      Pass
+Pass    2C      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+S2 S4 S5 S9
+H3 HK H2 H4
+D5 D3 D4 DK
+H8 C2 HA HQ
+S3 S7 S6 SA
+D6 C4 H5 HJ
+D7 C7 H6 HT
+DJ C8 H7 H9
+C5 C9 C3 CA
+CT CJ CK C6
+CQ D8 DA D2
+S8 SK SJ D9
+SQ ST DT DQ
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "16"]
+[West "Kehela"]
+[North "Forquet"]
+[East "Murray"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q832.83.J765.QT5 KT74.K.83.J98742 J65.A7652.AT4.K3 A9.QJT94.KQ92.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "4"]
+[Auction "W"]
+Pass    Pass    1H      Pass
+Pass    Pass
+[Play "S"]
+H4 H3 HK HA
+*
+
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "17"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:2.KT32.Q6.KQT854 AK64.J6.AT95.932 JT75.9754.J742.A Q983.AQ8.K83.J76"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "N"]
+Pass    1D      Pass    1S
+X       2S      Pass    Pass
+3C      Pass    3H      Pass
+Pass    Pass
+[Play "W"]
+S3 S2 SK S5
+SQ H2 S4 SJ
+C6 C4 C2 CA
+HA H3 H6 H4
+D3 D6 DA D2
+DK DQ D5 D4
+S9 HT S6 S7
+H8 HK HJ H5
+C7 CK C3 ST
+CJ CQ C9 D7
+HQ CT D9 DJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "17"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:2.KT32.Q6.KQT854 AK64.J6.AT95.932 JT75.9754.J742.A Q983.AQ8.K83.J76"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+Pass    1C      Pass    1S
+Pass    2S      Pass    3NT
+Pass    4S      Pass    Pass
+Pass
+[Play "N"]
+CK C2 CA C6
+HK H6 H7 H8
+CQ C3 H4 C7
+C4 C9 ST CJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "18"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQT5.Q94.QT3.K86 K3.K8765.75.AQT4 7642.A3.AJ82.932 J98.JT2.K964.J75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "E"]
+1D      1H      1S      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+HJ H4 H8 HA
+S8 ST SK S2
+D4 D3 D7 DA
+S9 SQ S3 S4
+SJ SA H5 S6
+DK DQ D5 D2
+CJ C6 CT C2
+C7 C8 CQ C3
+C5 CK CA C9
+H2 H9 HK H3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "18"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQT5.Q94.QT3.K86 K3.K8765.75.AQT4 7642.A3.AJ82.932 J98.JT2.K964.J75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "E"]
+1C      Pass    1S      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+HJ H4 H8 HA
+S8 ST SK S2
+H2 H9 HK H3
+HT HQ H7 C2
+S9 SA S3 S4
+SJ SQ C4 S6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "19"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQ95..K3.KT8732 82.AJ943.A97.A95 J3.K652.J654.QJ6 T764.QT87.QT82.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[Auction "S"]
+1C      1H      1NT     2H
+3S      Pass    4C      Pass
+4H      Pass    5C      Pass
+Pass    Pass
+[Play "W"]
+CA C6 C4 C2
+C5 CJ H8 C3
+C9 CQ H7 C7
+DA D4 D2 DK
+HA H2 HT C8
+S2 SJ S4 S5
+H3 HK HQ D3
+S8 S3 S6 SA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "19"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKQ95..K3.KT8732 82.AJ943.A97.A95 J3.K652.J654.QJ6 T764.QT87.QT82.4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "S"]
+1C      1H      X       3H
+4C      Pass    4H      Pass
+4S      Pass    5C      Pass
+Pass    X       Pass    Pass
+Pass
+[Play "W"]
+C5 C6 C4 C7
+CA CJ H7 C2
+C9 CQ H8 C3
+H3 H2 HQ C8
+S2 SJ S4 S5
+DA D4 D2 DK
+HA H5 HT CT
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "20"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K3.JT974.52.KJ84 Q754.5.JT873.T93 J92.AQ62.KQ4.752 AT86.K83.A96.AQ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    1D      1NT
+2H      Pass    Pass    Pass
+[Play "N"]
+DJ DK DA D2
+D3 DQ D9 D5
+D7 D4 D6 H4
+H5 H2 HK HJ
+C3 C2 CA C4
+C9 C5 C6 CJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "20"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K3.JT974.52.KJ84 Q754.5.JT873.T93 J92.AQ62.KQ4.752 AT86.K83.A96.AQ6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "W"]
+Pass    Pass    1H      X
+2NT     Pass    3H      X
+Pass    3S      Pass    Pass
+Pass
+[Play "E"]
+S2 S6 SK S4
+S9 S8 S3 SQ
+D4 D6 D2 D7
+HA H3 H7 H5
+SJ SA H4 S5
+DQ DA D5 D3
+DK D9 C8 D8
+C2 CA C4 C3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "21"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT987.A7.853.KQ9 AQJ5.532.Q92.762 42.Q98.KJ4.AT853 63.KJT64.AT76.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "N"]
+1S      Pass    1NT     Pass
+2C      Pass    2NT     Pass
+Pass    Pass
+[Play "W"]
+HJ H7 H2 HQ
+C4 CK C2 C3
+DA D3 D2 DK
+H4 HA H3 H8
+CJ CQ C6 C5
+S3 C9 C7 CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "21"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT987.A7.853.KQ9 AQJ5.532.Q92.762 42.Q98.KJ4.AT853 63.KJT64.AT76.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "N"]
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "W"]
+HT H7 H2 HQ
+C4 CK C2 C3
+CJ CQ C6 C5
+D6 C9 C7 CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "22"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A5.5.AT742.KQ652 J94.A984.983.T83 T863.Q62.KQ6.974 KQ72.KJT73.J5.AJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "E"]
+1D      Pass    1S      2H
+3C      Pass    Pass    Pass
+[Play "S"]
+HA H2 H7 H5
+H4 H6 HT C2
+D3 DK D5 D2
+C3 C4 CA C5
+H8 HQ HK S5
+S4 S3 SK SA
+D8 DQ DJ D4
+C8 C9 CJ CK
+CT C7 S2 CQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "22"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A5.5.AT742.KQ652 J94.A984.983.T83 T863.Q62.KQ6.974 KQ72.KJT73.J5.AJ"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "E"]
+1D      Pass    1S      X
+Pass    2H      Pass    Pass
+3C      Pass    3D      3H
+Pass    Pass    Pass
+[Play "W"]
+DK D5 D7 D3
+C9 CJ CQ C3
+D6 DJ DA D8
+HQ HK H5 H4
+H2 HJ C6 H8
+H6 H3 D2 H9
+S3 S2 SA SJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "23"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q5.Q872.A76.AKQ6 T6.KJ9.KJ8.97542 K97432.54.T54.T3 AJ8.AT63.Q932.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "2"]
+[Auction "S"]
+1NT     Pass    2H      Pass
+2S      Pass    Pass    Pass
+[Play "W"]
+C4 C3 CJ CA
+S6 S2 S8 SQ
+ST SK SA S5
+C2 S3 SJ H2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "23"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q5.Q872.A76.AKQ6 T6.KJ9.KJ8.97542 K97432.54.T54.T3 AJ8.AT63.Q932.J8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "2"]
+[Auction "S"]
+1C      Pass    1D      Pass
+1NT     Pass    2H      Pass
+2S      Pass    Pass    Pass
+[Play "W"]
+C4 C3 CJ CA
+S6 S2 S8 SQ
+ST SK SA S5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "24"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:8643.9.63.QT9873 QT752.AT7.T974.6 AKJ.K6432.J52.52 9.QJ85.AKQ8.AKJ4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Auction "W"]
+Pass    Pass    1H      2NT
+Pass    4D      Pass    5D
+Pass    Pass    Pass
+[Play "E"]
+SA S9 S3 S2
+C5 CA C3 C6
+C2 C4 C7 D4
+D2 DA D3 DT
+DJ CJ C8 D9
+D5 D8 D6 D7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "24"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:8643.9.63.QT9873 QT752.AT7.T974.6 AKJ.K6432.J52.52 9.QJ85.AKQ8.AKJ4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "4"]
+[Auction "W"]
+Pass    Pass    1H      Pass
+Pass    Pass
+[Play "S"]
+DA D3 D4 D2
+HQ H9 H7 HK
+CA C3 C6 C5
+DK D6 D7 D5
+DQ C7 D9 DJ
+CK C8 S2 C2
+C4 C9 HT SJ
+H5 S3 HA H2
+-  -  DT -
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "25"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ98.73.J86.AQ76 K754.AQ54.KQ5.84 T632.K62.972.KJ2 Q.JT98.AT43.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "N"]
+Pass    1D      Pass    1H
+X       2H      2S      Pass
+Pass    3H      Pass    Pass
+3S      Pass    Pass    Pass
+[Play "W"]
+HJ H3 HA H2
+H8 H7 H4 HK
+SQ SA S5 S2
+D4 S8 SK S3
+DT D6 DK D2
+D3 D8 DQ D7
+DA DJ D5 D9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "25"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AJ98.73.J86.AQ76 K754.AQ54.KQ5.84 T632.K62.972.KJ2 Q.JT98.AT43.T953"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1D      X       Pass    1H
+Pass    Pass    1S      2C
+Pass    2H      Pass    Pass
+2S      Pass    Pass    Pass
+[Play "W"]
+HJ H3 H4 HK
+H8 H7 H5 H6
+SQ SA S4 S2
+D4 SJ S5 S3
+H9 S9 SK S6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "26"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:5.Q8542.K85.T952 AK862.K7.973.AQJ QJ94.JT6.AJ2.743 T73.A93.QT64.K86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Auction "E"]
+Pass    1S      Pass    2S
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+HJ H3 H4 HK
+S4 S3 S5 SA
+SJ S7 C2 S2
+HT H9 HQ H7
+H6 HA H5 D7
+C3 C6 C5 CA
+D2 DT DK D3
+DJ D4 H8 S6
+C4 D6 H2 S8
+DA DQ D5 D9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "26"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:5.Q8542.K85.T952 AK862.K7.973.AQJ QJ94.JT6.AJ2.743 T73.A93.QT64.K86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    1C      Pass    1NT
+Pass    2S      Pass    2NT
+Pass    3C      Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "W"]
+HJ H3 H8 HK
+S4 S3 S5 SA
+S9 S7 H5 SK
+D2 D4 DK D9
+HT HA H2 H7
+C3 C6 C9 CA
+DA D6 D5 D3
+SQ ST C2 S2
+SJ DT D8 S6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "27"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A7.J9542.J85.KQ8 KJ53.KT6.AK.J974 QT9.A3.97643.653 8642.Q87.QT2.AT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    2S      Pass    Pass
+Pass
+[Play "S"]
+CK C4 C3 CA
+S7 SJ SQ S2
+D5 DA D3 D2
+SA S3 S9 S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "27"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A7.J9542.J85.KQ8 KJ53.KT6.AK.J974 QT9.A3.97643.653 8642.Q87.QT2.AT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1H      X       Pass    1S
+Pass    Pass    1NT     X
+Pass    Pass    2D      Pass
+Pass    2S      Pass    Pass
+Pass
+[Play "S"]
+H4 H6 HA H7
+H2 HT H3 HQ
+S7 SK S9 S2
+SA S3 ST S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "28"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A4.QT975.86.JT63 KQ852.AK64.74.K9 T93..AT953.Q7542 J76.J832.KQJ2.A8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Score "NS 790"]
+[Auction "W"]
+Pass    1S      Pass    1NT
+Pass    2H      Pass    4H
+X       Pass    Pass    4S
+X       Pass    Pass    Pass
+[Play "E"]
+DA D2 D6 D4
+DT DJ D8 D7
+S3 S6 SA S2
+S9 H2 H5 H4
+D3 DQ S4 S5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "28"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A4.QT975.86.JT63 KQ852.AK64.74.K9 T93..AT953.Q7542 J76.J832.KQJ2.A8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+Pass    1S      Pass    2D
+Pass    2H      Pass    4H
+Pass    Pass    Pass
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "29"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T75.KQ762..QT932 86.JT.AT43.AKJ75 QJ42.954.KQ9762. AK93.A83.J85.864"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -600"]
+[Auction "N"]
+Pass    2C      Pass    2D
+Pass    3C      Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+H6 HJ H4 H3
+C2 CA D7 C4
+S5 S6 S2 SA
+C9 CJ D2 C8
+S7 S8 S4 SK
+CT CK D6 C6
+CQ C7 D9 D5
+HK HT H5 HA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "29"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T75.KQ762..QT932 86.JT.AT43.AKJ75 QJ42.954.KQ9762. AK93.A83.J85.864"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 200"]
+[Auction "N"]
+Pass    1C      1D      1S
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass
+[Play "S"]
+H5 H3 HQ HT
+H4 H8 HK HJ
+H9 HA H2 D3
+D7 C4 C2 CJ
+D2 C6 C3 CA
+D6 C8 C9 CK
+DQ D5 H6 D4
+S2 SA S7 S6
+SQ SK S5 S8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "30"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q5.AK642.K2.A842 AT43.9.AQT8653.3 K86.J83.J94.QJT6 J972.QT75.7.K975"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+1C      1D      X       Pass
+1H      1S      Pass    2S
+Pass    3D      3H      3S
+Pass    4S      Pass    Pass
+Pass
+[Play "W"]
+CQ C5 C2 C3
+CJ C7 C4 S3
+D4 D7 D2 DA
+D9 S7 DK D3
+SK S2 S5 ST
+H3 H5 HK H9
+C6 C9 CA S4
+DJ H7 SQ DQ
+CT CK C8 D5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "30"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q5.AK642.K2.A842 AT43.9.AQT8653.3 K86.J83.J94.QJT6 J972.QT75.7.K975"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "E"]
+1H      2D      2H      Pass
+3H      3S      Pass    4S
+Pass    Pass    Pass
+[Play "W"]
+CQ C5 C2 C3
+CJ C7 C4 S3
+D4 D7 D2 DA
+D9 S2 DK D3
+SK S9 S5 S4
+H3 H5 HK H9
+S6 SJ SQ SA
+S8 S7 H6 ST
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "31"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:86.K82.A5.AJT964 KQJ743.74.KQ86.K 5.J53.JT97432.85 AT92.AQT96..Q732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+1C      2S      Pass    4S
+Pass    Pass    Pass
+[Play "N"]
+C8 C2 CA CK
+C5 CQ CJ H4
+H3 HA H2 H7
+H5 H6 H8 S3
+S5 S2 S6 SK
+D2 SA S8 S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "31"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:86.K82.A5.AJT964 KQJ743.74.KQ86.K 5.J53.JT97432.85 AT92.AQT96..Q732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+2C      2S      Pass    3C
+Pass    4S      Pass    Pass
+Pass
+[Play "N"]
+C8 C2 CA CK
+C5 CQ CJ H4
+H3 HA H2 H7
+H5 H6 H8 S3
+S5 S2 S6 SK
+D2 SA S8 S4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Open"]
+[Board "32"]
+[West "Forquet"]
+[North "Blumenthal"]
+[East "Bianchi"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:96.AQT8.QT8.T972 Q82.J972.AJ94.K6 AKJT73.K3.2.Q543 54.654.K7653.AJ8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+1NT     X       2S      3D
+Pass    Pass    Pass
+[Play "W"]
+S9 S2 ST S4
+S6 S8 SA S5
+C2 SQ SK H4
+HT H2 HK H5
+HQ H7 H3 H6
+C7 C6 CQ CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice, Italy"]
+[Date "1974.05.26"]
+[Room "Closed"]
+[Board "32"]
+[West "Kehela"]
+[North "Belladonna"]
+[East "Murray"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:96.AQT8.QT8.T972 Q82.J972.AJ94.K6 AKJT73.K3.2.Q543 54.654.K7653.AJ8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+1NT     Pass    2S      Pass
+Pass    Pass
+[Play "S"]
+H4 H8 H9 HK
+S4 S6 S2 SA
+S5 S9 S8 SK
+H5 HA H2 H3
+H6 HQ H7 D2
+*
+
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[HomeTeam "Italy"]
+[VisitTeam "North America"]
+[Room "Open"]
+[Board "33"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T65.K.764.AQJ976 AQ4.A8752.QJ82.5 J9.QT943.K3.8432 K8732.J6.AT95.KT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "N"]
+Pass    1H      Pass    1S
+2C      2S      Pass    4S
+Pass    Pass    Pass
+[Play "N"]
+D4 DQ DK DA
+S5 S4 S9 SK
+S6 SQ SJ S2
+CA C5 C8 CK
+ST SA C2 S3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "33"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T65.K.764.AQJ976 AQ4.A8752.QJ82.5 J9.QT943.K3.8432 K8732.J6.AT95.KT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "N"]
+3C      X       4C      4S
+Pass    Pass    Pass
+[Play "N"]
+CA C5 C2 CT
+HK HA H3 H6
+S5 S4 S9 SK
+S6 SA SJ S2
+ST SQ C3 S3
+D4 DQ D3 D5
+D6 DJ DK DA
+D7 D2 HT D9
+C6 H2 C4 CK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "34"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A743..A963.T9653 62.KQ832.T852.J2 KQT98.T96.KQJ.87 J5.AJ754.74.AKQ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "11"]
+[Score "NS -690"]
+[Auction "E"]
+Pass    Pass    2S      X
+4S      X       Pass    Pass
+Pass
+[Play "N"]
+CA C3 C2 C7
+C4 C5 CJ C8
+D4 D3 D2 DK
+H4 S3 H2 H6
+S5 SA S2 S8
+CQ C6 D5 S9
+H5 S4 H3 H9
+CK C9 D8 ST
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "34"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A743..A963.T9653 62.KQ832.T852.J2 KQT98.T96.KQJ.87 J5.AJ754.74.AKQ4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "E"]
+Pass    Pass    2S      X
+4S      Pass    Pass    X
+Pass    5H      Pass    Pass
+5S      X       Pass    Pass
+Pass
+[Play "N"]
+CQ C3 CJ C7
+D7 D3 DT DK
+H4 S3 H2 H6
+CK C5 C2 C8
+D4 D6 D2 DQ
+H5 S4 H3 H9
+S5 SA S2 S8
+C4 C6 D5 S9
+H7 S7 H8 HT
+CA C9 D8 ST
+SJ D9 S6 SK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "35"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:32.9843.Q987.873 T65..AKT6543.AK9 J974.QJ75.J2.J52 AKQ8.AKT62..QT64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result "12"]
+[Score "NS 100"]
+[Auction "S"]
+Pass    1C      Pass    2D
+Pass    3D      Pass    3H
+Pass    4D      Pass    4NT
+Pass    5H      Pass    5NT
+Pass    6H      Pass    7NT
+Pass    Pass    Pass
+[Play "S"]
+C7 C9 CJ CQ
+C3 CA C2 C4
+C8 CK C5 C6
+D7 DA D2 H2
+D8 DK DJ H6
+S2 S5 S9 SA
+D9 D3 H5 CT
+H3 D4 H7 HA
+H4 D5 HJ HK
+H8 D6 HQ HT
+S3 S6 S7 S8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "35"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:32.9843.Q987.873 T65..AKT6543.AK9 J974.QJ75.J2.J52 AKQ8.AKT62..QT64"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    3D      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+S4 SA S2 S5
+C2 C4 C3 CA
+D2 H2 D7 DA
+DJ H6 D8 DK
+H5 HT DQ DT
+HJ HK H3 D3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "36"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J862.J.82.KQJ962 QT43.AT65.A4.T43 K5.K7.KJT9753.75 A97.Q98432.Q6.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    3D      3H
+Pass    4H      Pass    Pass
+Pass
+[Play "W"]
+D8 DA D3 D6
+S2 S3 S5 SA
+HJ HA H7 HQ
+C2 H5 HK H2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "36"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J862.J.82.KQJ962 QT43.AT65.A4.T43 K5.K7.KJT9753.75 A97.Q98432.Q6.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    Pass    3D      Pass
+Pass    X       Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+D8 DA D3 D6
+SJ S3 S5 S9
+D2 D4 DK DQ
+C2 C3 C7 CA
+HJ HA H7 H2
+S2 S4 SK SA
+S8 SQ HK S7
+CJ C4 C5 C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "37"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A85.JT95.AQ6.J95 J43.KQ73.T853.K7 QT2.864.K97.6432 K976.A2.J42.AQT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "9"]
+[Auction "N"]
+1D      Pass    1H      X
+Pass    1S      Pass    Pass
+Pass
+[Play "S"]
+C4 C8 C9 CK
+H4 HA H5 H3
+H6 H2 HJ HK
+H8 D2 H9 HQ
+D7 S6 HT H7
+C2 CA C5 C7
+C3 CQ CJ D3
+DK D4 D6 DT
+S2 S7 SA S3
+D9 DJ DA D5
+C6 S9 DQ D8
+ST SK S5 S4
+SQ CT S8 SJ
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "37"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A85.JT95.AQ6.J95 J43.KQ73.T853.K7 QT2.864.K97.6432 K976.A2.J42.AQT8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Score "NS -110"]
+[Auction "N"]
+1C      Pass    Pass    X
+Pass    1H      2C      Pass
+Pass    2D      Pass    Pass
+Pass
+[Play "S"]
+C4 C8 C9 CK
+H4 HA H5 H3
+H6 H2 H9 HK
+H8 S6 HT HQ
+S2 D2 HJ H7
+C2 CA C5 C7
+C3 CQ CJ S3
+C6 CT D6 D8
+D7 DJ DQ D3
+D9 D4 DA D5
+ST S7 SA S4
+SQ SK S5 SJ
+DK S9 S8 DT
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "38"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T65.AK3.AJT76.KT AJ972.Q962.KQ9.A Q3.T8.32.QJ98752 K84.J754.854.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+1NT     2C      Pass    2H
+Pass    2S      3C      3D
+Pass    4C      Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+CK CA C2 C3
+HK HQ H8 H4
+CT H2 C5 C4
+HA H9 HT HJ
+H3 H6 C7 H7
+S5 S2 S3 SK
+S6 SJ SQ S4
+D6 D9 CQ C6
+DA DQ D2 D4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "38"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T65.AK3.AJT76.KT AJ972.Q962.KQ9.A Q3.T8.32.QJ98752 K84.J754.854.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "E"]
+1D      X       2C      Pass
+Pass    X       Pass    2H
+Pass    Pass    Pass
+[Play "E"]
+CK CA C2 C3
+HK HQ H8 H4
+HA H2 HT H5
+H3 H6 C5 H7
+S5 SJ SQ S4
+DA D9 D3 D4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "39"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K73.532.96.JT942 AJT5.J6.AQ87.653 9862.KQ8.KT432.K Q4.AT974.J5.AQ87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass    1S      Pass    2H
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+D3 DJ D6 D7
+S2 SQ SK SA
+HQ HA H2 HJ
+HK HT H3 H6
+S6 S4 S3 ST
+CK CA C2 C3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "39"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K73.532.96.JT942 AJT5.J6.AQ87.653 9862.KQ8.KT432.K Q4.AT974.J5.AQ87"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    1S      Pass    3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+D3 DJ D6 D7
+S2 S4 SK SA
+S6 SQ S3 S5
+HQ H4 H2 HJ
+CK CA C2 C3
+H8 HA H3 H6
+HK H7 H5 D8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "40"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:875.87.J93.AJ753 Q42.AT96.K854.K2 KT9.KQJ52.62.964 AJ63.43.AQT7.QT8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "W"]
+Pass    1D      1H      1S
+Pass    1NT     Pass    2H
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "E"]
+HK H3 H7 HA
+S9 SJ S5 S2
+ST SA S7 S4
+SK S3 S8 SQ
+C4 CT CA C2
+HJ H4 H8 H9
+HQ D7 C3 H6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "40"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:875.87.J93.AJ753 Q42.AT96.K854.K2 KT9.KQJ52.62.964 AJ63.43.AQT7.QT8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+Pass    Pass    Pass    1D
+Pass    1H      Pass    1S
+Pass    3D      Pass    Pass
+Pass
+[Play "W"]
+H8 H9 HJ H3
+D3 D4 D2 DQ
+C3 CK C4 C8
+CJ C2 C6 CT
+H7 HA H2 H4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "41"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ732.A92.AT2.A3 AJ65.KJ.KQ85.Q52 .QT875.J76.JT986 T984.643.943.K74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "N"]
+1C      X       1D      Pass
+1S      Pass    2H      Pass
+Pass    Pass
+[Play "W"]
+D3 D2 DQ D6
+C4 CA CQ C6
+H3 H2 HK H5
+CK C3 C2 C8
+D4 DA D5 D7
+S4 SK SA H7
+H4 HA HJ H8
+S8 SQ S5 DJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "41"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ732.A92.AT2.A3 AJ65.KJ.KQ85.Q52 .QT875.J76.JT986 T984.643.943.K74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS -50"]
+[Auction "N"]
+1S      Pass    Pass    Pass
+[Play "E"]
+DK D6 D3 DA
+S5 H5 S4 SQ
+S6 C6 S8 S2
+CQ C8 C4 C3
+DQ DJ D4 D2
+D5 D7 D9 DT
+C2 C9 C7 CA
+SJ H7 S9 S3
+D8 CT H3 S7
+SA CJ ST SK
+C5 H8 CK H2
+HJ HT H6 HA
+HK HQ H4 H9
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "42"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q96.T72.753.KT42 JT4.AKJ85.QT4.76 K832.Q96.86.AJ83 A75.43.AKJ92.Q95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    Pass    Pass    1NT
+Pass    2D      Pass    2H
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+C2 C6 CA C5
+CT C7 C3 C9
+CK H5 C8 CQ
+C4 H8 CJ S5
+S6 S4 S2 SA
+D3 DQ D6 D2
+D5 DT D8 D9
+D7 D4 S3 DJ
+H2 ST S8 DA
+H7 SJ SK DK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "42"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q96.T72.753.KT42 JT4.AKJ85.QT4.76 K832.Q96.86.AJ83 A75.43.AKJ92.Q95"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    Pass    Pass    1D
+Pass    1H      Pass    1NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+C2 C6 CA C5
+CT C7 C3 C9
+CK H5 C8 CQ
+C4 H8 CJ S5
+S6 S4 S2 SA
+D3 DQ D6 D2
+D5 DT D8 D9
+D7 D4 S3 DJ
+H2 ST S8 DA
+H7 SJ SK DK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "43"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJT8.J3.KT64.QT5 K932.9876.AQ.AK6 Q7654.AT2.J5.987 .KQ54.98732.J432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+Pass    1NT     Pass    Pass
+Pass
+[Play "N"]
+S5 D2 SA S2
+S4 D3 SJ SK
+H2 HQ H3 H6
+C7 C2 C5 CA
+HA H4 HJ H9
+S6 C3 ST S3
+SQ D7 S8 S9
+S7 D8 D6 C6
+C9 C4 CT CK
+HT HK D4 H8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "43"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJT8.J3.KT64.QT5 K932.9876.AQ.AK6 Q7654.AT2.J5.987 .KQ54.98732.J432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass    1C      Pass    1D
+Pass    1H      Pass    3H
+Pass    Pass    Pass
+[Play "N"]
+S5 C2 SA S2
+H2 HK HJ H6
+C7 C3 C5 CA
+S4 C4 S8 SK
+S6 H4 ST S3
+C8 CJ CQ CK
+S7 H5 SJ S9
+D5 D2 D4 DA
+C9 HQ CT C6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "44"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK974.A.A93.A762 T82.K2.J8.KQT943 Q653.T43.742.J85 J.QJ98765.KQT65."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+1C      Pass    1D      4H
+4S      Pass    Pass    Pass
+[Play "N"]
+HK H3 H5 HA
+S2 S3 SJ SA
+S8 S5 D5 SK
+ST SQ H9 S4
+C3 C5 D6 CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "44"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK974.A.A93.A762 T82.K2.J8.KQT943 Q653.T43.742.J85 J.QJ98765.KQT65."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1C      2C      Pass    3H
+3S      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+S2 S3 SJ SA
+H2 H3 H5 HA
+S8 SQ D5 S4
+HK H4 H6 S7
+ST S5 H9 SK
+CQ C5 D6 C2
+DJ D2 DQ DA
+D8 D4 DT D3
+C3 D7 DK D9
+C4 HT HQ S9
+C9 C8 H7 CA
+CK CJ H8 C6
+CT S6 HJ C7
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "45"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:75.QT876.A73.KQ7 T983.53.JT842.T8 KQJ6.92.95.A6542 A42.AKJ4.KQ6.J93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+1H      Pass    1S      Pass
+Pass    Pass
+[Play "W"]
+S2 S5 S8 SK
+HK H6 H3 H2
+DK D3 D2 D5
+DQ DA D4 D9
+C3 C7 C8 CA
+HA H7 H5 H9
+D6 D7 D8 S6
+C9 CK CT C2
+SA S7 S9 SQ
+S4 H8 ST SJ
+CJ CQ S3 C4
+H4 HT DJ C5
+HJ HQ DT C6
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "45"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:75.QT876.A73.KQ7 T983.53.JT842.T8 KQJ6.92.95.A6542 A42.AKJ4.KQ6.J93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "8"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+1H      Pass    Pass    Pass
+[Play "E"]
+DJ D5 DQ D3
+H3 H2 HA H6
+H5 H9 HK H7
+D2 D9 DK DA
+D4 C2 H4 HQ
+C8 CA C3 C7
+CT C4 C9 CQ
+ST C5 CJ CK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "46"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:64.T832.AQ63.K75 AKT3.K7.J9.T8642 Q975.A654.7542.3 J82.QJ9.KT8.AQJ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass    Pass    Pass    1NT
+Pass    2C      Pass    2D
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+H2 H7 HA H9
+H8 HK H4 HQ
+CK C2 C3 CJ
+HT S3 H5 HJ
+C5 C4 D2 CA
+C7 C6 S5 CQ
+D6 CT D7 C9
+S4 C8 D5 S2
+S6 SA S7 S8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "46"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:64.T832.AQ63.K75 AKT3.K7.J9.T8642 Q975.A654.7542.3 J82.QJ9.KT8.AQJ9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass    Pass    Pass    1C
+Pass    1S      Pass    1NT
+Pass    3C      Pass    3S
+Pass    3NT     Pass    Pass
+Pass
+[Play "E"]
+H2 HK HA H9
+H3 H7 H4 HQ
+S4 SA S5 S2
+CK C2 C3 CJ
+HT D9 H5 HJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "47"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T7.9865.KQJT65.K 98652.AT2.984.84 KQ4.J74.3.AJT962 AJ3.KQ3.A72.Q753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Score "NS -110"]
+[Auction "S"]
+Pass    Pass    Pass    1NT
+Pass    2S      Pass    Pass
+Pass
+[Play "N"]
+H4 H3 H8 HT
+SQ SA S7 S2
+H7 HK H5 HA
+SK S3 ST S5
+D3 DA D5 D4
+S4 SJ DK S6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "47"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T7.9865.KQJT65.K 98652.AT2.984.84 KQ4.J74.3.AJT962 AJ3.KQ3.A72.Q753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "S"]
+Pass    Pass    1C      X
+2D      2S      Pass    3S
+Pass    Pass    Pass
+[Play "N"]
+D3 DA D5 D4
+H4 HK H5 H2
+H7 HQ H6 HT
+HJ H3 H8 HA
+CA C3 CK C4
+C2 CQ S7 C8
+C6 D2 DK D8
+C9 D7 DQ D9
+SK SA DJ S9
+SQ SJ ST S2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "48"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:65.9873.T9.AQ983 T74.AK5.KJ2.7642 QJ3.QJ4.AQ865.KT AK982.T62.743.J5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+Pass    Pass    1NT     Pass
+Pass    X       Pass    2S
+3C      Pass    Pass    3S
+Pass    Pass    Pass
+[Play "W"]
+DT DJ DQ D3
+C9 C2 CK C5
+CQ C4 CT CJ
+D9 D2 D5 D4
+CA C6 D6 S2
+H3 HA H4 H2
+H7 HK HJ H6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "48"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:65.9873.T9.AQ983 T74.AK5.KJ2.7642 QJ3.QJ4.AQ865.KT AK982.T62.743.J5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass    Pass    1D      1S
+X       XX      1NT     Pass
+Pass    2S      Pass    Pass
+Pass
+[Play "W"]
+DT DJ DQ D3
+C9 C2 CK C5
+CQ C4 CT CJ
+D9 D2 D5 D4
+CA C6 D6 S2
+H3 HA H4 H2
+H7 HK HJ H6
+*
+
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[HomeTeam "Italy"]
+[VisitTeam "North America"]
+[Room "Open"]
+[Board "49"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:962.KT63.KT5.KQ4 A4.Q9742.643.JT7 KJ85.5.AJ87.A986 QT73.AJ8.Q92.532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass    Pass    1D      Pass
+1H      Pass    1S      Pass
+1NT     Pass    2C      Pass
+3C      Pass    3D      Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+H4 H5 HA H3
+H2 S5 HJ HK
+C7 C6 C2 CK
+CT C8 C3 CQ
+CJ CA C5 C4
+D3 C9 S3 S2
+D4 D7 D2 DT
+D6 D8 D9 DK
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "49"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:962.KT63.KT5.KQ4 A4.Q9742.643.JT7 KJ85.5.AJ87.A986 QT73.AJ8.Q92.532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS -150"]
+[Auction "N"]
+Pass    Pass    1D      Pass
+1H      Pass    1S      Pass
+2NT     Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+CJ C6 C2 CK
+S4 SJ SQ S2
+H2 H5 HJ HK
+D3 D7 DQ DT
+H4 S5 HA H3
+HQ C8 H8 HT
+H9 D8 D2 H6
+H7 C9 S3 S6
+SA S8 S7 S9
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "50"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQT7.A2.654.AJ82 A9432.KJT8.2.KT9 865.94.AKT98.753 J.Q7653.QJ73.Q64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "11"]
+[Score "NS 200"]
+[Auction "E"]
+1C      X       1D      1H
+2D      2H      3D      3H
+Pass    Pass    Pass
+[Play "E"]
+D6 D2 DT DQ
+SQ SA S5 SJ
+S7 S2 S6 H3
+HA H8 H4 HQ
+H2 HT H9 H5
+ST S3 S8 H6
+D4 HJ D8 D3
+CA C9 C3 CQ
+SK S4 C5 H7
+C2 CT C7 C6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "50"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQT7.A2.654.AJ82 A9432.KJT8.2.KT9 865.94.AKT98.753 J.Q7653.QJ73.Q64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "E"]
+1D      X       2D      2H
+Pass    Pass    Pass
+[Play "E"]
+D6 D2 DK D3
+HA H8 H4 H3
+H2 HT H9 H5
+S7 SA S5 SJ
+ST S2 S6 H6
+C2 CT C3 C4
+SQ S3 S8 H7
+CA C9 C5 CQ
+SK S4 D8 HQ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "51"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:753.4.JT63.J9654 A42.983.K72.KQT8 KT9.J62.9854.732 QJ86.AKQT75.AQ.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "13"]
+[Score "NS -2210"]
+[Auction "S"]
+Pass    Pass    Pass    2C
+Pass    2D      Pass    2H
+Pass    3H      Pass    4C
+Pass    4NT     Pass    5C
+Pass    5NT     Pass    7H
+Pass    Pass    Pass
+[Play "S"]
+DJ D2 D4 DQ
+H4 H3 H2 HA
+C4 H8 H6 HK
+S3 H9 HJ HQ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "51"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:753.4.JT63.J9654 A42.983.K72.KQT8 KT9.J62.9854.732 QJ86.AKQT75.AQ.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Score "NS -1460"]
+[Auction "S"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    2C
+Pass    3NT     Pass    6H
+Pass    Pass    Pass
+[Play "S"]
+DJ D2 D4 DQ
+H4 H3 H2 HA
+C4 H8 H6 HK
+S3 H9 HJ HQ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "52"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J642.AQJ9.KT3.KT KQ3.T743.9.AQ753 A.K85.AJ7642.J94 T9875.62.Q85.862"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "W"]
+1D      X       XX      1S
+Pass    Pass    2S      Pass
+3H      Pass    5D      Pass
+Pass    Pass
+[Play "N"]
+SK SA S5 S2
+D9 D2 D5 DK
+S3 D4 S7 S4
+C3 DA D8 D3
+H3 H5 H2 HA
+SQ D6 S8 S6
+H4 HK H6 H9
+H7 H8 DQ HJ
+CQ C4 C2 CT
+CA C9 C6 CK
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "52"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J642.AQJ9.KT3.KT KQ3.T743.9.AQ753 A.K85.AJ7642.J94 T9875.62.Q85.862"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+1D      X       XX      1S
+Pass    Pass    3D      Pass
+3H      Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+ST S2 S3 SA
+D5 DK D9 D2
+D8 D3 C7 DA
+DQ DT H3 D4
+C2 CT CQ C4
+S5 S4 SK H5
+S7 S6 SQ D6
+C6 CK CA C9
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "53"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT762.J96.76.KQ A4.532.A985.AT64 9853.AQ8.KQJ4.98 J.KT74.T32.J7532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "N"]
+1S      X       4S      Pass
+Pass    Pass
+[Play "E"]
+H3 H8 HK H6
+CA C8 C3 CK
+DA D4 D2 D6
+C4 C9 CJ CQ
+SA S3 SJ SK
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "53"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT762.J96.76.KQ A4.532.A985.AT64 9853.AQ8.KQJ4.98 J.KT74.T32.J7532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "N"]
+1S      Pass    2D      Pass
+2S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+SA S3 SJ S2
+H3 H8 HK H6
+CA C8 C3 CK
+DA D4 D2 D6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "54"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:9752.J.T98.AQT75 T8.AKQ872.AJ7.J3 AKJ643.63.K6432. Q.T954.Q5.K98642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    1H      1S      2H
+4S      5H      5S      Pass
+Pass    Pass
+[Play "N"]
+HT HJ HQ H3
+D5 D8 DA D2
+DQ D9 D7 DK
+SQ S2 S8 SA
+C2 S5 ST SK
+H4 S7 H2 S3
+C4 CA C3 H6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "54"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:9752.J.T98.AQT75 T8.AKQ872.AJ7.J3 AKJ643.63.K6432. Q.T954.Q5.K98642"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "E"]
+Pass    1H      2S      3H
+4S      5H      5S      Pass
+Pass    Pass
+[Play "N"]
+HT HJ HQ H3
+D5 D8 DA D2
+DQ D9 D7 DK
+SQ S2 S8 SA
+C2 S5 ST SK
+H4 S7 H2 S3
+C4 CA C3 H6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "55"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT5.QJ7.A4.A9543 62.98643.JT732.6 9873.KT5.Q986.T7 AQJ4.A2.K5.KQJ82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4DX"]
+[Result "6"]
+[Score "NS 1100"]
+[Auction "S"]
+1NT     Pass    Pass    X
+Pass    2H      Pass    2NT
+Pass    3D      Pass    3NT
+Pass    Pass    X       Pass
+Pass    4D      Pass    Pass
+X       Pass    Pass    Pass
+[Play "N"]
+S8 SJ SK S2
+C7 C2 CA C6
+HK HA H7 H8
+CT CK C3 H3
+D6 CQ C4 H4
+H5 H2 HJ H6
+HT D5 HQ H9
+D8 DK DA D2
+D9 C8 C5 S6
+DQ S4 D4 D3
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "55"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT5.QJ7.A4.A9543 62.98643.JT732.6 9873.KT5.Q986.T7 AQJ4.A2.K5.KQJ82"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "S"]
+1NT     Pass    Pass    X
+2C      2H      Pass    3NT
+Pass    Pass    Pass
+[Play "S"]
+C4 C6 CT CK
+DA D2 D6 DK
+HQ H3 H5 H2
+H7 H8 HT HA
+D4 DJ DQ D5
+SK S2 S8 SQ
+CA H4 C7 C2
+HJ H6 HK S4
+S5 S6 S3 SJ
+ST D3 S7 SA
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "56"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT9.AT754.A63.97 K7653.8.T97.KQJ8 82.QJ962.KQJ4.T2 AQ4.K3.852.A6543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass    Pass    Pass    1NT
+Pass    2H      Pass    2S
+Pass    3S      Pass    4S
+Pass    Pass    Pass
+[Play "W"]
+C9 CK C2 C3
+S9 SK S2 S4
+ST S3 S8 SQ
+SJ S5 H2 SA
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "56"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT9.AT754.A63.97 K7653.8.T97.KQJ8 82.QJ962.KQJ4.T2 AQ4.K3.852.A6543"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+Pass    Pass    Pass    1NT
+Pass    2C      Pass    2D
+Pass    3S      Pass    4S
+Pass    Pass    Pass
+[Play "E"]
+DK D2 D6 D7
+HQ H3 H4 H8
+DQ D5 D3 D9
+DJ D8 DA DT
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "57"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T985.73.KQ94.AK4 A42.J942.AT5.T97 QJ.QT8.732.QJ632 K763.AK65.J86.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS 120"]
+[Auction "N"]
+1D      Pass    1H      Pass
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "W"]
+D6 DK DA D2
+HK H3 H2 HT
+H5 H7 HJ HQ
+C5 CA C7 C2
+C8 CK C9 C3
+S7 C4 CT CQ
+S3 S5 S2 CJ
+D8 D4 D5 C6
+DJ DQ DT D3
+H6 D9 H4 D7
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "57"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T985.73.KQ94.AK4 A42.J942.AT5.T97 QJ.QT8.732.QJ632 K763.AK65.J86.85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "N"]
+1S      Pass    1NT     Pass
+Pass    Pass
+[Play "W"]
+HA H3 H4 H8
+C5 CK C7 C2
+SK S5 S2 SQ
+C8 CA C9 C3
+S3 S8 SA SJ
+HK H7 H2 HT
+H5 D4 HJ HQ
+D6 DK DA D2
+H6 D9 H9 C6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "58"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJ9.J42.Q6.T9842 AK873.KQ8.97.J76 6542.T7653.AT8.K T.A9.KJ5432.AQ53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 630"]
+[Auction "E"]
+Pass    1S      Pass    2D
+Pass    2S      Pass    3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+H5 HA H2 H8
+DT D2 D6 D9
+CK CA C2 C6
+S2 ST SJ SA
+S4 D3 S9 SK
+S5 D4 SQ S7
+H3 H9 HJ HK
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "58"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJ9.J42.Q6.T9842 AK873.KQ8.97.J76 6542.T7653.AT8.K T.A9.KJ5432.AQ53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Auction "E"]
+Pass    1S      Pass    2D
+Pass    2S      Pass    3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+H5 H9 H2 HK
+D8 DJ DQ D7
+H3 HA H4 H8
+S2 ST SJ SA
+DA D2 D6 D9
+H6 C3 HJ HQ
+S4 C5 S9 SK
+CK CA C2 C6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "59"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:5.QJT752.KJ93.KQ AKJ6.AK3.765.A94 Q743..AQ42.T6532 T982.9864.T8.J87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "S"]
+1H      X       Pass    1S
+Pass    2S      Pass    Pass
+Pass
+[Play "S"]
+HQ HA S3 H4
+DJ D5 D2 DT
+HJ HK S4 H6
+D9 D6 D4 D8
+HT H3 DA H8
+DK D7 DQ S2
+S5 SA S7 S8
+H2 SK SQ S9
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "59"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:5.QJT752.KJ93.KQ AKJ6.AK3.765.A94 Q743..AQ42.T6532 T982.9864.T8.J87"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "S"]
+1H      X       Pass    1S
+2H      2S      Pass    Pass
+Pass
+[Play "S"]
+HQ HA S3 H4
+DJ D5 D2 DT
+HJ HK S4 H6
+D9 D6 D4 D8
+HT H3 DA H8
+DK D7 DQ S2
+S5 SA S7 S8
+H2 SK SQ S9
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "60"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q532.K97.T75.A86 T64.AT83.9863.Q9 AK8.J642.2.KT743 J97.Q5.AKQJ4.J52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "W"]
+Pass    Pass    1C      1D
+1S      2D      Pass    Pass
+3C      Pass    Pass    Pass
+[Play "S"]
+DA D5 D3 D2
+DK D7 D6 C3
+C2 CA C9 C4
+HQ H7 H3 HJ
+DQ DT D8 C7
+H5 HK HA H2
+S7 H9 HT H4
+CJ S2 H8 H6
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "60"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q532.K97.T75.A86 T64.AT83.9863.Q9 AK8.J642.2.KT743 J97.Q5.AKQJ4.J52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+Pass    Pass    Pass    1D
+Pass    1NT     Pass    Pass
+Pass
+[Play "E"]
+C3 C2 CA C9
+CK C5 C8 CQ
+CT CJ C6 D3
+D2 DA D5 D6
+S8 DK D7 D8
+H2 DQ DT D9
+H4 DJ S2 H3
+SK D4 S3 S4
+SA S7 S5 ST
+C7 S9 H7 S6
+C4 SJ SQ H8
+H6 H5 HK HA
+HJ HQ H9 HT
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "61"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJT.32.T9.Q98432 K854.AT97.AK75.K A9632.K65.862.A7 7.QJ84.QJ43.JT65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    1D      1S      X
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+H5 HQ H2 H7
+HK H4 H3 H9
+H6 H8 C2 HT
+CA C5 C3 CK
+C7 CJ CQ HA
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "61"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QJT.32.T9.Q98432 K854.AT97.AK75.K A9632.K65.862.A7 7.QJ84.QJ43.JT65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    1C      Pass    1D
+Pass    1H      1S      2S
+Pass    2NT     Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "S"]
+D6 DQ D9 D5
+SA S7 ST SK
+D8 D3 DT DA
+S2 H4 SJ S4
+CA C5 C2 CK
+D2 D4 H2 D7
+C7 CT C3 S5
+HK H8 H3 H7
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "62"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:9.A3.AK97652.A65 A87.65.Q.QT97432 J32.J9842.JT83.8 KQT654.KQT7.4.KJ"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "E"]
+1D      2C      2D      3S
+4C      4D      Pass    4S
+5D      Pass    Pass    X
+Pass    5S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "E"]
+DA DQ D3 D4
+S9 S7 S3 ST
+D2 S8 S2 SK
+CA C2 C8 CK
+HA H5 H2 H7
+C5 C3 SJ CJ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "62"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:9.A3.AK97652.A65 A87.65.Q.QT97432 J32.J9842.JT83.8 KQT654.KQT7.4.KJ"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "11"]
+[Score "NS 50"]
+[Auction "E"]
+1C      2C      Pass    3S
+4D      4S      5C      5S
+6D      Pass    Pass    Pass
+[Play "S"]
+SA S2 ST S9
+S8 SJ SQ D2
+DQ D3 D4 DA
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "63"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKJ3.5.532.K8753 T742.A94.KQJ.A92 Q.KJT732.AT94.J6 9865.Q86.876.QT4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "S"]
+Pass    1C      1H      Pass
+Pass    X       Pass    1S
+Pass    Pass    2H      Pass
+Pass    Pass
+[Play "E"]
+S8 SA S2 SQ
+S5 SK S4 C6
+S6 SJ S7 CJ
+H6 H5 H4 HK
+H8 S3 H9 H2
+D6 D2 DK DA
+D7 D3 DJ DT
+D8 D5 DQ D4
+C4 C3 CA H3
+HQ C5 HA HJ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "63"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AKJ3.5.532.K8753 T742.A94.KQJ.A92 Q.KJT732.AT94.J6 9865.Q86.876.QT4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "S"]
+Pass    1D      1H      Pass
+1S      Pass    2H      Pass
+Pass    Pass
+[Play "E"]
+D8 D2 DJ DA
+S5 SA S2 SQ
+S6 SK S4 C6
+S8 SJ S7 CJ
+H6 H5 H4 HK
+H8 S3 H9 H2
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Open"]
+[Board "64"]
+[West "Blumenthal"]
+[North "Belladonna"]
+[East "Goldman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.JT98764.AK7.QJ Q7543.AK5..K9762 AKT..J98543.AT84 J862.Q32.QT62.53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS -300"]
+[Auction "W"]
+1H      2H      X       4S
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "W"]
+DA S3 D3 D2
+S9 SQ SK S2
+DK S4 D4 DT
+H4 H5 ST H2
+D7 S5 SA S6
+H6 C2 DJ DQ
+*
+
+[Event "1974 Bermuda Bowl"]
+[Site "Venice Italy"]
+[Date "1974.05.27"]
+[Room "Closed"]
+[Board "64"]
+[West "Forquet"]
+[North "Wolff"]
+[East "Bianchi"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.JT98764.AK7.QJ Q7543.AK5..K9762 AKT..J98543.AT84 J862.Q32.QT62.53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 200"]
+[Auction "W"]
+1H      2H      3D      Pass
+3H      Pass    3NT     Pass
+4H      Pass    Pass    Pass
+[Play "N"]
+S4 SA S2 S9
+S3 ST SJ H4
+HK D3 H2 H6
+S5 SK S6 D7
+H5 D4 D2 DA
+SQ D5 S8 H7
+HA C4 H3 HT
+S7 D8 C3 DK
+CK CA C5 CJ
+C2 C8 HQ CQ
+*
+
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "65"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K54.865.A73.T875 Q872.T9.T98.AK96 JT3.QJ74.KJ642.2 A96.AK32.Q5.QJ43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    Pass    Pass    1C
+Pass    1NT     Pass    2C
+Pass    2H      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "S"]
+D4 D5 DA D8
+DK DQ D7 DT
+DJ C3 D3 D9
+D6 H2 H5 S2
+D2 H3 C5 S7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "65"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K54.865.A73.T875 Q872.T9.T98.AK96 JT3.QJ74.KJ642.2 A96.AK32.Q5.QJ43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "N"]
+Pass    Pass    Pass    1NT
+Pass    2C      Pass    2H
+Pass    2S      Pass    3C
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+C5 C9 C2 C3
+DA D8 D2 DQ
+C7 C6 S3 CQ
+S4 S7 ST S6
+D3 D9 DK D5
+D7 DT DJ H2
+H5 S2 D6 H3
+H6 S8 D4 C4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "66"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJ3.5.AT8653.542 KT87.A976.2.KQ96 Q95.KQT4.KJ94.A7 642.J832.Q7.JT83"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "11"]
+[Score "NS -150"]
+[Auction "E"]
+Pass    1C      X       Pass
+2D      Pass    2H      Pass
+2S      Pass    3D      Pass
+Pass    Pass
+[Play "S"]
+CK CA C3 C2
+D2 DK D7 D3
+S7 D4 DQ DA
+HA H4 H2 H5
+CQ C7 C8 C4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "66"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJ3.5.AT8653.542 KT87.A976.2.KQ96 Q95.KQT4.KJ94.A7 642.J832.Q7.JT83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS -400"]
+[Auction "E"]
+Pass    2D      Pass    2H
+3D      Pass    3NT     Pass
+Pass    Pass
+[Play "N"]
+C3 C2 CQ C7
+C8 C4 C6 CA
+D7 D3 D2 DK
+DQ DA H7 D4
+H2 H5 HA H4
+CT C5 CK S5
+CJ S3 C9 HT
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "67"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ42.K6.7.KJ9875 KQ9753.T.T83.T43 T8.7432.AQJ95.AQ 6.AQJ985.K642.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 400"]
+[Auction "S"]
+1C      Pass    1D      1H
+1S      Pass    2H      X
+3C      Pass    4C      Pass
+5C      Pass    Pass    Pass
+[Play "W"]
+HT H2 HA H6
+C3 H3 H5 HK
+SK S8 S6 SA
+D3 DA D2 D7
+D8 DQ D4 S2
+DT DJ D6 S4
+S3 D5 DK CJ
+C4 CA C2 C5
+CT CQ C6 C7
+S5 D9 H8 SJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "67"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ42.K6.7.KJ9875 KQ9753.T.T83.T43 T8.7432.AQJ95.AQ 6.AQJ985.K642.62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "S"]
+2C      Pass    2D      2H
+2S      Pass    3H      Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+HT H2 HA H6
+S7 H3 HQ HK
+C3 CA C2 C5
+C4 CQ C6 C7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "68"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J972.63.54.AJ973 T54.2.AKQJT.KQ65 A83.A94.9762.T84 KQ6.KQJT875.83.2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "W"]
+Pass    1D      Pass    1H
+Pass    2C      Pass    2S
+Pass    3D      Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+H3 H2 HA H5
+S2 S4 SA S6
+CA C5 C4 C2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "68"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J972.63.54.AJ973 T54.2.AKQJT.KQ65 A83.A94.9762.T84 KQ6.KQJT875.83.2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "W"]
+Pass    1D      Pass    4H
+Pass    Pass    Pass
+[Play "W"]
+S2 S4 SA S6
+S7 S5 S8 SQ
+D4 DA D2 D8
+D5 DK D6 D3
+H3 DQ D7 C2
+S9 ST S3 SK
+H6 H2 HA HK
+C3 DT D9 HQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "69"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT.K74.KJT97.K75 J98752.J6.62.AJ6 Q6.A93.AQ843.T92 K43.QT852.5.Q843"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 100"]
+[Auction "N"]
+1D      1S      2S      4D
+X       4S      Pass    Pass
+X       Pass    Pass    Pass
+[Play "S"]
+DA D5 DJ D2
+H3 HT H4 H6
+HA H2 H7 HJ
+CT C3 CK CA
+S6 SK SA S2
+SQ S3 ST SJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "69"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AT.K74.KJT97.K75 J98752.J6.62.AJ6 Q6.A93.AQ843.T92 K43.QT852.5.Q843"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "N"]
+1NT     Pass    3NT     Pass
+Pass    Pass
+[Play "E"]
+S7 SQ SK SA
+D2 DA D5 D7
+D6 DQ H2 D9
+CJ D8 C3 DK
+C6 D3 S3 DJ
+H6 D4 H5 DT
+HJ HA H8 H4
+S2 H9 HT HK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "70"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQT2.AJT73.42.J3 963.K2.A765.Q986 A874.964.83.AT74 J5.Q85.KQJT9.K52"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "E"]
+1H      Pass    1S      2D
+2S      3D      3S      Pass
+Pass    Pass
+[Play "N"]
+DK D2 D5 D3
+DQ D4 DA D8
+CK C3 C6 C4
+H5 H3 HK H4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "70"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQT2.AJT73.42.J3 963.K2.A765.Q986 A874.964.83.AT74 J5.Q85.KQJT9.K52"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "E"]
+2H      Pass    2NT     Pass
+3H      Pass    Pass    Pass
+[Play "S"]
+C6 C4 CK CJ
+D5 D3 DK D2
+D6 D8 DQ D4
+D7 H4 DJ S2
+HK H6 H5 HT
+DA S4 D9 H3
+C8 CT C2 C3
+H2 H9 H8 H7
+C9 CA C5 ST
+CQ C7 S5 HJ
+S3 S7 HQ HA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "71"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K3.Q542.J52.JT86 A97.T.AT874.KQ54 T5.J973.KQ96.932 QJ8642.AK86.3.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -680"]
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    2D      Pass    3H
+Pass    4C      Pass    4D
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+CJ C4 C2 CA
+H2 HT H3 HA
+H4 S7 H7 H6
+S3 SA S5 S2
+SK S9 ST SQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "71"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K3.Q542.J52.JT86 A97.T.AT874.KQ54 T5.J973.KQ96.932 QJ8642.AK86.3.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Score "NS -1430"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    2C      Pass    2S
+Pass    3S      Pass    4C
+Pass    4D      X       Pass
+Pass    XX      Pass    4H
+Pass    4NT     Pass    5C
+Pass    5H      Pass    6S
+Pass    Pass    Pass
+[Play "S"]
+D5 DA D6 D3
+SK S9 ST SQ
+DJ D4 D9 S2
+S3 SA S5 S4
+H2 HT H3 HA
+H4 S7 H7 H6
+C6 C4 C2 CA
+H5 D7 H9 HK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "72"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT7..Q7.A865432 Q92.K94.KJT95.QT J543.QT872.A863. 86.AJ653.42.KJ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Score "NS -200"]
+[Auction "W"]
+1D      Pass    1H      Pass
+2C      Pass    2D      Pass
+2S      Pass    Pass    Pass
+[Play "N"]
+S2 S3 S8 ST
+CT H2 C7 CA
+CQ S4 C9 C2
+S9 S5 S6 SA
+SQ D3 CJ C3
+H9 HT HJ S7
+D5 SJ CK C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "72"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT7..Q7.A865432 Q92.K94.KJT95.QT J543.QT872.A863. 86.AJ653.42.KJ97"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+2C      Pass    2D      Pass
+2S      Pass    3S      Pass
+4C      Pass    4S      Pass
+Pass    Pass
+[Play "N"]
+H4 HT HA S7
+CT H2 C7 CA
+CQ S3 C9 C2
+S2 S4 S6 SA
+D5 S5 CJ C3
+H9 H7 H3 ST
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "73"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q963.43.AQJ9.T64 542.KQ97.T4.Q952 AT8.AJ852.87.AK7 KJ7.T6.K6532.J83"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "N"]
+Pass    Pass    1NT     Pass
+2D      Pass    2H      Pass
+3NT     Pass    Pass    Pass
+[Play "W"]
+D3 DJ D4 D7
+H6 H3 HQ H2
+D2 DQ DT D8
+D5 DA S2 C7
+HT H4 H7 HJ
+C3 C4 H9 HA
+S7 S3 HK H5
+C8 C6 C9 CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "73"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q963.43.AQJ9.T64 542.KQ97.T4.Q952 AT8.AJ852.87.AK7 KJ7.T6.K6532.J83"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "N"]
+Pass    Pass    1C      Pass
+1NT     Pass    2H      Pass
+2S      Pass    2NT     Pass
+3NT     Pass    Pass    Pass
+[Play "E"]
+C2 C7 CJ C4
+CQ CA C8 C6
+S2 SA S7 S3
+S4 S8 SK S6
+C5 CK C3 CT
+D4 D7 D2 DJ
+HK H2 H6 H3
+C9 H5 D3 D9
+H7 HA HT H4
+DT D8 D5 DQ
+S5 ST SJ SQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "74"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K72..KJ953.KJ965 QT5.AKQ8.A2.AQ72 64.T7532.QT64.43 AJ983.J964.87.T8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "E"]
+1D      X       Pass    2S
+Pass    3D      Pass    3H
+Pass    4H      Pass    Pass
+Pass
+[Play "E"]
+D5 DA D4 D7
+C5 HA H2 H4
+SK S5 S4 S8
+D3 D2 DQ D8
+D9 H8 H3 H6
+S2 ST S6 S3
+S7 SQ C3 SA
+C6 C2 C4 SJ
+C9 C7 D6 S9
+CJ CQ DT C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "74"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K72..KJ953.KJ965 QT5.AKQ8.A2.AQ72 64.T7532.QT64.43 AJ983.J964.87.T8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "9"]
+[Score "NS -200"]
+[Auction "E"]
+1D      X       2D      3D
+5D      5H      Pass    Pass
+Pass
+[Play "W"]
+D4 D7 DK DA
+H2 H4 D9 HA
+S4 S3 SK ST
+DT D8 D3 D2
+H3 H6 C5 H8
+S6 S8 S2 SQ
+D6 SA S7 S5
+H5 SJ C6 C2
+H7 H9 D5 HQ
+C3 CT CJ C7
+C4 C8 C9 CQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "75"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:62.K7532.A84.KQT JT4.AQ94.KT5.962 Q73.J86.QJ6.A875 AK985.T.9732.J43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+1H      Pass    2H      2S
+Pass    Pass    2NT     Pass
+3H      Pass    Pass    Pass
+[Play "W"]
+SJ S3 S9 S2
+ST SQ SK S6
+S4 S7 SA H2
+H4 HJ HT H3
+DK DQ D2 D4
+D5 D6 D9 DA
+C2 C5 C3 CK
+C6 C7 C4 CQ
+C9 CA CJ CT
+DT DJ D3 D8
+H9 C8 S5 H5
+HA H6 D7 H7
+HQ H8 S8 HK
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "75"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:62.K7532.A84.KQT JT4.AQ94.KT5.962 Q73.J86.QJ6.A875 AK985.T.9732.J43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "7"]
+[Score "NS 150"]
+[Auction "S"]
+1H      Pass    2H      2S
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+CK C2 C8 C3
+CQ C6 C5 C4
+CT C9 CA CJ
+S2 S4 S7 SK
+H2 HQ H6 HT
+H3 HA H8 D2
+H5 H4 HJ S5
+DA D5 D6 D3
+D4 DK DJ D7
+S6 SJ S3 SA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "76"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A53.J943.T976.AT K7.KT762.KJ543.7 QJ964.A5.AQ8.J62 T82.Q8.2.KQ98543"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "7"]
+[Score "NS -300"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+2S      X       Pass    4C
+Pass    Pass    Pass
+[Play "W"]
+DT DJ DQ D2
+CA C7 C2 CQ
+SA S7 S4 S2
+S3 SK S6 S8
+D6 D5 D8 C3
+CT H2 C6 CK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "76"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A53.J943.T976.AT K7.KT762.KJ543.7 QJ964.A5.AQ8.J62 T82.Q8.2.KQ98543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Score "NS -120"]
+[Auction "W"]
+Pass    Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "N"]
+H6 H5 HQ H3
+H2 HA H8 H4
+SK SQ S2 S3
+C7 C2 CQ CA
+D3 C6 CK CT
+H7 CJ C9 D6
+S7 S4 S8 SA
+D4 SJ ST S5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "77"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK54.AQT62.A4.62 632.98753.T.A754 Q987.J4.K963.K83 JT.K.QJ8752.QJT9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1H      Pass    1S      Pass
+4S      Pass    Pass    Pass
+[Play "W"]
+CQ C2 CA C3
+D2 D4 DT DK
+ST SA S2 S7
+SJ SK S3 S8
+D8 S4 S6 S9
+HK HA H3 HJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "77"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK54.AQT62.A4.62 632.98753.T.A754 Q987.J4.K963.K83 JT.K.QJ8752.QJT9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+1C      Pass    1NT     Pass
+2C      Pass    2S      Pass
+3H      Pass    3NT     Pass
+4S      Pass    Pass    Pass
+[Play "W"]
+CQ C2 CA C3
+C9 C6 C4 CK
+ST SA S2 S7
+HK H2 H3 HJ
+DQ D4 DT DK
+SJ S4 S3 SQ
+D2 SK S6 S9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "78"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K7.AK984.KT43.QT JT.QJ5.AJ9.AK965 A82.T7632.Q7.732 Q96543..8652.J84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+1H      1NT     2H      2S
+3H      Pass    Pass    3S
+Pass    Pass    Pass
+[Play "E"]
+HA H5 H2 S3
+S7 SJ SA S4
+D3 D9 DQ D2
+DT DJ D7 D5
+SK ST S2 S5
+D4 DA S8 D6
+CQ CA C2 C4
+HK HQ H3 D8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "78"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K7.AK984.KT43.QT JT.QJ5.AJ9.AK965 A82.T7632.Q7.732 Q96543..8652.J84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "E"]
+1D      2C      Pass    3C
+3H      3NT     4H      Pass
+Pass    Pass
+[Play "S"]
+CA C2 C4 CT
+CK C3 C8 CQ
+C5 C7 CJ H4
+H5 H2 S3 HA
+HJ H3 S4 H8
+DA D7 D2 D3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "79"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q8742.AJ3.QJ96.K K6.Q9.854.QJ6432 J3.T8752.A72.AT9 AT95.K64.KT3.875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "S"]
+1S      Pass    1NT     Pass
+2D      Pass    Pass    Pass
+[Play "W"]
+C4 C9 C5 CK
+SK S3 S5 S2
+C2 CT C7 H3
+C3 CA C8 HJ
+H9 H2 H4 HA
+S6 SJ SA S4
+HQ H5 H6 D6
+C6 H7 S9 SQ
+CJ D2 ST S7
+CQ H8 HK D9
+D4 DA D3 S8
+D5 HT DT DJ
+D8 D7 DK DQ
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "79"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q8742.AJ3.QJ96.K K6.Q9.854.QJ6432 J3.T8752.A72.AT9 AT95.K64.KT3.875"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "S"]
+1S      Pass    1NT     Pass
+2D      Pass    Pass    Pass
+[Play "W"]
+C4 C9 C5 CK
+SK S3 S5 S2
+H9 HT HK HA
+S6 SJ SA S4
+HQ H2 H4 H3
+C2 CT C7 HJ
+C3 CA C8 S7
+D4 DA D3 D6
+D5 D2 DK D9
+D8 D7 DT DJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "80"]
+[West "Garozzo"]
+[North "Murray"]
+[East "Belladonna"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q5.J876.QT7.K653 AT982.AK.K9862.A 76.Q952.AJ543.T9 KJ43.T43..QJ8742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1010"]
+[Auction "W"]
+Pass    1S      Pass    3S
+Pass    4C      Pass    4D
+Pass    4H      Pass    4S
+Pass    6S      Pass    Pass
+Pass
+[Play "E"]
+H2 H3 HJ HA
+C9 C2 C3 CA
+S6 S3 S5 SA
+S7 SK SQ S2
+CT C4 C5 S8
+D3 S4 D7 D2
+D4 CQ C6 D6
+H5 CJ CK S9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "80"]
+[West "Wolff"]
+[North "Forquet"]
+[East "Hamman"]
+[South "Bianchi"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q5.J876.QT7.K653 AT982.AK.K9862.A 76.Q952.AJ543.T9 KJ43.T43..QJ8742"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Score "NS 1010"]
+[Auction "W"]
+Pass    1C      Pass    1D
+Pass    1S      Pass    4D
+Pass    6S      Pass    Pass
+Pass
+[Play "E"]
+S6 S3 SQ SA
+C9 C2 C3 CA
+S7 SK S5 S2
+CT CQ C5 D2
+*
+
+% PBN 2.0
+%
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[HomeTeam "North America"]
+[VisitTeam "Italy"]
+[Room "Open"]
+[Board "81"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT84.7.QJ7.AKT54 Q93.T53.AK62.732 AJ72.KJ86.93.QJ8 65.AQ942.T854.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "N"]
+1C      Pass    1H      Pass
+1S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+DA D3 D4 D7
+DK D9 D5 DJ
+H5 HJ HQ H7
+C2 C8 C6 CA
+S3 SA S5 S4
+SQ SJ S6 S8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "81"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT84.7.QJ7.AKT54 Q93.T53.AK62.732 AJ72.KJ86.93.QJ8 65.AQ942.T854.96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "N"]
+1D      Pass    1H      Pass
+1S      Pass    4S      Pass
+Pass    Pass
+[Play "E"]
+DK D3 D4 D7
+C2 CQ C6 C4
+S3 SA S5 S4
+SQ SJ S6 S8
+DA D9 D5 DJ
+C3 CJ C9 C5
+S9 S2 H2 ST
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "82"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT.QJT6.Q4.KT942 AJ7.A98754.K862. Q62.K32.AT93.A87 98543..J75.QJ653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "E"]
+Pass    1H      Pass    1S
+Pass    2D      Pass    Pass
+Pass
+[Play "W"]
+S2 S9 SK SA
+H2 C3 H6 HA
+H3 D5 HT H4
+C7 C5 C2 D2
+HK D7 HJ H5
+C8 C6 C4 D6
+DA S3 HQ H7
+D3 DJ DQ DK
+S6 S4 D4 H9
+SQ S5 ST SJ
+DT CJ C9 D8
+D9 S8 CT H8
+CA CQ CK S7
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "82"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT.QJT6.Q4.KT942 AJ7.A98754.K862. Q62.K32.AT93.A87 98543..J75.QJ653"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Auction "E"]
+Pass    1H      X       Pass
+2NT     Pass    Pass    Pass
+[Play "S"]
+H9 HK C3 H6
+H4 CA C5 C2
+D2 C7 CJ CK
+H8 C8 C6 C4
+H5 H2 S3 HQ
+HA H3 S4 HJ
+DK DA D5 D4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "83"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J976.K876.J9843. K2.T53.AKQ5.JT98 43.QJ42.T76.K764 AQT85.A9.2.AQ532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS -1370"]
+[Auction "S"]
+Pass    1D      Pass    1S
+Pass    1NT     Pass    3C
+Pass    3D      Pass    3H
+Pass    4C      Pass    4D
+Pass    4S      Pass    6C
+Pass    Pass    Pass
+[Play "S"]
+D4 DA D6 D2
+H8 C8 C4 CA
+D3 C9 CK C2
+H6 CT C6 C3
+D8 DK D7 H9
+D9 DQ DT S5
+S6 SK S3 S8
+S7 S2 S4 SA
+SJ CJ H2 ST
+DJ D5 H4 C5
+H7 H3 C7 CQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "83"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J976.K876.J9843. K2.T53.AKQ5.JT98 43.QJ42.T76.K764 AQT85.A9.2.AQ532"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    1D      Pass    2C
+Pass    2NT     Pass    3S
+Pass    4S      Pass    Pass
+Pass
+[Play "S"]
+H6 HT HJ HA
+D3 DA D7 D2
+D4 DK D6 H9
+D8 DQ DT C2
+S6 CJ C4 C3
+D9 D5 H2 S5
+S9 SK S3 S8
+S7 S2 S4 SA
+SJ C8 C6 SQ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "84"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T6.KQ73.JT54.AJT QJ.AT.Q873.Q9753 A9832.9652.A.842 K754.J84.K962.K6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "W"]
+1D      Pass    1S      Pass
+1NT     Pass    2H      Pass
+3H      Pass    Pass    Pass
+[Play "S"]
+CK CA C3 C2
+D2 D4 D3 DA
+C6 CT CQ C4
+S4 S6 SQ SA
+SK ST SJ S2
+H4 HQ HA H2
+H8 CJ C5 C8
+S5 D5 HT S3
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "84"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T6.KQ73.JT54.AJT QJ.AT.Q873.Q9753 A9832.9652.A.842 K754.J84.K962.K6"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Score "NS 0"]
+[Auction "W"]
+Pass    Pass    Pass    Pass
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "85"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8643.T94.A85.Q43 Q7.AK852.KT7.KJ2 952.J73.J9.AT976 AKJT.Q6.Q6432.85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+Pass    1C      Pass    2D
+Pass    2H      Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "N"]
+S6 S7 S9 SK
+D5 DK D9 D2
+DA D7 DJ DQ
+S3 SQ S2 SA
+D8 DT C6 D3
+H4 H2 H3 HQ
+S4 C2 S5 SJ
+C3 CJ C7 D6
+S8 CK C9 D4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "85"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:8643.T94.A85.Q43 Q7.AK852.KT7.KJ2 952.J73.J9.AT976 AKJT.Q6.Q6432.85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "N"]
+Pass    1NT     Pass    2D
+Pass    2H      Pass    2NT
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+S9 ST S3 SQ
+H3 HQ H4 H2
+H7 H6 H9 HA
+HJ D2 HT HK
+D9 DQ DA D7
+CA C5 C3 CJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "86"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K75.AQJT.KQ.T986 AQ832.K8732.J3.Q T64.65.AT642.A54 J9.94.9875.KJ732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "E"]
+1D      X       2D      Pass
+Pass    Pass
+[Play "S"]
+CQ C4 C2 C6
+DJ D2 D5 DK
+H2 H5 H4 HT
+H3 H6 H9 HA
+HK D4 D7 HQ
+S8 S4 SJ S5
+SQ S6 S9 S7
+SA ST D8 SK
+D3 C5 C3 C8
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "86"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K75.AQJT.KQ.T986 AQ832.K8732.J3.Q T64.65.AT642.A54 J9.94.9875.KJ732"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1NT     2C      X       Pass
+Pass    2D      X       Pass
+Pass    2S      Pass    Pass
+2NT     Pass    3NT     Pass
+Pass    Pass
+[Play "S"]
+S3 ST SJ SK
+D3 D2 D5 DK
+DJ D4 D7 DQ
+CQ CA C2 C6
+H3 DA D8 HT
+H7 DT D9 S5
+H8 D6 C3 C8
+HK H5 H4 HJ
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "87"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J873.T3.Q743.864 AT52.KJ42.A.KT93 K94.75.KJT5.AQ72 Q6.AQ986.9862.J5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    2D      Pass    2H
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "S"]
+H3 HJ H5 H6
+HT H2 H7 HA
+C4 C3 CQ CJ
+S3 S2 S4 SQ
+C6 C9 CA C5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "87"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J873.T3.Q743.864 AT52.KJ42.A.KT93 K94.75.KJT5.AQ72 Q6.AQ986.9862.J5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "S"]
+Pass    1S      Pass    1NT
+Pass    2H      Pass    4H
+Pass    Pass    Pass
+[Play "N"]
+H5 H6 HT HJ
+H7 HA H3 H2
+CQ CJ C4 C3
+D5 D2 DQ DA
+C2 C5 C6 C9
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "88"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:54.K95.AQ743.AJ8 K9.AQ3.J86.KQ965 AQJ72.JT8762.2.3 T863.4.KT95.T742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+1D      1NT     X       Pass
+Pass    2C      2H      Pass
+4H      Pass    Pass    Pass
+[Play "S"]
+C7 CA C5 C3
+S3 S4 S9 SJ
+D5 DA D6 D2
+S6 S5 SK SA
+S8 H9 C6 S2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "88"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:54.K95.AQ743.AJ8 K9.AQ3.J86.KQ965 AQJ72.JT8762.2.3 T863.4.KT95.T742"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+1D      X       1S      Pass
+1NT     Pass    4H      Pass
+Pass    Pass
+[Play "S"]
+C7 CA C5 C3
+S3 S4 S9 SJ
+D5 DA D6 D2
+S6 S5 SK SA
+S8 H9 HQ S2
+H4 H5 HA H2
+C2 HK H3 H6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "89"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:.KJ95.82.KJT8752 QT542.A32.A974.3 A9863.QT7.J65.Q9 KJ7.864.KQT3.A64"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Score "NS 200"]
+[Auction "N"]
+Pass    Pass    Pass    1D
+3C      3S      Pass    4S
+Pass    Pass    X       Pass
+Pass    Pass
+[Play "S"]
+CQ CA C2 C3
+SA SJ D2 S2
+C9 C4 C5 S4
+S6 SK CK S5
+S3 S7 CJ SQ
+D5 DK D8 D4
+D6 DQ C7 D7
+DJ DT H9 DA
+S8 D3 H5 D9
+S9 H4 C8 ST
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "89"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:.KJ95.82.KJT8752 QT542.A32.A974.3 A9863.QT7.J65.Q9 KJ7.864.KQT3.A64"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS 130"]
+[Auction "N"]
+Pass    Pass    Pass    1D
+3C      3D      3S      Pass
+4C      Pass    Pass    Pass
+[Play "E"]
+S4 SA S7 D2
+S2 S9 SJ C2
+C3 CQ CA C5
+S5 S3 SK C7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "90"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJ76.K8764..T964 T52.AJ9.A8.AJ852 K83.52.KQT64.Q73 A94.QT3.J97532.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "E"]
+Pass    1C      Pass    1D
+Pass    1NT     Pass    2NT
+Pass    3NT     Pass    Pass
+Pass
+[Play "W"]
+S3 S4 SJ S2
+SK S9 S6 ST
+S8 SA S7 S5
+H2 HQ H4 H9
+C3 CK C4 C2
+H5 H3 H6 HJ
+C7 D2 C6 CA
+CQ D3 C9 C5
+D6 D5 H8 DA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "90"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJ76.K8764..T964 T52.AJ9.A8.AJ852 K83.52.KQT64.Q73 A94.QT3.J97532.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass    1NT     Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+DK D2 H4 DA
+D4 D3 C4 D8
+S3 S4 S6 S2
+C3 CK C6 C2
+DQ D9 C9 C5
+SK S9 S7 S5
+S8 SA SJ ST
+H2 HQ HK HA
+H5 H3 H6 HJ
+C7 HT H7 H9
+D6 DJ CT C8
+DT D5 H8 CJ
+CQ D7 SQ CA
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "91"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q94.AKQ5.865.642 T653.8.AKJT.AQJ3 AJ87.J72.97.KT97 K2.T9643.Q432.85"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS -90"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    1S      Pass    1NT
+Pass    Pass    Pass
+[Play "S"]
+HQ H8 H7 H3
+S9 S3 SA S2
+H5 C3 HJ H4
+HK S5 H2 H6
+HA CJ CT H9
+S4 S6 S8 SK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "91"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q94.AKQ5.865.642 T653.8.AKJT.AQJ3 AJ87.J72.97.KT97 K2.T9643.Q432.85"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "S"]
+Pass    1D      Pass    1H
+Pass    1S      Pass    2D
+Pass    2NT     Pass    3D
+Pass    Pass    Pass
+[Play "N"]
+D7 D2 D5 DT
+S7 SK S4 S3
+CK C5 C6 CJ
+D9 D3 D6 DJ
+C7 C8 C2 CA
+C9 S2 C4 CQ
+S8 D4 S9 S5
+H2 H3 HQ H8
+H7 DQ D8 DK
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "92"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ6.J5.T963.KQ87 AQT753.64.A.T954 9842.AQT83.KQJ.2 .K972.87542.AJ63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "W"]
+Pass    1S      Pass    1NT
+Pass    2S      Pass    Pass
+Pass
+[Play "E"]
+DK D2 D3 DA
+S2 D4 S6 SA
+S4 D5 SJ S3
+DJ D7 D6 S5
+C2 C3 CQ CT
+DQ D8 D9 S7
+H3 CA C7 C4
+H8 CJ CK C5
+S8 C6 C8 C9
+HA H2 H5 H4
+HT HK HJ H6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "92"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ6.J5.T963.KQ87 AQT753.64.A.T954 9842.AQT83.KQJ.2 .K972.87542.AJ63"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Score "NS -150"]
+[Auction "W"]
+Pass    1S      2H      Pass
+2NT     Pass    Pass    Pass
+[Play "N"]
+S7 S8 C3 S6
+DA DK D2 D3
+C9 C2 C6 CK
+S3 DJ D4 D6
+S5 DQ D5 D9
+H4 H3 H2 HJ
+ST S2 D7 DT
+C4 S4 CA C8
+C5 H8 D8 C7
+CT S9 CJ CQ
+H6 HA H7 H5
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "93"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.Q654.T7652.64 J62..AJ43.KQJT73 Q8743.AT983.K8.9 A95.KJ72.Q9.A852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "N"]
+Pass    2C      Pass    2D
+Pass    3C      Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+D5 D3 DK D9
+D2 D4 D8 DQ
+C4 C3 C9 CA
+C6 CK S3 C8
+H4 CQ H3 C2
+H5 CJ S4 C5
+D6 CT H8 H2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "93"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KT.Q654.T7652.64 J62..AJ43.KQJT73 Q8743.AT983.K8.9 A95.KJ72.Q9.A852"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS -660"]
+[Auction "N"]
+Pass    2C      Pass    2D
+Pass    3C      Pass    3NT
+Pass    Pass    Pass
+[Play "N"]
+D5 D3 DK D9
+H4 S2 HT HK
+D2 D4 D8 DQ
+C4 C3 C9 CA
+C6 CK S3 C8
+D6 CQ H3 C2
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "94"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T84.K732.AQ85.43 A9762.QT.KT4.Q97 J53.84.J763.KJ85 KQ.AJ965.92.AT62"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    Pass    Pass    1H
+Pass    1S      Pass    2C
+Pass    2NT     Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+D3 D2 DA D4
+DJ D9 D5 DT
+D7 C2 DQ DK
+H4 H5 H2 HQ
+H8 H6 HK HT
+D6 C6 D8 S2
+CJ CA C3 C7
+C5 HA H3 S6
+C8 HJ H7 C9
+S3 H9 C4 S7
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "94"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T84.K732.AQ85.43 A9762.QT.KT4.Q97 J53.84.J763.KJ85 KQ.AJ965.92.AT62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass    Pass    Pass    1H
+Pass    1S      Pass    2C
+Pass    2D      Pass    2S
+Pass    3H      Pass    4H
+Pass    Pass    Pass
+[Play "E"]
+DA D4 D3 D2
+D5 DK D6 D9
+H2 HQ H4 H5
+HK HT H8 H6
+D8 DT DJ H9
+H3 S2 S3 HA
+H7 C7 C5 HJ
+C3 C9 CJ C2
+DQ S6 D7 C6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "95"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:75.K72.KQ65.AJ42 J3.AJ543.42.Q965 KQ98.QT.J83.T873 AT642.986.AT97.K"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -100"]
+[Auction "S"]
+1D      Pass    1S      Pass
+1NT     Pass    Pass    Pass
+[Play "W"]
+H4 HT H6 H2
+D2 D3 D7 DQ
+S3 SQ S2 S5
+D4 D8 D9 DK
+C5 DJ DA D5
+C6 C3 DT D6
+H3 HQ H9 H7
+C9 C7 CK CA
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "95"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:75.K72.KQ65.AJ42 J3.AJ543.42.Q965 KQ98.QT.J83.T873 AT642.986.AT97.K"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Score "NS 50"]
+[Auction "S"]
+1D      1H      1S      3H
+Pass    Pass    Pass
+[Play "N"]
+SK SA S5 S3
+SQ S2 S7 SJ
+D3 DA D5 D2
+S8 ST HK D4
+HT H6 H2 H3
+C3 CK CA C5
+HQ H8 H7 H4
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Open"]
+[Board "96"]
+[West "Forquet"]
+[North "Murray"]
+[East "Bianchi"]
+[South "Kehela"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT54.JT85.Q95.T8 KQ2.A.AJT862.J43 J3.974.743.KQ652 9876.KQ632.K.A97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "W"]
+Pass    1D      Pass    1H
+Pass    3D      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+S4 SK S3 S6
+D5 D2 D3 DK
+SA S2 SJ S9
+S5 SQ H4 S7
+D9 DA D4 H2
+DQ DJ D7 S8
+ST C3 C2 H3
+CT CJ CQ CA
+H5 HA H7 H6
+*
+
+[Event "1974 Bermuda Bowl Final"]
+[Site "Venice Italy"]
+[Date "1974.05.28"]
+[Room "Closed"]
+[Board "96"]
+[West "Wolff"]
+[North "Belladonna"]
+[East "Hamman"]
+[South "Garozzo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AT54.JT85.Q95.T8 KQ2.A.AJT862.J43 J3.974.743.KQ652 9876.KQ632.K.A97"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "W"]
+Pass    1D      Pass    1H
+Pass    2D      Pass    2S
+Pass    3C      Pass    3NT
+Pass    Pass    Pass
+[Play "W"]
+CT CJ CK C7
+C8 C3 C5 C9
+D5 D2 D3 DK
+H5 HA H4 H2
+D9 DA D4 S6
+DQ DJ D7 H3
+SA S2 S3 S7
+S4 SQ SJ S8
+*
+
