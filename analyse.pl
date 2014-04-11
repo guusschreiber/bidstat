@@ -1,68 +1,196 @@
 :- dynamic(deal/2). 
+:- dynamic(hand/5). 
+:- dynamic(bid/5). 
+:- discontiguous(statistics/3).  
 
-testdeal(deal1,
-  [1955,
-  [
-   [[a,k,7,5],[5,4],[9,8,7,6,5,3],[a]],
-   [[q],[a,t,9,8,3],[4,2],[j,t,7,5,3]],
-   [[6,4,2],[k,q,j,7],[a,q,j],[9,6,2]],
-   [[j,t,9,8,3],[6,2],[k,t],[k,q,8,4]]
-  ],
-  1,
-  imp,
-  [12, 13, 7, 0, 0, 31, 62, 7, 0, 0, 0],
-  [3,d],
-  1,
-  9]). 
+b(N, Auction) :-
+  atom_concat('deal_', N, ID),
+  deal(ID, [_, _, _, _, Auction, _, _, _]).
+
+go :-
+  protocol('log.txt'),
+  process('test.pl'),
+  noprotocol. 
+
+process(DBFile) :-
+  init(DBFile),
+  defs.
+ 
 
 %% STATISTICS
 
 stat(StatFeature) :-
-  concat(StatFeature, '.txt', FileName), 
+  atom_concat(StatFeature, '.txt', FileName), 
   open(FileName, write, Stream),
   tell(Stream), 
   writef("ID Year %w\n", [StatFeature]),  
   findall(ID, deal(ID, _), IDs), 
   forall(member(ID, IDs), 
     ( year(ID, Year)
-    , statistics(StatFeature, ID, Value)
-    , writef("%w %w %w\n", [ID, Year, Value]) 
+    , statistics(StatFeature, ID, Values)
+    , writef("%w %w", [ID, Year])
+    , forall(member(Value, Values), writef(" %w", [Value]))
+    , writef("\n") 
     )),
     told. 
 
 % Frequency first hand is opened, independnt of hand type 
 % 1=true, 0=false
-%
-statistics(opening_first_hand, ID, Bool) :-
+
+statistics(opening_first_hand, ID, [Bool]) :-
   bid(ID, 1, 1, _, Features), !,
-  ( memberchk(suit_or_nt, Features)
+  ( memberchk(opening, Features)
   , Bool is 1
   ; Bool is 0
   ).  
-statistics(opening_first_hand, _, 'NA').
-%
+statistics(opening_first_hand, _, ['NA']).
+
+
+% Frequency of contested auction
+
+statistics(contested_auction, ID, [Bool]) :-
+  findall(Bid, bid(ID, _, _, Bid, _), Bids), 
+  split_bids(Bids, DealerSide, OppSide),
+  sum_list(DealerSide, Num1),
+  sum_list(OppSide, Num2),
+  ( Num1 == 0, Num2 == 0, Bool = "NA" 
+  ; Num1 > 0, Num2 > 0, Bool is 1     
+  ; Bool is 0
+  ). 
+
+statistics(check_contested, ID, [V]) :-
+  statistics(opening_11_12_bal_2, ID, [V1]), 
+  statistics(contested_auction, ID, [V2]),
+  ( V1 == 0, V2 == 0, V is 1
+  ; V1 == 1, V2 == 0, V is 2
+  ; V1 == 0, V2 == 1, V is 3
+  ; V1 == 1, V2 == 1, V is 4
+  ).  
+statistics(check_contested, _, ["NA"]).
+
+statistics(check_contested_2, ID, [V]) :-
+  statistics(weak_two_1st, ID, [V1]), V1 \= "NA", 
+  statistics(contested_auction, ID, [V2]), V2 \= "NA", 
+  ( V1 == 0, V2 == 0, V is 1
+  ; V1 >  0, V2 == 0, V is 2
+  ; V1 == 0, V2 == 1, V is 3
+  ; V1 >  0, V2 == 1, V is 4
+  ).  
+statistics(check_contested_2, _, ["NA"]).
+
+% 
+
+statistics(single_bid_auction, ID, [Bool]) :-
+  findall(Bid, bid(ID, _, _, Bid, _), Bids), 
+  findall(P, (member(P, Bids), P == 0), Passes), 
+  length(Bids, L1),
+  length(Passes, L2), 
+  ( L1 - L2 == 1
+  , Bool is 1     
+  ; Bool is 0
+  ). 
+
+% Auction length
+
+statistics(auction_length, ID, [L]) :- 
+  deal(ID, [_, _, _, _, Auction, _, _, _]),
+  length(Auction, L).
+
 % Frequency balanced (4333/4432/5332) in 1st psotion
 % 1=BAL, 2=other
-%
-statistics(balanced_first_hand, ID, 1) :-
+
+statistics(balanced_first_hand, ID, [1]) :-
   hand(ID, 1, _, _, Features),
   memberchk(balanced, Features). 
-statistics(balanced_first_hand, _, 0).
-%
-% Frequency opening 11-12 HCP in 1st/2nd hand, regardless distr
-%
-statistics(opening_11_12_hcp, ID, 1) :-
-  hand(ID, 1, HCP, _, _),  
-  ( HCP == 11 ; HCP == 12),
-  bid(ID, 1, 1, _, [Features]),
-  memberchk(opening, Features).
-statistics(opening_11_12_hcp, ID, 1) :-
-  bid(ID, 2, HCP, _, _),  
-  ( HCP == 11 ; HCP == 12),
-  hand(ID, 2, 1, _, [Features]),
-  memberchk(opening, Features).
-statistics(opening_11_12_hcp, _, 0).
+statistics(balanced_first_hand, _, [0]).
 
+% Frequency opening BAL 11-12 HCP in 1st hand
+
+statistics(opening_11_12_bal_1, ID, [Bool]) :-
+  hand(ID, 1, HCP, _, HandFeatures),  
+  ( HCP == 11 ; HCP == 12),
+  memberchk(balanced, HandFeatures),
+  ( bid(ID, 1, 1, _, Features)
+  , memberchk(opening, Features)
+  , Bool is 1
+  ; Bool is 0 ).
+statistics(opening_11_12_bal_1, _, ['NA']).
+
+% Frequency opening BAL 11-12 HCP in 1st/2nd hand
+
+statistics(opening_11_12_bal_2, ID, [Bool]) :-
+  hand(ID, 1, HCP, _, HandFeatures),  
+  ( HCP == 11 ; HCP == 12),
+  memberchk(balanced, HandFeatures),
+  ( bid(ID, 1, 1, _, Features)
+  , memberchk(opening, Features)
+  , Bool is 1
+  ; Bool is 0 ).
+statistics(opening_11_12_bal_2, ID, [Bool]) :-
+  bid(ID, 1, 1, 0, _), 
+  hand(ID, 2, HCP, _, HandFeatures),  
+  ( HCP == 11 ; HCP == 12),
+  memberchk(balanced, HandFeatures),
+  ( bid(ID, 2, 1, _, Features)
+  , memberchk(opening, Features)
+  , Bool is 1
+  ; Bool is 0 ). 
+statistics(opening_11_12_bal_2, _, ['NA']).
+
+
+% Frequency of preempts
+
+statistics(preempt, ID, [1, Level, Length]) :-
+  is_preempt(ID, 1, Level, Length). 
+statistics(preempt, _, [0, 'NA', 'NA']). 
+
+is_preempt(_, 5, _, _) :- !, fail.  
+is_preempt(ID, Hand, Level, Length) :-
+  hand(ID, Hand, HCP, [_, [Length|_]], _),
+  HCP < 10, 
+  bid(ID, Hand, 1, Bid, Features),
+  bid_class(preempt, Features),
+  Level is Bid div 10.
+is_preempt(ID, Hand, Level, Length) :-
+  NextHand is Hand + 1,
+  is_preempt(ID, NextHand, Level, Length). 
+
+bid_class(preempt, Features) :-
+  memberchk(jump_opening, Features). 
+bid_class(preempt, Features) :-
+  bid_class(jump, Features), 
+  bid_class(overcall, Features). 
+
+bid_class(jump, Features) :-
+  memberchk(jump_single, Features). 
+bid_class(jump, Features) :-
+  memberchk(jump_double, Features). 
+bid_class(jump, Features) :-
+  memberchk(jump_triple_plus, Features). 
+
+bid_class(overcall, Features) :-
+  memberchk(overcall_direct, Features). 
+bid_class(overcall, Features) :-
+  memberchk(overcall_live, Features). 
+     
+% Frequency of preempt 1st hand any/NV
+
+statistics(weak_two_1st, ID, [Value]) :-
+  hand(ID, 1, HCP, [_, [6|_]], _), 
+  HCP < 10, 
+  bid(ID, 1, 1, Bid, _), 
+  Value is Bid div 10. 
+statistics(weak_two_1st, _, ["NA"]).
+
+statistics(weak_two_nv_1st, ID, [Value]) :-
+  deal(ID, [_, _, Vul, _, _, _, _, _]),
+  ( Vul == 1 ; Vul == 3), 
+  hand(ID, 1, HCP, [_, [6|_]], _), 
+  HCP < 10, 
+  bid(ID, 1, 1, Bid, _), 
+  Value is Bid div 10. 
+statistics(weak_two_nv_1st, _, ["NA"]).
+    
 
 % Auxilliary predicates for statistics
 
@@ -70,7 +198,16 @@ year(ID, Year) :-
   (  deal(ID, [Year|_])
   ; Year = 'NA'
   ).  
-   
+
+split_bids([B1,B2,B3,B4,B5,B6,B7,B8],[B1,B3,B5,B7],[B2,B4,B6,B8]).
+split_bids([B1,B2,B3,B4,B5,B6,B7],[B1,B3,B5,B7],[B2,B4,B6]).
+split_bids([B1,B2,B3,B4,B5,B6],[B1,B3,B5],[B2,B4,B6]).
+split_bids([B1,B2,B3,B4,B5],[B1,B3,B5],[B2,B4]).
+split_bids([B1,B2,B3,B4],[B1,B3],[B2,B4]).
+split_bids([B1,B2,B3],[B1,B3],[B2]).
+split_bids([B1,B2],[B1],[B2]).
+split_bids([B1],[B1],[]).
+split_bids([],[],[]).   
 
    
 
@@ -122,8 +259,6 @@ distr(Hand, [Actual, Ordered]) :-
   msort(Actual, Tmp),
   reverse(Tmp, Ordered). 
 
-% add here more handtypes: hand_type(+Distr, ?HandType)
-
 hand_type([[_, 5, _, _], _], suit_5M).
 hand_type([[5, _, _, _], _], suit_5M).
 
@@ -157,33 +292,25 @@ bids_def(ID, N, _) :-
   deal(ID, Facts),
   nth1(5, Facts, Auction),
   length(Auction, L), 
-  N > L. 
+  N > L.
 bids_def(ID, N, Max) :-
   deal(ID, Facts),
   nth1(5, Facts, Auction),
   nth1(N, Auction, Bid),
-  list_before(N, Auction, BidHistory),  
-  bid_def(Bid, BidHistory, Features),
-  ( N > 4
-  , Player is N - 4
-  , Round is 2
-  ; Player is N
-  , Round is 1
-  ), 
+  player_position(N, Player, Round), 
+  list_before(N, Auction, BidHistory), 
+  bid_def(ID, Player, Round, Bid, BidHistory, Features),
   BidDef =.. [bid, ID, Player, Round, Bid, Features], 
   assert(BidDef),
   write_ln(BidDef), 
   NextN is N + 1, 
   bids_def(ID, NextN, Max). 
 
-list_before(1, _, []).
-list_before(N, [E|Rest1], [E|Rest2]) :-
-  NewN is N - 1, 
-  list_before(NewN, Rest1, Rest2).
-
-bid_def(Bid, BidHistory, Features) :-
+bid_def(ID, Player, Round, Bid, BidHistory, Features) :-
   findall(F, call_type(F, Bid), CallTypes), 
-  findall(F, bid_feature(F, Bid, BidHistory), BidFeatures),
+  findall(F, 
+    bid_feature(F, ID, Player, Round, Bid, BidHistory), 
+    BidFeatures),
   append(CallTypes, BidFeatures, Features).  
 
 % Bid features, indepedent of previous bids
@@ -231,28 +358,80 @@ call_type(level_4plus, Bid) :-
 
 % Bid features, dependent on previous bids
 
-bid_feature(opening, Bid, BidHistory) :-
+bid_feature(opening, _, _, 1, Bid, BidHistory) :-
   call_type(suit_or_nt, Bid),
   \+ bid_history(BidHistory, _, action, _).
-bid_feature(overcall, Bid, BidHistory) :-
+bid_feature(response_opening, ID, _, _, Bid, BidHistory) :-
+  call_type(action, Bid),
+  previous_bid(partner, BidHistory, Partner, Round, HisBid, History), 
+  bid_feature(opening, ID, Partner, Round, HisBid, History).
+bid_feature(overcall_direct, ID, _, _, Bid, BidHistory) :-
   call_type(suit_or_nt, Bid),
-  bid_history(BidHistory, 1, suit_or_nt, _). 
-bid_feature(SomeJump, Bid, BidHistory) :-
+  previous_bid(rho, BidHistory, RHO, Round, HisBid, History),
+  bid_feature(opening, ID, RHO, Round, HisBid, History). 
+bid_feature(overcall_live, ID, _, _, Bid, BidHistory) :-
+  call_type(suit_or_nt, Bid),
+  previous_bid(lho, BidHistory, LHO, R1, B1, H1),
+  bid_feature(opening, ID, LHO, R1, B1, H1), 
+  previous_bid(partner, BidHistory, _, _, B2, _),
+  call_type(pass, B2), 
+  previous_bid(rho, BidHistory, _, _, B3, _),
+  call_type(suit_or_nt, B3).
+bid_feature(overcall_4th_hand, ID, _, _, Bid, BidHistory) :-
+  call_type(suit_or_nt, Bid),
+  previous_bid(lho, BidHistory, LHO, R1, B1, H1),
+  bid_feature(opening, ID, LHO, R1, B1, H1), 
+  previous_bid(partner, BidHistory, _, _, B2, _),
+  call_type(pass, B2), 
+  previous_bid(rho, BidHistory, _, _, B3, _),
+  call_type(pass, B3).
+bid_feature(SomeJump, _, _, _, Bid, BidHistory) :-
   bid_history(BidHistory, _, suit_or_nt, PreviousBid),
-  bid_diff(Bid, PreviousBid, Diff),
+  Diff is Bid - PreviousBid,
   ( Diff > 10, Diff =< 20, SomeJump = jump_single
   ; Diff > 20, Diff =< 30, SomeJump = jump_double
   ; Diff > 30, SomeJump = jump_triple_plus
   ), !. 
+bid_feature(jump_opening, ID, Player, Round, Bid, BidHistory) :-
+  Bid > 20,
+  bid_feature(opening, ID, Player, Round, Bid, BidHistory). 
+
+previous_bid(rho, BidHistory, Player, Round, Bid, History) :-
+  pre_bid(0, BidHistory, Player, Round, Bid, History).
+previous_bid(partner, BidHistory, Player, Round, Bid, History) :-
+  pre_bid(1, BidHistory, Player, Round, Bid, History).
+previous_bid(lho, BidHistory, Player, Round, Bid, History) :-
+  pre_bid(2, BidHistory, Player, Round, Bid, History).
+
+pre_bid(Depth, BidHistory, Player, Round, Bid, History) :-
+  length(BidHistory, Num),
+  Pos is Num - Depth,  
+  player_position(Pos, Player, Round), 
+  nth1(Pos, BidHistory, Bid),
+  list_before(Pos, BidHistory, History). 
+
+player_position(1, 1, 1).
+player_position(2, 2, 1).
+player_position(3, 3, 1).
+player_position(4, 4, 1).
+player_position(5, 1, 2).
+player_position(6, 2, 2).
+player_position(7, 3, 2).
+player_position(8, 4, 2).
+
+list_before(1, _, []).
+list_before(N, [E|Rest1], [E|Rest2]) :-
+  NewN is N - 1, 
+  list_before(NewN, Rest1, Rest2).
 
 bid_history(History, Depth, Type, Bid) :-
   var(Depth),
-  reverse(History, Previous),
-  find_call(Previous, 1, Depth, Type, Bid).
+  reverse(History, H),
+  find_call(H, 1, Depth, Type, Bid), !.
 bid_history(History, Depth, Type, Bid) :-
   \+ var(Depth),
-  reverse(History, Previous),
-  nth1(Depth, Previous, Bid),
+  reverse(History, H), 
+  nth1(Depth, H, Bid),
   call_type(Type, Bid).    
  
 find_call([Bid|_], Pos, Pos, Type, Bid) :-
@@ -278,31 +457,31 @@ bid_diff(Bid, PreviousBid, Diff) :-
 % * Bid representation: 0=pass, 7/8=dbl/rdbl, 11=1C, ect
 
 
-init :-
-  protocol('initlog.txt'),
+init(DBFile) :-
   retractall(deal/2),
+  retractall(hand/5),
+  retractall(bid/5),
   reset_gensym(deal_),
-  open('db.pl', read, Stream), 
+  open(DBFile, read, Stream), 
   see(Stream), 
-  read(Deal), 
-  process_deal(Deal), 
-  close(Stream),
-  noprotocol.
+  read(Stream, Deal), 
+  process_deal(Stream, Deal). 
 
-process_deal(end_of_file). 
-process_deal(deal([end_of_deal])) :-
-  read(Deal), 
-  process_deal(Deal).
-process_deal(deal(Args)) :-  
+process_deal(Stream, end_of_file) :-
+  close(Stream). 
+process_deal(Stream, deal([end_of_deal])) :-
+  read(Stream, Deal), 
+  process_deal(Stream, Deal).
+process_deal(Stream, deal(Args)) :-  
   process_args(Args, Facts),
   gensym(deal_, ID),
   assert(deal(ID, Facts)),
   write_ln(deal(ID, Facts)), 
-  read(Deal),
-  process_deal(Deal).
-process_deal(_) :-
-  read(Deal), 
-  process_deal(Deal). 
+  read(Stream, Deal),
+  process_deal(Stream, Deal).
+% process_deal(Stream, _) :-
+%  read(Stream, Deal), 
+%  process_deal(Stream, Deal). 
 
 process_args(Args, [Y, H, V, S, A, C, D, R]) :-
   process_dealer(Args, Dealer), 
