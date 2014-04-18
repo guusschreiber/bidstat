@@ -1,0 +1,10878 @@
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "1"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT8.QJ95.984.KJ4 432.AK76.AT6.Q87 96.T2.KQJ32.T652 KQJ75.843.75.A93"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+1H Pass 1S Pass
+1NT Pass 2NT AP
+[Play "E"]
+DK D5 D4 D6
+DQ D7 D8 DT
+DJ H3 D9 DA
+S6 SK S8 S2
+H2 H4 H5 HK
+S9 SQ SA S4
+HT H8 HQ HA
+C2 SJ ST S3
+*
+[Description "Bermuda Bowl 1959 Final - Segment 1"]
+[Stage "Segment 1"]
+[HomeTeam "USA"]
+[VisitTeam "ITALY"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT8.QJ95.984.KJ4 432.AK76.AT6.Q87 96.T2.KQJ32.T652 KQJ75.843.75.A93"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1S Pass
+1NT Pass 2S AP
+[Play "W"]
+HQ HA H2 H3
+SA S4 S6 SK
+D9 DA DK D5
+S8 S3 S9 SQ
+ST S2 D2 SJ
+H9 H7 HT H8
+D4 D6 DJ D7
+D8 DT DQ S5
+H5 H6 C2 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "2"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ84.T7.AJ643.K3 .Q932.QT92.QJ962 KQT92.K5..AT8754 7653.AJ864.K875."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6SX"]
+[Result "10"]
+[Auction "E"]
+2C Pass 2D Pass
+2S Pass 4D Pass
+4S Pass 4NT Pass
+6C Pass 6S X
+AP
+[Play "S"]
+D5 DA D2 H5
+S3 S4 H2 SK
+S5 C3 C2 C5
+HA HT H3 HK
+H6 H7 H9 S2
+S6 CK C9 C4
+S7 S8 D9 ST
+H8 SA CJ C7
+D8 D4 DT S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ84.T7.AJ643.K3 .Q932.QT92.QJ962 KQT92.K5..AT8754 7653.AJ864.K875."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Auction "E"]
+1C 1H 1S 2H
+4S Pass 5D Pass
+5S AP
+[Play "N"]
+HQ HK HA H7
+H2 H5 H4 HT
+H3 SK S3 S4
+C2 C4 H6 CK
+D2 C5 D5 DA
+D9 S2 D7 D3
+C6 CA S5 C3
+H9 S9 S6 SA
+DT ST D8 D4
+C9 C7 H8 SJ
+DQ SQ DK D6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "3"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ92.Q3.AKJ54.JT QT65.9652.T.AK87 743.AKJ7.93.Q962 K8.T84.Q8762.543"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1S Pass 2C
+Pass 3D Pass 3NT
+AP
+[Play "S"]
+H4 HQ H2 H7
+D2 DA DT D3
+DQ D4 H6 D9
+SK SA S5 S3
+D6 DK H5 C2
+C3 CT CK C6
+H8 H3 H9 HA
+HT D5 C7 HK
+C4 S2 S6 HJ
+C5 CJ CA C9
+-  -  C8 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ92.Q3.AKJ54.JT QT65.9652.T.AK87 743.AKJ7.93.Q962 K8.T84.Q8762.543"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1D X 1H
+Pass 1S Pass 2C
+Pass 2NT Pass 3NT
+AP
+[Play "N"]
+S5 S3 SK SA
+CK C2 C3 CJ
+S6 S4 S8 S9
+CA C6 C4 CT
+SQ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "4"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ9.9642.9732.K6 A652.AQ.AJT8.Q83 873.5.KQ65.T9752 KT4.KJT873.4.AJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Auction "W"]
+Pass 1NT Pass 3H
+Pass 4H Pass 6H
+AP
+[Play "W"]
+SQ S2 S3 SK
+H2 HA H5 H3
+H4 HQ C2 HK
+H6 S5 C5 HJ
+H9 C3 C7 HT
+S9 SA S7 S4
+SJ S6 S8 ST
+D9 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ9.9642.9732.K6 A652.AQ.AJT8.Q83 873.5.KQ65.T9752 KT4.KJT873.4.AJ4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass 4H
+AP
+[Play "W"]
+SQ S2 S3 SK
+H2 HA H5 H3
+H4 HQ C2 HK
+H6 C3 C5 HJ
+H9 D8 D5 HT
+S9 S5 S7 S4
+CK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "5"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A852.4.KJT6.J983 QJ64.97.Q75.QT54 93.AQ63.A9843.K7 KT7.KJT852.2.A62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2D Pass 3D
+Pass 3NT Pass 4D
+AP
+[Play "S"]
+ST S2 S6 S3
+S7 SA S4 S9
+CA CJ CQ CK
+SK S5 SJ D3
+D2 D6 D5 DA
+H2 DK D7 D4
+C2 C3 CT C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A852.4.KJT6.J983 QJ64.97.Q75.QT54 93.AQ63.A9843.K7 KT7.KJT852.2.A62"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT 2H 2NT
+AP
+[Play "S"]
+HJ H4 H7 HQ
+D2 DK D5 D3
+C6 DJ D7 D4
+ST S2 S4 S9
+HK C3 H9 HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "6"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQ7.QJ96.A2.K762 9543.AK854.54.JT .T732.QJ98.Q8543 KJT862..KT763.A9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Auction "E"]
+Pass 1S 1NT X
+2C 2D Pass 2S
+Pass 3S AP
+[Play "W"]
+HQ HA H2 C9
+DA D4 D8 DT
+C2 CT CQ CA
+D2 D5 D9 DK
+H6 S3 DJ D3
+C6 CJ C8 S2
+-  -  -  D6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQ7.QJ96.A2.K762 9543.AK854.54.JT .T732.QJ98.Q8543 KJT862..KT763.A9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Auction "E"]
+Pass 1D X Pass
+1H 1S 2H 2S
+Pass 4S AP
+[Play "W"]
+HQ HA H2 C9
+SQ S3 C4 SJ
+HJ HK H3 D3
+DA D4 D9 DK
+SA S4 C3 S2
+S7 S9 C5 S6
+D2 D5 DJ D6
+H6 H4 HT S8
+C6 S5 D8 D7
+H9 H5 H7 ST
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "7"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT87.AK753.JT.64 KJ32.J864.86.AJ2 A965.9.A532.Q873 4.QT2.KQ974.KT95"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Auction "S"]
+AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT87.AK753.JT.64 KJ32.J864.86.AJ2 A965.9.A532.Q873 4.QT2.KQ974.KT95"]
+[Scoring "IMP"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Auction "S"]
+AP
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "8"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:543.KT6.A987.J62 KT9.AJ4.T65.KT83 J8.Q9875.K32.954 AQ762.32.QJ4.AQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 1C Pass 1S
+Pass 3S Pass 4S
+AP
+[Play "W"]
+S3 SK S8 S2
+S4 S9 SJ SA
+S5 ST H5 SQ
+D7 D5 DK DQ
+DA D6 D3 D4
+D8 DT D2 DJ
+H6 HA H7 H2
+C2 C3 C4 CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:543.KT6.A987.J62 KT9.AJ4.T65.KT83 J8.Q9875.K32.954 AQ762.32.QJ4.AQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 1C Pass 2S
+Pass 3C Pass 4S
+AP
+[Play "W"]
+S4 ST S8 S2
+S3 SK SJ S6
+S5 S9 H5 SA
+D8 DT DK D4
+DA D5 D3 DQ
+D7 D6 D2 DJ
+D9 H4 H7 SQ
+C2 HJ C4 S7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "9"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q95.Q98.K965.T53 76.AK3.42.AQJ972 JT2.J7542.JT3.K6 AK843.T6.AQ87.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2H Pass 2S Pass
+3C Pass 4C Pass
+5C AP
+[Play "E"]
+DJ DQ DK D2
+DT DA D6 D4
+H2 H6 H8 HA
+H4 HT H9 HK
+H5 C8 HQ H3
+C6 C4 C3 CA
+CK S3 C5 CJ
+SJ SA -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q95.Q98.K965.T53 76.AK3.42.AQJ972 JT2.J7542.JT3.K6 AK843.T6.AQ87.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "N"]
+1H Pass 2D Pass
+3C Pass 3S Pass
+4C Pass 5C AP
+[Play "E"]
+DJ DQ DK D2
+C6 C4 C5 CA
+H2 H6 H8 HA
+H4 HT H9 HK
+H5 C8 HQ H3
+S2 SA S5 S6
+ST SK S9 S7
+D3 DA D5 D4
+DT D7 D6 C7
+CK -  -  CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "10"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:9432.JT.K97.QJ97 QJ76.6.JT85.KT85 A85.AQ982.Q63.A6 KT.K7543.A42.432"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+1H Pass 1S Pass
+2S AP
+[Play "N"]
+DJ D3 D4 DK
+H6 H2 HK HJ
+CK CA C4 CQ
+C5 C6 C2 CJ
+C8 S5 C3 C7
+S7 HA H3 HT
+DT DQ DA D7
+D8 D6 D2 D9
+S6 SA ST S2
+SJ HQ H4 C9
+D5 H9 SK S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:9432.JT.K97.QJ97 QJ76.6.JT85.KT85 A85.AQ982.Q63.A6 KT.K7543.A42.432"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+1H Pass 1NT Pass
+2D Pass 2H AP
+[Play "S"]
+C4 CQ C5 C6
+HK HJ H6 H2
+C3 C7 C8 CA
+H3 HT S6 HA
+D2 DK D5 D3
+ST S2 S7 SA
+H4 S3 CT HQ
+H5 S4 SJ H9
+H7 D7 SQ H8
+SK S9 D8 S5
+DA D9 DT D6
+C2 C9 CK S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "11"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:97.K9.Q2.J976432 AT2.A8654.J5.AQ8 QJ865.Q32.8743.5 K43.JT7.AKT96.KT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "W"]
+C2 CA C5 CT
+DQ DJ D3 D6
+HK HA H2 H7
+-  H4 HQ -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:97.K9.Q2.J976432 AT2.A8654.J5.AQ8 QJ865.Q32.8743.5 K43.JT7.AKT96.KT"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+1D Pass 1NT Pass
+2D Pass 2H Pass
+3H Pass 4H AP
+[Play "E"]
+C5 CK C6 C8
+H2 HJ HK HA
+HQ H7 H9 H4
+SQ S3 S7 SA
+D3 DA D2 DJ
+D4 DK DQ D5
+-  HT -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "12"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQT53.AQT7.Q43.T J9764.KJ.J852.93 8.865.AT7.A86542 A2.9432.K96.KQJ7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "7"]
+[Auction "W"]
+1S Pass 1NT Pass
+2H Pass 3C AP
+[Play "S"]
+SA S3 S4 S8
+S2 SK S6 D7
+CJ CT C3 C2
+H2 HT HJ H5
+D6 D3 D8 DA
+C7 S5 C9 CA
+CQ H7 D2 C4
+DK -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQT53.AQT7.Q43.T J9764.KJ.J852.93 8.865.AT7.A86542 A2.9432.K96.KQJ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+1S Pass 1NT X
+2H Pass 3H AP
+[Play "N"]
+C9 CA C7 CT
+S4 S8 SA S3
+C3 C2 CJ H7
+S6 D7 S2 SK
+S7 DT H2 SQ
+HJ H5 H3 HT
+HK H6 H4 HA
+D2 DA D6 D3
+D5 C6 CQ HQ
+D8 H8 D9 D4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "13"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT3.QT43.JT654.Q AK752.972.K8.J73 9.AJ65.Q97.KT954 J864.K8.A32.A862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 3S Pass
+4S AP
+[Play "E"]
+D7 D2 DT DK
+H5 HK H3 H2
+HJ H8 H4 H9
+DQ DA D4 D8
+S9 S4 S3 SA
+H6 S6 HT H7
+C5 S8 ST SK
+C4 CA CQ C3
+CK C2 D5 CJ
+CT -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT3.QT43.JT654.Q AK752.972.K8.J73 9.AJ65.Q97.KT954 J864.K8.A32.A862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1S X XX 2H
+Pass Pass 2S 3D
+Pass 3H Pass Pass
+3S AP
+[Play "E"]
+HA H8 H3 H2
+H5 HK H4 H9
+S9 S4 S3 SA
+H6 S6 ST SK
+HJ S8 HT H7
+C4 C2 CQ C3
+C5 SJ SQ S2
+D7 D2 DJ DK
+C9 CA D4 C7
+-  C6 -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "14"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AT4.J984.QT96.93 KQ72.T76.A74.KQ8 985.A32.K53.J742 J63.KQ5.J82.AT65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+DT D4 DK D2
+D9 D7 D5 D8
+D6 DA D3 DJ
+SA S2 S5 SJ
+DQ H6 H3 C5
+S4 SQ S8 S3
+-  H7 HA -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AT4.J984.QT96.93 KQ72.T76.A74.KQ8 985.A32.K53.J742 J63.KQ5.J82.AT65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+D6 D4 DK D2
+DQ D7 D5 DJ
+DT DA D3 D8
+SA S2 S5 SJ
+D9 H6 H3 C5
+H4 H7 HA -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "15"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AK.J2.JT85.K9743 9732.AK87.AQ7.86 J.QT9543.K62.QJ5 QT8654.6.943.AT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass 1D X 3H
+3S Pass 4S AP
+[Play "W"]
+HJ HA HT H6
+SK S2 SJ SQ
+DJ DQ DK D3
+D8 DA D2 D4
+H2 HK H3 D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AK.J2.JT85.K9743 9732.AK87.AQ7.86 J.QT9543.K62.QJ5 QT8654.6.943.AT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass Pass X 3H
+3S AP
+[Play "W"]
+HJ HA HT H6
+SK S2 SJ SQ
+DJ DQ DK D3
+-  -  CQ CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "16"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "Eugenio Chiaradia"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJT98.Q7..AJ9843 532.K6.AQ765.T52 KQ4.9432.J84.KQ7 76.AJT85.KT932.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+2C Pass 2D Pass
+2S Pass 2NT Pass
+3S Pass 4S AP
+[Play "N"]
+DA D4 D2 S8
+S2 SK S6 S9
+S3 SQ S7 ST
+S5 S4 D3 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJT98.Q7..AJ9843 532.K6.AQ765.T52 KQ4.9432.J84.KQ7 76.AJT85.KT932.6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Auction "W"]
+1C 1D 2C 4D
+5C Pass 6C AP
+[Play "N"]
+DA D4 D2 C4
+C2 CK C6 C8
+D5 D8 D9 C9
+C5 CQ D3 CJ
+CT C7 DT CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "17"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J83.A3.KJ92.T953 Q7.T9762.QT843.J 642.KQ54.A5.AQ84 AKT95.J8.76.K762"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+Pass 1C 1S 2C
+Pass 2H Pass 3C
+AP
+[Play "S"]
+SK S3 SQ S2
+SA S8 S7 S4
+ST SJ CJ S6
+HJ HA H9 H4
+C2 C9 D3 C4
+CK C3 H2 C8
+D7 D9 DT DA
+C6 C5 D4 CA
+C7 CT D8 CQ
+H8 H3 H6 HK
+S5 D2 H7 HQ
+D6 DK DQ D5
+S9 DJ HT H5
+*
+[Description "Bermuda Bowl 1959 Final - Segment 2"]
+[Stage "Segment 2"]
+[HomeTeam "ITALY"]
+[VisitTeam "USA"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J83.A3.KJ92.T953 Q7.T9762.QT843.J 642.KQ54.A5.AQ84 AKT95.J8.76.K762"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "N"]
+1H X XX 1NT
+Pass 2C X Pass
+2D Pass 2H AP
+[Play "E"]
+S4 S5 S8 SQ
+CA C2 C3 CJ
+C4 CK C5 D3
+S2 SA S3 S7
+S6 SK SJ D4
+DA D6 D2 DQ
+H4 H8 HA H2
+HQ HJ H3 H6
+C8 C6 C9 H7
+HK S9 D9 H9
+CQ C7 CT HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "18"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T65.42.AQ762.K42 AQ97.QT5.8.AQT85 KJ32.AK93.T9.J63 84.J876.KJ543.97"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "6"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2C
+AP
+[Play "E"]
+HK H6 H4 H5
+DT DK DA D8
+HA H7 H2 HT
+H9 H8 C2 HQ
+D9 D3 DQ C8
+SK S4 S5 SQ
+H3 HJ CK CA
+S2 S8 S6 SA
+S3 C7 ST S7
+C3 DJ D2 S9
+SJ D4 D6 C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T65.42.AQ762.K42 AQ97.QT5.8.AQT85 KJ32.AK93.T9.J63 84.J876.KJ543.97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+1S Pass 2S AP
+[Play "S"]
+C9 C2 CQ C3
+C7 C4 CA C6
+S4 CK C5 CJ
+D4 D2 D8 DT
+D3 D6 S7 D9
+H6 H2 H5 HA
+H7 H4 HT HK
+H8 S5 HQ H3
+D5 DA S9 SJ
+HJ ST SQ H9
+S8 D7 C8 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "19"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT.AQ54.K742.Q92 Q76.9832.AT5.853 9843.K.J93.KJT64 KJ52.JT76.Q86.A7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+1C X Pass 1S
+Pass 1NT Pass 2NT
+AP
+[Play "N"]
+H9 HK H7 H4
+C3 CK CA C2
+H2 S3 HJ HA
+C5 C4 C7 CQ
+C8 CT H6 C9
+S7 CJ HT ST
+D5 C6 S5 D2
+DA D3 D6 DK
+SQ S4 S2 SA
+H3 S8 D8 HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT.AQ54.K742.Q92 Q76.9832.AT5.853 9843.K.J93.KJT64 KJ52.JT76.Q86.A7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "10"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1NT Pass 2C
+AP
+[Play "S"]
+H6 H4 H8 HK
+S2 ST SQ S3
+H7 HA H2 D3
+S5 SA S6 S4
+HJ HQ H3 D9
+HT H5 H9 DJ
+DQ DK DA C4
+SJ C9 S7 S8
+D6 D2 D5 C6
+SK CQ DT S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "20"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:432.AKQ94.94.KJT AJ8.J2.KJ83.7652 K6.8763.AQT7.AQ4 QT975.T5.652.983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+1H Pass 3H Pass
+4H AP
+[Play "N"]
+D3 DQ D2 D4
+H2 H3 H5 HA
+HJ H6 HT HK
+S8 SK S5 S2
+SJ S6 S7 S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:432.AKQ94.94.KJT AJ8.J2.KJ83.7652 K6.8763.AQT7.AQ4 QT975.T5.652.983"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 4H AP
+[Play "N"]
+H2 H3 HT HA
+HJ H6 H5 HK
+C2 CA C3 CT
+C5 CQ C8 CK
+C6 C4 C9 CJ
+DK DA D2 D9
+D3 DQ D5 D4
+D8 D7 D6 H4
+S8 SK S5 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "21"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:98.9762.K982.AJ3 AJT53.KJ43.T64.5 K74.Q.AJ75.Q8762 Q62.AT85.Q3.KT94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass 1D Pass 2D
+X Pass 2H 3D
+3H AP
+[Play "W"]
+D2 D4 DA D3
+DK D6 D5 DQ
+H2 H3 HQ HA
+S8 ST SK S2
+CA C5 C6 CK
+C3 H4 C2 C4
+H6 HK D7 H5
+H7 HJ S4 H8
+S9 S3 S7 SQ
+H9 DT DJ HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:98.9762.K982.AJ3 AJT53.KJ43.T64.5 K74.Q.AJ75.Q8762 Q62.AT85.Q3.KT94"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass Pass 2H 3D
+4H X AP
+[Play "W"]
+D2 D4 DA D3
+DK D6 D7 DQ
+D8 DT DJ H5
+S8 SJ SK S2
+CJ C5 C2 C9
+S9 ST S4 S6
+H2 H3 HQ HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "22"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT.652.AKT98.Q52 J432.J4.754.AT93 K75.A73.J32.K874 Q986.KQT98.Q6.J6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D Pass
+2NT Pass 3NT AP
+[Play "S"]
+HQ H2 HJ H3
+HK H5 H4 H7
+HT H6 S4 HA
+D6 D8 D4 DJ
+DQ DA D5 D2
+S6 DK D7 D3
+H8 DT S2 S5
+H9 D9 C3 C4
+C6 C2 C9 CK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT.652.AKT98.Q52 J432.J4.754.AT93 K75.A73.J32.K874 Q986.KQT98.Q6.J6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "7"]
+[Auction "E"]
+Pass 2H Pass 4H
+AP
+[Play "W"]
+DA D4 D2 D6
+DK D5 D3 DQ
+D9 D7 DJ H9
+H2 H4 HA HQ
+H5 HJ H3 HK
+H6 C3 H7 HT
+SA S2 S5 S8
+D8 C9 C4 H8
+ST SJ SK S6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "23"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6543..K62.T76543 KQJT82.Q53.875.A 97.AJ9862.Q4.K98 A.KT74.AJT93.QJ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1H Pass 2S Pass
+2NT Pass 4S AP
+[Play "E"]
+C8 C2 C5 CA
+S7 SA S3 S2
+CK CJ C4 D5
+HA H4 D2 H3
+H8 H7 S4 H5
+C9 CQ C3 SK
+S9 D3 S5 SQ
+H2 D9 S6 SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6543..K62.T76543 KQJT82.Q53.875.A 97.AJ9862.Q4.K98 A.KT74.AJT93.QJ2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1S Pass
+1NT Pass 4S AP
+[Play "E"]
+C8 C2 C6 CA
+D4 D9 D2 D5
+S7 SA S3 S2
+HA H4 C7 HQ
+HJ HK S4 H3
+C9 CJ CT ST
+S9 H7 S5 SK
+H2 D3 S6 SQ
+DQ DA D6 D7
+H6 DT DK D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "24"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q652.AK863.Q.KJ9 K87.Q7.AKJ854.53 T943.JT.T73.A764 AJ.9542.962.QT82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+1H 2D Pass Pass
+X Pass 2H AP
+[Play "N"]
+DK D3 D9 DQ
+DA D7 D6 H3
+S7 S3 SA SQ
+D4 DT D2 H6
+S8 S4 SJ S5
+HQ HT H2 H8
+H7 HJ H4 HK
+D5 S9 H5 HA
+C3 CA C2 C9
+C5 C4 C8 CJ
+D8 C6 CT CK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q652.AK863.Q.KJ9 K87.Q7.AKJ854.53 T943.JT.T73.A764 AJ.9542.962.QT82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+1H 2D Pass Pass
+2H Pass Pass 3D
+AP
+[Play "E"]
+HJ H2 HK H7
+HT H4 HA HQ
+D3 H5 H3 C3
+C4 C2 C9 C5
+S3 H9 H6 DA
+S4 SA S2 S8
+D7 D2 DQ DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "25"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q42.T83.KJ642.A8 AT5.A65.AQT87.K2 KJ763.J7.9.JT753 98.KQ942.53.Q964"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1NT Pass 2H Pass
+2S Pass 3H Pass
+3NT AP
+[Play "E"]
+S6 S8 SQ S5
+SJ S9 S4 ST
+S7 C4 S2 SA
+C3 CQ CA C2
+D9 D3 D6 DQ
+H7 H2 H3 HA
+HJ HK H8 H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q42.T83.KJ642.A8 AT5.A65.AQT87.K2 KJ763.J7.9.JT753 98.KQ942.53.Q964"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Auction "N"]
+1D Pass 1H Pass
+2NT Pass 3H Pass
+4H AP
+[Play "W"]
+CA C2 C5 C4
+D4 DT D9 D3
+H3 H5 H7 HQ
+H8 HA HJ H2
+HT H6 S7 HK
+D2 D7 S3 D5
+D6 DA C3 S8
+C8 CK C7 C6
+DJ D8 S6 H4
+S2 S5 SJ H9
+S4 DQ CT CQ
+SQ SA SK S9
+DK ST CJ C9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "26"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q8.A82.J9632.J96 AJ643.KQ6.A8.A54 T72.T754.754.T73 K95.J93.KQT.KQ82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+Pass 1C Pass 2NT
+Pass 3D Pass 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 6S
+AP
+[Play "E"]
+D4 DT DJ DA
+S2 SK S8 S3
+S7 S5 SQ SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q8.A82.J9632.J96 AJ643.KQ6.A8.A54 T72.T754.754.T73 K95.J93.KQT.KQ82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+Pass 1C Pass 2S
+Pass 3S Pass 4C
+Pass 4S Pass 6S
+AP
+[Play "E"]
+H7 H3 HA HQ
+H4 HJ H2 H6
+S2 SK S8 S3
+S7 S5 SQ SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "27"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKJ65.Q.A75.9764 7.K865432.K642.Q Q942.JT.QT983.J5 T83.A97.J.AKT832"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+1H 1S 4H AP
+[Play "W"]
+SK S7 S2 S3
+D5 DK D8 DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKJ65.Q.A75.9764 7.K865432.K642.Q Q942.JT.QT983.J5 T83.A97.J.AKT832"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Auction "S"]
+1C 1S 2H 2S
+3H 3S 4H Pass
+Pass 4S 5H AP
+[Play "E"]
+S2 S3 SK S7
+D8 DJ DA D2
+D9 H7 D5 D4
+HT HA HQ H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "28"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K632.QJ.AK972.94 QT5.A53.JT43.KT5 AJ987.984.65.QJ2 4.KT762.Q8.A8763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1S Pass
+2S Pass 3S Pass
+4S AP
+[Play "S"]
+H6 HJ HA H4
+HK HQ H3 H8
+CA C4 C5 C2
+C6 C9 CK CJ
+DQ DK D3 D5
+S4 S2 S5 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K632.QJ.AK972.94 QT5.A53.JT43.KT5 AJ987.984.65.QJ2 4.KT762.Q8.A8763"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1S Pass
+2S Pass Pass 2NT
+3S AP
+[Play "S"]
+H6 HJ HA H4
+CA C4 CT C2
+HK HQ H3 H8
+C6 C9 CK CQ
+C3 D2 C5 CJ
+S4 S2 S5 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "29"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J753.K9652..KQ62 Q642.A8.T853.J94 AK98.Q43.QJ92.AT T.JT7.AK764.8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2S Pass 4S
+AP
+[Play "S"]
+DK S3 D3 D2
+H7 H2 H8 HQ
+DA S5 D5 DQ
+ST S7 S2 SA
+D4 SJ D8 D9
+C3 C2 C4 CA
+C5 H5 S4 SK
+D6 H6 DT DJ
+C7 CK C9 CT
+C8 CQ CJ H4
+D7 C6 S6 S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J753.K9652..KQ62 Q642.A8.T853.J94 AK98.Q43.QJ92.AT T.JT7.AK764.8753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2NT Pass 3S
+Pass 3NT Pass 4H
+Pass 4S AP
+[Play "S"]
+DA S3 D3 D2
+H7 H2 HA H3
+HT HK H8 H4
+ST S5 S2 SA
+HJ H5 S4 HQ
+C3 C2 C4 CA
+C5 S7 S6 SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "30"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:JT93.AJ85.Q5.K95 KQ72.63.AJT97.A6 5.KQT2.K6432.JT8 A864.974.8.Q7432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1S
+X 2S 3H 3S
+AP
+[Play "E"]
+HK H4 H8 H3
+H2 H7 HA H6
+HT H9 H5 S2
+S5 S4 S3 SK
+C8 C2 C5 CA
+CT CQ CK C6
+D2 D8 D5 DA
+D3 S6 DQ D7
+CJ C3 C9 S7
+D4 S8 S9 SQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:JT93.AJ85.Q5.K95 KQ72.63.AJT97.A6 5.KQT2.K6432.JT8 A864.974.8.Q7432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 2S AP
+[Play "E"]
+CJ CQ CK CA
+C8 C2 C9 C6
+HT H4 H5 H3
+HK H7 H8 H6
+H2 H9 HA S2
+D2 D8 D5 DA
+D3 S4 DQ D9
+CT C3 C5 S7
+S5 S6 S3 SQ
+D4 S8 S9 SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "31"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K972.9.AK9.T8732 .AQ85.JT86.KJ954 QJT863.T74.Q43.Q A54.KJ632.752.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "10"]
+[Auction "S"]
+1H X 4H 4S
+Pass Pass 4NT Pass
+5H Pass Pass 5S
+X AP
+[Play "S"]
+CA C2 C5 CQ
+C6 C3 C9 S3
+H2 H9 HQ HT
+D2 C7 C4 S6
+H3 S2 H5 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K972.9.AK9.T8732 .AQ85.JT86.KJ954 QJT863.T74.Q43.Q A54.KJ632.752.A6"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "10"]
+[Auction "S"]
+1H X 4H 4S
+Pass Pass 5H Pass
+Pass 5S X AP
+[Play "S"]
+H3 H9 HA H4
+D2 DA DJ D3
+SA S2 C4 SQ
+CA C2 C5 CQ
+C6 C3 C9 S3
+H2 S7 H5 H7
+D5 C7 CJ S6
+H6 SK H8 HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "32"]
+[West "Lee Hazen"]
+[North "Giorgio Belladonna"]
+[East "Harry Fishbein"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:98542.8.KQ2.T642 AQT.AQ973.85.AQ7 J6.K652.AJT963.J K73.JT4.74.K9853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Auction "W"]
+Pass 1S Pass 1NT
+Pass 2H AP
+[Play "E"]
+DA D4 D2 D5
+DJ D7 DQ D8
+D3 H4 DK C7
+HK HJ H8 H3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Pietro Forquet"]
+[North "Sam Fry Jr."]
+[East "Guglielmo Siniscalco"]
+[South "Sidney Lazard"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:98542.8.KQ2.T642 AQT.AQ973.85.AQ7 J6.K652.AJT963.J K73.JT4.74.K9853"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 2D 2H
+Pass 4H AP
+[Play "E"]
+CJ C5 C2 CA
+H2 H4 H8 HA
+H5 HT S2 H3
+HK HJ S4 H7
+DA D4 D2 D5
+D3 D7 DQ D8
+H6 C3 C4 C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "33"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT54.Q854.KT6.J9 972.K9.J3.K65432 A.AJT72.AQ952.Q8 KJ863.63.874.AT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1C 1S 1NT
+Pass 2H Pass 4H
+AP
+[Play "S"]
+S6 S4 S9 SA
+H3 H4 H9 HA
+H6 H5 HK HT
+CA C9 C4 C8
+C7 CJ CK CQ
+*
+[Description "Bermuda Bowl 1959 Final - Segment 3"]
+[Stage "Segment 3"]
+[HomeTeam "USA"]
+[VisitTeam "ITALY"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT54.Q854.KT6.J9 972.K9.J3.K65432 A.AJT72.AQ952.Q8 KJ863.63.874.AT7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1H Pass 2H
+Pass 4H AP
+[Play "S"]
+D8 D6 DJ DA
+H3 H4 H9 HA
+H6 H5 HK HT
+CA C9 C4 C8
+C7 CJ CK CQ
+*
+[Description "Bermuda Bowl 1959 Final - Segment 2"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "34"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ653.T.AQJ5.Q2 T7.K983.9742.654 A4.A74.T3.AJT987 982.QJ652.K86.K3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "13"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H Pass 3S Pass
+4H Pass 4NT Pass
+5S Pass 6S AP
+[Play "N"]
+H3 HA H2 HT
+S7 SA S2 S3
+ST S4 S8 SK
+D7 H4 S9 SQ
+C4 C7 C3 CQ
+C5 CA CK C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ653.T.AQJ5.Q2 T7.K983.9742.654 A4.A74.T3.AJT987 982.QJ652.K86.K3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1C Pass 1S Pass
+2C Pass 3S Pass
+4S AP
+[Play "N"]
+H3 HA H2 HT
+D7 DT D6 D5
+D4 D3 D8 DQ
+D2 S4 DK DJ
+S7 SA S2 S3
+H8 H4 H5 S5
+ST H7 S8 SK
+C4 C7 S9 SQ
+C5 C8 H6 SJ
+C6 C9 CK CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "35"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:52.QJT87542.KJ.7 K9.63.AT76.AQJT4 AQJT8.9.Q3.98653 7643.AK.98542.K2"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "11"]
+[Auction "S"]
+1D 3H 4C AP
+[Play "E"]
+SA S3 S5 S9
+SQ S4 S2 SK
+C3 CK C7 C4
+C5 C2 H7 CT
+C6 S6 H2 CJ
+C8 S7 H4 CQ
+C9 D2 H5 CA
+H9 HK H8 H3
+D3 D4 DJ DA
+DQ D5 DK D6
+S8 HA HT H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:52.QJT87542.KJ.7 K9.63.AT76.AQJT4 AQJT8.9.Q3.98653 7643.AK.98542.K2"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+Pass 3H AP
+[Play "N"]
+DA D3 D2 DJ
+CA C3 C2 C7
+C4 C5 CK H5
+H3 H9 HK H2
+D6 DQ D4 DK
+H6 C6 HA H7
+D7 C8 D5 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "36"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A5.T7.AK9862.KJ4 9.K432.T7.AT9732 KQJT7642.6.Q5.65 83.AQJ985.J43.Q8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+1D 2C 4S AP
+[Play "S"]
+CQ CK CA C5
+C8 CJ CT C6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A5.T7.AK9862.KJ4 9.K432.T7.AT9732 KQJT7642.6.Q5.65 83.AQJ985.J43.Q8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1D Pass 4S AP
+[Play "S"]
+CQ CK CA C5
+HJ H7 H2 H6
+HA HT H3 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "37"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ96.AT532.JT92. KQT3.Q6.KQ8.J975 875.J87.A53.KQ82 42.K94.764.AT643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+1S Pass 1NT AP
+[Play "W"]
+H2 HQ H8 H4
+S6 CJ CQ CA
+S9 SK S5 S2
+D2 C7 C2 C3
+D9 C9 C8 CT
+DT DK DA D4
+DJ C5 CK C4
+HA H6 HJ HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ96.AT532.JT92. KQT3.Q6.KQ8.J975 875.J87.A53.KQ82 42.K94.764.AT643"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1D 1NT
+Pass 2H Pass 3H
+AP
+[Play "S"]
+S4 S6 ST S8
+D4 D9 D8 D3
+H9 H2 H6 H8
+S2 SA S3 S5
+H4 HA HQ H7
+D6 DJ DQ DA
+D7 D2 DK D5
+C3 S9 SK S7
+HK SJ SQ HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "38"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J95432.4.J.QT832 T87.AJT.AT863.K6 AK6.Q952.K754.J4 Q.K8763.Q92.A975"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1S 2D
+2S 3D 3S Pass
+Pass 4D AP
+[Play "E"]
+SA SQ S2 S8
+CJ C5 C2 CK
+S6 D2 S3 S7
+D4 DQ DJ D3
+H2 H3 H4 HA
+HQ HK S4 HT
+H5 H6 S5 HJ
+SK D9 S9 ST
+C4 CA C3 C6
+H9 H7 SJ D6
+DK C7 C8 D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J95432.4.J.QT832 T87.AJT.AT863.K6 AK6.Q952.K754.J4 Q.K8763.Q92.A975"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 2S 3D
+Pass 3H Pass 4H
+AP
+[Play "W"]
+DJ DA D4 D2
+H4 HA H2 H3
+S2 HJ H5 HK
+S3 D3 D5 DQ
+S4 D6 DK D9
+C2 HT HQ H6
+S5 S7 SA SQ
+S9 S8 SK H7
+C3 CK C4 C5
+C8 DT D7 C7
+CT D8 H9 C9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "39"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ9.J6542.42.AT4 762.9.K875.KJ962 KQ.AKT8.AJT93.Q3 T8543.Q73.Q6.875"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1NT Pass 2D
+Pass 2H Pass 3H
+Pass 3NT Pass 5H
+AP
+[Play "N"]
+C6 CQ C5 C4
+H9 HA H3 H2
+S7 HK H7 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ9.J6542.42.AT4 762.9.K875.KJ962 KQ.AKT8.AJT93.Q3 T8543.Q73.Q6.875"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 3H
+Pass 3S Pass 4H
+AP
+[Play "N"]
+C6 CQ C5 C4
+H9 HA H3 H2
+S7 HK H7 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "40"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q62.AKJ96.Q97.86 JT53.T.JT864.Q72 94.7542.5.AKT954 AK87.Q83.AK32.J3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "W"]
+1H Pass 4H X
+AP
+[Play "N"]
+DJ D5 DK D7
+S3 S4 SA S2
+S5 S9 SK S6
+CQ CA C3 C6
+HT H7 H3 HA
+D4 H2 D2 D9
+D6 H4 H8 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q62.AKJ96.Q97.86 JT53.T.JT864.Q72 94.7542.5.AKT954 AK87.Q83.AK32.J3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "8"]
+[Auction "W"]
+1H Pass 2C X
+Pass 2D 2H 2S
+2NT Pass 3H Pass
+Pass 3S 4C 4D
+AP
+[Play "E"]
+CK C3 C8 C2
+CA CJ C6 C7
+CT DK H6 CQ
+H7 HQ HK HT
+H2 H3 HA D4
+D5 D2 DQ DJ
+H4 H8 HJ D8
+S4 SA S2 S3
+C4 D3 D7 DT
+S9 S7 SQ SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "41"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A73.AQJ543.64.T9 QT6.K986.KJ7.K86 J4.7.T932.AQJ732 K9852.T2.AQ85.54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "5"]
+[Auction "N"]
+Pass Pass 1S Pass
+2NT AP
+[Play "E"]
+CQ C4 C9 C6
+SJ S2 SA S6
+CJ C5 CT C8
+CA S5 S7 CK
+C7 H2 D6 H6
+C2 HT S3 H8
+C3 D5 D4 D7
+H7 S8 HA H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A73.AQJ543.64.T9 QT6.K986.KJ7.K86 J4.7.T932.AQJ732 K9852.T2.AQ85.54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1S 2H
+X 3C AP
+[Play "S"]
+HT HA H6 H7
+D5 D4 DK D2
+C4 CT C6 C2
+DA D6 D7 D9
+C5 C9 CK CA
+S2 H3 C8 CQ
+S5 H4 H9 CJ
+H2 H5 H8 C3
+S8 S3 SQ SJ
+S9 SA S6 S4
+SK S7 ST C7
+DQ HJ DJ DT
+D8 HQ HK D3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "42"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K942.6.K9864.KQ2 T6.AKQT42.AJ.754 A.J95.T2.AJT9863 QJ8753.873.Q753."]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+3C Pass 3NT AP
+[Play "N"]
+HA H5 H3 H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K942.6.K9864.KQ2 T6.AKQT42.AJ.754 A.J95.T2.AJT9863 QJ8753.873.Q753."]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1S 2H
+Pass Pass 3C 3H
+4C Pass 5C AP
+[Play "S"]
+H8 H6 HQ H5
+S7 C2 C4 CJ
+H3 CQ H2 HJ
+S3 S2 S6 SA
+H7 CK H4 H9
+S5 SK ST DT
+D3 D4 DA D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "43"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ.9763.AK9876.5 K6532.T2.T32.Q64 9874.854.5.KJT87 JT.AKQJ.QJ4.A932"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+1H 2D Pass Pass
+X Pass 2S AP
+[Play "E"]
+D5 DJ DK D2
+CK CA C5 CQ
+H4 HA H3 H2
+H5 HK H6 HT
+H8 HQ H7 C4
+S4 HJ H9 C6
+CJ C2 D6 S2
+S7 ST SQ S3
+C7 D4 DA D3
+S8 DQ D9 DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ.9763.AK9876.5 K6532.T2.T32.Q64 9874.854.5.KJT87 JT.AKQJ.QJ4.A932"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "6"]
+[Auction "S"]
+1NT 2D 2S Pass
+Pass X Pass 3C
+Pass 3D AP
+[Play "N"]
+HT H4 HJ H3
+H2 H5 HQ H6
+S3 H8 HA H7
+S2 S4 SJ SA
+DT S7 HK H9
+SK S8 ST SQ
+C4 CK CA C5
+C6 C7 C2 D6
+D2 D5 D4 DA
+D3 S9 DJ DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "44"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J93.Q7.KT52.8752 KT8.KT62.QJ874.4 A62.J94.963.KQ63 Q754.A853.A.AJT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 3H
+Pass 4H AP
+[Play "E"]
+CK CA C2 C4
+D3 DA D2 D4
+SA S4 S3 SK
+CQ C9 C5 H2
+D6 H3 D5 D7
+S2 SQ S9 S8
+C3 CJ C7 ST
+C6 CT C8 D8
+S6 S5 SJ H6
+D9 H5 DT DJ
+HJ S7 DK HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J93.Q7.KT52.8752 KT8.KT62.QJ874.4 A62.J94.963.KQ63 Q754.A853.A.AJT9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 4H AP
+[Play "E"]
+CK CA C2 C4
+CQ CJ C5 S8
+SA S4 S3 ST
+S6 S5 S9 SK
+H4 H3 H7 HK
+H9 HA HQ H2
+HJ H5 C7 H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "45"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ62.AKQ92.Q3.53 AQT8.8753.A7.AQ2 97543.JT.J854.97 .64.KT962.KJT864"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[Auction "N"]
+1NT Pass 5C Pass
+6C AP
+[Play "W"]
+HA H3 HJ H4
+HK H5 HT H6
+HQ H7 S9 C4
+D3 DA D4 D2
+DQ D7 D5 DK
+S2 C2 D8 D6
+S6 SA S3 D9
+C3 CA C7 C6
+SJ S8 S4 C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ62.AKQ92.Q3.53 AQT8.8753.A7.AQ2 97543.JT.J854.97 .64.KT962.KJT864"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "N"]
+1C Pass 2C 2H
+X Pass 3D Pass
+3H Pass 3S Pass
+5C AP
+[Play "E"]
+HJ H4 HQ H3
+HT H6 HK H5
+S4 D2 S2 SQ
+C7 C4 C3 CA
+C9 CT C5 C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "46"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AQJT.AJ532.Q.873 9.Q976.A763.AJ95 2.T8.KJT8542.K64 K876543.K4.9.QT2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "7"]
+[Auction "E"]
+3D 3S X AP
+[Play "W"]
+DQ DA D2 D9
+ST S9 S2 S3
+HA H6 H8 H4
+C8 C5 CK C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AQJT.AJ532.Q.873 9.Q976.A763.AJ95 2.T8.KJT8542.K64 K876543.K4.9.QT2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S X
+3D AP
+[Play "S"]
+HK HA H6 H8
+H4 H2 HQ HT
+S3 ST S9 S2
+C2 C3 C5 CK
+D9 DQ DA D2
+CT C7 C9 C4
+CQ C8 CA C6
+S4 H3 CJ DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "47"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AK5.T7642.Q.Q864 QT84.AKQ.AJ76.T7 93.J9853.KT542.9 J762..983.AKJ532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2C Pass 2S Pass
+3D Pass 3H Pass
+4S Pass 5D Pass
+5S AP
+[Play "E"]
+C9 CA C4 C7
+S3 S6 SA S4
+S9 C2 C6 CT
+D2 D3 DQ DA
+H3 D8 H2 HA
+H5 D9 H4 HQ
+H8 C3 H6 HK
+D4 S7 C8 D6
+H9 CK CQ D7
+HJ C5 H7 S8
+D5 SJ HT DJ
+-  CJ -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AK5.T7642.Q.Q864 QT84.AKQ.AJ76.T7 93.J9853.KT542.9 J762..983.AKJ532"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+3C Pass 3NT AP
+[Play "E"]
+D4 D3 DQ DA
+C9 C2 C4 CT
+S3 S2 SK ST
+H5 C3 H4 HK
+S9 SJ SA S4
+H3 D8 H2 HQ
+D2 CK C6 C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "48"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK8.98753.K75.A4 Q6.KQ.A63.K97532 J9.JT4.9842.QJT6 T75432.A62.QJT.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1H 2C Pass 2S
+Pass 3S Pass 4S
+AP
+[Play "W"]
+H9 HQ H4 H2
+SK S6 S9 ST
+H5 HK HT H6
+SA SQ SJ S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK8.98753.K75.A4 Q6.KQ.A63.K97532 J9.JT4.9842.QJT6 T75432.A62.QJT.8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+1NT 2C Pass 2S
+AP
+[Play "W"]
+H9 HQ H4 H2
+S8 S6 S9 S2
+D5 D3 D9 DQ
+SK SQ SJ S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "49"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KT832.T74.K86.T3 QJ75.J62.3.AJ987 4.KQ95.QT542.Q42 A96.A83.AJ97.K65"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT AP
+[Play "W"]
+S2 SQ S4 S6
+C3 C7 C2 CK
+CT CJ CQ C5
+S3 C9 C4 C6
+S8 CA D2 S9
+H4 C8 H5 D7
+H7 H2 HQ H3
+DK D3 D4 D9
+D6 S5 D5 DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KT832.T74.K86.T3 QJ75.J62.3.AJ987 4.KQ95.QT542.Q42 A96.A83.AJ97.K65"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S X XX Pass
+Pass 2D X AP
+[Play "S"]
+SA S2 S5 S4
+S9 SK S7 C2
+HA H4 H2 HK
+S6 S8 SJ D2
+DA D6 D3 DQ
+CK C3 C7 C4
+C6 CT CA CQ
+H3 S3 SQ DT
+H8 H7 H6 HQ
+C5 HT HJ H5
+D9 ST CJ D5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "50"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A43.9.AQ64.AT543 KJ862.AT7432.9.J T9.K85.KJ73.K872 Q75.QJ6.T852.Q96"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D 1S
+2D Pass 3C Pass
+3H Pass 3NT AP
+[Play "N"]
+H3 H5 HJ H9
+H2 HK HQ S3
+D9 D3 D2 DA
+S2 D7 D5 DQ
+S6 DJ D8 D6
+S8 DK DT D4
+CJ CK C6 C3
+H4 C8 C9 CA
+SJ S9 S5 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A43.9.AQ64.AT543 KJ862.AT7432.9.J T9.K85.KJ73.K872 Q75.QJ6.T852.Q96"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C 2H
+3C 3H 4C 4H
+X AP
+[Play "E"]
+C2 C6 CA CJ
+D3 D2 DA D9
+D7 D5 D4 H2
+H5 H6 H9 HA
+HK HJ C3 H4
+DK D8 D6 H3
+H8 HQ C4 H7
+S9 S5 SA S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "51"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:873.8742.T876.KT K94.AQJ53.K.Q975 T65.K9.QJ952.432 AQJ2.T6.A43.AJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "11"]
+[Auction "S"]
+1NT Pass 2C Pass
+2S Pass 3H Pass
+3NT Pass 4NT AP
+[Play "W"]
+D6 DK D5 D3
+S3 S4 S5 SA
+H2 H3 HK HT
+D7 C5 DQ DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:873.8742.T876.KT K94.AQJ53.K.Q975 T65.K9.QJ952.432 AQJ2.T6.A43.AJ86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[Auction "S"]
+1C Pass 2C Pass
+2NT Pass 3H Pass
+4C Pass 4NT Pass
+5C Pass 6C AP
+[Play "W"]
+S3 SK S5 S2
+CK C5 C2 CJ
+H2 H3 HK H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "52"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ5.Q872.J32.K76 T84.3.K54.AQT532 J932.AK96.986.J9 A76.JT54.AQT7.84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "9"]
+[Auction "W"]
+Pass Pass Pass 1D
+Pass 2C AP
+[Play "E"]
+HA H4 H8 H3
+S3 S6 SQ S4
+S2 SA SK S8
+CJ C4 C6 CT
+SJ S7 S5 ST
+HK H5 H2 C2
+D6 DA D2 D4
+C9 C8 C7 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ5.Q872.J32.K76 T84.3.K54.AQT532 J932.AK96.986.J9 A76.JT54.AQT7.84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 3C Pass 3NT
+AP
+[Play "W"]
+H2 H3 HK H4
+HQ S4 H6 HJ
+H8 S8 HA H5
+S5 ST SJ S6
+SQ D4 S2 SA
+C6 CQ C9 C4
+C7 CA CJ C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "53"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT.KT5.KQT62.K86 854.73.J975.AJT4 K7.AQJ9642.43.93 QJ9632.8.A8.Q752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 3H Pass 4H
+AP
+[Play "S"]
+DA D2 D9 D3
+CQ CK CA C3
+C2 C6 CJ C9
+C5 C8 CT HA
+*
+[Description "Bermuda Bowl 1959 Final - Segment 4"]
+[Stage "Segment 4"]
+[HomeTeam "USA"]
+[VisitTeam "ITALY"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT.KT5.KQT62.K86 854.73.J975.AJT4 K7.AQJ9642.43.93 QJ9632.8.A8.Q752"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1H 1S 2D
+Pass 2H Pass 3H
+Pass 4H AP
+[Play "S"]
+SJ SA S4 S7
+H8 H5 H7 HA
+S3 HT H3 HQ
+DA D2 D5 D3
+CQ CK CA C9
+C2 C6 CJ C3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "54"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J986.J5.A986.K76 A.K6.753.AQJ9832 T542.AT9742.KJ2. KQ73.Q83.QT4.T54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass Pass 1C
+1H 1S Pass 2C
+2H 3C Pass 3NT
+AP
+[Play "E"]
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J986.J5.A986.K76 A.K6.753.AQJ9832 T542.AT9742.KJ2. KQ73.Q83.QT4.T54"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "3"]
+[Auction "E"]
+Pass Pass Pass 1D
+1H 1S 1NT 3NT
+AP
+[Play "E"]
+H7 H8 HJ HK
+S2 C4 C6 CA
+S4 CT C7 C2
+S5 C5 CK C3
+HA HQ H5 H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "55"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT65.JT975.63.A6 8.Q8632.T954.KT3 Q432..KQJ72.9542 AK97.AK4.A8.QJ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+2NT Pass 3H Pass
+4H AP
+[Play "E"]
+DK DA D6 D4
+C2 HA H5 H2
+C4 C7 CA C3
+DQ D8 D3 D5
+D7 S7 H7 D9
+C5 HK HJ H3
+S2 SA S5 S8
+S3 SK S6 DT
+C9 H4 H9 HQ
+S4 S9 HT H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT65.JT975.63.A6 8.Q8632.T954.KT3 Q432..KQJ72.9542 AK97.AK4.A8.QJ87"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "S"]
+1C Pass 1D X
+2NT Pass 4H Pass
+Pass X AP
+[Play "E"]
+DK DA D6 D4
+D2 HA H5 H2
+C2 C7 CA C3
+DJ D8 D3 D5
+D7 HK C6 D9
+C4 C8 H7 CK
+C5 H4 HJ HQ
+S2 SA S5 S8
+S3 SK S6 DT
+C9 CJ H9 CT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "56"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J6532.532.A.A952 Q7.KT97.KJ743.KQ AK.Q.9865.J87643 T984.AJ864.QT2.T"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "11"]
+[Auction "W"]
+Pass 1H 2C 2H
+3C 3D Pass 4H
+Pass Pass 5C Pass
+Pass X AP
+[Play "S"]
+HA H2 H7 HQ
+H6 H3 H9 C3
+CT CA CQ C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J6532.532.A.A952 Q7.KT97.KJ743.KQ AK.Q.9865.J87643 T984.AJ864.QT2.T"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+Pass 1H Pass 4H
+AP
+[Play "E"]
+SA S4 S2 S7
+SK S8 S5 SQ
+C6 CT CA CQ
+HQ S9 S6 H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "57"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AJT84.AQ97.QT64. KQ73.KJ63.93.Q84 95.854.KJ82.A652 62.T2.A75.KJT973"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C 2C
+Pass 2NT AP
+[Play "S"]
+CK D4 C4 C2
+C7 S4 CQ CA
+DA D6 D3 D2
+CJ H7 C8 C5
+CT H9 D9 C6
+C9 S8 S3 H4
+C3 ST S7 S5
+H2 HQ HK H5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AJT84.AQ97.QT64. KQ73.KJ63.93.Q84 95.854.KJ82.A652 62.T2.A75.KJT973"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1D 1NT
+Pass 2C X 2S
+Pass Pass 3C AP
+[Play "E"]
+S9 S2 S4 SQ
+C2 CK S8 C4
+S5 S6 SA S3
+H4 H2 HA H3
+H5 HT H7 HK
+D2 D7 DT D3
+DJ DA D4 D9
+D8 D5 D6 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "58"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:865.T4.Q983.J975 KJ.AQJ72.KT42.AK AT9.653.A75.QT82 Q7432.K98.J6.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass Pass Pass 2NT
+Pass 3C Pass 3H
+Pass 3NT AP
+[Play "E"]
+C2 C3 CJ CA
+SA S2 S5 SK
+CQ C4 C5 CK
+S9 S3 S6 SJ
+H3 HK H4 H2
+ST SQ S8 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:865.T4.Q983.J975 KJ.AQJ72.KT42.AK AT9.653.A75.QT82 Q7432.K98.J6.643"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D Pass 2H
+Pass 3D Pass 3NT
+AP
+[Play "E"]
+C2 C3 CJ CK
+SA S2 S5 SK
+CQ C4 C5 CA
+H3 H8 H4 HQ
+S9 S3 S6 SJ
+H5 HK HT H2
+ST SQ S8 D2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "59"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J84.AKT95.97.AQ7 T976.87.8653.T52 Q53.Q43.QJT4.K98 AK2.J62.AK2.J643"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "4"]
+[Auction "S"]
+1NT AP
+[Play "W"]
+HA H7 H3 H2
+D9 D3 D4 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J84.AKT95.97.AQ7 T976.87.8653.T52 Q53.Q43.QJT4.K98 AK2.J62.AK2.J643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "S"]
+1C 1H Pass 2H
+AP
+[Play "N"]
+ST S3 SK S4
+S6 S5 SA S8
+S7 SQ S2 SJ
+H7 H3 H2 HA
+H8 HQ H6 H5
+D3 H4 HJ H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "60"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ3.AJ872..K9854 AQT76.5.AKT9.QJ6 92.K4.J86432.AT3 854.QT963.Q75.72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "6"]
+[Auction "W"]
+1H X 2D AP
+[Play "S"]
+C7 C4 CJ CA
+D5 C5 D9 D2
+C2 CK CQ C3
+H3 H7 H5 HK
+D7 H2 DT D3
+DQ C8 C6 CT
+S8 SJ SQ S2
+S4 S3 SA S9
+S5 SK S6 D4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ3.AJ872..K9854 AQT76.5.AKT9.QJ6 92.K4.J86432.AT3 854.QT963.Q75.72"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2HX"]
+[Result "8"]
+[Auction "W"]
+1H X Pass Pass
+2C X 2D Pass
+Pass X Pass Pass
+2H Pass Pass X
+AP
+[Play "N"]
+H5 HK H3 H2
+SQ S2 S4 SJ
+DT D2 D5 H7
+SA S9 S5 SK
+ST H4 S8 S3
+D9 D3 D7 H8
+C6 C3 C2 CK
+CJ CA C7 C4
+CQ CT DQ C5
+DK D4 H6 HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "61"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ83.Q62.J954.53 76.T98.AK762.QJ7 954.AKJ7.Q3.KT62 AJT2.543.T8.A984"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 1NT AP
+[Play "S"]
+C4 C3 CJ CK
+S2 SK S6 S4
+H3 H2 H8 HA
+ST SQ S7 S5
+H4 HQ H9 H7
+H5 H6 HT HK
+C8 C5 D2 HJ
+SJ S3 D6 S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ83.Q62.J954.53 76.T98.AK762.QJ7 954.AKJ7.Q3.KT62 AJT2.543.T8.A984"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT AP
+[Play "S"]
+SJ SK S6 S5
+H3 H2 H8 HA
+S2 S3 S7 S9
+SA S8 D7 S4
+DT D4 DK D3
+CA C3 CQ CK
+C4 C5 CJ C2
+D8 D5 DA DQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "62"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:964.A62.QJ962.A7 QT53.JT975.A7.J3 K.KQ83.T3.KQT962 AJ872.4.K854.854"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "E"]
+1H 1S 2D 3S
+4C Pass 4H X
+Pass Pass 5C X
+AP
+[Play "S"]
+SA S4 S3 SK
+S2 S6 SQ C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:964.A62.QJ962.A7 QT53.JT975.A7.J3 K.KQ83.T3.KQT962 AJ872.4.K854.854"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1D X
+1H 1S 2H Pass
+Pass 2S X Pass
+3C Pass 4C AP
+[Play "S"]
+H4 H2 H9 HK
+C4 CA C3 C2
+C5 C7 CJ CK
+C8 D2 H5 CQ
+D4 D6 DA DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "63"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:87.K43.Q2.QT9732 J6.AJT962.K94.54 AKQT4.75.JT85.J8 9532.Q8.A763.AK6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Auction "S"]
+1C Pass 1H 1S
+Pass Pass 2H AP
+[Play "E"]
+SA S2 S7 S6
+SK S3 S8 SJ
+SQ S5 D2 H2
+D5 DA DQ D4
+H5 HQ HK HA
+H7 H8 H3 HJ
+S4 D3 H4 HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:87.K43.Q2.QT9732 J6.AJT962.K94.54 AKQT4.75.JT85.J8 9532.Q8.A763.AK6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Auction "S"]
+1C Pass 1H 1S
+Pass Pass 2H AP
+[Play "E"]
+SK S2 S8 S6
+SQ S3 S7 SJ
+ST S5 C2 H2
+D5 DA D2 D4
+H5 HQ H3 H6
+H7 H8 H4 H9
+S4 D3 HK HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "64"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A953.876.J6.8764 T.QT52.AQ9.QT952 J8642.3.KT7543.J KQ7.AKJ94.82.AK3"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1H Pass 4H
+Pass 4S Pass 5H
+Pass 6H AP
+[Play "E"]
+CJ CA C8 C2
+H3 HA H6 H2
+D5 H4 H7 HQ
+D4 HK H8 H5
+S2 SK SA ST
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A953.876.J6.8764 T.QT52.AQ9.QT952 J8642.3.KT7543.J KQ7.AKJ94.82.AK3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2C Pass 3NT
+Pass 6H AP
+[Play "W"]
+SA ST S2 S7
+C4 C2 CJ CA
+H6 H2 H3 HA
+H7 HQ D3 H4
+H8 H5 D4 HJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "65"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:97.KJ52.86.AQJ98 KJT65.4.AQ7.KT72 A3.A987.KJ542.64 Q842.QT63.T93.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1S Pass 1NT Pass
+2C Pass 2S AP
+[Play "E"]
+D2 D3 D8 DQ
+H7 HT HJ H4
+D4 D9 D6 DA
+DJ DT C8 D7
+H9 H3 H2 S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:97.KJ52.86.AQJ98 KJT65.4.AQ7.KT72 A3.A987.KJ542.64 Q842.QT63.T93.53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "N"]
+2S X 3S 4H
+4S Pass Pass X
+AP
+[Play "E"]
+HA H3 H2 H4
+H9 H6 H5 S6
+S3 S2 S7 SJ
+SA S4 S9 SK
+H8 HT HJ S5
+DK D3 D6 DQ
+H7 HQ HK ST
+C4 C3 C8 C7
+C6 C5 CA C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "66"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ96.K96.83.Q742 AT842.543.KJT.AT 3.JT82.A9764.J95 Q75.AQ7.Q52.K863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+D8 DT DA D2
+H6 H3 HJ HA
+S6 ST S3 S5
+SK S2 D4 SQ
+SJ SA D6 S7
+S9 S8 D7 C3
+D3 DK D9 DQ
+C2 DJ H2 D5
+C4 S4 C5 C6
+HK H4 H8 HQ
+H9 H5 HT H7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ96.K96.83.Q742 AT842.543.KJT.AT 3.JT82.A9764.J95 Q75.AQ7.Q52.K863"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "E"]
+Pass 1C Pass 1NT
+Pass 2C Pass 2S
+Pass 3S Pass 4S
+AP
+[Play "E"]
+HJ HQ HK H3
+H2 HA H9 H4
+S3 SQ SK SA
+C5 CK C2 CT
+D4 S5 S6 S8
+DA D2 D3 DK
+HT H7 H6 H5
+H8 C3 D8 S2
+D6 DQ S9 DT
+D7 S7 SJ S4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "67"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJT43.Q.JT95.T97 762.K874.K32.QJ2 K8.JT96.AQ7.A843 Q95.A532.864.K65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C X
+XX 2S Pass Pass
+3C Pass Pass 3S
+AP
+[Play "N"]
+CQ CA C5 C7
+HK H6 H2 HQ
+CJ C3 C6 C9
+C2 C4 CK CT
+H4 H9 HA S3
+S2 SK S5 S4
+S6 S8 S9 ST
+S7 D7 SQ SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJT43.Q.JT95.T97 762.K874.K32.QJ2 K8.JT96.AQ7.A843 Q95.A532.864.K65"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass 2S AP
+[Play "N"]
+H8 H6 H2 HQ
+S2 SK S5 S3
+S6 S8 S9 ST
+S7 C3 SQ SA
+DK DA D4 DJ
+H4 HJ HA S4
+D2 DQ D6 D5
+HK HT H3 C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "68"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J73.AKT7.AQ932.5 A4.852.KJ.J98732 QT852.964.6.AQT6 K96.QJ3.T8754.K4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass 3S Pass
+4S AP
+[Play "S"]
+D5 DA DJ D6
+D4 D2 DK S2
+C4 C5 C2 CA
+CK S3 C3 C6
+D7 DQ H8 H4
+H3 HA H2 H6
+HJ HK H5 H9
+D8 D3 C7 S5
+DT S7 C8 CT
+HQ H7 SA CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J73.AKT7.AQ932.5 A4.852.KJ.J98732 QT852.964.6.AQT6 K96.QJ3.T8754.K4"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "5"]
+[Auction "W"]
+1D Pass 1S Pass
+2D AP
+[Play "N"]
+C7 CQ CK C5
+H2 H4 H3 HA
+SA S2 S9 S3
+S4 S5 SK S7
+DJ S8 S6 SJ
+DK D6 D4 DA
+H5 H6 HQ HK
+C2 C6 D5 DQ
+C3 H9 DT D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "69"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J7.982.A94.KT984 A42.AKT7.QT32.AJ Q653.543.J876.72 KT98.QJ6.K5.Q653"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Description "Bermuda Bowl 1959 Final - Segment 5"]
+[HomeTeam "USA"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "Segment 5"]
+[VisitTeam "ITALY"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H5 HQ H2 H7
+C2 C3 C4 CJ
+D6 DK DA D2
+H3 H6 H9 HA
+S3 S8 SJ S2
+H4 HJ H8 HT
+DJ D5 D4 DT
+C7 C5 C8 CA
+- - - HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J7.982.A94.KT984 A42.AKT7.QT32.AJ Q653.543.J876.72 KT98.QJ6.K5.Q653"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2C Pass 2NT
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Play "N"]
+CT CJ C7 C3
+DA D2 D6 DK
+C4 CA C2 C5
+S7 SA S3 S8
+SJ S2 S5 S9
+CK D3 H3 C6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "70"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:986.Q632.J42.T75 T3.JT9.987.98632 KQ42.A75.KT3.AQJ AJ75.K84.AQ65.K4"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C X
+1D Pass 1S Pass
+Pass Pass
+[Play "N"]
+S5 S9 ST SK
+SJ S6 S3 S2
+SA S8 D7 S4
+D5 D2 D8 DT
+CK C5 C2 CJ
+DA D4 D9 D3
+DQ DJ C9 DK
+S7 H2 C8 SQ
+C4 C7 C3 CA
+H4 CT C6 CQ
+H8 H3 H9 HA
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:986.Q632.J42.T75 T3.JT9.987.98632 KQ42.A75.KT3.AQJ AJ75.K84.AQ65.K4"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C 1NT
+Pass Pass Pass
+[Play "E"]
+S6 S3 SQ SA
+DJ D7 D3 D5
+S9 ST SK S5
+S8 C2 S2 SJ
+H2 C3 S4 S7
+D2 D8 DT DA
+D4 D9 DK D6
+HQ H9 H5 H4
+H3 HT HA H8
+C5 C6 CA C4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "71"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AT92.Q4.Q76.8432 Q54.T3.983.KQJT7 7.J9752.AT542.A5 KJ863.AK86.KJ.96"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+C2 C7 C5 C9
+S2 S4 S7 SJ
+C3 CT CA C6
+DQ D3 D4 DJ
+C4 CK H2 DK
+C8 CJ H5 H6
+H4 H3 H7 HA
+HQ HT H9 HK
+D6 S5 HJ H8
+SA SQ D2 S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AT92.Q4.Q76.8432 Q54.T3.983.KQJT7 7.J9752.AT542.A5 KJ863.AK86.KJ.96"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+D6 D3 DA DJ
+H4 H3 H9 HA
+C2 CT C5 C6
+C3 CK CA C9
+HQ HT H7 HK
+D7 S4 H2 H6
+C4 CQ S7 S8
+DQ D9 D2 DK
+C8 S5 H5 H8
+SA SQ D4 S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "72"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:84.AT3.QJT432.JT KQJ762.K86.A9.32 T953.942.K87.765 A.QJ75.65.AKQ984"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+D7 D5 DT DA
+S3 SA S4 S2
+C5 CA CT C2
+C6 CK CJ C3
+C7 CQ S8 D9
+D8 D6 D2 S6
+S5 C4 H3 SK
+S9 C8 D3 SQ
+ST C9 D4 SJ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:84.AT3.QJT432.JT KQJ762.K86.A9.32 T953.942.K87.765 A.QJ75.65.AKQ984"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+2D X Pass 3D
+Pass 3S Pass 4C
+Pass 4H Pass 5D
+Pass 5NT Pass 6H
+Pass Pass Pass
+[Play "E"]
+D7 D5 DT DA
+S3 SA S4 S6
+C5 CA CT C2
+C6 CK CJ C3
+C7 CQ HT HK
+S5 D6 S8 SK
+H2 H5 HA H6
+D8 H7 DQ D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "73"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:8642.8.8754.AJ96 A975.QT5432.T9.7 T.A97.AJ62.QT432 KQJ3.KJ6.KQ3.K85"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D 1NT
+3D 4H Pass Pass
+Pass
+[Play "S"]
+ST S3 S8 SA
+HA H6 H8 H2
+C2 CK CA C7
+H7 SJ S2 S5
+CQ C5 C6 H3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:8642.8.8754.AJ96 A975.QT5432.T9.7 T.A97.AJ62.QT432 KQJ3.KJ6.KQ3.K85"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D X
+2D 4H Pass Pass
+Pass
+[Play "S"]
+ST S3 S2 SA
+HA H6 H8 H2
+C2 C5 CA C7
+H7 SJ S4 S5
+DA D3 D4 D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "74"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:9765.AKQ943.AK.5 AQJ3.5.8752.AKQJ KT4.JT2.QJT963.9 82.876.4.T876432"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H X 1S Pass
+4H Pass Pass Pass
+[Play "S"]
+CK C9 C2 C5
+SA S4 S2 S5
+SQ SK S8 S9
+H5 HJ H6 H3
+D2 H2 H7 HA
+D5 D3 D4 DA
+D7 HT H8 HK
+SJ ST C3 S6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:9765.AKQ943.AK.5 AQJ3.5.8752.AKQJ KT4.JT2.QJT963.9 82.876.4.T876432"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H X 3H Pass
+4H Pass Pass Pass
+[Play "S"]
+CK C9 C2 C5
+D8 D3 D4 DK
+H5 H2 H6 HA
+D2 HT H7 HK
+D5 D6 H8 DA
+SA S4 S2 S5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "75"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q.8643.Q8642.AK3 J9875.5.AJ75.J92 AK2.KJ2.3.QT8754 T643.AQT97.KT9.6"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C 1H
+2D Pass 3C Pass
+4C Pass 5C Pass
+Pass Pass
+[Play "E"]
+S6 SQ S5 S2
+C6 CA C2 C4
+S3 CK C9 C5
+D9 D2 DA D3
+HQ H3 H5 HJ
+HA H4 D5 H2
+H7 H6 CJ HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q.8643.Q8642.AK3 J9875.5.AJ75.J92 AK2.KJ2.3.QT8754 T643.AQT97.KT9.6"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S Pass
+2D Pass 3C Pass
+Pass Pass
+[Play "E"]
+HA H3 H5 H2
+H7 H4 C2 HJ
+DK D2 D5 D3
+H9 H6 C9 HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "76"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J432.T6.KT97.KJ7 T8.9532.A843.962 Q975.AQJ4.Q65.84 AK6.K87.J2.AQT53"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1D Pass 1NT
+Pass Pass Pass
+[Play "W"]
+S2 ST SQ SA
+C7 C2 C4 CA
+CK C6 C8 CQ
+S4 S8 S9 SK
+CJ C9 H4 C3
+SJ H2 S5 S6
+S3 H3 S7 D2
+DK D3 D5 DJ
+D7 DA DQ H7
+H6 H9 HA H8
+D9 D4 D6 C5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J432.T6.KT97.KJ7 T8.9532.A843.962 Q975.AQJ4.Q65.84 AK6.K87.J2.AQT53"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1NT X
+Pass 2C Pass Pass
+2D Pass Pass Pass
+[Play "N"]
+C9 C4 C3 CJ
+H2 H4 HK HT
+C2 C8 CA C7
+ST S5 SA S2
+S8 S7 SK S3
+D3 S9 S6 S4
+H3 HJ H7 H6
+H5 HA H8 SJ
+H9 HQ DJ DK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "77"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ8763.J63.J64.2 J42.Q92.T952.J64 T.KT875.AQ83.K95 K95.A4.K7.AQT873"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1H X
+XX Pass Pass 2C
+2S Pass 3D Pass
+3H Pass Pass Pass
+[Play "W"]
+CA C2 C4 C5
+S5 SA S2 ST
+DK D4 D2 DQ
+HA H3 H2 H5
+H4 H6 H9 HT
+C3 HJ C6 C9
+S9 S3 S4 H7
+C7 S6 HQ HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AQ8763.J63.J64.2 J42.Q92.T952.J64 T.KT875.AQ83.K95 K95.A4.K7.AQT873"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D 1NT
+Pass Pass Pass
+[Play "N"]
+S7 S2 ST SK
+C2 C4 C5 CA
+H6 C6 CK CT
+D4 D2 D3 DK
+- - - CQ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "78"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQ5.T32.AJ2.Q854 JT8762.84.87.T92 93.Q965.Q954.J76 A4.AKJ7.KT63.AK3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass Pass 2NT
+Pass 3S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+C6 CA C4 C2
+H5 HA H2 H4
+H6 HK H3 H8
+H9 H7 HT S2
+S3 S4 SQ ST
+CJ CK C8 C9
+S9 SA S5 S6
+C7 C3 CQ CT
+D4 D3 SK S7
+D5 D6 C5 S8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQ5.T32.AJ2.Q854 JT8762.84.87.T92 93.Q965.Q954.J76 A4.AKJ7.KT63.AK3"]
+[Declarer "E"]
+[Contract "2DX"]
+[Result "4"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass Pass X
+Pass Pass Pass
+[Play "S"]
+H8 H5 HJ H2
+CT C6 CA C4
+H4 H6 HK H3
+C9 C7 CK C5
+C2 H9 HA HT
+D7 HQ H7 S5
+SJ S3 SA SK
+D8 CJ C3 C8
+ST S9 S4 SQ
+S2 D4 D3 DA
+S6 D5 DK DJ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "79"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J32.K85.K732.876 KT5.QJ972.Q.K932 A7.AT63.JT95.AT4 Q9864.4.A864.QJ5"]
+[Declarer "N"]
+[Contract "3HX"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1H 1S
+Pass 2S Pass Pass
+3H X Pass Pass
+Pass
+[Play "E"]
+S4 S2 ST SA
+S6 S3 SK S7
+DA D2 DQ D5
+D4 D3 H2 D9
+C5 C6 C3 CA
+H4 HK H7 H3
+S8 H5 HJ HA
+D6 DK H9 DJ
+S9 H8 HQ H6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J32.K85.K732.876 KT5.QJ972.Q.K932 A7.AT63.JT95.AT4 Q9864.4.A864.QJ5"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D 1H Pass Pass
+Pass
+[Play "N"]
+DJ D4 DK DQ
+C4 CQ C8 C3
+D5 DA D2 C2
+D9 D6 D3 H2
+SA S4 S2 S5
+CA C5 C6 CK
+S7 SQ S3 ST
+DT D8 D7 H7
+CT CJ C7 C9
+H3 S6 SJ SK
+H6 H4 HK H9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "80"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:97.986.A874.AJ53 J8653.43.KQJ32.7 AKQT.AKT5.65.KT4 42.QJ72.T9.Q9862"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1C Pass
+1NT 2D Pass Pass
+X Pass 2H Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+DK D5 DT D4
+D3 D6 D9 D7
+S8 ST S2 S7
+C7 CK C2 C3
+S3 SA S4 S9
+S5 SK H2 H9
+H3 CT CQ CA
+D2 H5 C6 DA
+H4 HK H7 H6
+- SQ - -
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:97.986.A874.AJ53 J8653.43.KQJ32.7 AKQT.AKT5.65.KT4 42.QJ72.T9.Q9862"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1C Pass
+2C 2D 2S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+DQ D5 DT D4
+DK D6 D9 DA
+DJ H5 S4 D7
+H4 HA H2 H6
+C7 CK C2 C3
+S3 CT CQ CA
+D2 ST C6 D8
+H3 HK H7 H9
+S5 SA S2 S7
+S6 SK HJ S9
+- SQ - -
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "81"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q95.Q932.9.JT653 AKT6.875.A32.Q72 J43.K6.QJT87.AK8 872.AJT4.K654.94"]
+[Declarer "N"]
+[Contract "3CX"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S 2D X
+Pass Pass XX Pass
+2H Pass Pass X
+3C X Pass Pass
+Pass
+[Play "E"]
+SA S3 S2 S5
+H8 HK HA H2
+H5 H6 HJ HQ
+D2 D8 DK D9
+SK S4 S8 SQ
+H7 C8 H4 H3
+D3 D7 D4 C3
+C2 CK C4 C5
+C7 CA C9 C6
+DA DQ D5 CT
+- - - S9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q95.Q932.9.JT653 AKT6.875.A32.Q72 J43.K6.QJT87.AK8 872.AJT4.K654.94"]
+[Declarer "N"]
+[Contract "2HX"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT X Pass
+2C Pass 2D X
+2H Pass Pass X
+Pass Pass Pass
+[Play "E"]
+SK S3 S2 S5
+C2 CA C9 C3
+D2 D7 DK D9
+CQ CK C4 CJ
+C7 C8 S7 CT
+SA S4 S8 SQ
+S6 SJ H4 S9
+D3 D8 D4 H2
+H5 HK HA H3
+DA DT D5 H9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "82"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:64.K953.AQT43.T3 QT97.Q8762.J6.64 AKJ8.AJT4.K9.952 532..8752.AKQJ87"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S 3C
+3D Pass 3H Pass
+4H X Pass Pass
+Pass
+[Play "N"]
+CA C3 C6 C2
+CK CT C4 C5
+CQ H9 D6 C9
+C7 H3 H6 HT
+S2 S4 S7 SA
+D2 D3 DJ DK
+D5 DA H2 D9
+S3 S6 ST SJ
+S5 D4 S9 SK
+D7 H5 SQ S8
+D8 HK H7 H4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:64.K953.AQT43.T3 QT97.Q8762.J6.64 AKJ8.AJT4.K9.952 532..8752.AKQJ87"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2H Pass
+3D Pass 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+C6 C2 CA C3
+C4 C5 CK CT
+D6 C9 C8 H9
+H6 HJ C7 H3
+S7 SA S2 S4
+S9 SK S3 S6
+ST S8 S5 H5
+DJ DK D2 D3
+SQ SJ D5 HK
+H2 D9 D7 DA
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "83"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ87.97.752.Q543 J96.A643.AKJ.AJ6 T2.KQT2.98.KT987 A543.J85.QT643.2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C 1H 1S
+Pass 1NT Pass 2D
+Pass 3D Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+HK H5 H7 HA
+D8 D3 D2 DA
+D9 D4 D5 DK
+HQ H8 H9 H3
+C8 C2 CQ CA
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ87.97.752.Q543 J96.A643.AKJ.AJ6 T2.KQT2.98.KT987 A543.J85.QT643.2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D 1H Pass
+Pass X Pass 2H
+Pass 2NT Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+CT C2 CQ CA
+D8 D3 D2 DA
+D9 D4 D5 DK
+C7 DQ D7 DJ
+H2 DT C3 H3
+S2 D6 S7 S6
+ST SA S8 S9
+HT H5 H7 HA
+HQ H8 H9 H4
+HK HJ C4 H6
+CK S3 C5 C6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "84"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:532.KQJ98.A93.Q9 J74.72.JT6.K7643 T6.543.KQ8754.82 AKQ98.AT6.2.AJT5"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass Pass 2S
+Pass Pass Pass
+[Play "W"]
+HK H2 H3 H6
+HQ H7 H4 HA
+H8 SJ H5 HT
+S2 S4 S6 SQ
+S3 S7 ST SK
+S5 D6 D4 SA
+C9 CK C2 CT
+CQ C3 C8 CJ
+DA DT D5 D2
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:532.KQJ98.A93.Q9 J74.72.JT6.K7643 T6.543.KQ8754.82 AKQ98.AT6.2.AJT5"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 2H X
+Pass 3C Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+H5 H6 HJ H2
+H4 HA HK H7
+H3 HT H8 SJ
+S6 SA S2 S7
+ST SK S3 S4
+D4 SQ S5 D6
+C2 CA C9 C3
+- CJ CQ -
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "85"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A76.AQJT.8.AKQ54 Q54.K532.AJT4.T8 J3.8764.Q9632.J7 KT982.9.K75.9632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 2H Pass 3C
+Pass 3H AP
+[Play "N"]
+S4 SJ SK SA
+C8 CJ C2 C4
+CT C7 C3 CA
+H3 S3 C6 CK
+DA D2 D5 D8
+DJ D3 D7 HT
+S5 H4 S2 S6
+HK H6 H9 HJ
+H2 H7 S8 HQ
+H5 H8 C9 C5
+*
+[Description "Bermuda Bowl 1959 Final - Segment 6"]
+[Stage "Segment 6"]
+[HomeTeam "USA"]
+[VisitTeam "ITALY"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A76.AQJT.8.AKQ54 Q54.K532.AJT4.T8 J3.8764.Q9632.J7 KT982.9.K75.9632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1C
+Pass 1D Pass 2H
+Pass 2NT Pass 3NT
+Pass 4H AP
+[Play "N"]
+S4 S3 S8 SA
+C8 CJ C2 C4
+CT C7 C3 CA
+H3 H4 C6 CK
+DT D2 D5 D8
+S5 SJ SK S6
+HK H6 H9 HQ
+H2 H7 S2 HT
+SQ H8 S9 S7
+D4 D3 D7 HJ
+H5 D6 DK HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "86"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AJ73.AQ987.JT4.3 Q52.J65.K82.AT54 KT96.K.AQ5.QJ972 84.T432.9763.K86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2H Pass
+3C Pass 4S AP
+[Play "S"]
+D3 DJ DK DA
+H2 H7 H5 HK
+S4 S3 S2 SK
+S8 SA S5 S6
+H3 HA H6 C2
+H4 HQ HJ C7
+HT H8 C4 S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AJ73.AQ987.JT4.3 Q52.J65.K82.AT54 KT96.K.AQ5.QJ972 84.T432.9763.K86"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1H Pass
+1S Pass 3S Pass
+4S AP
+[Play "S"]
+D7 DJ DK DA
+S4 S3 SQ S9
+C6 C3 CA C2
+D3 D4 D8 DQ
+H2 H7 H5 HK
+S8 SJ S2 S6
+H3 H8 H6 ST
+D6 DT D2 D5
+H4 H9 HJ SK
+C8 S7 C4 C7
+D9 SA S5 C9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "87"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T62.KJ3.Q43.AKQ3 AQJ973.A9.A962.8 5.QT864.KT87.JT6 K84.752.J5.97542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT X 2C
+Pass Pass 2S AP
+[Play "E"]
+CJ C2 C3 C8
+H6 H2 HK H9
+H4 H5 H3 HA
+DK D5 D3 D2
+H8 H7 HJ S3
+D7 DJ D4 DA
+D8 S4 DQ D6
+C6 C4 CQ S7
+DT SK CK D9
+S5 S8 S2 SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T62.KJ3.Q43.AKQ3 AQJ973.A9.A962.8 5.QT864.KT87.JT6 K84.752.J5.97542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass 1C X 1H
+Pass 1NT 2S AP
+[Play "E"]
+CJ C2 C3 C8
+S5 S4 S2 SJ
+D7 DJ DQ D2
+H4 S8 S6 SQ
+D8 D5 D3 DA
+DT SK D4 D6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "88"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJT42.KQT7.82.Q4 963.J93.QT6.JT85 75.A6.AKJ53.9762 AK8.8542.974.AK3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1D X
+1S AP
+[Play "N"]
+CJ C2 CK C4
+C5 C6 CA CQ
+C8 C7 C3 S2
+D6 DA D4 D2
+DT DK D7 D8
+H3 HA H2 H7
+H9 H6 H4 HQ
+HJ C9 H5 HK
+S9 D3 H8 HT
+DQ D5 D9 S4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJT42.KQT7.82.Q4 963.J93.QT6.JT85 75.A6.AKJ53.9762 AK8.8542.974.AK3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D X
+1S Pass 2D Pass
+2H Pass 2S AP
+[Play "N"]
+S3 S5 SK S2
+C5 C2 CA C4
+C8 C6 CK CQ
+CT C7 C3 S4
+S6 S7 SA SQ
+H9 HA H2 H7
+H3 H6 H4 HQ
+S9 C9 S8 SJ
+HJ D3 H5 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "89"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:8.QT632.J74.AQ85 AT64.A98.Q83.K74 KJ32.KJ75.AT65.6 Q975.4.K92.JT932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2S AP
+[Play "W"]
+H2 HA H5 H4
+H3 H8 H7 S5
+CA C4 C6 C9
+C5 C7 S2 C2
+H6 H9 HJ S7
+S8 S4 SJ S9
+HT S6 S3 SQ
+D4 D3 D5 DK
+D7 DQ DA D2
+DJ D8 DT D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:8.QT632.J74.AQ85 AT64.A98.Q83.K74 KJ32.KJ75.AT65.6 Q975.4.K92.JT932"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "8"]
+[Auction "N"]
+1C X Pass 2H
+Pass 3H 3S Pass
+Pass X AP
+[Play "W"]
+H3 HA H5 H4
+H2 H8 H7 S5
+CA C4 C6 CJ
+D4 D3 DA D2
+D7 DQ D5 D9
+DJ D8 D6 DK
+C5 C7 S2 CT
+H6 H9 HJ S7
+C8 CK S3 C2
+S8 ST DT C3
+HT SA SJ S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "90"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A864.72.AT95.JT3 JT9.AJT.J87.6542 Q32.KQ54.Q6.AKQ7 K75.9863.K432.98"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1C Pass 1NT Pass
+2C Pass 2D Pass
+2H Pass 2NT Pass
+3NT AP
+[Play "N"]
+SJ S2 S5 SA
+D7 DQ DK D5
+DJ D6 D2 D9
+ST SQ SK S4
+S9 S3 S7 S6
+HA H4 H3 H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A864.72.AT95.JT3 JT9.AJT.J87.6542 Q32.KQ54.Q6.AKQ7 K75.9863.K432.98"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1S Pass
+2NT Pass 3NT AP
+[Play "S"]
+H9 H2 HA H4
+H3 H7 HJ HK
+D2 D5 D7 DQ
+C8 CJ C2 C7
+SK S4 ST SQ
+H6 C3 HT HQ
+S5 S8 S9 S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "91"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQT.A6.AQT64.AT2 KJ9..J852.Q97653 8652.KT8.K973.KJ 743.QJ975432..84"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "7"]
+[Auction "S"]
+Pass 1C Pass 2C
+3H Pass Pass X
+AP
+[Play "W"]
+DA D2 D3 H2
+HA C3 H8 HJ
+C2 C5 CJ C4
+CT C6 CK C8
+D4 D5 D7 H3
+H6 C7 HK HQ
+D6 D8 HT H4
+ST SJ S2 S3
+DT DJ D9 H5
+SQ SK S5 S4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQT.A6.AQT64.AT2 KJ9..J852.Q97653 8652.KT8.K973.KJ 743.QJ975432..84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+3H X Pass 3S
+Pass 3NT AP
+[Play "N"]
+C6 CJ C4 C2
+D2 D3 H2 DQ
+D5 D7 H3 D4
+D8 DK H4 D6
+DJ D9 H5 DA
+C3 S2 S3 DT
+C5 CK C8 CT
+SK S5 S4 SQ
+C7 H8 H7 CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "92"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT9.QJT7654.T.KJ 762.AK2.AQ643.85 KJ8.983.752.AT62 A543..KJ98.Q9743"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+3H AP
+[Play "N"]
+C8 C2 C3 CJ
+HK H3 S3 HQ
+S2 S8 SA S9
+C5 C6 C4 CK
+HA H8 S4 H4
+DA D2 D8 DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT9.QJT7654.T.KJ 762.AK2.AQ643.85 KJ8.983.752.AT62 A543..KJ98.Q9743"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1D Pass 1S
+3H 3NT AP
+[Play "E"]
+H3 C3 HT H2
+H8 D8 HJ HK
+C2 CQ CK C5
+H9 S3 H4 HA
+D2 DK DT D3
+D5 DJ S9 D4
+D7 D9 H5 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "93"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:3.K973.Q8762.A53 AK75.T82.A543.J7 QJ9864.AQ65.9.T8 T2.J4.KJT.KQ9642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1D 1S 2C Pass
+2NT Pass 3NT AP
+[Play "E"]
+H5 H4 HK H2
+HQ HJ H3 H8
+HA C2 H7 HT
+H6 C4 H9 S5
+S4 S2 S3 SA
+C8 CQ C3 C7
+CT C6 C5 CJ
+D9 DT DQ D3
+S6 C9 CA D4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:3.K973.Q8762.A53 AK75.T82.A543.J7 QJ9864.AQ65.9.T8 T2.J4.KJT.KQ9642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "10"]
+[Auction "N"]
+1C 1S 2C AP
+[Play "E"]
+D9 DT D2 D3
+C8 C2 CA C7
+CT DJ D8 D4
+SQ S2 S3 SA
+S4 CQ C3 CJ
+H5 CK C5 H2
+S6 DK D6 D5
+S8 ST H3 SK
+H6 H4 D7 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "94"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQ7.AT94.942.T73 AJT8.K8762.AKQ5. 63.QJ53.JT6.AK94 9542..873.QJ8652"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "6"]
+[Auction "E"]
+Pass Pass Pass 1H
+AP
+[Play "E"]
+CA C2 C3 H2
+HJ D3 H4 H8
+S6 S2 SQ SA
+HQ D7 H9 H7
+S3 S4 SK S8
+D6 D8 D2 DA
+DT C5 D4 DK
+H3 S5 S7 SJ
+DJ C6 D9 DQ
+H5 S9 C7 D5
+CK C8 CT H6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQ7.AT94.942.T73 AJT8.K8762.AKQ5. 63.QJ53.JT6.AK94 9542..873.QJ8652"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass Pass Pass 2D
+Pass 2S Pass 4S
+AP
+[Play "W"]
+D2 DA D6 D3
+H4 H2 H3 S2
+C3 S8 C4 C2
+H9 H6 H5 S4
+C7 ST C9 C5
+HT H7 HJ S5
+CT SJ CK C6
+HA H8 HQ S9
+D4 DQ DT D7
+D9 DK DJ D8
+S7 SA S3 C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "95"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A962.J9643.J.QJ4 85.K82.AT.KT9832 J.AQ75.K9864.A65 KQT743.T.Q7532.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1H
+1S 4H AP
+[Play "S"]
+SK SA S5 SJ
+D2 DJ DA D4
+C7 CQ CT C5
+S4 S2 S8 H5
+D3 S6 DT DK
+D5 H3 H8 D6
+HT C4 CK CA
+DQ HJ HK D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A962.J9643.J.QJ4 85.K82.AT.KT9832 J.AQ75.K9864.A65 KQT743.T.Q7532.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1H
+1S 4H AP
+[Play "S"]
+C7 CQ CK CA
+SQ SA S5 SJ
+D2 DJ DA D4
+HT C4 C2 C5
+SK S2 S8 H5
+S3 H3 H2 HA
+D3 S6 DT DK
+S4 CJ C3 C6
+S7 S9 C8 H7
+D5 H4 HK HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "96"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK63.T2.7643.QT4 Q954.A74.K95.J95 T82.QJ.JT8.A8762 J7.K98653.AQ2.K3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2H Pass 3H
+Pass 3NT Pass 4H
+AP
+[Play "W"]
+SA S4 S2 S7
+C4 C5 CA C3
+CT C9 C2 CK
+H2 HA HJ H3
+HT H4 HQ HK
+SK S5 S8 SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK63.T2.7643.QT4 Q954.A74.K95.J95 T82.QJ.JT8.A8762 J7.K98653.AQ2.K3"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1NT Pass 2H
+AP
+[Play "W"]
+SK S4 S2 S7
+C4 C5 CA C3
+CT C9 C2 CK
+H2 HA HJ H3
+HT H4 HQ HK
+SA S5 S8 SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "97"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J63.AKJ2.J63.542 Q82.Q63.AKT.K873 K54.T85.Q7.AQT96 AT97.974.98542.J"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+1C Pass 1D Pass
+1NT AP
+[Play "E"]
+H8 H4 HA H3
+H5 H7 H2 HQ
+D7 D2 D3 DA
+DQ D4 D6 DK
+CT D5 DJ DT
+CQ CJ C2 C3
+HT H9 HJ H6
+S4 S7 HK S2
+C9 S9 C4 C7
+CA ST C5 C8
+C6 D8 S3 CK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J63.AKJ2.J63.542 Q82.Q63.AKT.K873 K54.T85.Q7.AQT96 AT97.974.98542.J"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "6"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 1S AP
+[Play "W"]
+HK H3 H5 H4
+D3 DA D7 D2
+C2 C3 CQ CJ
+D6 DK DQ D4
+C4 C7 C6 S7
+HA H6 H8 H7
+DJ DT HT D5
+C5 C8 C9 S9
+S3 SQ SK D8
+H2 CK CA SA
+HJ S8 CT D9
+S6 HQ S4 H9
+SJ S2 S5 ST
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "98"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q8.QJ543.KQ532.3 T43.A86.J6.AKQT9 AK652.K972.T8.J8 J97.T.A974.76542"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass Pass 1NT
+AP
+[Play "E"]
+S2 S7 SQ S3
+SK S9 S8 S4
+SA SJ H3 ST
+S6 D4 H4 H6
+S5 D7 D2 H8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q8.QJ543.KQ532.3 T43.A86.J6.AKQT9 AK652.K972.T8.J8 J97.T.A974.76542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1S Pass 1NT 2C
+Pass 3C 3H Pass
+4H AP
+[Play "N"]
+DJ D8 DA D2
+CQ C8 C2 C3
+CK CJ C4 H3
+H6 HK HT H4
+H8 H2 C5 HJ
+HA H7 C6 H5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "99"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT96.AT532.85.K2 Q8.K7.Q642.QT876 KJ53.QJ94.A73.J4 742.86.KJT9.A953"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 4S AP
+[Play "S"]
+S2 S9 SQ SK
+S4 SA S8 S3
+S7 S6 C7 SJ
+H6 H2 HK HQ
+DJ D5 D2 DA
+H8 H3 H7 HJ
+C3 HA C6 H4
+C5 HT D4 H9
+D9 H5 C8 C4
+C9 C2 CQ CJ
+DK D8 D6 D3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT96.AT532.85.K2 Q8.K7.Q642.QT876 KJ53.QJ94.A73.J4 742.86.KJT9.A953"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1H Pass 3H
+Pass 4H AP
+[Play "N"]
+C7 C4 CA C2
+D2 DA DJ D5
+HK HQ H6 H2
+D4 D3 DK D8
+D6 D7 D9 H3
+H7 H4 H8 HA
+C6 CJ C3 CK
+SQ S3 S2 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "100"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9874.97.KQ72.K52 AQJ5.AJT65.943.6 T63.Q3.T865.AT93 K2.K842.AJ.QJ874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "E"]
+D6 DA D2 D3
+H3 HK H7 H5
+HQ H2 H9 HA
+S3 SK S4 S5
+S6 S2 S7 SJ
+ST DJ S8 SQ
+C3 C4 S9 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9874.97.KQ72.K52 AQJ5.AJT65.943.6 T63.Q3.T865.AT93 K2.K842.AJ.QJ874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "E"]
+D5 DA D2 D3
+H3 HK H7 H5
+S3 SK S4 S5
+S6 S2 S7 SA
+ST DJ S8 SJ
+HQ H2 H9 HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "101"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:4.J532.K876.J865 K976.T7.5.KQT742 QT83.AQ984.43.A3 AJ52.K6.AQJT92.9"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+Pass 1S 2D Pass
+Pass 2H 3D AP
+[Play "W"]
+S4 S6 S3 SJ
+D6 D5 D3 DA
+DK C2 D4 DJ
+H2 H7 HA H6
+D7 S7 S8 S2
+C5 C4 CA C9
+D8 S9 ST S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:4.J532.K876.J865 K976.T7.5.KQT742 QT83.AQ984.43.A3 AJ52.K6.AQJT92.9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "N"]
+Pass 1H X 3H
+3S Pass 4S Pass
+Pass X AP
+[Play "E"]
+HA H6 H2 H7
+H8 HK H3 HT
+CA C9 C5 C2
+D3 DA D6 D5
+S3 S2 S4 SK
+C3 D2 C6 CK
+S8 SJ C8 CQ
+D4 D9 D7 S6
+ST SA CJ C4
+SQ S5 D8 S7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "102"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:9.AQ93.KQ975.K73 76543.6.J42.QT65 AKQ2.KT74.A.J942 JT8.J852.T863.A8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Auction "E"]
+1C Pass 1NT Pass
+2C Pass 2D Pass
+2H Pass 3H Pass
+3S Pass 4C Pass
+4H Pass 4NT Pass
+5H Pass 6H AP
+[Play "S"]
+SJ S9 S3 SA
+D3 D5 D2 DA
+H2 HQ H6 H4
+D6 D7 D4 H7
+H5 H3 S4 HK
+S8 C3 S5 SK
+C8 CK C5 C2
+D8 D9 DJ HT
+ST C7 S6 SQ
+CA H9 C6 C4
+H8 HA S7 C9
+DT DQ CT CJ
+HJ DK CQ S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:9.AQ93.KQ975.K73 76543.6.J42.QT65 AKQ2.KT74.A.J942 JT8.J852.T863.A8"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 3H Pass
+3S Pass 4C X
+Pass Pass 6H AP
+[Play "S"]
+CA C3 C5 C2
+C8 CK C6 C4
+H2 HA H6 H4
+D3 D5 D2 DA
+H5 H3 S3 HK
+S8 S9 S4 SA
+ST C7 S5 SK
+SJ D7 S6 SQ
+H8 H9 S7 H7
+D6 DK D4 S2
+D8 DQ DJ CJ
+DT D9 CT HT
+HJ HQ CQ C9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "103"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A3.AQJT64.KJ.Q94 QJ85.975.62.AT86 T9742.2.AT853.J2 K6.K83.Q974.K753"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2H Pass 2S
+AP
+[Play "S"]
+D4 DJ D2 D3
+H3 HA H5 H2
+HK HQ H7 D5
+D7 DK D6 D8
+H8 HJ H9 C2
+S6 HT C6 CJ
+C3 C4 C8 S2
+SK SA S5 S4
+C5 H4 SJ DT
+C7 C9 CA S7
+D9 S3 SQ ST
+CK CQ CT S9
+DQ H6 S8 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A3.AQJT64.KJ.Q94 QJ85.975.62.AT86 T9742.2.AT853.J2 K6.K83.Q974.K753"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 3H AP
+[Play "N"]
+H7 H2 H3 HQ
+H5 S2 H8 HA
+H9 S4 HK HJ
+D2 D3 D4 DK
+C6 CJ CK C4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "104"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:832.AK86.963.962 KT.T.AK82.KQ7543 A9754.QJ4.74.AT8 QJ6.97532.QJT5.J"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+Pass 1C 1S Pass
+Pass 2C Pass Pass
+2S AP
+[Play "S"]
+DQ D3 D2 D4
+CJ C2 C3 C8
+DJ D6 DA D7
+D5 D9 DK S4
+S6 S2 ST SA
+SJ S3 SK S5
+SQ C6 CK CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:832.AK86.963.962 KT.T.AK82.KQ7543 A9754.QJ4.74.AT8 QJ6.97532.QJT5.J"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+Pass 1D X 2D
+2H 3D AP
+[Play "E"]
+HQ H2 HK HT
+D4 D5 D3 DK
+CA CJ C2 C3
+D7 DQ D6 D2
+SA S6 S2 SK
+H4 H3 H8 D8
+C8 DT C6 C4
+S4 DJ D9 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "105"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K3.Q975.54.KT954 5.T83.AQT73.A863 AQ6.K2.KJ9862.J7 JT98742.AJ64..Q2"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1S Pass
+2D Pass 3S AP
+[Play "W"]
+H5 H3 HK HA
+SK S5 S6 SJ
+HQ H8 H2 H4
+H7 HT SQ H6
+CK CA CJ CQ
+D4 DA D2 C2
+D5 D3 D6 S2
+S3 C3 SA ST
+*
+[Description "Bermuda Bowl 1959 Final - Segment 7"]
+[Stage "Segment 7"]
+[HomeTeam "USA"]
+[VisitTeam "ITALY"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K3.Q975.54.KT954 5.T83.AQT73.A863 AQ6.K2.KJ9862.J7 JT98742.AJ64..Q2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4DX"]
+[Result "7"]
+[Auction "N"]
+Pass 1D 3S Pass
+Pass 3NT Pass Pass
+X 4D Pass Pass
+X AP
+[Play "S"]
+SJ SK S5 S6
+S2 D4 D3 DK
+HA H5 H3 HK
+ST S3 D7 SA
+S4 D5 DA D2
+C2 C4 CA C7
+H4 H9 H8 H2
+H6 HQ HT SQ
+HJ H7 C3 D6
+CQ CK C6 CJ
+S7 CT C8 D8
+S8 C5 DT D9
+S9 C9 DQ DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "106"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK86.8.T872.AQ43 97.QT975.A43.J76 QJT5.K43.9.KT982 432.AJ62.KQJ65.5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1D 1S Pass
+2D Pass 3C Pass
+4S AP
+[Play "N"]
+DA D9 D6 D2
+HQ H3 H2 H8
+HT HK HA S6
+S7 S5 S2 SA
+S9 ST S3 SK
+D3 SJ D5 D7
+H5 H4 H6 S8
+C6 C2 C5 CA
+C7 CK S4 C3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK86.8.T872.AQ43 97.QT975.A43.J76 QJT5.K43.9.KT982 432.AJ62.KQJ65.5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S 2D 2S Pass
+3C Pass 4S AP
+[Play "S"]
+DQ D2 D3 D9
+DJ D7 D4 S5
+C5 CQ C6 CT
+D5 D8 DA ST
+S2 S6 S7 SQ
+S3 S8 S9 SJ
+S4 C3 C7 C9
+HA H8 H5 H3
+DK DT H7 C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "107"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T94.Q92.J3.AQ765 AKQJ7.64.K98.J43 652.KT875.T52.KT 83.AJ3.AQ764.982"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1D Pass 1S Pass
+1NT Pass 3D Pass
+3NT AP
+[Play "W"]
+C5 C3 CT C2
+CA C4 CK C8
+CQ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T94.Q92.J3.AQ765 AKQJ7.64.K98.J43 652.KT875.T52.KT 83.AJ3.AQ764.982"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1S Pass
+2D Pass 2S Pass
+2NT Pass 4S AP
+[Play "E"]
+CK C2 C5 C3
+CT C8 CQ C4
+D5 C9 CA CJ
+H5 H3 C7 SJ
+S2 S3 S4 SA
+S5 S8 S9 SK
+S6 HJ ST SQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "108"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K82.A9865.A4.642 5.KQJ4.KJ862.AJ3 AQJ.T72.953.T985 T97643.3.QT7.KQ7"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2D Pass 2S
+AP
+[Play "W"]
+DA D2 D3 D7
+D4 DJ D5 DT
+S2 S5 SA S3
+S8 D6 D9 DQ
+C2 C3 C5 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K82.A9865.A4.642 5.KQJ4.KJ862.AJ3 AQJ.T72.953.T985 T97643.3.QT7.KQ7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Auction "W"]
+1H Pass 2H AP
+[Play "N"]
+D6 D3 DQ DA
+HQ H2 H3 H5
+DK D5 D7 D4
+DJ D9 DT H6
+H4 H7 S3 HA
+S5 SJ S4 S2
+HJ SQ S6 S8
+HK HT S7 H8
+D2 C5 S9 H9
+D8 SA ST SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "109"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKT62.98.AQ953.6 J75.4.T842.AQJ97 4.AKT63.J7.T8432 Q983.QJ752.K6.K5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "6"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2H Pass 2S
+Pass 3C Pass 3D
+Pass 3H AP
+[Play "S"]
+D6 D3 DT DJ
+C5 C6 C7 C2
+HJ H8 H4 H3
+HQ H9 D2 HA
+DK DA D4 D7
+H2 DQ D8 C3
+CK D5 CA C4
+S3 S2 CQ C8
+S8 D9 CJ CT
+-  -  C9 -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKT62.98.AQ953.6 J75.4.T842.AQJ97 4.AKT63.J7.T8432 Q983.QJ752.K6.K5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2D
+Pass 2H AP
+[Play "S"]
+CK C6 CA C2
+HJ H8 H4 H3
+H2 H9 D2 H6
+S3 SA S5 S4
+S8 SK S7 C3
+S9 S2 SJ HT
+DK DA D4 DJ
+D6 DQ D8 D7
+SQ D3 DT HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "110"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K9.A63.T93.AQ973 QT864.T2.QJ5.T52 A52.J95.K742.KJ6 J73.KQ874.A86.84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "N"]
+S6 S2 SJ SK
+C2 CK C4 C3
+C5 CJ C8 C7
+CT C6 H4 CQ
+H2 D2 D6 CA
+S4 S5 S3 C9
+D5 DK DA D3
+ST SA S7 S9
+HT H5 H7 HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K9.A63.T93.AQ973 QT864.T2.QJ5.T52 A52.J95.K742.KJ6 J73.KQ874.A86.84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 3NT AP
+[Play "S"]
+H7 H3 H2 HJ
+C4 C3 C2 CJ
+S3 SK S4 S2
+DA D3 DJ DK
+SJ S9 S6 SA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "111"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:652.64.J9.J75432 A.AQJ98.T842.AKT KQ98.T32.KQ76.86 JT743.K75.A53.Q9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 2NT Pass
+3NT AP
+[Play "E"]
+D6 D3 DJ D2
+D7 DA D9 D4
+H2 HK H4 H8
+H3 H7 H6 HJ
+HT H5 C2 HA
+C6 S3 C3 HQ
+C8 S4 S2 H9
+S8 CQ C4 CT
+S9 C9 C5 CK
+DQ S7 C7 CA
+DK D5 S5 D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:652.64.J9.J75432 A.AQJ98.T842.AKT KQ98.T32.KQ76.86 JT743.K75.A53.Q9"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass 2C 2NT Pass
+3S Pass 3NT AP
+[Play "E"]
+DK D3 DJ D2
+D6 DA D9 D4
+H2 H5 H4 HJ
+DQ D5 C2 D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "112"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q873.K876.J54.74 AKJ6.QT54.32.T53 9542.AJ3.AK6.QJ9 T.92.QT987.AK862"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1S AP
+[Play "S"]
+CK C4 CT C9
+DT DJ D2 D6
+ST S3 SJ S2
+C6 S7 SA S4
+C2 S8 SK S5
+D7 SQ S6 S9
+H2 H6 H4 HJ
+CA C7 C3 CJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q873.K876.J54.74 AKJ6.QT54.32.T53 9542.AJ3.AK6.QJ9 T.92.QT987.AK862"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1C 1D
+Pass 1H AP
+[Play "E"]
+CQ CA C7 C3
+S2 ST S3 SJ
+S4 D7 S7 SA
+S5 D8 S8 SK
+S9 H9 SQ S6
+C9 CK C4 C5
+CJ C2 D4 CT
+DA D9 D5 D2
+DK DT DJ D3
+D6 DQ H6 HT
+H3 H2 H7 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "113"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AK8.K.AK9743.KT2 QT972.AQ8.JT6.87 J5.96543.Q2.9543 643.JT72.85.AQJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C X
+XX Pass Pass 2D
+2S Pass Pass 3C
+Pass 3D Pass 4C
+Pass 4D AP
+[Play "N"]
+D6 DQ D5 D3
+S2 S5 S3 SK
+S7 SJ S4 SA
+S9 D2 S6 S8
+C7 C3 CA C2
+HA H3 H2 HK
+HQ H4 H7 D4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AK8.K.AK9743.KT2 QT972.AQ8.JT6.87 J5.96543.Q2.9543 643.JT72.85.AQJ6"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1D
+1S Pass Pass 2NT
+AP
+[Play "N"]
+ST SJ S3 S8
+D6 DQ D5 D3
+DT D2 D8 DK
+DJ C3 S4 DA
+S2 C4 C6 D9
+C7 C5 H2 D7
+S7 C9 CJ D4
+S9 S5 S6 SA
+SQ H3 CQ SK
+HA H4 H7 HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "114"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ7.7.AT86.AK754 AT654.J42.972.QJ J92.QT98.KQ53.T9 83.AK653.J4.8632"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2C Pass
+2D Pass 2NT Pass
+3D AP
+[Play "S"]
+HK H7 H2 H8
+S8 SK S4 S2
+D4 D6 D2 DK
+DJ D8 D7 DQ
+C2 CK CJ CT
+C3 CA CQ C9
+C6 C4 S5 D3
+H3 DA D9 D5
+C8 C5 S6 H9
+HA DT H4 HT
+H5 C7 ST S9
+S3 S7 SA SJ
+H6 SQ HJ HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ7.7.AT86.AK754 AT654.J42.972.QJ J92.QT98.KQ53.T9 83.AK653.J4.8632"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "N"]
+S5 S2 S8 SK
+CJ C9 C2 C4
+S4 S9 S3 SQ
+D2 DK D4 D6
+CQ CT C3 CK
+D7 SJ C6 CA
+D9 DQ DJ D8
+H2 D3 H3 DT
+H4 D5 H5 DA
+S6 H8 C8 C5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "115"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T4.T9.AJ972.Q963 752.AKQ84.K.T742 KJ963.J62.QT863. AQ8.753.54.AKJ85"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1C Pass 1H 1S
+1NT Pass 3C Pass
+3H Pass 4H AP
+[Play "E"]
+D3 D4 DA DK
+D6 D5 D7 H4
+H2 C5 C3 C2
+SJ SQ S4 S2
+H6 H3 H9 HA
+HJ H5 HT HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T4.T9.AJ972.Q963 752.AKQ84.K.T742 KJ963.J62.QT863. AQ8.753.54.AKJ85"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 3H Pass
+4H AP
+[Play "W"]
+C3 C2 H6 C5
+S4 S2 S6 SQ
+H9 HA H2 H3
+HT HK HJ H5
+CQ C4 D3 CJ
+DA DK D6 D4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "116"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J3.KQ8.QT95.K642 954.J.8742.QJT75 T762.A9632.A3.93 AKQ8.T754.KJ6.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass Pass 1NT
+AP
+[Play "W"]
+DT D2 DA D6
+HQ HJ H2 H4
+HK S4 H3 H5
+H8 S5 HA H7
+D5 D4 D3 DK
+S3 S9 S2 SA
+SJ D7 S6 SK
+C2 D8 S7 SQ
+C4 C5 H6 HT
+DQ C7 C3 DJ
+D9 CT H9 S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J3.KQ8.QT95.K642 954.J.8742.QJT75 T762.A9632.A3.93 AKQ8.T754.KJ6.A8"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "7"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 2C AP
+[Play "W"]
+DT D2 DA D6
+S3 S4 S2 SA
+HQ HJ H2 H4
+SJ S5 S6 SK
+H8 C5 H3 H5
+DQ D4 D3 DJ
+D5 D7 C3 DK
+C2 S9 S7 S8
+D9 D8 C9 CA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "117"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.AQT9753.Q.KQJ84 QJ3.KJ862.A93.A5 AT8752..K752.T96 K964.4.JT864.732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2D 4H
+X AP
+[Play "N"]
+DA D2 DJ DQ
+CA C6 C2 C4
+C5 C9 C3 CJ
+H2 S2 H4 HA
+HK S5 S4 HQ
+D3 DK D4 C8
+H6 CT C7 CQ
+D9 D5 D6 H3
+HJ S7 D8 HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.AQT9753.Q.KQJ84 QJ3.KJ862.A93.A5 AT8752..K752.T96 K964.4.JT864.732"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+1D 1S 2D 4H
+AP
+[Play "N"]
+DA D2 DJ DQ
+S3 S2 S9 H3
+H2 S5 H4 HA
+HK S7 C2 HQ
+D9 DK D4 C4
+SQ SA S4 CJ
+CA C6 C3 CQ
+SJ S8 S6 H5
+HJ D5 C7 HT
+D3 D7 D8 H7
+H6 ST D6 H9
+C5 C9 DT CK
+H8 CT SK C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "118"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ8765.94.T72.K4 32.KQ632.K4.9653 AT94.8.Q953.AQJT K.AJT75.AJ86.872"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1D 1H 1S 1NT
+2S 2NT 3S AP
+[Play "N"]
+HK H8 HJ H4
+DK D3 D6 D2
+D4 D5 DJ D7
+C3 D9 DA DT
+C5 DQ D8 SQ
+S2 SA SK S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ8765.94.T72.K4 32.KQ632.K4.9653 AT94.8.Q953.AQJT K.AJT75.AJ86.872"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "9"]
+[Auction "E"]
+1C X 2S 3H
+3S 4H 4S 5H
+AP
+[Play "E"]
+SA SK S7 S2
+H8 H5 H4 HQ
+S4 H7 S5 S3
+D3 D6 D2 DK
+D5 DA D7 D4
+D9 D8 DT H2
+-  -  -  C3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "119"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ64..KQ952.KT75 AKT73.K74.AT4.Q8 982.QJ862..J9432 5.AT953.J8763.A6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1S Pass
+2H Pass 4H AP
+[Play "W"]
+DK DA H2 D3
+C5 C8 C2 CA
+S4 SA S2 S5
+S6 SK S8 C6
+SJ S3 S9 H3
+D2 D4 H6 D6
+C7 CQ C3 H5
+DQ DT C4 D7
+SQ S7 C9 H9
+CT H4 H8 HA
+D5 ST HJ DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ64..KQ952.KT75 AKT73.K74.AT4.Q8 982.QJ862..J9432 5.AT953.J8763.A6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D Pass
+2H X XX Pass
+Pass 2S X Pass
+Pass 2NT X 3C
+Pass Pass 3H Pass
+4D Pass 4H X
+AP
+[Play "W"]
+DK DA H2 D3
+C5 C8 C2 CA
+S4 SA S2 S5
+S6 SK S8 C6
+C7 HK H6 H3
+DQ DT C3 D6
+CK CQ C4 H5
+D2 D4 H8 DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "120"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T73.J852.AT63.J2 AQ.KQ73.K97.A953 65.AT4.QJ4.KT874 KJ9842.96.852.Q6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2NT Pass 3S
+Pass 4S AP
+[Play "W"]
+CJ C3 CK C6
+C2 C5 C4 CQ
+S3 SA S5 S2
+S7 SQ S6 S4
+ST C9 CT S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T73.J852.AT63.J2 AQ.KQ73.K97.A953 65.AT4.QJ4.KT874 KJ9842.96.852.Q6"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1NT Pass 2S
+Pass 2NT Pass 3S
+Pass 3NT AP
+[Play "E"]
+C7 CQ CJ C3
+HA H6 H2 HK
+CT C6 C2 C5
+HT H9 H5 HQ
+C4 D2 D3 CA
+S5 S2 S3 SA
+S6 SK S7 SQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "121"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ4.97.Q654.9864 9863.AT43.A73.Q7 T52.QJ5.KJT8.KJ3 AQ7.K862.92.AT52"]
+[Declarer "S"]
+[Contract "3DX"]
+[Result "8"]
+[Description "Bermuda Bowl 1959 Final - Segment 8"]
+[HomeTeam "USA"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "Segment 8"]
+[VisitTeam "ITALY"]
+[Auction "N"]
+Pass Pass 1D X
+3D X Pass Pass
+Pass
+[Play "W"]
+D2 D4 DA D8
+CA C4 CQ CK
+C2 C9 C7 C3
+D9 D5 D3 DK
+H2 DQ D7 DJ
+HK H7 H3 HJ
+S7 S4 S3 ST
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ4.97.Q654.9864 9863.AT43.A73.Q7 T52.QJ5.KJT8.KJ3 AQ7.K862.92.AT52"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+1NT Pass Pass X
+Pass Pass 2D Pass
+Pass 2H Pass Pass
+Pass
+[Play "S"]
+DJ D2 D4 D3
+S5 S7 SJ S6
+D8 D9 D5 DA
+S2 SQ SK S9
+ST SA S4 S8
+H5 HK H7 H3
+HQ H2 H9 HA
+HJ C2 C4 S3
+DT H6 D6 D7
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "122"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A8.2.K86542.J764 K954.K74.A93.A82 QT762.863.Q7.KQ9 J3.AQJT95.JT.T53"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2H
+Pass Pass Pass
+[Play "E"]
+SA S4 S2 S3
+S8 SK S6 SJ
+H2 H4 H3 HQ
+D2 D3 DQ DT
+D4 S5 ST H9
+C4 HK H6 H5
+D5 H7 H8 HA
+D6 D9 D7 DJ
+C6 CA C9 C3
+D8 DA S7 C5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A8.2.K86542.J764 K954.K74.A93.A82 QT762.863.Q7.KQ9 J3.AQJT95.JT.T53"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1H
+1NT Pass 2C 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+C4 C2 CQ C3
+D2 DA DQ DT
+H2 HK H3 H5
+D4 H7 H6 HA
+D5 H4 H8 HQ
+DK D3 D7 DJ
+C6 CA C9 C5
+D6 D9 S2 CT
+C7 C8 CK H9
+S8 SK S6 S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "123"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T62.952.K643.AJ7 Q93.A83.Q7.K9842 A874.K74.AT2.T65 KJ5.QJT6.J985.Q3"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S Pass
+1NT Pass Pass Pass
+[Play "W"]
+C2 C5 CQ CA
+D7 DT DJ D3
+CK C6 C3 C7
+C4 CT S5 CJ
+S3 S7 SJ S2
+HA H4 HQ H2
+C9 S4 H6 S6
+C8 S8 HT ST
+S9 SA SK D4
+H3 HK HJ H5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T62.952.K643.AJ7 Q93.A83.Q7.K9842 A874.K74.AT2.T65 KJ5.QJT6.J985.Q3"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 1NT Pass Pass
+Pass
+[Play "N"]
+S4 S5 ST SQ
+C5 CQ CA C2
+DA D5 D3 D7
+S7 SJ S2 S3
+HK HQ H2 H3
+SA SK S6 S9
+S8 D8 H5 C4
+CT C3 C7 CK
+D2 D9 DK DQ
+C6 H6 CJ C8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "124"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K98.87642.KQ7.AQ AT764.J.854.T982 J.KQ953.JT962.54 Q532.AT.A3.KJ763"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 4H Pass
+Pass Pass
+[Play "N"]
+CT C4 C3 CQ
+HJ HK HA H2
+D4 D2 DA D7
+C2 C5 CK CA
+S4 HQ HT H4
+SA SJ SQ SK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K98.87642.KQ7.AQ AT764.J.854.T982 J.KQ953.JT962.54 Q532.AT.A3.KJ763"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 2H X
+3H 3S 4H Pass
+Pass Pass
+[Play "S"]
+DA D7 D4 D2
+D3 DK D5 D6
+HA H2 HJ HK
+SQ SK SA SJ
+HT DQ D8 D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "125"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:8.QT3.K953.Q8765 K742.KJ752.A.J43 96.A9864.QJ84.A9 AQJT53..T762.KT2"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+D3 DA D4 D2
+H3 H2 HA S3
+D5 S2 D8 D6
+C5 C3 CA C2
+C6 C4 C9 CK
+D9 S4 DJ D7
+HT HK H4 CT
+S8 S7 S6 SA
+DK SK DQ DT
+C7 CJ H6 ST
+C8 H5 S9 SJ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:8.QT3.K953.Q8765 K742.KJ752.A.J43 96.A9864.QJ84.A9 AQJT53..T762.KT2"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Play "N"]
+D3 DA D4 D2
+CQ C3 C9 CT
+H3 HK HA S3
+S8 S2 S6 SA
+D5 S4 D8 D6
+C5 C4 CA C2
+D9 S7 DJ D7
+C6 CJ S9 CK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "126"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:952.J93.AKT8.Q92 T8.Q86.Q652.AJT8 AKJ7.AK42.J4.K64 Q643.T75.973.753"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C Pass
+2C Pass 2H Pass
+3H Pass 3NT Pass
+Pass Pass
+[Play "N"]
+C3 C9 CT CK
+D3 D8 DQ DJ
+S3 S2 S8 SA
+H5 H9 HQ H2
+S4 S5 ST SK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:952.J93.AKT8.Q92 T8.Q86.Q652.AJT8 AKJ7.AK42.J4.K64 Q643.T75.973.753"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C Pass
+2C Pass 2S Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H7 H9 HQ HK
+D3 D8 DQ DJ
+H5 HJ H6 H2
+SQ S2 S8 SJ
+HT H3 H8 HA
+C3 CQ CA C4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "127"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.AT76.AQ9652.K74 K8732.J42.T4.Q32 AQJ4.KQ983.K.JT5 T965.5.J873.A986"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "13"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1H Pass
+3H Pass 4NT Pass
+6H Pass Pass Pass
+[Play "E"]
+S6 C4 S3 SJ
+H5 H6 H2 HK
+D3 D2 D4 DK
+S5 H7 H4 HQ
+S9 HA HJ H3
+D7 DA DT C5
+D8 DQ S2 CT
+DJ D5 C2 H8
+ST C7 S7 SA
+C6 HT S8 S4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:.AT76.AQ9652.K74 K8732.J42.T4.Q32 AQJ4.KQ983.K.JT5 T965.5.J873.A986"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H Pass 2C Pass
+2D Pass 3H Pass
+4D Pass 4S Pass
+6H Pass Pass Pass
+[Play "W"]
+S3 SQ S5 C4
+H2 HK H5 H6
+H4 HQ S6 H7
+D4 DK D3 D2
+HJ H3 S9 HA
+DT C5 D7 DA
+S2 CT D8 DQ
+C2 H8 DJ D5
+S7 SA ST C7
+S8 S4 C6 HT
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "128"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K852.KQ983.T3.97 4.AJ752.A87654.5 QJ97.T6.KQ9.KQT6 AT63.4.J2.AJ8432"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S 2C
+3S Pass Pass Pass
+[Play "S"]
+CA C7 C5 C6
+C4 C9 S4 CT
+D2 D3 DA D9
+DJ DT D4 DK
+S3 S2 D5 SJ
+H4 HK HA H6
+S6 H3 H5 HT
+SA S5 D6 S7
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K852.KQ983.T3.97 4.AJ752.A87654.5 QJ97.T6.KQ9.KQT6 AT63.4.J2.AJ8432"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H X 1S
+X 2D Pass Pass
+2H Pass 2S X
+Pass Pass Pass
+[Play "S"]
+CA C7 C5 C6
+C2 C9 S4 CT
+H4 H3 HA H6
+S3 H8 H2 HT
+DJ D3 DA D9
+SA H9 H5 SQ
+C4 S8 D4 CQ
+S6 S2 D5 SJ
+ST SK D6 S7
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "129"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K73.987.K743.Q43 A64.KQ543..A9762 JT952..QJ98.KJT8 Q8.AJT62.AT652.5"]
+[Declarer "E"]
+[Contract "6HX"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H 1S 2D
+2S 3C Pass 4D
+Pass 4H Pass 4NT
+Pass 5S Pass 6H
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+SJ SQ SK SA
+C8 C5 C3 CA
+CT H2 C4 C2
+D8 D2 D3 H3
+CJ H6 CQ C6
+D9 DA D4 S4
+DJ D5 D7 H4
+CK HT DK C7
+DQ D6 H9 HQ
+S2 HJ S3 C9
+S5 DT H7 HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K73.987.K743.Q43 A64.KQ543..A9762 JT952..QJ98.KJT8 Q8.AJT62.AT652.5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 2D
+Pass 2H Pass 4H
+Pass Pass Pass
+[Play "S"]
+SJ SQ SK SA
+C8 C5 C3 CA
+CT H2 C4 C2
+D8 DA D3 S4
+D9 D2 D4 H3
+CJ H6 CQ C6
+DJ D5 D7 H4
+CK HT S3 C7
+S2 HA H7 H5
+S5 HJ H8 HQ
+S9 S8 H9 HK
+DQ D6 S7 C9
+ST DT DK S6
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "130"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:75.KQ97.KQJ3.765 JT4.T5.T542.QJ32 AKQ92.A8.9876.A9 863.J6432.A.KT84"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+C4 C5 CJ C9
+C8 C6 C2 CA
+DA D3 D2 D6
+CK C7 C3 S2
+CT H7 CQ S9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:75.KQ97.KQJ3.765 JT4.T5.T542.QJ32 AKQ92.A8.9876.A9 863.J6432.A.KT84"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+D2 D6 DA D3
+H5 HA H6 H7
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "131"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q73.J85.AT75.QT4 94.A632.J986.AJ3 AK6.KQ7.K432.982 JT852.T94.Q.K765"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2NT Pass Pass Pass
+[Play "E"]
+SJ S3 S4 SA
+H4 HJ HA H7
+S2 S7 S9 SK
+DQ DA D6 D2
+S5 D5 D8 DK
+C5 CT CJ C2
+H9 H5 H2 HK
+S8 SQ H3 S6
+HT H8 H6 HQ
+CK C4 C3 C8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:Q73.J85.AT75.QT4 94.A632.J986.AJ3 AK6.KQ7.K432.982 JT852.T94.Q.K765"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2C Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+S9 SA S2 S3
+H2 HK H4 H5
+D6 D2 DQ DA
+D8 DK C5 D5
+HA H7 H9 HJ
+C3 C2 CK C4
+CJ C8 C6 CT
+CA C9 C7 CQ
+H3 HQ HT H8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "132"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J62.AJT942.64.J9 KQ854.KQ6.T8.K76 A7.5.AKQJ93.AQ83 T93.873.752.T542"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S 2S Pass
+4H Pass 5D Pass
+Pass Pass
+[Play "S"]
+ST S2 S4 S7
+S3 SJ SQ SA
+H3 HA H6 H5
+C2 CJ CK CA
+D2 D4 D8 DA
+D5 D6 DT DK
+D7 H2 S5 DQ
+H7 H4 S8 DJ
+C4 C9 C6 C3
+S9 S6 SK D3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J62.AJT942.64.J9 KQ854.KQ6.T8.K76 A7.5.AKQJ93.AQ83 T93.873.752.T542"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1S 2NT Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "S"]
+ST S2 S4 SA
+D2 D4 D8 DA
+D5 D6 DT DK
+D7 S6 H6 DQ
+H3 SJ C6 DJ
+H7 H2 C7 D9
+C2 H4 S5 D3
+H8 HA HQ H5
+C4 CJ CK CA
+C5 C9 S8 CQ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "133"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q432.KJ63.Q8.AQ7 AKJ.Q5.AT75.T643 T965.T8.KJ96.J92 87.A9742.432.K85"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H X Pass Pass
+1S Pass Pass 1NT
+Pass Pass 2S Pass
+Pass Pass
+[Play "E"]
+SK S5 S7 S2
+C3 C9 CK CA
+DA D6 D2 DQ
+C4 CJ C5 C7
+SJ ST S8 S3
+SA S6 D3 S4
+C6 C2 C8 CQ
+D5 DK D4 D8
+D7 DJ H2 H3
+H5 H8 H4 HK
+HQ HT H7 H6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q432.KJ63.Q8.AQ7 AKJ.Q5.AT75.T643 T965.T8.KJ96.J92 87.A9742.432.K85"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+Pass Pass
+[Play "W"]
+D2 DQ DA D6
+D3 D8 D5 DK
+H2 H3 HQ HT
+D4 C7 D7 DJ
+C5 CQ C3 C2
+HA HK H5 H8
+H4 H6 SJ D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "134"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT64.84.KQ.AKJ2 82.AKT52.J942.Q4 KQ.Q7.AT87.T9865 9753.J963.653.73"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "5"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C 1H 2C 3H
+3S Pass 4S Pass
+Pass 5H Pass Pass
+X Pass Pass Pass
+[Play "W"]
+SK S3 S4 S2
+SQ S5 S6 S8
+CT C7 CK C4
+D7 D3 DK D2
+D8 D5 DQ D4
+HQ S7 SA HT
+DA D6 H4 D9
+C5 C3 CA CQ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT64.84.KQ.AKJ2 82.AKT52.J942.Q4 KQ.Q7.AT87.T9865 9753.J963.653.73"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1S Pass 1NT Pass
+2C Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+HK H7 H6 H4
+HA HQ H3 H8
+S2 SQ S3 S4
+S8 SK S5 S6
+D2 D7 D3 DK
+H2 D8 S7 SA
+H5 C5 S9 SJ
+C4 C6 C3 CA
+D4 DA D5 DQ
+CQ CT C7 CK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "135"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AQJT53.J8.Q.A875 K74.AT742.532.T6 986.K653.K97.Q32 2.Q9.AJT864.KJ94"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 1NT 2D
+2S 3D Pass Pass
+3S Pass Pass Pass
+[Play "W"]
+CT C2 C4 C5
+C6 CQ CK CA
+D2 D7 DA DQ
+H2 C3 C9 C7
+SK H3 CJ C8
+HA H5 H9 H8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AQJT53.J8.Q.A875 K74.AT742.532.T6 986.K653.K97.Q32 2.Q9.AJT864.KJ94"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2S Pass Pass Pass
+[Play "W"]
+D2 D7 D8 DQ
+C6 C2 C4 CA
+CT CQ CK C5
+SK S6 S2 S3
+D3 DK DA S5
+H2 C3 C9 C7
+D5 D9 DJ ST
+H4 S8 CJ C8
+S4 S9 D4 SJ
+S7 H3 D6 SQ
+H7 HK H9 H8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "136"]
+[West "Pietro Forquet"]
+[North "Sidney Lazard"]
+[East "G Siniscalco"]
+[South "Sam Fry Jr."]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK86.QT9.7.AKQ42 QT752.A52.9853.7 J9.J3.AKJT4.J986 43.K8764.Q62.T53"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 2C Pass
+3C Pass 3D Pass
+3NT Pass Pass Pass
+[Play "N"]
+S5 SJ S4 S6
+HA H3 H4 H9
+H2 HJ HK HT
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Ivar Stakgold"]
+[North "Giorgio Belladonna"]
+[East "Leonard Harmon"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK86.QT9.7.AKQ42 QT752.A52.9853.7 J9.J3.AKJT4.J986 43.K8764.Q62.T53"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 2C Pass
+2S Pass 3D Pass
+3S Pass 4C Pass
+4D Pass 5C Pass
+Pass Pass
+[Play "N"]
+HA H3 H4 H9
+H2 HJ HK HT
+S2 S9 S3 SA
+C7 C6 C3 CA
+D3 C8 C5 CK
+D5 C9 CT CQ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "137"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A763.KJT872.2.K5 JT54.653.KJ93.32 K8.AQ9.Q8.AJT976 Q92.4.AT7654.Q84"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "13"]
+[Description "Bermuda Bowl 1959 Final - Segment 9"]
+[HomeTeam "USA"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "Segment 9"]
+[VisitTeam "ITALY"]
+[Auction "N"]
+1H Pass 6H Pass
+Pass Pass
+[Play "E"]
+SJ S8 S2 SA
+H3 HA H4 H2
+H5 HQ D4 H7
+H6 H9 D5 HT
+C2 C6 C4 CK
+C3 CA C8 C5
+D3 C7 CQ H8
+S4 SK S9 S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A763.KJT872.2.K5 JT54.653.KJ93.32 K8.AQ9.Q8.AJT976 Q92.4.AT7654.Q84"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 2NT Pass
+3H Pass 4H Pass
+4NT Pass 5S Pass
+6H Pass Pass Pass
+[Play "E"]
+SJ SK S2 S3
+S4 S8 S9 SA
+S5 HQ SQ S6
+C2 C6 C4 CK
+ST HA D4 S7
+H3 H9 H4 HK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "138"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T7.K5.K53.KQJ973 AQ86..JT9642.T52 KJ95.J982.Q7.A86 432.AQT7643.A8.4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2C 2D 3C 4H
+Pass Pass Pass
+[Play "E"]
+CK C2 C6 C4
+S7 S6 SJ S2
+C3 C5 CA H3
+H5 D2 H2 HA
+HK D4 H8 HQ
+ST SQ SK S3
+D3 D6 D7 DA
+C7 SA S5 S4
+C9 CT C8 H4
+D5 D9 H9 H6
+CJ S8 HJ H7
+CQ DT S9 HT
+DK DJ DQ D8
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T7.K5.K53.KQJ973 AQ86..JT9642.T52 KJ95.J982.Q7.A86 432.AQT7643.A8.4"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C 1D 1S 2H
+Pass 3D Pass 3H
+Pass Pass Pass
+[Play "E"]
+CK C2 C6 C4
+CQ C5 C8 H3
+D3 D2 D7 DA
+D5 D4 DQ D8
+C3 CT CA H4
+H5 D6 H2 HA
+HK D9 H8 H6
+S7 SQ SK S2
+ST SA S5 S3
+DK DT S9 H7
+C7 S6 SJ S4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "139"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJT7532.T.Q9.T93 64.9854.84.AK762 8.KJ73.AK32.QJ85 AQ9.AQ62.JT765.4"]
+[Declarer "E"]
+[Contract "4DX"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+3S Pass Pass X
+Pass 4C X 4D
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+HT H4 H3 HQ
+DQ D4 D2 DJ
+SJ S4 S8 SQ
+C3 CA C5 C4
+C9 CK C8 H2
+S2 S6 D3 S9
+D9 D8 DK D5
+S3 H5 HJ HA
+S5 C2 DA D6
+S7 H8 HK H6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJT7532.T.Q9.T93 64.9854.84.AK762 8.KJ73.AK32.QJ85 AQ9.AQ62.JT765.4"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 2C Pass
+2NT Pass 3S Pass
+Pass Pass
+[Play "E"]
+C4 C3 CK C5
+D5 C9 CA C8
+S9 CT C2 CJ
+HA HT H4 H3
+DJ D9 D4 DK
+D6 DQ C6 CQ
+SA S2 S4 S8
+D7 ST D8 D2
+SQ SK S6 D3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "140"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J742.AK65.4.KQT3 T6.QT4.AQJ865.85 K985.J3.KT32.J72 AQ3.9872.97.A964"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+D9 D4 DA D2
+CA C3 C8 C2
+C4 CK C5 C7
+SQ SJ S6 S5
+C6 CT ST CJ
+D7 S2 DQ D3
+SA S4 D5 SK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J742.AK65.4.KQT3 T6.QT4.AQJ865.85 K985.J3.KT32.J72 AQ3.9872.97.A964"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C 1D 1S Pass
+2S Pass Pass Pass
+[Play "S"]
+D9 D4 DA D2
+D7 S2 DQ D3
+SA S4 S6 SK
+H9 HA H4 H3
+CA CK C5 C2
+SQ S7 ST S5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "141"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK83.87.J762.K98 9752.KJT2.QT.T63 QT6.Q653.AK5.Q42 J4.A94.9843.AJ75"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass Pass Pass
+[Play "E"]
+DQ DA D3 D2
+HT H3 H4 H7
+DT DK D4 D6
+C3 C2 C5 CK
+H2 H5 H9 H8
+S2 D5 D8 D7
+C6 C4 CJ C8
+CT CQ CA C9
+HK H6 D9 DJ
+S5 ST SJ S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK83.87.J762.K98 9752.KJT2.QT.T63 QT6.Q653.AK5.Q42 J4.A94.9843.AJ75"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1C Pass
+1NT Pass Pass Pass
+[Play "E"]
+C3 C2 CJ CK
+DT DA D3 D2
+DQ DK D4 D6
+S2 D5 D8 DJ
+S5 SQ S4 S3
+S7 S6 SJ SA
+S9 ST H4 SK
+H2 H3 C5 S8
+C6 C4 D9 D7
+HK H5 H9 H7
+CT CQ CA C8
+HT H6 HA H8
+HJ HQ C7 C9
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "142"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT74.62.9654.KJ5 Q9.K83.7.AQ87642 63.QJT7.KQ832.T9 KJ852.A954.AJT.3"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2C Pass 2H
+Pass 3C Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+D6 D7 DQ DA
+S4 SQ S3 S2
+SA S9 S6 SK
+S7 C2 H7 S5
+H2 H3 HQ HA
+C5 CQ C9 C3
+CJ C4 CT H4
+H6 HK HT H5
+- CA - -
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT74.62.9654.KJ5 Q9.K83.7.AQ87642 63.QJT7.KQ832.T9 KJ852.A954.AJT.3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Play "E"]
+S4 S9 S3 S2
+S7 SQ S6 S5
+H2 H3 H7 HA
+SA C2 D2 SK
+H6 HK HT H4
+D4 H8 HJ H5
+D5 C4 HQ H9
+D6 D7 DK DA
+ST C6 D3 SJ
+D9 C7 D8 S8
+C5 C8 DQ DT
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "143"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQ82.AK4.AJ65.A5 754.J65.T42.KQ84 JT963.T973.983.2 K.Q82.KQ7.JT9763"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2NT Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+H5 H3 HQ HA
+C4 C2 C3 CA
+C8 S3 C6 C5
+S4 SJ SK SA
+S5 S6 C7 SQ
+S7 ST C9 S2
+HJ HT H2 H4
+H6 H7 H8 HK
+D2 D3 D7 DA
+D4 D8 DQ D5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AQ82.AK4.AJ65.A5 754.J65.T42.KQ84 JT963.T973.983.2 K.Q82.KQ7.JT9763"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C Pass 1D Pass
+2NT Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "W"]
+CK C2 CJ CA
+C4 S3 C3 C5
+S4 SJ SK SA
+S5 S6 C6 SQ
+S7 S9 C7 S8
+H5 H3 H2 HA
+H6 H7 H8 HK
+HJ H9 HQ H4
+DT D3 D7 D5
+D2 D8 DQ DA
+D4 D9 DK D6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "144"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ42.73.Q8542.76 6.J9542.J97.QT54 AT953.T8.AT63.J9 Q87.AKQ6.K.AK832"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass Pass 1S X
+2S 4H Pass Pass
+Pass
+[Play "E"]
+SA S7 S2 S6
+H8 HA H3 H2
+HT HK H7 H4
+C9 CA C6 C4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ42.73.Q8542.76 6.J9542.J97.QT54 AT953.T8.AT63.J9 Q87.AKQ6.K.AK832"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 2H 2S 4H
+Pass Pass Pass
+[Play "W"]
+S2 S6 SA S7
+D2 D7 DA DK
+D4 D9 D3 H6
+H3 H2 H8 HA
+H7 H4 HT HK
+C6 C4 C9 CA
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "145"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:85.A975.6.Q96542 AJ64.KQJT.KJT95. 932.8642.842.T73 KQT7.3.AQ73.AKJ8"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+Pass 4S Pass 4NT
+Pass 5H Pass 5NT
+Pass 6C Pass 6S
+Pass Pass Pass
+[Play "N"]
+C5 D5 C3 CJ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:85.A975.6.Q96542 AJ64.KQJT.KJT95. 932.8642.842.T73 KQT7.3.AQ73.AKJ8"]
+[Declarer "W"]
+[Contract "7S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 4S Pass 4NT
+Pass 6S Pass 7S
+Pass Pass Pass
+[Play "N"]
+HA HT H2 H3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "146"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q4.42.KJ92.KQ742 K2.KQJ863.7.J653 AJ86.A97.Q864.98 T9753.T5.AT53.AT"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C Pass Pass Pass
+[Play "S"]
+HK HA H5 H2
+C3 C8 CA C2
+HJ H7 HT H4
+HQ H9 S3 C4
+D7 DQ DA D2
+C5 D4 D3 DK
+C6 C9 CT CQ
+CJ S6 S5 CK
+SK SA S7 SQ
+H3 D6 D5 D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q4.42.KJ92.KQ742 K2.KQJ863.7.J653 AJ86.A97.Q864.98 T9753.T5.AT53.AT"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass Pass Pass
+[Play "S"]
+HQ H7 HT H2
+HJ H9 H5 H4
+H3 HA S3 C2
+D7 D4 D3 DK
+H6 DQ DA D2
+C3 C8 CA C4
+C5 C9 CT CK
+SK SA S5 SQ
+S2 SJ S7 S4
+H8 D8 D5 D9
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "147"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A84..K98762.AT43 K762.J9653.Q5.J9 QJT53.AKQT8.4.K6 9.742.AJT3.Q8752"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4S Pass
+Pass Pass
+[Play "E"]
+C2 C3 C9 CK
+H2 S4 H3 H8
+S9 SA S2 S3
+C5 S8 S6 SQ
+H4 D2 SK SJ
+C7 CA CJ C6
+C8 C4 D5 S5
+H7 CT S7 ST
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A84..K98762.AT43 K762.J9653.Q5.J9 QJT53.AKQT8.4.K6 9.742.AJT3.Q8752"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2NT Pass 3C Pass
+4C Pass 4H Pass
+Pass X 4S X
+Pass Pass Pass
+[Play "E"]
+C5 CA C9 C6
+D3 D2 DQ D4
+S9 S4 S2 SQ
+C2 C3 CJ CK
+H2 C4 H3 HA
+H4 CT H5 HK
+H7 D6 H6 HQ
+C7 S8 H9 H8
+DT D7 D5 S3
+C8 SA HJ HT
+DJ D8 S6 ST
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "148"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:84.AQT974.853.QT Q2.6.Q97.J987543 AJT5.J532.AJ42.A K9763.K8.KT6.K62"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "N"]
+D7 D2 DT D3
+D9 DA DK D5
+H6 H2 H8 HA
+DQ D4 D6 D8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:84.AQT974.853.QT Q2.6.Q97.J987543 AJT5.J532.AJ42.A K9763.K8.KT6.K62"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1S Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+C7 CA C2 CT
+H6 HJ HK HA
+C3 H2 C6 CQ
+C4 H3 H8 HQ
+S2 ST SK S4
+SQ SA S3 S8
+C5 SJ S6 D3
+C8 S5 S7 H4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "149"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:975.AJ74.AT3.K87 KJ632.K.Q64.AJ92 T4.Q98652.J5.Q64 AQ8.T3.K9872.T53"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+H9 H3 H4 HK
+S4 SA S5 S2
+D5 D2 D3 DQ
+DJ D7 DT D4
+C4 C3 CK CA
+ST SQ S7 S3
+H2 S8 S9 SK
+CQ CT C7 C2
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:975.AJ74.AT3.K87 KJ632.K.Q64.AJ92 T4.Q98652.J5.Q64 AQ8.T3.K9872.T53"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C 1S Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H6 H3 HA HK
+HQ HT H4 C2
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "150"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J82.QT52.A74.873 QT6.A3.Q3.KQJ965 A974.J87.J52.AT4 K53.K964.KT986.2"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 2C Pass 2H
+Pass 2NT Pass Pass
+Pass
+[Play "W"]
+H8 HK H2 H3
+CA C2 C3 CK
+HJ H4 H5 HA
+C4 H6 C7 CQ
+CT H9 C8 CJ
+H7 D6 D4 C9
+D2 S3 S2 C6
+S4 D8 S8 C5
+D5 D9 DA DQ
+S7 DT HQ D3
+DJ S5 HT S6
+SA SK SJ ST
+S9 DK D7 SQ
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J82.QT52.A74.873 QT6.A3.Q3.KQJ965 A974.J87.J52.AT4 K53.K964.KT986.2"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2C Pass 2S
+Pass Pass Pass
+[Play "W"]
+H7 HK H2 H3
+CA C2 C3 CK
+H8 H4 HQ HA
+C4 H6 C7 CQ
+CT H9 C8 CJ
+D2 D6 DA DQ
+SA S3 SJ SQ
+S4 S5 S8 ST
+D5 DK D4 D3
+DJ DT D7 S6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "151"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T874..AQ92.KJT65 K5.54.KJ4.Q98732 AQ92.T863.T873.A J63.AKQJ972.65.4"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass 1S 3H
+4S Pass Pass Pass
+[Play "E"]
+HA S4 H4 H3
+C4 C5 C2 CA
+H9 S7 H5 H6
+S3 CK C3 D3
+D5 DQ DK D7
+S6 S8 S5 SA
+D6 D2 DJ DT
+SJ ST SK S2
+H2 D9 D4 D8
+H7 DA C7 H8
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:T874..AQ92.KJT65 K5.54.KJ4.Q98732 AQ92.T863.T873.A J63.AKQJ972.65.4"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 2H
+Pass Pass X Pass
+3H Pass 4S Pass
+Pass Pass
+[Play "E"]
+C4 C5 C7 CA
+S3 S4 S5 SA
+D5 DQ DK D3
+HJ S7 H4 H3
+S6 CK C2 H6
+HQ S8 H5 H8
+SJ C6 C8 S9
+HK ST SK HT
+H2 CT C3 D7
+H7 CJ CQ S2
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "152"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT5.AK4.AKJ3.J32 K432.96.9754.KQ4 AJ976.QJ.T86.AT8 8.T87532.Q2.9765"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1NT Pass
+2NT Pass 3S Pass
+4D Pass 4S Pass
+Pass Pass
+[Play "S"]
+C5 C2 CQ CA
+H2 HA H6 HJ
+S8 SQ S2 S6
+H5 ST S3 S7
+H3 S5 S4 SJ
+H7 C3 SK SA
+H8 H4 H9 HQ
+DQ DK D4 DT
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT5.AK4.AKJ3.J32 K432.96.9754.KQ4 AJ976.QJ.T86.AT8 8.T87532.Q2.9765"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+D7 D8 DQ DA
+S2 S6 S8 SQ
+S3 S7 H2 ST
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "153"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J632.A8.K75.KT72 4.Q743.Q84.J9654 K5.KJ62.AJ962.83 AQT987.T95.T3.AQ"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass 1H 1S
+1NT Pass Pass Pass
+[Play "E"]
+S4 S5 SQ S2
+C4 SK SA S3
+C5 H2 S7 S6
+C6 C3 S8 SJ
+H3 HJ H5 H8
+H4 H6 H9 HA
+D4 D2 D3 DK
+D8 DJ DT D5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J632.A8.K75.KT72 4.Q743.Q84.J9654 K5.KJ62.AJ962.83 AQT987.T95.T3.AQ"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C Pass 1H 2S
+Pass Pass 2NT Pass
+Pass Pass
+[Play "W"]
+SQ S2 S4 SK
+D3 DK D4 D2
+DT D5 D8 DJ
+H5 D7 DQ DA
+S7 C2 C4 D9
+SA S3 C5 S5
+ST SJ C6 C3
+H9 HA H3 H2
+HT H8 H4 HK
+CQ C7 C9 D6
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "154"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:8.QJT97.A42.AJ72 AKT3.K86.K6.QT64 J542.A543.Q5.953 Q976.2.JT9873.K8"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H X 2H 2S
+3H 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+HQ H6 H3 H2
+HJ H8 H4 S6
+D2 DK D5 D3
+D4 D6 DQ D7
+H7 HK HA S7
+DA ST SJ D8
+S8 S3 S2 SQ
+CA C4 C3 CK
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:8.QJT97.A42.AJ72 AKT3.K86.K6.QT64 J542.A543.Q5.953 Q976.2.JT9873.K8"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1H X 2H X
+3H 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+HA H2 HQ H6
+C9 C8 CA C4
+D5 D3 DA D6
+DQ D7 D2 DK
+S2 S6 S8 SA
+S4 S7 H7 SK
+S5 S9 H9 S3
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "155"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A873.A98763.8.J3 KT2.QJT4.KT.KQ87 J654.K.AQJ632.T9 Q9.52.9754.A6542"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1H 2D Pass
+Pass Pass
+[Play "E"]
+H5 H3 HT HK
+S9 SA S2 S4
+H2 HA H4 C9
+D4 D8 DK DA
+D5 H6 DT DQ
+D7 H7 C7 DJ
+SQ S3 ST SJ
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A873.A98763.8.J3 KT2.QJT4.KT.KQ87 J654.K.AQJ632.T9 Q9.52.9754.A6542"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass Pass 2D Pass
+Pass Pass
+[Play "E"]
+H5 H3 HT HK
+C4 C3 CK C9
+D4 D8 DT DQ
+D5 H6 DK DA
+D7 H7 C7 DJ
+S9 SA S2 S4
+H2 HA H4 CT
+SQ S3 SK S5
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "156"]
+[West "Pietro Forquet"]
+[North "Harry Fishbein"]
+[East "G Siniscalco"]
+[South "Lee Hazen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ986.82.T9.7543 72.AKQT3.A64.T82 T3.9754.J87.AKJ9 AK54.J6.KQ532.Q6"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+CA C6 C3 C2
+ST SA S6 S2
+H4 HJ H2 H3
+H5 H6 H8 HA
+H7 CQ C4 HK
+H9 S4 S8 HQ
+D7 D2 D9 DA
+DJ DK DT D4
+*
+
+[Event "Bermuda Bowl 1959 Final"]
+[Site "New York"]
+[Date "1959.00.00"]
+[Board "#"]
+[West "Sam Fry Jr."]
+[North "Giorgio Belladonna"]
+[East "Sidney Lazard"]
+[South "Walter Avarelli"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ986.82.T9.7543 72.AKQT3.A64.T82 T3.9754.J87.AKJ9 AK54.J6.KQ532.Q6"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Scoring "IMP"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S 2H X Pass
+2S Pass Pass 3NT
+Pass Pass Pass
+[Play "W"]
+SQ S2 S3 SA
+H2 H3 H4 HJ
+H8 HA H5 H6
+C3 HK H7 S4
+C4 HQ H9 S5
+S6 HT C9 C6
+D9 DA D7 D2
+DT D4 D8 DK
+*
+
