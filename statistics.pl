@@ -1,7 +1,6 @@
 /*  File        statistics.pl
  *  Part of     bidstat: analysis of bridge bidding 
  *  Author      Guus Schreiber, guus.schreiber@vu.nl
- *  Purpose     make data tables for statistical analysis
  *  Works with  SWI-Prolog 7.1.3
  */
 
@@ -19,9 +18,8 @@ stat(StatFeature) :-
   atom_concat(StatFeature, '.txt', FileName), 
   open(FileName, write, Stream, [alias(output)]),
   format(output, "ID Year ~w~n", [StatFeature]),   
-  findall(ID, deal(ID, _), IDs), 
-  forall(member(ID, IDs), 
-    ( ( no_auction(ID)
+  forall(deal(ID, _), 
+    ( ( error_auction(ID)      % error in the PBN source, skip
       ; year(ID, Year)
       , statistics(StatFeature, ID, Values)
       , format(output, "~w ~w", [ID, Year])
@@ -30,6 +28,13 @@ stat(StatFeature) :-
       , format(output, "~n", [])
       ))),
   close(Stream). 
+
+statistics(empty_auction, ID, [yes]) :-
+  deal(ID, [_, _, _, _, Auction, Contract, _, _]),
+  sum_list(Auction, N), 
+  N == 0,
+  Contract \= pass.
+statistics(empty_auction, _, [no]).
 
 % Frequency first hand is opened, independnt of hand type 
 % 1=true, 0=false
@@ -55,24 +60,15 @@ statistics(contested_auction, ID, [Bool]) :-
   ; Bool is 0
   ). 
 
-% 
-
-statistics(single_bid_auction, ID, [Bool]) :-
-  findall(Bid, bid(ID, _, _, Bid, _), Bids), 
-  ( findall(B, (member(B, Bids), B > 10), [Single])
-  , Single > 20
-  , Bool is 1
-  ; Bool is 0
-  ). 
-
 
 % Frequency balanced (4333/4432/5332) in 1st psotion
-% 1=BAL, 2=other
+% 1=BAL, 0=other
 
 statistics(balanced_first_hand, ID, [1]) :-
   hand(ID, 1, _, _, Features),
   memberchk(balanced, Features). 
 statistics(balanced_first_hand, _, [0]).
+
 
 % Frequency opening BAL 11-12 HCP in 1st hand
 
@@ -149,6 +145,7 @@ bid_class(overcall, Features) :-
 bid_class(overcall, Features) :-
   memberchk(overcall_live, Features). 
      
+
 % Frequency of preempt 1st hand any/NV
 
 statistics(weak_two_1st, ID, [Value]) :-
@@ -158,14 +155,14 @@ statistics(weak_two_1st, ID, [Value]) :-
   Value is Bid div 10. 
 statistics(weak_two_1st, _, ["NA"]).
 
-statistics(weak_two_nv_1st, ID, [Value]) :-
+statistics(weak_two_1st_nv, ID, [Value]) :-
   deal(ID, [_, _, Vul, _, _, _, _, _]),
   ( Vul == 1 ; Vul == 3), 
   hand(ID, 1, HCP, [_, [6|_]], _), 
   HCP < 10, 
   bid(ID, 1, 1, Bid, _), 
   Value is Bid div 10. 
-statistics(weak_two_nv_1st, _, ["NA"]).
+statistics(weak_two_1st_nv, _, ["NA"]).
     
 
 % Auxilliary predicates for statistics

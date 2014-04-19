@@ -202,29 +202,28 @@ help(t.test)
 plot(extra ~ group, data=sleep)
 head(sleep)
 help(t)
-setwd("bidstat/results")
-source("../transform.R")
-transform
-ca = read.table("contested_auction.txt")
+setwd("bidstat")
+setwd("results")
+source("partition.r")
 ca = read.table("contested_auction.txt", header=TRUE)
 head(ca)
-ct = transform(ca, 200)
-warnings()
-source("../transform.R")
-ct = transform(ca, 200)
-head(ct)
-ct
-c = ct[,2]
-c
-y = ct[,1]
-ct.lm = lm(c ~ y)
-summary(ct.lm)
+cap = partition(ca, 200)
+head(cap)
+y = cap[,1]
+c = cap[,2]
 plot(y,c)
-ct = transform(ca, 500)
-c = ct[,2]
-y = ct[,1]
-plot(y,c)
-ct = transform(ca, 1000)
-c = ct[,2]
-y = ct[,1]
-plot(y,c)
+plot(y,c, ylim=c(0,1))
+abline(c~r)
+abline(lm(c~r))
+abline(lm(c~y))
+cap.lm = lm(c~y)
+summary(cap.lm)
+head(cap)
+plot(y,c, ylim=c(0,1), xlab="Year", ylab="Freqeuncy contested auction")
+abline(lm(c~y))
+a
+cap.lm = lm(c~y)
+plot(y,c, ylim=c(0,1), xlab="Year", ylab="Freqeuncy contested auction")
+abline(cap.lm)
+ca = read.table("contested_auction.txt", header=TRUE)
+cap = partition(ca, 200)
