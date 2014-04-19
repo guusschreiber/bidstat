@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 APR 2014 02:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 APR 2014 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -167,35 +167,32 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen124
 \Gin@req@width=\dimen125
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen126
-)
 (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
-\scratchdimen=\dimen127
+\scratchdimen=\dimen126
 \scratchbox=\box54
 \nofMPsegments=\count117
 \nofMParguments=\count118
 \everyMPshowfont=\toks19
 \MPscratchCnt=\count119
-\MPscratchDim=\dimen128
+\MPscratchDim=\dimen127
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks20
@@ -246,55 +243,57 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 53.
+(Font)              <9> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
+(Font)              <6> on input line 49.
 
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] <figs/weak-two-1st.png, id=27, 365.6862pt x 194.1654pt>
+[2] [3] [4] [5] <figs/weak-two-1st.png, id=28, 365.6862pt x 194.1654pt>
 File: figs/weak-two-1st.png Graphic file (type png)
 
 <use figs/weak-two-1st.png>
-Package pdftex.def Info: figs/weak-two-1st.png used on input line 347.
+Package pdftex.def Info: figs/weak-two-1st.png used on input line 333.
 (pdftex.def)             Requested size: 347.12354pt x 184.32275pt.
  [6 <./figs/weak-two-1st.png>] [7]
-<figs/contested-auction.pdf, id=38, 505.89pt x 505.89pt>
+<figs/contested-auction.pdf, id=39, 505.89pt x 505.89pt>
 File: figs/contested-auction.pdf Graphic file (type pdf)
 
 <use figs/contested-auction.pdf>
-Package pdftex.def Info: figs/contested-auction.pdf used on input line 472.
+Package pdftex.def Info: figs/contested-auction.pdf used on input line 456.
 (pdftex.def)             Requested size: 347.12354pt x 347.12694pt.
- (./paper.bbl) [8] [9 <./figs/contested-auction.pdf>] (./paper.aux) ) 
+ [8] [9 <./figs/contested-auction.pdf>]
+(./paper.bbl) [10] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 1886 strings out of 493633
- 26045 string characters out of 3143378
- 97884 words of memory out of 3000000
- 5172 multiletter control sequences out of 15000+200000
- 7970 words of font info for 29 fonts, out of 3000000 for 9000
+ 1876 strings out of 493633
+ 25772 string characters out of 3143378
+ 97685 words of memory out of 3000000
+ 5165 multiletter control sequences out of 15000+200000
+ 8275 words of font info for 30 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 37i,9n,27p,670b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/
-texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2
-011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper.pdf (9 pages, 284006 bytes).
+ 37i,9n,27p,720b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmtt9.pfb>
+Output written on paper.pdf (10 pages, 298195 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 155 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
