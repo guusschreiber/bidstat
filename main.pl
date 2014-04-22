@@ -12,13 +12,13 @@
 :- dynamic(deal/2).
 :- dynamic(hand/5). 
 :- dynamic(bid/5). 
+  :- dynamic(error_auction/1). 
 :- discontiguous(statistics/3).  
 
 :- ensure_loaded(
       [ process
       , definitions
       , statistics
-      , errors
       ]). 
 
 load_db(DB) :-

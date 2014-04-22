@@ -6,9 +6,9 @@
  */
 
 
-/*------------------------------------------------------------
+/*----------------------------------------------- 
  *  Process raw deal information
- *------------------------------------------------------------*/
+ *------------------------------------------------*/
 
 /* 
   This code reads the output of pbn2prolog and transforms the
@@ -77,7 +77,7 @@ process_args(Args, [Y, H, V, S, A, C, D, R]) :-
 process_dealer(Args, Dealer) :-
   ( memberchk(tag('Dealer', Dealer), Args)
   , nsew(Dealer)
-  ; write_ln(error, "Error: no Dealer")
+  ; format(error, "Error: no Dealer ~w~n", [Args])
   , fail
   ), !.  
 
@@ -152,10 +152,9 @@ process_s('IMP_1948', 1).
 process_s('IMP_1961', 1).
 process_s(_, 0).
 
-process_auction(Args, _, _) :-
+process_auction(Args, _, []) :-
   \+ memberchk(tag('Auction', _), Args),
-  format(error, "Error: no Auction ~n ~w ~n", [Args]), 
-  fail, !. 
+  format(error, "Error: no Auction ~n ~w ~n", [Args]).
 process_auction(Args, Dealer, Auction) :-
   memberchk(tag('Auction', Hand), Args), 
   ( Dealer == Hand

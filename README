@@ -1,12 +1,13 @@
-AUTHOR: Guus Schreiber, schreiber.guus@gmail.com, http://www.cs.vu.nl/~guus/
+AUTHOR: Guus Schreiber 
+guus.schreiber@vu.nl 
+http://www.cs.vu.nl/~guus/
 
 OBJECTIVE
 
-This is a private project I've been wanting to do for a long
-time. People claim that bridge bidding has drastically changed over
-time, for example that there is more activity in the bidding. Do
-historical data support his claim? What, if any, is the nature of the
-changes?   
+This is a private project I've been wanting to do for a long time.
+People claim that bridge bidding has drastically changed over time,
+for example that there is more activity in the bidding. Do historical
+data support his claim? What, if any, is the nature of the changes?
 
 It is my intention to publish the results in relevant fora, once these
 are mature enough to warrant such action.  
@@ -33,18 +34,25 @@ clause, preserving all information. Subdirectories contain the various
 Note: I'm not an experienced Perl program. The code is certainly not
 optimal nor efficient.  
 
-2. analyse.pl
-A Prolog program (written for SWI-Prolog), that does three things:
+2. main.pl 
+Main file of a Prolog program (written for SWI-Prolog),
+that does three things:
 
-"init": extract the relevant information per deal for analyzing the
-bidding 
+process.pl: 
+extract the relevant information per deal for analyzing the bidding 
 
-"defs": derive characteristics of the deal relevant for analyzing
+definitions.pl: 
+derive characteristics of the deal relevant for analyzing
 the bidding 
 
-"stat": Prolog predicates that generate text files in table format
+statistics.pl
+Prolog predicates that generate text files in table format
 that can be used as input for R. These are stored in the results
 subdirectory 
 
-TODO: predefined R programs for statistical analysis of results
+3. data analysis
+- spreadsheets for frequencies etc
+- R for complex statitical manipulations, e.g.:
+  partition.r
+
 

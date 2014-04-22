@@ -1,3 +1,4 @@
+matrix)
 matrix()
 matrix(c(1,2,3,4) rows=2)
 matrix(c(1,2,3,4) nrows=2)
@@ -201,50 +202,12 @@ help(t.test)
 plot(extra ~ group, data=sleep)
 head(sleep)
 help(t)
-owb = read.table("opening_11_12_bal_2.txt", header=TRUE)
-getwd()
 setwd("bidstat")
-owb = read.table("opening_11_12_bal_2.txt", header=TRUE)
-head(owb)
-owb = transform(owb, 200)
-owb
-transform(owb, 200)
-head(owb)
-source("transform.R")
-transform(owb, 100)
-transform(owb, 500)
-transform(owb, 50)
-transform(owb, 25)
-owbt = transform(owb, 25)
-y = owbt[,1]
-o - owbt[,2]
-o = owbt[,2]
-owbt.lm = lm(o~y)
-summary(owbt.lm)
-owbt
-plot(y,o)
-owbt.lm = lm(o ~ y)
-abline(lm(o ~ y))
-owb
-table(owb$Year, owb$V1, na.rm=TRUE)
-table(owb$Year, owb$V1)
-option(scipen=100)
-options(scipen=100)
-decades = seq(1950, 2020, by=10)
-decades
-owb.freq = table(owb$Year, owb$V1)
-owb.freq
-help(cut)
-tapply(owb$V1, owb$Year, mean)
-tapply(owb$V1, owb$Year, mean, na.rm=TRUE)
-owb.f = tapply(owb$V1, owb$Year, mean, na.rm=TRUE)
-owb.f
-owb.f = cbind(owb.f)
-owb.f
-plot(owb.f)
-owb
-owb.f
-help(pot)
-help(plot)
-hist(owb.f)
-owb
+ca = read.table("ca.txt")
+head(ca)
+y = ca$V1
+c = ca$V5
+ca.lm = lm(c~y)
+summary(ca.lm)
+plot(y,c, ylim=c(0,1), xlab="Year", ylab="Freqeuncy contested auction")
+abline(ca.lm)

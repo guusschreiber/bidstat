@@ -20,6 +20,7 @@ stat(StatFeature) :-
   format(output, "ID Year ~w~n", [StatFeature]),   
   forall(deal(ID, _), 
     ( ( error_auction(ID)      % error in the PBN source, skip
+      ; empty_auction(ID)
       ; year(ID, Year)
       , statistics(StatFeature, ID, Values)
       , format(output, "~w ~w", [ID, Year])
@@ -29,12 +30,12 @@ stat(StatFeature) :-
       ))),
   close(Stream). 
 
-statistics(empty_auction, ID, [yes]) :-
+empty_auction(ID) :-
   deal(ID, [_, _, _, _, Auction, Contract, _, _]),
-  sum_list(Auction, N), 
-  N == 0,
-  Contract \= pass.
-statistics(empty_auction, _, [no]).
+  ( Auction == []
+  ; sum_list(Auction, N) 
+  , N == 0
+  , Contract \= pass).
 
 % Frequency first hand is opened, independnt of hand type 
 % 1=true, 0=false
@@ -110,7 +111,7 @@ statistics(preempt, ID, [Diff]) :-
   is_preempt(ID, 1, Level, Length),
   Diff is Length - Level, 
   ( Diff > 1 
-  ; format("Warning: Deal ~w, diff is ~w~n", [ID, Diff])
+  ; format("Not included: Deal ~w, diff is ~w~n", [ID, Diff])
   , fail
   ). 
 statistics(preempt, _, [0]). 
