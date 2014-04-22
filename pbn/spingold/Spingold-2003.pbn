@@ -1,0 +1,4134 @@
+% PBN created by BFC s03.rbn P
+% RBN by Richard Pavlicek (www.rpbridge.net)
+% 64 deals (2 results each)
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "1"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:965.852.963.KT86 Q8.QJT63.AK2.Q93 AK7.974.J874.A74 JT432.AK.QT5.J52"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Play "E"]
+D4 DT D3 DK
+*
+[Description "2003 Spingold"]
+[Stage "F:1"]
+[HomeTeam "Welland"]
+[VisitTeam "Meltzer"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "1"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:965.852.963.KT86 Q8.QJT63.AK2.Q93 AK7.974.J874.A74 JT432.AK.QT5.J52"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "9"]
+[Play "E"]
+D4 DT D3 DK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "2"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ63.J53.T94.AJ2 9852.T862.A763.5 KQT7.94.K.KQT764 4.AKQ7.QJ852.983"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Play "S"]
+HA H3 H2 H4
+HK H5 H8 H9
+HQ HJ H6 S7
+S4 S3 -  SK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "2"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ63.J53.T94.AJ2 9852.T862.A763.5 KQT7.94.K.KQT764 4.AKQ7.QJ852.983"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Play "S"]
+HA H3 H2 H4
+HK H5 H8 H9
+HQ HJ H6 S7
+S4 S3 -  SK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "3"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J.K8.AKQ653.KQ76 K9763.643.7.T942 QT2.QT972.4.AJ53 A854.AJ5.JT982.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Play "N"]
+D7 D4 D2 DK
+C9 CJ D8 DA
+H3 H2 H5 HK
+H4 HT HJ H8
+S7 S2 SA SJ
+S3 ST S4 C6
+C2 C3 D9 D3
+S6 SQ S5 C7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "3"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J.K8.AKQ653.KQ76 K9763.643.7.T942 QT2.QT972.4.AJ53 A854.AJ5.JT982.8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1S Pass
+2S 2NT 3S 5C
+AP
+[Play "S"]
+C8 C6 C2 CJ
+HA H8 H4 H7
+SA SJ S6 S2
+S4 C7 S7 ST
+S5 CK C4 C3
+H5 HK H6 H2
+D2 DA D7 D4
+D8 DK C9 CA
+HJ D3 H3 HQ
+-  -  -  H9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "4"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT.Q2.JT964.K86 J842.A754.A.QJT7 A975.KT96.853.A4 63.J83.KQ72.9532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Auction "W"]
+Pass 1C Pass 2C
+Pass 3C AP
+[Play "E"]
+H9 HJ HQ HA
+D3 D2 D4 DA
+CA C2 C6 CQ
+HK H3 H2 H4
+HT H8 D6 H5
+S5 S3 SQ S2
+SA S6 SK S4
+H6 C9 CK H7
+-  -  C8 CT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "4"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT.Q2.JT964.K86 J842.A754.A.QJT7 A975.KT96.853.A4 63.J83.KQ72.9532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Play "N"]
+CQ CA C3 C6
+C7 C4 C5 CK
+CT D3 C2 C8
+DA D8 D2 D4
+H5 H9 HJ HQ
+S2 D5 DQ DJ
+CJ H6 C9 D6
+H4 S5 DK DT
+HA HT H8 H2
+H7 HK H3 ST
+-  S7 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "5"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J97.KJ8743.T.973 KQ654.AQ.Q5.JT52 2.96.AK987432.Q4 AT83.T52.J6.AK86"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+1NT 4D X Pass
+4S AP
+[Play "E"]
+DA D6 DT D5
+DK DJ H3 DQ
+C4 CK C3 C5
+S2 S8 S9 SQ
+D3 SA S7 S4
+D2 S3 SJ SK
+CQ CA C7 C2
+H6 H2 H4 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "5"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J97.KJ8743.T.973 KQ654.AQ.Q5.JT52 2.96.AK987432.Q4 AT83.T52.J6.AK86"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+1S 4D 4S AP
+[Play "E"]
+DA D6 DT D5
+DK DJ H3 DQ
+C4 CA C7 C5
+S2 SA S7 S4
+D9 S3 S9 SK
+D3 S8 SJ SQ
+CQ CK C3 CJ
+-  H2 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "6"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J9.8532.A3.KQ962 AQT742.K9.K972.A 53.Q76.QJT64.T74 K86.AJT4.85.J853"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Play "E"]
+C4 C3 C6 CA
+S3 S6 SJ SA
+H6 H4 H3 HK
+H7 HA H2 H9
+HQ HT H5 D2
+DQ D5 DA D7
+D4 -  H8 ST
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "6"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J9.8532.A3.KQ962 AQT742.K9.K972.A 53.Q76.QJT64.T74 K86.AJT4.85.J853"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Play "E"]
+CT C3 C2 CA
+S3 S6 SJ SA
+H6 H4 H2 HK
+H7 HA H3 H9
+HQ HT H5 D2
+C4 C5 C9 S2
+S5 S8 S9 SQ
+D6 SK C6 S4
+D4 HJ H8 D7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "7"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQ3.J93.J7.KQ853 98.Q87642.T.T974 AJT65.AKT.K92.A6 742.5.AQ86543.J2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+3D Pass Pass 3NT
+AP
+[Play "S"]
+S7 SK S8 S5
+H5 H9 H7 HT
+S4 S3 S9 SJ
+D8 H3 H2 HA
+S2 SQ H4 SA
+C2 D7 H6 ST
+D3 HJ H8 HK
+D4 DJ HQ S6
+CJ C3 C4 CA
+D5 -  -  C6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "7"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQ3.J93.J7.KQ853 98.Q87642.T.T974 AJT65.AKT.K92.A6 742.5.AQ86543.J2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Play "S"]
+H5 HJ H7 HT
+S2 SK S9 S5
+S4 S3 S8 ST
+C2 C3 C4 CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "8"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ85.A8.J4.QT985 94.JT532.A65.632 T32.Q976.QT732.4 KQ76.K4.K98.AKJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+1D Pass 1H 1NT
+AP
+[Play "W"]
+C9 C2 C4 CJ
+H8 H2 H6 HK
+HA H3 H7 H4
+CQ C3 S2 CA
+SA S4 S3 SK
+CT C6 H9 CK
+C8 H5 D2 C7
+C5 HT D3 D8
+D4 DA D7 D9
+S5 S9 ST SQ
+S8 -  -  S6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "8"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ85.A8.J4.QT985 94.JT532.A65.632 T32.Q976.QT732.4 KQ76.K4.K98.AKJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Play "W"]
+CT C2 C4 CJ
+HA H2 H6 HK
+C9 C3 D2 CK
+H8 HJ HQ H4
+SA S4 S3 SK
+C8 C6 D3 CA
+D4 DA D7 D8
+S5 HT H7 S6
+DJ D5 DT DK
+S8 S9 S2 SQ
+-  -  -  S7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "9"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K9.Q3.98.AKQ9872 J8743.4.754.JT54 T5.A9862.AKQ62.6 AQ62.KJT75.JT3.3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2D Pass 2NT
+Pass 3D Pass 3NT
+AP
+[Play "N"]
+S3 ST SQ SK
+C5 C6 C3 CA
+C4 H2 H5 CK
+CJ H6 H7 CQ
+D4 DQ D3 D8
+D5 DK DT D9
+D7 DA DJ C2
+H4 D6 HT C8
+S4 D2 S2 S9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "9"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K9.Q3.98.AKQ9872 J8743.4.754.JT54 T5.A9862.AKQ62.6 AQ62.KJT75.JT3.3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+Pass 3D Pass 3NT
+AP
+[Play "N"]
+S4 S5 SA S9
+S3 ST S2 SK
+C5 C6 C3 CA
+C4 H2 H5 CK
+CJ H6 H7 CQ
+D4 DA D3 D8
+-  DQ DT -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "10"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T94.942.976.T963 KJ.KJ6.AQT542.Q2 AQ865.T73.K.KJ87 732.AQ85.J83.A54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Play "E"]
+S6 S2 S4 SJ
+H3 HA H4 H6
+DK DJ D6 DA
+S5 D3 D7 DQ
+C7 D8 D9 DT
+H7 S3 H9 D5
+S8 C4 H2 D4
+CJ S7 C6 D2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "10"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T94.942.976.T963 KJ.KJ6.AQT542.Q2 AQ865.T73.K.KJ87 732.AQ85.J83.A54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1S Pass Pass 2D
+Pass 2S Pass 3NT
+AP
+[Play "E"]
+C7 C4 C9 CQ
+HT HA H4 H6
+DK DJ D7 D2
+CJ CA C3 C2
+H7 D3 D6 DA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "11"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ4.74.KQJ764.K4 K763.AJ32.T.QT92 J95.KT8.A982.A85 T82.Q965.53.J763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass 1D Pass 2D
+Pass 2S Pass 3NT
+AP
+[Play "S"]
+H5 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "11"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ4.74.KQJ764.K4 K763.AJ32.T.QT92 J95.KT8.A982.A85 T82.Q965.53.J763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1D Pass 2D
+Pass 2S Pass 3NT
+AP
+[Play "S"]
+H5 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "12"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J72.AT85.AT.9842 KT3.K732.J63.JT3 9.QJ9.K954.AQ765 AQ8654.64.Q872.K"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Play "W"]
+C4 C3 CA CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "12"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J72.AT85.AT.9842 KT3.K732.J63.JT3 9.QJ9.K954.AQ765 AQ8654.64.Q872.K"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Play "N"]
+S3 S9 SA S7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "13"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:JT6.KT964.Q3.852 Q85.Q873.AJ92.AJ 9.52.KT5.KQT9643 AK7432.AJ.8764.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1NT 3C 4C Pass
+4H Pass 4S AP
+[Play "W"]
+C2 CA C6 C7
+S6 S5 S9 SA
+ST S8 C3 SK
+SJ SQ C4 S4
+HK H3 H2 HJ
+C5 CJ CQ S3
+D3 D2 DT D6
+C8 H7 CT S2
+H4 H8 H5 HA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "13"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:JT6.KT964.Q3.852 Q85.Q873.AJ92.AJ 9.52.KT5.KQT9643 AK7432.AJ.8764.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1D 3C 3S Pass
+4S AP
+[Play "W"]
+C5 CA CK C7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "14"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:973.72.AJT74.Q64 A42.AJT85.K.K985 QJ865.K4.Q95.A32 KT.Q963.8632.JT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2S 3H
+AP
+[Play "E"]
+SQ SK S9 S4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "14"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:973.72.AJT74.Q64 A42.AJT85.K.K985 QJ865.K4.Q95.A32 KT.Q963.8632.JT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2S 3H
+Pass 4H AP
+[Play "E"]
+SQ SK S7 S4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "15"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQJ962.T8.A76.94 87.95.KJT4.AQ862 T54.QJ32.Q932.T7 K3.AK764.85.KJ53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+1H 1S 2C 2S
+3C 3S AP
+[Play "N"]
+H9 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "15"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQJ962.T8.A76.94 87.95.KJT4.AQ862 T54.QJ32.Q932.T7 K3.AK764.85.KJ53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "11"]
+[Play "W"]
+SA S7 ST S3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "16"]
+[West "Sontag"]
+[North "Fallenius"]
+[East "Weichsel"]
+[South "Welland"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:854.T9.AQ53.A865 KJ.K8632.T874.74 93.A54.962.KJT32 AQT762.QJ7.KJ.Q9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2S
+AP
+[Play "W"]
+HT H2 H4 HJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "16"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:854.T9.AQ53.A865 KJ.K8632.T874.74 93.A54.962.KJT32 AQT762.QJ7.KJ.Q9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2S
+AP
+[Play "W"]
+HT H2 H5 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "17"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T.KQJ73.J8.QT986 9.T94.AQT532.A43 AQJ8642.A2.96.J5 K753.865.K74.K72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+1D 1S 1NT X
+2D 3S AP
+[Play "S"]
+DK D8 DA D6
+C7 C6 CA C5
+D7 DJ DQ D9
+CK C8 C4 CJ
+C2 C9 C3 HA
+S3 ST S9 S2
+H5 HK H4 H2
+H6 HQ HT S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "17"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T.KQJ73.J8.QT986 9.T94.AQT532.A43 AQJ8642.A2.96.J5 K753.865.K74.K72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+2D 2S 3D 3H
+Pass 4S AP
+[Play "S"]
+D4 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "18"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ2.85.AT6.AQ82 765.KJ72.954.J54 A9843.QT6.QJ32.K T.A943.K87.T9763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2NT Pass
+3C Pass 3D Pass
+4S AP
+[Play "S"]
+CT C2 C4 CK
+ST SK S7 S3
+C7 SQ S5 S4
+H4 SJ S6 S8
+C3 CA C5 H6
+C6 CQ CJ HT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "18"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ2.85.AT6.AQ82 765.KJ72.954.J54 A9843.QT6.QJ32.K T.A943.K87.T9763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1S Pass 3C Pass
+3D Pass 3S Pass
+4S AP
+[Play "S"]
+CT C2 C4 CK
+ST SK S6 S4
+H4 SQ S5 S8
+H3 SJ S7 S9
+C3 CA C5 H6
+C9 CQ CJ HT
+-  H5 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "19"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ.J9.J62.KT7654 J964.AT763.Q5.QJ K852.542.AK3.A92 T73.KQ8.T9874.83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1H X
+2H 3H Pass 3S
+Pass 4C Pass 5C
+AP
+[Play "N"]
+S6 S2 ST SA
+CQ CA C3 C4
+CJ C2 C8 CT
+HA H2 HK H9
+H7 H4 HQ HJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "19"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ.J9.J62.KT7654 J964.AT763.Q5.QJ K852.542.AK3.A92 T73.KQ8.T9874.83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 3C Pass 3NT
+AP
+[Play "S"]
+D9 D2 D5 DK
+C3 CK CJ C2
+C8 C4 CQ CA
+S3 SA S4 S2
+S7 SQ S6 S5
+D4 CT H3 C9
+H8 C5 H6 H5
+ST C6 H7 H4
+D7 C7 HT H2
+D8 D6 DQ DA
+DT -  -  SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "20"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J52.AT862.AJ86.3 AT7643.9.72.QT97 Q8.J753.T95.KJ64 K9.KQ4.KQ43.A852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass 2D Pass 4C
+Pass 4H Pass 4S
+AP
+[Play "W"]
+C3 CT CJ CA
+S2 S4 S8 SK
+S5 SA SQ S9
+HA H9 H3 HK
+SJ S3 DT C5
+H2 C7 HJ HQ
+D6 D2 D5 DK
+H6 S6 H5 H4
+-  C9 CK C2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "20"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J52.AT862.AJ86.3 AT7643.9.72.QT97 Q8.J753.T95.KJ64 K9.KQ4.KQ43.A852"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass 2S Pass 2NT
+Pass 3C Pass 4S
+AP
+[Play "E"]
+D9 DK DA D2
+DT DQ D6 D7
+S8 SK S2 S3
+SQ S9 S5 SA
+H3 HK HA H9
+H5 C2 SJ S6
+H7 HQ H2 C9
+D5 D3 D8 S4
+CK CA -  CQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "21"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.JT63.KT83.87 T93.AK84.Q2.JT52 K74.Q75.A954.AK4 A652.92.J76.Q963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1NT AP
+[Play "S"]
+H9 H3 H4 HQ
+D6 D3 D2 DA
+D7 DT DQ D4
+C9 C7 C5 CK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "21"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.JT63.KT83.87 T93.AK84.Q2.JT52 K74.Q75.A954.AK4 A652.92.J76.Q963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT AP
+[Play "S"]
+S2 SQ S3 S7
+D7 DK D2 D4
+D6 D3 DQ DA
+DJ D8 H4 D5
+H9 H3 HK H5
+S5 S8 ST SK
+C6 DT C5 D9
+H2 H6 HA HQ
+-  -  S9 S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "22"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J763.53.864.K875 AK5.94.K32.AQ432 Q98.AKQ82.AQ7.J6 T42.JT76.JT95.T9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "6"]
+[Auction "E"]
+1H Pass Pass X
+XX Pass Pass 2C
+Pass Pass X AP
+[Play "E"]
+HK H6 H3 H4
+HQ H7 H5 H9
+HA HT D8 C2
+C6 C9 CK C3
+DQ D5 D6 D3
+DA D9 D4 DK
+D7 DT C5 D2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "22"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J763.53.864.K875 AK5.94.K32.AQ432 Q98.AKQ82.AQ7.J6 T42.JT76.JT95.T9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2DX"]
+[Result "6"]
+[Auction "E"]
+1H Pass Pass X
+XX 2D X AP
+[Play "W"]
+H3 H4 HQ H6
+SJ SA S9 ST
+H5 H9 HK H7
+S3 SK SQ S2
+S6 S5 S8 S4
+D4 DK H8 HT
+D6 D2 DQ D5
+D8 C2 HA HJ
+S7 C3 C6 D9
+C5 CQ CJ CT
+C7 D3 DA DT
+-  -  H2 DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "23"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q84.Q543.QJ963.T A62.2.KT754.K984 KJT75.AJ96..AQJ5 93.KT87.A82.7632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2C 2D 3H
+Pass 4H AP
+[Play "S"]
+DA D3 D5 H6
+S3 SQ S6 S7
+H8 H3 H2 HJ
+H7 H4 D4 HA
+S9 S4 SA SK
+HT S8 S2 SJ
+HK H5 C4 H9
+D8 DQ DK C5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "23"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q84.Q543.QJ963.T A62.2.KT754.K984 KJT75.AJ96..AQJ5 93.KT87.A82.7632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2S Pass 3H
+Pass 4H AP
+[Play "S"]
+C3 CT CK CA
+H7 HQ H2 H6
+S3 S4 S2 SK
+C2 H3 C4 C5
+S9 SQ SA S5
+D2 D3 D4 H9
+H8 H4 D5 HA
+C6 S8 C8 CQ
+C7 D6 C9 CJ
+HT D9 S6 S7
+HK -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "24"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ6.T94.J654.Q75 T873.Q83.T93.KJT KQ.AK765.Q2.9642 9542.J2.AK87.A83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1H X
+2H AP
+[Play "S"]
+S5 S6 ST SK
+S2 SA S3 SQ
+S9 SJ S7 D2
+DA D4 D3 DQ
+D7 D5 D9 H5
+C8 CQ CK C4
+D8 D6 DT H6
+C3 C5 CT C6
+CA C7 CJ C9
+DK DJ S8 H7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "24"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ6.T94.J654.Q75 T873.Q83.T93.KJT KQ.AK765.Q2.9642 9542.J2.AK87.A83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1H X
+2H 2S AP
+[Play "E"]
+HA H2 HT H3
+D2 DA D4 D3
+SK S2 S6 ST
+HK HJ H4 H8
+DQ DK D5 D9
+SQ S4 SA S3
+H6 -  SJ S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "25"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQT84.7.KJ985.42 J32.J963.AQT4.J6 K96.QT54.732.T75 75.AK82.6.AKQ983"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1C 1S
+X XX 2S Pass
+3D Pass 4H AP
+[Play "W"]
+S8 SJ SK S5
+ST S2 S9 S7
+SA S3 S6 H2
+H7 H3 H4 HA
+C2 CJ C5 C9
+S4 H6 H5 H8
+C4 C6 C7 CA
+-  -  -  CK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "25"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQT84.7.KJ985.42 J32.J963.AQT4.J6 K96.QT54.732.T75 75.AK82.6.AKQ983"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1C 1S
+X 2S 4H 4S
+Pass Pass 5C AP
+[Play "W"]
+SA S2 S6 S5
+S4 S3 SK S7
+SQ SJ S9 C3
+C2 CJ C5 C8
+C4 C6 C7 CA
+S8 D4 CT CK
+H7 H3 H4 HA
+D5 DA D7 D6
+-  H6 HT HK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "26"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJT986.Q84.K4.73 A542.J75.Q98.J52 K7.A6.JT653.AT64 3.KT932.A72.KQ98"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "E"]
+1NT 2H 2S 3H
+AP
+[Play "W"]
+SQ SA S7 S3
+HQ H5 H6 HT
+ST S2 SK H2
+C3 C2 C4 CK
+H4 H7 HA H9
+C7 C5 CA C9
+H8 CJ CT C8
+SJ S4 DT -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "26"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJT986.Q84.K4.73 A542.J75.Q98.J52 K7.A6.JT653.AT64 3.KT932.A72.KQ98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+1D 1H 1S 2H
+Pass Pass 2S AP
+[Play "N"]
+H5 H6 HK H4
+HJ HA H2 H8
+S2 SK S3 S6
+SA S7 H3 S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "27"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:7643.KQJ.5.T9864 KJ.97542.JT3.QJ5 52.A63.A9764.K73 AQT98.T8.KQ82.A2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT Pass
+2D Pass 2S Pass
+2NT Pass 3NT AP
+[Play "E"]
+D6 D2 D5 DT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "27"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:7643.KQJ.5.T9864 KJ.97542.JT3.QJ5 52.A63.A9764.K73 AQT98.T8.KQ82.A2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 1NT Pass
+2D Pass 2S AP
+[Play "W"]
+HK H2 H3 H8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "28"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q9832.J32.9632.3 AJT76.KQ85..T954 4.A6.KQT754.Q862 K5.T974.AJ8.AKJ7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 1S 2D X
+3D 3H Pass 4D
+Pass 4H AP
+[Play "E"]
+DK D8 D3 H5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "28"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q9832.J32.9632.3 AJT76.KQ85..T954 4.A6.KQT754.Q862 K5.T974.AJ8.AKJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1D 1NT
+2S X 2NT X
+3D 3NT AP
+[Play "W"]
+D6 H5 DQ DA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "29"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJT42.A87.8.QT82 9876.KT53.65.KJ4 .QJ962.KJ432.A97 AK53.4.AQT97.653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "N"]
+Pass 1H X 1S
+Pass 2D Pass 3H
+AP
+[Play "S"]
+H4 H7 HK H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "29"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJT42.A87.8.QT82 9876.KT53.65.KJ4 .QJ962.KJ432.A97 AK53.4.AQT97.653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "N"]
+Pass 1H X 1S
+Pass 2D Pass 3H
+AP
+[Play "S"]
+C3 CQ CK CA
+DA D8 D5 DK
+SA S2 S6 H2
+D7 H7 D6 D2
+C5 C2 C4 C7
+D9 H8 HT D3
+H4 HA H3 H6
+SK SQ S7 C9
+C6 C8 CJ H9
+S3 S4 HK HJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "30"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A543.Q87.AKQ7.82 98.AT2.9842.Q765 JT7.KJ65.J3.AKJT KQ62.943.T65.943"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 3NT AP
+[Play "S"]
+D6 D7 D4 DJ
+H9 HQ HA H5
+SQ SA S9 ST
+C9 C2 C5 CJ
+H4 H7 HT HK
+H3 H8 H2 HJ
+S2 -  -  H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "30"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A543.Q87.AKQ7.82 98.AT2.9842.Q765 JT7.KJ65.J3.AKJT KQ62.943.T65.943"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT Pass 3NT AP
+[Play "S"]
+S2 S3 S8 SJ
+H4 HQ HA H5
+C3 C2 C5 CJ
+D5 D7 D2 DJ
+D6 DQ D4 D3
+-  DK D8 S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "31"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J65.AT.652.KT632 7.Q8762.A9843.Q4 AKQ84.J95.JT7.98 T932.K43.KQ.AJ75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H 1S
+X 2S 3D Pass
+4H AP
+[Play "E"]
+SK S2 S5 S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "31"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J65.AT.652.KT632 7.Q8762.A9843.Q4 AKQ84.J95.JT7.98 T932.K43.KQ.AJ75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H 1S
+X XX 2H Pass
+Pass 2S 3D Pass
+3H AP
+[Play "E"]
+SA S2 S6 S7
+S4 ST SJ H2
+H5 HK HA H6
+S8 S3 S5 H7
+C8 C5 CK CQ
+C9 CJ C2 C4
+D7 DQ D2 D4
+DT DK D5 D3
+HJ H3 HT HQ
+DJ H4 -  D8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "32"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q76.A.AJ974.AT85 JT5.9643.KT6.J42 K983.Q52.8.KQ963 A42.KJT87.Q532.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1S 2H
+2S 3H 4C Pass
+4H Pass 4S AP
+[Play "S"]
+D5 DA D6 D8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "32"]
+[West "Balicki"]
+[North "Larsen"]
+[East "Zmudzinski"]
+[South "Meltzer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q76.A.AJ974.AT85 JT5.9643.KT6.J42 K983.Q52.8.KQ963 A42.KJT87.Q532.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1S 2H
+X Pass 2S Pass
+4S AP
+[Play "S"]
+C7 CT CJ CK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "33"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQT7.72.Q8632.T9 AJ52.KJ4.KT4.Q74 986.T53.75.AJ653 43.AQ986.AJ9.K82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Play "E"]
+D7 D9 DQ DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "33"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQT7.72.Q8632.T9 AJ52.KJ4.KT4.Q74 986.T53.75.AJ653 43.AQ986.AJ9.K82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Play "E"]
+D7 D9 DQ DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "34"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT2.T4.KJ84.AT98 AJ65.AQ96.T7.K74 K4.J875.653.QJ65 9873.K32.AQ92.32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1NT AP
+[Play "W"]
+CT CK C5 C2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "34"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT2.T4.KJ84.AT98 AJ65.AQ96.T7.K74 K4.J875.653.QJ65 9873.K32.AQ92.32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C X
+1D 1S Pass Pass
+2C 2D Pass 2S
+AP
+[Play "W"]
+HT H6 H5 HK
+S2 SJ SK S3
+CA C4 CQ C2
+SQ S5 S4 S7
+ST SA C5 S8
+H4 HA H7 H2
+DJ DT D3 D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "35"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ96532.KT863.K. AT4.J5.JT97.A952 .74.Q8653.QJ8763 K87.AQ92.A42.KT4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1C 1S 1NT Pass
+2NT 3H 3S Pass
+3NT AP
+[Play "E"]
+H7 H2 HK H5
+H4 H9 H8 HJ
+D3 DA DK D7
+D5 D2 S3 DJ
+DQ D4 H6 DT
+D6 S7 H3 D9
+C3 C4 S5 CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "35"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ96532.KT863.K. AT4.J5.JT97.A952 .74.Q8653.QJ8763 K87.AQ92.A42.KT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1NT 2C 3NT AP
+[Play "W"]
+SJ S4 D3 SK
+H3 HJ H7 H2
+DK DJ D5 D2
+SQ SA C7 S7
+S6 DT D6 D4
+H6 CA C3 C4
+S2 C2 CJ CK
+S5 C5 CQ CT
+H8 H5 H4 HA
+S3 ST C6 S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "36"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:982.T7.A42.T9654 QT.K9865.KQJ63.7 KJ753.AQ42.8.K83 A64.J3.T975.AQJ2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass 2S Pass 2NT
+Pass 3D Pass 4D
+AP
+[Play "E"]
+C3 CA C6 C7
+D8 D5 D2 DK
+HA H3 H7 HK
+HQ HJ HT H5
+H4 DT S2 H6
+C8 CQ C4 DQ
+S3 D7 DA D3
+SJ SA S8 ST
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "36"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:982.T7.A42.T9654 QT.K9865.KQJ63.7 KJ753.AQ42.8.K83 A64.J3.T975.AQJ2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Auction "W"]
+Pass 1H 1S X
+Pass 2D Pass 3D
+Pass 4D Pass 5D
+AP
+[Play "E"]
+S3 S4 S2 ST
+SK SA S8 SQ
+HQ HJ H7 H5
+SJ S6 S9 D3
+C3 CA C4 C7
+HA H3 HT HK
+S7 D7 C9 H6
+D8 D5 D2 DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "37"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:54.AK8.Q974.KJ85 K.QT754.KT85.Q43 9763.932.AJ.T972 AQJT82.J6.632.A6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1S X
+XX Pass Pass 1NT
+Pass Pass X XX
+Pass 2C 3NT AP
+[Play "W"]
+C5 CQ C2 C6
+S4 SK S3 SA
+S5 H4 S6 SJ
+D7 C3 S7 SQ
+D4 H5 S9 ST
+C8 D5 H9 S8
+D9 DK DA D3
+CJ C4 C7 CA
+H8 H7 H2 S2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "37"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:54.AK8.Q974.KJ85 K.QT754.KT85.Q43 9763.932.AJ.T972 AQJT82.J6.632.A6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT Pass 2S Pass
+2NT AP
+[Play "E"]
+C9 C6 CK C3
+C2 CA C5 C4
+H2 HJ HK H4
+DJ D2 D4 D8
+S7 SA S5 SK
+S6 SQ S4 H5
+S3 SJ D7 H7
+S9 ST C8 DT
+C7 S8 CJ D5
+H3 H6 H8 HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "38"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:72.KQT98.9864.A3 J6.A7652.K53.KT9 KQT854.3..QJ8652 A93.J4.AQJT72.74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Auction "E"]
+2S 3D Pass 3S
+4C 4S Pass 5D
+AP
+[Play "W"]
+D4 D3 S4 D7
+C3 CK C2 C4
+S2 SJ SQ SA
+HQ HA H3 HJ
+S7 S6 ST S3
+CA C9 CQ C7
+D8 D5 C5 DT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "38"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:72.KQT98.9864.A3 J6.A7652.K53.KT9 KQT854.3..QJ8652 A93.J4.AQJT72.74"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1S 2D 2H 2S
+3C 3D Pass Pass
+4C Pass 4S AP
+[Play "S"]
+DA D4 D5 S4
+C7 C3 CK CQ
+D2 D6 DK S5
+S3 S2 S6 SK
+C4 CA CT C6
+SA S7 SJ SQ
+DQ D8 D3 -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "39"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQJ62.AT7.KT82.K 543.J64.AQ.Q9642 A7.Q853.754.JT75 T98.K92.J963.A83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2D Pass 2S
+Pass 2NT AP
+[Play "S"]
+H2 H7 H4 H8
+H9 HT HJ H3
+CA CK C4 C5
+C8 D2 C2 CJ
+HK HA H6 H5
+S8 S2 S3 SA
+ST D8 -  HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "39"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQJ62.AT7.KT82.K 543.J64.AQ.Q9642 A7.Q853.754.JT75 T98.K92.J963.A83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2D Pass 2H
+Pass 2S AP
+[Play "N"]
+C2 C5 CA CK
+S3 S7 ST SK
+H4 HQ HK H7
+S4 SA S8 S2
+HJ H3 H2 HT
+DA D4 D3 D2
+DQ D5 D6 DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "40"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A5.KT53.AJ8.T643 963.J6.K97653.75 KQ74.AQ72.T2.AJ2 JT82.984.Q4.KQ98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1NT Pass 2C Pass
+2H Pass 4H AP
+[Play "N"]
+S6 S4 ST SA
+H6 HQ H4 H3
+HJ HA H8 H5
+D5 H2 H9 HK
+C5 CJ CQ C4
+DK D2 D4 D8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "40"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A5.KT53.AJ8.T643 963.J6.K97653.75 KQ74.AQ72.T2.AJ2 JT82.984.Q4.KQ98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "10"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3S Pass 4S Pass
+4NT AP
+[Play "N"]
+D6 D2 DQ DA
+H6 HA H4 H3
+HJ HQ H8 H5
+S6 H2 H9 HK
+C5 CJ CQ C3
+S3 S4 ST SA
+DK DT D4 D8
+S9 SK S2 S5
+D3 SQ S8 C4
+D5 H7 C8 HT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "41"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J4.T753.J8764.K6 QT9.QJ6.93.JT732 K8762.A984.KQ.A8 A53.K2.AT52.Q954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "7"]
+[Auction "N"]
+Pass 1S AP
+[Play "S"]
+C4 C6 CT CA
+S5 SJ SQ S2
+C5 CK C7 C8
+HK H3 H6 H9
+H2 H5 HJ HA
+DA D4 D9 DQ
+D5 D6 D3 DK
+C9 H7 HQ H8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "41"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J4.T753.J8764.K6 QT9.QJ6.93.JT732 K8762.A984.KQ.A8 A53.K2.AT52.Q954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 2H AP
+[Play "S"]
+C5 CK C7 C8
+SA S4 S9 SK
+C4 C6 C3 CA
+S5 SJ SQ S2
+DA D4 D9 DK
+CQ H3 CJ S6
+D2 D6 D3 DQ
+S3 H5 ST S7
+HK HT H6 H4
+C9 H7 CT S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "42"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT432.T74.J762.7 Q.8.Q985.AKT8652 AK76.AKJ2.AT3.43 985.Q9653.K4.QJ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1S 2C
+3C X Pass 5C
+X AP
+[Play "E"]
+HK H3 HT H8
+SK S5 S4 SQ
+SA S8 S2 C2
+C3 CQ C7 C5
+H2 H5 H4 CK
+C4 CJ S3 C6
+HJ H6 H7 CT
+D3 DK D2 D5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "42"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT432.T74.J762.7 Q.8.Q985.AKT8652 AK76.AKJ2.AT3.43 985.Q9653.K4.QJ9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1H 3C
+4C Pass 4S AP
+[Play "N"]
+CK C3 C9 C7
+CA C4 CJ S2
+SQ SA S5 S3
+C5 S6 S8 SJ
+C6 SK S9 S4
+H8 HA H5 H4
+D5 HK H3 H7
+C2 H2 HQ HT
+CT HJ H6 D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "43"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.982.AJ64.AKT4 KJ94.J.Q7.Q98763 Q753.7654.953.J5 A82.AKQT3.KT82.2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "11"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2NT Pass
+3S AP
+[Play "E"]
+D3 D2 DJ DQ
+H4 HA H2 HJ
+H5 HK H8 D7
+D5 DK DA S4
+C5 C2 CK CQ
+D9 DT D4 C3
+H6 HQ H9 C6
+H7 HT ST SJ
+CJ S2 C4 C7
+S3 D8 D6 SK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "43"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.982.AJ64.AKT4 KJ94.J.Q7.Q98763 Q753.7654.953.J5 A82.AKQT3.KT82.2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C Pass 2C Pass
+2H Pass 2S Pass
+2NT Pass 3NT AP
+[Play "W"]
+D4 D7 D9 DT
+D6 DQ D3 D2
+H2 HJ H4 H3
+S6 S4 S5 SA
+H8 C3 H5 HA
+H9 C6 H6 HK
+C4 C7 H7 HQ
+CT C8 S3 HT
+ST SK S7 S2
+DJ S9 SQ S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "44"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ652.A76.KQ8.85 97.Q85.AT92.T432 A8.K42.J4.AKQJ96 QT43.JT93.7653.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "12"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 3C Pass
+3NT Pass 4NT AP
+[Play "N"]
+C3 CA C7 C5
+DA DJ D3 D8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "44"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ652.A76.KQ8.85 97.Q85.AT92.T432 A8.K42.J4.AKQJ96 QT43.JT93.7653.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3C Pass 3S Pass
+3NT Pass 4C Pass
+4D Pass 6C AP
+[Play "S"]
+HJ H6 H5 HK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "45"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ65.6.9632.AT94 87.KQJ.KT84.Q752 AT432.T953.J.J63 J9.A8742.AQ75.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 2D Pass
+3D Pass 4H AP
+[Play "W"]
+SK S7 S2 S9
+S5 S8 SA SJ
+SQ C2 ST H2
+C9 CQ C3 C8
+H6 HJ H3 H4
+S6 HQ H5 H8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "45"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ65.6.9632.AT94 87.KQJ.KT84.Q752 AT432.T953.J.J63 J9.A8742.AQ75.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 4H AP
+[Play "W"]
+SK S7 S4 S9
+S5 S8 SA SJ
+S6 C2 S2 H2
+H6 HJ H3 H4
+CT HQ H5 H7
+CA C5 C3 CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "46"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK93.T2.A976.Q86 7.Q853.T85.AJT75 QT.A.KJ432.K9432 J86542.KJ9764.Q."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Auction "E"]
+1D 2D 2S 4H
+5D 5H X AP
+[Play "E"]
+D3 DQ DA D5
+HA H4 H2 H5
+C3 S2 CQ CA
+C4 H6 C6 C5
+ST S4 SA S7
+DJ H9 D6 D8
+SQ S5 S3 H3
+CK H7 C8 CJ
+D2 S6 S9 H8
+D4 HJ HT HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "46"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK93.T2.A976.Q86 7.Q853.T85.AJT75 QT.A.KJ432.K9432 J86542.KJ9764.Q."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "11"]
+[Auction "E"]
+1D 2D 2S 4H
+5C 5H 6D Pass
+Pass 6H X AP
+[Play "E"]
+C2 DQ CQ CA
+SQ S2 S3 S7
+D2 H4 D7 D8
+ST S4 SA H3
+D4 H6 D6 DT
+C3 S5 S9 H8
+CK H7 C8 CJ
+HA S6 SK HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "47"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:2.AKQ9643.JT.J97 AT97.T.A98432.Q4 KQ64.J8.76.A8632 J853.752.KQ5.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "S"]
+Pass 1H X XX
+Pass 3H Pass 4H
+4S Pass Pass X
+AP
+[Play "W"]
+HK HT H8 H2
+HA S9 HJ H7
+C7 CQ CA C5
+C9 C4 C3 CK
+CJ S7 C2 CT
+S2 SA S4 S3
+DT D2 D6 DK
+H6 ST D7 H5
+DJ D9 S6 D5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "47"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:2.AKQ9643.JT.J97 AT97.T.A98432.Q4 KQ64.J8.76.A8632 J853.752.KQ5.KT5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 4H AP
+[Play "N"]
+S9 SK S5 S2
+C4 C2 CK C9
+D4 D6 DK DT
+D2 D7 DQ DJ
+S7 S4 S3 H3
+HT HJ H2 H4
+ST S6 S8 H6
+D3 H8 H5 HA
+D9 C3 H7 HK
+DA C6 D5 HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "48"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.Q7652.K86.J976 654.A8.AJ73.AQT3 AKQJ82.KJ4.Q95.5 T73.T93.T42.K842"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Auction "W"]
+Pass 1D X Pass
+1H Pass 1S Pass
+1NT Pass 2S AP
+[Play "S"]
+DT DK DA D5
+S3 S9 S4 SA
+S7 H2 S5 SK
+ST D6 S6 SQ
+H3 H5 HA HK
+C2 C6 CA C5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "48"]
+[West "Fallenius"]
+[North "Weichsel"]
+[East "Welland"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:9.Q7652.K86.J976 654.A8.AJ73.AQT3 AKQJ82.KJ4.Q95.5 T73.T93.T42.K842"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "6"]
+[Auction "W"]
+Pass 1NT X AP
+[Play "E"]
+SA S3 S9 S5
+SK S7 H5 S6
+SQ ST H6 S4
+SJ H3 H2 H8
+S8 D2 H7 D7
+S2 C2 D8 DJ
+D9 D4 D6 DA
+C5 C4 C6 CA
+D5 CK C7 C3
+H4 C8 C9 CT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "49"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9632.AQ7.85.JT64 .KJ9842.K642.852 KJ875.T.QT7.AQ73 AQT4.653.AJ93.K9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "7"]
+[Auction "N"]
+2H 2S 4H 4S
+Pass Pass X AP
+[Play "S"]
+H5 HA H8 HT
+SA S2 H4 SK
+H3 HQ HK S5
+D3 D5 DK DQ
+CK C4 C5 C3
+S4 S9 H9 S7
+H6 H7 H2 S8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "49"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9632.AQ7.85.JT64 .KJ9842.K642.852 KJ875.T.QT7.AQ73 AQT4.653.AJ93.K9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+2D 2S 2NT 3S
+4D Pass 4H AP
+[Play "W"]
+S6 D2 SK SA
+S3 C5 S5 SQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "50"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT87.53.JT62.J98 AKQ64.QJ2.AK.KQ4 5.AT864.Q9543.T5 932.K97.87.A7632"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1S X
+Pass 2C Pass 3NT
+Pass 4NT Pass 6NT
+AP
+[Play "E"]
+S5 S2 S7 SQ
+H4 HK H3 H2
+HA H7 H5 HQ
+HT H9 D6 HJ
+H8 S3 S8 SA
+H6 S9 ST SK
+C5 C2 C8 CK
+CT C3 C9 CQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "50"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT87.53.JT62.J98 AKQ64.QJ2.AK.KQ4 5.AT864.Q9543.T5 932.K97.87.A7632"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+2H Pass 2S X
+3D Pass Pass 3NT
+AP
+[Play "E"]
+D4 D7 DT DK
+S5 S2 S7 SK
+H8 S3 S8 SA
+C5 C2 C8 CK
+HA H7 H3 HQ
+D3 D8 DJ DA
+CT C3 C9 CQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "51"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A62.KT985.AKT5.8 974.Q.QJ98762.A6 JT8.J764.43.QJ72 KQ53.A32..KT9543"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "7"]
+[Auction "S"]
+1C 1H 2D Pass
+3C Pass 3D AP
+[Play "E"]
+H6 HA H5 HQ
+H4 H2 HK D2
+S8 SK SA S7
+ST SQ S6 S4
+HJ H3 HT D6
+C2 C3 C8 CA
+CJ CK D5 C6
+SJ S3 S2 S9
+H7 C4 H8 D7
+D3 C5 DK DQ
+C7 S5 H9 D9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "51"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A62.KT985.AKT5.8 974.Q.QJ98762.A6 JT8.J764.43.QJ72 KQ53.A32..KT9543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "8"]
+[Auction "S"]
+2C X 3C Pass
+4C AP
+[Play "W"]
+DA D2 D3 C3
+H5 HQ H4 HA
+H8 C6 H6 H3
+DK DQ D4 H2
+HK CA H7 S3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "52"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKT3.5.AKT85.A42 Q742.AKQ3.J2.KJ9 6.JT864.Q976.853 J985.972.43.QT76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Auction "W"]
+1D X 3D Pass
+5D AP
+[Play "N"]
+HK H4 H2 H5
+D2 D6 D3 D5
+H3 H6 H7 DT
+S2 S6 S5 SA
+S4 C3 S8 SK
+S7 D7 S9 ST
+HQ H8 H9 D8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "52"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKT3.5.AKT85.A42 Q742.AKQ3.J2.KJ9 6.JT864.Q976.853 J985.972.43.QT76"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "5"]
+[Auction "W"]
+1C 1NT Pass Pass
+X AP
+[Play "E"]
+HJ H2 H5 HQ
+C8 C6 CA CK
+D6 D4 DK D2
+D7 D3 DA DJ
+DQ S5 D8 S4
+D9 H7 DT S2
+C3 H9 D5 H3
+S6 S8 SK S7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "53"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ3.Q9742.9652.3 842.5.QJ4.AKT765 65.AKJ8.T73.QJ92 KQT97.T63.AK8.84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1C 1H 1S 4H
+Pass Pass X Pass
+4S AP
+[Play "W"]
+HQ H5 HK H3
+SJ S2 S5 ST
+D6 D4 DT DA
+H2 S4 H8 H6
+D2 DJ D3 DK
+H4 S8 HJ HT
+C3 CA C2 C4
+S3 CK C9 C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "53"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ3.Q9742.9652.3 842.5.QJ4.AKT765 65.AKJ8.T73.QJ92 KQT97.T63.AK8.84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 2S AP
+[Play "W"]
+H4 H5 HA H3
+S3 S2 S5 SK
+D2 D4 -  DK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "54"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:82.QJ762.Q84.A63 K.AT83.AT6532.84 QJ653.K954.K.JT9 AT974..J97.KQ752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 3D Pass 3H
+Pass 3NT AP
+[Play "W"]
+H6 H8 HK S4
+CA C4 CJ CQ
+C6 C8 C9 CK
+D4 D2 DK D9
+HJ HA H4 C2
+D8 DA S5 DJ
+DQ D3 S3 D7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "54"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:82.QJ762.Q84.A63 K.AT83.AT6532.84 QJ653.K954.K.JT9 AT974..J97.KQ752"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+Pass 1S Pass 2D
+Pass 2S Pass 3D
+Pass 5D AP
+[Play "E"]
+CJ CK CA C8
+DK D7 D4 DA
+C9 CQ C3 C4
+CT C2 C6 D2
+S3 S4 S2 SK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "55"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AK9542.Q6.T.T875 QJ.AKT82.632.K32 T873.J973.K75.Q9 6.54.AQJ984.AJ64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "11"]
+[Auction "S"]
+1D 1S 2H 2S
+3D 3S 4D AP
+[Play "W"]
+SK SJ S3 S6
+SA SQ S8 D4
+H6 HA H3 H4
+DT D2 D5 DQ
+C5 CK C9 C4
+S2 D3 D7 DJ
+S4 D6 DK DA
+HQ HK H7 H5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "55"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AK9542.Q6.T.T875 QJ.AKT82.632.K32 T873.J973.K75.Q9 6.54.AQJ984.AJ64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Auction "S"]
+1D 2S 3H 3S
+4D Pass 5D AP
+[Play "W"]
+SA SJ S3 S6
+SK SQ S7 D4
+H6 HA H3 H5
+DT D2 D5 DJ
+HQ HK H7 H4
+S2 D3 D7 DQ
+S4 D6 DK DA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "56"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ64.A8.AT65.KT6 JT2.Q732.K7.J743 A853.J54.Q92.Q82 97.KT96.J843.A95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1S Pass
+3S Pass 3NT Pass
+4S AP
+[Play "S"]
+S7 SK S2 S3
+D8 D5 DK D2
+S9 S4 SJ SA
+H6 SQ ST S5
+D3 D6 D7 DQ
+D4 DA H3 D9
+CA C6 C3 CQ
+DJ DT C4 S8
+C5 CT CJ C2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "56"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQ64.A8.AT65.KT6 JT2.Q732.K7.J743 A853.J54.Q92.Q82 97.KT96.J843.A95"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1NT Pass 2C Pass
+2S Pass 4S AP
+[Play "N"]
+C3 C2 CA C6
+H3 H4 H9 HA
+S2 S3 S7 SK
+ST S5 S9 SQ
+SJ SA C5 S4
+DK DQ D3 D5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "57"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQJ65.KT876.J5.9 A2.954.K72.AJT82 T73.AQ3.Q8.Q7653 984.J2.AT9643.K4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1NT Pass 2S X
+2NT Pass 3C Pass
+3D Pass Pass 3H
+Pass 4S AP
+[Play "S"]
+CK C9 C8 C3
+D4 D5 DK D8
+DA DJ D7 DQ
+S4 SK SA S3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "57"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQJ65.KT876.J5.9 A2.954.K72.AJT82 T73.AQ3.Q8.Q7653 984.J2.AT9643.K4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "8"]
+[Auction "N"]
+1D Pass 2D X
+3D X 5D AP
+[Play "E"]
+S7 S8 SJ SA
+C3 CK C9 C2
+C7 C4 D5 CJ
+ST S4 SK S2
+HQ H2 H7 H4
+HA HJ H6 H5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "58"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q96.J654.4.QT932 873.KQ.K965.A765 KJT4.A932.T82.J4 A52.T87.AQJ73.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+CT C5 CJ CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "58"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q96.J654.4.QT932 873.KQ.K965.A765 KJT4.A932.T82.J4 A52.T87.AQJ73.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+CT C5 CJ CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "59"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKT9.AKT52.KQT.4 5.Q984.A6.AKQ963 J8732.J6.J732.T7 Q64.73.9854.J852"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass 1H 2C Pass
+Pass X Pass 2S
+3C 4S AP
+[Play "S"]
+C2 C4 CQ C7
+C5 S9 CA CT
+S4 SA S5 S2
+S6 SK C3 S3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "59"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKT9.AKT52.KQT.4 5.Q984.A6.AKQ963 J8732.J6.J732.T7 Q64.73.9854.J852"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1H 3C Pass
+Pass X Pass 3H
+Pass 4H X Pass
+5C X AP
+[Play "E"]
+CT CJ C4 C3
+H6 H3 HK H4
+S8 S4 SK S5
+D2 D4 DK DA
+C7 C8 H2 C6
+HJ H7 HA H9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "60"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:96.Q863.Q732.A65 QT7.J94.JT54.KJ7 KJ84.AK52.6.T842 A532.T7.AK98.Q93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1H X
+3C Pass 3H AP
+[Play "S"]
+DA D2 D4 D6
+C3 C5 CK C4
+CQ CA C7 C8
+SA S6 S7 SJ
+C9 C6 CJ C2
+DK D3 D5 H2
+H7 H3 H4 HA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "60"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:96.Q863.Q732.A65 QT7.J94.JT54.KJ7 KJ84.AK52.6.T842 A532.T7.AK98.Q93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 2H X
+Pass 3D 3H AP
+[Play "N"]
+H4 H2 HT HQ
+S7 S4 S3 S9
+ST S8 SA S6
+C7 C2 CQ C6
+CK C4 C3 CA
+H9 HA H7 H3
+SQ SK S5 C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "61"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ3.54.T2.KT7642 642.AKQ63.Q875.A KT985.T87.94.Q98 Q7.J92.AKJ63.J53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1H Pass 2D Pass
+4C Pass 4H AP
+[Play "E"]
+C8 C3 C7 CA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "61"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ3.54.T2.KT7642 642.AKQ63.Q875.A KT985.T87.94.Q98 Q7.J92.AKJ63.J53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "11"]
+[Auction "N"]
+1H Pass 2D Pass
+3S Pass 4H Pass
+4NT Pass 5H Pass
+6D AP
+[Play "W"]
+SA S2 S5 S7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "62"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q976.A87.KQ74.A2 KT853.KQJT3.3.85 42.642.J82.KJ764 AJ.95.AT965.QT93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT X 2NT
+Pass 3C Pass 3H
+Pass 3NT AP
+[Play "W"]
+DK D3 D2 D6
+D4 S3 DJ DA
+H7 H3 H6 H9
+HA HT H2 H5
+H8 HJ H4 C3
+S6 HQ C4 C9
+C2 HK C7 D5
+CA C5 C6 CQ
+S9 ST S2 SJ
+S7 S5 S4 SA
+DQ C8 D8 DT
+D7 S8 CJ D9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "62"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q976.A87.KQ74.A2 KT853.KQJT3.3.85 42.642.J82.KJ764 AJ.95.AT965.QT93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass 1D X 1S
+Pass 2C Pass 2H
+Pass 2S AP
+[Play "E"]
+D8 DA D4 D3
+H4 H5 H8 HK
+H2 H9 HA HT
+D2 D5 DQ S3
+S2 SA S6 S5
+S4 SJ S7 SK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "63"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:963.852.6.KQJ752 AKQJ.Q9.QT953.A6 85.AT6.KJ82.9843 T742.KJ743.A74.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "7"]
+[Auction "S"]
+Pass 3C X 5C
+X AP
+[Play "N"]
+SK S5 S4 S3
+SQ S8 ST S6
+HQ H6 H7 H5
+H9 HA H4 H8
+CA C3 CT CK
+D3 DK DA D6
+D5 HT HJ H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "63"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:963.852.6.KQJ752 AKQJ.Q9.QT953.A6 85.AT6.KJ82.9843 T742.KJ743.A74.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "7"]
+[Auction "S"]
+Pass 3C X 3D
+4C Pass 4S 5C
+Pass Pass X AP
+[Play "N"]
+CA C3 CT C7
+SK S5 S2 S6
+SQ S8 ST S9
+HQ HA H4 H8
+C6 C4 H3 CK
+SJ C8 S4 S3
+H9 H6 HK H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "64"]
+[West "Stansby"]
+[North "Rosenberg"]
+[East "Martel"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J53.Q5.9876.KQ63 AK.AKJ43.KJ4.T92 Q986.9872.T.J854 T742.T6.AQ532.A7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+C5 CA C3 C2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Long Beach CA:Long Beach Convention Center"]
+[Date "2003.07.??"]
+[Board "64"]
+[West "Balicki"]
+[North "Weichsel"]
+[East "Zmudzinski"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J53.Q5.9876.KQ63 AK.AKJ43.KJ4.T92 Q986.9872.T.J854 T742.T6.AQ532.A7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+Pass 1C Pass 2D
+Pass 2H Pass 2NT
+Pass 3D Pass 3H
+Pass 4D Pass 5C
+Pass 6D AP
+[Play "W"]
+CK C2 C4 CA
+D6 DK DT D2
+D7 DJ C5 D3
+D9 D4 C8 DA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

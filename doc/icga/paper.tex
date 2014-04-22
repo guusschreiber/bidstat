@@ -1,0 +1,515 @@
+\documentclass{icga}
+
+\usepackage{mystyle}
+\renewcommand{\secref}[1]{Section~\ref{sec:#1}}
+\renewcommand{\figref}[1]{Figure~\ref{fig:#1}}
+
+\title{COMPETITIVENESS IN BRIDGE BIDDING \\ AN HISTORICAL ANALYSIS}
+\runningtitle{Competitiveness in bridge bidding}
+\author{Guus Schreiber}
+\affiliation{VU University Amsterdam, Computer Science \\
+                E-mail: \instance{guus.schreiber@vu.nl}}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  In this article we analyse bridge records to study the competitive
+  nature of bridge bidding and how this has changed over time.  As
+  dataset we use a collection of 19,000 records of deals played in
+  Bermuda Bowl World Championships competitions from 1955-2013.  The
+  input data is in PBN format and is processed in several steps to be
+  able to perform a content-based analysis of the auction and the
+  hands involved.  We view this work as a small first step towards a
+  more empirical analysis of bridge bidding.  All data and software of
+  this study are publicly available through GitHub.
+\end{abstract}
+
+\section{Introduction}
+
+Expert bridge players regularly discuss the fact that bridge bidding
+has changed over the years, for example that auctions have become much
+more competitive. This statement is almost certainly true, but there
+exists little to no empirical evidence to support this claim. The
+objective of this article is to analyse historical records of expert
+bridge bidding in order to provide such evidence. An example of a
+concrete question we would like to answer is: can we show
+that the frequency of opening a balanced hand with 11-12 HCP has
+increased? In order to answer such questions we need to analyse for
+each deal both the hands and the auction. As a consequence we require
+some limited form of reasoning on top of database querying.  In this
+study we achieve this by manipulating the data in a Prolog database.
+As input data we use here a set of some 19,000 hand records played
+during Bermuda Bowl championships in te period 1955-2013.
+
+Taking a wider perspective, we see this study as one possible step
+towards a more evidence-based approach to the theory of bridge
+bidding. Through channels such as Bridge Base Online
+(BBO)\footnote{\url{http://www.bridgebase.com}} more and more hand
+records become available for analysis. This provides us with data that
+can be used to analyse the effectiveness of particular bidding
+agreements. An example would be a comparison of the Multi opening and
+the natural Weak Two.
+
+In the next section we discuss the overall approach. \secref{data}
+describes the data and the data processing methods.  In
+\secref{analysis} we use the processed data to gather statistical
+information about four specific research questions related to the
+competitive nature of bridge bidding.  \secref{discussion} discusses
+the results and limitations of this study. We also reflect on posible
+future directions.
+   
+All data and software of this study can be found in a GitHub
+repository%
+\footnote{\url{https://github.com/guusschreiber/bidstat}}.
+
+
+\section{Approach}
+\label{sec:approach}
+
+As input we use hand records encoded in the Portable Bridge
+Notation version 2.1 \citebay{pbn21}. This plain-text notation is derived
+from a popular notation for chess (PGN) and adapted to bridge by
+members of the Internet newsgroup
+\instance{rec.games.bridge}. Numerous people have published sets of
+hand records in PBN format. Another popular format is the LIN (.lin)
+format used by BBO. Converters between PBN and LIN exist.
+
+Each hand record contains metadata about the event (e.g., time, place,
+tournament), the table (e.g., player names) and the deal (e.g.,
+vulnerability, hands, auction, play).  In this study we focus on data
+about hands and auction. We process the PBN data in four steps:
+
+\begin{enumerate}
+\item We first transform the PBN text with an information-preserving
+  Perl parser into a set of Prolog clauses. We opt for Prolog because
+  Prolog-style data manipulation is well suited for the type of
+  reasoning we need to do with the data.
+\item In the second step we derive for each deal facts about
+  the hands and the auction, for example that the player in second
+  position has an \type{unbalanced} hand with a \type{1-2-4-6}
+  distribution and \type{8 HCP}, and has made a \type{jump overcall}
+  at the \type{3 level}.
+\item Subsequently, we create data tables that contain for every deal
+  the year and one or more values for a particular bidding feature,
+  such as whether a player has made a \type{preemptive bid}.
+\item In the final step we process the data tables with statistical
+  software (spreadsheets for simple operations, R for more complex
+  statistical manipulations).
+\end{enumerate}
+
+In the next section we discuss the data processing performed in step 2
+in more detail.
+
+\section{Data}
+\label{sec:data}
+
+In this study we analyse 19,223 hand records\footnote{%
+  The PBN files contained 19,724 records; 501 records were put aside
+  because no (correct) hand or auction information was available in
+  the record.}  from 24 Bermuda Bowls over a period of almost 60 years (see
+\tblref{data}).  The number of deals per tournament varies; recent
+tournaments typically have more records.  We selected the Bermuda Bowl
+as dataset because it is the only tournament for which data is
+available over a long period of time.
+
+\begin{table}
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|r|r|r|r|r|r|r|r|}
+\hline
+\bf\ Decade/Year \ &
+\bf \ \ \ 0 \ &\bf \ \ \ 1 \ &\bf \ \ \ 2 \ &\bf \ \ \ 3 \ &\bf \ \ \ 4 \ &
+\bf \ \ \ 5 \ &\bf \ \ \ 6 \ &\bf \ \ \ 7 \ &\bf \ \ \ 8 \ &\bf \ \ \ 9 \ &
+\bf \ Total \ \\ \hline\hline
+50's &  &  &  &  &  & 448 &  & 447 &  & 312 & 1,207 \\ \hline
+60's &  &  & 576 &  &  &  &  & 256 &  &  & 832 \\ \hline
+70's &  &  &  & 256 & 192 & 191 &  & 192 &  & 192 & 1,023 \\ \hline
+80's &  & 192 &  & 352 &  &  &  & 350 &  &  & 894 \\ \hline
+90's &  & 135 &  &  &  & 313 &  & 1,209 &  &  & 1,657 \\ \hline
+00's & 702 & 297 &  & 1,470 &  & 1,968 &  & 1,526 &  & 3,109 & 9,247 \\ \hline
+10's &  & 3,293 &  & 1,245 &  &  &  &  &  &  & 4,538 \\ \hline\hline
+Total &  &  &  &  &  &  &  &  &  &  & 19,223 \\ \hline
+\hline
+\end{tabular}
+\caption{Hand records used in this study. Rows indicate decades;
+  columns a particular year within  a decade. Hand records with
+  incomplete or erroneous hand or auction data have been left out.}
+\label{tbl:data}
+\end{table}
+
+From each record the following data is used in this study: 
+\begin{itemize}
+\item year in which it was played
+\item the four hands (list with dealer first)
+\item vulnerability
+\item auction, including final contract and declarer
+\end{itemize}
+
+The data is represented in a computation-friendly way. For example,
+the auction is represented as a list of numbers. Here is one sample
+auction\footnote{%
+  Auction on board 1 of the 1955 Bermuda Bowl between USA and Great
+  Britain. NS: Mathe-Rosen; EW: Reese-Shapiro.}:
+
+\begin{code}
+    [12,13,7,0,0,21,22,31,32,0,0,0]
+\end{code}
+
+Each number encodes a bid: 12 stands for 1$\diamondsuit$, 13 for
+1$\heartsuit$, 21 for 2$\clubsuit$, etc. The numbers 0 and 7 encode a
+pass and a double, respectively\footnote{%
+  The bid codes are chosen in such a way that \texttt{code modulo 10}
+  gives a unique denomination (suit 1-4; NT: 5; double: 7; redouble:
+  8), and \texttt{code div 10} gives the level.}.
+
+For each record we derived three types of additional facts: 
+\begin{itemize}
+\item hand features that can be established from the 13 cards of one
+  player, e.g. high-card points (HCP), distribution,
+  balanced/semi-balanced/unbalanced, 1/2/3-suited;
+\item features of a bid independent of the auction, e.g.  major/minor,
+  level;
+\item features of a bid dependent on the auction, e.g. opening,
+  overcall (direct, ``live''), jump (single/double/...).
+\end{itemize}
+ 
+These features form the basis for generating the data tables used for
+empirical analysis. 
+
+\section{Analysis}
+\label{sec:analysis}
+
+\subsection{Preliminaries}
+
+As stated, our objective is to analyse whether competitive bidding
+style has changed over time.  Before diving into this we need to
+consider whether the fact that in earlier days hands were not
+computer-dealt influences the dataset. We have not studied this
+feature in every detail, but \tblref{balanced-first-hand} gives some
+indication. In this table we see the frequency of the dealer holding a
+balanced hand. The frequencies in the table suggest there is no strong
+effect of dealing by hand (or at least in the Bermuda Bowl shuffling
+was done well). In fact, if we aggregate the data in two subsets,
+``seventies and before'' and ``eighties and later'', we see that both
+sets have the same frequency (0.47) of balanced hands. Nevertheless,
+when we formulate concrete research questions we will take care that,
+whenever possible, this factor is ruled out or minimized.
+
+\begin{table}
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|}
+\hline
+\bf \ Decade \ & \bf \ Balanced \ & \bf \ Total \  & \bf \ \% Balanced \ \\ \hline 
+50-59 & 607 & 1,207 & 0.50 \\
+60-69 & 290 & 832 & 0.35 \\
+70-79 & 531 & 1,023 & 0.52 \\
+80-89 & 392 & 894 & 0.44 \\
+90-99 & 774 & 1,657 & 0.47 \\
+00-09 & 4,418 & 9,072 & 0.49 \\
+10-13 & 2,078 & 4,538 & 0.46 \\ 
+\hline
+Total & 9,090 & 19,223 &  \\
+\hline
+\end{tabular}
+\caption{Frequency of the dealer holding a balanced hand (4333, 4432
+  or 5332).} 
+\label{tbl:balanced-first-hand}
+\end{table}
+
+For this study we selected four concrete questions to get insight into
+the overall issue of competitiveness:
+\begin{enumerate}
+\item How frequent is a balanced hand with 11-12 HCP opened in first
+  and second position?
+\item In cases where the dealer holds a six-card suit with 0-9 HCP, is
+  the hand opened and at what level? 
+\item How frequent are preemptive bids? Also, what is the relationship
+  between suit length and level in preemptive bids? 
+\item Whats is the frequency of contested auctions (i.e. auctions in
+  which both sides participate)?   
+\end{enumerate}
+
+The questions cover by no means the full spectrum of competitiveness,
+but will hopefully give us some insight into the issue.   
+
+\subsection{Opening a balanced hand with 11-12 HCP}
+
+We start off by tackling a topic which is accepted as common wisdom:
+nowadays balanced hands with 11 or 12 HCP are opened much more
+frequent in first and second hand.  \tblref{opening-11-12-bal-2} shows
+the results. About 12.5\% (2427) of the records fit the profile. Note
+that we only consider the second hand if the first hand does not fit
+the ``11-12 balanced'' profile; otherwise the action of the first hand
+would biase the outcome.  The frequencies are aggregated per decade.
+
+\begin{table}
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|r|}
+\hline
+\bf \ Decade \ & \bf \ Pass \ & \bf \ Opening \ & \bf \ Total \  & 
+\bf \ \% Opened \ \\ \hline 
+50-59 & 105 & 66 & 171 & 0.39\\
+60-69 & 44 & 44 & 88 & 0.50\\
+70-79 & 74 & 80 & 154 & 0.52\\
+80-89 & 47 & 61 & 108 & 0.56\\
+90-99 & 60 & 133 & 193 & 0.69\\
+00-09 & 340 & 803 & 1143 & 0.70\\
+10-13 & 164 & 354 & 518 & 0.68 \\ 
+\hline
+Total & 834 & 1,541 & 2,375 & \\ 
+\hline
+\end{tabular}
+\caption{Frequency op opening a balanced with 11-12 HCP in first
+  or second position.}
+\label{tbl:opening-11-12-bal-2}
+\end{table}
+
+The percentages in the table suggest that a major change in style took
+place in the nineties, when the frequency of opening 11-12 balanced
+hands went up from ``about half'' to ``about two-third''. After the
+nineties no major change appears to have taken place.  The results
+also suggest that there was a marked increase in frequency in the
+sixties.
+ 
+\subsection{Opening a hand with a  6-card and 0-9 HCP}
+
+For the second question we select hand records in which the dealer has
+some 6-card and less than 10 HCP. The reason we only look at the
+dealer position is because in other positions the variation of the
+previous bids could easily biase the results (or better: we lacked the
+time and energy to consider all the consequences of such a situation).
+If the hand was opened we record the level at which it was opened,
+which ranged from 1-4.
+
+\begin{table}
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|r|r|r|r|r|r|r|r|}
+\hline
+\bf \ Decade \ & 
+\multicolumn{2}{|c|}{\bf \ Pass \ }  &
+\multicolumn{2}{|c|}{\bf \ 1 level \ } &
+\multicolumn{2}{|c|}{\bf \ 2 level \ } &
+\multicolumn{2}{|c|}{\bf \ 3 level \ } &
+\multicolumn{2}{|c|}{\bf \ 4 level \ } &
+\bf \ Total \  \\ 
+\cline{2-11} &
+\bf \ \ \# \ &\bf \ \ \% \ &
+\bf \ \ \# \ &\bf \ \ \% \ &
+\bf \ \ \# \ &\bf \ \ \% \ &
+\bf \ \ \# \ &\bf \ \ \% \ &
+\bf \ \ \# \ &\bf \ \ \% \ &
+\\ \hline\hline
+50-59& 89&0.86&2&0.02&10&0.10&3&0.03&0&0.00&104 \\ \hline
+60-69& 57&0.84&2&0.03&5&0.07&4&0.06&0&0.00&68 \\ \hline
+70-79& 69&0.86&0&0.00&8&0.10&3&0.04&0&0.00&80 \\ \hline
+80-89& 32&0.64&6&0.12&8&0.16&4&0.08&0&0.00&50 \\ \hline
+90-99&76&0.69&4&0.04&19&0.17&11&0.10&0&0.00&110\\ \hline
+00-09&452&0.62&35&0.05&196&0.27&37&0.05&4&0.01&724 \\ \hline 
+10-13&194&0.58&14&0.04&87&0.26&37&0.11&4&0.01& 336  \\ \hline
+\hline
+Total & 969 && 63 && 333 && 99 && 8 && 1,472 \\ \hline 	
+\end{tabular}
+\caption{Absolute and relative frequencies of dealer actions with a
+  6-card suit and less than 10 HCP. Data is aggregated per decade.}
+\label{tbl:weak-two-1st}
+\end{table}
+
+\tblref{weak-two-1st} lists the results, again aggregated per decade.
+About 7.5\% (1472) of the records match the profile. Since the
+eighties there is a marked increase in the frequency with which these
+hands are opened.  Unfortunately, the number of deals for the eighties
+is very low. On manual inspection most hands that were opened at the
+1-level turn out to be non-standard cases from the 1987 Bermuda Bowl.
+It is therefore more useful to look at the openings at the higher
+levels.
+
+\insertfig{weak-two-1st}{12cm}{Cumulative frequencies of for a
+  2/3/4-level opening with a  6 card and less than 10 HCP. Data is
+  aggregated per decade.}
+
+\figref{weak-two-1st} shows the cumulative frequencies for opening
+these hands at the 2/3/4-level.  Unlike the 11-12 balanced hands the
+frequency appears to keep rising after the initial increase.  Also,
+the frequency with which such a hand is opened at the 3-level is
+increasing. If we check the data for the non-vulnerable
+situation\footnote{%
+  These data are not included in the paper; see the results/bb directory
+  in the GitHub repository} this trend is even more prominent. For
+example, in 2013 14 of these hands were opened at the 3-level, whereas
+only 6 at the 2-level.
+
+\subsection{Preempts}
+
+Our third question is related to the previous one, but is more
+generally aimed at the frequency and nature of preempts. Giving a
+precise definition of the notion of preempt is not trivial. In this
+study we consider a bid to be a preempt if it satisfies the following
+conditions: (1) it is a jump bid in a suit; (2) the bid is either an
+opening or an overcall\footnote{%
+  Overcalls can be ``direct'' (2$^{nd}$ position, after an opening) or
+  ``live'' (4$^{th}$ position, after an opening and a response)}; (3)
+the bidder has less than 10 HCP; (4) the bid is made in the first
+round of bidding.  This definition might be overly restrictive (for
+example, a weak jump bid after an original pass is not considered a
+preempt), but at least we know with high certainty that it is indeed a
+preemptive bid.
+
+We also want to get information about the relationship between suit
+length and the level at which the preempt is made. To this end we
+compute for each preempt the L value, which we define as the length of
+the longest suit minus the level at which the bid is made.  Thus, a
+low value of L indicates an aggressive preempt.
+
+\begin{table}
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|c|c|}
+\hline
+\bf \ Decade \ & \bf Preempt \ & \bf Total  \ & 
+\bf \% Preempt & \bf \ L (mean) \  \\ 
+\hline\hline
+50-59 & 74 & 1,207 & 0.06 & 3.82 \\ 
+60-69 & 38 & 832& 0.05 & 3.87 \\
+70-79 & 52 & 1,023 & 0.05 & 3.79 \\
+80-89 & 69 & 894 & 0.08 & 3.61 \\
+90-99 & 143 & 1,657 & 0.09 & 3.71 \\
+00-09 & 955 & 9,072 & 0.11 & 3.82 \\ 
+10-13 & 533 & 4,538 & 0.12 & 3.50 \\
+\hline
+Total  & 1,864 & 19,223 &  & \\ 
+\hline
+\end{tabular}
+\caption{Frequency of preempts, aggregated per decade. The last column
+lists the mean of the length of the longest suit minus the level at
+which the preempt is made (the L value).}
+\label{tbl:preempt}
+\end{table}
+
+\tblref{preempt} shows the results for the Bermuda Bowl data set. The
+frequency of preempts appears to have increased constantly since the
+eighties. Over the course of six decades the frequency has roughly
+speaking doubled. It should be pointed out that this query might be
+biased somewhat due to the manual dealing of hands in older
+tournaments. However, the increase is much larger than could be
+explained by this bias (if there is such a bias at all, see
+\tblref{balanced-first-hand}),
+
+It is difficult to draw conclusions from the mean L values. Given the
+earlier results we would expect a decrease, but in particular the data
+from the period 2000-2009 do not support this.  We see a decrease in
+recent years, but more data is needed to verify that this is not an
+accidental result.  We should also point out that the L value
+overestimates two-suited hands.  For now we can only state that
+the length/level property of preempts needs to be studied in more
+depth in a follow-up study.
+
+\subsection{Contested auction}
+
+Finally, we look at the frequency of contested auctions, i.e.,
+auctions in which both sides participate. Defining what precisely a
+contested auction is requires some care. We like to exclude doubles of
+final contracts after some rounds of bidding. We decided to take only
+the first two rounds of bidding into account and consider it contested
+if both sides make some non-pass bid. This definition has some minor
+flaws; for example, it will count a lead-directing double of Stayman
+as a contested auction.  Deals which are passed all round are
+considered ``non applicable'' (51 deals in this dataset).
+
+\begin{table}[hb]
+\centering\footnotesize
+\begin{tabular}{|c|r|r|r|r|}
+\hline
+\bf \ Decade \ & \bf \ Contested \ & \bf \ Total \  & 
+\bf \ \% Contested \ \\ \hline
+50-59 & 561 & 1,194 & 0.47 \\
+60-69 & 363 & 831 & 0.44\\
+70-79 & 523 & 1,016 & 0.51\\
+80-89 & 490 & 887 & 0.55\\
+90-99 & 825 & 1,650 & 0.50\\
+00-09 & 4,783 & 9,063 & 0.53\\
+10-13 & 2,240 & 4,531 & 0.49\\
+\hline
+Total  & 9,785 & 19,172 & \\ 
+\hline
+\end{tabular}
+\caption{Frequency of contested auctions, aggregated per
+decade. Passed hands (51 in total) are left out.}  
+\label{tbl:contested-auction}
+\end{table}
+
+\tblref{contested-auction} shows the results. We expected to see a
+marked increase, but this is not a completely obvious result if we
+look at the aggregated frequencies in the table. Given the fact that
+the number of hand records per tournament has a relatively high
+variation we decided to do an additional analysis, using a more
+stratified method. We partition the complete dataset into subsets of
+200 records, ordered by year. For each subset we compute the average
+year and \% of contested auctions.
+
+\insertfig{contested-auction}{12cm}{Scatterplot and regression
+  line of the relation between year (X-axis) and frequency of a
+  contested auction (Y-axis). Each circle stands for a set of 200 hand
+  records. P-value of the linear model: 0.0324}
+
+\figref{contested-auction} shows the results of this second analysis
+in the form of a scatterplot with a regression line. Each circle
+represents one subset of 200 records. The linear model represented by
+the regression line shows a small increase of contested auctions over
+time. The model has p-value of 0.324, which suggests that the model
+falls within the 95\% confidence interval. We conclude that the
+expected increase over time is not inconsistent with the data, but
+that the increase rate is not as large as one might have thought
+(from 47.5\% to 52\% in the period 1955-2013 according to the estimated model).
+
+\section{Discussion}
+\label{sec:discussion}
+
+The results of this study basically confirm our intuitions. Some
+nuances are interesting though. The style of opening light balanced
+hands has not really changed since the nineties, whereas preemptive
+styles still seem to keep evolving. Also, we probably underestimate
+how competitive the auctions of our predecessors were.
+
+From our perspective the main point of the paper is that \emph{this
+type of study can be done} . In this analysis we have only used a
+fraction of the hand records available online. Services like BBO
+produce more data every week.  We should take advantage of these data
+to work on a more evidence-based approach to the theory of bridge
+bidding.  Let's put our bidding conventions to the test. To do this we
+would need to take into account the result of the board (information
+not used in this study). The author intends to study the effectiveness
+of the Multi 2$\diamondsuit$ in a follow-up study.  In general, we
+would like to make a plea for a community effort to share software and
+data in order to make large-scale empirical analysis possible.
+
+This study has a number of limitations. Firstly, a significant number
+of hand records contains errors. We have tried to detect these records
+automatically, but it is almost certain that we missed out on some.
+This may have influenced the results, although it is unlikely it will
+have had a large effect. Secondly, due to the uneven distribution of
+hands over the time periods in the study the result have to be
+interpreted with some care, in particular those about subsets of hand
+records. Thirdly, the size of the Bermuda Bowl has grown over time,
+with more and more teams participating. This may have lowered the
+average level of expertise of the players involved and thus biased the
+results of this study.
+
+\emph{Note for reviewers: this paper does not have a related work
+  section. This is of course highly unusual; unfortunately the aiuthor
+  is unaware of related work in the bridge area. The author would be
+  extremely grateful for pointers. }
+
+
+
+\paragraph{Acknowledgements}
+
+This study would not have been possible without the work of a
+dedicated group of enthousiasts, who have started collecting hand
+records and making these publicly available. In particular, the author
+gratefully acknowledges the support of Richard van Haaastrecht who
+provided through his website\footnote{%
+\url{http://www.bridgetoernooi.com/}} the data for this study.
+
+\bibliography{bridge}
+
+\end{document}

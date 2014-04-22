@@ -1,0 +1,57 @@
+\def\type#1{{\textbf{#1}}}
+\def\instance#1{\texttt{\small #1}}
+\def\slot#1{\textsf{#1}}
+
+\def\todo#1{TODO: #1}
+
+%----------------------------------------------------------------------
+%   References
+%----------------------------------------------------------------------
+
+\newcommand{\secref}[1]{Sec.~\ref{sec:#1}}
+\newcommand{\figref}[1]{Fig.~\ref{fig:#1}}
+\newcommand{\tblref}[1]{Table~\ref{tbl:#1}}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  			FIGURES AND TABLES 			%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.png,.jpg,.pdf}
+\graphicspath{{figs/}{./}}
+
+\def\insertfig#1#2#3{%
+  \begin{figure}[htb]
+    \centerline{\includegraphics[width=#2]{#1}}
+    \caption{\small #3}
+    \label{fig:#1}
+  \end{figure}}
+
+
+%----------------------------------------------------------------------
+%   CODE environment
+%----------------------------------------------------------------------
+
+%	just like verbatim, but indents like quote.
+%	allows also the use of leading tabs
+
+{\catcode`\^^I=\active
+    \gdef^^I{\mbox{}\space\space\space\space\space\space\space\space}}
+
+\begingroup \catcode `|=0 \catcode `[= 1
+\catcode`]=2 \catcode `\{=12 \catcode `\}=12
+\catcode`\\=12
+|gdef|@xcode#1\end{code}[#1|end[code]]
+|endgroup
+
+\def\@code{\trivlist \item[]\if@minipage\else\vskip\parskip\fi
+\leftskip\@totalleftmargin\rightskip\z@
+\parindent\z@\parfillskip\@flushglue\parskip\z@
+\@tempswafalse \def\par{\if@tempswa\hbox{}\fi\@tempswatrue\@@par}
+\obeylines \catcode`\^^I=\active \ttfamily \let\do\@makeother \dospecials}
+
+\def\code{\quote \footnotesize \@code \frenchspacing\@vobeyspaces \@xcode}
+\def\@endcode{\endtrivlist\mbox{}\endquote}
+\let\endcode=\@endcode
