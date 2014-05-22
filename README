@@ -1,5 +1,5 @@
 AUTHOR: Guus Schreiber 
-guus.schreiber@vu.nl 
+guus.schreiber@vu.nl / schreiber.guus@gmail.com
 http://www.cs.vu.nl/~guus/
 
 OBJECTIVE
@@ -34,25 +34,37 @@ clause, preserving all information. Subdirectories contain the various
 Note: I'm not an experienced Perl program. The code is certainly not
 optimal nor efficient.  
 
-2. main.pl 
+2. Prolog files
+
+main.pl 
 Main file of a Prolog program (written for SWI-Prolog),
-that does three things:
 
 process.pl: 
 extract the relevant information per deal for analyzing the bidding 
+
+check.pl
+tries to find errorneous deals
 
 definitions.pl: 
 derive characteristics of the deal relevant for analyzing
 the bidding 
 
+profile.pl
+Support predicates for describing a hand/bid profile, to be used for 
+generating queries
+
 statistics.pl
 Prolog predicates that generate text files in table format
 that can be used as input for R. These are stored in the results
-subdirectory 
+subdirectory results/..
+
+aux.pl
+support predicates
+
 
 3. data analysis
-- spreadsheets for frequencies etc
-- R for complex statitical manipulations, e.g.:
-  partition.r
+
+- bisstat.R
+contains R scripts for analysiing the tables
 
 
