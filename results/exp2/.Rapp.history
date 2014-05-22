@@ -1,0 +1,22 @@
+source("../../tmp.R")
+bs.compare.all("wt1.txt")
+bs.bidcompare.all("wt1.txt")
+source("../../tmp.R")
+bs.bidcompare.all("wt1.txt")
+source("../../tmp.R")
+bs.bidcompare.all("wt1.txt")
+bs.bidcompare.all("mb1.txt")
+y <- read.table("wt1.txt",header=TRUE)
+y <- within(y, {
+timps = imps * n2})
+head (y)
+sum(y$timps)
+y
+aggregate(timps, by+list(id), FUN=sum)
+aggregate(y$timps, by=list(y$id), FUN=sum)
+sum(y$timps)
+scipen(999)
+optiond(scipen(999))
+options(scipen(999))
+scipen  <- 999
+aggregate(y$timps, by=list(y$id), FUN=sum)

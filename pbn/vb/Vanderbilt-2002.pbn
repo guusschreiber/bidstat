@@ -1,0 +1,8568 @@
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "1"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQJ.J42.KQ9754.7 K9875.T9..QJT852 64.AKQ5.J862.AK6 T32.8763.AT3.943"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "N"]
+Pass 1NT Pass 3C
+X 3D Pass 4D
+Pass 4NT Pass 6D
+AP
+[Play "S"]
+C3 C7 CT CA
+D3 DK C2 D2
+DA D4 C5 DJ
+*
+[Description "2002 Vanderbilt"]
+[Stage "F:1"]
+[HomeTeam "Milner"]
+[VisitTeam "Nickell"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "1"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQJ.J42.KQ9754.7 K9875.T9..QJT852 64.AKQ5.J862.AK6 T32.8763.AT3.943"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "N"]
+Pass 1NT Pass 3C
+X 3D Pass 4C
+Pass 4H Pass 4S
+X Pass Pass XX
+Pass 4NT Pass 5S
+Pass 6D AP
+[Play "S"]
+S2 SA S8 S4
+H3 HJ HT H5
+H6 H2 H9 HQ
+H7 H4 C2 HK
+H8 SJ C5 HA
+C3 C7 C8 CK
+C4 SQ CT CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "2"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K962.Q.Q864.AKT8 A4.K864.A93.Q962 QJT75.AJ3.JT75.5 83.T9752.K2.J743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D 1H
+1S 3H 3S Pass
+4S AP
+[Play "S"]
+HT HQ HK HA
+S3 S2 SA SJ
+DK D8 D3 D5
+D2 D4 DA D7
+S8 D6 D9 DT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "2"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K962.Q.Q864.AKT8 A4.K864.A93.Q962 QJT75.AJ3.JT75.5 83.T9752.K2.J743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S Pass
+4S AP
+[Play "S"]
+HT HQ HK HA
+S3 S2 SA SJ
+H5 D4 H4 HJ
+-  -  -  H3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "3"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q5.AQ54.A9754.T3 KT82.K8.T6.AJ987 A964.T.K82.KQ652 J73.J97632.QJ3.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "9"]
+[Auction "S"]
+Pass 1D 1S 2C
+2S Pass Pass 3S
+Pass 4C Pass 4D
+Pass 5D AP
+[Play "N"]
+CA C2 C4 C3
+CJ CK DQ CT
+SK SA S3 SQ
+HK HT HJ HQ
+S2 S4 SJ S5
+S8 S6 S7 D4
+D6 D2 D3 DA
+DT DK DJ D5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "3"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q5.AQ54.A9754.T3 KT82.K8.T6.AJ987 A964.T.K82.KQ652 J73.J97632.QJ3.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+2H Pass Pass X
+Pass 3NT AP
+[Play "N"]
+HK HT H6 H4
+CJ CQ C4 C3
+D6 D2 DQ D5
+H8 S4 HJ HA
+CA C2 H3 CT
+DT DK D3 D4
+S2 D8 DJ DA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "4"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT42.93.K863.QT2 K95.AK72.AQ7.K63 J873.864.JT.A974 A6.QJT5.9542.J85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 2NT Pass 3C
+Pass 3H Pass 4H
+AP
+[Play "E"]
+DJ D2 D3 DQ
+H4 H5 H3 HA
+H6 HT H9 HK
+S3 SA S2 S5
+CA C5 C2 CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "4"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT42.93.K863.QT2 K95.AK72.AQ7.K63 J873.864.JT.A974 A6.QJT5.9542.J85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2C
+Pass 2H Pass 3H
+Pass 3NT AP
+[Play "E"]
+S3 S6 SQ S5
+S7 SA S2 S9
+DT D2 D3 DQ
+H4 HQ H3 H2
+CA C5 C2 CK
+S8 D4 S4 SK
+H6 HJ H9 H7
+H8 H5 D6 HK
+C4 HT ST HA
+C7 CJ CQ C3
+DJ D5 D8 DA
+C9 C8 CT C6
+SJ D9 DK D7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "5"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ9643.3.KJ94.T7 J7.QJT.A82.K9842 K82.97642.6.QJ53 T5.AK85.QT753.A6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1D 1S
+2C 2S Pass Pass
+3D AP
+[Play "W"]
+SA S7 S8 S5
+S6 SJ SK ST
+H3 HT H7 H5
+D4 DA D6 D3
+DJ D2 H6 DT
+CT CK C5 C6
+D9 HQ H2 H8
+DK D8 H4 D5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "5"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ9643.3.KJ94.T7 J7.QJT.A82.K9842 K82.97642.6.QJ53 T5.AK85.QT753.A6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 2S Pass 3D
+Pass 4S AP
+[Play "N"]
+HQ H2 H5 H3
+S7 SK S5 S3
+DA D6 D3 DJ
+SJ S2 ST SA
+D2 H4 D5 DK
+D8 S8 -  D4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "6"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T98.9632.QT2.KQ7 AKQ64.T5.A84.643 753.KJ4.J653.T82 J2.AQ87.K97.AJ95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3NT
+AP
+[Play "W"]
+H2 HT HK HA
+S8 S4 S3 SJ
+S9 SA S5 S2
+CK C3 C2 C9
+H3 H5 HJ HQ
+D2 DA D3 D7
+ST SK S7 C5
+H6 SQ H4 H7
+DT S6 D5 D9
+C7 C4 C8 CA
+DQ D4 D6 DK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "6"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T98.9632.QT2.KQ7 AKQ64.T5.A84.643 753.KJ4.J653.T82 J2.AQ87.K97.AJ95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3NT
+AP
+[Play "W"]
+H6 HT HK HA
+ST S4 S3 SJ
+S8 SA S7 S2
+S9 SK S5 D7
+C7 SQ D3 C5
+D2 S6 C8 C9
+CQ C3 C2 CJ
+DQ D4 D5 DK
+CK C4 CT CA
+DT DA D6 D9
+H2 C6 H4 H7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "7"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K84.AK92.KJT52.7 J532.43.AQ963.42 AQ97.T76.8.Q9865 T6.QJ85.74.AKJT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+Pass 1D Pass 1S
+X 2S AP
+[Play "S"]
+CA C7 C2 C5
+D7 DK DA D8
+ST SK S2 S7
+D4 DJ DQ S9
+C3 S4 C4 C6
+H5 HA H3 H6
+H8 HK H4 H7
+CT D2 D3 SQ
+CJ S8 SJ C8
+S6 D5 D6 HT
+HQ H2 D9 SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "7"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K84.AK92.KJT52.7 J532.43.AQ963.42 AQ97.T76.8.Q9865 T6.QJ85.74.AKJT3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1H 2D Pass Pass
+X Pass Pass XX
+Pass 2S AP
+[Play "N"]
+S2 S7 ST SK
+C4 C5 CJ C7
+S3 S9 S6 S4
+C2 C6 C3 S8
+DQ D8 D7 DJ
+H4 H6 HJ HA
+DA SQ D4 DK
+S5 SA CT D2
+H3 HT HQ HK
+D3 C8 CK DT
+D6 H7 H5 D5
+D9 C9 H8 H2
+SJ CQ CA H9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "8"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J.8752.AT943.K74 8654.AT43.6.A983 KT93.KJ.KJ7.JT52 AQ72.Q96.Q852.Q6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1C X
+1D 2H Pass Pass
+3D AP
+[Play "N"]
+CA C2 C6 C4
+C3 CJ CQ CK
+S5 S3 SQ SJ
+S4 S9 SA D3
+D6 D7 D2 DA
+S6 DK D5 D4
+S8 SK S2 H2
+H3 ST S7 C7
+C8 CT H9 H5
+C9 C5 DQ H7
+H4 DJ D8 D9
+HA HK H6 H8
+HT HJ HQ DT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "8"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J.8752.AT943.K74 8654.AT43.6.A983 KT93.KJ.KJ7.JT52 AQ72.Q96.Q852.Q6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "5"]
+[Auction "W"]
+Pass Pass 1C X
+1D 2D Pass 2S
+X Pass 3D Pass
+Pass 3S AP
+[Play "W"]
+SJ S4 S3 SQ
+H2 H3 HJ H9
+D4 S5 SK SA
+H5 H4 HK HQ
+H8 S6 S9 S2
+H7 S8 ST S7
+D3 D6 DK D2
+DA C3 DJ DQ
+DT C8 D7 D5
+D9 C9 C2 D8
+C4 CA C5 C6
+C7 HA CT H6
+CK HT CJ CQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "9"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A654.T2.T63.KJ43 Q93.J874.K54.972 KJT2.65.J972.AQ8 87.AKQ93.AQ8.T65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H Pass
+2H X XX 2S
+Pass Pass 3H AP
+[Play "W"]
+HT H4 H5 HA
+H2 H7 H6 HK
+S6 S9 ST S8
+SA S3 S2 S7
+S4 SQ SK H9
+D3 D4 D7 DA
+DT D5 D2 DQ
+D6 DK D9 D8
+CJ C2 C8 CT
+C3 C7 CQ C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "9"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A654.T2.T63.KJ43 Q93.J874.K54.972 KJT2.65.J972.AQ8 87.AKQ93.AQ8.T65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1NT AP
+[Play "W"]
+D6 D4 D2 DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "10"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K87.AKT84.87.AT8 532.65.96.Q96432 QT4.Q92.JT54.J75 AJ96.J73.AKQ32.K"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+Pass 1D 1H Pass
+Pass 1S Pass Pass
+2H AP
+[Play "N"]
+D9 DJ DQ D7
+D6 D4 DK D8
+H5 D5 D3 C8
+C2 C5 CK CA
+H6 H2 H3 HA
+C3 H9 H7 HK
+CQ C7 S6 CT
+C4 CJ HJ S7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "10"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K87.AKT84.87.AT8 532.65.96.Q96432 QT4.Q92.JT54.J75 AJ96.J73.AKQ32.K"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "6"]
+[Auction "E"]
+Pass 1C 1H Pass
+Pass X Pass 2C
+2H Pass Pass 3C
+Pass 3D AP
+[Play "W"]
+HA H5 H9 H7
+D8 D9 DJ DQ
+CA C2 C7 CK
+D7 D6 D4 DK
+S8 S2 ST S6
+H8 H6 D5 DA
+SK S3 S4 SA
+S7 S5 SQ SJ
+CT C3 DT D2
+H4 C4 HQ H3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "11"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q95.97652.J93.KT K63.KT3.QT75.J54 JT84.QJ4.K8.Q932 A72.A8.A642.A876"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+1NT Pass 3NT AP
+[Play "W"]
+H5 H3 HJ HA
+D9 DQ DK D2
+D3 D5 D8 D4
+S9 SK S4 S2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "11"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q95.97652.J93.KT K63.KT3.QT75.J54 JT84.QJ4.K8.Q932 A72.A8.A642.A876"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1NT Pass 2S Pass
+3C Pass 3NT AP
+[Play "W"]
+H7 H3 HJ HA
+D3 D5 D8 DA
+D9 DT DK D2
+S5 S3 SJ S7
+S9 SK S4 S2
+DJ DQ C2 D4
+H5 D7 S8 D6
+SQ S6 ST SA
+CK C4 C3 C6
+H9 HK H4 H8
+H2 HT HQ C7
+CT CJ C9 C8
+H6 C5 CQ CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "12"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J32.AKT.964.AK75 K765.Q4.J32.8432 Q4.8753.KQ7.JT96 AT98.J962.AT85.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 2NT AP
+[Play "N"]
+S5 S4 SA S3
+SK SQ S8 S2
+S6 H3 S9 SJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "12"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J32.AKT.964.AK75 K765.Q4.J32.8432 Q4.8753.KQ7.JT96 AT98.J962.AT85.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 2NT AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "13"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T7.K5.972.Q87543 J9652.AQJ.654.A2 AKQ43.874.KJT8.9 8.T9632.AQ3.KJT6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Auction "N"]
+1S Pass 1NT Pass
+2D Pass 2H AP
+[Play "W"]
+C5 C2 C9 CJ
+H5 HJ H7 H2
+C3 CA H4 C6
+HK HA H8 H3
+D2 D4 D8 DQ
+CQ HQ S4 CT
+D7 D5 DT DA
+C4 -  -  HT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "13"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T7.K5.972.Q87543 J9652.AQJ.654.A2 AKQ43.874.KJT8.9 8.T9632.AQ3.KJT6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1S Pass 1NT AP
+[Play "W"]
+C5 C2 C9 CJ
+C4 CA H7 C6
+H5 HA H4 H2
+HK HQ H8 H3
+ST SJ SQ S8
+D7 D4 DJ DQ
+C3 HJ S3 CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "14"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QJ85.JT5.A84.QT2 KT43.973.QT5.KJ9 A92.64.K972.6543 76.AKQ82.J63.A87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+AP
+[Play "W"]
+HT H3 H4 HA
+H5 H7 H6 HK
+HJ H9 D2 HQ
+D4 DT DK D3
+DA DQ D7 D6
+D8 D5 D9 DJ
+C2 CJ C3 C7
+CT CK C4 C8
+CQ C9 C5 CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "14"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QJ85.JT5.A84.QT2 KT43.973.QT5.KJ9 A92.64.K972.6543 76.AKQ82.J63.A87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT Pass 2S
+Pass 2NT AP
+[Play "W"]
+SQ SK SA S6
+S5 ST S9 S7
+H5 H3 H4 HA
+HT H7 H6 HK
+HJ H9 C3 HQ
+D8 S3 D2 H8
+D4 S4 -  H2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "15"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:5.J9532.T7542.32 AJ97.74.KJ86.J64 KQ642.AKT8.Q3.T8 T83.Q6.A9.AKQ975"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 3NT AP
+[Play "W"]
+H3 H4 HA H6
+H2 H7 HK HQ
+HJ S7 HT S3
+H9 S9 H8 S8
+H5 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "15"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:5.J9532.T7542.32 AJ97.74.KJ86.J64 KQ642.AKT8.Q3.T8 T83.Q6.A9.AKQ975"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+2C Pass 2D 2S
+3S Pass 3NT AP
+[Play "E"]
+HA H6 H2 H4
+HK HQ H3 H7
+HT S3 HJ S7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "16"]
+[West "Freeman"]
+[North "Jacobus"]
+[East "Nickell"]
+[South "Milner"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K6.T876.A842.832 AQ985.Q42.KQ9.T6 J4.A9.JT3.AKQ975 T732.KJ53.765.J4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+Pass 1S 2C 3S
+AP
+[Play "E"]
+CQ C4 C2 C6
+CK CJ C3 CT
+D3 D5 DA D9
+DT D6 D2 DQ
+HA H3 H6 H4
+DJ D7 D4 DK
+H9 HJ H7 H2
+S4 S2 S6 SQ
+SJ S3 SK SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "16"]
+[West "Gawrys"]
+[North "Hamman"]
+[East "Pszczola"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K6.T876.A842.832 AQ985.Q42.KQ9.T6 J4.A9.JT3.AKQ975 T732.KJ53.765.J4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass 1S 2C 2S
+3C Pass 3S Pass
+3NT AP
+[Play "N"]
+DK D3 D5 DA
+C6 CA C4 C3
+DQ DJ D6 D2
+S8 S4 S2 SK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "17"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T95.AQ73.75.T754 A743.KT6.A962.82 KQ.J982.QJT4.KQ3 J862.54.K83.AJ96"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1D Pass 1S Pass
+2S AP
+[Play "W"]
+D7 D2 DT DK
+HA H6 H2 H5
+D5 DA D4 D3
+H3 HK H8 H4
+H7 HT H9 S2
+HQ D6 DJ D8
+C7 C2 CK C6
+C4 C8 C3 CA
+S5 SA SQ S6
+C5 D9 DQ SJ
+S9 S3 -  S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "17"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T95.AQ73.75.T754 A743.KT6.A962.82 KQ.J982.QJT4.KQ3 J862.54.K83.AJ96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+Pass 1NT AP
+[Play "S"]
+S2 ST SA SK
+S6 S5 S3 SQ
+H5 H3 H6 HJ
+H4 HQ HK H9
+SJ S9 S4 H8
+S8 C4 S7 C3
+DK D5 D2 DQ
+C6 C7 C8 CQ
+D3 HA HT H2
+D8 H7 D6 D4
+C9 D7 DA DT
+CA C5 C2 CK
+CJ CT D9 DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "18"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T543.T5.AQ93.A54 AJ86.J843.74.Q72 Q9.AK92.T52.J863 K72.Q76.KJ86.KT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "E"]
+1NT AP
+[Play "S"]
+D6 D3 D4 DT
+D8 D9 D7 D5
+C9 C4 C2 C8
+H6 H5 HJ HA
+DJ DQ S6 D2
+DK DA C7 H2
+CT CA CQ C3
+CK C5 S8 CJ
+S2 S3 SA S9
+H7 HT H3 HK
+S7 S4 H4 C6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "19"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T98.73.KT763.KT2 KQ43.98.J9.AQ653 65.KT52.A42.J874 AJ72.AQJ64.Q85.9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1H Pass 1S Pass
+3S Pass 4S AP
+[Play "E"]
+C7 C9 CK CA
+H2 HQ H3 H9
+S6 SA ST S3
+S5 S2 S8 SQ
+H5 HJ H7 H8
+D2 SJ S9 S4
+HT HA D3 C3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "19"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T98.73.KT763.KT2 KQ43.98.J9.AQ653 65.KT52.A42.J874 AJ72.AQJ64.Q85.9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1H Pass 2C Pass
+2S Pass 3S Pass
+4S AP
+[Play "W"]
+D3 D9 DA D5
+H7 H8 H2 HQ
+S8 S3 S5 SA
+S9 SK S6 S2
+H3 H9 H5 HJ
+ST SQ HT HA
+DK DJ D2 D8
+C2 CA C4 C9
+-  C3 C7 S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "20"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT52.QJ.Q63.8732 Q4.A9862.AT2.AK4 AJ763.K7.J9.QJT9 98.T543.K8754.65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+Pass 1NT 2C Pass
+Pass 2H Pass Pass
+X Pass 2S 3H
+3S AP
+[Play "S"]
+D5 D3 DA D9
+C6 C2 CA CT
+C5 C3 CK CJ
+H3 HJ HA H7
+S8 C7 C4 CQ
+DK D6 D2 DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "20"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT52.QJ.Q63.8732 Q4.A9862.AT2.AK4 AJ763.K7.J9.QJT9 98.T543.K8754.65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Auction "W"]
+Pass 1H 1S 2H
+2S X Pass 3H
+AP
+[Play "E"]
+CQ C5 C2 CA
+S3 S8 ST S4
+S6 S9 SK SQ
+CJ C6 C3 CK
+H7 H3 HJ HA
+C9 H4 C7 C4
+D9 DK D3 D2
+DJ D4 D6 DA
+HK HT HQ H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "21"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:876.T8653.42.K83 AK942.J74.JT5.75 Q.AQ2.AK87.AT942 JT53.K9.Q963.QJ6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "9"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 2C AP
+[Play "S"]
+CQ C3 C5 CA
+D3 D4 D5 DA
+D6 D2 DT DK
+D9 CK DJ D7
+H9 H3 H4 HA
+DQ C8 S4 D8
+HK H5 H7 HQ
+S3 S6 SK SQ
+S5 H6 HJ H2
+ST S7 SA C2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "21"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:876.T8653.42.K83 AK942.J74.JT5.75 Q.AQ2.AK87.AT942 JT53.K9.Q963.QJ6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+Pass 1D Pass Pass
+1S X 2S AP
+[Play "E"]
+DA D3 D4 DJ
+C2 CQ CK C5
+DK D6 D2 DT
+D7 D9 S8 D5
+CA C6 C8 C7
+HA H9 H3 H4
+C4 CJ C3 H7
+-  S3 S6 SA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "22"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J97.J32.J95.AT42 Q4.Q964.T762.983 AT86532.AT5.8.J7 K.K87.AKQ43.KQ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1S X 2S Pass
+3S AP
+[Play "S"]
+DA D5 D6 D8
+DK D9 DT S5
+SK S7 S4 S3
+DQ DJ D2 S6
+D4 SJ SQ SA
+CQ CA C3 CJ
+C5 C2 C9 C7
+HK H2 H4 H5
+H8 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "22"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J97.J32.J95.AT42 Q4.Q964.T762.983 AT86532.AT5.8.J7 K.K87.AKQ43.KQ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1S X 2S Pass
+3S Pass 4S AP
+[Play "S"]
+DA D5 D2 D8
+DK D9 D7 S2
+CQ CA C3 C7
+DQ DJ D6 S3
+SK S7 S4 SA
+D4 S9 SQ S5
+CK C2 C9 CJ
+C6 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "23"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T94.A854.T73.AQ3 Q732.K9632.Q2.42 K65.J.AJ9854.J97 AJ8.QT7.K6.KT865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Auction "S"]
+1C Pass 1H 2D
+X 2NT AP
+[Play "N"]
+H2 HJ HQ H5
+HK C7 HT H4
+SQ S5 S8 S4
+S2 S6 SJ S9
+S7 SK SA ST
+C4 C9 CK CA
+D2 DA D6 DT
+DQ DJ DK D3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "23"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T94.A854.T73.AQ3 Q732.K9632.Q2.42 K65.J.AJ9854.J97 AJ8.QT7.K6.KT865"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass Pass 2D
+AP
+[Play "S"]
+H7 HA H6 HJ
+D6 D3 D2 DA
+DK D7 DQ D9
+HQ H4 H3 D4
+C8 CQ C4 C7
+HT H5 H9 D5
+CT CA C2 C9
+CK C3 H2 CJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "24"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ.K84.J9853.T86 Q98753.752.AQ4.5 A4.AT6.T6.AK9743 T62.QJ93.K72.QJ2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 2D 2NT Pass
+3NT AP
+[Play "S"]
+S2 SJ SQ SA
+C2 C6 C5 CA
+CJ C8 H5 CK
+CQ CT D4 C7
+ST SK S3 S4
+H3 H4 H2 HA
+D7 -  -  C9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "24"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ.K84.J9853.T86 Q98753.752.AQ4.5 A4.AT6.T6.AK9743 T62.QJ93.K72.QJ2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1NT Pass
+Pass 2C 3C Pass
+3NT AP
+[Play "S"]
+HQ H4 H2 HA
+C2 C6 C5 CA
+CJ C8 S9 CK
+CQ CT S3 C3
+S2 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "25"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK87.T9854.72.J8 J.J3.QJ9843.AKQ7 T62.AK76.AKT.542 Q9543.Q2.65.T963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1D X 1S 2D
+3C 4H AP
+[Play "S"]
+D5 D2 DJ DA
+H2 H4 H3 HA
+HQ H5 HJ HK
+S3 SA SJ S6
+CT C8 CQ C2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "25"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK87.T9854.72.J8 J.J3.QJ9843.AKQ7 T62.AK76.AKT.542 Q9543.Q2.65.T963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1D 1NT Pass 2C
+X 2H 3C 4H
+AP
+[Play "S"]
+CT C8 CQ C2
+C3 CJ CA C4
+S3 SK SJ S2
+H2 H4 H3 HA
+HQ H5 HJ HK
+-  -  -  S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "26"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T972.7.AKT5.AKQ5 A4.J853.QJ8.JT82 KJ853.AK92.73.74 Q6.QT64.9642.963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2NT Pass
+3C Pass 3H Pass
+4H Pass 4NT Pass
+5H Pass 6S AP
+[Play "S"]
+H4 H7 HJ HA
+D2 DA D8 D7
+SQ ST S4 S3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "26"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T972.7.AKT5.AKQ5 A4.J853.QJ8.JT82 KJ853.AK92.73.74 Q6.QT64.9642.963"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 3S Pass
+4S Pass 4NT Pass
+5H Pass 5S AP
+[Play "S"]
+D2 DA D8 D7
+SQ ST S4 S3
+S6 S2 SA S5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "27"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:96.JT9.KQT.QJ876 AK5.Q74.8532.A43 Q2.A6532.A76.KT2 JT8743.K8.J94.95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D 1H
+1S 2C 2S Pass
+3S AP
+[Play "W"]
+HJ H4 H2 HK
+S6 SA S2 S3
+DT D2 D6 D9
+HT HQ HA H8
+H9 H7 H5 S8
+CJ C3 C2 C9
+C8 CA CT C5
+C6 C4 CK S7
+S9 SK SQ SJ
+DQ D3 D7 DJ
+DK D5 DA D4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "27"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:96.JT9.KQT.QJ876 AK5.Q74.8532.A43 Q2.A6532.A76.KT2 JT8743.K8.J94.95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D 1H
+2S 3H 3S AP
+[Play "W"]
+HJ H4 H5 HK
+S9 SA S2 S3
+S6 SK SQ S7
+DT D2 D6 D9
+HT H7 H6 H8
+C6 C3 CK C5
+CJ CA CT C9
+C7 C4 C2 SJ
+DQ D3 D7 D4
+H9 HQ HA S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "28"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T765.A92.A865.J8 K932..KT43.AQT75 J.T765.972.K9432 AQ84.KQJ843.QJ.6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1H
+X 2C Pass 4H
+AP
+[Play "W"]
+S6 S2 SJ SA
+DA D3 D2 DJ
+S7 S3 H5 S8
+HA C5 H6 HK
+S5 S9 H7 S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "28"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T765.A92.A865.J8 K932..KT43.AQT75 J.T765.972.K9432 AQ84.KQJ843.QJ.6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 4C
+Pass 4D Pass 4NT
+Pass 5H Pass 5S
+AP
+[Play "E"]
+D2 DJ DA D3
+D7 DQ D5 D4
+SJ S4 S5 SK
+D9 SA S6 S2
+H7 HK HA S3
+C2 H3 D6 DK
+C3 H4 D8 DT
+C4 SQ S7 S9
+H6 HQ H2 C5
+H5 HJ H9 C7
+CK C6 C8 CQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "29"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KT8.62.KQ98.Q832 532.54.AJ72.JT65 AQ97.T9.T53.AK94 J64.AKQJ873.64.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+Pass 1D 4H AP
+[Play "W"]
+DK DA DT D4
+H2 H4 HT HK
+H6 H5 H9 HA
+DQ D2 D5 D6
+S8 S2 SA S4
+C2 C5 CK C7
+C3 C6 CA H3
+C8 S3 D3 HQ
+D8 S5 C4 HJ
+-  -  -  H8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "29"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KT8.62.KQ98.Q832 532.54.AJ72.JT65 AQ97.T9.T53.AK94 J64.AKQJ873.64.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 3H AP
+[Play "W"]
+C3 C5 CK C7
+SK S2 S9 SJ
+ST S3 SQ S4
+S8 S5 SA S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "30"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A32.73.AT974.T95 J7.9842.KQ63.KQ7 KT94.J65.J2.J642 Q865.AKQT.85.A83"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "W"]
+CT C7 C2 CA
+DA D3 D2 D5
+D4 DK DJ D8
+H3 H2 H6 HA
+H7 H4 H5 HK
+D7 H8 HJ HQ
+S3 SJ SK S5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "30"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A32.73.AT974.T95 J7.9842.KQ63.KQ7 KT94.J65.J2.J642 Q865.AKQT.85.A83"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "W"]
+CT C7 C4 CA
+DA D3 D2 D5
+D4 DK DJ D8
+H3 H2 H5 HA
+H7 H4 H6 HK
+-  -  -  HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "31"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:JT2.Q542.T2.QJ93 Q965.AJT983.K7.6 K7.K76.J63.K8752 A843..AQ9854.AT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 4S Pass
+5C Pass 5D Pass
+6D Pass 6H Pass
+6S AP
+[Play "W"]
+CQ C6 C7 CA
+S2 S5 S7 SA
+ST SQ SK S3
+D2 DK DJ D4
+-  D7 D6 DA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "31"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:JT2.Q542.T2.QJ93 Q965.AJT983.K7.6 K7.K76.J63.K8752 A843..AQ9854.AT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 4C Pass
+4D Pass 4S Pass
+5H Pass 6S AP
+[Play "W"]
+S2 S5 SK SA
+ST SQ S7 S4
+D2 DK D3 D4
+DT D7 D6 DA
+C3 H3 DJ DQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "32"]
+[West "Meckstroth"]
+[North "Lev"]
+[East "Rodwell"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T5.K9.T86.T98542 A76.T8.QJ974.Q76 K832.QJ76.AK32.J QJ94.A5432.5.AK3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1D 1H
+Pass 1NT AP
+[Play "E"]
+S2 SQ S5 S7
+HJ H4 H9 HT
+CJ C3 C2 CQ
+H6 HA HK H8
+H7 H2 D8 D4
+DK D5 D6 D7
+HQ H3 C4 D9
+DA S4 DT DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "32"]
+[West "Milner"]
+[North "Nickell"]
+[East "Jacobus"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T5.K9.T86.T98542 A76.T8.QJ974.Q76 K832.QJ76.AK32.J QJ94.A5432.5.AK3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1H Pass
+Pass 2D AP
+[Play "E"]
+CJ CA C2 C6
+DK D5 D8 D9
+HJ HA H9 H8
+H6 H2 HK HT
+D2 C3 C8 CQ
+HQ H3 DT DJ
+DA S4 D6 DQ
+D3 H4 C4 D4
+SK S9 S5 S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "33"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ8754.74.2.K654 A2.KJ632.KQ.AT82 96.AT95.AT986.J9 JT3.Q8.J7543.Q73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NTX"]
+[Result "7"]
+[Auction "N"]
+1H Pass 1NT 2S
+2NT Pass 3D Pass
+3S Pass 3NT Pass
+Pass X AP
+[Play "W"]
+C4 C2 C9 CQ
+D2 DQ D6 D4
+S5 DK DA D5
+S4 S2 DT DJ
+H7 H2 HA HQ
+S7 C8 D9 D3
+C5 CT D8 D7
+S8 SA S9 S3
+H4 HK H5 H8
+C6 HJ H9 C3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "33"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ8754.74.2.K654 A2.KJ632.KQ.AT82 96.AT95.AT986.J9 JT3.Q8.J7543.Q73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "N"]
+1C 1D X 1S
+2H Pass 2S X
+Pass Pass 2NT AP
+[Play "W"]
+SQ SA S9 S3
+H4 H2 H9 HQ
+H7 HK HA H8
+SK S2 S6 SJ
+S8 C2 DT ST
+D2 DK DA D5
+C4 DQ D6 D3
+S4 HJ H5 D4
+S5 H6 HT D7
+CK CA CJ CQ
+-  H3 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "34"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T96.98.J87654.KJ AJ754.AKT.AT.AT5 Q.QJ65432.K932.4 K832.7.Q.Q987632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5HX"]
+[Result "6"]
+[Auction "E"]
+3H Pass 4H X
+Pass 4S Pass Pass
+5H X AP
+[Play "S"]
+DQ D4 DA D9
+H7 D5 DT DK
+S2 S6 SA SQ
+S8 S9 S7 H2
+C6 H8 HK HQ
+C2 CJ CA C4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "34"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T96.98.J87654.KJ AJ754.AKT.AT.AT5 Q.QJ65432.K932.4 K832.7.Q.Q987632"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+3H Pass Pass X
+Pass 3S Pass 4S
+AP
+[Play "W"]
+H9 HA H6 H7
+S6 S4 SQ SK
+S9 SA H5 S2
+ST SJ H2 S3
+CJ CA C4 C2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "35"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:7.T6542.A932.T54 AKQ54.AK873..AKQ 9832.Q.J865.J863 JT6.J9.KQT74.972"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 2D Pass
+3D Pass 3S Pass
+4S Pass 4NT Pass
+5D Pass 5H Pass
+5S Pass 6H Pass
+6S AP
+[Play "E"]
+C3 C2 CT CA
+HQ H9 H2 HA
+S2 SJ S7 S4
+S3 S6 D2 SA
+S8 ST D3 SK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "35"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:7.T6542.A932.T54 AKQ54.AK873..AKQ 9832.Q.J865.J863 JT6.J9.KQT74.972"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1C Pass
+2D Pass 2S Pass
+2NT Pass 3C Pass
+3H Pass 4C Pass
+4S Pass 4NT Pass
+5C Pass 5H Pass
+7S AP
+[Play "E"]
+S3 S6 S7 SK
+HQ H9 H2 HA
+S2 ST C4 S4
+S8 HJ H4 H3
+S9 -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "36"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ863.K7643.T.A3 AT942.Q2.J8.J976 .J5.K97652.QT542 K75.AT98.AQ43.K8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3CX"]
+[Result "7"]
+[Auction "W"]
+Pass Pass Pass 1NT
+2D X Pass Pass
+2S X 2NT X
+3C X AP
+[Play "N"]
+C6 CT CK CA
+DJ DK DA DT
+SA C2 S7 SJ
+D8 D7 D3 C3
+S4 C4 S5 S3
+S2 D9 DQ H3
+C9 CQ C8 H4
+H2 H5 H8 HK
+S9 C5 SK S6
+C7 D6 D4 H6
+CJ D2 H9 H7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "36"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ863.K7643.T.A3 AT942.Q2.J8.J976 .J5.K97652.QT542 K75.AT98.AQ43.K8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "7"]
+[Auction "W"]
+2H Pass Pass 2NT
+Pass 3H Pass 3S
+Pass 3NT Pass 4S
+AP
+[Play "W"]
+DT DJ DK DA
+S3 SA D7 S5
+CA C6 C2 CK
+C3 C7 CT C8
+S6 D8 D9 DQ
+H4 H2 HJ HA
+HK HQ H5 H8
+H3 C9 C4 H9
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "37"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:97.A86.J4.KQJ986 53.QT974.Q3.T754 AKJT86.J5.852.32 Q42.K32.AKT976.A"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass 2S 2NT Pass
+3D Pass 3H AP
+[Play "W"]
+CK C4 C3 CA
+D4 DQ D2 D9
+DJ D3 D5 DA
+H6 H7 D8 DK
+S7 S3 SK S2
+S9 S5 SA S4
+H8 H9 H5 H3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "37"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:97.A86.J4.KQJ986 53.QT974.Q3.T754 AKJT86.J5.852.32 Q42.K32.AKT976.A"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass 2D 2NT Pass
+3D Pass 3H AP
+[Play "W"]
+CK C4 C3 CA
+D4 DQ D2 D7
+DJ D3 D8 DA
+H6 S3 D5 DK
+S9 S5 SK S4
+H8 H9 H5 H3
+C9 C5 C2 H2
+C6 C7 HJ D6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "38"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:86.9873.K74.AT98 532.K52.J952.K43 Q94.T64.QT.J7652 AKJT7.AQJ.A863.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 2S Pass 4S
+AP
+[Play "W"]
+H9 H2 H4 HQ
+S6 S2 S4 SA
+CA C3 C2 CQ
+H3 HK HT HJ
+C8 CK C5 D3
+C9 C4 C6 S7
+S8 S3 S9 SK
+H7 H5 H6 HA
+D4 D2 DT DA
+D7 DJ DQ D6
+-  -  SQ ST
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "38"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:86.9873.K74.AT98 532.K52.J952.K43 Q94.T64.QT.J7652 AKJT7.AQJ.A863.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1S Pass 2D
+Pass 4S AP
+[Play "W"]
+S6 S2 SQ SA
+S8 S3 S4 SK
+H3 S5 S9 SJ
+CA C3 C2 CQ
+H9 H2 H4 HA
+D4 D2 DT DA
+D7 DJ DQ D3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "39"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:642.62.AK85.KQT8 Q753.A5.QT94.632 KT98.KQJT74.J7.5 AJ.983.632.AJ974"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 4H
+AP
+[Play "S"]
+H8 H2 HA H4
+SA S2 S3 ST
+SJ S4 S5 SK
+H3 H6 H5 HK
+H9 S6 S7 HQ
+D2 D5 DQ DJ
+C4 C8 SQ S8
+CA CT C3 C5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "39"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:642.62.AK85.KQT8 Q753.A5.QT94.632 KT98.KQJT74.J7.5 AJ.983.632.AJ974"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1NT Pass 4H
+AP
+[Play "S"]
+CA C8 C6 C5
+SA S2 S7 S8
+SJ S4 S3 SK
+D6 DA D4 D7
+C4 CK C2 S9
+C7 CQ C3 ST
+H3 H2 H5 HK
+H8 H6 HA HQ
+-  -  SQ HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "40"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J95.QT95.AK3.J32 AT63.A63.JT74.76 8742.K874.Q85.T9 KQ.J2.962.AKQ854"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2D
+Pass 3NT AP
+[Play "W"]
+HT H3 HK H2
+HQ HA H4 HJ
+C2 C6 C9 CA
+C3 C7 CT CK
+CJ H6 H7 CQ
+S5 S3 S2 C4
+S9 D4 H8 C5
+D3 D7 S4 C8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "40"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J95.QT95.AK3.J32 AT63.A63.JT74.76 8742.K874.Q85.T9 KQ.J2.962.AKQ854"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1NT
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+HT H3 HK H2
+HQ HA H4 HJ
+C2 C6 C9 CK
+C3 C7 CT CA
+CJ H6 D8 CQ
+S5 S3 S2 C4
+S9 D4 S8 C5
+D3 D7 H7 C8
+SJ S6 -  SQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "41"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AT9.K.AKJ6.Q8762 Q76.QJ975.T932.A KJ852.86.Q.KJT94 43.AT432.8754.53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1C
+1H 1S 4H 4S
+AP
+[Play "S"]
+HA HK H7 H8
+D4 DA D2 DQ
+D5 DK D3 H6
+S3 SA S7 S2
+S4 ST S6 SK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "41"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AT9.K.AKJ6.Q8762 Q76.QJ975.T932.A KJ852.86.Q.KJT94 43.AT432.8754.53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+2D Pass 2S 2NT
+Pass 3H Pass 4S
+AP
+[Play "N"]
+CA C4 C3 C8
+HQ H6 HA HK
+S6 C9 C5 C7
+HJ H8 H4 D6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "42"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:762..AQT63.JT754 A83.KT8.J87.K962 JT4.95432.942.A8 KQ95.AQJ76.K5.Q3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass 1H Pass 3D
+Pass 4H AP
+[Play "W"]
+C5 C2 CA C3
+C4 C6 C8 CQ
+D6 HK H3 H7
+C7 HT H2 H6
+D3 H8 H4 HJ
+S2 D7 H5 HA
+DT D8 H9 HQ
+S6 SA S4 S9
+CT CK D2 D5
+S7 S8 ST SQ
+DQ S3 SJ SK
+CJ C9 D4 S5
+DA DJ D9 DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "42"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:762..AQT63.JT754 A83.KT8.J87.K962 JT4.95432.942.A8 KQ95.AQJ76.K5.Q3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C 1D 2D
+Pass 2H Pass 3H
+Pass 4H AP
+[Play "W"]
+CJ C2 C8 CQ
+C4 HK H2 H6
+D6 HT H3 H7
+D3 H8 H4 HJ
+C5 C9 CA C3
+DQ D7 D2 D5
+DA D8 D4 DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "43"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.A63.QJT.AQ8642 T62.K72.A2.T9753 A843.Q94.K753.KJ KQ975.JT85.9864."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 2C Pass 2D
+2S Pass Pass 3NT
+AP
+[Play "S"]
+HJ H3 HK H9
+SQ SJ S6 S3
+H5 HA H7 H4
+S7 C2 C5 CK
+D4 C4 C3 CJ
+D6 DQ D2 D3
+D8 CA C7 S4
+S5 CQ C9 S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "43"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.A63.QJT.AQ8642 T62.K72.A2.T9753 A843.Q94.K753.KJ KQ975.JT85.9864."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2C Pass 3NT
+AP
+[Play "S"]
+SQ SJ S2 S3
+S7 DT ST S4
+S9 H3 S6 SA
+HJ C2 C3 CK
+S5 C4 C5 CJ
+D4 DJ DA D3
+H5 CA CT S8
+SK CQ C7 H4
+D8 DQ D2 D5
+D9 C6 C9 D7
+-  -  H7 HQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "44"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9532.9.KQJ.AJT5 JT7.J732.T98.Q76 Q84.AKQ65.A653.8 A6.T84.742.K9432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2H Pass
+2S Pass 3NT Pass
+4C Pass 4NT Pass
+5H Pass 6S AP
+[Play "N"]
+D9 D3 D7 DK
+S7 SQ SA S2
+D8 D5 D2 DQ
+SJ S4 S6 SK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "44"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9532.9.KQJ.AJT5 JT7.J732.T98.Q76 Q84.AKQ65.A653.8 A6.T84.742.K9432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2H Pass
+2NT Pass 3S Pass
+3NT Pass 4C X
+XX Pass 4D Pass
+4H Pass 4NT Pass
+5H Pass 6S AP
+[Play "N"]
+C6 C8 CK CA
+ST SQ SA S2
+DT D3 D4 DK
+S7 S4 S6 SK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "45"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T6.A875.T32.A873 K7.Q4.QJ754.KQJ4 9843.963.98.9652 AQJ52.KJT2.AK6.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+1D Pass 1S Pass
+1NT Pass 2D Pass
+2NT Pass 3D Pass
+3S Pass 4NT Pass
+5D AP
+[Play "E"]
+H3 HJ HA H4
+H6 H2 H5 HQ
+D8 DA D2 D4
+D9 DK D3 D5
+C2 D6 DT DQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "45"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T6.A875.T32.A873 K7.Q4.QJ754.KQJ4 9843.963.98.9652 AQJ52.KJT2.AK6.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[Auction "N"]
+1NT Pass 2H Pass
+2S Pass 3D Pass
+3NT Pass 5NT Pass
+6NT AP
+[Play "E"]
+C6 CT CA C4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "46"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:985.9832.A92.974 2.AQT7.KJ83.AQ63 AQ764.K6.764.J85 KJT3.J54.QT5.KT2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass Pass 1D
+1S 2NT Pass 3NT
+AP
+[Play "W"]
+S9 S2 S4 ST
+D2 DJ D4 D5
+DA D3 D7 DQ
+S8 C3 SA S3
+D9 D8 D6 DT
+H2 H7 HK HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "46"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:985.9832.A92.974 2.AQT7.KJ83.AQ63 AQ764.K6.764.J85 KJT3.J54.QT5.KT2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass Pass 1C
+1S 1NT Pass 2C
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+S9 S2 SA S3
+C4 C3 C5 CT
+H3 H7 HK HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "47"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A.AQJT6.QT76.K62 T53.974.KJ98.875 J864.832.A54.QJ4 KQ972.K5.32.AT93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1S 2H Pass 3H
+Pass 4H AP
+[Play "N"]
+S5 S6 SQ SA
+C7 CQ CA C6
+DJ DA D2 DT
+H7 H2 H5 HQ
+C5 CJ C3 C2
+H4 H3 HK HA
+H9 H8 S7 HJ
+C8 C4 C9 CK
+DK D4 D3 DQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "47"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A.AQJT6.QT76.K62 T53.974.KJ98.875 J864.832.A54.QJ4 KQ972.K5.32.AT93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Auction "S"]
+1S X 2C Pass
+2D 2H Pass 2S
+Pass 3D Pass 3H
+AP
+[Play "N"]
+S3 S4 SQ SA
+C8 CQ CA C2
+S5 S6 SK H6
+C5 CJ C3 C6
+H4 H2 H5 HJ
+H7 H3 HK HA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "48"]
+[West "Hamman"]
+[North "Pszczola"]
+[East "Soloway"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T9.9854.AJ984.T2 K432.KT7.T6.AK94 QJ765.A.75.Q8653 A8.QJ632.KQ32.J7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1C 1S X
+Pass 1NT Pass 2H
+Pass 3H Pass 3NT
+AP
+[Play "E"]
+C5 C7 CT CA
+HA H2 H4 HK
+D7 D2 DJ D6
+S6 SA ST S2
+D5 D3 D8 DT
+CQ CJ C2 C4
+SQ -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "48"]
+[West "Lev"]
+[North "Rodwell"]
+[East "Mohan"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T9.9854.AJ984.T2 K432.KT7.T6.AK94 QJ765.A.75.Q8653 A8.QJ632.KQ32.J7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 1S X
+Pass 1NT Pass 2H
+Pass 3H Pass 3NT
+Pass 4H AP
+[Play "W"]
+ST S2 S5 SA
+C2 CA C3 C7
+DA D6 D7 DQ
+S9 SK S6 S8
+CT CK C6 CJ
+H4 C4 C5 H3
+DJ DT D5 DK
+D4 H7 HA D2
+-  -  SQ -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "49"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A8.QJT97.T764.63 K52.32.A953.A954 QJT743.A.KJ8.KT7 96.K8654.Q2.QJ82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 3S Pass 4S
+AP
+[Play "S"]
+CQ C3 CA C7
+C2 C6 C4 CK
+CJ S8 C5 CT
+DQ DT D3 D8
+D2 D4 DA DJ
+S6 D6 D5 DK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "49"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A8.QJT97.T764.63 K52.32.A953.A954 QJT743.A.KJ8.KT7 96.K8654.Q2.QJ82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1D 1S X Pass
+1NT 2S AP
+[Play "S"]
+CQ C3 C5 CK
+CJ C6 C4 CT
+S6 SA S2 S3
+H4 HQ H2 HA
+C2 S8 C9 C7
+DQ D4 D3 DJ
+D2 D6 DA D8
+S9 D7 D5 DK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "50"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AT3.876543.J52.T 8762.QJT92.T9.43 J9.K.K87.A987652 KQ54.A.AQ643.KQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "E"]
+2C X Pass 2H
+Pass 3NT Pass 4H
+Pass Pass X AP
+[Play "E"]
+D7 DQ D2 D9
+CA CK CT C3
+C9 CJ H3 C4
+DK DA D5 DT
+HK HA H4 H2
+S9 SK S3 S2
+-  CQ -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "50"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AT3.876543.J52.T 8762.QJT92.T9.43 J9.K.K87.A987652 KQ54.A.AQ643.KQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1C X 1H Pass
+2C X Pass 2H
+Pass 3D Pass 3S
+Pass 4S AP
+[Play "E"]
+CA CJ CT C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "51"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KJ543.K4.7632.Q8 AT98.5.AJT84.K75 .AJ7632.Q9.AJ432 Q762.QT98.K5.T96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D 2NT
+Pass 4H AP
+[Play "N"]
+H5 H6 H8 HK
+CK CA C6 CQ
+C5 CJ C9 C8
+C7 C2 CT H4
+SA H2 S2 SK
+D4 HA H9 S4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "51"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KJ543.K4.7632.Q8 AT98.5.AJT84.K75 .AJ7632.Q9.AJ432 Q762.QT98.K5.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D 1H
+1NT 2H X 3C
+Pass 3H AP
+[Play "S"]
+DK D2 D8 D9
+D5 D6 DA DQ
+H8 D3 DJ H7
+S2 SJ SA H2
+HT HK H5 H3
+-  CQ -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "52"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q76.743.AKT93.J8 A42.QT52.75.KT52 K85.KJ86.J.AQ976 JT93.A9.Q8642.43"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "N"]
+C2 C6 C3 C8
+H2 HJ HA H4
+D5 DJ DQ DA
+D7 C7 D4 DK
+S4 H6 D2 DT
+H5 S5 D6 D9
+CK CA C4 CJ
+S2 SK S3 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "52"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q76.743.AKT93.J8 A42.QT52.75.KT52 K85.KJ86.J.AQ976 JT93.A9.Q8642.43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+1S Pass 1NT AP
+[Play "S"]
+SJ S6 S2 SK
+C3 CJ CK C7
+HA H3 H5 HJ
+D4 DA D7 DJ
+D6 DK D5 H6
+C4 C8 C2 CQ
+H9 D3 C5 CA
+D2 H4 CT C6
+S3 H7 HQ HK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "53"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q4.753.AQ.QJ9542 A6.K94.K983.AT73 KJ9532.QJT.T4.K8 T87.A862.J7652.6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "7"]
+[Auction "N"]
+1C 2S Pass 3S
+AP
+[Play "S"]
+C6 C2 CA CK
+HA H3 H9 HQ
+D6 DQ DK D4
+H2 H5 HK HT
+H6 H7 H4 HJ
+D2 DA D3 DT
+S7 S4 S6 SJ
+S8 SQ SA S2
+ST C4 C3 C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "53"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q4.753.AQ.QJ9542 A6.K94.K983.AT73 KJ9532.QJT.T4.K8 T87.A862.J7652.6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1NT Pass 2C X
+Pass Pass 2D Pass
+Pass 2S Pass Pass
+3D AP
+[Play "W"]
+SQ S6 SK S7
+S4 SA S5 S8
+H3 H4 HT HA
+DA D3 D4 D2
+H5 HK HJ H2
+DQ DK DT D5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "54"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AK2.J943.965.QT6 JT64.QT62.AT73.K Q93.A7.J8.A98752 875.K85.KQ42.J43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Auction "E"]
+2C Pass 2D Pass
+3C AP
+[Play "S"]
+DK D5 D3 D8
+D2 D6 DA DJ
+S7 SA SJ S3
+C3 CT CK CA
+C4 C6 S4 C9
+CJ CQ D7 C2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "55"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:83.AKQT965.KT.73 K97.43.97543.A82 T654.82.Q8.KQT65 AQJ2.J7.AJ62.J94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+1C 1H Pass Pass
+X XX 2D 2NT
+AP
+[Play "S"]
+D2 DK D9 D8
+H7 HA H4 H2
+HJ HK H3 H8
+C9 HQ D5 C5
+S2 HT C8 S6
+SJ H9 D3 C6
+D6 H5 D4 S4
+C4 H6 D7 CT
+SQ S3 S9 S5
+DA DT C2 DQ
+SA S8 S7 ST
+DJ C3 SK CQ
+CJ C7 CA CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "55"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:83.AKQT965.KT.73 K97.43.97543.A82 T654.82.Q8.KQT65 AQJ2.J7.AJ62.J94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1S 2H 2S Pass
+Pass 3H Pass 4H
+AP
+[Play "N"]
+S7 S4 SA S3
+S9 S5 SQ S8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "56"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:752.3.AJ974.J643 T9643.Q6.KQ3.T98 AJ8.AKJ754.52.52 KQ.T982.T86.AKQ7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1H Pass
+1NT Pass 2NT AP
+[Play "N"]
+S9 SA SQ S5
+DQ D2 D8 D9
+C9 C2 CQ C4
+C8 C5 CK C3
+D3 D5 D6 DA
+H6 HJ H2 H3
+HQ HA H8 D4
+S6 HK H9 S2
+S4 H4 HT S7
+DK H5 DT DJ
+CT H7 CA C6
+S3 S8 SK D7
+ST SJ C7 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "56"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:752.3.AJ974.J643 T9643.Q6.KQ3.T98 AJ8.AKJ754.52.52 KQ.T982.T86.AKQ7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1H Pass
+1NT Pass 2H AP
+[Play "S"]
+CQ C3 C8 C2
+CK C4 C9 C5
+SK S2 S3 S8
+D6 DA D3 D2
+HT H3 H6 HJ
+H2 D4 HQ HA
+H8 D7 S4 HK
+H9 S5 S6 H4
+D8 DJ DQ D5
+SQ S7 S9 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "57"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:83.A862.T532.AQ3 KJT764.Q.AJ97.K8 52.T93.K84.JT752 AQ9.KJ754.Q6.964"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+1S Pass 2H Pass
+2S Pass 4S AP
+[Play "E"]
+D4 D6 DT DJ
+S2 SQ S8 S4
+HT H4 HA HQ
+C2 C4 CQ CK
+S5 S9 S3 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "57"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:83.A862.T532.AQ3 KJT764.Q.AJ97.K8 52.T93.K84.JT752 AQ9.KJ754.Q6.964"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+1S Pass 2H Pass
+2S Pass 3S Pass
+4S AP
+[Play "E"]
+D4 D6 DT DJ
+S2 SA S3 S4
+S5 S9 S8 SJ
+H3 H4 HA HQ
+C2 C4 CA C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "58"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q54.A4.98.KQ9542 K962.KQ87.AJT32. J83.J63.K64.T863 AT7.T952.Q75.AJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2C X
+3C X Pass 4C
+X 4H AP
+[Play "W"]
+D9 D2 DK D7
+C4 H7 CT C7
+HA HK H3 H2
+CK H8 C3 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "58"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q54.A4.98.KQ9542 K962.KQ87.AJT32. J83.J63.K64.T863 AT7.T952.Q75.AJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1C X
+Pass 2NT Pass 3C
+Pass 3H Pass 4H
+AP
+[Play "W"]
+D9 D2 DK D7
+D8 D3 D6 DQ
+HA H7 H3 H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "59"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ62.QJT9.AT3.AQ 83.652.K72.J8765 KT754.73.8654.T4 J9.AK84.QJ9.K932"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+1C X Pass 1S
+Pass 3S Pass 4S
+AP
+[Play "S"]
+HA H9 H2 H3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "59"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ62.QJT9.AT3.AQ 83.652.K72.J8765 KT754.73.8654.T4 J9.AK84.QJ9.K932"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+1NT X Pass 2C
+Pass 2H Pass 2S
+AP
+[Play "S"]
+S9 S2 S3 ST
+SJ SA S8 S4
+HK HQ H2 H3
+DJ D3 D7 D4
+D9 DA D2 D5
+DQ DT DK D6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "60"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A85.J62.J74.QJ86 KQJT43.9.T.AT952 96.A3.KQ9632.743 72.KQT8754.A85.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S 2D 3H
+4D 4S AP
+[Play "E"]
+DQ DA D4 DT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "60"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A85.J62.J74.QJ86 KQJT43.9.T.AT952 96.A3.KQ9632.743 72.KQT8754.A85.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 4S AP
+[Play "E"]
+DK DA D4 DT
+C3 CK C8 C2
+D9 D5 DJ S3
+C7 S2 CJ C5
+S9 S7 S5 SK
+S6 H4 SA SQ
+DQ D8 D7 SJ
+C4 H5 S8 ST
+D2 H7 C6 CA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "61"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A2.K943.Q987.AT8 Q85.Q76.J643.KJ4 64.AJ2.AT52.Q952 KJT973.T85.K.763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1D 1S X
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+SJ S2 S8 S4
+ST SA S5 S6
+DK DQ D6 D2
+SK D7 SQ C2
+S9 H3 D3 C9
+S3 H4 C4 H2
+S7 D8 H7 C5
+H8 HK H6 HJ
+C3 D9 D4 DT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "61"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A2.K943.Q987.AT8 Q85.Q76.J643.KJ4 64.AJ2.AT52.Q952 KJT973.T85.K.763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 2S AP
+[Play "W"]
+H3 H6 HJ H8
+D8 D3 D5 DK
+S2 S5 S4 SJ
+SA S8 S6 S3
+H9 H7 HA H5
+HK HQ H2 HT
+D7 D4 DA S7
+C8 CJ CQ C3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "62"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T972.3.AJ9.96532 J85.984.K42.KQT4 AQ64.AKQJT2.T6.7 K3.765.Q8753.AJ8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1D Pass
+4H AP
+[Play "S"]
+D5 D9 DK D6
+C8 C2 CK C7
+SK S2 S8 S4
+CA C3 C4 H2
+H6 H3 H4 HA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "62"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T972.3.AJ9.96532 J85.984.K42.KQT4 AQ64.AKQJT2.T6.7 K3.765.Q8753.AJ8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1H Pass 1S Pass
+4C Pass 4S AP
+[Play "N"]
+CK C7 CA C2
+D4 D6 D5 DA
+H4 HA H5 H3
+H8 HK H6 D9
+H9 HQ H7 DJ
+SJ SA S3 S2
+S5 HJ C8 C3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "63"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A54.J52.AJT83.A6 KQ8.AKQ3.K9.Q875 J92.9874.75.K942 T763.T6.Q642.JT3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "6"]
+[Auction "S"]
+Pass 1D X XX
+Pass 1H 1NT Pass
+Pass 2D AP
+[Play "N"]
+HA H4 H6 H5
+HK H7 HT H2
+HQ H8 S3 HJ
+CQ C2 C3 CA
+C5 CK CT C6
+DK D5 D2 DT
+D9 D7 D4 DJ
+SQ S2 S6 S4
+C7 C4 CJ D3
+H3 H9 D6 DA
+C8 C9 DQ D8
+S8 S9 S7 SA
+SK SJ ST S5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "63"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A54.J52.AJT83.A6 KQ8.AKQ3.K9.Q875 J92.9874.75.K942 T763.T6.Q642.JT3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "S"]
+Pass 1NT X Pass
+2C Pass 2NT AP
+[Play "E"]
+H9 HT HJ HK
+H4 H6 H2 HA
+H7 S3 H5 HQ
+C2 CT CA C5
+D5 D2 DJ DK
+C4 C3 C6 CQ
+S2 S6 SA SQ
+S9 S7 S5 SK
+D7 D4 DT D9
+-  -  DA H3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "64"]
+[West "Rodwell"]
+[North "Pszczola"]
+[East "Meckstroth"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K852.J6.9743.AQ7 63.95.AKQJ2.KJ42 Q94.AKQT74.6.853 AJT7.832.T85.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+Pass 1D 2H Pass
+4H AP
+[Play "S"]
+D8 D3 DJ D6
+D5 D4 DQ H4
+H3 HJ H5 H7
+SA S2 S3 SQ
+CT CQ CK C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "64"]
+[West "Lev"]
+[North "Hamman"]
+[East "Mohan"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K852.J6.9743.AQ7 63.95.AKQJ2.KJ42 Q94.AKQT74.6.853 AJT7.832.T85.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+Pass 1D 1H Pass
+1NT Pass 2H AP
+[Play "S"]
+CT CA C4 C3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "1"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ.K8763.A3.QJ95 96.AT9.Q872.A762 432.QJ542.T9.K84 KQT875..KJ654.T3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 3S 3NT
+AP
+[Play "N"]
+S9 -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "Nickell"]
+[VisitTeam "Pavlicek"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "1"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ.K8763.A3.QJ95 96.AT9.Q872.A762 432.QJ542.T9.K84 KQT875..KJ654.T3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 3S 3NT
+AP
+[Play "N"]
+S9 S2 SQ SJ
+DQ D9 D4 D3
+D2 DT DJ DA
+HA H2 S5 H3
+D7 S3 DK C5
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "2"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J.K932.JT43.QJT5 T543.T6.A82.9863 Q2.J754.K75.AK72 AK9876.AQ8.Q96.4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1C 1S X 2S
+Pass 4S AP
+[Play "W"]
+CQ C3 C2 C4
+C5 C6 C7 S6
+SJ S3 S2 SA
+CJ S4 SQ SK
+D4 ST H7 S7
+HK HT H4 HQ
+DJ -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "2"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J.K932.JT43.QJT5 T543.T6.A82.9863 Q2.J754.K75.AK72 AK9876.AQ8.Q96.4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "E"]
+1H 1S 4H AP
+[Play "S"]
+SA SJ S5 S2
+C4 C5 C6 CK
+H8 HK H6 H4
+HQ H2 HT HJ
+D6 DJ DA D5
+S6 CT C8 CA
+SK H3 S3 SQ
+S7 CQ C3 C2
+S8 CJ C9 C7
+HA H9 D8 H5
+S9 D3 ST H7
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "3"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJT94.K4.T2.T432 7652.T875.J965.J A8.J.AQ874.AK765 K3.AQ9632.K3.Q98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "S"]
+1H Pass 2H 2NT
+3H 4C Pass 4H
+Pass 5C AP
+[Play "N"]
+H7 HJ HA H4
+H5 S8 H9 HK
+D5 DQ DK D2
+S2 SA S3 S4
+D6 DA D3 DT
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "3"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJT94.K4.T2.T432 7652.T875.J965.J A8.J.AQ874.AK765 K3.AQ9632.K3.Q98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "4"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K843.T92.T75.T64 5.J753.K43.AK987 AQ97.K84.AQJ6.J2 JT62.AQ6.982.Q53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+Pass 1C X 1NT
+Pass 2C X Pass
+2S Pass Pass 3C
+AP
+[Play "E"]
+C2 C3 CT CA
+H8 HQ H2 H3
+H4 HA H9 H5
+HK H6 HT HJ
+SA S2 S3 S5
+CJ CQ C4 C7
+S7 SJ SK C8
+S9 C5 C6 CK
+D6 D2 S4 H7
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "4"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K843.T92.T75.T64 5.J753.K43.AK987 AQ97.K84.AQJ6.J2 JT62.AQ6.982.Q53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Auction "W"]
+Pass 1C X 1S
+Pass 2C AP
+[Play "E"]
+H4 H6 H9 HJ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "5"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:653.J864.AKJ63.2 42.KQT.QT74.8654 KQJT8.A2.82.KQJT A97.9753.95.A973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 2C Pass 3S
+Pass 4S AP
+[Play "S"]
+D9 DA D7 D2
+S7 S3 S2 SK
+SA S5 S4 SQ
+H3 H4 HT HA
+S9 S6 C4 SJ
+C3 C2 C5 CK
+CA D3 C6 CQ
+H5 -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "5"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:653.J864.AKJ63.2 42.KQT.QT74.8654 KQJT8.A2.82.KQJT A97.9753.95.A973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 3C Pass 3S
+Pass 4H Pass 4S
+AP
+[Play "S"]
+CA C2 C8 CT
+H5 H4 HQ HA
+S7 S3 S2 SK
+SA S5 S4 SQ
+H3 H6 HT H2
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "6"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:6.Q97542.2.AKJ96 J974.T3.96543.73 AK52.AKJ8.K87.T2 QT83.6.AQJT.Q854"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Auction "E"]
+1D Pass 1H Pass
+3H Pass 4S Pass
+5C Pass 6H AP
+[Play "N"]
+S4 SA S8 S6
+H3 HA H6 H2
+HT HK S3 H4
+S7 SK ST D2
+C3 C2 C4 CA
+C7 CT C5 CK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "6"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:6.Q97542.2.AKJ96 J974.T3.96543.73 AK52.AKJ8.K87.T2 QT83.6.AQJT.Q854"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Auction "E"]
+1C 1D 1H 4D
+4H Pass 4S Pass
+4NT Pass 6H AP
+[Play "N"]
+D3 D7 DQ D2
+H3 H8 H6 H2
+-  HA -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "7"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.T862.KT5.AT743 K9832.Q9.J3.KQ92 AQ.J73.AQ9872.85 JT754.AK54.64.J6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1S 2D
+3D 4D Pass Pass
+4S AP
+[Play "E"]
+DA D4 D5 D3
+D9 D6 DK DJ
+C5 C6 CA C2
+C8 CJ C4 CK
+H3 HK H2 H9
+SA SJ S6 SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "7"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.T862.KT5.AT743 K9832.Q9.J3.KQ92 AQ.J73.AQ9872.85 JT754.AK54.64.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1S 2D
+3D 3S Pass 3NT
+AP
+[Play "S"]
+S5 S6 SK SA
+D4 DT D3 DA
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "8"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:76.J98.Q6.KJ7432 Q942.AT4.98743.A AJ.K765.KJT2.865 KT853.Q32.A5.QT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1D 1S
+3C 4S AP
+[Play "W"]
+DQ D3 D2 DA
+C2 CA C6 CT
+S6 S2 SA S3
+D6 D4 DK D5
+C3 D7 DJ SK
+CJ S4 C5 C9
+S7 SQ SJ S5
+H8 HT HK H2
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "8"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:76.J98.Q6.KJ7432 Q942.AT4.98743.A AJ.K765.KJT2.865 KT853.Q32.A5.QT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1H 1S
+Pass 3H Pass 3S
+Pass 4S AP
+[Play "W"]
+H8 H4 HK H2
+HJ HA H7 H3
+S6 S2 SA S3
+DQ D3 D2 D5
+D6 D4 DJ DA
+S7 S4 SJ SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "9"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT862.J63.AJ94.4 A53.KQ954.T2.A97 974..Q65.QJT8532 KJ.AT872.K873.K6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1H Pass 2NT Pass
+3NT Pass 4H AP
+[Play "E"]
+CQ CK C4 C7
+C5 H2 H3 HK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "9"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT862.J63.AJ94.4 A53.KQ954.T2.A97 974..Q65.QJT8532 KJ.AT872.K873.K6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1H Pass 3C Pass
+3H Pass 3S Pass
+4C Pass 4H AP
+[Play "E"]
+CQ -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "10"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T432..AQJ987.KT5 KJ8.8654.K64.AJ4 A75.KT972.2.Q986 Q96.AQJ3.T53.732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 2D AP
+[Play "N"]
+H6 H9 HJ D8
+D4 D2 D5 DA
+D6 H2 D3 DJ
+CA C6 C2 CK
+H5 HK HA D7
+C4 C8 C3 CT
+CJ CQ C7 C5
+H4 HT HQ D9
+S8 SA S6 S2
+H8 H7 H3 DQ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "10"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T432..AQJ987.KT5 KJ8.8654.K64.AJ4 A75.KT972.2.Q986 Q96.AQJ3.T53.732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 2D AP
+[Play "N"]
+H5 HT HJ D7
+C4 CQ C2 C5
+CJ C6 C3 CT
+CA C8 C7 CK
+H4 H9 HQ D8
+S8 S5 S9 S3
+SJ SA S6 S4
+DK D2 D3 DQ
+SK S7 SQ S2
+H6 H7 HA D9
+D4 H2 D5 DA
+D6 HK DT DJ
+H8 C9 H3 ST
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "11"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ85.J985.76.Q7 T2.Q763.A95.AJ43 97.A42.JT843.K96 A643.KT.KQ2.T852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Auction "S"]
+1C 1S X Pass
+1NT Pass 2C AP
+[Play "W"]
+SK S2 S7 S4
+D7 D5 D4 DQ
+C7 CJ CK C2
+D6 DA D3 D2
+CQ CA C6 C5
+HJ H3 H4 HT
+SQ ST S9 SA
+H5 H6 HA HK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "11"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ85.J985.76.Q7 T2.Q763.A95.AJ43 97.A42.JT843.K96 A643.KT.KQ2.T852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+1C 1S X Pass
+1NT Pass 2NT AP
+[Play "W"]
+SK S2 S7 S3
+SJ ST S9 S4
+S8 D5 D4 SA
+C7 CJ CK C2
+D6 DA DJ D2
+CQ CA C6 C5
+D7 C3 C9 CT
+S5 C4 H4 C8
+H5 H3 HA HK
+HJ HQ H2 HT
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "12"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT864.K9532.KJ9. Q72.AQJ86.AT653. 93.7.Q8742.J9752 KJ5.T4..AKQT8643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1S 2H Pass 3C
+Pass 3D Pass 3NT
+AP
+[Play "W"]
+S6 S2 S9 SJ
+H2 D3 C7 CA
+S4 D5 C5 CK
+S8 D6 C2 CQ
+H3 H6 H7 HT
+H5 HJ D2 H4
+SA SQ S3 S5
+DK DA D4 C3
+H9 HA C9 C4
+ST S7 D7 SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "12"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT864.K9532.KJ9. Q72.AQJ86.AT653. 93.7.Q8742.J9752 KJ5.T4..AKQT8643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1S 2S Pass 3NT
+AP
+[Play "W"]
+H2 H6 H7 HT
+S4 D3 C2 CA
+S6 D5 C5 CK
+D9 D6 C7 CQ
+H3 HQ D8 H4
+SA S2 S3 SK
+DK DA D2 C3
+S8 S7 S9 SJ
+ST SQ C9 S5
+H5 HA D4 C4
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "13"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q86.8742.JT76.32 AK5.K953.AQ2.A64 JT7.A.K853.KQT95 9432.QJT6.94.J87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+2NT Pass 3C Pass
+3H Pass 4H AP
+[Play "E"]
+CK C7 C2 CA
+HA H6 H2 H3
+C5 C8 C3 C4
+DK D4 D7 DQ
+C9 CJ D6 C6
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "13"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q86.8742.JT76.32 AK5.K953.AQ2.A64 JT7.A.K853.KQT95 9432.QJT6.94.J87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+2NT Pass 3C Pass
+3H Pass 4H AP
+[Play "E"]
+CK C7 C3 CA
+HA H6 H2 H9
+CQ C8 C2 C6
+C5 CJ H4 C4
+DK D4 D6 DQ
+D3 D9 DT DA
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "14"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J9854.A7.AK86.K3 K32.642.Q542.QT4 Q.KQT953.J93.A52 AT76.J8.T7.J9876"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1S Pass
+2H Pass 4H AP
+[Play "S"]
+DT DA D4 D3
+SA S4 S2 SQ
+D7 DK D2 D9
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "14"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J9854.A7.AK86.K3 K32.642.Q542.QT4 Q.KQT953.J93.A52 AT76.J8.T7.J9876"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1S Pass
+2H Pass 3D Pass
+3H Pass 4H AP
+[Play "S"]
+C6 CK C4 C2
+SA S4 S2 SQ
+D7 DA D5 D3
+C7 C3 CQ CA
+C8 H7 CT C5
+H8 HA H2 H3
+S6 S5 S3 HT
+HJ -  -  HK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "15"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ6.T954.A3.AT95 98732.AQ6.Q6.832 QT54.K832.K9.J64 K.J7.JT87542.KQ7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 1H
+2D 2H AP
+[Play "S"]
+SK SA S8 S5
+HJ HT H6 H2
+D7 DA D6 D9
+H7 H9 HA H3
+D4 D3 DQ DK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "15"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ6.T954.A3.AT95 98732.AQ6.Q6.832 QT54.K832.K9.J64 K.J7.JT87542.KQ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Auction "S"]
+Pass 1H Pass 2H
+3D AP
+[Play "W"]
+H4 H6 H8 HJ
+H5 HQ HK H7
+SA S2 S4 SK
+S6 S3 S5 D2
+D3 D6 DK DJ
+CA C2 CJ CK
+DA DQ D9 D4
+SJ S7 ST D5
+C5 C3 C4 CQ
+C9 C8 C6 C7
+H9 HA H2 D7
+CT S8 H3 D8
+HT S9 SQ DT
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "16"]
+[West "Smith"]
+[North "Nickell"]
+[East "Willenken"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:86432.J.8532.Q92 75.983.KJ76.AJ73 KQT.KT762.T9.T86 AJ9.AQ54.AQ4.K54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 2NT
+Pass 3S Pass 3NT
+AP
+[Play "W"]
+S6 S5 SQ SA
+D2 D6 D9 DA
+D3 D7 DT DQ
+D5 DJ C6 D4
+D8 DK ST C4
+HJ H9 HK HA
+S2 S7 SK SJ
+S3 H8 H6 H4
+S4 H3 H7 HQ
+S8 C3 H2 S9
+C2 C7 C8 CK
+C9 CA CT C5
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "16"]
+[West "Hamman"]
+[North "Pavlicek"]
+[East "Soloway"]
+[South "Polowan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:86432.J.8532.Q92 75.983.KJ76.AJ73 KQT.KT762.T9.T86 AJ9.AQ54.AQ4.K54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 2NT
+Pass 3NT AP
+[Play "W"]
+S3 S5 SQ SA
+D2 D6 D9 DA
+D3 D7 DT DQ
+D5 DJ H2 D4
+D8 DK H6 H4
+HJ H3 H7 HQ
+C2 C3 C6 CK
+C9 CA C8 C4
+S2 H8 HT HA
+CQ C7 CT C5
+S4 S7 SK S9
+S6 H9 HK H5
+S8 CJ ST SJ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "17"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A7.AKJT3.T53.AK2 K3.7652.Q84.Q864 Q9652.4.K9762.T9 JT84.Q98.AJ.J753"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass Pass 2NT
+Pass 3H Pass 3S
+Pass 3NT AP
+[Play "N"]
+C4 C9 CJ C2
+C6 CT C7 CA
+D4 D9 DJ D5
+C8 S2 C5 CK
+D8 DK DA D3
+CQ S5 C3 H3
+DQ D2 S8 DT
+H7 H4 HQ HA
+H2 D6 H8 HK
+H5 D7 H9 HJ
+H6 S6 S4 HT
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "17"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A7.AKJT3.T53.AK2 K3.7652.Q84.Q864 Q9652.4.K9762.T9 JT84.Q98.AJ.J753"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2NT
+Pass 3C Pass 3D
+Pass 3NT AP
+[Play "N"]
+C4 C9 CJ CA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "18"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJT7.J9.KT5.QT93 842.KQT63.42.K54 A96.8742.AQJ98.J Q53.A5.763.A8762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S Pass
+2S AP
+[Play "N"]
+HK H2 HA H9
+HQ H4 H5 HJ
+D4 DQ D7 D5
+S4 S6 S5 SJ
+S8 SA S3 S7
+S2 S9 SQ SK
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "18"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJT7.J9.KT5.QT93 842.KQT63.42.K54 A96.8742.AQJ98.J Q53.A5.763.A8762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S Pass
+2D Pass 3D Pass
+3S AP
+[Play "N"]
+HK H2 HA H9
+-  -  H5 -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "19"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT752.2.J85.A843 983.JT64.AT974.K K4.98.KQ632.T952 AQ6.AKQ753..QJ76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+1C Pass 2C Pass
+2D Pass 3D X
+3S Pass 4C Pass
+6H AP
+[Play "W"]
+D5 DA D3 S6
+H2 H4 H8 HA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "19"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT752.2.J85.A843 983.JT64.AT974.K K4.98.KQ632.T952 AQ6.AKQ753..QJ76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+1H Pass 3D Pass
+3S Pass 4C Pass
+6H AP
+[Play "W"]
+CA CK C2 C6
+SJ S3 -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "20"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9832.86.QT64.Q96 JT7.Q974.AK3.K53 AQ6.KJT2.975.AJ7 K54.A53.J82.T842"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+Pass 1D X 1S
+Pass 1NT AP
+[Play "E"]
+D9 DJ DQ DA
+SA S4 S3 ST
+D7 D8 DT DK
+D5 D2 D6 D3
+C7 H3 D4 H4
+HJ HA H8 H9
+HT H5 H6 H7
+HK C2 C6 HQ
+H2 C4 C9 C3
+CA C8 CQ C5
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "20"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9832.86.QT64.Q96 JT7.Q974.AK3.K53 AQ6.KJT2.975.AJ7 K54.A53.J82.T842"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass 1C X 1NT
+AP
+[Play "W"]
+S9 SJ SA S5
+DQ DA D5 DJ
+C9 C3 C7 C8
+D4 DK D7 D2
+DT D3 D9 D8
+D6 H4 H2 H3
+H8 H9 HT HA
+C6 C5 CJ C2
+CQ CK CA C4
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "21"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ.KQ.KJ532.K984 A98643.87.AQT9.5 75.T9542.864.T72 KT2.AJ63.7.AQJ63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4C Pass
+4S AP
+[Play "E"]
+H2 HA HQ H7
+C7 CA C4 C5
+C2 CQ C8 H8
+H4 H3 HK S3
+D4 D7 D2 DA
+D6 S2 D3 DT
+H5 HJ SJ SA
+D8 ST DJ D9
+-  H6 SQ DQ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "21"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ.KQ.KJ532.K984 A98643.87.AQT9.5 75.T9542.864.T72 KT2.AJ63.7.AQJ63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+1S Pass 2C Pass
+2D Pass 2S Pass
+3S Pass 4C Pass
+4D Pass 4H Pass
+4S AP
+[Play "E"]
+HT HA HQ H7
+C2 CA C4 C5
+C7 CQ CK S3
+D4 D7 D2 DA
+D6 S2 D3 D9
+CT CJ C8 H8
+H2 H3 HK S4
+D8 ST DJ DT
+H4 HJ SJ SA
+H5 SK D5 DQ
+-  C3 -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "22"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K75.T943.QT63.K2 JT96.AQ2.87.J986 AQ8.K7.AK54.T753 432.J865.J92.AQ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "4"]
+[Auction "E"]
+1NT Pass Pass 2C
+Pass Pass X AP
+[Play "E"]
+C3 C4 CK C6
+C5 CQ C2 C8
+HK H5 H4 HQ
+H7 H8 H9 HA
+C7 CA S5 C9
+S8 S2 SK S6
+SQ S3 S7 ST
+DK D2 D3 D7
+DA D9 D6 D8
+D4 DJ DQ CJ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "22"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K75.T943.QT63.K2 JT96.AQ2.87.J986 AQ8.K7.AK54.T753 432.J865.J92.AQ4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "S"]
+H5 H3 HA H7
+S4 S5 SJ SA
+D2 D6 D7 DA
+D9 D3 D8 DK
+DJ DQ S6 D4
+S3 DT S9 D5
+S2 S7 ST SQ
+C4 CK C6 C3
+H6 SK C9 S8
+H8 H4 HQ HK
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "23"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A642.J6.QJ876.J7 KT.98542.92.AT95 Q87.T73.AT4.KQ32 J953.AKQ.K53.864"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass 1NT AP
+[Play "E"]
+C2 C4 CJ CA
+H3 HQ H6 H4
+H7 HK HJ H2
+HT HA S4 H5
+S7 S3 S2 SK
+D4 C6 D6 H9
+DT C8 D7 H8
+S8 S5 SA ST
+CQ S9 C7 C9
+DA D3 D8 D2
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "23"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A642.J6.QJ876.J7 KT.98542.92.AT95 Q87.T73.AT4.KQ32 J953.AKQ.K53.864"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass 2H AP
+[Play "E"]
+S7 S3 SA ST
+C3 C4 CJ CA
+H7 HA H6 H2
+H3 HK HJ H4
+HT HQ D6 H5
+CQ C8 C7 C5
+D4 DK D7 D2
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "24"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.QJ8.8742.A632 AKJT.K632.A9.T85 653.A97.KQJT.KJ4 9872.T54.653.Q97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass 1NT AP
+[Play "E"]
+DK D3 D2 D9
+DJ D5 D4 DA
+S3 S2 S4 SA
+S5 S7 SQ SK
+S6 S8 C6 ST
+C4 S9 C2 SJ
+CK C7 C3 C8
+DQ D6 D7 H2
+DT H4 D8 H3
+H7 H5 HJ HK
+H9 HT HQ H6
+CJ C9 CA C5
+HA CQ H8 CT
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "24"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.QJ8.8742.A632 AKJT.K632.A9.T85 653.A97.KQJT.KJ4 9872.T54.653.Q97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+Pass 1NT AP
+[Play "E"]
+DK -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "25"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:7.J84.J843.KQ873 AJ53.KQ962.2.J64 K962.AT73.KQ5.AT QT84.5.AT976.952"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1H 1NT AP
+[Play "S"]
+D9 D3 D2 DK
+D6 D4 H2 DQ
+DA D8 H6 D5
+S4 S7 SJ SK
+C2 C3 C4 CA
+C5 CK C6 CT
+C9 CQ CJ S2
+S8 C8 SA S6
+H5 C7 S3 S9
+D7 HJ HK HA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "25"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:7.J84.J843.KQ873 AJ53.KQ962.2.J64 K962.AT73.KQ5.AT QT84.5.AT976.952"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1H Pass 1S Pass
+2S AP
+[Play "W"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "26"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A765.82.KJ75.QT5 KT82.AJ965.84.A9 QJ43.KT4.A9.K832 9.Q73.QT632.J764"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1S 2H
+2S 3H Pass Pass
+3S AP
+[Play "N"]
+D8 D9 DQ DK
+S2 SQ S9 S6
+S8 S3 D3 SA
+C9 CK C4 C5
+D4 DA D2 D5
+CA C2 C6 CT
+SK S4 H3 S5
+ST SJ H7 S7
+H5 C3 C7 CQ
+H6 C8 D6 DJ
+HJ HK HQ H2
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "26"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A765.82.KJ75.QT5 KT82.AJ965.84.A9 QJ43.KT4.A9.K832 9.Q73.QT632.J764"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1D X
+Pass 1H 1S 2H
+2S AP
+[Play "N"]
+HA -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "27"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQ87.QJ43.J5.J42 T432.A76.T843.AK J6.K82.AKQ92.876 A95.T95.76.QT953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D Pass
+1NT Pass Pass 2D
+AP
+[Play "S"]
+HT HJ HA H2
+C3 C2 CA C6
+C5 C4 CK C7
+SA S7 S2 S6
+CQ CJ H6 C8
+CT D5 D8 D9
+-  -  -  D2
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "27"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQ87.QJ43.J5.J42 T432.A76.T843.AK J6.K82.AKQ92.876 A95.T95.76.QT953"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H AP
+[Play "N"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "28"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K.J765.K5.KJT843 J32.KT43.Q97.A92 A9865.Q2.AT862.Q QT74.A98.J43.765"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 2D Pass
+2NT Pass 3D AP
+[Play "S"]
+D3 D5 DQ DA
+C7 CK CA CQ
+HA H5 H3 H2
+H9 H6 HK HQ
+H8 HJ H4 S5
+D4 DK D7 D2
+C5 CJ C2 S6
+C6 CT C9 S8
+S4 SK S2 S9
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "28"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K.J765.K5.KJT843 J32.KT43.Q97.A92 A9865.Q2.AT862.Q QT74.A98.J43.765"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 2D Pass
+2NT AP
+[Play "N"]
+H3 -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "29"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:975.A654.QJ54.KT Q82.J3.AT732.AJ5 AJ4.Q9.8.9876432 KT63.KT872.K96.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1H Pass
+1NT Pass 2C Pass
+2D Pass 2H AP
+[Play "W"]
+D5 D2 D8 D9
+H4 HJ HQ H2
+S9 SQ S4 S6
+HA H3 H9 HT
+CK CA C2 CQ
+CT C5 C8 H7
+H5 S2 C3 HK
+H6 S8 C4 H8
+D4 D3 C6 DK
+DJ DA C7 D6
+S5 CJ C9 S3
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "29"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:975.A654.QJ54.KT Q82.J3.AT732.AJ5 AJ4.Q9.8.9876432 KT63.KT872.K96.Q"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H Pass
+1NT AP
+[Play "E"]
+C4 -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "30"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQJT6.82.53.AKT8 854.AQJ.AJ6.QJ96 3.T9543.K942.743 A972.K76.QT87.52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1S X
+Pass 1NT 2C X
+Pass Pass 2S Pass
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+SK S4 S3 S7
+ST S5 C3 SA
+D5 D6 DK DT
+CK C6 C4 C5
+SQ -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "30"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQJT6.82.53.AKT8 854.AQJ.AJ6.QJ96 3.T9543.K942.743 A972.K76.QT87.52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+SK -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "31"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQ53.Q5.QJ3.A865 7.K97.AK8765.QJ9 92.T82.T92.KT432 KJT864.AJ643.4.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1S 1NT X XX
+2H Pass 4H AP
+[Play "W"]
+DQ DA D2 D4
+D3 DK D9 C7
+SQ S7 S2 SJ
+C6 CQ CK H3
+S3 D5 S9 SK
+H5 HK H2 H4
+HQ H7 H8 HA
+S5 D6 HT ST
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "31"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQ53.Q5.QJ3.A865 7.K97.AK8765.QJ9 92.T82.T92.KT432 KJT864.AJ643.4.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 2NT Pass
+3H Pass 4H AP
+[Play "W"]
+CA -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "32"]
+[West "Polowan"]
+[North "Meckstroth"]
+[East "Pavlicek"]
+[South "Rodwell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:8653.T73.A864.T9 A74.AQ962.KJ2.Q5 KQ92.J84.75.J632 JT.K5.QT93.AK874"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1NT
+Pass 2C Pass 2D
+Pass 2NT Pass 3D
+Pass 3NT AP
+[Play "W"]
+S3 S4 SQ ST
+S5 S7 SK SJ
+S6 SA S2 D3
+H3 H2 H4 HK
+H7 HA H8 H5
+HT HQ HJ D9
+D4 H9 D5 DT
+-  H6 -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "32"]
+[West "Freeman"]
+[North "Willenken"]
+[East "Nickell"]
+[South "Smith"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:8653.T73.A864.T9 A74.AQ962.KJ2.Q5 KQ92.J84.75.J632 JT.K5.QT93.AK874"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1NT Pass 2S
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+SQ ST S6 S4
+SK SJ S3 S7
+S9 D3 S5 SA
+H4 HK H3 H6
+H8 H5 H7 HA
+HJ D9 HT HQ
+D7 DT D4 H9
+D5 DQ D6 H2
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "33"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T986.94.J754.765 KJ7.AQJT.AQ9.J82 A5.83.K8632.KQ93 Q432.K7652.T.AT4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1C 1D X Pass
+3NT AP
+[Play "E"]
+CK CA C7 C2
+SA S2 S8 SK
+C3 C4 C5 C8
+H3 H2 H4 HA
+H8 H5 H9 HQ
+D2 H6 D4 HJ
+D3 HK D5 HT
+S5 H7 D7 D9
+D6 S3 S6 SJ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "Milner"]
+[VisitTeam "Baze"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "33"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T986.94.J754.765 KJ7.AQJT.AQ9.J82 A5.83.K8632.KQ93 Q432.K7652.T.AT4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "N"]
+1C 1D X 2D
+3H Pass 4H AP
+[Play "E"]
+D3 DT DJ DQ
+S5 S2 S6 SK
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "34"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:72.KJ82.KJ4.AKT6 T943.973.A985.Q7 A865.A65.Q7632.8 KQJ.QT4.T.J95432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2H Pass
+3NT AP
+[Play "N"]
+D5 D2 DT DK
+DA D3 C5 DJ
+S3 S5 SJ S7
+S4 S6 SK S2
+S9 SA SQ H2
+D8 DQ C2 D4
+D9 D7 H4 C6
+ST S8 -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "34"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:72.KJ82.KJ4.AKT6 T943.973.A985.Q7 A865.A65.Q7632.8 KQJ.QT4.T.J95432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2H Pass
+3NT AP
+[Play "N"]
+D5 D2 DT DK
+DA D3 C2 DJ
+S3 S5 SJ S2
+S4 S6 SQ S7
+ST SA SK C6
+H3 H5 H4 HJ
+H7 HA HQ H2
+H9 H6 HT HK
+C7 D6 C3 H8
+D9 DQ C4 D4
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "35"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J9853.A8.K63.K73 2.Q743.A98.AT652 AKT74.5.QJ75.984 Q6.KJT962.T42.QJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Auction "S"]
+2D Pass 2H Pass
+Pass 2S 3H 4S
+Pass Pass 5H Pass
+Pass X AP
+[Play "E"]
+SA S6 S8 S2
+DQ D2 D3 DA
+H5 HJ HA H3
+DJ D4 D6 D8
+D7 DT DK D9
+S7 SQ S5 H4
+S4 -  -  H7
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "35"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J9853.A8.K63.K73 2.Q743.A98.AT652 AKT74.5.QJ75.984 Q6.KJT962.T42.QJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+2H Pass 4C Pass
+4H AP
+[Play "W"]
+S5 S2 SK S6
+DK D8 D5 D4
+D6 DA D7 D2
+HA H3 H5 HT
+D3 D9 DQ DT
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "36"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ985.62.A3.A874 3.7543.KJT764.QJ J76.KT98.Q5.K965 KT42.AQJ.982.T32"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1S Pass 2S AP
+[Play "N"]
+CQ CK C3 C4
+S3 SJ S2 S5
+H4 S6 S4 SQ
+H3 H8 HJ H6
+D4 S7 SK SA
+H5 H9 HQ H2
+H7 C5 ST S8
+DK D5 D8 D3
+D6 DQ D2 DA
+CJ C9 C2 C7
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "36"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ985.62.A3.A874 3.7543.KJT764.QJ J76.KT98.Q5.K965 KT42.AQJ.982.T32"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+1S Pass 2S Pass
+3C Pass 4S AP
+[Play "N"]
+CQ C5 C2 CA
+H7 HK HA H6
+D7 D5 D9 DA
+H3 H8 HJ H2
+DK DQ D8 D3
+D4 S6 D2 C8
+S3 SJ SK SA
+D6 S7 S2 SQ
+-  -  -  S9
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "37"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:6.A65.KJ8643.QT3 AT87.972.A95.AJ2 Q4.KQJ3.QT.K8654 KJ9532.T84.72.97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1C 1H Pass 2D
+Pass 2NT Pass 4H
+AP
+[Play "S"]
+C7 CT CJ CK
+D2 D3 D5 DT
+D7 DK DA DQ
+C9 C3 CA C4
+S2 S6 SA S4
+S3 D4 D9 HK
+H4 H5 H2 HQ
+H8 H6 H7 HJ
+HT HA H9 H3
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "37"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:6.A65.KJ8643.QT3 AT87.972.A95.AJ2 Q4.KQJ3.QT.K8654 KJ9532.T84.72.97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1C 1H 1S 2C
+2S Pass Pass 3D
+AP
+[Play "N"]
+SA S4 S9 S6
+S7 SQ SK D3
+D5 DQ D2 D4
+DA DT D7 D6
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "38"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ63.A842.92.AQT AT974.JT93.A.J43 Q85.K765.QJ754.5 2.Q.KT863.K98762"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4CX"]
+[Result "9"]
+[Auction "E"]
+Pass 2NT X 3C
+3H 4C Pass Pass
+X AP
+[Play "E"]
+C5 C6 CQ C4
+H5 HQ HA H3
+H6 C2 CA C3
+S8 C7 CT CJ
+HK C8 H2 HJ
+S5 S2 S3 SA
+H7 D3 H4 HT
+D4 D6 H8 H9
+SQ C9 S6 S4
+D5 D8 D2 DA
+D7 CK SJ S9
+DJ DK D9 S7
+DQ DT SK ST
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "38"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ63.A842.92.AQT AT974.JT93.A.J43 Q85.K765.QJ754.5 2.Q.KT863.K98762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1C 1S
+X Pass 2H AP
+[Play "N"]
+SA S5 S2 S6
+DA D4 D3 D2
+ST S8 HQ S3
+S4 D5 DK D9
+S7 D7 DT HA
+H3 HK D6 H2
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "39"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q954.KQ.973.AKJ3 AT7.542.KQJ5.976 63.AJT7.A864.QT8 KJ82.9863.T2.542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3NT
+AP
+[Play "N"]
+DK -  -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "39"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q954.KQ.973.AKJ3 AT7.542.KQJ5.976 63.AJT7.A864.QT8 KJ82.9863.T2.542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3NT
+AP
+[Play "N"]
+DK -  -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "40"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T964.AKQT52.87.6 KQJ73.97.J95.AQ7 85.843.KT63.J983 A2.J6.AQ42.KT542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1H 1S 2H 4S
+AP
+[Play "E"]
+H3 H6 HT H7
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "40"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T964.AKQT52.87.6 KQJ73.97.J95.AQ7 85.843.KT63.J983 A2.J6.AQ42.KT542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "11"]
+[Auction "W"]
+2D 2S Pass 3S
+AP
+[Play "E"]
+H3 H6 HK H7
+H4 HJ HA H9
+DT DQ D8 D5
+S5 SA S4 S3
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "41"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:6532.KQ82.A83.T2 94.AJ9643.2.8764 K.T75.KQJ964.AJ9 AQJT87..T75.KQ53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+2D 3D 3S 4D
+Pass Pass 4S AP
+[Play "W"]
+DA D2 D6 D7
+CT C4 C9 CK
+D8 S4 D4 D5
+H2 HA H5 DT
+-  S9 SK SA
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "41"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:6532.KQ82.A83.T2 94.AJ9643.2.8764 K.T75.KQJ964.AJ9 AQJT87..T75.KQ53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+2H 3D Pass 3NT
+AP
+[Play "N"]
+H6 HT C3 H2
+D2 D6 DT DA
+H3 DK D7 D3
+H4 DQ D5 D8
+C4 DJ S8 S2
+S9 D9 C5 S3
+C6 D4 S7 S5
+HA H5 CQ HQ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "42"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AJ95.JT9654.K6.6 QT63.A7.T84.Q954 74.Q3.AQ75.AK832 K82.K82.J932.JT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 3H Pass
+4H AP
+[Play "N"]
+S3 S4 SK S5
+S6 S7 S8 SA
+ST HQ S2 S9
+C4 CA C7 C6
+C5 CK CT SJ
+HA H3 H2 HJ
+D8 D5 DJ DK
+H7 C2 HK HT
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "42"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AJ95.JT9654.K6.6 QT63.A7.T84.Q954 74.Q3.AQ75.AK832 K82.K82.J932.JT7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 4D Pass
+4H AP
+[Play "S"]
+CJ C6 C9 CA
+H2 HJ HA H3
+HK H4 H7 HQ
+CT HT C4 C2
+H8 H9 D4 C8
+C7 H5 D8 S7
+D3 H6 DT D5
+D2 DK S3 D7
+D9 D6 S6 DQ
+S2 S5 C5 CK
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "43"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q986.976.J865.QJ KT53.KJ843.92.98 742.A2.KT7.T7432 AJ.QT5.AQ43.AK65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1H Pass
+2D Pass 3S Pass
+4H AP
+[Play "E"]
+C2 CA CQ C8
+HA HQ H6 H3
+C3 CK CJ C9
+H2 HT H7 H4
+C4 H5 H9 HK
+S2 SJ SQ S3
+S4 SA S6 S5
+C7 C5 D5 H8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "43"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q986.976.J865.QJ KT53.KJ843.92.98 742.A2.KT7.T7432 AJ.QT5.AQ43.AK65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+2NT Pass 3C Pass
+3D Pass 3S Pass
+4C Pass 4H AP
+[Play "E"]
+D7 DQ D6 D2
+DT DA D5 D9
+C2 CA CJ C8
+C3 CK CQ C9
+S2 SA S6 S3
+S4 SJ S8 SK
+-  -  -  ST
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "44"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8532.AQ.3.QJT82 QJ.T43.9642.AK73 KT94.J95.AJ8.954 76.K8762.KQT75.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2S Pass
+4S AP
+[Play "N"]
+CA C4 C6 CT
+CK C5 D7 C2
+C7 C9 S6 C8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "44"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8532.AQ.3.QJT82 QJ.T43.9642.AK73 KT94.J95.AJ8.954 76.K8762.KQT75.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2S Pass
+3C Pass 3D Pass
+3S AP
+[Play "N"]
+CA C4 C6 CT
+CK C5 H2 C2
+C3 C9 S6 C8
+D6 DA DK D3
+-  SK S7 -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "45"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJ6.J94.A73.AQT7 8754..J9654.K986 A932.A83.Q2.J542 KT.KQT7652.KT8.3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H X
+Pass 2S 3H Pass
+Pass X AP
+[Play "W"]
+H4 D4 H8 HT
+CA C6 C4 C3
+SQ S4 SA ST
+S6 S5 S2 SK
+H9 D5 HA HK
+HJ C8 H3 HQ
+C7 D6 C2 H7
+D3 D9 S3 H6
+DA DJ -  DK
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "45"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJ6.J94.A73.AQT7 8754..J9654.K986 A932.A83.Q2.J542 KT.KQT7652.KT8.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H X
+Pass 2S AP
+[Play "S"]
+HK H4 S4 H3
+DK D3 D5 DQ
+C3 CA C9 C4
+ST S6 S5 SA
+SK SJ S7 S2
+DT DA D4 D2
+H2 SQ S8 S3
+H5 CQ CK C2
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "46"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT.K6.QJT7643.A3 AJ72.QJ85.A8.964 954.T42.K.QJT872 K863.A973.952.K5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2NT Pass 3D AP
+[Play "N"]
+HQ H2 HA H6
+H5 H4 H3 HK
+DA DK D2 D3
+H8 HT H7 D4
+D8 C2 D5 DQ
+C4 C7 D9 DJ
+C6 C8 S3 DT
+S2 S4 S6 D7
+C9 S5 -  D6
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "46"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT.K6.QJT7643.A3 AJ72.QJ85.A8.964 954.T42.K.QJT872 K863.A973.952.K5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D X
+2C 2D 3D Pass
+Pass 3H AP
+[Play "W"]
+DQ DA DK D5
+H6 H5 H2 HA
+HK H8 H4 H3
+DJ D8 CQ D2
+DT HJ C2 D9
+D3 HQ HT H7
+SQ S2 S4 SK
+ST SJ S5 S3
+D4 SA S9 S8
+D6 S7 C7 S6
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "47"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AKJ8.T83.984.QJT 94.Q52.AT2.A9872 T2.J96.KQJ73.K64 Q7653.AK74.65.53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NTX"]
+[Result "7"]
+[Auction "S"]
+Pass 1NT Pass Pass
+X AP
+[Play "N"]
+C7 C4 C3 CQ
+D2 DK D5 D9
+DT DQ D6 D8
+DA DJ C5 D4
+H5 H9 HK H8
+S4 S2 S5 SA
+CA C6 S3 CT
+HQ H6 H4 H3
+H2 HJ HA HT
+C2 ST H7 S8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "47"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AKJ8.T83.984.QJT 94.Q52.AT2.A9872 T2.J96.KQJ73.K64 Q7653.AK74.65.53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "6"]
+[Auction "S"]
+Pass 1C Pass 1D
+X Pass 1H 2C
+AP
+[Play "N"]
+C7 C4 C3 CT
+D2 DK D6 D8
+S4 ST S3 S8
+S9 S2 S5 SJ
+C8 CK S6 SK
+H5 H6 HK H3
+CA C6 C5 CJ
+HQ H9 H4 H8
+C2 D3 S7 CQ
+C9 HJ SQ SA
+DA D7 D5 D4
+H2 DJ HA HT
+DT DQ H7 D9
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "48"]
+[West "Aa"]
+[North "Pszczola"]
+[East "Groetheim"]
+[South "Gawrys"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J7.KT72.65.AQ854 Q8543.964.KQ.T96 T9.AQ8.AJT972.K2 AK62.J53.843.J73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT AP
+[Play "S"]
+S2 S7 SQ S9
+SA SJ S3 ST
+SK D5 S4 H8
+S6 D6 S8 D2
+D3 H2 S5 D7
+D4 C4 DK DA
+C3 C5 C6 CK
+C7 CA C9 C2
+CJ CQ CT D9
+D8 C8 H4 HQ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "48"]
+[West "Lev"]
+[North "Baze"]
+[East "Mohan"]
+[South "Hayden"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J7.KT72.65.AQ854 Q8543.964.KQ.T96 T9.AQ8.AJT972.K2 AK62.J53.843.J73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT AP
+[Play "S"]
+S2 S7 SQ S9
+SK SJ S4 ST
+SA D5 S3 D2
+S6 C4 S8 DT
+C3 D6 S5 D7
+D3 C5 DQ DA
+C7 C8 C6 CK
+CJ CQ C9 C2
+D4 CA CT D9
+H3 H2 H4 HA
+H5 H7 H6 HQ
+HJ HK H9 H8
+D8 HT DK DJ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "49"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQT9.T983.A92.95 A4.Q52.KT873.QT2 8765.J6.J6.K8743 J32.AK74.Q54.AJ6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "E"]
+C4 C6 C9 CT
+D6 DQ DA D3
+S6 S2 SK SA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "49"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQT9.T983.A92.95 A4.Q52.KT873.QT2 8765.J6.J6.K8743 J32.AK74.Q54.AJ6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1H 1S
+X 2S 4H AP
+[Play "W"]
+SK S4 S6 S3
+S9 SA S7 S2
+C5 C2 C7 CJ
+SQ H2 S5 SJ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "50"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ973.Q9.K876.KT 85.J654.94.QJ862 AT2.A7.AJT2.A743 Q64.KT832.Q53.95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 2H Pass
+3S Pass 3NT Pass
+6S AP
+[Play "S"]
+C9 CK C6 C3
+S4 S3 S5 SA
+S6 S7 S8 ST
+SQ SK C2 S2
+DQ D6 D4 DJ
+C5 CT CJ CA
+D3 DK D9 D2
+D5 D7 C8 DA
+H2 D8 H4 DT
+H3 S9 CQ C4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "50"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ973.Q9.K876.KT 85.J654.94.QJ862 AT2.A7.AJT2.A743 Q64.KT832.Q53.95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass 3NT Pass
+4C Pass 4S AP
+[Play "S"]
+H8 HQ H4 H7
+SQ S3 S5 ST
+S4 S7 S8 SA
+S6 SJ H5 S2
+-  D6 -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "51"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T32.8754.A53.KQ3 K974.K2.Q9.97652 QJ.AT63.T8642.A8 A865.QJ9.KJ7.JT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT AP
+[Play "W"]
+H7 HK HA H9
+H4 H2 H3 HQ
+C3 C2 CA CJ
+H5 S4 HT HJ
+CQ C5 C8 CT
+H8 D9 H6 S5
+ST S7 SQ SA
+CK C6 D2 C4
+DA DQ D4 DJ
+S3 SK SJ S6
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "51"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T32.8754.A53.KQ3 K974.K2.Q9.97652 QJ.AT63.T8642.A8 A865.QJ9.KJ7.JT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+1NT AP
+[Play "W"]
+H7 HK HA H9
+H4 H2 H3 HQ
+D5 DQ D6 D7
+DA D9 DT DK
+C3 C2 CA C4
+CQ C5 C8 CT
+ST SK SJ S5
+S2 S4 SQ SA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "52"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J43.AJ7.KT4.8643 T72.K3.J98763.T5 Q9865.Q962.A2.Q9 AK.T854.Q5.AKJ72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1S 1NT
+2S 2NT Pass 3C
+Pass 3D AP
+[Play "E"]
+CQ CA C3 C5
+DA D5 D4 D7
+H2 H4 HA H3
+C9 C2 C8 CT
+D2 DQ DK D3
+-  -  H7 HK
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "52"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J43.AJ7.KT4.8643 T72.K3.J98763.T5 Q9865.Q962.A2.Q9 AK.T854.Q5.AKJ72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1S X
+2H 3D Pass 3NT
+AP
+[Play "W"]
+S4 S2 S8 SK
+C3 CT CQ C2
+S3 S7 S5 SA
+C4 C5 C9 CA
+C8 D3 D2 CK
+C6 D6 H2 CJ
+HJ ST H6 C7
+D4 D7 DA DQ
+-  -  SQ -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "53"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ876.8.AQ86.A76 A3.AQ65.KT2.JT98 J95.J32.J93.Q432 T42.KT974.754.K5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1H 1S
+2H 2S 3H 4S
+AP
+[Play "N"]
+CJ CQ CK CA
+SA S5 S2 SQ
+CT C2 C5 C6
+C9 C3 HT C7
+HA H2 H7 H8
+C8 C4 H4 S6
+S3 SJ S4 S8
+DK DJ D7 D6
+H5 H3 H9 S7
+D2 D3 D4 DA
+DT D9 D5 DQ
+H6 S9 ST SK
+HQ HJ HK D8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "53"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ876.8.AQ86.A76 A3.AQ65.KT2.JT98 J95.J32.J93.Q432 T42.KT974.754.K5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2D Pass
+2S Pass 3D 3S
+AP
+[Play "N"]
+SA S5 S2 S6
+HA H3 H4 H8
+H5 HJ HK S7
+C8 CQ CK C7
+DK D3 D4 D6
+CJ C2 C5 CA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "54"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:2.9.QT853.KJT954 AKQ76.AJ.42.A863 J9854.Q876.A6.72 T3.KT5432.KJ97.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass 2D Pass 2NT
+Pass 3S Pass 4C
+Pass 4H AP
+[Play "W"]
+S2 SA S5 S3
+H9 HA H6 H2
+CJ HJ H7 HK
+C4 SK S4 ST
+D8 SQ S8 D7
+D3 S6 S9 H3
+CK CA C7 CQ
+D5 D2 DA D9
+DT D4 D6 DK
+DQ C3 C2 DJ
+CT C6 SJ H4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "54"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:2.9.QT853.KJT954 AKQ76.AJ.42.A863 J9854.Q876.A6.72 T3.KT5432.KJ97.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Auction "E"]
+Pass 2H Pass 4H
+AP
+[Play "W"]
+S2 SA S5 S3
+DQ D2 D6 DJ
+D8 D4 DA D7
+H9 S6 SJ ST
+D5 HJ HQ D9
+C4 S7 S4 HT
+-  -  -  H2
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "55"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A985.2.KT642.AQ2 K32.76543.Q3.T83 Q64.AKJT9.85.K94 JT7.Q8.AJ97.J765"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 3H
+Pass 3NT AP
+[Play "N"]
+C8 C4 C7 CQ
+H7 H9 HQ H2
+CT C9 C5 CA
+SK S4 S7 S5
+C3 CK C6 C2
+H3 HA H8 D2
+H4 HK D9 D4
+H5 HJ D7 D6
+-  HT -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "55"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A985.2.KT642.AQ2 K32.76543.Q3.T83 Q64.AKJT9.85.K94 JT7.Q8.AJ97.J765"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2D
+Pass 2NT Pass 3NT
+AP
+[Play "N"]
+C3 C4 CJ CQ
+H3 H9 HQ H2
+CT CK C5 C2
+H4 HA H8 D6
+H7 HK C7 D2
+H6 HJ C6 S5
+H5 HT D7 S8
+D3 D5 D9 DK
+C8 C9 S7 CA
+S2 S4 SJ SA
+DQ D8 DA D4
+S3 S6 DJ DT
+SK SQ ST S9
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "56"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J65.JT97.T4.JT87 AQ94.64.9653.Q53 T8732.K3.KJ82.K6 K.AQ852.AQ7.A942"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1S 2H
+AP
+[Play "W"]
+S5 S9 ST SK
+H7 H4 H3 H2
+CJ C3 C6 C4
+C7 C5 CK CA
+H9 H6 HK HA
+HT D3 S2 HQ
+HJ D5 D2 H5
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "56"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J65.JT97.T4.JT87 AQ94.64.9653.Q53 T8732.K3.KJ82.K6 K.AQ852.AQ7.A942"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1D Pass 2H
+Pass 3NT AP
+[Play "E"]
+S8 SK S6 S4
+H3 H2 H7 H4
+C6 C2 CT C3
+CK CA CJ CQ
+S7 C9 C7 C5
+S2 C4 C8 S9
+D2 DQ DT D3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "57"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K8742.4.K5.KQJT2 AQ63.K753.962.A7 J9.QT8.AQ73.9865 T5.AJ962.JT84.43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1H 2H
+3H Pass 4H Pass
+Pass X AP
+[Play "W"]
+CK CA C8 C3
+H4 HK H8 H2
+S2 H3 HT HJ
+C2 H5 HQ HA
+S4 SQ S9 ST
+DK D2 D3 DJ
+CQ C7 C5 C4
+D5 D6 -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "57"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K8742.4.K5.KQJT2 AQ63.K753.962.A7 J9.QT8.AQ73.9865 T5.AJ962.JT84.43"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1H 1S
+2H X 3H 4C
+AP
+[Play "N"]
+H5 H8 H9 H4
+H7 HQ H2 C2
+SQ S9 S5 S4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "58"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT.J984.K63.T765 93.Q73.JT.AKJ832 KQ852.A5.AQ875.Q A764.KT62.942.94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Auction "E"]
+1S Pass Pass 2C
+2D AP
+[Play "S"]
+D4 D3 DT DA
+D2 DK DJ D5
+S4 ST S3 S2
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "58"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT.J984.K63.T765 93.Q73.JT.AKJ832 KQ852.A5.AQ875.Q A764.KT62.942.94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Auction "E"]
+1S Pass Pass 2C
+2D Pass Pass 3C
+Pass Pass 3D AP
+[Play "S"]
+C9 C5 CK CQ
+C4 C6 CA D7
+S4 ST S3 S5
+D2 DK DT D5
+D4 D3 DJ DA
+D9 D6 S9 DQ
+S6 -  -  S2
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "59"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T3.AQJ65.QJ3.Q95 K8654.K42.6.A764 AQ7.83.T97542.T3 J92.T97.AK8.KJ82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+1C 1H 1S Pass
+2S Pass 4S AP
+[Play "E"]
+H8 H9 HA H4
+H3 H7 HQ HK
+D2 DA D3 D6
+D4 DK DJ H2
+SA S2 S3 SK
+D9 D8 DQ S4
+S7 SJ ST S5
+C3 C2 C5 CA
+CT CJ CQ C4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "59"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T3.AQJ65.QJ3.Q95 K8654.K42.6.A764 AQ7.83.T97542.T3 J92.T97.AK8.KJ82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "S"]
+1D 1H 1S Pass
+1NT AP
+[Play "W"]
+DQ D6 D2 DA
+S3 SK SA S2
+DJ C4 DT DK
+C5 CA C3 C8
+ST S4 SQ S9
+D3 H2 D9 D8
+H5 S5 D7 H7
+H6 C6 D5 C2
+HJ C7 D4 H9
+HA H4 H3 HT
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "60"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQJ.QJ5.T986.K8 4.AT864.A3.J9752 T7653..K742.QT64 982.K9732.QJ5.A3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Auction "W"]
+1NT Pass 2H Pass
+2S AP
+[Play "N"]
+C5 C4 CA C8
+C2 C6 C3 CK
+S4 S3 S2 SA
+H4 S5 S8 SK
+C7 S6 S9 SQ
+D3 D2 DQ DT
+HA S7 H3 HQ
+C9 CT H2 SJ
+DA D4 D5 D9
+H6 -  -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "60"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQJ.QJ5.T986.K8 4.AT864.A3.J9752 T7653..K742.QT64 982.K9732.QJ5.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Auction "W"]
+1NT 2H 2S 4H
+4S Pass Pass 5H
+X AP
+[Play "E"]
+S7 S9 SQ S4
+DK D5 D6 D3
+C4 CA C8 C2
+D4 H2 HJ HA
+D2 DJ D8 DA
+CT C3 CK C7
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "61"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K.954.KJ832.AT65 AJ9862.QT.4.Q972 QT75.K76.AT95.43 43.AJ832.Q76.KJ8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+2D Pass 2S AP
+[Play "W"]
+D3 D4 DA D6
+DK S2 DT DQ
+H4 HQ HK HA
+SK SA S5 S3
+H5 HT H6 H2
+CA C2 C3 CK
+C5 C7 C4 C8
+H9 S8 ST S4
+D8 S6 D5 D7
+C6 C9 S7 CJ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "61"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K.954.KJ832.AT65 AJ9862.QT.4.Q972 QT75.K76.AT95.43 43.AJ832.Q76.KJ8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+1S Pass 2C Pass
+2S Pass 3S Pass
+4S AP
+[Play "E"]
+C3 CJ CA C7
+C4 C8 C5 C2
+S5 S3 SK SA
+HK HA H5 HQ
+H6 HJ H4 HT
+H7 H8 H9 D4
+S7 CK C6 C9
+DA -  -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "62"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A.A987.QJT.AKT98 862.6532.A842.J4 KJ943.KT.K763.Q2 QT75.QJ4.95.7653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 4NT AP
+[Play "S"]
+HQ H7 H2 HK
+D5 DT DA D3
+H4 H8 H3 HT
+D9 DJ D2 D6
+-  DQ D4 D7
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "62"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A.A987.QJT.AKT98 862.6532.A842.J4 KJ943.KT.K763.Q2 QT75.QJ4.95.7653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 4NT AP
+[Play "S"]
+HQ H7 H3 HK
+H4 H8 H2 HT
+D5 DJ DA D3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "63"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K76.J974.83.T652 T4.AQ862.KJT5.AK A9853.T.A742.J83 QJ2.K53.Q96.Q974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1H 1S
+2H Pass 4H AP
+[Play "E"]
+S5 S2 SK ST
+C3 C4 C2 CK
+HT H3 H4 HA
+S3 H5 H7 HQ
+C8 C7 C5 CA
+S9 HK H9 H2
+CJ CQ C6 S4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "63"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K76.J974.83.T652 T4.AQ862.KJT5.AK A9853.T.A742.J83 QJ2.K53.Q96.Q974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C 1S
+1NT Pass 2H Pass
+4H AP
+[Play "E"]
+SA S2 S6 ST
+S9 SJ SK S4
+DA D6 D3 DT
+S5 SQ S7 D5
+HT HK H4 H2
+S3 H3 H7 HA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "64"]
+[West "Hayden"]
+[North "Lev"]
+[East "Baze"]
+[South "Mohan"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJT95432.5.AJ8.Q KQ8.J8742.K96.KJ 76.Q63.QT74.T654 .AKT9.532.A98732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "W"]
+4S Pass Pass X
+AP
+[Play "N"]
+H4 H3 HK H5
+CJ C4 CA CQ
+CK C5 C9 S5
+S8 S6 D2 SA
+SQ S7 H9 SJ
+SK C6 HT S2
+HJ H6 -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Houston TX:J.W. Marriott Hotel"]
+[Date "2002.03.??"]
+[Board "64"]
+[West "Gawrys"]
+[North "Groetheim"]
+[East "Pszczola"]
+[South "Aa"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJT95432.5.AJ8.Q KQ8.J8742.K96.KJ 76.Q63.QT74.T654 .AKT9.532.A98732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "W"]
+4S Pass Pass X
+AP
+[Play "N"]
+H2 H3 HK H5
+CJ C4 CA CQ
+DK D4 D5 D8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

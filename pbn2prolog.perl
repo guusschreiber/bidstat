@@ -16,10 +16,13 @@ sub process_pbnfile {
   my ($pbnfile) = @_ ;
   my $comment = 0 ;
 
-  print $db "deal([" ;
+  print $db "record([" ;
 
   for my $line (<$pbnfile>) {
-    if ( $line =~ /{.*}/ or $line =~ /^%.*$/ ) {
+
+    $line =~ s/^%.*$/ / ;
+
+    if ( $line =~ /{.*}/ ) {
     }
     elsif ( $comment == 0  and $line =~ /^\s*{/ ) 
       { $comment = 1 ; 
@@ -34,14 +37,15 @@ sub process_pbnfile {
       } 
   }
 
-  print $db "end_of_deal ]).\n" ;
+  print $db "end_of_record ]).\n" ;
 }
 
 sub process_pbnline {
   my ($line) = @_ ;
 
-  $line =~ s/^\s*$/end_of_deal]).\ndeal([\n/ ;
+  $line =~ s/^\s*$/end_of_record]).\nrecord([\n/ ;
   $line =~ s/^\[(\w+)\s+(.*)\]$/tag('$1', $2),/ ;
+  $line =~ s/"(.*)"(.*)"(.*)"/"$1'$2'$3"/ ;
   
   $line = pbn_date( $line ) ;
   $line = pbn_number( $line ) ;
@@ -85,8 +89,11 @@ sub pbn_bidround {
   my ($line) = @_ ;
   
   $line =~ s/^[Aa][Pp].*/br([ap / ;
+  $line =~ s/^[Pp]ass([\!\?][\!\?]?)\s+/br([pass $1 / ;
   $line =~ s/^[Pp]ass\s+/br([pass / ;
+  $line =~ s/^[Xx][Xx]([\!\?][\!\?]?)\s+/br([xx $1 / ;
   $line =~ s/^[Xx][Xx]\s+/br([xx / ;
+  $line =~ s/^[Xx]([\!\?][\!\?]?)\s+/br([x $1 / ;
   $line =~ s/^[Xx]\s+/br([x / ;
   $line =~ s/^([1-7])([SHDCN][T]?)([\!\?][\!\?]?)\s+/br([[$1,'$2'] $3 / ;
   $line =~ s/^([1-7])([SHDCN][T]?)\s+/br([[$1,'$2'] / ;

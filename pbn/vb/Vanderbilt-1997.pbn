@@ -1,0 +1,4317 @@
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "1"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ853.T9.6.KQJ62 KT.A8542.J52.853 Q7.QJ73.Q93.A974 9642.K6.AKT874.T"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 3D 3S
+Pass 4S AP
+[Play "N"]
+D2 D3 D7 D6
+DJ D9 DA S3
+SK S7 S2 S5
+D5 DQ DK H9
+H8 SQ D8 HT
+C3 C4 CT CK
+*
+[Description "1997 Vanderbilt"]
+[Stage "F:1"]
+[HomeTeam "Cayne"]
+[VisitTeam "Schwartz"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "1"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ853.T9.6.KQJ62 KT.A8542.J52.853 Q7.QJ73.Q93.A974 9642.K6.AKT874.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "5"]
+[Auction "N"]
+Pass Pass 1D 1S
+X 1NT 2D 3C
+3D 3S AP
+[Play "N"]
+D2 D3 D8 D6
+DJ D9 DK S3
+SK S7 S2 S5
+D5 DQ DA S8
+ST SQ S4 SA
+H5 H3 S6 SJ
+C3 CA CT CJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "2"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ9.AK8.J943.AT3 63.Q64.T87.KQ985 87.T973.AKQ2.742 KQT542.J52.65.J6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 2D =1= 2NT Pass
+3NT AP
+[Note "1:Multi"]
+[Play "N"]
+S6 S7 SQ SA
+H4 H3 H2 HK
+H6 H7 H5 HA
+D7 DA D6 D3
+S3 S8 SK S9
+C9 C2 CJ CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "2"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ9.AK8.J943.AT3 63.Q64.T87.KQ985 87.T973.AKQ2.742 KQT542.J52.65.J6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT AP
+[Play "N"]
+C8 C2 CJ C3
+CQ C4 C6 CT
+C9 C7 S5 CA
+D7 DA D5 D3
+H4 H3 H2 HA
+D8 DK D6 D9
+H6 H7 H5 HK
+HQ H9 HJ H8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "3"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:6.AKQT96.J64.963 T98752.52.T2.AT7 KQJ4.J8.AQ7.QJ84 A3.743.K9853.K52"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Auction "S"]
+Pass 1H 2S 3NT
+4S Pass Pass X
+AP
+[Play "E"]
+HJ H3 HQ H5
+H8 H4 HA H2
+SJ H7 HK S7
+CJ CK C6 C7
+CQ C2 C3 CT
+C4 C5 C9 CA
+DA D3 D6 D2
+D7 DK D4 DT
+DQ D5 DJ S2
+SQ SA S6 ST
+-  S3 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "3"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:6.AKQT96.J64.963 T98752.52.T2.AT7 KQJ4.J8.AQ7.QJ84 A3.743.K9853.K52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 2H Pass 2NT
+Pass 3NT AP
+[Play "S"]
+D5 DJ DT D7
+SA S6 S7 SK
+C2 C3 CA C4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "4"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.KQ72.K932.AJ86 QT3.93.764.QT542 9865.AT5.QJT8.K3 AK742.J864.A5.97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "10"]
+[Auction "W"]
+1C Pass 1D 1S
+X Pass 1NT Pass
+2D AP
+[Play "S"]
+SA SJ SQ S5
+S4 D2 S3 S6
+C7 C6 C2 CK
+H6 HK H9 H5
+C9 CA C4 C3
+S2 C8 C5 D8
+H4 HQ H3 HT
+DA CJ CQ DQ
+D5 D3 D6 DJ
+S7 DK D4 DT
+H8 D9 D7 S8
+-  H7 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "4"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.KQ72.K932.AJ86 QT3.93.764.QT542 9865.AT5.QJT8.K3 AK742.J864.A5.97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1S Pass
+2C Pass 3D AP
+[Play "N"]
+H9 HA H4 H7
+D6 DQ DA D2
+S3 S5 SA SJ
+D4 D8 D5 D3
+ST S6 S2 D9
+C2 CK C7 C6
+SQ S8 S4 DK
+C4 C3 C9 CA
+CT DT S7 C8
+D7 DJ H6 CJ
+H3 H5 H8 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "5"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A3.AJ873.J9765.3 QJT7.KQT9.T.JT94 8.62.AK842.87652 K96542.54.Q3.AKQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 2S Pass
+4S AP
+[Play "W"]
+C3 C4 C5 CK
+SA S7 S8 S5
+D7 DT DK D3
+S3 CJ C2 CA
+HA H9 H2 H4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "5"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A3.AJ873.J9765.3 QJT7.KQT9.T.JT94 8.62.AK842.87652 K96542.54.Q3.AKQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+Pass 2D 2S 5D
+AP
+[Play "S"]
+CK C3 C4 C5
+S2 SA S7 S8
+D3 D6 DT DA
+DQ D5 ST DK
+H4 H3 H9 H6
+H5 HJ HT H2
+CQ HA HQ C2
+S4 H7 HK D4
+CA D7 -  C6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "6"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K65.Q.A973.AKJ54 J743.A74.JT6.832 AQ982.KT62.842.6 T.J9853.KQ5.QT97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2C Pass
+2D Pass 2H Pass
+4S AP
+[Play "S"]
+DK DA D6 D2
+CT CA C3 C6
+C7 CK C2 D4
+H3 HQ HA H2
+ST SK S4 S8
+C9 C4 C8 S2
+H8 S5 H7 H6
+H5 S6 S3 SA
+H9 D3 H4 HK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "6"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K65.Q.A973.AKJ54 J743.A74.JT6.832 AQ982.KT62.842.6 T.J9853.KQ5.QT97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+2H Pass 2S Pass
+4S AP
+[Play "S"]
+D5 DA D6 D2
+CT CA C3 C6
+C9 CK C2 D8
+H3 HQ HA H2
+CQ C5 C8 D4
+DK D3 DT S2
+H8 D7 H7 HK
+H9 S5 H4 H6
+DQ D9 DJ S8
+HJ S6 S7 HT
+-  -  S3 S9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "7"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A53.AKQ4.A4.T965 Q9642.7.Q2.J8732 KT8.862.98763.A4 J7.JT953.KJT5.KQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+Pass 1NT Pass Pass
+X Pass 2C 2D
+X Pass 2S AP
+[Play "E"]
+D9 D5 DA DQ
+H8 H3 HQ H7
+H2 H5 HK S2
+CA CQ C5 C3
+H6 H9 HA S4
+C4 CK CT C7
+D3 DK D4 D2
+D6 DJ S5 S6
+S8 SJ C6 C2
+D7 DT C9 C8
+ST HT H4 S9
+D8 HJ SA -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "7"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A53.AKQ4.A4.T965 Q9642.7.Q2.J8732 KT8.862.98763.A4 J7.JT953.KJT5.KQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT Pass Pass
+X Pass 2C 2D
+AP
+[Play "S"]
+HJ HA H7 H6
+D5 DA D2 D3
+DT D4 DQ D6
+CQ C5 C3 CA
+DJ C6 S2 D7
+HT HK C2 H2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "8"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:53.QT.Q7.KQT6432 KQ9642.5.T9543.9 AJ8.K86.AKJ82.75 T7.AJ97432.6.AJ8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+3C Pass Pass 3H
+Pass 3S AP
+[Play "E"]
+DK D6 D7 D4
+C7 CA C4 C9
+H8 HA HT H5
+C5 C8 CT S2
+D2 S7 DQ D3
+H6 H2 HQ S4
+D8 ST C2 DT
+HK H3 C3 S6
+DJ H4 S3 D9
+SA CJ CK SK
+DA H7 C6 D5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "8"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:53.QT.Q7.KQT6432 KQ9642.5.T9543.9 AJ8.K86.AKJ82.75 T7.AJ97432.6.AJ8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "W"]
+3C Pass 3NT 4H
+Pass 4S X AP
+[Play "E"]
+DA D6 D7 D5
+C7 CA C2 C9
+H6 HA HT H5
+C5 C8 CT S2
+D2 S7 DQ D3
+H8 H2 HQ S4
+D8 ST C3 D4
+HK H3 C4 S6
+DJ H7 C6 DT
+DK CJ CQ D9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "9"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K9865.AKQ..KJ952 QT74.84.9754.763 .T97532.JT.AQT84 AJ32.J6.AKQ8632."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1D 1S
+Pass 2H 2S 4H
+5D X AP
+[Play "W"]
+HQ H4 HT H6
+S9 S4 DT S3
+HK H8 H7 HJ
+S5 S7 DJ SJ
+C2 C3 CA D3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "9"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K9865.AKQ..KJ952 QT74.84.9754.763 .T97532.JT.AQT84 AJ32.J6.AKQ8632."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 2D Pass
+2H Pass 2S Pass
+3C X 3D 5C
+5D AP
+[Play "W"]
+HA H4 HT H6
+S9 SQ DT S2
+HQ H8 H9 HJ
+S5 S4 DJ S3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "10"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AQ.64.AT864.AKJ8 K87632.AQT.KQJ.Q 95.KJ972.9532.53 JT4.853.7.T97642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1D 1S
+X Pass 3NT AP
+[Play "N"]
+S6 S5 ST SQ
+DJ D2 D7 DA
+DQ D3 SJ D8
+SK S9 S4 SA
+DK D5 H3 D4
+S8 H2 C2 H4
+S7 C3 C4 C8
+HA H7 H8 H6
+S3 H9 C6 CJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "10"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AQ.64.AT864.AKJ8 K87632.AQT.KQJ.Q 95.KJ972.9532.53 JT4.853.7.T97642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1D 1S
+X Pass 2NT Pass
+3D Pass 3NT AP
+[Play "N"]
+S6 S5 ST SQ
+DQ D3 D7 DA
+DK D2 SJ D6
+SK S9 S4 SA
+DJ D5 H3 D4
+S8 H2 C2 C8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "11"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T2.T6.87543.QT72 J843.KQ43.J9.963 97.9872.AQT2.K85 AKQ65.AJ5.K6.AJ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+2C Pass 2D Pass
+2NT Pass 3C Pass
+3S Pass 4S AP
+[Play "W"]
+D3 D9 DA D6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "11"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T2.T6.87543.QT72 J843.KQ43.J9.963 97.9872.AQT2.K85 AKQ65.AJ5.K6.AJ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+2NT Pass 3C Pass
+3S Pass 4S AP
+[Play "W"]
+D3 D9 DA D6
+C7 C3 C5 CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "12"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.AQT865.K4.AT J62.732.Q2.J8532 Q75.9.T8763.KQ94 AK83.KJ4.AJ95.76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+1H Pass 1NT X
+2H AP
+[Play "N"]
+DQ D3 DA D4
+D2 D6 D9 DK
+C2 C4 C7 CA
+C3 CK C6 CT
+C5 CQ HJ S4
+S2 S5 SK ST
+S6 S7 SA S9
+SJ D7 D5 HA
+H2 H9 HK H5
+C8 SQ S3 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "12"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.AQT865.K4.AT J62.732.Q2.J8532 Q75.9.T8763.KQ94 AK83.KJ4.AJ95.76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Auction "W"]
+1H Pass 1NT Pass
+2H Pass Pass 2S
+AP
+[Play "W"]
+HA H2 H9 H4
+H6 H3 S7 HJ
+CA C2 C4 C7
+H5 H7 S5 HK
+CT C3 CK C6
+S4 C5 C9 D5
+ST S2 SQ SK
+S9 SJ D3 S3
+DK DQ D6 D9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "13"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q76.J954.T3.KJT3 KJ85.8.AJ98742.4 A943.A7632.Q6.Q2 T2.KQT.K5.A98765"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "4"]
+[Auction "N"]
+Pass 2D Pass 2H
+3D Pass 3NT AP
+[Play "W"]
+H5 H8 HA HT
+HJ S5 H6 HK
+CT C4 C2 C9
+H9 S8 H3 HQ
+D3 D2 D6 DK
+C3 SJ CQ CA
+DT DJ DQ D5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "13"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q76.J954.T3.KJT3 KJ85.8.AJ98742.4 A943.A7632.Q6.Q2 T2.KQT.K5.A98765"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1H 2C 2H
+3D Pass 3NT AP
+[Play "W"]
+H4 H8 HA HT
+H5 S5 H3 HK
+D3 D2 D6 DK
+DT DA DQ D5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "14"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K643.AJ75.AT.Q82 A98.T4.K932.K764 QJT72.Q6.Q864.53 5.K9832.J75.AJT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S AP
+[Play "S"]
+H2 H5 HT HQ
+D5 DA D2 D4
+DJ DT D3 D6
+H3 HA H4 H6
+H8 H7 C4 S2
+D7 S6 D9 D8
+H9 HJ C6 S7
+S5 SK DK DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "14"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K643.AJ75.AT.Q82 A98.T4.K932.K764 QJT72.Q6.Q864.53 5.K9832.J75.AJT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2S AP
+[Play "S"]
+H3 H5 HT HQ
+S5 S3 SA SJ
+CJ S4 S9 ST
+H8 HJ H4 H6
+H2 HA S8 C3
+CA C2 C4 C5
+CT C8 C6 S2
+D5 DT DK D6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "15"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A43.QT.AKQT.A932 KT7.AJ8653.3.K54 J2.K974.J864.T76 Q9865.2.9752.QJ8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1C 1H Pass
+Pass X Pass 1NT
+Pass 2NT AP
+[Play "S"]
+H2 HT HA H4
+SQ S3 ST SJ
+S5 S4 SK S2
+S6 SA S7 C6
+D2 DA D3 D4
+D5 DK H5 D6
+D7 DQ H6 D8
+D9 HQ H3 H7
+CQ CA C5 C7
+C8 DT CK DJ
+S9 C2 H8 HK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "15"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A43.QT.AKQT.A932 KT7.AJ8653.3.K54 J2.K974.J864.T76 Q9865.2.9752.QJ8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Auction "S"]
+Pass 1D 1H 3D
+AP
+[Play "N"]
+D3 D4 D2 DT
+H6 D6 D7 DK
+C4 CT CJ C2
+HA H4 H2 HT
+H5 H7 D5 HQ
+C5 C6 C8 CA
+H8 D8 D9 DA
+CK C7 CQ C3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "16"]
+[West "Boyd"]
+[North "Passell"]
+[East "Robinson"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q63.T75.864.8732 AK72.A64.932.QT5 J9854.K32.7.AK94 T.QJ98.AKQJT5.J6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass 1C 1S 3D
+Pass 3NT AP
+[Play "E"]
+H2 HQ H7 H6
+CK C6 C2 CT
+CA CJ C3 C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "16"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q63.T75.864.8732 AK72.A64.932.QT5 J9854.K32.7.AK94 T.QJ98.AKQJT5.J6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2D
+Pass 2S Pass 3NT
+AP
+[Play "E"]
+S5 ST SQ SA
+D7 DA D4 D3
+HK HQ H5 H4
+CK C6 C3 C5
+S8 CJ S6 SK
+H3 DK D6 D2
+H2 DQ D8 D9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "17"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:8762.7.QT9753.73 AKT4.KQ54.J6.K85 53.JT3.AK4.T9642 QJ9.A9862.82.AQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1NT Pass 2D X
+3H Pass 4H AP
+[Play "E"]
+DK D2 D3 D6
+DA D8 D7 DJ
+C2 CA C3 C5
+H3 H2 H7 HK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "17"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:8762.7.QT9753.73 AKT4.KQ54.J6.K85 53.JT3.AK4.T9642 QJ9.A9862.82.AQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H Pass 3NT Pass
+4H AP
+[Play "E"]
+DA D2 DT D6
+DK D8 D3 DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "18"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q942.T873.T87.84 AKJ8.K.65432.QJ9 T7.Q9652.K.AT653 653.AJ4.AQJ9.K72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "W"]
+S2 SA S7 S3
+D7 D2 DK DA
+C4 CQ CA C7
+H8 HK H2 H4
+D8 D3 C3 DQ
+DT D4 H5 DJ
+H3 D5 H6 D9
+C8 CJ C6 C2
+S4 C9 C5 CK
+H7 S8 H9 HA
+S9 SJ ST S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "18"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q942.T873.T87.84 AKJ8.K.65432.QJ9 T7.Q9652.K.AT653 653.AJ4.AQJ9.K72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3C
+Pass 3D Pass 3S
+Pass 3NT AP
+[Play "W"]
+S2 SA S7 S3
+D7 D2 DK DA
+D8 D3 C3 DQ
+S4 SJ ST S6
+C4 CQ C5 C2
+C8 CJ CA C7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "19"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K85.JT9.942.QJ87 QJ732.K3.T65.K43 AT94.Q87.Q83.T62 6.A6542.AKJ7.A95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2H AP
+[Play "W"]
+CQ CK C2 C5
+H9 H3 H8 HA
+HT HK H7 H2
+D4 D5 D8 DJ
+HJ S2 HQ H5
+C8 C4 C6 CA
+D2 D6 D3 DA
+D9 DT DQ DK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "19"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K85.JT9.942.QJ87 QJ732.K3.T65.K43 AT94.Q87.Q83.T62 6.A6542.AKJ7.A95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+2D Pass 2H AP
+[Play "W"]
+CQ CK C6 C5
+D2 D5 D8 DJ
+D4 D6 D3 DA
+D9 DT DQ DK
+H9 HK H7 H2
+HJ H3 HQ HA
+HT S2 H8 H5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "20"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:852.T5.Q8.J76432 K4.AKQJ42.A96.AT QJ73.96.T754.KQ8 AT96.873.KJ32.95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "12"]
+[Auction "W"]
+Pass 2C Pass 2NT
+Pass 3H Pass 3S
+Pass 6H AP
+[Play "E"]
+CK C5 C2 CA
+H6 H3 H5 HA
+H9 H7 HT HK
+S3 S6 S5 SK
+SJ SA S2 S4
+SQ S9 S8 CT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "20"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:852.T5.Q8.J76432 K4.AKQJ42.A96.AT QJ73.96.T754.KQ8 AT96.873.KJ32.95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2H Pass 3H
+Pass 4H AP
+[Play "E"]
+CK C5 C7 CA
+H6 H3 H5 HA
+H9 H7 HT HK
+C8 C9 CJ CT
+SJ SA S5 S4
+S3 S6 S8 SK
+D4 D2 D8 DA
+D7 DK DQ D6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "22"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJT.AQJT6.AJT54. A962.543.K963.53 K874.82.72.AQ984 53.K97.Q8.KJT762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H Pass
+1NT Pass 2D Pass
+2H Pass 2S Pass
+3NT AP
+[Play "S"]
+C7 D4 C5 C9
+H9 HQ H3 H8
+S5 SQ S6 S4
+S3 SJ S2 S7
+H7 HA H5 H2
+HK HJ H4 C4
+DQ DA D3 D2
+C6 HT S9 C8
+C2 H6 C3 D7
+CT ST SA S8
+D8 DT D9 CQ
+CJ D5 D6 SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "22"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJT.AQJT6.AJT54. A962.543.K963.53 K874.82.72.AQ984 53.K97.Q8.KJT762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S 2C 2D Pass
+2H Pass 3S Pass
+3NT AP
+[Play "S"]
+DQ DA D3 D2
+S5 SQ S6 S4
+S3 ST SA S7
+CT D4 C5 C9
+D8 DJ DK D7
+C6 D5 C3 CA
+H7 HT H3 H2
+C7 SJ S2 SK
+C2 H6 S9 S8
+CJ DT D6 C4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "23"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT82.9.T983.QT7 Q9.T73.KQJ742.86 643.KJ82.65.AKJ2 J75.AQ654.A.9543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+1H 1S 2D X
+Pass 2S 3D Pass
+3H 3S AP
+[Play "N"]
+DK D5 DA D3
+S9 S3 S5 SA
+C6 CA C4 C7
+SQ S4 S7 ST
+DQ D6 H4 D9
+D2 H2 SJ DT
+H3 H8 HA H9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "23"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT82.9.T983.QT7 Q9.T73.KQJ742.86 643.KJ82.65.AKJ2 J75.AQ654.A.9543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "S"]
+1H 1S 2H 2S
+Pass Pass 3D Pass
+3H Pass Pass X
+AP
+[Play "W"]
+SA S9 S3 S5
+C7 C6 CK C4
+SK SQ S6 S7
+S8 C8 S4 SJ
+CT H3 C2 C3
+D3 D2 D6 DA
+CQ H7 CA C5
+D9 DK D5 H4
+D8 HT CJ C9
+DT DQ HJ HQ
+H9 D4 H2 H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "24"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9.A7.9432.JT854 A853.QJ32.A6.KQ6 KT62.984.QJ.A932 Q74.KT65.KT875.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "E"]
+DQ D5 D4 DA
+H4 HT HA H2
+DJ DK D3 D6
+H8 HK H7 H3
+CA C7 C5 CK
+C2 S4 CT CQ
+SK S7 S9 S3
+C3 H5 C4 C6
+S2 D7 D9 HJ
+H9 H6 D2 HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "24"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9.A7.9432.JT854 A853.QJ32.A6.KQ6 KT62.984.QJ.A932 Q74.KT65.KT875.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "E"]
+DQ D5 D4 DA
+H9 HK HA H3
+DJ DK D3 D6
+CA C7 CT CK
+C2 S4 CJ CQ
+H4 H5 H7 HQ
+H8 HT C4 H2
+S2 DT D2 S3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "25"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J872.9852.7.J832 53.KQ763.94.KQT7 Q964.T4.Q832.954 AKT.AJ.AKJT65.A6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "7D"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 2C Pass
+2H Pass 2NT Pass
+3D Pass 3H Pass
+4C Pass 4D Pass
+4H Pass 4NT Pass
+5D Pass 6D Pass
+7C Pass 7D AP
+[Play "E"]
+S6 SA S2 S3
+D2 DA D7 D4
+C4 C6 C2 CK
+D3 DT S8 D9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "25"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J872.9852.7.J832 53.KQ763.94.KQT7 Q964.T4.Q832.954 AKT.AJ.AKJT65.A6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "13"]
+[Auction "N"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3H Pass
+3NT Pass 4D Pass
+4H Pass 4S Pass
+4NT Pass 6NT AP
+[Play "E"]
+S4 SA S8 S3
+H4 HA H2 H3
+HT HJ H8 H6
+D2 DA D7 D4
+D3 DK H9 D9
+C4 CA C2 C7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "26"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J52.AK3.QJ9.J873 KQ8.J92.642.AKT2 A6.8754.T75.9654 T9743.QT6.AK83.Q"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1C Pass
+Pass X Pass 1NT
+AP
+[Play "E"]
+C5 CQ C3 C2
+SA S3 S2 SK
+H4 HT HK H2
+C4 D3 C7 CA
+S6 S4 S5 SQ
+H8 ST SJ S8
+D5 DA DQ D2
+C6 S9 C8 D4
+H5 S7 CJ D6
+D7 DK DJ CT
+H7 HQ HA H9
+DT D8 D9 CK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "26"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J52.AK3.QJ9.J873 KQ8.J92.642.AKT2 A6.8754.T75.9654 T9743.QT6.AK83.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1S Pass 3C
+Pass 3S Pass 4S
+AP
+[Play "W"]
+HA H2 H7 HQ
+HK H9 H4 H6
+DQ D2 D5 DA
+S2 SK S6 S3
+C3 C2 C6 CQ
+S5 S8 SA S4
+CJ CA C5 D3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "27"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ52.Q85.T7.9743 7.J9763.98532.Q5 K8643.T4.KJ4.AK8 AT9.AK2.AQ6.JT62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 2H 2S
+2NT 3S Pass Pass
+4H AP
+[Play "E"]
+CK C2 C7 C5
+S3 SA S2 S7
+H4 HA H5 H3
+HT HK H8 H6
+CA C6 C4 CQ
+SK S9 S5 H7
+D4 DQ D7 D2
+C8 CJ C3 D3
+S4 CT C9 D5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "27"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ52.Q85.T7.9743 7.J9763.98532.Q5 K8643.T4.KJ4.AK8 AT9.AK2.AQ6.JT62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H 1S
+X 2S Pass Pass
+2NT Pass 3H AP
+[Play "E"]
+CA C2 C3 C5
+S3 SA S5 S7
+H4 HA H8 H3
+HT HK H5 H6
+CK C6 C9 CQ
+S4 S9 SQ H7
+D4 DQ D7 D3
+C8 CT C7 D2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "28"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J97.AK.KQ873.T72 QT3.QJ985.T5.J96 K4.T762.A94.KQ84 A8652.43.J62.A53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "N"]
+HQ H2 H4 HA
+C6 CK C3 C2
+C9 C4 C5 C7
+H9 H6 H3 HK
+CJ CQ CA CT
+ST SK S2 S7
+H5 C8 S5 S9
+D5 D9 D2 DK
+DT DA D6 D3
+H8 D4 DJ DQ
+HJ H7 S6 D8
+S3 HT S8 D7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "28"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J97.AK.KQ873.T72 QT3.QJ985.T5.J96 K4.T762.A94.KQ84 A8652.43.J62.A53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1D Pass 2NT Pass
+3NT AP
+[Play "S"]
+S5 S9 ST SK
+D6 DK DT D9
+CA CT C6 CK
+S2 S7 SQ S4
+-  -  S3 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "29"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ.53.J86.QJT942 QT9432.A97.T3.65 876.Q864.A54.AK8 K5.KJT2.KQ972.73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 1D 2D
+2S Pass Pass 3C
+AP
+[Play "S"]
+SK SA ST S6
+HT H3 H7 H8
+S5 SJ SQ S7
+DQ D6 DT D4
+C3 CQ C5 C8
+H2 H5 HA H4
+D2 D8 D3 DA
+HJ CJ H9 H6
+C7 C2 C6 CK
+D7 C4 S3 CA
+D9 DJ S9 S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "29"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ.53.J86.QJT942 QT9432.A97.T3.65 876.Q864.A54.AK8 K5.KJT2.KQ972.73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 1D 2D
+2S Pass Pass 3C
+AP
+[Play "S"]
+SK SA S4 S7
+HT H3 H7 H8
+S5 SJ SQ S6
+DQ D6 DT D5
+H2 H5 HA H4
+D7 D8 D3 DA
+HJ -  -  H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "30"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ5.QJ82.852.T87 T943.K76.AJT76.A K62.A95.K94.KJ32 Q87.T43.Q3.Q9654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+1C Pass 1H X
+XX Pass 1NT AP
+[Play "N"]
+D7 DK D3 D2
+H6 HA H4 H2
+HK H9 H3 HQ
+DA D4 DQ D5
+DJ D9 C4 D8
+DT C2 HT C7
+D6 S2 C5 C8
+ST S6 SQ SA
+S3 SK S7 S5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "30"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ5.QJ82.852.T87 T943.K76.AJT76.A K62.A95.K94.KJ32 Q87.T43.Q3.Q9654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+1C Pass 1H X
+2D Pass 2H Pass
+Pass 2S AP
+[Play "W"]
+C7 CA C3 C4
+SJ S3 S2 S8
+HQ H6 H5 H3
+H2 H7 HA H4
+HJ HK H9 HT
+D2 D6 DK D3
+C8 S4 CK C5
+D5 DA D4 DQ
+D8 DJ D9 C6
+CT DT C2 S7
+H8 S9 CJ C9
+SA D7 S6 SQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "31"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:9764.K982.K4.A96 AQT82.AJ7.JT972. KJ5.53.AQ853.KQ8 3.QT64.6.JT75432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1S 1NT
+Pass 3NT AP
+[Play "S"]
+S3 S4 SA S5
+D6 D4 DJ D3
+C2 DK D7 D5
+H6 H2 H7 H3
+C3 S6 S2 SJ
+C4 C6 S8 CK
+C5 C9 D2 CQ
+HT H8 HA H5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "31"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:9764.K982.K4.A96 AQT82.AJ7.JT972. KJ5.53.AQ853.KQ8 3.QT64.6.JT75432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1S 1NT
+2C 3NT AP
+[Play "S"]
+C5 C6 D7 CQ
+D6 DK D2 D3
+C4 D4 D9 DA
+C3 S4 DT DQ
+CT CA DJ C8
+S3 S6 S8 SJ
+C2 H2 H7 D8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "32"]
+[West "Boyd"]
+[North "Cayne"]
+[East "Robinson"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:864.64.AQ852.T97 Q9.J97.T74.AQ653 T75.KQT853.KJ9.2 AKJ32.A2.63.KJ84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 2H 2S
+AP
+[Play "W"]
+H6 H9 HT HA
+S4 SQ S5 S2
+S6 S9 S7 SA
+S8 D4 ST SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "32"]
+[West "Cayne"]
+[North "Goldman"]
+[East "Burger"]
+[South "Soloway"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:864.64.AQ852.T97 Q9.J97.T74.AQ653 T75.KQT853.KJ9.2 AKJ32.A2.63.KJ84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 2H 2S
+Pass 3C Pass 3H
+Pass 3S Pass 5C
+AP
+[Play "E"]
+D9 D3 DA D4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "33"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKT2.87.T8432.QT Q854.K542.AKQJ.5 763.63.9.AK98632 J9.AQJT9.765.J74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1D 3C Pass Pass
+X Pass 4H AP
+[Play "W"]
+SK S4 S3 S9
+SA S5 S6 SJ
+CQ C5 C9 C7
+S2 -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "33"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKT2.87.T8432.QT Q854.K542.AKQJ.5 763.63.9.AK98632 J9.AQJT9.765.J74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1D 3C Pass Pass
+X Pass 4H AP
+[Play "W"]
+SA S4 S3 S9
+SK S5 S6 SJ
+CQ C5 C8 C4
+CT -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "34"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT62.4.Q984.9752 .T973.JT763.QJ43 975.AKJ8.AK52.AT AKJ843.Q652..K86"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "E"]
+1D 1S 3D Pass
+3H 3S AP
+[Play "W"]
+H4 H3 HK H6
+D9 H7 HA H5
+S2 H9 H8 H2
+D4 DJ DK S3
+S6 C3 S5 SA
+ST D3 S7 SK
+SQ HT HJ HQ
+D8 DT DA C6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "34"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT62.4.Q984.9752 .T973.JT763.QJ43 975.AKJ8.AK52.AT AKJ843.Q652..K86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Auction "E"]
+1D 1S Pass Pass
+X Pass 2D Pass
+Pass X 3D AP
+[Play "S"]
+SA S2 HT S5
+S3 S6 D3 S7
+CK C2 CQ CT
+SK ST H7 S9
+SJ SQ D7 DK
+S8 DQ D6 D2
+C6 C5 C4 CA
+H2 H4 H9 HA
+H5 D9 H3 H8
+C8 C7 C3 D5
+S4 D4 DT DA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "35"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ3.KJ4.AJT3.Q82 J76.9832.K52.T53 8542.A7.Q9764.A9 KT9.QT65.8.KJ764"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "N"]
+H8 H7 HQ HK
+H2 HA H5 H4
+DK D9 D8 D3
+H3 S2 HT HJ
+D5 D4 C4 DA
+D2 D6 C6 DJ
+C3 DQ C7 DT
+C5 D7 S9 S3
+S6 S5 SK SA
+S7 S4 ST SQ
+CT CA CJ C2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "35"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ3.KJ4.AJT3.Q82 J76.9832.K52.T53 8542.A7.Q9764.A9 KT9.QT65.8.KJ764"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1C 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "N"]
+C3 C9 CK C2
+H8 H7 H5 HJ
+H2 HA H6 H4
+D2 D9 D8 D3
+D5 D4 C6 DA
+DK D6 S9 DT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "36"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A2.KJ7.A8642.T86 95.A932.Q953.Q73 T63.Q85.K7.AK942 KQJ874.T64.JT.J5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2SX"]
+[Result "7"]
+[Auction "W"]
+1D Pass 2C 2S
+Pass Pass X AP
+[Play "W"]
+C6 C3 CK C5
+CT C7 CA CJ
+D8 D3 DK DT
+DA D5 D7 DJ
+HK HA H8 H6
+C8 CQ C2 H4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "36"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A2.KJ7.A8642.T86 95.A932.Q953.Q73 T63.Q85.K7.AK942 KQJ874.T64.JT.J5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 3NT AP
+[Play "N"]
+H2 H5 HT HJ
+C7 C2 CJ C8
+S5 S3 SK S2
+HA H8 H6 H7
+H3 HQ H4 HK
+C3 CA C5 CT
+CQ CK S7 C6
+D3 C9 S4 D4
+D5 C4 S8 D6
+S9 S6 SJ SA
+D9 DK DT D2
+DQ D7 DJ DA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "37"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ62.9.865.AJ642 AT98.732.A43.K95 53.AKJ8.KT972.87 Q74.QT654.QJ.QT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT AP
+[Play "S"]
+H5 H9 H2 H8
+DJ D5 D3 DT
+S4 SK SA S3
+SQ S2 S8 S5
+S7 SJ S9 HJ
+DQ D8 D4 D2
+CT CJ CK C7
+H4 S6 ST D7
+HQ D6 DA D9
+CQ CA C5 C8
+C3 C6 C9 HK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "37"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KJ62.9.865.AJ642 AT98.732.A43.K95 53.AKJ8.KT972.87 Q74.QT654.QJ.QT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT AP
+[Play "S"]
+H5 H9 H2 H8
+DJ D5 D3 DK
+DQ D6 D4 D7
+SQ SK SA S3
+S4 S2 ST S5
+S7 SJ S8 D2
+H4 D8 DA D9
+H6 S6 S9 HJ
+CQ C2 C5 C8
+C3 CJ CK C7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "38"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K865.82.QT96.KQ9 AQT72..K8.T87543 J93.KQJT64.54.A6 4.A9753.AJ732.J2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+1H Pass 1NT 2H
+X Pass Pass 3C
+Pass Pass 3NT AP
+[Play "N"]
+C8 C6 CJ CK
+S7 HK H3 H8
+S2 HQ HA H2
+C7 CA C2 C9
+C3 HJ H5 S6
+ST HT H7 S5
+DK D4 D2 DT
+CT D5 D3 CQ
+D8 H4 DJ D6
+SQ H6 H9 S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "38"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K865.82.QT96.KQ9 AQT72..K8.T87543 J93.KQJT64.54.A6 4.A9753.AJ732.J2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+2H Pass Pass 2S
+AP
+[Play "E"]
+HK H3 H8 S2
+C6 CJ CQ C4
+SJ S4 S5 ST
+CA C2 C9 C7
+D5 D2 DT DK
+D4 DA D6 D8
+H6 HA H2 C3
+S9 D3 D9 S7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "39"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T92.JT6.Q72.9752 .Q87.T985.AKJT83 KQ865.543.AKJ3.6 AJ743.AK92.64.Q4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "S"]
+1S Pass 2C Pass
+2H Pass 3C Pass
+3D Pass 3H Pass
+4C Pass 5C AP
+[Play "E"]
+DK D4 D7 D8
+DA D6 D2 D9
+D3 CQ DQ D5
+C6 C4 C2 CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "39"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T92.JT6.Q72.9752 .Q87.T985.AKJT83 KQ865.543.AKJ3.6 AJ743.AK92.64.Q4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1S Pass 3C Pass
+3NT AP
+[Play "W"]
+HT H7 H3 HK
+C7 C3 C6 CQ
+C2 CA H4 C4
+C5 CK S8 S7
+C9 CJ S6 SJ
+ST CT H5 S4
+-  C8 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "40"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:52.KT964.AQT98.A KQT.Q752.K3.QT42 AJ964.A.J764.K73 873.J83.52.J9865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "12"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+3D Pass 5D AP
+[Play "N"]
+SQ SA S3 S2
+C4 C3 C5 CA
+H2 HA H3 H4
+CT CK C6 S5
+ST S4 S8 D8
+H7 S6 H8 HK
+H5 D6 HJ H6
+SK S9 S7 DT
+HQ D7 C8 H9
+D3 D4 D2 DA
+-  -  -  HT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "40"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:52.KT964.AQT98.A KQT.Q752.K3.QT42 AJ964.A.J764.K73 873.J83.52.J9865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "12"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 3C Pass
+3D Pass 4D Pass
+5C Pass 5D AP
+[Play "N"]
+C2 C3 CJ CA
+H2 HA H3 H4
+CQ CK C5 S2
+ST SA S8 S5
+C4 C7 C8 D8
+H5 -  -  HK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "41"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:864.AKQ52.62.A73 A5.J973.KQJ75.T8 QJT97.T6.T43.KQ6 K32.84.A98.J9542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Auction "N"]
+1D Pass 1NT 2H
+AP
+[Play "N"]
+DK D3 D9 D2
+DJ D4 D8 D6
+D7 DT DA H2
+H3 H6 H8 HA
+H7 HT H4 HK
+H9 S7 C2 HQ
+SA S9 S2 S6
+HJ ST C4 H5
+DQ C6 C5 S4
+D5 CQ S3 S8
+S5 SJ SK C3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "41"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:864.AKQ52.62.A73 A5.J973.KQJ75.T8 QJT97.T6.T43.KQ6 K32.84.A98.J9542"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1NT AP
+[Play "W"]
+HA H3 H6 H4
+H2 H9 HT H8
+-  -  SQ -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "42"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QT7532.AT9.97.K3 6.J8652.AJT64.Q4 AK94.KQ4.83.T986 J8.73.KQ52.AJ752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass 3S AP
+[Play "N"]
+H2 -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "42"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QT7532.AT9.97.K3 6.J8652.AJT64.Q4 AK94.KQ4.83.T986 J8.73.KQ52.AJ752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1S Pass
+2S Pass 4S AP
+[Play "N"]
+H5 HK H7 H9
+S6 SA S8 S2
+H8 SK SJ S7
+DT D3 D2 D9
+HJ H4 H3 HA
+H6 HQ C5 HT
+D6 D8 DQ D7
+-  -  CA -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "43"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K86.Q.J8.AQT9852 QJ97.KJT943.K74. 5432.8752.A6.643 AT.A6.QT9532.KJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Auction "S"]
+1NT 3C 4D Pass
+4H Pass 5C Pass
+5S Pass 6H AP
+[Play "W"]
+S6 SQ S3 ST
+HQ HJ H2 H6
+CA H3 C3 C7
+D8 D4 DA D2
+S8 S7 S5 SA
+C2 -  -  HA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "43"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K86.Q.J8.AQT9852 QJ97.KJT943.K74. 5432.8752.A6.643 AT.A6.QT9532.KJ7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1D 2C 2H Pass
+2NT Pass 4H AP
+[Play "E"]
+C3 CJ CQ H4
+H2 H6 HQ H9
+S2 SA SK S7
+H5 HA C5 H3
+S3 ST S6 SQ
+H7 D2 C2 HK
+H8 D3 C8 HJ
+S4 D5 S8 SJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "44"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q3.AJ843.832.A94 K.Q9765.KJT.KQJ2 98754.T2.AQ976.7 AJT62.K.54.T8653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "W"]
+1H Pass 1S Pass
+1NT Pass 2C Pass
+2D AP
+[Play "N"]
+CK C7 C3 CA
+SK S4 S2 SQ
+DJ DQ D4 D2
+H5 S5 S6 S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "44"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q3.AJ843.832.A94 K.Q9765.KJT.KQJ2 98754.T2.AQ976.7 AJT62.K.54.T8653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+1H Pass 1S Pass
+1NT Pass 2H AP
+[Play "N"]
+H5 H2 HK HA
+DT DQ D4 D3
+SK S9 SA S3
+H6 S4 S6 SQ
+HQ HT S2 H4
+CK C7 C3 C4
+DK D6 D5 D8
+CQ S5 C6 CA
+H7 S7 SJ HJ
+DJ DA C5 D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "45"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKQ874.AT6432.7. 32.J8.KJT85.AKQ6 T65.Q97.9642.754 J9.K5.AQ3.JT9832"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6CX"]
+[Result "10"]
+[Auction "N"]
+1D Pass 2C 2D
+3C Pass 3D 4D
+5D 5H Pass Pass
+6C Pass Pass X
+AP
+[Play "W"]
+SK S2 S5 S9
+HA H8 H7 H5
+SA S3 S6 SJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "45"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKQ874.AT6432.7. 32.J8.KJT85.AKQ6 T65.Q97.9642.754 J9.K5.AQ3.JT9832"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "11"]
+[Auction "N"]
+1D Pass 2C 2S
+3C Pass 3D 4H
+5C 5S Pass Pass
+X AP
+[Play "N"]
+DK D2 DA D7
+C6 C4 CJ S4
+S2 S5 S9 SA
+S3 S6 SJ SK
+H8 H7 H5 HA
+HJ HQ HK H2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "46"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQT6.J86.KT64.95 842.T4.AQJ92.T42 953.A32.875.KJ83 AJ7.KQ975.3.AQ76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+AP
+[Play "W"]
+SK S2 S3 S7
+D6 DA D5 D3
+C5 C2 C3 CQ
+C9 C4 C8 CA
+D4 CT CJ C6
+SQ S4 S5 SJ
+S6 S8 S9 SA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "46"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KQT6.J86.KT64.95 842.T4.AQJ92.T42 953.A32.875.KJ83 AJ7.KQ975.3.AQ76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+AP
+[Play "W"]
+SK S2 S3 S7
+D6 DA D5 D3
+DK DQ D7 C6
+C9 CT CJ CQ
+C5 C2 C3 CA
+DT C4 C8 C7
+S6 S4 S5 SA
+SQ S8 S9 SJ
+D4 D9 D8 H5
+H6 H4 H2 HQ
+H8 HT HA H7
+-  -  CK -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "47"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K53.AT3.AT64.J83 AQT62.6.QJ98.QT2 .QJ8752.K75.A954 J9874.K94.32.K76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1D 1S 2H
+3H X Pass 4H
+AP
+[Play "S"]
+S4 S5 SQ H2
+H4 H3 H6 HQ
+H9 HT ST H5
+HK HA S6 H7
+CK C8 C2 C4
+S9 S3 S2 H8
+C6 CJ CQ C5
+S8 SK SA HJ
+D2 DA D9 D5
+C7 C3 CT CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "47"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K53.AT3.AT64.J83 AQT62.6.QJ98.QT2 .QJ8752.K75.A954 J9874.K94.32.K76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass 1D 1S 2H
+3S Pass Pass 4H
+AP
+[Play "S"]
+C6 C3 CT CA
+C7 CJ CQ C4
+D3 D4 DQ DK
+H4 HA H6 H2
+HK H3 S6 HQ
+D2 DA D8 D5
+CK C8 C2 C9
+SJ -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "48"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T65.986.Q873.A62 87.542.94.QJ9875 Q92.AQJ3.AJT2.T4 AKJ43.KT7.K65.K3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D 1S
+2D Pass Pass X
+Pass 3C AP
+[Play "E"]
+HQ HK H6 H4
+S9 SA S5 S7
+S2 SK S6 S8
+SQ S3 ST H2
+HA H7 H9 H5
+DA D5 D8 D4
+HJ HT H8 C5
+D2 DK D3 D9
+C4 C3 C2 CQ
+CT CK CA C7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "48"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T65.986.Q873.A62 87.542.94.QJ9875 Q92.AQJ3.AJT2.T4 AKJ43.KT7.K65.K3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1H 1NT
+2H 2NT Pass 3C
+AP
+[Play "W"]
+H9 H2 HJ HK
+C2 C5 C4 CK
+CA C7 CT C3
+H6 H4 HQ H7
+H8 H5 HA HT
+D8 D4 DA D5
+D3 D9 DJ DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "49"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKT5.K3.942.AT65 J9763.AQ74.8.Q73 4.J8652.AKQ63.84 Q82.T9.JT75.KJ92"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1H Pass 2NT
+Pass 3D Pass 3NT
+AP
+[Play "N"]
+S6 S4 SQ SA
+D8 DA D5 D4
+HA H2 H9 HK
+C3 C4 CK CA
+H4 HJ HT H3
+S3 DK D7 D9
+H7 DQ DT D2
+HQ H8 S8 S5
+S9 D3 S2 ST
+S7 -  -  SK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "49"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKT5.K3.942.AT65 J9763.AQ74.8.Q73 4.J8652.AKQ63.84 Q82.T9.JT75.KJ92"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 3NT
+AP
+[Play "N"]
+S3 S4 SQ SA
+D8 DQ D5 D4
+HA H2 H9 HK
+C3 C4 CK C6
+C7 C8 C2 CA
+H4 HJ HT H3
+S6 DA D7 D2
+HQ H8 S2 S5
+S7 D3 S8 ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "50"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT.7642.J4.JT976 K875.QJ9.T863.AK A.KT83.A72.Q8542 Q96432.A5.KQ95.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "E"]
+1C 1S 3C 4C
+5C Pass Pass X
+AP
+[Play "S"]
+S6 ST SK SA
+C3 CJ CK C4
+HA H2 HQ HK
+DK D4 D6 D7
+SQ SJ S5 CQ
+D5 DJ D3 DA
+D9 C6 D8 D2
+S4 CT CA C2
+-  -  HJ -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "50"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT.7642.J4.JT976 K875.QJ9.T863.AK A.KT83.A72.Q8542 Q96432.A5.KQ95.3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1C 1S 3C 3NT
+4C Pass Pass 4S
+AP
+[Play "W"]
+CJ CA C5 C3
+C6 CK C4 H5
+SJ S5 SA S6
+D4 D3 D2 DQ
+ST SK C2 S9
+DJ D6 DA D5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "51"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQJ532..Q4.AKJ2 .JT9872.AT976.T8 76.AK643.32.Q643 T984.Q5.KJ85.975"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Auction "S"]
+Pass 2C 3H Pass
+Pass 4S Pass 4NT
+Pass 6H Pass 6S
+AP
+[Play "N"]
+DA D2 D8 D4
+D7 D3 DK DQ
+CT C3 C5 CA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "51"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQJ532..Q4.AKJ2 .JT9872.AT976.T8 76.AK643.32.Q643 T984.Q5.KJ85.975"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "13"]
+[Auction "S"]
+Pass 2C 2NT Pass
+4D 4S 5D 5H
+Pass 5S AP
+[Play "N"]
+HJ HA H5 D4
+H2 HK HQ DQ
+H7 S6 S4 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "52"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:64.KT75.A6.Q9842 AT972.Q.K982.AK6 KQ83.AJ82.Q5.JT7 J5.9643.JT743.53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+Pass 1S Pass Pass
+X Pass 2H Pass
+Pass X XX 3D
+3H AP
+[Play "S"]
+C5 C2 CK CT
+C3 C4 CA C7
+H3 C8 C6 CJ
+D3 DA D2 D5
+H4 H5 HQ HA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "52"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:64.KT75.A6.Q9842 AT972.Q.K982.AK6 KQ83.AJ82.Q5.JT7 J5.9643.JT743.53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "W"]
+Pass 1S Pass Pass
+X Pass 2NT Pass
+3NT AP
+[Play "S"]
+D4 D6 DK D5
+DJ DA D2 DQ
+C5 C2 CK CJ
+S5 S4 S2 SK
+C3 CQ CA CT
+D3 C4 D9 C7
+SJ S6 SA S3
+-  -  D8 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "53"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QT96.7.K3.AT7532 43.AKJ8543.T76.6 AKJ87.QT92.J9.K4 52.6.AQ8542.QJ98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+3H 3S Pass 4H
+Pass 4S AP
+[Play "S"]
+H6 H7 HA H2
+C8 C2 C6 CK
+S2 S6 S4 SA
+S5 S9 S3 SK
+CJ CA H8 C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "53"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QT96.7.K3.AT7532 43.AKJ8543.T76.6 AKJ87.QT92.J9.K4 52.6.AQ8542.QJ98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+3H 3S Pass 4H
+Pass 4S AP
+[Play "S"]
+H6 H7 HA H9
+C9 C2 C6 CK
+S2 S6 S3 SA
+S5 S9 S4 SK
+CQ CA -  C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "54"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:83.A95.AK42.Q873 AK.KQJ73.J53.K62 QJ65.862.QT6.JT4 T9742.T4.987.A95"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+Pass Pass 1D 1H
+X Pass 1NT AP
+[Play "N"]
+HK H2 H4 H5
+HQ H6 HT HA
+CK C4 C5 C3
+HJ H8 S2 H9
+H7 D6 S4 S3
+H3 S5 S7 S8
+SK S6 S9 D2
+SA SJ ST C7
+C6 CT CA C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "54"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:83.A95.AK42.Q873 AK.KQJ73.J53.K62 QJ65.862.QT6.JT4 T9742.T4.987.A95"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+Pass Pass 1D 1H
+X Pass 1NT AP
+[Play "N"]
+HQ H2 H4 H5
+HK H6 HT H9
+HJ H8 C5 HA
+C6 CJ CA C7
+SK S5 S7 S3
+H7 C4 S4 D2
+H3 S6 S2 S8
+SA SJ ST C3
+CK CT -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "55"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ86.AKJ.A7.AKT2 KJ3.QT96.853.Q64 942.7.KQJ942.J73 T75.85432.T6.985"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+Pass 2C Pass 3D
+Pass 3NT Pass 4D
+Pass 4H Pass 4NT
+Pass 5C Pass 5H
+Pass 6NT AP
+[Play "N"]
+D5 D2 DT DA
+D3 DK D6 D7
+D8 DQ H2 S6
+HT DJ S5 S8
+H9 D9 H3 HJ
+S3 D4 H4 SQ
+CQ C3 C8 CT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "55"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ86.AKJ.A7.AKT2 KJ3.QT96.853.Q64 942.7.KQJ942.J73 T75.85432.T6.985"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7D"]
+[Result "12"]
+[Auction "S"]
+Pass 2C Pass 2S
+Pass 2NT Pass 4C
+Pass 4D Pass 4H
+Pass 4S Pass 4NT
+Pass 7D AP
+[Play "N"]
+D5 D2 DT DA
+D3 DK D6 D7
+D8 DQ H2 S6
+CQ C3 C5 CT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "56"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.KQJT94.Q64.AJ8 KJT4.A876.KJT97. 8653.53.82.K9653 Q972.2.A53.QT742"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1H 2D Pass 3D
+3H 3S Pass 4S
+AP
+[Play "E"]
+H5 H2 HT HA
+S5 S2 SA SK
+H3 S7 HK H8
+D2 D3 D6 DJ
+D8 SQ H4 H6
+S3 S9 C8 ST
+S6 C2 H9 SJ
+-  -  -  D7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "56"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.KQJT94.Q64.AJ8 KJT4.A876.KJT97. 8653.53.82.K9653 Q972.2.A53.QT742"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+1H 2D Pass 3D
+4H AP
+[Play "N"]
+DJ D2 DA D4
+H6 H3 H2 HK
+H7 H5 D5 HQ
+HA C3 C2 HJ
+S4 S3 S2 SA
+H8 S5 C4 HT
+D7 S6 S7 H9
+D9 C5 C7 CA
+DT CK CT CJ
+SK S8 S9 C8
+SJ -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "57"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK76.T.Q75.QJT42 9853.QJ86.KJ.AK6 2.AK532.AT9.9753 QJT4.974.86432.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1C 1H X 1NT
+AP
+[Play "N"]
+S3 S2 ST SK
+CK C3 C8 CQ
+S9 H2 S4 SA
+CA C5 D3 C2
+S8 H3 SQ S6
+S5 C7 SJ S7
+HJ HA H4 HT
+H6 HK H7 D5
+C6 C9 D2 CJ
+H8 H5 D4 CT
+HQ D9 D6 C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "57"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK76.T.Q75.QJT42 9853.QJ86.KJ.AK6 2.AK532.AT9.9753 QJT4.974.86432.8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "9"]
+[Auction "N"]
+1C 1H Pass 1NT
+Pass 2D AP
+[Play "S"]
+SQ SA S5 S2
+S4 SK S3 C3
+ST S6 S8 D9
+H4 HT HQ HA
+H7 D5 H8 H5
+SJ S7 S9 DT
+H9 C2 H6 HK
+C8 D7 HJ H3
+D2 CQ CK C7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "58"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT.Q.T632.K9752 J.AJT8742.KQJ8.Q 984.K9.A97.JT864 A76532.653.54.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass 2D Pass 4H
+AP
+[Play "E"]
+CJ CA C7 CQ
+H9 H3 HQ HA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "58"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT.Q.T632.K9752 J.AJT8742.KQJ8.Q 984.K9.A97.JT864 A76532.653.54.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass Pass 4H
+AP
+[Play "E"]
+CJ CA C7 CQ
+DA D4 D2 DK
+C4 C3 CK H2
+H9 H3 HQ HJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "59"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:743.K96.KJ5.J865 A.832.AQT6.K9743 KT962.AQ5.94.QT2 QJ85.JT74.8732.A"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 1D 1S
+X 2S X AP
+[Play "S"]
+D3 DJ DQ D4
+CA C5 C3 CT
+D2 D5 DT D9
+D7 DK DA S6
+H7 HK H2 H5
+S5 S3 SA S2
+H4 C6 CK C2
+S8 C8 C4 CQ
+HJ H6 H8 HA
+SJ S4 H3 SK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "59"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:743.K96.KJ5.J865 A.832.AQT6.K9743 KT962.AQ5.94.QT2 QJ85.JT74.8732.A"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D 1S
+X 2S Pass Pass
+3D AP
+[Play "E"]
+D4 D2 DJ DQ
+S6 S5 S3 SA
+C2 CA C5 C3
+SK SJ S7 H8
+HA H4 H6 H2
+H5 H7 HK H3
+CT -  C6 CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "60"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A532.KQJ73.J5.T7 J984.A8.AK86.J83 76.42.97432.A654 KQT.T965.QT.KQ92"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1H X Pass 2H
+Pass 2S Pass 2NT
+Pass 3NT AP
+[Play "W"]
+HK HA H4 H5
+D5 D6 D2 DQ
+C7 CJ CA C2
+H7 H8 H2 H6
+CT C8 C4 CK
+S5 C3 C5 CQ
+S2 S4 C6 C9
+DJ DA D3 DT
+S3 DK D4 ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "60"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A532.KQJ73.J5.T7 J984.A8.AK86.J83 76.42.97432.A654 KQT.T965.QT.KQ92"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+1H X Pass 2H
+Pass 2S Pass 3H
+Pass 3NT AP
+[Play "E"]
+H4 H5 HJ HA
+D2 DT DJ D6
+H2 H6 HK H8
+S7 H9 H7 C3
+S6 SK SA S4
+C6 HT HQ C8
+C4 C2 H3 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "61"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J7653.9.AK76.J65 Q8.87.JT95.KQ843 A2.AQT62.832.A72 KT94.KJ543.Q4.T9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 1NT AP
+[Play "S"]
+CT C5 C8 C2
+C9 C6 CQ C7
+H3 CJ C3 CA
+S4 S3 S8 SA
+ST SJ SQ S2
+H5 D6 CK H2
+D4 D7 C4 H6
+H4 H9 H8 HA
+DQ DK D5 D3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "61"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J7653.9.AK76.J65 Q8.87.JT95.KQ843 A2.AQT62.832.A72 KT94.KJ543.Q4.T9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "6"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 1NT Pass 2C
+AP
+[Play "N"]
+DJ D2 D4 DA
+H8 HQ HK H9
+D5 D3 DQ DK
+S8 SA S4 S5
+H7 HA H5 D6
+SQ H2 H4 C5
+D9 S2 S9 S3
+C4 CA CT C6
+CQ HT H3 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "62"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T83.KJ984.Q96.94 Q952.T7.AJ.KQJ85 AKJ64.A2.T87.A73 7.Q653.K5432.T62"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "E"]
+1S Pass 1NT 2C
+2NT 3C 3S AP
+[Play "S"]
+C2 C4 CJ C7
+C6 C9 CQ CA
+S7 S3 S2 SA
+D5 S8 S5 SK
+H6 H4 HT HA
+CT ST C5 C3
+H3 HK H7 H2
+D2 D6 DJ D7
+D3 D9 DA D8
+-  -  SQ S4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "62"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T83.KJ984.Q96.94 Q952.T7.AJ.KQJ85 AKJ64.A2.T87.A73 7.Q653.K5432.T62"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2S 3C
+X Pass 3H Pass
+Pass 4C 4H AP
+[Play "N"]
+CK CA C6 C4
+H7 HA H3 H4
+HT H2 H5 HJ
+C8 C3 H6 HK
+SQ SA S7 ST
+S2 SK HQ S3
+CQ -  C2 C9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "63"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJT854.A.9.K9873 92.T765.QJ632.J2 Q63.J843.T754.T4 K7.KQ92.AK8.AQ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "S"]
+2NT 3C X 3S
+4H 4S X AP
+[Play "S"]
+HK HA H5 H8
+CQ C3 C2 CT
+S7 S8 S9 SQ
+CA C8 CJ C4
+DK D9 D2 D4
+C5 C7 S2 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "63"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJT854.A.9.K9873 92.T765.QJ632.J2 Q63.J843.T754.T4 K7.KQ92.AK8.AQ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "11"]
+[Auction "S"]
+2NT 3S X Pass
+4H 4S X AP
+[Play "N"]
+CJ C4 C6 CK
+C2 CT CQ C3
+S2 S3 SK SA
+S9 SQ C5 C9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "64"]
+[West "Soloway"]
+[North "Seamon"]
+[East "Goldman"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:543.AK98.K2.8764 T7.Q4.J9865.QT32 A82.JT6.AQ74.KJ5 KQJ96.7532.T3.A9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1NT 2S
+2NT Pass 3C Pass
+3S Pass 3NT AP
+[Play "S"]
+SK S3 S7 S2
+SJ S4 ST SA
+H5 H8 HQ HJ
+CA C4 C3 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Dallas TX:Hyatt Regency Hotel"]
+[Date "1997.03.??"]
+[Board "64"]
+[West "Sontag"]
+[North "Lair"]
+[East "Feldman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:543.AK98.K2.8764 T7.Q4.J9865.QT32 A82.JT6.AQ74.KJ5 KQJ96.7532.T3.A9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1D 1S
+X Pass 1NT AP
+[Play "S"]
+SK S3 S7 S2
+SQ S4 ST S8
+SJ S5 C2 SA
+H5 HA H4 HJ
+H2 HK HQ HT
+H3 H9 CT H6
+H7 H8 D6 C5
+D3 DK D5 D4
+DT D2 D9 DA
+C9 C4 D8 DQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

@@ -1,0 +1,5913 @@
+% PBN created by BFC fi01.lin P
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:76532.KJ73.Q3.93 84.T84.A862.AJ82 AKQ.Q52.T974.Q64 JT9.A96.KJ5.KT75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass 2H
+Pass 2S AP
+[Play "N"]
+CA C4 C5 C3
+CJ C6 C7 C9
+C2 CQ CK S2
+H4 HQ HA H3
+D2 D4 DK D3
+DA D7 D5 DQ
+D6 D9 DJ S3
+S4 SA ST S5
+S8 SK SJ S6
+-  SQ S9 -
+*
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:76532.KJ73.Q3.93 84.T84.A862.AJ82 AKQ.Q52.T974.Q64 JT9.A96.KJ5.KT75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass 2H
+Pass 3S AP
+[Play "N"]
+S4 SQ S9 S2
+DA D4 D5 DQ
+S8 SK ST S3
+C2 SA SJ S5
+H4 H2 H6 HK
+D6 DT DJ D3
+CA C4 C5 C3
+CJ C6 C7 C9
+C8 CQ CK -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJT.J7.A72.AJT65 9753.94.T9843.32 84.A862.KQ6.KQ74 AQ62.KQT53.J5.98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Auction "E"]
+1C X XX 1D
+X 1H 3H Pass
+4C Pass 5C AP
+[Play "S"]
+HK H7 H4 HA
+C8 C5 C2 CK
+C9 CJ C3 C4
+D5 D2 D4 DK
+SA ST S3 S4
+HQ HJ H9 H2
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJT.J7.A72.AJT65 9753.94.T9843.32 84.A862.KQ6.KQ74 AQ62.KQT53.J5.98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1C 1D 1H Pass
+1NT Pass 3NT AP
+[Play "S"]
+HQ H7 H4 H2
+HK HJ H9 HA
+HT D2 DT H6
+H5 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J954.76.9642.Q32 K2.AKT2.KQT5.AJT 83.QJ9843.J7.865 AQT76.5.A83.K974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+1S Pass 2D Pass
+2S Pass 3C Pass
+3D Pass 4NT Pass
+5H Pass 6NT AP
+[Play "E"]
+HQ H5 H6 HA
+S3 S6 S4 SK
+S8 SA S5 S2
+H3 SQ S9 H2
+H4 S7 SJ CJ
+H8 C4 H7 HK
+C6 C7 C3 CA
+C5 CK C2 CT
+H9 ST D2 HT
+D7 D3 D4 DK
+DJ DA D6 D5
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J954.76.9642.Q32 K2.AKT2.KQT5.AJT 83.QJ9843.J7.865 AQT76.5.A83.K974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+1S Pass 2C Pass
+3C Pass 4C Pass
+4D Pass 4NT Pass
+5D Pass 5H Pass
+6C Pass 6NT AP
+[Play "E"]
+HQ H5 H7 HA
+S3 S6 S5 SK
+S8 SA S4 S2
+H3 SQ S9 H2
+H4 S7 SJ CJ
+H8 C4 H6 HK
+D7 D3 D2 DK
+DJ D8 D4 DQ
+H9 DA D6 D5
+-  ST -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J653.KJ.AK3.K964 Q7.A85.T7542.J73 K842.QT763.Q8.A5 AT9.942.J96.QT82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 4S AP
+[Play "S"]
+C8 CK C3 C5
+SA S3 S7 SK
+C2 C4 C7 CA
+ST SJ SQ S2
+CQ C6 CJ S4
+D9 D3 D4 DQ
+DJ DK D2 D8
+CT C9 DT S8
+H4 HK HA H3
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J653.KJ.AK3.K964 Q7.A85.T7542.J73 K842.QT763.Q8.A5 AT9.942.J96.QT82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 2C Pass
+2S Pass 4S AP
+[Play "N"]
+D2 DQ D9 D3
+SQ S2 S9 SJ
+H5 H3 H9 HK
+S7 SK SA S5
+C7 CA C2 C4
+-  H6 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QT3.K62.KQT954.8 AJ954.AT95.76.Q6 87.Q87.AJ8.AT943 K62.J43.32.KJ752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1S Pass 2S 3D
+AP
+[Play "N"]
+CQ CA C2 C8
+SJ S7 S6 ST
+C6 C3 C5 D4
+S4 S8 SK SQ
+S5 C4 CK DQ
+S9 D8 S2 S3
+D6 DA D2 D5
+D7 DJ D3 D9
+-  C9 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QT3.K62.KQT954.8 AJ954.AT95.76.Q6 87.Q87.AJ8.AT943 K62.J43.32.KJ752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1S Pass 2S 3D
+Pass 3S Pass 3NT
+AP
+[Play "N"]
+S4 S7 SK S3
+SJ S8 S6 ST
+SA -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A.J972.JT54.QJ96 K8652.AT43.AK8.T QJ943.KQ8.Q73.A5 T7.65.962.K87432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1S Pass 1NT Pass
+2D Pass 3D Pass
+3NT AP
+[Play "N"]
+H4 H8 H6 H2
+HA HK H5 H7
+CT C5 CK C6
+H3 CA C3 C9
+HT HQ C2 H9
+DK DQ D6 D4
+S2 S9 ST SA
+D8 D3 D2 DT
+S5 S3 S7 HJ
+S6 S4 C4 CQ
+S8 D7 C7 CJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A.J972.JT54.QJ96 K8652.AT43.AK8.T QJ943.KQ8.Q73.A5 T7.65.962.K87432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+1S Pass 1NT Pass
+2D Pass 3D Pass
+3NT AP
+[Play "N"]
+H3 H8 H5 H2
+HA HQ H6 H7
+S8 S9 ST SA
+DK D3 D9 D4
+CT C5 CK C6
+S2 SJ S7 D5
+H4 CA C2 C9
+HT HK C3 H9
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A943.7.QT84.K842 .AKQJT943.AK2.65 KQJ5.62.J76.QJT7 T8762.85.953.A93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 3H Pass
+4C Pass 4D Pass
+4H Pass 4S Pass
+5H AP
+[Play "E"]
+SK -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A943.7.QT84.K842 .AKQJT943.AK2.65 KQJ5.62.J76.QJT7 T8762.85.953.A93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 3H Pass
+4H AP
+[Play "E"]
+SK S2 S3 H9
+H2 H8 H7 H3
+-  H5 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ5.9643.Q863.76 Q9.KJT.AKJ54.AJ9 A84.A85.T72.Q842 T7632.Q72.9.KT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 2NT Pass 3H
+Pass 3S Pass 3NT
+AP
+[Play "E"]
+C2 C3 C6 CJ
+S8 S2 SK SQ
+D7 D9 D3 DA
+S4 S3 SJ S9
+D2 S6 D6 DJ
+HA H2 H3 HK
+H8 H7 H4 HJ
+DT S7 D8 DK
+C4 C5 C7 CA
+C8 CT S5 C9
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ5.9643.Q863.76 Q9.KJT.AKJ54.AJ9 A84.A85.T72.Q842 T7632.Q72.9.KT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2NT Pass 3C
+Pass 3NT AP
+[Play "E"]
+C4 C5 C6 CJ
+S8 S2 SK SQ
+HA H2 H4 HJ
+H8 H7 H3 HK
+SA S3 S5 S9
+H5 HQ H6 HT
+D7 D9 D3 DJ
+D2 S6 D6 DA
+DT S7 D8 DK
+C2 C3 C7 CA
+C8 CT -  C9
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:983.32.AQ94.AT93 Q6.A65.T8762.865 742.K98.K53.KQ72 AKJT5.QJT74.J.J4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT Pass 2H Pass
+2S AP
+[Play "W"]
+C3 C5 CQ C4
+C9 C6 CK CJ
+CT C8 C2 DJ
+DA D2 D3 H4
+D4 D6 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:983.32.AQ94.AT93 Q6.A65.T8762.865 742.K98.K53.KQ72 AKJT5.QJT74.J.J4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT Pass 2H Pass
+2S AP
+[Play "W"]
+S3 SQ S4 S5
+S8 S6 S2 SK
+S9 C5 S7 SA
+H2 H5 H8 HQ
+-  -  -  HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT6.K84.976.T642 K9532.9732.T.KQ7 AQ7.5.QJ43.AJ985 84.AQJT6.AK852.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1C 2NT Pass 4H
+AP
+[Play "E"]
+D4 DA D9 DT
+CA C3 C2 CK
+H5 HA H4 H3
+D3 D2 D6 H2
+C5 S4 C4 CQ
+C8 H6 C6 C7
+DJ D5 D7 H7
+S7 HT HK H9
+SQ S8 S6 S2
+DQ -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:JT6.K84.976.T642 K9532.9732.T.KQ7 AQ7.5.QJ43.AJ985 84.AQJT6.AK852.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1C 2NT Pass 4H
+AP
+[Play "E"]
+CA C3 C6 C7
+H5 HA H4 H2
+D3 DA D6 DT
+D4 D2 D7 H3
+C5 S4 C2 CK
+C8 S8 C4 CQ
+S7 H6 ST S2
+DJ D5 D9 H9
+C9 HT HK H7
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T.643.AT9.AQJT74 J952.A72.Q74.K86 Q76.KT8.K865.953 AK843.QJ95.J32.2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+1S 2C 3C Pass
+3S AP
+[Play "W"]
+H3 HA H8 H5
+ST S2 S7 SA
+C4 S5 S6 SK
+CA C6 C9 C2
+H6 H2 HK H9
+H4 S9 SQ S4
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T.643.AT9.AQJT74 J952.A72.Q74.K86 Q76.KT8.K865.953 AK843.QJ95.J32.2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+1S 2C 2NT Pass
+3D Pass 3S AP
+[Play "W"]
+H3 HA H8 H5
+ST S2 S7 SA
+C7 S5 S6 SK
+CA C6 C9 C2
+CQ CK C5 D2
+H4 H2 HK H9
+H6 S9 SQ S4
+C4 H7 HT HQ
+CJ -  -  HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K72.AK92.J83.A74 A85.85.Q42.KQJ96 T93.J643.A7.T532 QJ64.QT7.KT965.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+1NT AP
+[Play "N"]
+CK C2 C8 CA
+H5 H3 H7 HA
+H8 H4 HT HK
+C6 H6 HQ H2
+DQ DA D6 D3
+C9 HJ D5 H9
+CJ C3 S6 C7
+D4 D7 DK D8
+SA S3 S4 S2
+CQ C5 D9 C4
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K72.AK92.J83.A74 A85.85.Q42.KQJ96 T93.J643.A7.T532 QJ64.QT7.KT965.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+1NT AP
+[Play "N"]
+CK C2 C8 C4
+C9 C3 D5 CA
+H5 H3 H7 HA
+H8 H4 HT HK
+S8 H6 HQ H2
+DQ DA DT DJ
+D2 HJ S4 H9
+SA ST SJ SK
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:962.Q6.KQ852.AQ6 83.K743.7.T87542 AKQ754.AJT.A6.K9 JT.9852.JT943.J3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7S"]
+[Result "13"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 2S Pass 3S
+Pass 4C Pass 4D
+Pass 4H Pass 4NT
+Pass 5C Pass 5D
+Pass 6C Pass 7S
+AP
+[Play "S"]
+DJ D2 D7 DA
+ST S2 S8 SA
+SJ S6 S3 SK
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:962.Q6.KQ852.AQ6 83.K743.7.T87542 AKQ754.AJT.A6.K9 JT.9852.JT943.J3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "13"]
+[Auction "N"]
+Pass 2D Pass 2H
+Pass 2NT Pass 3C
+Pass 3S Pass 4C
+Pass 4D Pass 4NT
+Pass 5C Pass 6S
+AP
+[Play "S"]
+DJ D2 D7 DA
+ST S2 S3 SA
+SJ S6 S8 SK
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ5.QT72.KQ965.Q AQT4.KJ86.J2.AJT 7.953.843.K87642 98632.A4.AT7.953"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1D X
+Pass 2S Pass 4S
+AP
+[Play "W"]
+DK D2 D3 DA
+S5 SQ S7 S2
+SJ SA C2 S3
+DQ DJ D4 D7
+SK ST C4 S6
+D5 CT D8 DT
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ5.QT72.KQ965.Q AQT4.KJ86.J2.AJT 7.953.843.K87642 98632.A4.AT7.953"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1D X
+Pass 1S Pass 2D
+Pass 2NT Pass 3S
+Pass 4S AP
+[Play "W"]
+DK D2 D8 DA
+S5 SQ S7 S2
+SJ SA C7 S3
+DQ DJ D4 D7
+SK S4 C8 S8
+D5 CT D3 DT
+CQ CA C2 C3
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:732.A.QT87.Q9862 AKT5.K732.963.K4 Q4.JT654.AKJ5.53 J986.Q98.42.AJT7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S 1NT 2S 3D
+3S AP
+[Play "W"]
+HA H2 HT H9
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:732.A.QT87.Q9862 AKT5.K732.963.K4 Q4.JT654.AKJ5.53 J986.Q98.42.AJT7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1C 1H
+1S Pass 2S AP
+[Play "W"]
+HA H2 HJ H9
+D8 D3 DK D2
+D7 D6 DA D4
+S2 H3 H5 H8
+DQ D9 D5 S6
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "de Wijs"]
+[North "Bomhof"]
+[East "Muller"]
+[South "Niemeyer"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A2.7432.K763.AJ9 K753.JT5.QJ82.Q8 JT9.9.AT54.KT752 Q864.AKQ86.9.643"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+1D Pass 3D X
+Pass 3S AP
+[Play "E"]
+H9 HA H2 H5
+S9 S4 SA S3
+ST H6 H3 HJ
+C7 C3 CA CQ
+SJ H8 H7 HT
+DA D9 D3 D2
+CK C4 C9 C8
+C5 C6 CJ -
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Van Valen"]
+[North "Drijver"]
+[East "Luitwieler"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A2.7432.K763.AJ9 K753.JT5.QJ82.Q8 JT9.9.AT54.KT752 Q864.AKQ86.9.643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3DX"]
+[Result "9"]
+[Auction "W"]
+1D Pass 3D X
+AP
+[Play "N"]
+HJ H9 H6 H2
+HT D4 HK H3
+CQ C2 C6 CJ
+H5 D5 H8 H4
+C8 C5 C3 CA
+S3 DT HQ H7
+D2 CK C4 C9
+SK S9 S4 SA
+D8 DA D9 D3
+DJ CT S6 S2
+S5 ST SQ D6
+-  -  -  DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +19"]
+[VisitTeam "Lombard"]
+[Room "Closed"]
+
+% PBN created by BFC fi02.lin P
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ.K853.KQ42.Q94 532.AJ96.JT8.876 K8764.Q2.65.KJT2 JT9.T74.A973.A53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2H Pass 2S
+Pass 3NT AP
+[Play "N"]
+H6 HQ H7 H3
+C8 C2 C5 CQ
+S5 S4 ST SQ
+S3 S6 S9 SA
+C7 CT C3 C4
+S2 SK SJ D2
+D8 S8 D3 H5
+DT S7 D7 C9
+DJ D5 DA D4
+C6 CJ CA H8
+-  -  HT -
+*
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ.K853.KQ42.Q94 532.AJ96.JT8.876 K8764.Q2.65.KJT2 JT9.T74.A973.A53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2H Pass 2S
+Pass 3NT AP
+[Play "N"]
+H6 HQ H4 H5
+C6 C2 C3 CQ
+S2 S4 S9 SA
+S5 S6 ST SQ
+C7 CJ C5 C4
+S3 SK SJ D2
+D8 S7 D3 D4
+DT S8 D7 C9
+DJ D5 DA DQ
+-  -  HT -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:.KJT73.K9753.754 AT7543.A.84.AJT9 J86.652.AJ2.K862 KQ92.Q984.QT6.Q3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2H 3S
+Pass 4S AP
+[Play "E"]
+H2 H8 HT HA
+S6 SK H3 S3
+S8 S2 C7 SA
+SJ SQ D3 S4
+CK CQ C5 CJ
+DA D6 D5 D8
+D2 DQ DK D4
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:.KJT73.K9753.754 AT7543.A.84.AJT9 J86.652.AJ2.K862 KQ92.Q984.QT6.Q3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 2H 2S
+Pass 4S AP
+[Play "E"]
+H2 H9 HT HA
+S6 SK D7 S3
+S8 S2 C7 SA
+SJ SQ C4 S4
+CK CQ C5 C9
+H5 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q853.97.9.AKQJ73 KJ9.KJT6.53.8654 AT642.A.A874.T92 7.Q85432.KQJT62."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Auction "S"]
+4H Pass Pass X
+Pass 4S 5H X
+AP
+[Play "W"]
+CA C4 CT H2
+H7 HK HA H3
+C3 C5 C2 H4
+H9 HJ S2 H5
+D9 D3 D4 DK
+C7 D5 DA DQ
+-  -  SA -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q853.97.9.AKQJ73 KJ9.KJT6.53.8654 AT642.A.A874.T92 7.Q85432.KQJT62."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+Pass 1C Pass 1S
+2NT 4S Pass 6S
+AP
+[Play "S"]
+DT D9 D5 DA
+S7 SQ SK S2
+H5 H7 H6 HA
+D6 S3 D3 D4
+H2 S5 S9 ST
+-  -  -  SA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K42.K7643.AT.A65 JT853.AJ2.K7.Q42 AQ97.QT5.Q6.K987 6.98.J985432.JT3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+1H 1S X Pass
+1NT Pass 3NT AP
+[Play "N"]
+S3 S7 S6 S2
+S5 S9 D4 SK
+H2 HQ H8 H3
+HJ H5 H9 H4
+C2 C7 CT CA
+HA HT D2 H7
+C4 CK C3 C6
+S8 SQ D5 S4
+ST SA CJ C5
+D7 D6 D3 DA
+SJ C8 D8 HK
+CQ -  -  H6
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K42.K7643.AT.A65 JT853.AJ2.K7.Q42 AQ97.QT5.Q6.K987 6.98.J985432.JT3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+1H Pass 1S Pass
+1NT Pass 3NT AP
+[Play "N"]
+C2 C7 CT CA
+H2 HT H9 H3
+S3 S7 S6 SK
+HJ HQ H8 H4
+HA H5 D2 H7
+CQ CK C3 C5
+C4 C8 CJ C6
+-  -  D5 -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "21"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A93.T63.T982.Q92 KJ82.AKQ.3.K8743 Q4.J95.AKQJ5.AJ6 T765.8742.764.T5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Auction "N"]
+1C 1NT AP
+[Play "S"]
+S6 S3 SK S4
+S5 S9 S2 SQ
+D6 D2 D3 DA
+D4 D8 C8 DK
+D7 D9 C3 DQ
+H2 DT C4 D5
+S7 SA SJ H5
+C5 CQ CK CA
+CT C2 C7 CJ
+-  -  -  DJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "21"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A93.T63.T982.Q92 KJ82.AKQ.3.K8743 Q4.J95.AKQJ5.AJ6 T765.8742.764.T5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "10"]
+[Auction "N"]
+1C X Pass 1D
+Pass 1NT AP
+[Play "S"]
+CT CQ CK CA
+D4 D2 D3 DK
+D6 D8 S2 DA
+D7 D9 S8 DQ
+H2 DT C4 DJ
+H4 S3 C3 D5
+C5 C2 C7 CJ
+S6 C9 C8 C6
+H7 H3 HK H5
+S5 S9 SJ SQ
+S7 SA SK S4
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "22"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q.J753.KJ9854.T7 T763..QT32.AK632 J94.AKQT9862..Q9 AK852.4.A76.J854"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5HX"]
+[Result "10"]
+[Auction "E"]
+4H Pass Pass X
+Pass 4S 5H Pass
+Pass X AP
+[Play "S"]
+SA SQ S3 S4
+C5 C7 CK C9
+C4 CT CA CQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "22"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q.J753.KJ9854.T7 T763..QT32.AK632 J94.AKQT9862..Q9 AK852.4.A76.J854"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Auction "E"]
+4H 4S 5H 5S
+AP
+[Play "W"]
+H3 S3 HA H4
+SQ S6 S4 SA
+D8 S7 S9 SK
+C7 CA C9 C4
+CT CK CQ C8
+-  C2 HT CJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "23"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q.KJ62.K9743.AKT 97642.AQT.J65.J9 AK3.97543.AQ.865 JT85.8.T82.Q7432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 3H Pass 4NT
+Pass 5H AP
+[Play "S"]
+SJ SQ S7 SA
+H8 HJ HQ H5
+S5 CT S4 SK
+C2 HK HA H7
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "23"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q.KJ62.K9743.AKT 97642.AQT.J65.J9 AK3.97543.AQ.865 JT85.8.T82.Q7432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 3H Pass 4H
+AP
+[Play "S"]
+SJ SQ S2 S3
+D2 D3 D5 DA
+H8 HJ HQ H5
+S5 CT S6 SA
+C2 H2 HT H4
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "24"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65.3.KQJ4.QJT95 K9832.AT96..A432 QJ.K874.AT765.K6 T74.QJ52.9832.87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1C 1S X Pass
+2C Pass 2S Pass
+2NT Pass 3NT AP
+[Play "N"]
+H9 H4 HJ H3
+SK SJ S4 S5
+H6 H7 HQ D4
+S2 SQ ST S6
+CA CK C7 C5
+HA H8 H2 C9
+S9 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "24"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65.3.KQJ4.QJT95 K9832.AT96..A432 QJ.K874.AT765.K6 T74.QJ52.9832.87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Auction "W"]
+1D 1S X 2S
+2NT 3S 5D AP
+[Play "N"]
+S3 SQ S4 S5
+S2 D5 D2 DK
+C2 CK C8 C5
+CA C6 C7 CQ
+C3 DA H5 CT
+S8 SJ S7 SA
+S9 DT -  S6
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "25"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK.Q83.J765.Q765 76.T754.9842.K82 J854.KJ62.Q3.JT3 QT932.A9.AKT.A94"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1NT AP
+[Play "W"]
+C5 C2 CT C4
+C6 CK CJ C9
+SK S6 S4 S9
+CQ C8 C3 CA
+SA S7 S5 S2
+C7 D2 H2 DT
+D5 D4 DQ DK
+D6 H4 S8 SQ
+-  -  -  S3
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "25"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK.Q83.J765.Q765 76.T754.9842.K82 J854.KJ62.Q3.JT3 QT932.A9.AKT.A94"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1S AP
+[Play "W"]
+C5 C2 CT CA
+H8 H4 H2 HA
+H3 H5 HJ H9
+CQ CK C3 C4
+HQ H7 H6 S2
+D5 D2 D3 DA
+D6 D4 DQ DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "26"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AT983.AT75.6.J43 J2.43.Q743.KQ987 KQ4.J962.KJT5.A6 765.KQ8.A982.T52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2H AP
+[Play "N"]
+CK CA C5 C3
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "26"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AT983.AT75.6.J43 J2.43.Q743.KQ987 KQ4.J962.KJT5.A6 765.KQ8.A982.T52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2H Pass
+3S Pass 4S AP
+[Play "N"]
+D3 DJ DA D6
+CQ CA C5 CJ
+D4 DK D2 C4
+H3 HJ HQ HA
+S2 SK S5 S3
+SJ SQ S6 S9
+C7 S4 S7 SA
+H4 H2 HK HT
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "27"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K943.97.K92.AQ87 QT8.8.QJ876.JT95 J7652.KJ54.543.4 A.AQT632.AT.K632"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+1H X Pass 1S
+3H AP
+[Play "W"]
+S4 S8 S6 SA
+H7 H8 H4 HA
+H9 D6 H5 H2
+SK ST S5 H3
+S3 D7 HJ H6
+CQ C5 C4 C3
+CA C9 D4 C2
+C8 CT HK CK
+-  -  D5 DA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "27"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K943.97.K92.AQ87 QT8.8.QJ876.JT95 J7652.KJ54.543.4 A.AQT632.AT.K632"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "7"]
+[Auction "S"]
+1H X 1NT 2S
+4H AP
+[Play "W"]
+S3 S8 SJ SA
+H7 H8 H4 HA
+H9 D6 H5 H2
+SK ST S6 H3
+S4 C5 HK HQ
+CQ C9 C4 C3
+CA CT S2 C2
+C8 CJ HJ C6
+DK D7 D4 DT
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "28"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T963.KJ2.KJ6.JT8 A87542.A4.T42.K3 Q.98763.AQ973.54 KJ.QT5.85.AQ9762"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S 2D 3C
+3D 3S Pass 4S
+AP
+[Play "E"]
+H3 HQ HK HA
+SQ SK S3 S2
+H9 SJ S6 S4
+C4 C2 C8 CK
+C5 CA CT C3
+D3 CQ CJ H4
+D7 C9 S9 D2
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "28"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T963.KJ2.KJ6.JT8 A87542.A4.T42.K3 Q.98763.AQ973.54 KJ.QT5.85.AQ9762"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2S Pass 4S
+AP
+[Play "E"]
+H8 HT HJ HA
+SQ SK S6 S2
+H9 SJ S3 S4
+C4 C2 C8 CK
+D7 C6 S9 SA
+C5 CA CT C3
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "29"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT72.KJ9.Q7.8763 AJ64.T743.642.T4 93.AQ85.A5.AK952 K85.62.KJT983.QJ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1C 1D 1S
+Pass 2H Pass 3D
+Pass 3NT AP
+[Play "S"]
+D8 DQ D6 D5
+CQ C8 C4 C9
+DK D7 D4 DA
+CJ C3 CT CA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "29"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT72.KJ9.Q7.8763 AJ64.T743.642.T4 93.AQ85.A5.AK952 K85.62.KJT983.QJ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Auction "N"]
+Pass 1C 1D 1H
+Pass 2H Pass 2NT
+Pass 3C AP
+[Play "S"]
+S5 S2 SJ S3
+DJ D7 D4 DA
+CQ C3 C4 CK
+CJ C6 CT CA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "30"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:3.J872.KT752.865 KT65.9.AQJ8643.2 A9842.43.9.KJT97 QJ7.AKQT65..AQ43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+2S 4H AP
+[Play "W"]
+S3 S5 SA SQ
+H2 S6 S2 S7
+C8 C2 CK CA
+H7 H9 H3 HQ
+H8 D3 H4 HK
+HJ D4 C7 HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "30"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:3.J872.KT752.865 KT65.9.AQJ8643.2 A9842.43.9.KJT97 QJ7.AKQT65..AQ43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "11"]
+[Auction "E"]
+Pass 1H Pass 1S
+2C X 2D X
+Pass 4H Pass Pass
+X AP
+[Play "W"]
+C5 C2 C9 CQ
+C6 H9 C7 C3
+D2 DA D9 C4
+D5 D3 H3 H5
+H2 D4 H4 HA
+H7 D6 S2 HK
+S3 S5 S4 SJ
+C8 ST S8 S7
+D7 D8 S9 H6
+-  -  -  CA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "31"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J985.QT63.Q.AT83 3.AJ98742.J942.K K742.K5.K753.Q52 AQT6..AT86.J9764"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+1C Pass 4H AP
+[Play "E"]
+D5 DA DQ D2
+C2 C4 CA CK
+C5 C6 C3 H2
+H5 S6 H3 HA
+HK -  -  HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "31"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J985.QT63.Q.AT83 3.AJ98742.J942.K K742.K5.K753.Q52 AQT6..AT86.J9764"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1C 1D 1H 2S
+Pass Pass 3H AP
+[Play "E"]
+S2 SQ S5 S3
+S4 SA S8 CK
+C5 C4 C3 H2
+D3 DT DQ D2
+C2 C6 C8 H4
+D5 D8 H3 D4
+CQ C7 CT H7
+H5 S6 H6 HA
+HK ST HT H8
+DK DA HQ D9
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "32"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ942.QJ.KJT852. T753.KT7642.7.86 K86.A5.AQ6.AJ952 Q.983.943.KQT743"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+1D 2H 3C Pass
+3S Pass 4D Pass
+4S Pass 4NT Pass
+5H Pass 5NT Pass
+6D AP
+[Play "N"]
+H4 HA H8 HJ
+D7 D6 D4 DJ
+H2 DA D3 D2
+C6 CA C3 HQ
+C8 C2 C4 D5
+S5 SK SQ S2
+H6 DQ D9 DK
+S3 S6 C7 SA
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "32"]
+[West "Te Velde"]
+[North "Van Eijck"]
+[East "Oltmans"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ942.QJ.KJT852. T753.KT7642.7.86 K86.A5.AQ6.AJ952 Q.983.943.KQT743"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7S"]
+[Result "12"]
+[Auction "W"]
+1S Pass 2C X
+2D Pass 2H Pass
+3D Pass 3S Pass
+4D Pass 4H Pass
+6D Pass 7S AP
+[Play "N"]
+C8 CA C4 HJ
+S3 SK SQ S2
+-  S6 C3 -
+*
+[Description "#"]
+[HomeTeam "Pegasus +31"]
+[VisitTeam "Lombard +54"]
+[Room "Closed"]
+
+% PBN created by BFC fi03.lin P
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QJ9.A3.AJ8.98762 7.8542.QT642.AJT K8642.KJ96.K7.43 AT53.QT7.953.KQ5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "N"]
+2H AP
+[Play "E"]
+S2 SA SQ S7
+DK D3 D8 DT
+S4 S3 S9 H2
+C3 CK C9 CT
+D7 D5 DA D6
+S6 S5 SJ H4
+C4 C5 C2 CA
+H6 CQ C6 CJ
+H9 HT HA H5
+HK H7 H3 H8
+SK ST C8 -
+*
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QJ9.A3.AJ8.98762 7.8542.QT642.AJT K8642.KJ96.K7.43 AT53.QT7.953.KQ5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D X Pass 1S
+Pass 2S Pass 4S
+AP
+[Play "N"]
+D4 D7 D9 DJ
+D2 DK D5 D8
+H4 H6 H7 HA
+D6 C3 D3 DA
+CT C4 CQ C9
+CJ S2 C5 C6
+H5 HK HT H3
+H2 H9 HQ S9
+CA S4 CK C2
+H8 HJ S5 SJ
+-  -  -  SQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:94.Q753.T8742.K5 KQ82.KJ8.K9.A832 JT653.T9.AJ.Q964 A7.A642.Q653.JT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2C 2NT
+Pass 3C Pass 3D
+Pass 3NT AP
+[Play "E"]
+DA D3 D8 D9
+S3 SA S9 S2
+CQ CJ C5 C2
+SJ S7 S4 SK
+C6 C7 CK C3
+H9 H2 H3 HJ
+DJ D5 D2 DK
+C4 CT D4 C8
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:94.Q753.T8742.K5 KQ82.KJ8.K9.A832 JT653.T9.AJ.Q964 A7.A642.Q653.JT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2S
+Pass 3NT AP
+[Play "E"]
+S3 SA S4 S2
+HT H2 H3 HJ
+C4 CJ CK C2
+S5 S7 S9 SK
+CQ C7 C5 C3
+ST D3 D4 SQ
+C6 CT D7 C8
+H9 H4 H5 HK
+C9 D5 D8 CA
+-  -  -  H8
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ754.953.7.9843 T2.KQT.K543.QT76 J6.AJ764.QJT9.A2 K983.82.A862.KJ5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1NT Pass Pass 2H
+Pass 3H AP
+[Play "S"]
+H2 H3 HQ HA
+SK SA S2 SJ
+DA D7 D3 DQ
+H8 H5 HK H4
+-  -  HT HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ754.953.7.9843 T2.KQT.K543.QT76 J6.AJ764.QJT9.A2 K983.82.A862.KJ5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1D 1S 2S Pass
+3D Pass Pass X
+Pass 3H Pass 4H
+AP
+[Play "N"]
+D3 D9 DA D7
+CT CA C5 C8
+S2 SJ SK SA
+ST S6 S3 SQ
+C6 H4 S8 S5
+D4 DT D2 H3
+C7 H7 S9 S4
+D5 DJ D6 H5
+DK C2 H2 S7
+HT DQ D8 H9
+HK HA H8 C3
+-  H6 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J73.AJ94.642.842 A9642.873.AJ75.J .Q.KQT983.KT7653 KQT85.KT652..AQ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S 2NT 5D
+Pass 5S Pass 6S
+AP
+[Play "E"]
+C3 C9 C2 CJ
+C7 SK S3 S2
+C5 ST S7 S4
+C6 S5 SJ SA
+HQ HK HA H7
+D3 S8 D6 D5
+CT CA C4 H3
+CK CQ C8 S6
+D8 H2 H9 H8
+D9 SQ D4 D7
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J73.AJ94.642.842 A9642.873.AJ75.J .Q.KQT983.KT7653 KQT85.KT652..AQ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 5D Pass
+Pass X Pass 6D
+Pass 6S AP
+[Play "E"]
+DK C9 D4 DA
+C3 CQ C4 CJ
+C6 SK S7 S2
+C5 CA C2 H3
+HQ S5 S3 S6
+CK HT HJ H7
+-  -  SJ -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J7.82.AKQT75.862 85.JT9.86432.KQ3 K432.AQ54.J9.T94 AQT96.K763..AJ75"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1S 2D
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+SQ S7 S5 SK
+H3 D5 D2 DJ
+C5 DA D3 D9
+H7 DK D4 S2
+CJ DQ D6 S3
+C7 DT D8 H4
+H6 D7 C3 S4
+HK H2 HT HQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J7.82.AKQT75.862 85.JT9.86432.KQ3 K432.AQ54.J9.T94 AQT96.K763..AJ75"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1S 2D
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+SQ S7 S8 SK
+C7 D5 D2 D9
+C5 DA D3 DJ
+H3 DK D4 S4
+H6 DQ D6 C9
+CJ DT D8 CT
+H7 D7 C3 H4
+HK H2 H9 HQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT3.QJ87.Q654.J6 85.54.J9873.QT42 AQ972.KT92.K.A93 K64.A63.AT2.K875"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+1S Pass 2S AP
+[Play "S"]
+S4 SJ S5 S2
+DA D4 D9 DK
+H3 HQ H4 HT
+D2 DQ D3 C3
+SK ST S8 S7
+S6 S3 D7 S9
+HA H7 H5 HK
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT3.QJ87.Q654.J6 85.54.J9873.QT42 AQ972.KT92.K.A93 K64.A63.AT2.K875"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "E"]
+1S Pass 2S Pass
+3H Pass 4H AP
+[Play "S"]
+C5 C6 CT CA
+H3 HQ H4 H9
+DA D4 D3 DK
+CK CJ C2 C3
+DT D5 D7 HK
+HA H7 H5 H2
+C8 H8 CQ C9
+S4 SJ S5 S7
+H6 HJ D8 HT
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:.Q975.JT9654.865 KQ72.84.AQ3.T742 AJT653.T632..AKQ 984.AKJ.K872.J93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "7"]
+[Auction "S"]
+1C Pass 1S 2S
+Pass Pass 3NT X
+AP
+[Play "E"]
+H6 HA H5 H8
+S3 D2 D4 DA
+CQ C3 C8 C4
+H2 HJ HQ H4
+HT HK H7 S2
+CK CJ C5 C2
+H3 S4 H9 S7
+-  -  C6 C7
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:.Q975.JT9654.865 KQ72.84.AQ3.T742 AJT653.T632..AKQ 984.AKJ.K872.J93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "7"]
+[Auction "S"]
+1D Pass 1S 2S
+Pass Pass 2NT AP
+[Play "E"]
+CA C3 C8 C4
+H3 HA H7 H4
+CQ CJ C6 C2
+H2 HJ HQ H8
+HT HK H5 S2
+CK C9 C5 C7
+H6 S4 H9 S7
+S3 D2 DJ DA
+SA -  -  SK
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK.74.QT652.K982 J98.AQJ92.KJ98.Q 75.KT3.A43.AJ543 QT6432.865.7.T76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D 1H 2C 2H
+3C 3H 3NT AP
+[Play "S"]
+S4 SK S8 S7
+C7 C2 CQ CA
+C6 CK D8 C3
+CT C8 H2 CJ
+H8 C9 H9 C5
+H5 H4 HJ HK
+-  -  -  C4
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK.74.QT652.K982 J98.AQJ92.KJ98.Q 75.KT3.A43.AJ543 QT6432.865.7.T76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D 1H 2C Pass
+3C Pass 3NT AP
+[Play "S"]
+S4 SA S8 S7
+C6 CK CQ C3
+C7 C2 H2 CA
+CT C8 D9 CJ
+H6 C9 H9 C4
+H8 H4 HA H3
+S2 SK SJ S5
+H5 H7 HJ HK
+S3 D2 D8 C5
+D7 D5 DJ DA
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AKJ3.T93.976.K53 Q54.QJ876.A4.A84 T87.K52.K32.QJT9 962.A4.QJT85.762"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1NT AP
+[Play "W"]
+SA S4 S8 S6
+S3 SQ S7 S2
+D6 DA D2 D5
+D7 D4 D3 DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AKJ3.T93.976.K53 Q54.QJ876.A4.A84 T87.K52.K32.QJT9 962.A4.QJT85.762"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1H Pass 1NT AP
+[Play "W"]
+SK S4 S8 S6
+S3 SQ S7 S2
+D6 DA D3 D5
+D7 D4 D2 DQ
+D9 S5 DK DT
+C3 CA CQ C2
+H3 H6 H5 HA
+-  -  -  DJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:985.T75.9843.A83 J4.9432.752.JT64 63.AQJ6.AQJT.Q97 AKQT72.K8.K6.K52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+1NT X Pass 2C
+Pass 2S AP
+[Play "W"]
+D4 D2 DA D6
+D3 D5 DQ DK
+S5 S4 S3 SK
+S8 SJ S6 S7
+HT H2 HA H8
+D8 D7 DJ SA
+S9 C4 DT SQ
+H5 H4 H6 ST
+C8 CJ CQ C2
+H7 H3 HQ HK
+CA C6 C7 CK
+D9 H9 C9 S2
+C3 -  -  C5
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:985.T75.9843.A83 J4.9432.752.JT64 63.AQJ6.AQJT.Q97 AKQT72.K8.K6.K52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NTX"]
+[Result "6"]
+[Auction "E"]
+1NT X AP
+[Play "S"]
+SA S5 S4 S6
+SQ S8 SJ S3
+SK S9 D2 DJ
+S7 H5 D5 DT
+S2 D3 D7 H6
+ST H7 H2 HQ
+HK HT H4 HA
+D6 D4 H3 DA
+H8 C3 H9 HJ
+DK D8 C4 DQ
+C2 C8 CJ CQ
+C5 CA C6 C7
+-  D9 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T72.KQJ4.A8.J642 Q9543.A872.42.Q8 J6.53.KQJT653.K3 AK8.T96.97.AT975"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Auction "S"]
+1NT Pass 2S 3D
+3S X Pass 4D
+AP
+[Play "S"]
+SK S2 S3 S6
+SA S7 S4 SJ
+S8 ST SQ D3
+HT HK HA H3
+H6 HQ H2 H5
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T72.KQJ4.A8.J642 Q9543.A872.42.Q8 J6.53.KQJT653.K3 AK8.T96.97.AT975"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Auction "S"]
+1C 1H 1S 2D
+2S Pass Pass 3D
+AP
+[Play "S"]
+SA S2 S5 S6
+CA C2 C8 C3
+CT C4 CQ CK
+D7 D8 D2 DK
+D9 DA D4 D3
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ.KJ.AKJT9.AQ82 AT964.QT4.82.J93 852.987532.Q43.6 J73.A6.765.KT754"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+2D Pass 2H Pass
+2NT Pass 4C Pass
+4H AP
+[Play "S"]
+D6 D9 D2 DQ
+C7 CQ C3 C6
+C4 C2 C9 H2
+H6 HJ HQ H3
+S3 SQ SA S8
+S7 SK S6 S2
+HA HK H4 H5
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ.KJ.AKJT9.AQ82 AT964.QT4.82.J93 852.987532.Q43.6 J73.A6.765.KT754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+2C Pass 2D Pass
+2NT Pass 3D Pass
+3H Pass 4H AP
+[Play "N"]
+C3 C6 CK CA
+C9 H2 C4 C2
+HQ H3 H6 HJ
+H4 H5 HA HK
+SA S2 S3 SQ
+ST S5 S7 SK
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q32.AQ5.K96.AJ83 AKJ8.K42.J.T9652 T9765.T96.T432.K 4.J873.AQ875.Q74"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2C AP
+[Play "E"]
+D3 D5 DK DJ
+H6 H3 HA H2
+DT DA D6 H4
+H9 H7 H5 HK
+S5 S4 S2 SA
+S7 H8 S3 SK
+S6 C4 SQ S8
+D4 DQ D9 SJ
+HT HJ HQ C2
+CK C7 C3 C5
+ST D7 C8 CT
+-  -  -  C6
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q32.AQ5.K96.AJ83 AKJ8.K42.J.T9652 T9765.T96.T432.K 4.J873.AQ875.Q74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1C Pass 1D Pass
+1S Pass 1NT AP
+[Play "W"]
+HQ HK H9 H3
+C3 CT CK C4
+DK DJ D4 D5
+D9 S8 D2 DQ
+H5 H2 H6 HJ
+HA H4 HT H8
+S3 SA S7 S4
+CA C2 S5 CQ
+CJ C5 S6 C7
+C8 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q76.AJ92.J865.T3 KJT943.Q7.94.Q76 85.K843.AK2.AK85 A2.T65.QT73.J942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1H 2S
+2NT Pass 3NT Pass
+4H AP
+[Play "N"]
+D4 DA D3 D5
+SK S5 S2 SQ
+D9 DK D7 D6
+HQ H3 H6 HJ
+SJ S8 SA S6
+S4 D2 DQ D8
+H7 H8 DT DJ
+C6 CA C2 C3
+C7 CK C4 CT
+CQ C5 C9 H2
+S9 HK CJ S7
+S3 H4 H5 H9
+-  -  -  HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q76.AJ92.J865.T3 KJT943.Q7.94.Q76 85.K843.AK2.AK85 A2.T65.QT73.J942"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 3H Pass
+4H AP
+[Play "S"]
+D3 DJ D4 D2
+C4 C3 C6 CA
+H6 HA H7 H3
+H5 H2 HQ HK
+HT HJ S3 H4
+D7 D5 D9 DA
+DT D6 S4 DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:53.JT432.Q943.KT T92.975.AJ65.J92 AK74.AKQ86.7.AQ8 QJ86..KT82.76543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2H
+Pass 3H Pass 3S
+Pass 4C Pass 4NT
+Pass 5D X 6H
+AP
+[Play "S"]
+D2 D3 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:53.JT432.Q943.KT T92.975.AJ65.J92 AK74.AKQ86.7.AQ8 QJ86..KT82.76543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 2H
+Pass 4H AP
+[Play "S"]
+SQ S3 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Schollaardt"]
+[North "Te Velde"]
+[East "Drijver"]
+[South "Oltmans"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:642.KQ95.KT4.T82 KQ8.J863.J8.9654 AJT975.A4.7532.3 3.T72.AQ96.AKQJ7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "4"]
+[Auction "W"]
+Pass 2H 2S 3C
+Pass 3NT AP
+[Play "E"]
+SJ S3 S6 SK
+D2 D6 DK DJ
+SA H2 S4 SQ
+ST H7 S2 S8
+S9 HT DT C4
+S7 C7 D4 C6
+S5 D9 CT C5
+HA CJ H5 H3
+H4 CQ HQ H6
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Niemeyer"]
+[North "Van Eijck"]
+[East "Bomhof"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:642.KQ95.KT4.T82 KQ8.J863.J8.9654 AJT975.A4.7532.3 3.T72.AQ96.AKQJ7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 3S X
+Pass 4H AP
+[Play "E"]
+C3 CA C2 C5
+HA H2 H5 H6
+D7 DA D4 D8
+H4 H7 HQ H3
+D5 D6 DK DJ
+SA S3 S4 SK
+D3 DQ DT C4
+SJ HT HK H8
+S5 -  S6 SQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +74"]
+[VisitTeam "Lombard +101"]
+[Room "Closed"]
+
+% PBN created by BFC fi04.lin P
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKJ95432..T75.75 T86.K72.Q9643.AQ 7.AJT94.K.KJT982 Q.Q8653.AJ82.643"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 4S
+AP
+[Play "N"]
+D3 DK DA D5
+S8 S7 SQ SA
+CA C2 C6 C5
+DQ H4 D2 D7
+D4 C8 DJ DT
+D6 H9 D8 S9
+-  -  -  SK
+*
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKJ95432..T75.75 T86.K72.Q9643.AQ 7.AJT94.K.KJT982 Q.Q8653.AJ82.643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass 1C 1H 4S
+AP
+[Play "N"]
+H2 HA H6 D7
+D6 DK DA D5
+S6 S7 SQ SA
+S8 C2 C6 SK
+ST H4 C3 SJ
+D3 H9 C4 S9
+CQ HT H3 S5
+H7 HJ H5 S4
+D4 C8 H8 S3
+CA C9 D2 C7
+HK CT HQ S2
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT93.8654.932.A5 A5.KQT.QJ.Q97642 764.AJ973.T8.KJT KJ82.2.AK7654.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1D Pass 2C
+Pass 2S Pass 3NT
+AP
+[Play "E"]
+H3 H2 H8 HT
+D8 D4 D9 DQ
+DT D5 D3 DJ
+S7 S2 S3 SA
+S4 SK S9 S5
+H7 DA D2 C4
+H9 DK C5 C6
+HJ D7 H4 C2
+CT D6 H5 HQ
+CJ C3 CA C7
+HA C8 H6 HK
+CK S8 ST C9
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT93.8654.932.A5 A5.KQT.QJ.Q97642 764.AJ973.T8.KJT KJ82.2.AK7654.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1D Pass 2D
+Pass 2H Pass 2NT
+Pass 3D Pass 3H
+Pass 3NT AP
+[Play "E"]
+H3 H2 H8 HT
+HA C3 H6 HK
+H7 S2 H5 HQ
+D8 D4 D3 DQ
+DT D5 D2 DJ
+S4 S8 S3 SA
+S7 SK S9 S5
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:764.KJ9.KJ763.T7 83.A862..AK98643 QJT2.53.T9542.52 AK95.QT74.AQ8.QJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "11"]
+[Auction "S"]
+1C Pass 2D Pass
+3NT Pass 4C Pass
+4D Pass 4H Pass
+4S Pass 6C AP
+[Play "W"]
+CT C3 C5 CJ
+C7 C4 C2 CQ
+D6 C6 DT D8
+D3 CA D5 S5
+S7 S3 SQ SK
+S4 S8 S2 SA
+S6 C8 SJ S9
+H9 HA H3 H4
+HJ H2 H5 HT
+HK -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:764.KJ9.KJ763.T7 83.A862..AK98643 QJT2.53.T9542.52 AK95.QT74.AQ8.QJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "7C"]
+[Result "11"]
+[Auction "S"]
+1C Pass 2C Pass
+3NT Pass 5D Pass
+5S Pass 5NT Pass
+6D Pass 6H Pass
+6S Pass 6NT Pass
+7C AP
+[Play "W"]
+CT C3 C5 CQ
+DK C9 D5 DQ
+C7 C4 C2 CJ
+HK HA H3 HQ
+H9 H2 H5 H7
+HJ -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J32.A.AKJ86.9653 96.Q62.QT9752.K2 KT74.8743.43.AJ7 AQ85.KJT95..QT84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1H X
+Pass 1NT AP
+[Play "E"]
+S4 S5 SJ S6
+D3 C4 D6 DT
+H4 HJ HA H6
+ST SQ S3 S9
+C7 C8 C3 CK
+H3 H5 S2 HQ
+H7 HK C6 H2
+H8 HT D8 D2
+CJ H9 C5 D5
+S7 SA DJ C2
+CA CQ C9 D7
+SK S8 DA D9
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J32.A.AKJ86.9653 96.Q62.QT9752.K2 KT74.8743.43.AJ7 AQ85.KJT95..QT84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3CX"]
+[Result "6"]
+[Auction "W"]
+1D Pass 1H Pass
+2C Pass 2D X
+Pass Pass 3C X
+AP
+[Play "N"]
+H2 H3 HK HA
+D2 D3 C4 DA
+HQ H4 HJ C3
+S6 ST SQ S3
+H6 H7 HT C5
+S9 S4 SA SJ
+CK H8 H9 C9
+DT D4 C8 D6
+C2 S7 S5 S2
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:984.Q975.QJ5.AKT KQ6.KJ643.A3.Q73 J753.A82.862.952 AT2.T.KT974.J864"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2C Pass
+2H Pass 2NT Pass
+3H Pass 3NT AP
+[Play "E"]
+S3 S2 S8 SQ
+D6 D4 D5 DA
+D2 DK DJ D3
+D8 DT DQ H4
+HA HT HQ HK
+H8 C4 H5 HJ
+S5 SA S9 S6
+C2 D9 CT C3
+C5 D7 S4 C7
+S7 ST CK SK
+C9 C6 CA CQ
+-  -  H9 -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:984.Q975.QJ5.AKT KQ6.KJ643.A3.Q73 J753.A82.862.952 AT2.T.KT974.J864"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1NT Pass 2S Pass
+3C Pass 3H Pass
+3NT AP
+[Play "E"]
+S5 S2 S8 SK
+D2 D4 D5 DA
+D8 DK DJ D3
+D6 DT DQ H3
+SJ SA S9 S6
+H8 D9 H5 H4
+C5 D7 CT SQ
+C2 C4 CA C7
+S3 ST S4 H6
+C9 C6 CK CQ
+HA HT H7 HK
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:62.AQT5.T96.Q642 Q5.J932.KQJ2.A95 AT74.874.A85.J73 KJ983.K6.743.KT8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 1NT
+AP
+[Play "E"]
+H7 H6 HQ H2
+H8 HK HA H3
+H4 D3 H5 HJ
+S7 S3 S2 SQ
+S4 SK S6 S5
+D8 D4 D6 DQ
+DA D7 D9 DK
+D5 S8 DT DJ
+ST S9 C2 D2
+C7 SJ HT H9
+C3 CT CQ CA
+CJ CK C4 C5
+-  C8 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:62.AQT5.T96.Q642 Q5.J932.KQJ2.A95 AT74.874.A85.J73 KJ983.K6.743.KT8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 1NT
+Pass 2C Pass 2D
+Pass 2S AP
+[Play "W"]
+DT DK DA D4
+HQ H2 H7 H6
+HA H3 H4 HK
+H5 HJ H8 D3
+S2 SQ SA S3
+D9 DJ D5 D7
+S6 S5 S4 SK
+-  -  -  SJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:7.AJ974.J2.AJT92 T852.53.Q7.Q8765 AKQJ.Q6.AT865.K3 9643.KT82.K943.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 3NT Pass 4NT
+Pass 5D Pass 5NT
+Pass 6C Pass 6NT
+AP
+[Play "N"]
+S5 SJ S3 S7
+H3 HQ HK HA
+C6 CK C4 C2
+C5 C3 S4 CA
+CQ D5 D3 CJ
+D7 DA D4 D2
+S2 SA S6 H4
+S8 SK S9 H7
+ST SQ D9 DJ
+H5 H6 H2 H9
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:7.AJ974.J2.AJT92 T852.53.Q7.Q8765 AKQJ.Q6.AT865.K3 9643.KT82.K943.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3C
+Pass 4C Pass 6NT
+AP
+[Play "N"]
+S5 SJ S3 S7
+C7 CK C4 C2
+CQ C3 S4 CJ
+H5 HQ HK HA
+C8 D5 D3 CA
+C5 D6 S6 CT
+C6 D8 D4 C9
+D7 DA D9 DJ
+S2 SA S9 H4
+S8 SK DK H7
+ST SQ H2 D2
+H3 H6 H8 H9
+-  -  -  HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K5.JT92.K.AKQ982 Q9876.Q8.T982.J4 AJT42.AK4.AQ.T53 3.7653.J76543.76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1S Pass
+2H Pass 3C Pass
+3D Pass 3H Pass
+3NT Pass 4C Pass
+4D Pass 4H Pass
+4S Pass 4NT Pass
+5S Pass 7NT AP
+[Play "N"]
+DT DA D3 DK
+D2 DQ D4 H2
+C4 C3 C6 CA
+CJ C5 C7 CK
+D8 CT D5 CQ
+D9 S2 D6 C9
+S8 S4 D7 C8
+S6 SA S3 S5
+H8 HA H3 H9
+S7 ST DJ SK
+S9 SJ H5 C2
+HQ HK H6 HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K5.JT92.K.AKQ982 Q9876.Q8.T982.J4 AJT42.AK4.AQ.T53 3.7653.J76543.76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1S Pass
+2H Pass 3C Pass
+3D Pass 4NT Pass
+5S Pass 7NT AP
+[Play "S"]
+C7 CA C4 C5
+C6 CK CJ C3
+D3 CQ S7 CT
+H3 C9 D2 S4
+D7 C8 DT H4
+D4 C2 D8 ST
+D5 DK D9 DA
+D6 H2 H8 DQ
+-  -  -  HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A3.Q9852.K2.8764 J.AT643.QJ963.J5 K976542.J.A54.AK QT8.K7.T87.QT932"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 3S Pass 4S
+AP
+[Play "S"]
+C2 C4 CJ CA
+HK H2 H4 HJ
+H7 H8 HT S5
+S8 S3 SJ SK
+ST SA D3 S4
+-  HQ H3 D4
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A3.Q9852.K2.8764 J.AT643.QJ963.J5 K976542.J.A54.AK QT8.K7.T87.QT932"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "7"]
+[Auction "N"]
+Pass 4D Pass 4S
+4NT X 5C X
+5D X AP
+[Play "E"]
+CK C2 C8 C5
+S2 S8 SA SJ
+SK ST S3 CJ
+S5 SQ DK H3
+HJ H7 H9 HA
+D4 D7 D2 D3
+D5 HK H2 H4
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q64.96.8752.AQ94 7.JT543.JT643.T6 AKJ9.AK87.AKQ9.7 T8532.Q2..KJ8532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "E"]
+2D Pass 2H Pass
+2NT Pass 3C Pass
+3D Pass 6NT AP
+[Play "S"]
+S2 SQ S7 S9
+S3 S4 H4 SA
+S5 S6 D4 SK
+S8 D2 C6 SJ
+C2 D5 D3 DA
+C3 CQ CT C7
+C5 CA H3 D9
+H2 H6 H5 HA
+HQ H9 HT HK
+-  -  -  H7
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:Q64.96.8752.AQ94 7.JT543.JT643.T6 AKJ9.AK87.AKQ9.7 T8532.Q2..KJ8532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+2C X XX Pass
+3C Pass 3NT AP
+[Play "N"]
+CT C7 C2 CQ
+D6 DA S5 D7
+H5 HA H2 H6
+H4 HK HQ H9
+S7 SA S2 S4
+C6 SK S3 S6
+D3 S9 S8 SQ
+H3 H7 C3 CA
+DT DK C5 D5
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q732.AKT.JT.A832 J6.83.A982.QJ765 AT5.964.K7654.94 K984.QJ752.Q3.KT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+1H Pass 1NT AP
+[Play "E"]
+D4 DQ DJ D2
+C9 CK C2 C5
+C4 CT C3 CJ
+H6 H2 C8 C6
+D7 D3 DT DA
+H9 H5 CA C7
+ST SK S2 S6
+SA S4 S3 SJ
+DK S9 HT D9
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q732.AKT.JT.A832 J6.83.A982.QJ765 AT5.964.K7654.94 K984.QJ752.Q3.KT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Auction "S"]
+1H X 1NT 2D
+AP
+[Play "S"]
+CK C2 C5 C4
+H2 HT H3 H4
+DQ DJ D2 D4
+H7 HK H8 H9
+D3 DT D8 D5
+CT CA C6 C9
+S4 S2 S6 SA
+H5 C3 D9 D6
+S8 S3 DA D7
+-  -  CJ DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ8762.A9.T8.863 AQT9.Q53.4.QJ975 53.K876.QJ52.AT2 4.JT42.AK9763.K4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "W"]
+2D Pass 2S AP
+[Play "S"]
+DA D8 D4 D5
+DK DT C7 D2
+CK C3 C5 CA
+D3 C6 S9 DQ
+C4 C8 CQ C2
+H2 H9 H3 HK
+S4 SJ SQ S3
+D6 S2 CJ CT
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ8762.A9.T8.863 AQT9.Q53.4.QJ975 53.K876.QJ52.AT2 4.JT42.AK9763.K4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2SX"]
+[Result "5"]
+[Auction "W"]
+2D Pass 2H Pass
+2S Pass Pass X
+AP
+[Play "N"]
+CQ C2 C4 C6
+C9 CA CK C3
+H5 H6 H2 HA
+H3 HK H4 H9
+HQ H7 HT S2
+D4 DQ DK D8
+S9 H8 HJ S6
+CJ CT S4 C8
+C5 D2 DA DT
+ST D5 D3 S7
+C7 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K3.J54.AKJ64.AT9 QJ9754.A763..K85 82.QT.QT752.Q643 AT6.K982.983.J72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 2S X
+3S AP
+[Play "E"]
+S2 SA S3 S4
+C3 C2 CA C8
+D5 D3 DA S7
+S8 S6 SK S9
+D7 D8 D4 SJ
+HT HK H5 H3
+HQ H2 H4 H6
+DT D9 DK SQ
+D2 ST D6 S5
+C4 H8 HJ HA
+DQ H9 DJ H7
+C6 C7 C9 CK
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K3.J54.AKJ64.AT9 QJ9754.A763..K85 82.QT.QT752.Q643 AT6.K982.983.J72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 2S X
+4S AP
+[Play "E"]
+HQ HK H4 H3
+D5 D3 DA S4
+S2 S6 SK SQ
+HT H2 H5 H6
+S8 ST S3 S5
+D2 D8 D4 S7
+-  -  -  HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:8732.JT53.A54.83 AJT.A4.JT8.KQT74 54.KQ9862.63.AJ2 KQ96.7.KQ972.965"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+2D Pass 3H 3NT
+AP
+[Play "E"]
+HK H7 H3 HA
+D3 D2 DA DJ
+H2 C5 HJ H4
+HQ C6 HT C4
+H9 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:8732.JT53.A54.83 AJT.A4.JT8.KQT74 54.KQ9862.63.AJ2 KQ96.7.KQ972.965"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+2D Pass 2H X
+Pass 3H 4H Pass
+Pass 4S AP
+[Play "W"]
+HJ HA H2 H7
+DA D8 D3 DK
+HT H4 H6 C6
+D5 DT D6 D2
+S2 SA S4 S6
+S3 ST S5 SQ
+S7 SJ H8 SK
+S8 C4 HQ S9
+D4 DJ -  DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q984.QJ52.4.A943 JT6.9763.K653.J5 753.AK8.T8.KQT87 AK2.T4.AQJ972.62"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1H 2C
+2D 2H Pass 3C
+AP
+[Play "S"]
+HT H2 H3 HA
+C2 C3 C5 CK
+C6 C4 CJ CQ
+H4 H5 H6 HK
+-  -  -  H8
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q984.QJ52.4.A943 JT6.9763.K653.J5 753.AK8.T8.KQT87 AK2.T4.AQJ972.62"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1NT 2C Pass 2D
+Pass 2H Pass Pass
+3D Pass Pass 3H
+AP
+[Play "N"]
+H3 HA H4 H2
+H6 HK HT H5
+H7 H8 D2 HQ
+-  -  -  HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQ8.A832.K.QJ942 J542.K5.JT9862.A T976.QT76.A3.T76 A3.J94.Q754.K853"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+1NT 2D Pass Pass
+X Pass 2H Pass
+Pass 3D AP
+[Play "E"]
+H7 H9 HA H5
+H6 H4 H2 HK
+C7 C3 C4 CA
+-  -  -  D8
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQ8.A832.K.QJ942 J542.K5.JT9862.A T976.QT76.A3.T76 A3.J94.Q754.K853"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+1NT AP
+[Play "N"]
+DJ D3 D4 DK
+CA C6 C3 CQ
+DT DA D7 H3
+S5 CT CK C2
+D6 S6 DQ H2
+D8 S7 D5 S8
+D2 H6 H9 H8
+D9 C7 H4 C4
+S2 S9 SA SQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K2.J9.A6542.QJ94 963.KQT6.8.A7632 AQT8754.A4.KJ3.K J.87532.QT97.T85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 4S AP
+[Play "S"]
+D9 D2 D8 DJ
+SJ SK S6 S7
+H2 S2 S3 SA
+H3 C4 S9 SQ
+C5 H9 C3 ST
+D7 D4 C2 DK
+C8 C9 CA CK
+H5 HJ HK HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K2.J9.A6542.QJ94 963.KQT6.8.A7632 AQT8754.A4.KJ3.K J.87532.QT97.T85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass 4D Pass 4S
+AP
+[Play "N"]
+D8 DJ DQ DA
+CA CK C8 C4
+HK HA H8 H9
+S3 SA SJ S2
+S6 S4 H2 SK
+C2 H4 C5 CQ
+-  -  -  CJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ3.72.KJ92.8764 872.QJT86.T86.J5 A965.AK954.75.T9 JT4.3.AQ43.AKQ32"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+1H 2C X Pass
+2S AP
+[Play "S"]
+CA C4 C5 C9
+DA D2 D8 D5
+D3 DK D6 D7
+H3 H2 H6 HA
+S4 H7 H8 HK
+CK C6 CJ CT
+C3 C7 S7 S9
+ST SQ HT H4
+D4 D9 DT S5
+DQ S3 HJ H5
+C2 C8 S8 SA
+SJ SK S2 S6
+-  DJ -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ3.72.KJ92.8764 872.QJT86.T86.J5 A965.AK954.75.T9 JT4.3.AQ43.AKQ32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Auction "E"]
+1H X 1NT Pass
+Pass 2C AP
+[Play "W"]
+H7 HQ HK H3
+DJ D6 D7 D3
+SK S2 S5 S4
+S3 S7 SA ST
+D2 D8 D5 DA
+DK DT C9 D4
+SQ S8 S6 SJ
+D9 C5 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:9642.A8762.AQ5.A 83.QT3.J8732.J73 AQ.KJ9.K96.QT986 KJT75.54.T4.K542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+2S 3H Pass 3S
+Pass 4D Pass 4H
+AP
+[Play "N"]
+S8 SA S5 S2
+S3 SQ SK S4
+C7 C6 C2 CA
+C3 H9 S7 S6
+H3 HK H4 H2
+D3 D6 D4 DA
+CJ HJ ST S9
+D2 D9 DT DQ
+HT C8 H5 HA
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:9642.A8762.AQ5.A 83.QT3.J8732.J73 AQ.KJ9.K96.QT986 KJT75.54.T4.K542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+2D Pass 2S 2NT
+Pass 3NT AP
+[Play "S"]
+H5 H2 HQ HK
+D4 DA D8 D6
+H4 H6 H3 H9
+S5 H7 HT HJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "de Wijs"]
+[North "Luitwieler"]
+[East "Muller"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT7532.Q982.9.93 K98.753.KQ7652.7 AJ64.J4.AT3.AK62 .AKT6.J84.QJT854"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1NT X
+2H Pass 3S Pass
+4S AP
+[Play "S"]
+HA H2 H7 H4
+CQ C3 C7 CA
+C4 S2 S8 SA
+C5 SQ SK S4
+HK H8 H5 HJ
+CJ C9 S9 C2
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "Niemeyer"]
+[North "Drijver"]
+[East "Bomhof"]
+[South "Schollaardt"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT7532.Q982.9.93 K98.753.KQ7652.7 AJ64.J4.AT3.AK62 .AKT6.J84.QJT854"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2H Pass 3H 3S
+Pass 4H X AP
+[Play "E"]
+CA C4 C3 C7
+H4 HA H2 H3
+C2 CQ C9 H5
+D3 DJ D9 D2
+CK CJ S2 D5
+DA D4 S3 D6
+DT D8 H8 DQ
+-  -  S5 S9
+*
+[Description "#"]
+[HomeTeam "Pegasus +109"]
+[VisitTeam "Lombard +144"]
+[Room "Closed"]
+
+% PBN created by BFC fi05.lin P
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T63.A842.KQ9.AQ7 AKJ2.QJT.654.952 75.K73.AJ82.JT64 Q984.965.T73.K83"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 3NT AP
+[Play "N"]
+SA S5 S4 S6
+SK S7 S8 S3
+S2 H3 SQ ST
+SJ C4 S9 H2
+HQ HK H5 H4
+C5 CJ C3 C7
+-  C6 -  -
+*
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "1"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T63.A842.KQ9.AQ7 AKJ2.QJT.654.952 75.K73.AJ82.JT64 Q984.965.T73.K83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "N"]
+1S Pass 2S X
+Pass 2NT Pass 3C
+AP
+[Play "N"]
+C2 CJ C3 C7
+C5 C4 C8 CQ
+C9 C6 CK CA
+D6 D2 DT DK
+D5 D8 D3 DQ
+D4 DJ D7 D9
+S2 DA S4 H2
+SJ CT H6 H4
+HT H3 H5 HA
+HJ HK H9 H8
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J942.872.JT4.A98 KQ63.6.KQ653.KQJ A875.J9.A92.7432 T.AKQT543.87.T65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass 3H Pass 3NT
+AP
+[Play "E"]
+DA D7 DJ D3
+S5 ST SJ SK
+H9 HA H2 H6
+HJ HK H7 S3
+S7 HQ H8 S6
+S8 HT C8 D6
+C2 H5 C9 CQ
+C3 H4 DT CK
+C4 H3 S4 SQ
+D2 D8 D4 DK
+D9 -  -  DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "2"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J942.872.JT4.A98 KQ63.6.KQ653.KQJ A875.J9.A92.7432 T.AKQT543.87.T65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 4H AP
+[Play "W"]
+DT DK DA D7
+D4 DQ D9 D8
+H2 H6 H9 HA
+H7 S3 HJ HK
+H8 D3 C2 HQ
+S2 SK SA ST
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K82.72.KJ987.T75 A.KT9643.AQ32.AJ JT543.AQJ.65.843 Q976.85.T4.KQ962"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1H Pass
+1S Pass 3D Pass
+3NT AP
+[Play "W"]
+DK DA D5 D4
+H2 H3 HJ H5
+C7 CA C8 C2
+C5 CJ C4 CQ
+CT D2 C3 CK
+D7 H4 S5 C9
+D9 D3 D6 C6
+H7 H6 HQ H8
+S2 SA S3 S6
+D8 H9 HA S7
+SK -  SJ SQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "3"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K82.72.KJ987.T75 A.KT9643.AQ32.AJ JT543.AQJ.65.843 Q976.85.T4.KQ962"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1H 1S
+Pass 2S X Pass
+3C Pass 3H Pass
+4H Pass Pass X
+AP
+[Play "E"]
+ST S6 S8 SA
+HA H5 H7 HK
+C4 C2 CT CA
+C8 CK C5 CJ
+C3 CQ C7 D2
+D6 D4 D9 DQ
+D5 DT D7 DA
+HJ S7 D8 D3
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT97.J98654..KJ2 Q8652.72.AT652.T J43.AQ.98.AQ8653 A.KT3.KQJ743.974"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+4H AP
+[Play "N"]
+CT CA C9 C2
+H2 HA H3 H4
+H7 HQ HK H5
+S8 S3 SA S7
+-  -  DK H8
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "4"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT97.J98654..KJ2 Q8652.72.AT652.T J43.AQ.98.AQ8653 A.KT3.KQJ743.974"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1C 1D
+X 1S 2C 2D
+3D 5D AP
+[Play "W"]
+H6 H2 HA H3
+C2 CT CA C4
+H5 H7 HQ HK
+-  -  -  DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT64.K83.T874.65 985.J92.J2.AQJT4 KQ2.AQT64.K93.93 J73.75.AQ65.K872"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+Pass 1H Pass 2H
+AP
+[Play "S"]
+C7 C5 CT C9
+DA D4 DJ DK
+DQ D7 D2 D9
+D5 D8 H9 D3
+C8 C6 C4 C3
+D6 DT HJ -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "5"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT64.K83.T874.65 985.J92.J2.AQJT4 KQ2.AQT64.K93.93 J73.75.AQ65.K872"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT AP
+[Play "S"]
+C2 C5 CT C3
+C7 C6 CQ C9
+CK S4 CA S2
+C8 D4 CJ H6
+D5 H3 C4 D3
+DQ DT D2 D9
+DA D8 DJ DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T93.QJT985..AJT9 AK7.A432.8632.Q5 J654.7.KJ754.764 Q82.K6.AQT9.K832"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 1NT 2H 3NT
+AP
+[Play "W"]
+HQ H2 H7 H6
+CJ CQ C7 C2
+ST D2 D5 D9
+S3 SA S4 S2
+H9 D3 D7 DT
+H5 H3 D4 HK
+S9 SK S6 S8
+HT HA C4 C3
+-  D6 DJ DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "6"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T93.QJT985..AJT9 AK7.A432.8632.Q5 J654.7.KJ754.764 Q82.K6.AQT9.K832"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1C 3H 3NT
+AP
+[Play "E"]
+H7 H6 H5 H4
+S4 S2 ST SK
+D5 D9 H8 D3
+C6 C2 CJ CQ
+D4 DT S3 D2
+D7 HK H9 H2
+S5 SQ S9 S7
+S6 S8 CT SA
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:765.AKJ842.A4.85 AQ43.T3.7632.KQ9 KJT.95.KQT85.JT6 982.Q76.J9.A7432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+Pass 1H Pass 2C
+Pass 2H Pass 2NT
+Pass 3NT AP
+[Play "S"]
+C2 C5 CQ C6
+C3 C8 CK CT
+CA H2 C9 CJ
+C7 S5 S3 ST
+C4 S6 D2 H5
+S9 S7 SA SJ
+S2 H4 S4 SK
+D9 DA D3 D5
+DJ D4 D6 DQ
+-  -  -  DK
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "7"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:765.AKJ842.A4.85 AQ43.T3.7632.KQ9 KJT.95.KQT85.JT6 982.Q76.J9.A7432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+Pass 1H X 2C
+Pass 2H Pass 2NT
+Pass 3D Pass 3H
+Pass 3NT AP
+[Play "S"]
+C2 C5 CQ C6
+C4 C8 CK CT
+CA S5 C9 CJ
+C7 H2 S3 H5
+C3 H4 D2 D5
+S2 S6 SA SJ
+S8 S7 S4 ST
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.AK742.652.KQ6 A986.83.73.A8542 T732.J9.AKQJT84. KJ5.QT65.9.JT973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4H Pass
+4S Pass 5D AP
+[Play "S"]
+CJ CK CA D8
+D9 D2 D3 DA
+C3 D5 D7 DK
+H5 HA H3 H9
+C7 CQ C2 S2
+H6 HK H8 HJ
+HT H2 C4 DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "8"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q4.AK742.652.KQ6 A986.83.73.A8542 T732.J9.AKQJT84. KJ5.QT65.9.JT973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7DX"]
+[Result "11"]
+[Auction "W"]
+1H Pass 2D Pass
+2NT Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 4S Pass
+4NT Pass 6D Pass
+6S X 6NT Pass
+Pass X Pass Pass
+7D X AP
+[Play "S"]
+S5 S4 SA S3
+C3 C6 CA D8
+D9 D2 D3 DA
+C7 D5 D7 DK
+HQ HK H3 HJ
+H5 HA H8 H9
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT6.9865.T4.KQ93 52.K4.QJ987532.2 AKJ983.JT2.6.T74 74.AQ73.AK.AJ865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+3D Pass 5D AP
+[Play "E"]
+SK S4 ST S2
+SA S7 S6 S5
+HJ HA H5 H4
+-  DA -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "9"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT6.9865.T4.KQ93 52.K4.QJ987532.2 AKJ983.JT2.6.T74 74.AQ73.AK.AJ865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "11"]
+[Auction "N"]
+4D 4S 5D X
+AP
+[Play "E"]
+SK S4 S6 S5
+SA S7 ST S2
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:72.943.KJ965.984 AKQT43.K.Q2.KT72 8.QJ7652.T74.AJ5 J965.AT8.A83.Q63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+2D Pass 2H 3S
+Pass 4S AP
+[Play "E"]
+HQ H8 H9 HK
+S8 S5 S2 SA
+H7 S6 S7 SK
+C5 CQ C9 C2
+H2 HA H4 D2
+CJ C3 C4 CT
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "10"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:72.943.KJ965.984 AKQT43.K.Q2.KT72 8.QJ7652.T74.AJ5 J965.AT8.A83.Q63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+2D Pass 2H 3S
+Pass 4S AP
+[Play "E"]
+H6 H8 H9 HK
+S8 S5 S2 SA
+H2 S6 S7 SK
+C5 CQ C9 C2
+CJ C3 C4 CT
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J63.KQ92.AT84.86 Q942.865.KJ3.QJ7 T75.J743.Q2.K943 AK8.AT.9765.AT52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 2NT AP
+[Play "W"]
+HQ H5 H3 HT
+H2 H6 H4 HA
+S3 S2 S5 SA
+S6 S4 S7 SK
+SJ SQ ST S8
+D4 S9 H7 D5
+C6 CQ C3 C2
+C8 CJ CK CA
+D8 C7 C4 CT
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "11"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J63.KQ92.AT84.86 Q942.865.KJ3.QJ7 T75.J743.Q2.K943 AK8.AT.9765.AT52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1NT Pass 3NT AP
+[Play "W"]
+H2 H5 HJ HT
+HQ H6 H3 HA
+S3 S2 S7 SA
+S6 S4 S5 SK
+D4 DK D2 D5
+C6 CQ C3 C2
+C8 CJ CK CA
+D8 C7 C4 CT
+SJ SQ ST S8
+-  S9 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J74.KQ3.632.T872 932.87.AQJT4.K64 AQ5.T654.7.AQ953 KT86.AJ92.K985.J"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+Pass Pass 1H Pass
+1NT AP
+[Play "N"]
+DQ D7 D5 D6
+S2 S5 SK S4
+DA H4 DK D2
+DJ H5 D9 D3
+DT C3 D8 C2
+D4 H6 ST C8
+S3 SQ S6 S7
+S9 SA S8 SJ
+H7 HT HA H3
+C6 CQ CJ C7
+C4 CA H2 CT
+CK C5 H9 HQ
+H8 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "12"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J74.KQ3.632.T872 932.87.AQJT4.K64 AQ5.T654.7.AQ953 KT86.AJ92.K985.J"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+2C Pass 3C X
+Pass 3NT AP
+[Play "E"]
+CQ CJ C2 CK
+D7 D5 D3 DA
+S5 DK D2 D4
+SQ D8 D6 DQ
+H5 D9 C7 DJ
+H4 H2 S7 DT
+SA S6 S4 S2
+CA H9 CT C4
+C9 -  -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:62.QT.AK84.AQJ96 Q854.A84.QJ2.K53 AKJT3.J952.53.T2 97.K763.T976.874"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1C 1H Pass 3NT
+AP
+[Play "N"]
+DQ D3 D6 D4
+DJ D5 D7 DK
+CK C2 C8 CQ
+D2 H2 D9 DA
+C5 CT C4 CA
+C3 S3 C7 CJ
+H8 ST H3 C9
+S4 SJ -  C6
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "13"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:62.QT.AK84.AQJ96 Q854.A84.QJ2.K53 AKJT3.J952.53.T2 97.K763.T976.874"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1SX"]
+[Result "4"]
+[Auction "N"]
+1S Pass Pass X
+AP
+[Play "E"]
+H2 H3 HQ HA
+D3 D6 DK DQ
+C2 C4 CA C5
+CT C7 CJ CK
+D5 D7 DA DJ
+H5 C8 C9 C3
+S3 D9 D8 D2
+HJ HK HT H4
+ST DT D4 H8
+SA S7 S6 S4
+H9 H6 S2 S5
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:962.83.AKQJ9.A92 QJ.Q64.T432.T763 AT87.A52.765.KJ5 K543.KJT97.8.Q84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1C 1H 2D Pass
+2NT Pass 3NT AP
+[Play "S"]
+HT H3 HQ H2
+H9 H8 H6 H5
+HK S2 H4 HA
+D8 DA D2 D6
+S3 DK D3 D5
+S4 DQ D4 D7
+S5 DJ DT S7
+H7 D9 SJ ST
+C4 C2 C3 CK
+C8 CA C6 C5
+SK S6 SQ SA
+-  -  -  S8
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "14"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:962.83.AKQJ9.A92 QJ.Q64.T432.T763 AT87.A52.765.KJ5 K543.KJT97.8.Q84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1NT 2C 3NT AP
+[Play "S"]
+HJ H3 H4 H2
+H9 H8 HQ H5
+HT S2 H6 HA
+D8 DA D2 D7
+S4 DK D4 D5
+S3 DQ D3 D6
+C8 DJ DT S8
+S5 D9 C6 ST
+C4 CA C3 C5
+CQ C2 C7 CK
+H7 -  -  CJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQ93.A.KJ873.854 KJ862.T32.654.93 4.J975.QT.AKQ762 T75.KQ864.A92.JT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Auction "S"]
+Pass 1D Pass 2D
+Pass 2H Pass 3H
+X 4C Pass 4D
+Pass 4H Pass 4S
+Pass 4NT Pass 5S
+Pass 6C AP
+[Play "N"]
+H2 H9 HQ HA
+C3 CA CJ C4
+D6 DQ DA D3
+S6 S4 S5 SA
+C9 CK CT C5
+-  DT -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "15"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AQ93.A.KJ873.854 KJ862.T32.654.93 4.J975.QT.AKQ762 T75.KQ864.A92.JT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "S"]
+H4 HA HT H5
+D9 D3 D6 DQ
+D2 DK D5 DT
+DA DJ D4 C7
+ST SA S2 S4
+S7 D7 S6 HJ
+CT D8 S8 H9
+CJ C4 C3 CK
+-  -  -  CA
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:432.AKJ.KJ3.T653 AQT7.93.QT4.AKQ2 K6.Q87642.A87.J7 J985.T5.9652.984"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+1C 1NT X 2D
+Pass Pass 2H AP
+[Play "S"]
+D5 D3 DT DA
+H5 HA H3 H2
+C9 C3 CK C7
+S5 S2 ST SK
+HT HK H9 H4
+C8 C5 CA CJ
+S8 S3 SA S6
+S9 S4 S7 H6
+D2 HJ SQ H8
+C4 C6 C2 HQ
+D6 DJ DQ D7
+-  -  CQ H7
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "16"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:432.AKJ.KJ3.T653 AQT7.93.QT4.AKQ2 K6.Q87642.A87.J7 J985.T5.9652.984"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "4"]
+[Auction "W"]
+1C 1NT X AP
+[Play "E"]
+H6 H5 HK H3
+H7 HT HA H9
+HQ C4 HJ ST
+H8 C8 S4 SQ
+H4 C9 S2 S7
+H2 S5 S3 C2
+C7 S8 CT CQ
+CJ D2 C3 CA
+S6 S9 C5 SA
+D8 SJ C6 CK
+D7 D5 DK DQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:2.AKT86.AKQT2.62 AKJ86543.7.7.Q98 QT7.542.J863.AKJ 9.QJ93.954.T7543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+4D Pass 4S 4NT
+Pass 5D AP
+[Play "S"]
+S9 S2 SK S7
+C3 C2 C8 CA
+D4 DA D7 D3
+D5 DK S5 D6
+D9 DQ S4 DJ
+H3 HA H7 H2
+C4 C6 C9 CK
+HJ HK S3 H4
+C5 D2 S6 D8
+-  -  -  H5
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "17"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:2.AKT86.AKQT2.62 AKJ86543.7.7.Q98 QT7.542.J863.AKJ 9.QJ93.954.T7543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "N"]
+4S Pass Pass 4NT
+Pass 5D Pass 6D
+AP
+[Play "S"]
+S9 S2 SK S7
+C7 C2 C8 CA
+D5 DA D7 D3
+D4 DK S3 D6
+D9 DT S4 DJ
+H3 HT H7 H5
+H9 HA S5 H2
+HJ HK S6 H4
+-  H6 -  -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AT5.JT4.AJ96.T97 KJ742.865.82.K53 Q8.AQ93.KQT.J864 963.K72.7543.AQ2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 1S X
+Pass Pass 2NT Pass
+3NT AP
+[Play "N"]
+S2 S8 S9 ST
+H6 H3 HK HJ
+-  -  S6 -
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "18"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AT5.JT4.AJ96.T97 KJ742.865.82.K53 Q8.AQ93.KQT.J864 963.K72.7543.AQ2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1D Pass 2C Pass
+2NT Pass 3NT AP
+[Play "S"]
+S6 S5 SJ SQ
+D4 D6 D2 DK
+D5 DA D8 DQ
+HK HJ H8 H3
+CA C7 C5 C6
+CQ C9 CK CJ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:2.AKQJ65.J987.J5 KQ74.87.5.KQT964 J93.T4.AKQT42.83 AT865.932.63.A72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[Auction "S"]
+Pass 1H 2C 2D
+2S 3H 4S Pass
+Pass 5D AP
+[Play "S"]
+CA C5 C4 C8
+SA S2 S4 S9
+C2 CJ CK C3
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "19"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:2.AKQJ65.J987.J5 KQ74.87.5.KQT964 J93.T4.AKQT42.83 AT865.932.63.A72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+Pass 4H 4S AP
+[Play "E"]
+DK D3 D9 D5
+DA D6 D8 S4
+S3 S5 S2 SK
+S9 SA HA S7
+C3 C2 C5 CK
+SJ S6 -  SQ
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "Schollaardt"]
+[North "Luitwieler"]
+[East "Drijver"]
+[South "Van Valen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9862.J983.KT74.9 K73.A6.A963.Q643 Q54.QT4.Q52.AT72 AJT.K752.J8.KJ85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1NT Pass 3NT
+AP
+[Play "E"]
+S4 ST S2 S7
+CA C5 C9 CQ
+S5 SJ S6 S3
+D5 DJ DK D3
+SQ SA S8 SK
+C7 CK H3 C6
+H4 H2 H9 HA
+C2 C8 D7 C4
+CT CJ D4 C3
+D2 D8 DT DA
+HT HK H8 H6
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Open"]
+
+[Event "2003 Transfer Dutch Teams"]
+[Site ""]
+[Date "2003.00.00"]
+[Board "20"]
+[West "Te Velde"]
+[North "de Wijs"]
+[East "Oltmans"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:9862.J983.KT74.9 K73.A6.A963.Q643 Q54.QT4.Q52.AT72 AJT.K752.J8.KJ85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1NT Pass 3NT
+AP
+[Play "E"]
+S5 ST S2 S3
+C2 C5 C9 CQ
+C7 CK S6 C3
+SQ SJ S8 SK
+CA C8 S9 C6
+*
+[Description "#"]
+[HomeTeam "Pegasus +150"]
+[VisitTeam "Lombard +183"]
+[Room "Closed"]
+

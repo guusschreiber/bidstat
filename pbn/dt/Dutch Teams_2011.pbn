@@ -1,0 +1,5986 @@
+% PBN created by BFC f1.lin P
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T95.K63.KT632.AT A6.QT842.Q984.62 KQJ3.5.A75.QJ954 8742.AJ97.J.K873"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "6"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass Pass X Pass
+2H 3C Pass 3D
+3H AP
+[Play "E"]
+SK S2 S5 S6
+H5 H7 HK H2
+C5 H9 H3 HT
+DA DJ D6 D4
+SJ S4 S9 SA
+C4 CK CA C2
+D7 HJ H6 H4
+S3 S7 ST H8
+D5 -  -  DQ
+*
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T95.K63.KT632.AT A6.QT842.Q984.62 KQJ3.5.A75.QJ954 8742.AJ97.J.K873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1C =1= Pass 1D =2=
+1H 1S 3H 3NT
+AP
+[Note "1:2+"]
+[Note "2:any0-6 or nat"]
+[Play "N"]
+H2 H5 HA H3
+H4 D5 HJ H6
+H8 C4 H9 HK
+SA S3 S2 S5
+HQ C5 H7 D2
+HT C9 S8 D3
+S6 SK S4 ST
+C2 CJ C3 CT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:862.5.Q742.KJ642 KQJT53.9732.5.AT 74.QJ84.K3.Q9853 A9.AKT6.AJT986.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2H Pass 3H
+Pass 3S Pass 3NT
+Pass 4C Pass 4D
+Pass 4NT Pass 5C
+Pass 5D Pass 5H
+Pass 6H Pass 6S
+AP
+[Play "E"]
+H4 HA H5 H3
+D3 DA D4 D5
+DK D6 D7 S3
+S4 S9 S6 S5
+S7 SA S2 ST
+C8 D8 D2 SJ
+C5 D9 S8 SK
+HQ HK C4 H9
+-  DJ DQ SQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:862.5.Q742.KJ642 KQJT53.9732.5.AT 74.QJ84.K3.Q9853 A9.AKT6.AJT986.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "13"]
+[Auction "E"]
+Pass 1D =1= Pass 1S
+Pass 2H Pass 3S
+Pass 4C =2= X 4NT
+Pass 5D =3= Pass 5NT
+Pass 6C =4= Pass 6S
+AP
+[Note "1:(4)5+!D"]
+[Note "2:enige manier om Slem interesse te tonen"]
+[Note "3:3"]
+[Note "4:klinkt als in beide roden iets extra"]
+[Play "E"]
+C3 C7 CK CA
+S4 SA S2 S3
+D3 DA D2 D5
+DK D6 D4 ST
+S7 S9 S6 SK
+C5 H6 S8 SQ
+H4 HA H5 H2
+HQ D8 D7 CT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KT82.AT54.A953.A A74.3.KQJT872.T9 Q53.KQJ86.64.KJ3 J96.972..Q876542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "8"]
+[Auction "S"]
+3C X 5D Pass
+Pass X AP
+[Play "E"]
+HK H2 H4 H3
+HJ H7 HA D2
+D4 C2 D3 DQ
+D6 C4 D5 DK
+H6 C5 DA DJ
+SQ S6 S2 S4
+HQ H9 H5 D8
+S5 C6 D9 DT
+C3 C7 CA C9
+H8 S9 HT D7
+S3 SJ S8 SA
+CK C8 ST CT
+CJ CQ SK S7
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KT82.AT54.A953.A A74.3.KQJT872.T9 Q53.KQJ86.64.KJ3 J96.972..Q876542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "7"]
+[Auction "S"]
+3C X 5D X
+AP
+[Play "E"]
+HK H2 H4 H3
+HJ H7 HA D2
+D4 C2 D3 DK
+D6 C4 D5 DQ
+H8 C5 DA DJ
+C3 C6 CA CT
+SQ S6 S2 S7
+CK C7 H5 C9
+HQ H9 HT D7
+CJ C8 D9 DT
+H6 CQ S8 D8
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:8.QJ976.A93.AQ95 AQ652.K.Q86.K642 73.A542.K74.J873 KJT94.T83.JT52.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "9"]
+[Auction "W"]
+1H 1S 2S =1= 4S
+X Pass 5H AP
+[Note "1:Good !H raise"]
+[Play "N"]
+SA S3 SJ S8
+S6 S7 SK H6
+HK HA H3 HQ
+CK CJ CT C5
+C2 C3 H8 C9
+D6 D4 D2 DA
+S2 H2 HT HJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:8.QJ976.A93.AQ95 AQ652.K.Q86.K642 73.A542.K74.J873 KJT94.T83.JT52.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1H 1S 2NT 4S
+AP
+[Play "E"]
+S3 SJ S8 S5
+S7 SK H7 SQ
+C3 CT CA C2
+HA H3 HJ HK
+H4 H8 H9 S6
+C7 S4 C5 C4
+H5 HT HQ SA
+C8 D2 C9 CK
+CJ S9 CQ C6
+DK DJ D3 DQ
+D4 D5 DA D6
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:52.AJ863.T952.97 K4.K954.J63.J653 T3.QT72.K874.Q84 AQJ9876..AQ.AKT2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 2C =1= Pass
+2D =2= Pass 2S =3= Pass
+2NT Pass 3C Pass
+4C Pass 4D Pass
+4H Pass 4S Pass
+5C Pass 6C AP
+[Note "1:Weak !D or strong"]
+[Note "2:Relay"]
+[Note "3:Strong w/ !S"]
+[Play "W"]
+HA H4 H7 C2
+C7 C3 C4 CA
+C9 C5 C8 CK
+S5 SK S3 S6
+S2 S4 ST SA
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:52.AJ863.T952.97 K4.K954.J63.J653 T3.QT72.K874.Q84 AQJ9876..AQ.AKT2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 2C =1= Pass
+2D Pass 2S =2= Pass
+2NT Pass 3C =3= Pass
+3D Pass 3H =4= X
+4C Pass 4D Pass
+4H X XX Pass
+4S Pass 6C AP
+[Note "1:strong"]
+[Note "2:4+!S"]
+[Note "3:longer !S"]
+[Note "4:5!S-4!C"]
+[Play "W"]
+HA H4 H2 C2
+C7 C3 C4 CA
+C9 C5 C8 CK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ.Q2.KJT95.Q763 AT7.AK9.Q642.AT5 K9.J8643.A7.KJ98 865432.T75.83.42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 2H AP
+[Play "S"]
+D8 D5 D6 DA
+H7 HQ HK H4
+S2 SJ S7 SK
+HT H2 H9 H3
+D3 DK D2 D7
+C2 C3 C5 CK
+H5 D9 HA H6
+S3 SQ SA S9
+S4 DT ST H8
+C4 C6 -  CJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QJ.Q2.KJT95.Q763 AT7.AK9.Q642.AT5 K9.J8643.A7.KJ98 865432.T75.83.42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+1H Pass 1NT Pass
+2C Pass 2S Pass
+3C AP
+[Play "S"]
+D8 DJ D2 D7
+C2 C3 C5 CJ
+H5 HQ HA H3
+D3 D5 D4 DA
+S2 SQ SA S9
+S8 D9 D6 C8
+C4 C6 CA CK
+H7 H2 HK H4
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT96.6.K94.KT95 87543.JT7.JT3.86 QJ.Q42.Q865.A432 2.AK9853.A72.QJ7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1H 1S Pass 1NT
+2H X Pass 2S
+Pass Pass 3H AP
+[Play "W"]
+SA S3 SJ S2
+H6 HJ HQ HA
+S6 HT H2 H3
+CK C6 C2 CQ
+D4 DT DQ DA
+DK D3 D5 D7
+SK S4 SQ H8
+D9 DJ D6 D2
+C5 C8 CA C7
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT96.6.K94.KT95 87543.JT7.JT3.86 QJ.Q42.Q865.A432 2.AK9853.A72.QJ7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+1H 1S Pass 1NT
+2H X Pass 3H
+Pass 4C Pass 4S
+AP
+[Play "N"]
+HJ H2 H3 H6
+HT H4 HK S6
+S3 SQ S2 S9
+D3 D5 D2 DK
+DT D6 D7 D4
+DJ DQ DA D9
+H7 HQ HA SA
+S4 SJ H5 SK
+S5 C2 H8 ST
+C6 CA C7 C5
+S7 D8 H9 C9
+S8 C3 CJ CT
+C8 C4 CQ CK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:.AJ5.A75.AJ76532 T97.K642.KJ432.8 AKQJ32.Q7.QT98.9 8654.T983.6.KQT4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+2C =1= Pass 4S AP
+[Note "1:11-15 6+!C"]
+[Play "S"]
+D6 D5 DK D8
+HT H5 H2 HQ
+S4 C2 S9 SA
+S5 C3 S7 SK
+S6 C5 ST SQ
+S8 C6 D4 SJ
+-  -  -  D9
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:.AJ5.A75.AJ76532 T97.K642.KJ432.8 AKQJ32.Q7.QT98.9 8654.T983.6.KQT4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "W"]
+1C =1= 1D 2H =2= Pass
+3C Pass 3NT AP
+[Note "1:2+!C"]
+[Note "2:6!S weak or strong"]
+[Play "S"]
+D6 D5 DK D8
+H3 H5 H2 HQ
+S4 C2 S7 SA
+S5 C3 S9 SK
+S6 C5 ST SQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q4.AK3.AT6.AQJ63 T2.JT82.953.T872 KJ98765.Q6.QJ4.4 A3.9754.K872.K95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "N"]
+Pass 3S Pass 6S
+AP
+[Play "S"]
+H5 H3 HT HQ
+C5 CA C2 C4
+C9 C3 C7 S5
+S3 SQ S2 S6
+CK C6 C8 S8
+SA S4 ST SK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q4.AK3.AT6.AQJ63 T2.JT82.953.T872 KJ98765.Q6.QJ4.4 A3.9754.K872.K95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass 3S Pass 4C
+Pass 4S AP
+[Play "S"]
+D8 DT D9 D4
+SA SQ S2 S5
+D7 D6 D3 DJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A9.K853.Q7543.K4 QJT.4.AKJ.T98763 K643.QJT76.T9.A5 8752.A92.862.QJ2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1NT =1= Pass
+2D ! Pass 3C =2= Pass
+3D =3= Pass 3H Pass
+4H AP
+[Note "1:12-15"]
+[Note "2:Reasonable hand 4!H"]
+[Note "3:Retransfer"]
+[Play "N"]
+DK D9 D8 D4
+SJ S3 S2 SA
+H4 HQ HA H3
+ST SK S8 S9
+SQ S4 S5 H8
+C3 CA C2 C4
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A9.K853.Q7543.K4 QJT.4.AKJ.T98763 K643.QJT76.T9.A5 8752.A92.862.QJ2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 2H 3C
+4H AP
+[Play "S"]
+CQ CK CT C5
+D8 D3 DK D9
+S7 SA SJ S3
+HA H3 H4 HQ
+D6 D4 DJ DT
+C2 C4 C9 CA
+H2 H5 C3 HJ
+H9 HK C6 H6
+D2 DQ DA HT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJT74.Q95.Q76.T8 9.KT3.983.AKJ964 Q86532.6.AK2.Q75 K.AJ8742.JT54.32"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+2D Pass 2H 2S
+Pass 4S AP
+[Play "S"]
+HA H5 H3 H6
+H2 H9 HT S2
+SK SA S9 S6
+-  SJ -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJT74.Q95.Q76.T8 9.KT3.983.AKJ964 Q86532.6.AK2.Q75 K.AJ8742.JT54.32"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+2H =1= Pass 4H 4S
+AP
+[Note "1:weak 2"]
+[Play "S"]
+HA H5 H3 H6
+DJ D6 D9 DA
+-  -  -  S3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6.A953.QT98.AK96 AK2.Q82.J642.J43 8754.T76.K753.T7 QJT93.KJ4.A.Q852"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+1D Pass 3D =1= X
+Pass 3H AP
+[Note "1:<invite"]
+[Play "E"]
+CT C2 CK C4
+S4 S3 S6 SA
+H6 HK HA H2
+C7 C5 CA C3
+H7 C8 C9 CJ
+S5 S9 H5 S2
+HT CQ C6 SK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6.A953.QT98.AK96 AK2.Q82.J642.J43 8754.T76.K753.T7 QJT93.KJ4.A.Q852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1D Pass 2D =1= 2S
+3D 4S AP
+[Note "1:~6-9"]
+[Play "W"]
+CA C3 CT C5
+DT D2 D3 DA
+S6 SA S4 S3
+D8 SK S5 S9
+H3 S2 S7 SQ
+HA H2 H7 HK
+D9 D4 D5 ST
+CK C4 C7 C2
+C9 CJ S8 C8
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A97.Q762.AT8.K42 QJ.JT43.K73.QT63 8542.A8.J654.J85 KT63.K95.Q92.A97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+Pass Pass 1C X
+1H X Pass 1NT
+AP
+[Play "N"]
+C6 C5 CA C4
+CQ C8 C9 C2
+CT CJ C7 CK
+SJ S2 S3 S7
+C3 D4 H9 H2
+SQ S4 S6 S9
+H3 H8 HK H7
+D7 S5 ST SA
+H4 HA H5 H6
+DK D5 D2 DT
+HT S8 SK HQ
+D3 D6 D9 DA
+HJ DJ DQ D8
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A97.Q762.AT8.K42 QJ.JT43.K73.QT63 8542.A8.J654.J85 KT63.K95.Q92.A97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1C =1= X
+1H X XX =2= Pass
+Pass 1S Pass Pass
+X Pass 1NT AP
+[Note "1:2+!C"]
+[Note "2:3!h"]
+[Play "W"]
+D8 D3 DJ DQ
+SA SJ S2 S3
+DA D7 D4 D2
+DT DK D5 D9
+H2 H3 HA H5
+H6 C3 D6 C7
+S7 SQ S4 S6
+H7 H4 H8 HK
+S9 HT S5 SK
+C2 HJ S8 ST
+HQ C6 C5 H9
+C4 -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T96.AQ73.84.AJ83 K87532.J954.9.Q5 AQJ.T6.QJT2.9742 4.K82.AK7653.KT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+Pass 1D X 2S =1=
+AP
+[Note "1:Weak"]
+[Play "E"]
+HT H2 HQ H5
+DT DA D4 D9
+SA S4 S6 SK
+DQ D3 D8 S2
+SJ D5 S9 S3
+H6 H8 HA HJ
+SQ HK H7 H4
+C9 CK CA C5
+-  -  H3 H9
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T96.AQ73.84.AJ83 K87532.J954.9.Q5 AQJ.T6.QJT2.9742 4.K82.AK7653.KT6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1D X 1S
+2NT AP
+[Play "S"]
+D7 D8 D9 DT
+C6 C8 CQ C4
+H8 HQ H4 H6
+S4 S6 S2 SQ
+CT CJ C5 C7
+D3 S9 S5 SJ
+D6 ST S3 SA
+CK CA S7 C9
+D5 C3 S8 C2
+H2 HA H5 HT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 2"]
+[VisitTeam "Bc \\'T Onstein 1 +4"]
+[Room "Closed"]
+
+% PBN created by BFC f2.lin P
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K.A52.Q543.KT942 Q8752.K4.K8.AQJ8 4.QT83.JT62.7653 AJT963.J976.A97."]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "12"]
+[Auction "S"]
+1S X 2NT Pass
+4S Pass 4NT Pass
+5H Pass 5S AP
+[Play "W"]
+D4 DK D2 D7
+SK S2 S4 SA
+-  -  -  H6
+*
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K.A52.Q543.KT942 Q8752.K4.K8.AQJ8 4.QT83.JT62.7653 AJT963.J976.A97."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1S X 2NT Pass
+4S AP
+[Play "W"]
+D4 DK D2 D7
+SK SQ S4 SJ
+C2 CJ C3 H6
+D3 D8 D6 DA
+HA H4 H8 H7
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K32.972.Q853.QJT J54.QT843.KJT.42 AT876.AJ5.972.K3 Q9.K6.A64.A98765"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1S 2C
+2S AP
+[Play "S"]
+HK H2 H3 H5
+H6 H7 HQ HA
+S9 SK S4 S6
+SQ S2 S5 SA
+C5 S3 SJ ST
+C6 H9 HT HJ
+CA CT C2 CK
+D6 DQ DK D2
+D4 D3 DJ D7
+DA D5 DT D9
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K32.972.Q853.QJT J54.QT843.KJT.42 AT876.AJ5.972.K3 Q9.K6.A64.A98765"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1S 2C
+2S AP
+[Play "S"]
+CA CT C2 C3
+C7 CJ C4 CK
+S9 S2 S5 SA
+SQ SK S4 S7
+C5 CQ H4 D2
+D4 D3 DT D7
+C8 S3 SJ S6
+DA D5 DJ D9
+C9 D8 H3 S8
+H6 H9 HT H5
+D6 DQ DK ST
+HK H2 H8 HA
+C6 H7 HQ HJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T62.75.AQ52.KQ73 AK85.KT63.K84.86 Q93.AQ4.973.T942 J74.J982.JT6.AJ5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+1C Pass 1H Pass
+2H Pass Pass X
+Pass 2S AP
+[Play "S"]
+S7 S2 S5 S9
+C5 CK C6 C2
+H2 H5 H3 HQ
+H8 H7 H6 HA
+H9 S6 HK H4
+S4 ST SK S3
+CA C3 C8 C4
+CJ CQ S8 C9
+SJ D2 SA SQ
+HJ D5 HT D3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T62.75.AQ52.KQ73 AK85.KT63.K84.86 Q93.AQ4.973.T942 J74.J982.JT6.AJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1H =1= Pass
+2H AP
+[Note "1:can have longer !D"]
+[Play "W"]
+CK C6 C2 C5
+D5 D4 D7 DT
+H5 H3 HQ HJ
+DA D8 D3 DJ
+D2 DK D9 D6
+H7 HK HA H2
+C3 C8 CT CA
+C7 H6 H4 H9
+-  -  -  CJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A82.T2.T8654.JT2 K95.Q98.J92.7654 JT64.AKJ64.KQ3.K Q73.753.A7.AQ983"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "9"]
+[Auction "E"]
+1C =1= Pass 1D =2= Pass
+1S =3= AP
+[Note "1:16+"]
+[Note "2:0-8"]
+[Note "3:4+!S unbal canape 16-18 HCP"]
+[Play "S"]
+DA D4 D9 D3
+D7 D5 D2 DK
+S7 D6 DJ DQ
+H5 H2 HQ HA
+S3 SA S5 S4
+SQ DT H9 CK
+H3 HT H8 H4
+C3 D8 C4 H6
+C8 S2 SK S6
+-  -  C6 -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A82.T2.T8654.JT2 K95.Q98.J92.7654 JT64.AKJ64.KQ3.K Q73.753.A7.AQ983"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+1H Pass 1NT Pass
+2NT AP
+[Play "N"]
+C6 CK CA C2
+C5 S4 C9 CT
+D2 DK D7 D4
+D9 DQ DA D5
+C4 S6 CQ CJ
+C7 ST C8 S8
+S9 D3 C3 S2
+S5 SJ S7 SA
+H8 H4 H5 HT
+H9 -  -  H2
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT842.Q764.T52.8 93.K832.AQ943.A9 AJ75.A95.K.KQJ76 K6.JT.J876.T5432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D X
+2NT 3S Pass 4S
+AP
+[Play "N"]
+DA DK D8 D2
+H2 H5 HT HQ
+CA C6 C2 C8
+H3 HA HJ H6
+C9 CK C3 H4
+S3 CQ C4 H7
+HK H9 D6 S4
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT842.Q764.T52.8 93.K832.AQ943.A9 AJ75.A95.K.KQJ76 K6.JT.J876.T5432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D =1= X
+3D =2= Pass Pass X
+Pass 4S AP
+[Note "1:(4)5+, 3hand favorable..."]
+[Note "2:~6-9"]
+[Play "N"]
+DA DK D6 D5
+DQ S5 D8 D2
+CA CK C5 C8
+C9 C6 C2 S2
+S3 S7 SK ST
+S9 C7 C4 H4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K62.J4.KQT974.84 AJ987543.62..AJ9 T.KT9875.AJ2.KT6 Q.AQ3.8653.Q7532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 4S AP
+[Play "E"]
+HT HQ H4 H2
+ST SQ S6 S5
+CK C2 C4 CJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K62.J4.KQT974.84 AJ987543.62..AJ9 T.KT9875.AJ2.KT6 Q.AQ3.8653.Q7532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "9"]
+[Auction "W"]
+2C ! 4S 5D X
+AP
+[Play "S"]
+D5 DK S9 D2
+HQ HJ H2 H5
+D6 D4 S8 DA
+HA H4 H6 HT
+SQ S2 S3 ST
+C7 C4 CA C6
+H3 S6 S7 DJ
+D3 D9 -  HK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AKQ9.86.A5.KQT65 86.KQJ.J8732.J73 T4.AT743.T964.42 J7532.952.KQ.A98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "7"]
+[Auction "N"]
+Pass Pass Pass 1C =1=
+Pass 1D =2= Pass 1H =3=
+Pass 1S =4= Pass 1NT
+Pass 2D Pass 2H
+Pass 2NT AP
+[Note "1:16+"]
+[Note "2:0-8"]
+[Note "3:19+"]
+[Note "4:0-5"]
+[Play "N"]
+D2 DT DQ DA
+C7 C2 CA CQ
+D3 D4 DK D5
+HQ H3 H5 H6
+HK HA H2 H8
+CJ C4 C8 CT
+HJ H4 H9 S9
+DJ D6 C9 C5
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AKQ9.86.A5.KQT65 86.KQJ.J8732.J73 T4.AT743.T964.42 J7532.952.KQ.A98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1C =1=
+Pass 1D =2= Pass 1S
+Pass 1NT Pass 3NT
+AP
+[Note "1:2+!C"]
+[Note "2:0-6 or nat"]
+[Play "S"]
+S2 S9 S8 ST
+C8 CT CJ C2
+H9 H6 HQ H4
+DQ DA D3 D4
+C9 CK C3 C4
+CA C5 C7 H3
+DK D5 D2 D6
+H2 -  -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K8754.T.Q7654.T9 QJ63.72.KJT2.K84 T9.8643.A3.AJ753 A2.AKQJ95.98.Q62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 3H Pass 3NT
+AP
+[Play "E"]
+C3 C2 C9 CK
+CA C6 CT C4
+C5 CQ D4 C8
+H3 HA HT H2
+H4 HK S8 H7
+H6 HQ D7 S6
+H8 HJ S4 D2
+D3 H9 S5 DJ
+S9 H5 D6 S3
+ST SA S7 SJ
+DA D8 D5 DK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K8754.T.Q7654.T9 QJ63.72.KJT2.K84 T9.8643.A3.AJ753 A2.AKQJ95.98.Q62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1H 1S 1NT
+Pass 3NT AP
+[Play "E"]
+C5 C2 C9 CK
+H3 HA HT H2
+H4 HK S4 H7
+H6 HQ S5 C4
+H8 HJ S7 C8
+C3 H5 D5 S3
+C7 H9 D4 D2
+S9 SA S8 S6
+ST S2 SK SJ
+DA D8 D6 DK
+CA C6 CT SQ
+D3 D9 DQ DT
+CJ CQ D7 DJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q86.QJ964.Q75.JT T9.A5.AK643.Q852 J75432.K82.T2.K7 AK.T73.J98.A9643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C =1= Pass 1D 1S
+Pass 2S X Pass
+2NT Pass 3NT AP
+[Note "1:2+!C"]
+[Play "W"]
+S6 S9 S2 SK
+D5 DA D2 D8
+D7 DK DT D9
+CT C2 C7 CA
+CJ CQ CK C3
+SQ ST S3 SA
+H4 C8 -  C4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q86.QJ964.Q75.JT T9.A5.AK643.Q852 J75432.K82.T2.K7 AK.T73.J98.A9643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Auction "S"]
+1C =1= Pass 1D =2= 1S
+Pass 2S X Pass
+3C Pass 3S Pass
+3NT Pass 4C Pass
+4S =3= Pass 5C AP
+[Note "1:2+!C"]
+[Note "2:0-6 or nat"]
+[Note "3:last train"]
+[Play "W"]
+HQ H5 HK H7
+S8 S9 S5 SA
+H4 HA H2 H3
+CT C2 C7 CA
+HJ C5 H8 HT
+S6 ST S2 SK
+CJ CQ CK C4
+DQ DA D2 DJ
+H6 C8 S3 C9
+D5 D3 DT D9
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT93.T62.2.K754 65.95.AQJ85.AQ82 8.AK73.KT943.J96 QJ742.QJ84.76.T3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "6"]
+[Auction "W"]
+1S 2D AP
+[Play "E"]
+S8 SQ SK S6
+DK D6 D2 DQ
+HK H4 HT H5
+HA H8 H6 H9
+DT D7 H2 DJ
+D9 S2 S3 D8
+D4 S4 C4 D5
+D3 HJ S9 DA
+CJ C3 C5 C2
+C9 CT CK CA
+C6 -  -  CQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT93.T62.2.K754 65.95.AQJ85.AQ82 8.AK73.KT943.J96 QJ742.QJ84.76.T3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "7"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2C Pass 2D
+2S Pass 3H Pass
+4D =1= Pass 4H X
+AP
+[Note "1:choice of games"]
+[Play "S"]
+D7 D2 DA D4
+H4 H2 H5 HA
+SQ SA S5 S8
+S7 SK S6 C6
+S2 ST H9 C9
+D6 C4 DQ DK
+C3 H6 D5 D9
+S4 S3 C2 H3
+HJ C5 D8 D3
+HQ HT C8 HK
+CT C7 CQ CJ
+H8 CK CA H7
+SJ S9 DJ DT
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q95432.Q.T6.AQ65 J76.T6542.KJ.983 K.AKJ93.9843.KT4 AT8.87.AQ752.J72"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2D Pass 2S
+AP
+[Play "N"]
+DK D3 D7 D6
+DJ D4 DA DT
+S6 D8 D5 S4
+H5 H3 H7 HQ
+S7 SK SA S3
+SJ D9 DQ S9
+H4 H9 H8 S2
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q95432.Q.T6.AQ65 J76.T6542.KJ.983 K.AKJ93.9843.KT4 AT8.87.AQ752.J72"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2D Pass 2S
+AP
+[Play "N"]
+C3 CT CJ CA
+H6 HA H7 HQ
+H5 HK H8 D6
+H2 HJ S8 S9
+S6 SK SA S2
+C8 CK C2 C5
+H4 H3 C7 S3
+S7 D3 ST SQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T2.AKQ85.Q543.76 Q63.JT72.AK9.AQ3 KJ874.6.8762.KJ9 A95.943.JT.T8542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1H 1NT
+AP
+[Play "E"]
+S4 S5 ST SQ
+H6 H9 HQ H2
+SJ SA S2 S3
+D2 DT D3 D9
+D6 H3 HK H7
+CK C2 C6 CQ
+SK S9 H5 S6
+S7 C4 H8 HT
+S8 C5 C7 HJ
+D7 DJ D4 DA
+D8 H4 D5 DK
+C9 C8 DQ CA
+CJ CT HA C3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T2.AKQ85.Q543.76 Q63.JT72.AK9.AQ3 KJ874.6.8762.KJ9 A95.943.JT.T8542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1H X
+1S 2C Pass 2NT
+AP
+[Play "E"]
+H6 H3 HQ H7
+S4 H4 HK H2
+SJ S5 S2 S3
+S7 S9 ST SQ
+C9 C2 C6 CA
+CK C4 C7 CQ
+S8 SA H5 S6
+D8 H9 HA HT
+D6 C5 H8 HJ
+D2 DT D3 DA
+D7 DJ D4 DK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKT.A8.K43.K8743 72.KQT5.JT652.J9 94.J97632.A8.QT6 QJ8653.4.Q97.A52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+2H =1= 2NT Pass 3D =2=
+Pass 3H AP
+[Note "1:Weak !S/ GF 3-suiter/ Strong NT"]
+[Note "2:inv w/ 5+!H"]
+[Play "N"]
+S7 S4 SJ SA
+H5 H2 H4 HA
+HQ H3 C5 H8
+C9 CT CA C4
+CJ CQ C2 C7
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKT.A8.K43.K8743 72.KQT5.JT652.J9 94.J97632.A8.QT6 QJ8653.4.Q97.A52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+2S =1= 2NT Pass 3D
+Pass 3H Pass 4H
+AP
+[Note "1:zwakke 2"]
+[Play "N"]
+S7 S4 SJ SK
+H5 H2 H4 HA
+HQ H3 S6 H8
+S2 S9 S3 ST
+D6 C6 S5 SA
+C9 CQ CA C7
+D2 DA D9 D4
+CJ CT C2 CK
+D5 H6 -  C8
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT96.QT2.AJ6.A32 J82.J85.KQT7.875 A43.643.98.KQT96 Q75.AK97.5432.J4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1NT =1= AP
+[Note "1:(12)13-15"]
+[Play "N"]
+DQ D8 D2 D6
+D7 D9 D3 DJ
+C8 CK C4 C3
+C5 C6 CJ C2
+DT H3 D4 DA
+C7 C9 H7 CA
+S8 SA S5 S6
+H8 CQ H9 H2
+H5 CT S7 HT
+S2 S3 SQ SK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT96.QT2.AJ6.A32 J82.J85.KQT7.875 A43.643.98.KQT96 Q75.AK97.5432.J4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "W"]
+1C =1= Pass 1NT AP
+[Note "1:2+!C"]
+[Play "S"]
+HA H2 HJ H3
+H7 HT H5 H4
+C4 CA C5 C6
+CJ C2 C7 CK
+D2 C3 C8 CQ
+D3 D6 D7 CT
+D5 S6 DT C9
+S5 SK S2 S3
+S7 S9 S8 SA
+SQ ST SJ S4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 2 +18"]
+[VisitTeam "Bc \\'T Onstein 1 +28"]
+[Room "Closed"]
+
+% PBN created by BFC f3.lin P
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:52.876.AQ86.AK63 K7643.AKT2.J5.Q4 AQJT98.Q93.94.72 .J54.KT732.JT985"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "5"]
+[Auction "N"]
+1S Pass 2C =1= Pass
+2H AP
+[Note "1:Invitational"]
+[Play "E"]
+C7 CJ CK C4
+H3 H4 H6 HA
+C2 C5 CA CQ
+SA H5 S2 SK
+H9 C8 C3 S3
+HQ HJ H7 HK
+D4 D2 H8 HT
+D9 DT DQ D5
+S8 D3 DA DJ
+*
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:52.876.AQ86.AK63 K7643.AKT2.J5.Q4 AQJT98.Q93.94.72 .J54.KT732.JT985"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 1NT X
+Pass Pass 2C Pass
+Pass 2S AP
+[Play "S"]
+CJ CA C4 C7
+C5 S2 S3 SQ
+C8 CK CQ C2
+D3 S5 S6 SJ
+D2 DQ D5 D4
+C9 C3 DJ S8
+D7 DA S4 D9
+H4 H6 HK H3
+H5 H7 H2 HQ
+HJ H8 HA H9
+DT D6 HT S9
+DK D8 SK ST
+CT C6 S7 SA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ963.AT62.642.6 85.875.JT853.J87 J.KQ943.AK97.T94 KT742.J.Q.AKQ532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1H 2C 4C Pass
+4D Pass 4H AP
+[Play "S"]
+CA C6 C8 C4
+S2 S3 S8 SJ
+C3 H2 C7 C9
+S4 SA S5 D9
+S7 S6 CJ H3
+HJ H6 H5 HK
+DQ D2 D5 DA
+C5 -  -  DK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ963.AT62.642.6 85.875.JT853.J87 J.KQ943.AK97.T94 KT742.J.Q.AKQ532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[Auction "E"]
+1H 2H =1= 4C Pass
+4NT X 5H Pass
+6H AP
+[Note "1:5!S-5!C"]
+[Play "S"]
+CK C6 C8 C9
+HJ H2 H7 HK
+C5 HA C7 C4
+C2 H6 H5 H9
+CQ HT CJ CT
+DQ D6 D5 DA
+S4 S3 H8 HQ
+S2 S6 D3 H4
+CA D2 S5 H3
+SK SA S8 SJ
+S7 SQ D8 D7
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KJ2.85.8652.KQT3 AT6.AKJ97.Q7.652 Q87.QT2.AJT9.J87 9543.643.K43.A94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H AP
+[Play "E"]
+C7 C4 CQ C5
+H2 H3 H5 HA
+S8 S3 SJ ST
+DA D3 D6 D7
+C8 CA C3 C6
+HQ H4 H8 HJ
+CJ C9 CK C2
+HT -  CT S6
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KJ2.85.8652.KQT3 AT6.AKJ97.Q7.652 Q87.QT2.AJT9.J87 9543.643.K43.A94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1H Pass
+2H AP
+[Play "E"]
+S7 S3 SK SA
+H2 H3 H5 HA
+DA D3 D2 DQ
+DJ DK D5 D7
+HQ H4 H8 HJ
+C7 C4 CQ C2
+D9 D4 D6 C6
+C8 CA C3 C5
+HT H6 D8 HK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.AQT32.432.AT84 AQ8.J86.Q986.975 KT9743.75.J75.KQ 652.K94.AKT.J632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2S AP
+[Play "S"]
+DA D2 D6 D5
+C3 C8 C9 CK
+C2 C4 C5 CQ
+H4 HA H8 H5
+C6 CA C7 D7
+CJ CT H6 S3
+DK D3 D8 DJ
+HK H2 HJ H7
+DT D4 DQ S4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.AQT32.432.AT84 AQ8.J86.Q986.975 KT9743.75.J75.KQ 652.K94.AKT.J632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2S AP
+[Play "S"]
+DK D2 D6 D7
+DA D3 D8 D5
+DT D4 DQ DJ
+C2 C4 C7 CK
+C3 C8 C5 CQ
+H4 HA H8 H5
+C6 CA C9 H7
+S2 SJ SA S3
+CJ CT D9 ST
+S5 H2 S8 SK
+S6 -  -  S4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:64.KJ93.76.K8732 KQ95.654.Q9.AQT9 3.T72.AKJ532.654 AJT872.AQ8.T84.J"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1NT =1= Pass 4H Pass
+4S AP
+[Note "1:(12)13-15"]
+[Play "E"]
+DK D4 D6 D9
+DA D8 D7 DQ
+H7 HQ HK H5
+C6 CJ C7 CA
+S3 S2 S4 SK
+C5 SA S6 S5
+D2 DT H3 SQ
+C4 H8 CK CT
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:64.KJ93.76.K8732 KQ95.654.Q9.AQT9 3.T72.AKJ532.654 AJT872.AQ8.T84.J"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1C =1= 3D 3S 4D
+4S AP
+[Note "1:2+!C"]
+[Play "W"]
+D7 D9 DK D8
+HK H5 HT HQ
+H9 H4 H7 HA
+S4 SK S3 S2
+S6 S5 D3 SA
+C2 CQ C4 CJ
+C3 CA C5 H8
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J85.K87.T8432.A6 K3.T32.J6.QT8752 A976.A.975.KJ943 QT42.QJ9654.AKQ."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C 1H 1S 2H
+Pass 4H AP
+[Play "W"]
+CA C2 C4 H4
+S8 SK SA S4
+D4 D6 D5 DA
+S5 S3 S6 SQ
+SJ H2 S7 S2
+H7 H3 HA H6
+H8 HT S9 ST
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J85.K87.T8432.A6 K3.T32.J6.QT8752 A976.A.975.KJ943 QT42.QJ9654.AKQ."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C =1= 1H 1S 2H
+Pass 4H AP
+[Note "1:2+!C"]
+[Play "W"]
+D2 D6 D9 DQ
+S5 SK SA S2
+H7 H2 HA H4
+D3 DJ D7 DA
+S8 S3 S6 SQ
+SJ H3 S7 S4
+-  HT -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ842.J932.76.96 KT5.AQ54.AQ94.Q2 Q73.7.T832.AT743 96.KT86.KJ5.KJ85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C =1= Pass
+2D Pass 2NT Pass
+3S Pass 4H AP
+[Note "1:16+"]
+[Play "E"]
+D3 DK D6 D4
+H7 H6 H3 HA
+D2 H8 H2 HQ
+CA C5 C6 CQ
+S3 S6 SA S5
+-  -  S4 SK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ842.J932.76.96 KT5.AQ54.AQ94.Q2 Q73.7.T832.AT743 96.KT86.KJ5.KJ85"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1C =1= 1S X 2H =2=
+Pass 2S X Pass
+3H Pass 4H AP
+[Note "1:2+!C"]
+[Note "2:3!S with A,K or Q 6-9"]
+[Play "W"]
+D7 D4 D2 DJ
+H2 HQ H7 H6
+H3 HA C3 H8
+H9 H4 S7 HK
+C6 CQ CA C5
+SA S5 S3 S6
+HJ H5 D3 HT
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK76.8643.K.A985 Q8.Q95.53.QT7632 T.AKJ7.AQJ9862.K J95432.T2.T74.J4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 2C Pass
+2S Pass 3H Pass
+3S Pass 4C Pass
+4D Pass 4NT Pass
+5H Pass 6D AP
+[Play "S"]
+C4 C5 C6 CK
+D4 DK D3 D2
+H2 H3 H5 HA
+D7 -  -  DA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK76.8643.K.A985 Q8.Q95.53.QT7632 T.AKJ7.AQJ9862.K J95432.T2.T74.J4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "13"]
+[Auction "W"]
+1C =1= Pass 1D =2= Pass
+1H ! Pass 1S =3= Pass
+1NT =4= Pass 2C Pass
+3C =5= Pass 3D =6= Pass
+3H Pass 3S =7= Pass
+4H =8= Pass 4NT =9= Pass
+5H =10= Pass 5NT =11= Pass
+6D ! Pass 7D Pass
+7H Pass 7NT AP
+[Note "1:2+!C"]
+[Note "2:0-5 or nat"]
+[Note "3:relay"]
+[Note "4:12-14 bal"]
+[Note "5:4!S-4!H max"]
+[Note "6:Transfer"]
+[Note "7:cuebid (kort)"]
+[Note "8:doesnt like !S cue"]
+[Note "9:keycards !H"]
+[Note "10:2 w/o Q"]
+[Note "11:extra\\'s? (less good then 5!S)"]
+[Play "N"]
+SQ ST S2 SK
+C2 CK C4 C5
+D3 D2 D7 DK
+*
+[Note ";:extra\\'s? (less good then 5!S)"]
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK63.96.85.AQ952 J.A8432.AT94.K63 QT9854.7.KQJ32.J 72.KQJT5.76.T874"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Auction "N"]
+1H 2H ! 5H 5S
+AP
+[Play "N"]
+HA H7 HT H6
+DA D2 D6 D5
+D4 DK D7 D8
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK63.96.85.AQ952 J.A8432.AT94.K63 QT9854.7.KQJ32.J 72.KQJT5.76.T874"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+1H 2H =1= 4H 4S
+AP
+[Note "1:5!S-5!D"]
+[Play "N"]
+HA H7 H5 H9
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J97.J875.T.J9765 Q8632.AQT9.K962. AKT5.K.QJ873.AQT 4.6432.A54.K8432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "5"]
+[Auction "E"]
+1D Pass Pass 1S
+AP
+[Play "E"]
+D3 DA DT D2
+SK S4 S9 SQ
+DQ D4 C7 DK
+S5 D5 S7 S3
+HK H2 H5 HT
+DJ C2 C5 D6
+D7 H3 SJ D9
+CT C3 C6 S2
+ST H4 H7 HA
+SA C4 C9 S6
+D8 H6 CJ S8
+CQ C8 H8 HQ
+CA CK HJ H9
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J97.J875.T.J9765 Q8632.AQT9.K962. AKT5.K.QJ873.AQT 4.6432.A54.K8432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+1D =1= Pass Pass 1S
+Pass 1NT Pass 2H
+AP
+[Note "1:(4)5+!D"]
+[Play "E"]
+D3 DA DT D2
+ST S4 S7 S8
+DQ D4 S9 DK
+S5 H2 SJ S3
+CT C2 C5 H9
+SK H6 H7 S6
+HK H3 H8 HA
+SA H4 -  S2
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJT654.8632.9.K3 Q97.T75.T87632.Q K82.A.QJ.AT87542 3.KQJ94.AK54.J96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Auction "S"]
+1H 2S Pass 3S
+AP
+[Play "N"]
+CQ C2 C9 CK
+S7 SK S3 S4
+S9 S2 D5 SA
+-  -  -  C3
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJT654.8632.9.K3 Q97.T75.T87632.Q K82.A.QJ.AT87542 3.KQJ94.AK54.J96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1H 2S Pass 4S
+AP
+[Play "N"]
+H5 HA H9 H6
+CQ CA C9 C3
+S7 C2 C6 CK
+D2 DJ DK D9
+SQ C4 CJ ST
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J43.A52.AQ8.K965 KQ6.QT74.K9643.2 975.K863.7.QJT87 AT82.J9.JT52.A43"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1H Pass
+1NT Pass 2C =1= Pass
+2D Pass 2NT =2= Pass
+3C AP
+[Note "1:Puppet to 2!D"]
+[Note "2:Puppet to 3!C"]
+[Play "N"]
+SK S5 S2 S3
+SQ S7 S8 S4
+S6 S9 SA SJ
+D6 D7 DT DA
+D3 C7 D2 D8
+C2 C8 C3 CK
+D4 CQ D5 DQ
+H4 H3 H9 HA
+H7 HK HJ H2
+HT CT CA C5
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J43.A52.AQ8.K965 KQ6.QT74.K9643.2 975.K863.7.QJT87 AT82.J9.JT52.A43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+1C =1= 1D X =2= 1S
+X =3= 2S 3C 3S
+AP
+[Note "1:2+!C"]
+[Note "2:4+!H"]
+[Note "3:3!H"]
+[Play "W"]
+C6 C2 CT CA
+D8 DK D7 D2
+HA H4 H3 HJ
+S3 SK S5 S2
+H2 H7 HK H9
+S4 S6 S7 S8
+DQ D3 H6 DT
+H5 HT H8 C3
+SJ SQ S9 ST
+C9 HQ C7 C4
+DA D4 C8 D5
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:875.AKJ.T9.J9876 AQT6.9764.J7.432 J94.QT832.Q52.T5 K32.5.AK8643.AKQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1C =1= Pass
+1D =2= Pass 1H =3= Pass
+2D Pass 3D Pass
+3S Pass 4D Pass
+4S Pass 5D AP
+[Note "1:16+"]
+[Note "2:0-8"]
+[Note "3:19+"]
+[Play "E"]
+CT CQ C8 C3
+D2 DA D9 D7
+D5 DK DT DJ
+S4 S2 S8 SA
+S9 SK S5 S6
+SJ S3 S7 SQ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:875.AKJ.T9.J9876 AQT6.9764.J7.432 J94.QT832.Q52.T5 K32.5.AK8643.AKQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 3D AP
+[Play "W"]
+HA H4 H3 H5
+HK H6 H8 D3
+DT D7 D2 DA
+D9 DJ D5 DK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:984.2.AKT975.J65 A532.A94.J.AKQ43 7.JT8753.Q3.T982 KQJT6.KQ6.8642.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+2D =1= Pass Pass X
+Pass 4S Pass 4NT
+Pass 5C Pass 5D
+X 5H Pass 6S
+AP
+[Note "1:Weak M or strong"]
+[Play "W"]
+DK DJ DQ D4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:984.2.AKT975.J65 A532.A94.J.AKQ43 7.JT8753.Q3.T982 KQJT6.KQ6.8642.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+2H =1= 2S Pass 4NT
+Pass 5C Pass 6S
+AP
+[Note "1:zwakke 2"]
+[Play "W"]
+DA DJ D3 D2
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +48"]
+[VisitTeam "Bc \\'T Onstein 2 +56"]
+[Room "Closed"]
+
+% PBN created by BFC f4.lin P
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KJ4.962.AJT83.J5 A752.875.K92.973 Q9863.4.764.KQ42 T.AKQJT3.Q5.AT86"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1C =1= 2D =2= Pass 3D
+3H Pass 4H AP
+[Note "1:16+"]
+[Note "2:Alerted by Bertens as weak"]
+[Play "W"]
+DA D2 D4 D5
+DJ D9 D6 DQ
+H2 H5 H4 HA
+H6 H7 -  HQ
+*
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KJ4.962.AJT83.J5 A752.875.K92.973 Q9863.4.764.KQ42 T.AKQJT3.Q5.AT86"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+3H Pass 4H AP
+[Play "W"]
+H6 H7 H4 H3
+C5 C3 CK CA
+H2 H5 S3 HA
+H9 H8 S6 HK
+CJ C7 C4 C6
+SK SA S8 ST
+-  C9 CQ C8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K972.J4.K643.KJ5 8543.KQ973.2.843 A6.T8652.JT85.A6 QJT.A.AQ97.QT972"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1H X
+XX 1S Pass =1= Pass
+X =2= Pass 1NT =3= AP
+[Note "1:Alerted by Bertens"]
+[Note "2:Alerted by Bertens"]
+[Note "3:Alerted as weak by Bertens"]
+[Play "S"]
+SQ S2 S3 SA
+D7 DK D2 D5
+DQ D3 C4 DT
+CT CJ C8 C6
+HA HJ HQ H2
+C7 C5 C3 CA
+SJ SK S4 S6
+C2 CK H3 H5
+ST S9 S5 H6
+CQ -  -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K972.J4.K643.KJ5 8543.KQ973.2.843 A6.T8652.JT85.A6 QJT.A.AQ97.QT972"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Auction "W"]
+Pass Pass Pass 1C =1=
+Pass 1D ! 1H 2C
+AP
+[Note "1:2+!C"]
+[Play "W"]
+HJ H3 H6 HA
+C5 C8 CA C2
+SK S3 S6 SQ
+CK C3 C6 C7
+CJ C4 H5 CQ
+S2 S4 SA SJ
+DK D2 DT DQ
+S7 S5 H2 ST
+H4 H7 H8 CT
+D4 H9 HT C9
+D3 HQ D5 DA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A4.AKJT84.QJ73.J 652.95.K84.AT762 KT73.Q2.T96.KQ84 QJ98.763.A52.953"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 3H
+Pass 4H AP
+[Play "N"]
+D4 D6 DA D7
+DK D9 D5 DQ
+D8 DT D2 D3
+H5 HQ H3 H4
+H9 H2 H6 HA
+S2 C4 H7 HK
+C6 S3 C9 HJ
+C2 C8 C5 HT
+CT CQ S8 H8
+S6 CK C3 DJ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A4.AKJT84.QJ73.J 652.95.K84.AT762 KT73.Q2.T96.KQ84 QJ98.763.A52.953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2D
+Pass 2NT Pass 3C =1=
+Pass 3NT AP
+[Note "1:short !C"]
+[Play "S"]
+SQ SA S6 S3
+C5 CJ CA C4
+S8 S4 S5 SK
+C3 D3 C2 CK
+C9 D7 C6 CQ
+H3 H4 H5 HQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A9873.QT3.T862.K Q542.J74.AQ3.Q97 KJ.9652.K74.AJ65 T6.AK8.J95.T8432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+1C =1= Pass 1S Pass
+1NT Pass 2S AP
+[Note "1:2+!C"]
+[Play "N"]
+H4 H2 HK H3
+DA D4 D9 DT
+DQ DK D5 D2
+C9 C5 C4 CK
+S4 SJ S6 S3
+S2 SK ST S7
+C7 CA C2 HT
+D3 D7 DJ D8
+H7 H5 HA HQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A9873.QT3.T862.K Q542.J74.AQ3.Q97 KJ.9652.K74.AJ65 T6.AK8.J95.T8432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+1NT =1= Pass 2S =2= AP
+[Note "1:9-12"]
+[Note "2:NF"]
+[Play "N"]
+H4 H2 HK H3
+H7 H5 HA HT
+DA D4 D9 DT
+D3 DK D5 D2
+HJ H6 H8 HQ
+C7 C5 C2 CK
+S4 SK S6 S3
+C9 CA C3 D6
+CQ H9 ST D8
+-  -  C4 S7
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K3.854.A75.A7654 9.AKQ9.JT83.KQ83 QJT6.T7632.62.J2 A87542.J.KQ94.T9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT Pass
+2D Pass 2H Pass
+2NT Pass 3C Pass
+3H Pass 3NT AP
+[Play "E"]
+H7 HJ H8 H9
+C2 CT C5 CK
+D2 DK D5 D3
+D6 DQ DA D8
+S6 SA SK S9
+CJ D4 D7 DT
+H3 S2 H4 HA
+H2 S4 H5 HK
+ST D9 C4 DJ
+H6 S5 C6 HQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K3.854.A75.A7654 9.AKQ9.JT83.KQ83 QJT6.T7632.62.J2 A87542.J.KQ94.T9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1S Pass 2C =1= Pass
+2D Pass 2NT Pass
+3S Pass 3NT AP
+[Note "1:MF"]
+[Play "E"]
+H7 HJ H8 H9
+D2 DK DA D3
+S6 S2 SK S9
+ST SA S3 C3
+C2 C9 C6 CK
+H2 S4 H4 HA
+H3 S5 H5 HK
+H6 S7 C4 HQ
+D6 D4 D5 DT
+SJ D9 D7 DJ
+HT DQ C5 D8
+CJ CT C7 CQ
+SQ S8 CA C8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AT8763.AQ8.T9.QJ 52.KJT976.J3.932 KQ9.542.K62.T654 J4.3.AQ8754.AK87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+1S Pass 2S 3D
+3S AP
+[Play "N"]
+DJ D2 D4 D9
+D3 D6 DQ DT
+HJ DK DA SA
+S5 SK S4 S3
+C9 C4 CK CQ
+C3 C5 CA CJ
+HK H2 H3 HQ
+HT H4 SJ H8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AT8763.AQ8.T9.QJ 52.KJT976.J3.932 KQ9.542.K62.T654 J4.3.AQ8754.AK87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+1S Pass 2S 3D
+3S AP
+[Play "N"]
+DJ D2 DQ D9
+HK H2 H3 HQ
+D3 D6 DA DT
+C9 C4 CK CJ
+C3 DK D8 SA
+S2 SK S4 S3
+C2 C5 C7 CQ
+S5 S9 SJ S6
+H6 CT C8 H8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T962.T9732.53.Q9 43.K654.AQ42.JT7 AQJ85.QJ.KJ97.A2 K7.A8.T86.K86543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S Pass 3S =1=
+AP
+[Note "1:Weak"]
+[Play "S"]
+C6 CQ C7 C2
+SK ST S3 S5
+D6 D3 DA D7
+HA H2 H4 HJ
+H8 H3 HK HQ
+-  -  H6 SA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T962.T9732.53.Q9 43.K654.AQ42.JT7 AQJ85.QJ.KJ97.A2 K7.A8.T86.K86543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQJT852.AJ4.98.8 9.KT863.KQJ.AJ53 643.72.6532.QT72 K7.Q95.AT74.K964"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT =1= 2D =2= 3D !
+Pass 3H 3S X
+Pass 4H AP
+[Note "1:(12)13-15"]
+[Note "2:1-suited Major"]
+[Play "W"]
+C8 C3 CT CK
+H4 HK H2 H5
+HJ H3 H7 H9
+HA H6 S6 HQ
+D9 DJ D2 D4
+D8 DQ D3 D7
+S5 DK D5 DA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQJT852.AJ4.98.8 9.KT863.KQJ.AJ53 643.72.6532.QT72 K7.Q95.AT74.K964"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass 1D 1S X
+Pass 2C 3S X
+Pass 3NT AP
+[Play "W"]
+SA S9 S6 S7
+SQ H3 S3 SK
+D8 DJ D2 D4
+D9 DQ D3 D7
+S2 DK D5 DA
+HJ H6 D6 DT
+C8 C3 C2 CK
+H4 CA C7 C4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:86532.954.A8.K97 AJT9.AT3.K62.T82 KQ74.KQ.95.AQJ63 .J8762.QJT743.54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1NT =1= X
+3D 3S Pass 4C
+Pass 5C AP
+[Note "1:(12)13-15"]
+[Play "S"]
+DQ DA D6 D5
+C4 C7 C8 CA
+C5 C9 C2 CQ
+D3 CK CT C3
+D4 S2 SA S4
+D7 D8 DK D9
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:86532.954.A8.K97 AJT9.AT3.K62.T82 KQ74.KQ.95.AQJ63 .J8762.QJT743.54"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C =1= X
+1D 2S Pass 4S
+Pass Pass X AP
+[Note "1:2+!C"]
+[Play "N"]
+D2 D5 DJ DA
+SA S7 D3 S2
+DK D9 D4 D8
+HA HQ H2 H4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K8.J84.7542.Q973 A653.7.JT983.AT5 JT4.AQT53.K6.K62 Q972.K962.AQ.J84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1H Pass
+2H X Pass 2S
+AP
+[Play "W"]
+H4 H7 HA H2
+SK SA S4 S9
+D2 D3 D6 DQ
+D4 D8 DK DA
+S8 S3 ST SQ
+H8 S5 H3 H6
+-  D9 -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K8.J84.7542.Q973 A653.7.JT983.AT5 JT4.AQT53.K6.K62 Q972.K962.AQ.J84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1H =1= Pass
+2H X Pass 2S
+AP
+[Note "1:can be 4, can be lighter"]
+[Play "W"]
+C7 C5 CK C8
+H4 H7 HA H2
+H8 CT H5 HK
+S8 S3 S4 S2
+HJ S5 HT H6
+D2 D3 DK DA
+D4 D8 D6 DQ
+SK SA SJ S7
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q96.AJ542.A3.AT5 A85.T976.Q6.QJ87 32.Q3.JT952.9632 KJT74.K8.K874.K4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1S 2H
+2S AP
+[Play "W"]
+DA D6 DJ D4
+HA H6 H3 H8
+H2 H7 HQ HK
+C5 CQ C2 C4
+CA C7 C3 CK
+CT CJ C6 D7
+S6 S5 S2 SK
+S9 S8 S3 ST
+SQ SA D2 S4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q96.AJ542.A3.AT5 A85.T976.Q6.QJ87 32.Q3.JT952.9632 KJT74.K8.K874.K4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 2S =1= 2NT
+Pass 3C =2= Pass 3D
+AP
+[Note "1:Muiderberg"]
+[Note "2:verplicht 3!D"]
+[Play "N"]
+CQ C2 C4 C5
+C7 C3 CK CA
+CJ C6 H8 CT
+C8 C9 HK S6
+HT H3 D4 H2
+S8 S2 SJ S9
+SA S3 S7 SQ
+H7 HQ D7 H4
+S5 D2 SK H5
+D6 D5 D8 DA
+DQ D9 DK D3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T986.K.T876.9876 KQ52.Q872.Q43.J4 J7.A543.92.AT532 A43.JT96.AKJ5.KQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C =1= Pass 2D
+Pass 2NT Pass 3D
+Pass 4H AP
+[Note "1:16+"]
+[Play "W"]
+ST S2 S7 SA
+HK H2 H3 H6
+S8 SK SJ S4
+C8 H7 H5 HJ
+C6 H8 HA HT
+C7 HQ H4 H9
+C9 C4 C2 CK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T986.K.T876.9876 KQ52.Q872.Q43.J4 J7.A543.92.AT532 A43.JT96.AKJ5.KQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2NT Pass 3S =1=
+Pass 4H AP
+[Note "1:4!S-4!H "weak""]
+[Play "E"]
+C2 CQ C6 C4
+H3 HJ HK H2
+CA CK C7 CJ
+C5 S3 C8 H7
+H4 H6 C9 HQ
+D2 DA D8 D4
+D9 D5 D6 DQ
+S7 SA S9 S5
+H5 DK D7 D3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKQ9762.Q72.Q9.7 J.J94.KJ73.KQ984 854.AKT.T62.JT62 T3.8653.A854.A53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "S"]
+Pass 1S X 2S =1=
+X 4S Pass Pass
+X AP
+[Note "1:Alerted by Westra"]
+[Play "N"]
+CK C2 C5 C7
+H4 HT H3 H2
+SJ S4 S3 SA
+C4 S5 ST SK
+H9 HK H5 H7
+C8 C6 C3 S7
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKQ9762.Q72.Q9.7 J.J94.KJ73.KQ984 854.AKT.T62.JT62 T3.8653.A854.A53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass 4S AP
+[Play "N"]
+CK C2 C5 C7
+D3 D2 DA D9
+DK D6 D4 DQ
+C4 -  -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:5.JT7.A75.AKQ654 JT973.A.K63.J972 AK2.Q6432.QJ92.8 Q864.K985.T84.T3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+1C =1= 1S 2D ! 3S
+4H AP
+[Note "1:2+!C"]
+[Play "N"]
+SJ SA S6 S5
+HA H2 H5 HJ
+ST SK S4 C4
+S7 H3 H8 HT
+C2 C8 C3 CA
+C7 S2 CT CK
+C9 D2 H9 CQ
+DK D9 D4 D5
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:5.JT7.A75.AKQ654 JT973.A.K63.J972 AK2.Q6432.QJ92.8 Q864.K985.T84.T3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1C =1= Pass 1H Pass
+3C =2= Pass 4H AP
+[Note "1:2+!C"]
+[Note "2:6!C+3!H ~15-17"]
+[Play "S"]
+S4 S5 S9 SA
+H5 HJ HA H2
+D8 D5 D6 DQ
+H8 HT S3 H3
+C3 CA C2 C8
+CT C4 C7 H4
+S6 H7 S7 S2
+H9 CK C9 D2
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +69"]
+[VisitTeam "Bc \\'T Onstein 2 +90"]
+[Room "Closed"]
+
+% PBN created by BFC f5.lin P
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QJ.T7654.QT63.Q6 AT954.982.J94.87 K7.AJ3.AK85.T952 8632.KQ.72.AKJ43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "7"]
+[Auction "N"]
+Pass 1C =1= 2C AP
+[Note "1:strong"]
+[Play "W"]
+SQ SA S7 S3
+CQ C7 C2 CJ
+SJ S4 SK S2
+D3 D4 DK D2
+D6 D9 DA D7
+DQ DJ D5 C3
+C6 C8 C5 CA
+H4 H2 C9 CK
+H7 S5 H3 S8
+H5 S9 CT S6
+DT ST D8 C4
+H6 H8 HA HQ
+HT H9 HJ HK
+*
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QJ.T7654.QT63.Q6 AT954.982.J94.87 K7.AJ3.AK85.T952 8632.KQ.72.AKJ43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2H AP
+[Play "S"]
+CA C6 C7 C2
+CK CQ C8 C5
+CJ H4 H8 C9
+S8 SJ SA SK
+S2 SQ S9 S7
+HK H5 H2 HA
+HQ H6 H9 HJ
+C3 H7 ST CT
+D7 DQ D4 D5
+D2 D3 D9 DK
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A96.T7.AJ76.A965 872.KQJ3.KQ54.T2 KT3.952.T983.QJ7 QJ54.A864.2.K843"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1NT =1= AP
+[Note "1:12-15"]
+[Play "N"]
+HK H2 H4 H7
+H3 H5 HA HT
+HQ H9 H8 C5
+HJ C7 H6 C6
+S7 S3 SJ SA
+S2 ST SQ S6
+DQ D3 D2 D6
+S8 SK S4 S9
+C2 CJ C3 C9
+D4 D8 S5 DA
+DK D9 C4 D7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A96.T7.AJ76.A965 872.KQJ3.KQ54.T2 KT3.952.T983.QJ7 QJ54.A864.2.K843"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3DX"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1D Pass
+1NT X Pass 2H
+Pass Pass 3C Pass
+3D Pass Pass X
+AP
+[Play "N"]
+HK H2 H4 H7
+HQ H5 H8 HT
+H3 H9 HA D6
+DQ D3 D2 DJ
+S8 SK S4 S6
+C2 CQ C3 C5
+CT CJ CK CA
+D4 C7 C4 C9
+S7 S3 SJ SA
+HJ D8 C8 C6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT965.9.Q982.K54 842.62.J53.QJT82 AQ7.KJ75.T74.A76 K3.AQT843.AK6.93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1H Pass Pass 1NT
+2H 2S AP
+[Play "N"]
+H6 H5 HT H9
+C2 C6 C3 CK
+S4 S7 SK S9
+CT CA C9 C4
+S2 SA S3 S5
+D5 D4 DA D8
+D3 D7 DK D2
+DJ DT D6 DQ
+S8 SQ H3 S6
+CJ C7 H4 C5
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT965.9.Q982.K54 842.62.J53.QJT82 AQ7.KJ75.T74.A76 K3.AQT843.AK6.93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+1H Pass 1NT Pass
+3H AP
+[Play "W"]
+SJ S8 SA S3
+S6 S2 S7 SK
+H9 H2 H5 HA
+S5 H6 HJ H8
+D8 D3 D7 DA
+ST C2 HK HQ
+D2 D5 D4 DK
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ98.Q9865.3.962 T743.A72.AT87.84 K.JT43.K65.QJT73 J652.K.QJ942.AK5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[Auction "W"]
+Pass Pass Pass 1D
+1H X 3H 3S
+AP
+[Play "W"]
+H5 H2 HT HK
+S8 ST SK S2
+H8 H7 H3 S5
+S9 S3 D5 S6
+SA S4 C7 SJ
+SQ S7 C3 D2
+H6 HA H4 D4
+C6 C4 CT CK
+D3 D8 DK DQ
+HQ D7 HJ C5
+H9 DT D6 D9
+C2 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ98.Q9865.3.962 T743.A72.AT87.84 K.JT43.K65.QJT73 J652.K.QJ942.AK5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "6"]
+[Auction "W"]
+Pass Pass Pass 1D
+1H X 3H 3S
+Pass 4S AP
+[Play "W"]
+H5 H7 HT HK
+S8 ST SK S5
+H8 H2 H4 S2
+S9 S3 C7 S6
+SA S4 C3 SJ
+SQ S7 D6 C5
+H6 HA H3 D2
+C2 C4 CT CK
+D3 D7 DK DQ
+-  -  HJ -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K54.A9753.A.Q972 AJ8632.T.K983.J5 Q9.KQ84.J5.A8643 T7.J62.QT7642.KT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+2H ! Pass 2S Pass
+Pass X Pass 4H
+AP
+[Play "N"]
+D8 DJ DQ DA
+HT HK H6 H3
+S2 H4 H2 HA
+S3 HQ HJ H5
+C5 C3 CK C7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K54.A9753.A.Q972 AJ8632.T.K983.J5 Q9.KQ84.J5.A8643 T7.J62.QT7642.KT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+2S =1= AP
+[Note "1:Weak"]
+[Play "E"]
+HK H2 H3 HT
+H4 H6 HA S2
+S9 S7 S4 SA
+SQ ST S5 S3
+HQ HJ H5 S6
+DJ DQ DA D9
+CA CT C2 C5
+C6 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT97.KQT.T85.K65 A53.AJ65.42.QT84 KQ82.432.Q976.J7 64.987.AKJ3.A932"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 2C Pass 3C
+AP
+[Play "W"]
+SJ S3 S2 S6
+S7 SA S8 S4
+DT D2 D6 DA
+HK HA H4 H8
+D5 D4 D7 DK
+HQ H5 H2 H7
+D8 CT D9 D3
+C5 C4 C7 CA
+C6 C8 CJ C2
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT97.KQT.T85.K65 A53.AJ65.42.QT84 KQ82.432.Q976.J7 64.987.AKJ3.A932"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1C =1= Pass 1H
+Pass 1NT Pass 2C =2=
+Pass 2D =3= Pass 2NT
+AP
+[Note "1:2+"]
+[Note "2:Puppet naar 2!D"]
+[Note "3:Verplicht"]
+[Play "W"]
+SJ S3 S2 S4
+S7 S5 SQ S6
+ST SA S8 D3
+CK C8 C7 C2
+S9 D2 SK H7
+D5 D4 D7 DA
+HQ HA H2 H8
+C5 CQ CJ C3
+C6 C4 D9 CA
+HT HJ H3 H9
+-  H5 H4 -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT52.JT76.T85.43 A73.AQ95.A6.AQT7 Q964.K3.KJ2.K862 K8.842.Q9743.J95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 2C Pass
+3D Pass 3NT AP
+[Play "E"]
+S4 S8 ST SA
+D2 D3 D8 DA
+DK D4 D5 D6
+S9 SK S2 S3
+CK C9 C3 C7
+SQ H2 SJ S7
+S6 H4 S5 H5
+C6 CJ C4 CT
+DJ DQ DT H9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT52.JT76.T85.43 A73.AQ95.A6.AQT7 Q964.K3.KJ2.K862 K8.842.Q9743.J95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 2NT Pass
+3NT AP
+[Play "E"]
+S4 S8 ST SA
+D2 D3 D8 DA
+DJ DQ D5 D6
+DK D4 DT H5
+S9 SK S2 S3
+C2 D9 H7 H9
+C6 D7 C4 S7
+CK C9 C3 C7
+SQ H2 S5 HQ
+S6 H4 SJ CT
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK62.JT8642.T.A2 J543.9753.K75.54 7.AKQ.J98643.K96 QT98..AQ2.QJT873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1H Pass 1S =1= 3C
+Pass Pass 4H AP
+[Note "1:GF relay"]
+[Play "N"]
+C5 C6 C7 CA
+S4 S7 S8 SA
+S5 HQ S9 S2
+D7 D3 DA DT
+C4 CK CQ C2
+H3 HA C3 H2
+H5 HK C8 H4
+D5 D4 D2 H6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK62.JT8642.T.A2 J543.9753.K75.54 7.AKQ.J98643.K96 QT98..AQ2.QJT873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 3H Pass
+3S Pass 3NT Pass
+4C Pass 4H AP
+[Play "N"]
+C5 CK C3 C2
+S3 S7 S8 SA
+S4 D3 S9 SK
+S5 HQ ST S2
+C4 C6 CT CA
+SJ HK SQ S6
+H3 HA C8 H2
+H9 C9 CJ H8
+D5 D4 DA DT
+D7 D6 CQ HT
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:7.JT95.AJ92.J853 64.86432.K83.K74 AKJ853.AKQ.QT.92 QT92.7.7654.AQT6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1C =1= Pass 1D =2=
+Pass 1H =3= Pass 2NT =4=
+Pass 3C =5= Pass 3D =6=
+Pass 3NT AP
+[Note "1:strong"]
+[Note "2:0-8"]
+[Note "3:19+"]
+[Note "4:3suiter 6-8"]
+[Note "5:relay"]
+[Note "6:short !S"]
+[Play "N"]
+H4 HQ H7 H5
+H2 HK D4 H9
+D3 DQ D5 D2
+H3 HA S2 HT
+DK DT D6 DJ
+S4 SJ SQ S7
+CK C2 C6 C5
+D8 S3 D7 D9
+S6 S5 S9 DA
+H6 S8 ST HJ
+-  -  -  C3
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:7.JT95.AJ92.J853 64.86432.K83.K74 AKJ853.AKQ.QT.92 QT92.7.7654.AQT6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 3C Pass 3H
+Pass 3S Pass 3NT
+AP
+[Play "N"]
+D3 DT D4 DJ
+S4 SJ SQ S7
+D8 DQ D7 DA
+H6 HA H7 H5
+S6 SK S2 H9
+H2 SA S9 HJ
+H3 HK C6 HT
+H4 HQ D6 D2
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AKQ92.AJ.A6.KT43 4.K62.KQ9542.A87 JT87.T843.T.QJ96 653.Q975.J873.52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1C =1= 1D
+X =2= 2D X =3= 3D
+4D ! Pass 4S AP
+[Note "1:16+"]
+[Note "2:0-5"]
+[Note "3:t/o"]
+[Play "N"]
+DK DT -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AKQ92.AJ.A6.KT43 4.K62.KQ9542.A87 JT87.T843.T.QJ96 653.Q975.J873.52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 2C =1= Pass
+2D =2= Pass 2NT =3= Pass
+3C =4= Pass 3S =5= Pass
+4S AP
+[Note "1:Weak !D or strong"]
+[Note "2:Relay"]
+[Note "3:22-23"]
+[Note "4:Puppet Stayman"]
+[Note "5:5!S"]
+[Play "N"]
+DK DT D7 DA
+S4 S7 S3 SA
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQT854.9.T8764.3 J3.Q532.Q5.KJ982 976.AJ87.A92.A75 A2.KT64.KJ3.QT64"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1C =1= 3S X 4S
+AP
+[Note "1:2+!C"]
+[Play "N"]
+H3 HA H4 H9
+S3 S6 S2 SK
+D5 DA D3 D4
+SJ S7 SA S4
+H2 H7 H6 S5
+DQ D2 -  D6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQT854.9.T8764.3 J3.Q532.Q5.KJ982 976.AJ87.A92.A75 A2.KT64.KJ3.QT64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1C 3S Pass 3NT
+AP
+[Play "S"]
+H4 H9 HQ HA
+S2 SK S3 S6
+SA S4 SJ S9
+C6 C3 CK C5
+C4 D4 C9 C7
+CT D6 C2 CA
+D3 SQ H2 S7
+H6 ST H3 D2
+HT S8 C8 H8
+CQ S5 CJ HJ
+DJ D7 DQ DA
+-  -  -  H7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:854.K963.Q9.QT65 KJ632.A7.764.AJ2 A9.Q852.A32.K873 QT7.JT4.KJT85.94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+Pass 1S X 2S
+X Pass 2NT =1= Pass
+3C AP
+[Note "1:scrambling"]
+[Play "N"]
+HA H2 HJ H6
+H7 H5 HT HK
+C2 CK C4 C5
+CJ C3 C9 CT
+S3 SA S7 S5
+CA HQ H4 H9
+SK S9 ST S4
+D6 D2 DK D9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:854.K963.Q9.QT65 KJ632.A7.764.AJ2 A9.Q852.A32.K873 QT7.JT4.KJT85.94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "7"]
+[Auction "W"]
+Pass 1S X 2H
+X 2S Pass Pass
+3C AP
+[Play "N"]
+S2 SA S7 S4
+CJ C3 C4 CT
+HA H2 H4 H3
+H7 H5 HJ HK
+CA C7 C9 C5
+S6 S9 SQ S5
+C2 H8 HT H6
+D7 D2 DK -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ6.KJT532.A5.86 A7432.A96.K73.92 T.874.Q642.AQ743 Q985.Q.JT98.KJT5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1C =1= 2H
+2S 4H Pass Pass
+X Pass 4S Pass
+Pass X AP
+[Note "1:2+!C"]
+[Play "E"]
+H4 HQ HK HA
+CA C5 C6 C2
+C4 CK C8 C9
+D2 D8 DA D3
+DQ D9 D5 D7
+D4 DT S6 DK
+H7 S5 HJ H6
+ST S8 SJ SA
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJ6.KJT532.A5.86 A7432.A96.K73.92 T.874.Q642.AQ743 Q985.Q.JT98.KJT5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "N"]
+1S Pass 2NT 3H
+Pass 4C X Pass
+Pass 4H Pass Pass
+X AP
+[Play "N"]
+H6 H7 HQ HK
+SA ST S5 S6
+HA H4 S9 H2
+H9 H8 C5 HT
+S2 C3 D8 HJ
+S7 C4 CJ H5
+D7 D2 D9 DA
+DK D4 DT D5
+S4 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:973.QJ64.J743.AQ AK2.A97.A82.T865 QJ5.2.QT.KJ97432 T864.KT853.K965."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "E"]
+3C AP
+[Play "S"]
+S6 S3 SK S5
+S4 S7 SA SJ
+S8 S9 S2 SQ
+DK D3 D8 DQ
+D5 D4 DA DT
+H3 H4 HA H2
+H5 H6 H9 C2
+D6 CA C5 C3
+H8 CQ C6 C4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Drijver"]
+[East "Bertens"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:973.QJ64.J743.AQ AK2.A97.A82.T865 QJ5.2.QT.KJ97432 T864.KT853.K965."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "E"]
+3C AP
+[Play "S"]
+H3 HQ HA H2
+S8 CA C5 C2
+S4 S3 SA S5
+H5 CQ C6 C3
+H8 H4 H7 C4
+D5 D3 C8 CK
+HT S7 CT CJ
+S6 S9 SK SQ
+HK H6 H9 C7
+ST D4 S2 SJ
+DK D7 D2 DQ
+D6 DJ DA DT
+D9 HJ D8 C9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 2 +100"]
+[VisitTeam "Bc \\'T Onstein 1 +106"]
+[Room "Closed"]
+
+% PBN created by BFC f6.lin P
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q7.J872.AKQ84.J6 K8.AT3.J52.T8732 AJ42.9654.T63.Q4 T9653.KQ.97.AK95"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "S"]
+1S 1NT =1= Pass 2H
+AP
+[Note "1:4!H-5+!C/!D"]
+[Play "S"]
+HK H2 H3 H6
+HQ H7 HT H5
+CA C6 CT C4
+S9 SQ SK SA
+D7 DA D2 D3
+D9 DK D5 D6
+C5 DQ DJ DT
+-  D4 C2 CQ
+*
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q7.J872.AKQ84.J6 K8.AT3.J52.T8732 AJ42.9654.T63.Q4 T9653.KQ.97.AK95"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "S"]
+1S 2D Pass 3D
+AP
+[Play "N"]
+SK SA S6 S7
+D5 D3 D7 DA
+D2 D6 D9 DK
+DJ DT S3 DQ
+H3 H4 HQ HJ
+HA H5 HK H2
+S8 S2 S5 SQ
+HT H6 S9 H7
+C8 C4 CK C6
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:732.J86.K98.AKJ9 KQJ64.KQ5.643.86 T8.AT9742.QJT.Q7 A95.3.A752.T5432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+1C =1= 1S 2D ! 4S
+AP
+[Note "1:2+!C"]
+[Play "E"]
+DQ DA D8 D4
+HA H3 H8 HK
+S8 S9 S2 SJ
+H7 S5 H6 H5
+ST SA S3 S4
+DT D2 D9 D3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:732.J86.K98.AKJ9 KQJ64.KQ5.643.86 T8.AT9742.QJT.Q7 A95.3.A752.T5432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Auction "W"]
+1C =1= 1S 2D ! 2H
+X 2S =2= 3H AP
+[Note "1:2+!C"]
+[Note "2:Weak"]
+[Play "S"]
+SA S2 SK S8
+S9 S3 SJ ST
+S5 S7 SQ H7
+H3 H6 H5 HA
+C4 HJ HQ H4
+-  -  HK H2
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:753.A.Q754.T9643 KJ94.QJ864.J83.8 AQ8.KT72.K9.AKJ5 T62.953.AT62.Q72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass 1C =1= Pass 1D =2=
+X 1NT =3= Pass 3NT
+AP
+[Note "1:2+!C"]
+[Note "2:0-7 or nat"]
+[Note "3:18-20"]
+[Play "S"]
+D6 D7 DJ DK
+C7 C3 C8 CA
+C2 C4 H8 CK
+CQ C6 H6 CJ
+DT D4 D3 D9
+S6 S3 SK SA
+H9 HA H4 H2
+D2 D5 D8 H7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "17"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:753.A.Q754.T9643 KJ94.QJ864.J83.8 AQ8.KT72.K9.AKJ5 T62.953.AT62.Q72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 2NT Pass 3C =1=
+Pass 3D =2= Pass 3NT
+AP
+[Note "1:Puppet Stayman"]
+[Note "2:1 or 2 4cM"]
+[Play "S"]
+D2 D4 DJ DK
+C7 C3 C8 CA
+DA D5 D3 D9
+S6 S7 SK SA
+H5 HA H6 H2
+CQ C4 H4 CJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ.AQ7653.J54.QT T84.K82.Q6.KJ973 K653.4.98732.865 J972.JT9.AKT.A42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2HX"]
+[Result "6"]
+[Auction "E"]
+Pass 1C =1= 1H 2C
+Pass Pass 2H X =2=
+AP
+[Note "1:2+!C"]
+[Note "2:t/o"]
+[Play "N"]
+S4 S3 SJ SA
+S8 S5 S2 SQ
+CJ C5 C4 CT
+C7 C6 CA CQ
+C9 C8 C2 H5
+H2 H4 HJ HA
+H8 D2 H9 H6
+D6 D3 DK D5
+HK S6 HT HQ
+DQ D7 DT DJ
+CK D8 S7 H3
+C3 D9 S9 H7
+ST SK DA D4
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "18"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ.AQ7653.J54.QT T84.K82.Q6.KJ973 K653.4.98732.865 J972.JT9.AKT.A42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT =1= 2D =2= 2NT
+Pass 3C AP
+[Note "1:(12)13-15"]
+[Note "2:Multi"]
+[Play "W"]
+D4 D6 D7 DT
+CT C3 C5 CA
+CQ CK C6 C2
+H3 CJ C8 C4
+D5 DQ D2 DK
+DJ S4 D3 DA
+H5 HK H4 H9
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT7432.432.A7.73 K.QJ8.KJT84.K654 A95.KT96.93.AQJT J86.A75.Q652.982"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1D X
+2NT ! 4S AP
+[Play "N"]
+DJ D3 D2 DA
+C6 CT C9 C7
+SK SA S8 S4
+D8 S5 S6 S7
+D4 S9 SJ SQ
+C5 CJ C8 C3
+C4 CA C2 D7
+DK D9 D6 S3
+HJ HK HA H2
+HQ H6 H5 H3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "19"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT7432.432.A7.73 K.QJ8.KJT84.K654 A95.KT96.93.AQJT J86.A75.Q652.982"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass 2D =1= X 4C
+Pass 4H Pass 4S
+AP
+[Note "1:Multi"]
+[Play "S"]
+D5 DA D8 D3
+C9 C3 C4 CQ
+S8 S2 SK SA
+S6 ST D4 S5
+SJ SQ DJ S9
+C8 C7 C5 CJ
+C2 D7 C6 CA
+D2 S3 DT D9
+HA H2 HJ HK
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K9.83.KT654.QJ64 A.AQJT952.82.A93 J76432.764.A.K82 QT85.K.QJ973.T75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 1H 1S 1NT
+Pass 4H AP
+[Play "E"]
+DA D3 D6 D8
+C8 C5 C4 C9
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "20"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K9.83.KT654.QJ64 A.AQJT952.82.A93 J76432.764.A.K82 QT85.K.QJ973.T75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1C =1= 1S Pass =2=
+Pass 4H AP
+[Note "1:16+"]
+[Note "2:6-8"]
+[Play "E"]
+DA D3 D6 D8
+C2 C5 CJ C3
+C8 C7 C4 CA
+H4 HK H3 HA
+H6 D7 H8 HQ
+H7 S5 D4 HJ
+S2 S8 D5 HT
+S3 D9 DT H9
+S4 CT C6 H5
+S6 DJ CQ H2
+S7 ST S9 SA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q842.92.T3.K8742 K3.KJ74.J854.J63 A5.AT653.AK96.T5 JT976.Q8.Q72.AQ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1H 1S Pass
+1NT AP
+[Play "E"]
+DA D2 DT D5
+D6 D7 D3 D4
+SA S6 S2 SK
+CT CQ CK C3
+HA H8 H9 H4
+DK DQ C8 D8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "21"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q842.92.T3.K8742 K3.KJ74.J854.J63 A5.AT653.AK96.T5 JT976.Q8.Q72.AQ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+Pass 1H 1S Pass
+1NT AP
+[Play "E"]
+DA D2 DT D4
+D6 D7 D3 D5
+DK DQ C2 D8
+CT CQ CK C6
+C5 C9 C7 C3
+SA S6 S2 SK
+H5 H8 H9 HK
+D9 S7 C4 DJ
+S5 SJ SQ S3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:5.KQ854.QJ3.A952 KQJ9743.T.2.KQ83 AT.962.T8754.T76 862.AJ73.AK96.J4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass 1D 1H 1S =1=
+2H 2S Pass 3H
+Pass 4S AP
+[Note "1:5+!S"]
+[Play "E"]
+H9 HA H5 HT
+SA S2 S5 SQ
+H6 -  -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "22"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:5.KQ854.QJ3.A952 KQJ9743.T.2.KQ83 AT.962.T8754.T76 862.AJ73.AK96.J4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+Pass 1NT =1= 2H 3H
+Pass 3S Pass 4H
+Pass 4S AP
+[Note "1:(12)13-15"]
+[Play "W"]
+HK HT H2 HA
+S5 SK SA S2
+D3 D2 D5 DA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:874.KJT753.K7.K7 J52.AQ94.AQJ63.Q AK9.6.T542.T9864 QT63.82.98.AJ532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4DX"]
+[Result "9"]
+[Auction "S"]
+Pass 1H 1NT Pass
+2C Pass 2D Pass
+2NT Pass 3NT X
+Pass Pass 4D X
+AP
+[Play "E"]
+H6 H2 HK HA
+CT CA C7 CQ
+C9 C2 CK D3
+D2 H8 H3 HQ
+SK S3 S8 S2
+SA S6 S4 S5
+C4 CJ DK DA
+S9 ST S7 SJ
+C6 D8 H7 H4
+C8 C3 D7 DQ
+D4 D9 H5 H9
+DT C5 HT D6
+D5 SQ HJ DJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "23"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:874.KJT753.K7.K7 J52.AQ94.AQJ63.Q AK9.6.T542.T9864 QT63.82.98.AJ532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 2D =1= 2NT Pass
+3C =2= Pass 3D =3= Pass
+3H =4= Pass 3NT AP
+[Note "1:Multi"]
+[Note "2:Puppet Stayman"]
+[Note "3:1 or 2 4cM"]
+[Note "4:4!S"]
+[Play "E"]
+CT C2 C7 CQ
+S9 S3 S8 SJ
+SK S6 S7 S5
+C6 CJ CK H4
+SA ST S4 S2
+H6 H2 HK HA
+D2 D8 D7 DA
+D4 D9 DK DQ
+C4 H8 HJ HQ
+D5 C3 H3 DJ
+DT C5 H5 D6
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK86.543.KQ8754. J975.A7.A63.KQJ7 QT.QT862.T2.6542 432.KJ9.J9.AT983"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D 1NT Pass 3NT
+AP
+[Play "E"]
+DT DJ DQ D3
+D2 D9 DK DA
+C2 C3 S6 CK
+C4 C8 S8 CJ
+C6 C9 D4 C7
+C5 CA H3 CQ
+H8 CT D5 S5
+H2 H9 H4 HA
+H6 HJ H5 H7
+-  HK -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "24"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK86.543.KQ8754. J975.A7.A63.KQJ7 QT.QT862.T2.6542 432.KJ9.J9.AT983"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D 1NT Pass 3NT
+AP
+[Play "E"]
+H6 H9 H5 H7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:853.AK643.87.J94 AJ7.QT97.KT6.T63 KQT964.5.95.KQ75 2.J82.AQJ432.A82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "9"]
+[Auction "N"]
+Pass 1S 2D 2S
+X 3S =1= 4D AP
+[Note "1:not inv"]
+[Play "W"]
+HA H7 H5 H8
+C4 C6 CQ C2
+C9 C3 CK CA
+D7 DT D5 D2
+D8 DK D9 D3
+HK H9 ST HJ
+CJ CT C5 C8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "25"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:853.AK643.87.J94 AJ7.QT97.KT6.T63 KQT964.5.95.KQ75 2.J82.AQJ432.A82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S 2D 2S
+X 3S AP
+[Play "S"]
+H2 HA H7 H5
+H8 HK HT D5
+S2 S3 S7 SK
+C8 C4 CT CK
+D2 -  -  S4
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ2.Q4.A753.QJT9 AK3.86.KT92.AK87 8654.AKT5.QJ84.2 T97.J9732.6.6543"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1C =1= 1NT
+Pass 2D ! Pass 2H
+AP
+[Note "1:2+!C"]
+[Play "E"]
+C2 C3 C9 CK
+H5 H2 HQ H6
+HT C4 CT CA
+HA H3 H4 H8
+D4 D6 DA D2
+S4 C5 CJ C7
+S5 C6 CQ C8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "26"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QJ2.Q4.A753.QJT9 AK3.86.KT92.AK87 8654.AKT5.QJ84.2 T97.J9732.6.6543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1C =1= 1NT
+X 2H Pass Pass
+X AP
+[Note "1:2+!C"]
+[Play "W"]
+CQ CA C2 C3
+H4 H6 HK H3
+DA D2 D4 D6
+CJ CK H5 C4
+SJ SA S6 ST
+D3 DK D8 C5
+HQ H8 HT HJ
+CT C7 DJ C6
+C9 C8 S4 H2
+SQ SK S5 S9
+S2 S3 S8 S7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:84.52.AK732.AQ52 JT96.AKQT764.QT. K7.J83.J864.KT74 AQ532.9.95.J9863"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+2S =1= Pass 4S AP
+[Note "1:Muiderberg"]
+[Play "W"]
+DA DT D4 D5
+DK DQ D6 D9
+D3 H4 DJ S2
+S4 S9 SK S3
+C2 S6 C4 C3
+H5 HA H3 H9
+H2 H6 H8 SA
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "27"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:84.52.AK732.AQ52 JT96.AKQT764.QT. K7.J83.J864.KT74 AQ532.9.95.J9863"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass 1D 4H AP
+[Play "E"]
+D6 D5 DK DT
+C4 C3 CA H4
+H3 H9 H2 HA
+H8 C6 H5 HK
+HJ C8 C2 HQ
+S7 S2 S4 SJ
+SK -  -  ST
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "Brink"]
+[North "T.Bakkeren"]
+[East "Drijver"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T.AT86.KJ2.J8654 Q842.J.AQ63.T932 KJ9653.Q93.74.K7 A7.K7542.T985.AQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 2S =1= AP
+[Note "1:weak 2"]
+[Play "S"]
+CA C4 CT C7
+D9 DK DA D7
+HK HA HJ HQ
+SA ST S2 S3
+H4 H6 S4 H9
+CQ C5 C2 CK
+S7 C6 S8 SK
+H2 H8 SQ H3
+D5 D2 DQ D4
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Open"]
+
+[Event "Dutch Teams Championships Finals 2011"]
+[Site ""]
+[Date "2011.00.00"]
+[Board "28"]
+[West "Westra"]
+[North "de Wijs"]
+[East "Bertens"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T.AT86.KJ2.J8654 Q842.J.AQ63.T932 KJ9653.Q93.74.K7 A7.K7542.T985.AQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 2D =1= 2H
+AP
+[Note "1:Multi"]
+[Play "W"]
+ST S2 S3 SA
+H6 HJ HQ H2
+C6 C2 CK CA
+H8 S4 H9 H5
+C4 C3 C7 CQ
+D2 D3 D4 D8
+HT S8 H3 H4
+HA SQ S5 H7
+DJ DQ D7 D5
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 2 +112"]
+[VisitTeam "Bc \\'T Onstein 1 +136"]
+[Room "Closed"]
+

@@ -1,0 +1,3602 @@
+% PBN 1.0
+%
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "1"]
+[West "Di Maio"]
+[North "Versace"]
+[East "Pietri"]
+[South "Lauria"]
+[Vulnerable "None"]
+[Deal "S:A986.74.AJ8.AJT7 752.J2.K5432.643 QJ43.Q63.QT97.K9 KT.AKT985.6.Q852"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H X Pass
+1S 2H 2S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+HA H4 H2 H6
+HK H7 HJ H3
+H5 S9 D5 HQ
+C2 C7 C6 CK
+SK SA S2 SQ
+ST S6 S5 SJ
+H8 S8 S7 S3
+D6 DA D2 D7
+- DJ DK D9
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "2"]
+[West "Di Maio"]
+[North "Versace"]
+[East "Pietri"]
+[South "Lauria"]
+[Vulnerable "NS"]
+[Deal "S:72.A8643.Q963.A4 AT96.JT.AJT52.J2 KQ854.Q975..KQ97 J3.K2.K874.T8653"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S Pass
+Pass X 2D 2H
+3D X Pass 4C
+Pass 4H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+C6 CA C2 C7
+S3 S2 S6 SK
+H2 HA HJ H5
+SJ S7 SA S4
+D4 H3 ST S5
+C3 C4 CJ CK
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "3"]
+[West "Lauria"]
+[North "Weinstein"]
+[East "Versace"]
+[South "Stewart"]
+[Vulnerable "EW"]
+[Deal "S:AJ83.53.Q9753.76 K2.KQ76.KT4.8542 QT6.T8.A82.AQJT9 9754.AJ942.J6.K3"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2C Pass
+3C Pass Pass Pass
+[Declarer "N"]
+[Contract "3C"]
+[Play "E"]
+S7 S3 S2 ST
+CK C6 C2 CJ
+DJ DQ DK DA
+C3 C7 C4 CA
+S4 H3 C5 CQ
+S5 S8 C8 CT
+D6 D3 DT D8
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "4"]
+[West "Lauria"]
+[North "Weinstein"]
+[East "Versace"]
+[South "Stewart"]
+[Vulnerable "Both"]
+[Deal "S:KJ75.K8.32.QJ852 A93.643.KQJ6.A96 6.A975.AT87.T743 QT842.QJT2.954.K"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 2H Pass
+2S Pass Pass Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+S6 S2 S5 S9
+C7 CK C2 C6
+C3 SQ SK SA
+H7 HQ HK H3
+HA H2 H8 H4
+H9 HT S7 H6
+DA D4 D3 DK
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "5"]
+[West "Ferguson"]
+[North "Helness"]
+[East "Lewis"]
+[South "Helgemo"]
+[Vulnerable "NS"]
+[Deal "S:KJ5.AT8.JT74.J87 Q42.J52.Q852.K64 T76.K963.A6.T532 A983.Q74.K93.AQ9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+D4 D2 DA D3
+D7 D5 D6 DK
+SK S2 S6 S3
+DJ DQ H3 D9
+S5 SQ S7 S8
+SJ S4 ST SA
+H8 H2 C5 S9
+C7 C4 C2 CA
+C8 C6 C3 CQ
+CJ CK CT C9
+- H5 - -
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "6"]
+[West "Ferguson"]
+[North "Helness"]
+[East "Lewis"]
+[South "Helgemo"]
+[Vulnerable "EW"]
+[Deal "S:KQ63.T4.AK65.K96 J9842.QJ2.7.A432 A5.A873.J983.QJT T7.K965.QT42.875"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S2 S5 ST SQ
+C4 CT C5 C6
+C2 CJ C8 C9
+S4 SA S7 S3
+D7 D3 D4 DA
+SJ DJ DQ D5
+CA CQ C7 CK
+C3 H3 H5 H4
+HQ HA H6 HT
+H2 D9 D2 D6
+HJ D8 DT DK
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "7"]
+[West "Helgemo"]
+[North "Deutsch"]
+[East "Helness"]
+[South "Wolff"]
+[Vulnerable "Both"]
+[Deal "S:JT973.QJ5.74.J97 AQ652.K.AT9632.A K84.T983.QJ8.KT4 .A7642.K5.Q86532"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 2S Pass 2NT
+Pass 3S Pass 5D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+C4 C2 C7 CA
+H3 H2 HQ HK
+S4 D5 S3 S2
+H8 HA HJ S5
+H9 H4 H5 D3
+D8 DK D4 D2
+CT C3 C9 D6
+DJ H6 D7 DA
+DQ C5 S7 DT
+CK C6 CJ S6
+HT H7 S9 D9
+S8 - - SA
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "8"]
+[West "Helgemo"]
+[North "Deutsch"]
+[East "Helness"]
+[South "Wolff"]
+[Vulnerable "None"]
+[Deal "S:A.KJ63.AK9.AKJ42 JT942.A97.T432.9 K73.QT542.86.T53 Q865.8.QJ75.Q876"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2NT
+Pass 3D Pass 5H
+Pass 6H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "6H"]
+[Play "W"]
+SJ S3 S5 SA
+H7 HT H8 H3
+S4 SK S6 D9
+ST S7 SQ HK
+D2 D6 D7 DA
+D3 D8 D5 DK
+HA H2 S8 HJ
+H9 HQ C8 H6
+C9 C3 C6 CJ
+*
+[Result "12"]
+[Score "+980"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "9"]
+[West "Meckstroth"]
+[North "Rosenberg"]
+[East "Johnson"]
+[South "Zia"]
+[Vulnerable "EW"]
+[Deal "S:J743.8652.32.532 KT985.AKT74..A98 A.QJ3.AQ975.KJT4 Q62.9.KJT864.Q76"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S 2H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+SA S2 S7 S9
+CJ CQ C2 C8
+HJ H9 H5 H4
+CK C6 C5 CA
+H3 D4 H6 HA
+HQ D6 H2 HK
+D5 D8 H8 HT
+D7 SQ S3 S5
+D9 S6 SJ SK
+DQ - - S8
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "10"]
+[West "Meckstroth"]
+[North "Rosenberg"]
+[East "Johnson"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:JT9.9865.KT3.T64 Q862.AT73.A64.K7 K5.KQ4.Q72.J9852 A743.J2.J985.AQ3"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C6 CK C2 C3
+ST S2 S5 SA
+SJ SQ SK S3
+C4 C7 C9 CA
+CT D4 C8 CQ
+H6 HT HQ H2
+DT DA D2 D9
+DK D6 D7 D8
+S9 S6 C5 S4
+H8 H3 HK HJ
+*
+[Result "8"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "11"]
+[West "Smith"]
+[North "Molson"]
+[East "Cohen"]
+[South "Baran"]
+[Vulnerable "None"]
+[Deal "S:Q75.JT6.AQ9.K982 42.K943.J6.AQ754 KJT86.75.KT87.T3 A93.AQ82.5432.J6"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT Pass 2S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+D4 D9 DJ DK
+S3 SQ S2 S6
+SA S5 S4 SJ
+CJ CK CA C3
+C6 C2 CQ CT
+HQ H6 H3 H7
+H2 HT HK H5
+- - C4 -
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "12"]
+[West "Smith"]
+[North "Molson"]
+[East "Cohen"]
+[South "Baran"]
+[Vulnerable "NS"]
+[Deal "S:QJT964.973.T932. AK7.T542.J64.QJ2 852.QJ6.K75.K643 3.AK8.AQ8.AT9875"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 2D Pass
+2S Pass 3H Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S2 S3 S9 SK
+C3 C5 H3 CJ
+C6 C7 D3 CQ
+C4 C8 H7 C2
+*
+[Result "12"]
+[Score "+490"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "13"]
+[West "Hamman"]
+[North "Albert"]
+[East "Goren"]
+[South "Weichsel"]
+[Vulnerable "Both"]
+[Deal "S:A32.K854.K43.Q62 8.Q9763.J95.AT95 KQ764.A.AQ862.J4 JT95.JT2.T7.K873"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2NT Pass
+3D Pass 3S Pass
+4C Pass 4S Pass
+4NT Pass 5D Pass
+6S Pass Pass Pass
+[Declarer "N"]
+[Contract "6S"]
+[Play "E"]
+HJ H4 H6 HA
+S5 S2 S8 SK
+SJ S3 H3 SQ
+S9 SA CT S4
+H2 HK H7 C4
+HT H5 HQ S6
+D7 DK D5 D6
+DT D4 D9 DA
+*
+[Result "11"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "14"]
+[West "Hamman"]
+[North "Albert"]
+[East "Goren"]
+[South "Weichsel"]
+[Vulnerable "None"]
+[Deal "S:T73.J763.Q872.T5 Q54.94.JT43.AQ42 KJ.T82.AK5.98763 A9862.AKQ5.96.KJ"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2S Pass
+4S Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D7 D3 DK D9
+H3 H4 H8 HA
+C5 C2 C3 CJ
+CT CA C6 CK
+S3 CQ C7 D6
+D8 DT DA S2
+S7 S4 SJ SA
+ST SQ SK S6
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "15"]
+[West "Jansma"]
+[North "Rosenberg"]
+[East "Van Cleeff"]
+[South "Zia"]
+[Vulnerable "NS"]
+[Deal "S:6.QT9843..A87653 KT7.KJ7.K543.K94 842.A652.AQ76.QT AQJ953..JT982.J2"]
+[Dealer "S"]
+[Auction "S"]
+2H Pass 2NT 4S
+5C Pass 5H Pass
+Pass X Pass Pass
+Pass
+[Declarer "S"]
+[Contract "5HX"]
+[Play "W"]
+S7 S2 SA S6
+ST S4 SQ H8
+HK HA S5 HQ
+CK CT C2 C3
+SK S8 S9 H3
+C9 CQ CJ C5
+*
+[Result "10"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "16"]
+[West "Jansma"]
+[North "Rosenberg"]
+[East "Van Cleeff"]
+[South "Zia"]
+[Vulnerable "EW"]
+[Deal "S:KQJ9.Q72.K84.J97 A73.8653.AQ7.KQ3 T52.A4.632.AT865 864.KJT9.JT95.42"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+C6 C2 CJ CK
+H4 H9 H2 H8
+D2 D5 D8 DQ
+HA HT H7 H5
+S5 S4 SJ SA
+D3 HK HQ H3
+S2 HJ C9 H6
+D6 D9 D4 DA
+*
+[Result "7"]
+[Score "+90"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "17"]
+[West "Zeine"]
+[North "Lev"]
+[East "Martens"]
+[South "Gawrys"]
+[Vulnerable "None"]
+[Deal "S:62.A765.K7.KJ832 AT953.KT84.AJ.Q6 QJ874.2.8542.A95 K.QJ93.QT963.T74"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 1S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "1S"]
+[Play "N"]
+D5 D3 D7 DJ
+D2 D6 DK DA
+S4 SK S2 S3
+D4 D9 S6 S9
+H2 H3 H6 HK
+D8 HQ HA H8
+S7 H9 H5 H4
+CA C4 C3 C6
+C9 C7 CK CQ
+S8 HJ H7 HT
+*
+[Result "7"]
+[Score "+80"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "18"]
+[West "Zeine"]
+[North "Lev"]
+[East "Martens"]
+[South "Gawrys"]
+[Vulnerable "NS"]
+[Deal "S:A85.94.AQ74.QT93 J4.AKQJ.985.AKJ6 K76.T862.KT2.752 QT932.753.J63.84"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C X Pass
+1S Pass 1NT Pass
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H9 HJ H2 H3
+H4 HQ HT H5
+S5 HK H8 H7
+DA D5 DT D3
+D4 D8 DK D6
+DQ D9 D2 DJ
+D7 S4 C2 C4
+C9 CA C5 C8
+C3 C6 C7 S2
+S8 SJ SK S3
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "19"]
+[West "Helgemo"]
+[North "Passell"]
+[East "Helness"]
+[South "Freed"]
+[Vulnerable "EW"]
+[Deal "S:73.K9842.A64.KJT JT8.Q.KJ.AQ98754 KQ965.AJ75.Q52.3 A42.T63.T9873.62"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1S Pass
+1NT Pass 2H Pass
+3H Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+C6 CT CQ C3
+D3 D4 DJ DQ
+SA S3 S8 SK
+C2 CJ CA H5
+H3 H2 HQ HA
+H6 H4 C4 HJ
+S2 S7 ST SQ
+D7 DA DK D2
+- CK C5 D5
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "20"]
+[West "Helgemo"]
+[North "Passell"]
+[East "Helness"]
+[South "Freed"]
+[Vulnerable "Both"]
+[Deal "S:AT.J43.J742.KQT8 954.KT7.AT6.A932 KQJ86.Q952.KQ.54 732.A86.9853.J76"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S Pass 1NT
+Pass 2H Pass 2NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2NT"]
+[Play "W"]
+C3 C4 CJ CK
+D6 DQ D3 D4
+DA DK D5 D2
+HT H2 HA H4
+CA C5 C7 CQ
+HK H5 H6 H3
+*
+[Result "9"]
+[Score "+150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "21"]
+[West "Sontag"]
+[North "Cohen"]
+[East "Jacobus"]
+[South "Berkowitz"]
+[Vulnerable "NS"]
+[Deal "S:Q862.KQ.J9642.Q5 T753.542.Q7.K872 A.873.AT853.AJT4 KJ94.AJT96.K.963"]
+[Dealer "N"]
+[Auction "N"]
+1D 1H 1S 2H
+Pass Pass 3D Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+S9 S2 S3 SA
+DK D2 D7 DA
+HT D4 DQ D5
+- - S5 -
+*
+[Result "11"]
+[Score "+150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "22"]
+[West "Sontag"]
+[North "Cohen"]
+[East "Jacobus"]
+[South "Berkowitz"]
+[Vulnerable "EW"]
+[Deal "S:K4.63.QJT.KT8765 863.AT9.K954.A32 QJ7.Q52.A73.QJ94 AT952.KJ874.862."]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass Pass
+X 2C Pass Pass
+2H Pass Pass 3C
+Pass Pass 3H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+DQ D4 D3 D6
+DJ D5 D7 D8
+SK S3 S7 SA
+H3 HA H2 H4
+C8 CA C4 D2
+H6 HT H5 H7
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "23"]
+[West "Levin"]
+[North "Helness"]
+[East "Baldwin"]
+[South "Helgemo"]
+[Vulnerable "Both"]
+[Deal "S:AK64.AK2.KT3.QJ7 QJ2.QT9.AQ2.A852 T9853.653.J96.94 7.J874.8754.KT63"]
+[Dealer "S"]
+[Auction "S"]
+2NT Pass 3H Pass
+3S Pass Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+SJ S3 S7 SA
+S2 S5 D4 SK
+SQ S8 D5 S4
+HT H3 H4 HK
+CA C4 C6 CQ
+HQ H5 H7 HA
+H9 H6 HJ H2
+- - D8 -
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "24"]
+[West "Levin"]
+[North "Helness"]
+[East "Baldwin"]
+[South "Helgemo"]
+[Vulnerable "None"]
+[Deal "S:KQ.AT5.KQ4.Q9865 9874.QJ6432.5.42 J32.7.AJT98.KJT7 AT65.K98.7632.A3"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2D
+Pass 3NT Pass Pass
+Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H4 H7 HK HA
+C4 CJ CA C5
+HJ S2 H9 HT
+HQ S3 H8 H5
+*
+[Result "6"]
+[Score "-150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "25"]
+[West "Lev"]
+[North "Soloway"]
+[East "Gawrys"]
+[South "Mahaffey"]
+[Vulnerable "EW"]
+[Deal "S:A..AQJ864.AJ9753 54.J9862.K92.Q84 KQ9862.QT73.T7.6 JT73.AK54.53.KT2"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 3C Pass
+3S Pass 4C Pass
+4D Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HA D4 H2 H3
+S3 SA S4 S2
+C2 CA C4 C6
+CT C3 C8 S6
+S7 C5 S5 SK
+ST D6 H6 SQ
+D5 DJ DK DT
+HK C7 HJ HQ
+H5 C9 H8 HT
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "26"]
+[West "Lev"]
+[North "Soloway"]
+[East "Gawrys"]
+[South "Mahaffey"]
+[Vulnerable "Both"]
+[Deal "S:52.J92.T975.KJ32 743.AK85.K62.QT8 KJT9.764.AQJ8.64 AQ86.QT3.43.A975"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1H X
+Pass 2D X Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2DX"]
+[Play "W"]
+HA H4 H3 H2
+C8 C4 CA C3
+H5 H6 HQ H9
+HK H7 HT HJ
+S3 SK SA S5
+S4 S9 SQ S2
+S7 ST S6 DT
+D2 D8 D3 D9
+D6 DJ D4 D5
+- DA - -
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "27"]
+[West "Schermer"]
+[North "Greco"]
+[East "Chambers"]
+[South "Hampson"]
+[Vulnerable "None"]
+[Deal "S:Q7.K964.J963.874 K65.872.AT54.JT5 J4.Q53.Q82.AKQ63 AT9832.AJT.K7.92"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT 2S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H6 H2 HQ HA
+S7 SK S4 S2
+SQ S5 SJ SA
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "28"]
+[West "Schermer"]
+[North "Greco"]
+[East "Chambers"]
+[South "Hampson"]
+[Vulnerable "NS"]
+[Deal "S:86.Q962.J87.KQT5 KT9.JT8.A.A98642 AJ75432.53.KQT3. Q.AK74.96542.J73"]
+[Dealer "W"]
+[Auction "W"]
+1C 4S X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4SX"]
+[Play "E"]
+HK H2 H8 H5
+HA H6 HT H3
+C3 CK CA S2
+SQ S6 S9 SA
+D2 D7 DA DT
+- - SK -
+*
+[Result "9"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "29"]
+[West "K. Sanborn"]
+[North "Rosenberg"]
+[East "S. Sanborn"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:K5.A98762.Q72.85 QT6.KQJ.9853.AK9 J87.T543.K64.T64 A9432..AJT.QJ732"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S Pass 2NT
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+H7 HJ H3 DT
+SK SQ S8 S2
+D2 D3 DK DA
+C5 CA C6 C2
+S5 ST S7 S3
+H9 S6 SJ SA
+C8 CK C4 C3
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.09"]
+[Round "1"]
+[Board "30"]
+[West "K. Sanborn"]
+[North "Rosenberg"]
+[East "S. Sanborn"]
+[South "Zia"]
+[Vulnerable "None"]
+[Deal "S:AK75.KJ7.643.A76 T8.Q63.A8.QJT543 Q43.T54.JT952.92 J962.A982.KQ7.K8"]
+[Dealer "E"]
+[Auction "E"]
+1D X 2C Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2C"]
+[Play "N"]
+H5 H2 HK H6
+S4 S2 SK ST
+HT H8 H7 HQ
+DJ D7 D3 DA
+D2 DQ D4 D8
+D5 DK D6 S8
+C2 C8 C6 CQ
+*
+[Result "10"]
+[Score "+130"]
+
+% PBN 1.0
+%
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "1"]
+[West "Robinson"]
+[North "Weinstein"]
+[East "Boyd"]
+[South "Stewart"]
+[Vulnerable "None"]
+[Deal "S:92.Q632.987.KQ64 4.KJ9754.Q3.JT53 AQ865.AT8.AJ2.A8 KJT73..KT654.972"]
+[Dealer "N"]
+[Auction "N"]
+1C 1S X 2H
+X Pass 3C Pass
+3NT Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D5 D7 DQ DA
+SK S2 S4 SQ
+C9 C4 C3 CA
+C2 HQ HK H8
+DT D8 D3 D2
+DK D9 H4 DJ
+D6 H2 H5 S5
+D4 H3 - -
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "2"]
+[West "Robinson"]
+[North "Weinstein"]
+[East "Boyd"]
+[South "Stewart"]
+[Vulnerable "NS"]
+[Deal "S:84.AJ96.42.QJT76 AK97.T2.KQ87.AK2 QT653.Q83.63.954 J2.K754.AJT95.83"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 2NT Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S3 SJ S8 S9
+D3 D5 D2 DK
+D6 D9 D4 D7
+C4 DA C6 DQ
+C5 DJ H6 D8
+C9 DT S4 H2
+S5 S2 C7 SA
+S6 C3 CT CA
+H3 C8 CQ CK
+ST H4 H9 SK
+*
+[Result "10"]
+[Score "+430"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "3"]
+[West "Lauria"]
+[North "Robinson"]
+[East "Versace"]
+[South "Boyd"]
+[Vulnerable "EW"]
+[Deal "S:T943.A432.3.AQ83 Q82.T9.KQ62.J972 KJ765.K8.AJ7.654 A.QJ765.T9854.KT"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+DT D3 DQ DA
+D5 S3 D2 D7
+H5 H2 HT HK
+D4 S4 D6 DJ
+SA S9 S2 S5
+HQ HA H9 H8
+- ST - -
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "4"]
+[West "Lauria"]
+[North "Robinson"]
+[East "Versace"]
+[South "Boyd"]
+[Vulnerable "Both"]
+[Deal "S:K543..AT653.A975 A62.K75.J42.KJ62 QT7.AQ98.Q87.Q84 J98.JT6432.K9.T3"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H X
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H3 S3 HK HA
+D9 DA D2 D7
+DK D3 D4 DQ
+SJ S4 S2 SQ
+S8 D5 DJ D8
+H2 C5 H7 HQ
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "5"]
+[West "Tudor"]
+[North "Lauria"]
+[East "Seamon"]
+[South "Versace"]
+[Vulnerable "NS"]
+[Deal "S:52.J96542.J6.Q95 KQ64.Q.AQ98732.6 JT87.73.K4.AT732 A93.AKT8.T5.KJ84"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2H Pass 2NT
+Pass 3C Pass 3D
+Pass 3NT Pass 4NT
+Pass 6NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "6NT"]
+[Play "S"]
+S5 S4 ST SA
+D6 D2 DK DT
+- - CA -
+*
+[Result "11"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "6"]
+[West "Tudor"]
+[North "Lauria"]
+[East "Seamon"]
+[South "Versace"]
+[Vulnerable "EW"]
+[Deal "S:J8.AQ.KQ6.AKT765 K96.7654.J98.QJ4 AT752.9.A742.832 Q43.KJT832.T53.9"]
+[Dealer "E"]
+[Auction "E"]
+2H X 3H X
+Pass 3NT Pass 4S
+Pass 5C Pass Pass
+Pass
+[Declarer "S"]
+[Contract "5C"]
+[Play "W"]
+H5 H9 HT HQ
+C4 C2 C9 CA
+CJ C3 H2 CK
+*
+[Result "12"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "7"]
+[West "Soloway"]
+[North "Smith"]
+[East "Mahaffey"]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:876.94.AJ82.QT32 KT9.AK763.Q96.KJ 52.T852.K7543.65 AQJ43.QJ.T.A9874"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4C
+Pass 4H Pass 5D
+Pass 6S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+H2 HJ H9 H7
+S2 S3 S6 ST
+S5 SJ S7 S9
+D3 SA S8 SK
+H5 HQ H4 H3
+C5 C4 C2 CK
+H8 DT D2 HA
+HT C7 D8 HK
+*
+[Result "12"]
+[Score "+1430"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "8"]
+[West "Soloway"]
+[North "Smith"]
+[East "Mahaffey"]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:KT76.AT96.K86.KJ 983.853.Q973.A42 Q4.J74.JT52.9876 AJ52.KQ2.A4.QT53"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+S6 S3 SQ SA
+CJ CA C6 C3
+CK C2 C9 C5
+HT H3 H4 HK
+D6 C4 C7 CQ
+H6 D3 C8 CT
+ST S8 S4 S2
+SK S9 D2 S5
+HA H5 H7 H2
+H9 H8 HJ HQ
+S7 D7 D5 SJ
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "9"]
+[West "Lilie"]
+[North "Versace"]
+[East "Zolotow"]
+[South "Lauria"]
+[Vulnerable "EW"]
+[Deal "S:K973.986.T75.K98 JT864.AKQ4.A.T75 .T7532.KQJ862.32 AQ52.J.943.AQJ64"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1S
+2S 3S Pass 4H
+Pass 5C Pass 5D
+Pass 5H Pass 5S
+Pass 6S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+DK D3 D5 DA
+D6 S2 SK SJ
+D2 D4 D7 S4
+C2 CQ CK C7
+*
+[Result "11"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "10"]
+[West "Lilie"]
+[North "Versace"]
+[East "Zolotow"]
+[South "Lauria"]
+[Vulnerable "Both"]
+[Deal "S:KQ976.JT4.QT8.Q8 J2.KQ53.K752.KJ9 53.9876.AJ964.T2 AT84.A2.3.A76543"]
+[Dealer "E"]
+[Auction "E"]
+1C 1S X Pass
+2C Pass 2S Pass
+2NT Pass 3C Pass
+5C Pass Pass Pass
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+SK S2 S3 SA
+C8 CK C2 C3
+CQ C9 CT CA
+*
+[Result "12"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "11"]
+[West "Woolsey"]
+[North "Lambardi"]
+[East "Silverman"]
+[South "Camberos"]
+[Vulnerable "None"]
+[Deal "S:QT986.A83.AJ9.T3 .Q2.QT86532.A742 A742.KT964.K.965 KJ53.J75.74.KQJ8"]
+[Dealer "S"]
+[Auction "S"]
+1S 4D 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D2 DK D7 D9
+D3 SA S3 S6
+D5 S2 S5 S8
+C4 C5 C8 C3
+C2 C6 CK CT
+C7 C9 CQ S9
+H2 H4 H5 HA
+HQ H6 H7 H3
+CA S4 - -
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "12"]
+[West "Woolsey"]
+[North "Lambardi"]
+[East "Silverman"]
+[South "Camberos"]
+[Vulnerable "NS"]
+[Deal "S:AJ42.5.T754.A732 6.AQ432.J3.QJ864 K9.K9876.KQ82.KT QT8753.JT.A96.95"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H 2S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H5 HA H6 HJ
+D4 D3 D2 DA
+D5 DJ DQ D6
+C2 H2 HK HT
+S2 S6 SK S5
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "13"]
+[West "Hamman"]
+[North "Rosenberg"]
+[East "Goren"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:AK9.654.A94.JT63 85.AKQJ72.QJ3.97 T73.T983.T65.AQ2 QJ642..K872.K854"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 2H
+Pass 2S Pass 3H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+CQ C4 C6 C9
+C2 C5 CJ C7
+S3 S2 SK S5
+S7 S4 SA S8
+CA C8 C3 HJ
+H3 D2 H4 HA
+H8 D7 H5 HQ
+H9 S6 H6 HK
+D5 DK DA D3
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "14"]
+[West "Hamman"]
+[North "Rosenberg"]
+[East "Goren"]
+[South "Zia"]
+[Vulnerable "None"]
+[Deal "S:A72.J9.AJ532.T97 QJT85.K7.QT.AQ86 4.T6542.K87.KJ54 K963.AQ83.964.32"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C 2D 4S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D7 D4 DA DT
+C4 C2 C9 CA
+H2 H3 H9 HK
+H6 HA HJ H7
+H4 HQ S7 S8
+CJ C3 C7 C6
+DK D6 D2 DQ
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "15"]
+[West "Jacobs"]
+[North "Versace"]
+[East "Katz"]
+[South "Lauria"]
+[Vulnerable "NS"]
+[Deal "S:K654.AT3.975.QJ7 T987.Q82.3.A9652 A.KJ76.KJ862.KT8 QJ32.954.AQT4.43"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2D Pass
+2NT Pass 3NT X
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NTX"]
+[Play "W"]
+D3 D2 DT D9
+ST SA S2 S4
+C5 CK C3 C7
+CA C8 C4 CQ
+S9 D6 S3 S5
+S8 D8 SJ SK
+H2 H6 H4 HA
+H8 H7 H5 HT
+HQ HK H9 H3
+*
+[Result "8"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "16"]
+[West "Jacobs"]
+[North "Versace"]
+[East "Katz"]
+[South "Lauria"]
+[Vulnerable "EW"]
+[Deal "S:T53.A72.Q7.T9863 92.K85.T42.AJ754 AKQ76.Q63.AKJ85. J84.JT94.963.KQ2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2S Pass 2NT
+Pass 3C Pass 3D
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+C5 H3 CQ C3
+C4 H6 CK C6
+- - C2 -
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "17"]
+[West "Levin"]
+[North "Lev"]
+[East "Baldwin"]
+[South "Gawrys"]
+[Vulnerable "None"]
+[Deal "S:T63.Q53.QJ74.K95 Q984.KT7.K6.AJT4 AKJ52.A9.T852.73 7.J8642.A93.Q862"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+H4 HQ HK HA
+S7 S3 S4 SK
+H2 S6 S8 SA
+D3 DQ DK D2
+DA D4 D6 D8
+C2 CK CA C3
+C6 C5 CJ C7
+HJ H3 HT H9
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "18"]
+[West "Levin"]
+[North "Lev"]
+[East "Baldwin"]
+[South "Gawrys"]
+[Vulnerable "NS"]
+[Deal "S:J753.JT7.AKJ73.6 6.AKQ932.Q95.QT2 K94.5.64.AK98743 AQT82.864.T82.J5"]
+[Dealer "E"]
+[Auction "E"]
+2S Pass 3H 4C
+Pass 4D Pass 5C
+Pass Pass Pass
+[Declarer "N"]
+[Contract "5C"]
+[Play "E"]
+H4 HJ HQ H5
+SQ S3 S6 S9
+SA S5 H2 S4
+S2 S7 C2 SK
+H6 H7 HK C3
+C5 C6 CT CK
+CJ HT CQ CA
+*
+[Result "9"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "19"]
+[West "Horning"]
+[North "Rosenberg"]
+[East "Carruthers"]
+[South "Zia"]
+[Vulnerable "EW"]
+[Deal "S:73.K7.K8543.KJ75 T8.AT83.QJT.AQ83 KQJ42.J62.A762.4 A965.Q954.9.T962"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1S X
+1NT 2H Pass Pass
+2S Pass Pass 3C
+Pass Pass 3D Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+H5 H7 HT HJ
+CT CK CA C4
+D9 DK DQ D2
+SA S3 S8 SQ
+H4 HK HA H2
+C2 D3 DT DA
+S5 S7 ST SK
+S6 C5 - SJ
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "20"]
+[West "Horning"]
+[North "Rosenberg"]
+[East "Carruthers"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:J8752.KJ92.T7.KJ KQ9.A64.Q853.Q54 T43.873.A942.A62 A6.QT5.KJ6.T9873"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+S5 S9 ST SA
+CK C4 C6 C9
+SJ SQ S4 S6
+CJ CQ C2 C8
+D7 C5 CA C7
+HJ HA H8 HT
+DT D3 DA D6
+H9 H4 H7 H5
+HK H6 H3 HQ
+*
+[Result "7"]
+[Score "+90"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "21"]
+[West "Helgemo"]
+[North "Woolsey"]
+[East "Helness"]
+[South "Silverman"]
+[Vulnerable "NS"]
+[Deal "S:943.85.AQJ3.AQT6 AT5.QT32.T84.742 KQ86.964.K762.J8 J72.AKJ7.95.K953"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 1D 1H
+3D 3H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+D6 D5 DJ D4
+DK D9 D3 DT
+CJ C3 C6 C2
+C8 C9 CT C4
+SQ S2 S3 S5
+H4 HA H5 H2
+H6 HK H8 H3
+H9 H7 DA HQ
+*
+[Result "6"]
+[Score "-150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "22"]
+[West "Helgemo"]
+[North "Woolsey"]
+[East "Helness"]
+[South "Silverman"]
+[Vulnerable "EW"]
+[Deal "S:KT.AKQ5.K2.AJT64 AQ7654.T.T73.975 J82.J8632.Q6.K82 93.974.AJ9854.Q3"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2NT Pass 3D
+Pass 4H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+D3 D6 DA D2
+SA S2 S9 SK
+SQ S8 S3 ST
+D7 DQ D4 DK
+HT H2 H4 HA
+S4 H3 H7 HK
+S5 HJ H9 H5
+S6 SJ D5 HQ
+C5 C2 C3 CA
+C7 CK CQ C4
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "23"]
+[West "Lauria"]
+[North "Albert"]
+[East "Versace"]
+[South "Weichsel"]
+[Vulnerable "Both"]
+[Deal "S:54.KJ972.875.J93 A6.Q864.QJ.AKT42 JT9.T5.AT643.Q65 KQ8732.A3.K92.87"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 2C Pass 2D
+Pass 2H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HJ HQ H5 H3
+S5 SA S9 S2
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "24"]
+[West "Lauria"]
+[North "Albert"]
+[East "Versace"]
+[South "Weichsel"]
+[Vulnerable "None"]
+[Deal "S:AQ54.Q962.AJT4.J 862.A.K982.A6532 J.8753.Q63.QT974 KT973.KJT4.75.K8"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 2S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+CJ CA C4 C8
+H2 HA H3 H4
+S4 C2 C7 CK
+SA S2 SJ S3
+S5 S8 C9 S7
+SQ S6 H5 SK
+D4 DK D3 D7
+DA D2 DQ D5
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "25"]
+[West "Hayden"]
+[North "Versace"]
+[East "Onstott"]
+[South "Lauria"]
+[Vulnerable "EW"]
+[Deal "S:AQ72.AJ2.K94.T63 KJ653.QT97.63.82 T98.65.AJ852.J75 4.K843.QT7.AKQ94"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C X 1S
+2D Pass Pass Pass
+[Declarer "N"]
+[Contract "2D"]
+[Play "E"]
+CA C3 C8 C7
+CK C6 C2 C5
+CQ CT S6 CJ
+S4 S2 SJ S8
+D7 S7 S5 ST
+H3 HA HT H5
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "26"]
+[West "Hayden"]
+[North "Versace"]
+[East "Onstott"]
+[South "Lauria"]
+[Vulnerable "Both"]
+[Deal "S:KJ.JT.AKJ9753.T3 QT9543.94.6.AJ92 82.Q875.QT2.8764 A76.AK632.84.KQ5"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 4H Pass
+4S Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+DA D6 DT D4
+HJ H4 H5 HA
+SJ S3 S2 SA
+SK - - S6
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "27"]
+[West "Goldfein"]
+[North "Levin"]
+[East "Polowan"]
+[South "Baldwin"]
+[Vulnerable "None"]
+[Deal "S:AJ986.A654.KT.64 K3.Q973.QJ52.J87 QT2.8.A97643.T52 754.KJT2.8.AKQ93"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2S 2NT
+Pass 4H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S2 S4 SA S3
+D3 D8 DK D2
+ST S5 S6 SK
+H8 HK HA H3
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "28"]
+[West "Goldfein"]
+[North "Levin"]
+[East "Polowan"]
+[South "Baldwin"]
+[Vulnerable "NS"]
+[Deal "S:K63.J.A7652.AQ95 QJ8.AK63.QJ84.K2 T9752.Q942.9.JT8 A4.T875.KT3.7643"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+ST S4 SK SJ
+S2 SA S6 S8
+D9 DT D2 D8
+S5 D3 DA D4
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "29"]
+[West "Goldfein"]
+[North "Rosenberg"]
+[East "Polowan"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:98763.A3.K7.KQJ4 KT.986.AJ9.A9876 J4.QT2.86432.T53 AQ52.KJ754.QT5.2"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 1S 2C
+Pass 2NT Pass 4H
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S8 ST SJ SA
+D7 DJ D8 D5
+H3 H9 H2 HJ
+DK DA D6 DQ
+HA H6 HQ HK
+S9 SK S4 S2
+S3 D9 D4 DT
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "2"]
+[Board "30"]
+[West "Goldfein"]
+[North "Rosenberg"]
+[East "Polowan"]
+[South "Zia"]
+[Vulnerable "None"]
+[Deal "S:AJT6.K4.J83.AJ62 97.QJ98.74.98543 K54.T752.A62.KT7 Q832.A63.KQT95.Q"]
+[Dealer "E"]
+[Auction "E"]
+1D 1S Pass 2D
+Pass 2S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+D7 D2 DQ D8
+H9 H2 H3 HK
+S7 SK S2 S6
+S9 S4 S3 SJ
+C3 CK CQ C2
+C4 S5 S8 ST
+H8 H5 SQ SA
+C9 CT D5 C6
+*
+[Result "10"]
+[Score "+170"]
+
+% PBN 1.0
+%
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "1"]
+[West "Boyd"]
+[North "Rosenberg"]
+[East "Robinson"]
+[South "Zia"]
+[Vulnerable "None"]
+[Deal "S:2.AQT84.QT98.KQ3 8764.K9732.KJ3.9 AJT.J65.A4.AT762 KQ953..7652.J854"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1H Pass
+1NT Pass 2D Pass
+2H Pass 3C Pass
+4C Pass 6C Pass
+Pass Pass
+[Declarer "N"]
+[Contract "6C"]
+[Play "E"]
+SK S2 S8 SA
+SQ C3 S7 SJ
+C4 CK C9 C2
+C5 CQ S4 C6
+D2 D8 D3 DA
+C8 D9 H2 CA
+D7 H4 HK HJ
+- - DK -
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "2"]
+[West "Boyd"]
+[North "Rosenberg"]
+[East "Robinson"]
+[South "Zia"]
+[Vulnerable "NS"]
+[Deal "S:AJ.AK963.8.Q7432 K63.J4.Q7532.AKJ 874.T7.AKJT94.96 QT952.Q852.6.T85"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H X 2D
+2S 4H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK C6 C8 C2
+S3 S4 SQ SA
+D7 DJ D6 D8
+D2 DA H2 H3
+CA C9 C5 CQ
+SK S7 S2 SJ
+S6 S8 S5 H6
+CJ H7 CT C4
+D5 DK S9 C7
+H4 HT H5 HA
+HJ - - HK
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "3"]
+[West "Albert"]
+[North "Lanzarotti"]
+[East "Weichsel"]
+[South "Buratti"]
+[Vulnerable "EW"]
+[Deal "S:95.J4.AJ95.KJT75 KQ64.AQT53.T8.64 T72.976.K732.932 AJ83.K82.Q64.AQ8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 2NT
+Pass 3NT Pass 4H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+C9 CA C7 C6
+H6 H2 H4 HA
+H7 HK HJ H3
+H9 H8 C5 HQ
+C3 CQ CK C4
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "4"]
+[West "Albert"]
+[North "Lanzarotti"]
+[East "Weichsel"]
+[South "Buratti"]
+[Vulnerable "Both"]
+[Deal "S:AJ6.KT.K98432.T5 543.AJ84.A6.KJ82 T972.765.QJT5.Q7 KQ8.Q932.7.A9643"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D2 DA DQ D7
+C5 C2 C7 CA
+HT HJ H7 H3
+HK HA H6 H2
+D3 H4 H5 HQ
+CT CJ CQ C4
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "5"]
+[West "Greco"]
+[North "Casen"]
+[East "Hampson"]
+[South "Pollack"]
+[Vulnerable "NS"]
+[Deal "S:7.987.KQJ865.AT3 KQJ865.KT.T7432. 43.653.A9.KJ9864 AT92.AQJ42..Q752"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H 2D 2S
+X 4D Pass 4H
+Pass 5S Pass 6S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "6S"]
+[Play "N"]
+C6 C2 CA S5
+D9 S2 D6 D2
+S3 S9 S7 SJ
+- - - SK
+*
+[Result "13"]
+[Score "+1010"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "6"]
+[West "Greco"]
+[North "Casen"]
+[East "Hampson"]
+[South "Pollack"]
+[Vulnerable "EW"]
+[Deal "S:3.98652.AT64.Q98 AQ842.4.Q752.J65 KJ96.KT7.KJ83.K3 T75.AQJ3.9.AT742"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S Pass
+2C Pass Pass Pass
+[Declarer "E"]
+[Contract "2C"]
+[Play "S"]
+S3 S2 SJ S5
+C9 S4 S6 S7
+D4 D2 DJ D9
+C8 S8 S9 ST
+D6 D5 DK C2
+CQ C5 C3 CA
+*
+[Result "8"]
+[Score "+90"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "7"]
+[West "Nilsson"]
+[North "Rosenberg"]
+[East "Edstrand"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:J986.AT843.K4.J7 K42.Q95.QT5.Q852 QT75.K72.A73.K64 A3.J6.J9862.AT93"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S Pass
+2C Pass 2S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+D9 DK D5 D7
+SA S9 S2 S5
+D6 D4 DQ DA
+S3 S6 SK S7
+D2 S8 DT D3
+D8 SJ S4 ST
+HJ H3 H5 H7
+DJ C7 C2 SQ
+H6 H4 H9 HK
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "8"]
+[West "Nilsson"]
+[North "Rosenberg"]
+[East "Edstrand"]
+[South "Zia"]
+[Vulnerable "None"]
+[Deal "S:QJT543.5.K5.K953 6.AJT94.A863.QT4 A9872.K8.QJT2.J7 K.Q7632.974.A862"]
+[Dealer "W"]
+[Auction "W"]
+1H 1S 4H 4S
+Pass Pass X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4SX"]
+[Play "E"]
+H2 H5 HA H8
+CA C3 C4 C7
+D9 D5 DA D2
+D4 DK D6 DJ
+SK SQ S6 SA
+*
+[Result "10"]
+[Score "+590"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "9"]
+[West "Schermer"]
+[North "Rosenberg"]
+[East "Chambers"]
+[South "Zia"]
+[Vulnerable "EW"]
+[Deal "S:Q96.A986.K65.K83 K83.752.A732.T65 AJ42.KQJ3.QT4.Q7 T75.T4.J98.AJ942"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2C Pass
+2H Pass 3H Pass
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+H4 H8 H2 H3
+HT H6 H5 HK
+C4 HA H7 HQ
+S5 S6 S3 SJ
+S7 S9 SK S2
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "10"]
+[West "Schermer"]
+[North "Rosenberg"]
+[East "Chambers"]
+[South "Zia"]
+[Vulnerable "Both"]
+[Deal "S:KJT32.T.KJ8.6532 Q87.AQ62.Q5.KJ94 A95.J54.T762.AT7 64.K9873.A943.Q8"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H 1S 2H 2S
+3D Pass 3H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+SJ S7 S9 S4
+ST S8 SA S6
+S2 SQ S5 H3
+HT H2 H4 HK
+S3 HQ H5 H7
+SK HA HJ H8
+C2 C4 C7 CQ
+C3 CK CA C8
+DK D5 D7 D3
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "11"]
+[West "Lauria"]
+[North "Lewis"]
+[East "Versace"]
+[South "Ferguson"]
+[Vulnerable "None"]
+[Deal "S:T65.T9.T984.K752 AJ742.J75.QJ7.T3 K3.AK42.52.AQJ84 Q98.Q863.AK63.96"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 2S 3C Pass
+4C Pass Pass Pass
+[Declarer "N"]
+[Contract "4C"]
+[Play "E"]
+DA D4 DQ D2
+D6 DT DJ D5
+S9 S5 S2 SK
+C6 C2 C3 CQ
+C9 C5 CT CA
+*
+[Result "10"]
+[Score "+130"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "12"]
+[West "Lauria"]
+[North "Lewis"]
+[East "Versace"]
+[South "Ferguson"]
+[Vulnerable "NS"]
+[Deal "S:54.AKT6.AT32.Q84 T873.74.J9.KT965 AK92.952.KQ7.J73 QJ6.QJ83.8654.A2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass 4H
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+S7 SA S6 S5
+CK CJ C2 C4
+S8 SK SJ S4
+C5 C3 CA C8
+S3 S2 SQ H6
+C6 C7 H3 CQ
+D9 DQ D4 D3
+H4 H2 H8 HT
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "13"]
+[West "Greco"]
+[North "Hamman"]
+[East "Hampson"]
+[South "Goren"]
+[Vulnerable "Both"]
+[Deal "S:KQJ9.K52.T753.JT 3.QJT6.AQJ8.KQ83 8752.874.K94.A54 AT64.A93.62.9762"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S X
+2S Pass Pass X
+Pass 3C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+SK S3 S2 SA
+D7 DQ DK D6
+HK H6 H4 H3
+SJ C3 S5 S4
+CT CK C4 C2
+H2 HT H7 HA
+S9 C8 S7 S6
+CJ CQ CA C6
+SQ D8 S8 ST
+D3 DJ D4 D2
+- DA D9 H9
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "14"]
+[West "Greco"]
+[North "Hamman"]
+[East "Hampson"]
+[South "Goren"]
+[Vulnerable "None"]
+[Deal "S:63.AT875.T743.93 A72.QJ963.J86.A8 KQJ4.42.A2.KJT54 T985.K.KQ95.Q762"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H X
+XX Pass Pass 1S
+X 2D Pass Pass
+X Pass Pass 3C
+X Pass Pass Pass
+[Declarer "N"]
+[Contract "3CX"]
+[Play "E"]
+C2 C3 CA C4
+CQ C9 C8 C5
+HK H5 H9 H4
+C6 H7 H3 CT
+C7 D3 H6 CK
+D5 H8 D6 CJ
+S5 S3 SA SQ
+ST S6 S7 SK
+S8 D4 S2 SJ
+*
+[Result "7"]
+[Score "-300"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "15"]
+[West "Cohen"]
+[North "Hamman"]
+[East "Berkowitz"]
+[South "Goren"]
+[Vulnerable "NS"]
+[Deal "S:AKJ.97.QJ.AQ7654 Q9.T832.T543.KJ3 T7652.64.A876.82 843.AKQJ5.K92.T9"]
+[Dealer "S"]
+[Auction "S"]
+1C Pass Pass 1H
+2C 2H 2S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+HK H7 H2 H6
+S4 SA S9 S5
+CT C4 CJ C2
+DK DJ D4 D8
+HQ H9 H3 H4
+HJ C5 H8 S2
+S3 SK SQ S6
+C9 CA C3 C8
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "16"]
+[West "Cohen"]
+[North "Hamman"]
+[East "Berkowitz"]
+[South "Goren"]
+[Vulnerable "EW"]
+[Deal "S:AQ853.9.AQ853.62 T96.K875.KT9.AT7 72.AQJT32..KJ843 KJ4.64.J7642.Q95"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+D2 DQ DK H2
+C5 C6 C7 C3
+H4 H9 H5 H3
+CQ C2 CT CJ
+S4 SQ S6 S7
+SK SA S9 S2
+SJ S3 ST HT
+H6 D3 H7 HA
+D6 D5 HK HJ
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "17"]
+[West "Albert"]
+[North "Jacobus"]
+[East "Weichsel"]
+[South "Sontag"]
+[Vulnerable "None"]
+[Deal "S:75.Q632.87654.T9 A864.J.AJ92.KQ87 QT.KT95.QT3.A532 KJ932.A874.K.J64"]
+[Dealer "N"]
+[Auction "N"]
+1D 1S Pass 2D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CT CK CA C6
+C9 CQ C2 C4
+S5 SA ST S2
+- S4 SQ -
+*
+[Result "12"]
+[Score "+480"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "18"]
+[West "Albert"]
+[North "Jacobus"]
+[East "Weichsel"]
+[South "Sontag"]
+[Vulnerable "NS"]
+[Deal "S:QT64.QT52.K5.753 K975.K73.982.JT6 J82.J.AJT764.KQ4 A3.A9864.Q3.A982"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 2H 3D
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+SA S4 S7 S2
+S3 S6 SK S8
+D3 ST S9 SJ
+H6 H2 HK HJ
+DQ SQ S5 DJ
+C2 C3 CT CK
+*
+[Result "6"]
+[Score "-300"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "19"]
+[West "Greco"]
+[North "Levin"]
+[East "Hampson"]
+[South "Baldwin"]
+[Vulnerable "EW"]
+[Deal "S:76.A3.J643.AJT62 AT84.742.97.Q843 J952.QJ965.KT.K7 KQ3.KT8.AQ852.95"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2H 2NT
+Pass Pass Pass
+[Declarer "E"]
+[Contract "2NT"]
+[Play "S"]
+CJ CQ CK C5
+CT C3 C7 C9
+CA C4 H5 D5
+C6 C8 S2 D2
+D4 D9 DK DA
+S6 S4 S5 SK
+S7 S8 S9 SQ
+D3 SA SJ S3
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "20"]
+[West "Greco"]
+[North "Levin"]
+[East "Hampson"]
+[South "Baldwin"]
+[Vulnerable "Both"]
+[Deal "S:AK9.AQT42.J9.T98 8.9753.T532.AQ52 JT65.KJ.AQ4.J763 Q7432.86.K876.K4"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D6 D9 DT DQ
+S4 S9 S8 S6
+H6 H2 H3 HK
+H8 H4 H5 HJ
+*
+[Result "10"]
+[Score "+630"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "21"]
+[West "Goldfein"]
+[North "Greco"]
+[East "Polowan"]
+[South "Hampson"]
+[Vulnerable "NS"]
+[Deal "S:Q986.J72.KQJ3.J3 AT4.A965.A2.AKT9 KJ5.QT3.74.76542 732.K84.T9865.Q8"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D X
+Pass 1H Pass 4H
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+DK DA D4 D5
+DQ D2 D7 DT
+C3 C9 C7 C8
+CJ CT C6 CQ
+DJ H5 HT D9
+H2 CK C5 S2
+D3 H9 HQ D6
+HJ CA C4 H8
+*
+[Result "7"]
+[Score "-150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "22"]
+[West "Goldfein"]
+[North "Greco"]
+[East "Polowan"]
+[South "Hampson"]
+[Vulnerable "EW"]
+[Deal "S:K84.94.Q9763.JT9 AT2.AJ8.AT42.Q82 J65.KQ62.KJ8.765 Q973.T753.5.AK43"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+2NT Pass Pass Pass
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+H2 H3 H9 HJ
+C7 CA C9 C2
+S5 SQ S4 S2
+S6 S3 S8 SA
+SJ S7 SK ST
+D8 D5 D9 DA
+*
+[Result "9"]
+[Score "+150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "23"]
+[West "Albert"]
+[North "Seamon"]
+[East "Weichsel"]
+[South "Tudor"]
+[Vulnerable "Both"]
+[Deal "S:764.Q54.AK854.AQ AQ52.A7.QT763.54 KT983.8.J.KJ8732 J.KJT9632.92.T96"]
+[Dealer "S"]
+[Auction "S"]
+1NT 2D 4S Pass
+Pass X Pass 5H
+X Pass Pass Pass
+[Declarer "E"]
+[Contract "5HX"]
+[Play "S"]
+DA D3 DJ D2
+D4 D6 H8 D9
+CQ C4 C2 CT
+CA C5 C8 C9
+S4 SA ST SJ
+D5 D7 S3 H2
+S7 H7 C3 C6
+- HA C7 -
+*
+[Result "8"]
+[Score "-800"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "24"]
+[West "Albert"]
+[North "Seamon"]
+[East "Weichsel"]
+[South "Tudor"]
+[Vulnerable "None"]
+[Deal "S:63.9752.953.AK84 AK84.AQ84.AJT6.5 JT97.JT3.874.932 Q52.K6.KQ2.QJT76"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 2NT Pass
+4NT Pass Pass Pass
+[Declarer "E"]
+[Contract "4NT"]
+[Play "S"]
+C4 C5 C9 CJ
+D9 D6 D4 DQ
+D5 DT D7 D2
+D3 DA D8 DK
+S3 DJ C3 C7
+S6 SK S7 S2
+H2 S4 ST SQ
+H5 SA SJ S5
+H7 H4 HT HK
+H9 HA H3 H6
+*
+[Result "12"]
+[Score "+490"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "25"]
+[West "Greco"]
+[North "Edstrand"]
+[East "Hampson"]
+[South "Nilsson"]
+[Vulnerable "EW"]
+[Deal "S:A983.75.AJ5.AK54 KQ652.J2.KQ987.6 J74.K643.32.T982 T.AQT98.T64.QJ73"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT 2D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2D"]
+[Play "N"]
+D3 D4 DJ DK
+H3 H8 H5 HJ
+H4 HA H7 H2
+S7 ST SA S2
+D2 D6 DA D7
+H6 DT D5 DQ
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "26"]
+[West "Greco"]
+[North "Edstrand"]
+[East "Hampson"]
+[South "Nilsson"]
+[Vulnerable "Both"]
+[Deal "S:AQ98.J8.A976.J85 J754.A932.QT.K64 T63.6.K532.QT972 K2.KQT754.J84.A3"]
+[Dealer "E"]
+[Auction "E"]
+1H X 3C X
+4H Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+C5 C4 CQ CA
+D6 DQ DK D8
+SQ S4 S3 S2
+SA S5 S6 SK
+DA DT D2 D4
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "27"]
+[West "Shugart"]
+[North "Greco"]
+[East "Robson"]
+[South "Hampson"]
+[Vulnerable "None"]
+[Deal "S:AT8642.8.Q762.73 KQ7.AJT43.A53.J4 J.KQ9.KT84.AKT85 953.7652.J9.Q962"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass Pass
+2S Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+CJ CA C6 C3
+S7 SJ S3 SA
+HA H9 H2 H8
+DA D4 D9 D2
+D5 DK DJ D6
+H3 HK H5 D7
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "28"]
+[West "Shugart"]
+[North "Greco"]
+[East "Robson"]
+[South "Hampson"]
+[Vulnerable "NS"]
+[Deal "S:6543.Q985.QJ72.7 92.T632.985.JT83 AK7.AK74.AK43.KQ QJT8.J.T6.A96542"]
+[Dealer "W"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3C
+Pass 3H Pass 3S
+Pass 4NT Pass 5C
+Pass 6H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+CA C7 CT CQ
+SQ S3 S9 SA
+HJ H5 H2 HA
+C2 HQ H3 H4
+*
+[Result "11"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "29"]
+[West "Lauria"]
+[North "Levin"]
+[East "Versace"]
+[South "Baldwin"]
+[Vulnerable "Both"]
+[Deal "S:QJ954.T3.Q9.AQ52 A73.QJ.J865.KJT6 K86.97642.AKT.87 T2.AK85.7432.943"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 2S Pass
+2NT Pass 3S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+HQ H2 HK H3
+C6 C7 C4 CA
+D5 DT D2 DQ
+D6 DK D3 D9
+D8 DA D4 HT
+CK C8 C9 CQ
+HJ H4 H5 S4
+CJ S6 C3 C2
+SA SK S2 S5
+S3 S8 ST SQ
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.10"]
+[Round "3"]
+[Board "30"]
+[West "Lauria"]
+[North "Levin"]
+[East "Versace"]
+[South "Baldwin"]
+[Vulnerable "None"]
+[Deal "S:Q763.Q.Q2.KT9876 T4.J42.J9874.A32 AJ2.AT765.A6.QJ4 K985.K983.KT53.5"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2H
+Pass 3NT Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D3 DQ D9 D6
+C5 C6 C2 CQ
+S5 C7 C3 C4
+SK S3 S4 SJ
+DK D2 D7 DA
+S8 S7 ST SA
+S9 SQ H2 S2
+H3 S6 H4 H5
+H8 HQ HJ HA
+*
+[Result "8"]
+[Score "-50"]
+
+% PBN 1.0
+%
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "1"]
+[West "Versace"]
+[North "Goldfein"]
+[East "Lauria"]
+[South "Polowan"]
+[Vulnerable "None"]
+[Deal "S:A.K743.AK984.752 K93.AJ852.3.KT98 J654.QT96.652.J4 QT872..QJT7.AQ63"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S X XX
+2H Pass Pass X
+Pass 3NT Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+DK D3 D2 D7
+HK H2 H6 S2
+DA S3 D5 DQ
+SA SK S4 S7
+H3 HA H9 C3
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "2"]
+[West "Versace"]
+[North "Goldfein"]
+[East "Lauria"]
+[South "Polowan"]
+[Vulnerable "NS"]
+[Deal "S:A8753.T7.A85.QT9 T2.K6543.QJT.J86 KQ64.AQ8.743.K53 J9.J92.K962.A742"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H X
+XX Pass Pass 1S
+2H 3S Pass 4S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HJ H7 H6 HQ
+S9 S3 S2 SK
+SJ S5 ST SQ
+H2 HT H3 HA
+H9 S7 H4 H8
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "3"]
+[West "Tudor"]
+[North "Maas"]
+[East "Seamon"]
+[South "Van der Neut"]
+[Vulnerable "EW"]
+[Deal "S:K2.AQ9.AKJ7.K642 Q9763.JT64.Q84.A AT84.K32.T632.98 J5.875.95.QJT753"]
+[Dealer "S"]
+[Auction "S"]
+2NT Pass 3C X
+3D Pass 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S6 S8 SJ SK
+D4 D2 D5 DA
+S3 ST S5 S2
+DQ D3 D9 DJ
+SQ SA CQ C2
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "4"]
+[West "Tudor"]
+[North "Maas"]
+[East "Seamon"]
+[South "Van der Neut"]
+[Vulnerable "Both"]
+[Deal "S:T3.QT862.T942.A3 Q874.954.Q76.K85 K5.AK3.AKJ53.T76 AJ962.J7.8.QJ942"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1S X
+3S 3NT 4S 5D
+Pass Pass Pass
+[Declarer "N"]
+[Contract "5D"]
+[Play "E"]
+CQ CA C8 C6
+D8 DT D7 D3
+S9 D2 D6 DA
+S2 D4 DQ DK
+H7 H2 H4 HA
+HJ H6 H5 HK
+C2 HQ H9 H3
+*
+[Result "12"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "5"]
+[West "Nilsson"]
+[North "Versace"]
+[East "Edstrand"]
+[South "Lauria"]
+[Vulnerable "NS"]
+[Deal "S:KJ872.KT72.97.Q4 9653.J854.QJT.92 4.96.A6543.AKJ53 AQT.AQ3.K82.T876"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 2S Pass
+2NT Pass 3C Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3C"]
+[Play "W"]
+C9 CA C6 C4
+S3 S4 SA S2
+C2 C3 C7 CQ
+S5 H6 ST SK
+DT D3 D2 D7
+S6 H9 SQ S7
+H8 C5 HA H2
+H4 CK C8 H7
+H5 CJ CT HT
+DJ D4 DK D9
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "6"]
+[West "Nilsson"]
+[North "Versace"]
+[East "Edstrand"]
+[South "Lauria"]
+[Vulnerable "EW"]
+[Deal "S:A75.9862.632.862 J2.543.KJ9.AJT95 Q94.T.QT875.KQ74 KT863.AKQJ7.A4.3"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass
+3H Pass 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+C6 CA C4 C3
+H2 H3 HT HA
+H6 H4 D5 HK
+S5 SJ SQ S3
+C8 C5 CK H7
+SA S2 S4 SK
+C2 C9 CQ HJ
+H8 H5 C7 HQ
+S7 D9 S9 ST
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "7"]
+[West "Shugart"]
+[North "Versace"]
+[East "Robson"]
+[South "Lauria"]
+[Vulnerable "Both"]
+[Deal "S:AQ8652.QT7.A9.J7 KJ.KJ52.Q8643.96 T3.A643.J7.KQ532 974.98.KT52.AT84"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 1NT Pass
+2S Pass 2NT Pass
+3NT Pass 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+C9 C2 C4 CJ
+C6 CK CA C7
+HJ H3 H9 HT
+HK HA H8 H7
+SJ CQ CT D9
+H2 H4 S4 HQ
+SK C3 C8 S5
+*
+[Result "8"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "8"]
+[West "Shugart"]
+[North "Versace"]
+[East "Robson"]
+[South "Lauria"]
+[Vulnerable "None"]
+[Deal "S:KJ64.T85.K987.K2 AQ7.KQ6.J2.AQ863 T985.943.T543.JT 32.AJ72.AQ6.9754"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass
+2NT Pass 3C Pass
+3H Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+ST S2 S4 SQ
+H3 H2 H8 HK
+CT C4 C2 CA
+H9 HJ H5 H6
+CJ C9 CK C3
+S5 S3 S6 SA
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "9"]
+[West "Lauria"]
+[North "Bramley"]
+[East "Versace"]
+[South "Lazard"]
+[Vulnerable "EW"]
+[Deal "S:KT83.83.K43.Q965 Q54.A964.QJT.AKJ J9.KQT752.A52.T4 A762.J.9876.8732"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1NT Pass
+2H Pass Pass Pass
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+D9 D3 DJ DA
+S2 S3 SQ SJ
+C2 C5 CK C4
+D6 DK DQ D2
+HJ H3 H4 HT
+C8 C6 CJ CT
+D7 D4 DT D5
+SA S8 S5 S9
+C7 C9 CA H2
+C3 H8 H6 HK
+*
+[Result "5"]
+[Score "-150"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "10"]
+[West "Lauria"]
+[North "Bramley"]
+[East "Versace"]
+[South "Lazard"]
+[Vulnerable "Both"]
+[Deal "S:AQ53.AQ764.KJ.A7 K64.J2.A982.K842 T9.K95.T76543.Q6 J872.T83.Q.JT953"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+C2 CQ CJ C7
+SK ST S2 S3
+C8 C6 C3 CA
+H2 HK H3 H4
+HJ H9 HT HA
+D9 H5 H8 HQ
+D2 D3 DQ H7
+S4 D4 C5 H6
+S6 S9 SJ SA
+D8 D5 S7 SQ
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "11"]
+[West "Sontag"]
+[North "Steiner"]
+[East "Jacobus"]
+[South "Kasle"]
+[Vulnerable "None"]
+[Deal "S:AK64.93.KQJ98.95 Q985.KQ872.73.Q7 JT73.AJ6.2.JT862 2.T54.AT654.AK43"]
+[Dealer "S"]
+[Auction "S"]
+1D 1H X 2D
+2S Pass Pass 3H
+3S Pass Pass X
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3SX"]
+[Play "W"]
+HK HA H4 H9
+SQ SJ S2 S4
+CQ C2 C4 C5
+C7 C6 CK C9
+D3 C8 CA SK
+S8 ST D6 S6
+D7 D2 DA D8
+*
+[Result "7"]
+[Score "-300"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "12"]
+[West "Sontag"]
+[North "Steiner"]
+[East "Jacobus"]
+[South "Kasle"]
+[Vulnerable "NS"]
+[Deal "S:A98.KQ3.AJ54.AJ3 42.JT98752.QT.KT K763.A64.873.864 QJT5..K962.Q9752"]
+[Dealer "W"]
+[Auction "W"]
+3H Pass Pass 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+HT H4 C2 HQ
+S2 S3 ST S9
+CK C4 C5 CJ
+CT C6 CQ C3
+H2 C8 C9 CA
+H5 H6 D2 HK
+H7 HA C7 H3
+DT D8 D6 DA
+S4 S6 S5 SA
+H8 SK SJ S8
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "13"]
+[West "Lanzarotti"]
+[North "Smith"]
+[East "Buratti"]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:AJ76.J75.AJ8.T76 943.Q63.K65.AJ94 K52.KT984.Q74.32 QT8.A2.T932.KQ85"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S Pass
+2S Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+S3 S2 SQ SA
+H6 HT H2 H5
+DK D4 D2 DJ
+H3 H9 HA HJ
+C4 C2 CK C7
+CJ C3 C5 CT
+HQ H4 S8 H7
+D5 D7 D3 DA
+S4 S5 ST SJ
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "14"]
+[West "Lanzarotti"]
+[North "Smith"]
+[East "Buratti"]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:93.J943.KQJT9.A6 876.AT82.A7.9742 J54.K6.86432.KT5 AKQT2.Q75.5.QJ83"]
+[Dealer "E"]
+[Auction "E"]
+1S 2D X 2NT
+3C Pass 3S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+DK DA D2 D5
+S3 S6 S4 SA
+S9 S7 S5 SK
+CA C2 C5 CQ
+DQ D7 D8 S2
+H4 HA H6 H5
+C6 C7 CK C3
+D9 C4 CT CJ
+DT S8 SJ SQ
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "15"]
+[West "Kasle"]
+[North "Boyd"]
+[East "Steiner"]
+[South "Robinson"]
+[Vulnerable "NS"]
+[Deal "S:A.AKJT74.95.AQ65 KQT9.92.Q82.T974 J8742.653.T64.J2 653.Q8.AKJ73.K83"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass Pass 2D
+2H 3D 3H Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+D2 D4 DK D5
+DQ D6 DA D9
+H2 H3 H8 HA
+C7 CJ CK C5
+- - HQ -
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "16"]
+[West "Kasle"]
+[North "Boyd"]
+[East "Steiner"]
+[South "Robinson"]
+[Vulnerable "EW"]
+[Deal "S:KQ62.A5.QJT64.K5 T5.KT43.98.QJT98 J.Q98762.752.742 A98743.J.AK3.A63"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1S 1NT
+2C 2D 2S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+DQ D8 D7 DA
+D4 D9 D5 DK
+D6 S5 D2 D3
+S2 ST SJ SA
+SQ C8 C7 S9
+HA H3 H2 HJ
+DJ H4 H9 S3
+SK C9 C2 S8
+DT HT H6 S4
+S6 CT H7 S7
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "17"]
+[West "Schwartz"]
+[North "Versace"]
+[East "Lair"]
+[South "Lauria"]
+[Vulnerable "None"]
+[Deal "S:6.A7642.AKJT2.T5 AKQ9875.853.7.J2 32.QJ.6543.AQ843 JT4.KT9.Q98.K976"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H 1S
+X 2S 3D 3S
+Pass Pass X Pass
+4H Pass Pass 4S
+X Pass Pass Pass
+[Declarer "W"]
+[Contract "4SX"]
+[Play "N"]
+HQ HK HA H3
+HJ H9 H7 H5
+D6 D8 DJ D7
+D5 D9 DK S7
+S2 SJ S6 S5
+S3 S4 H2 SA
+CA C6 C5 CJ
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "18"]
+[West "Schwartz"]
+[North "Versace"]
+[East "Lair"]
+[South "Lauria"]
+[Vulnerable "NS"]
+[Deal "S:K76.AT7.A543.A72 3.QJ965432.T7.63 AQ9852.K.K92.984 JT4.8.QJ86.KQJT5"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT 4H 4S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+CK CA C3 C4
+S4 S6 S3 SA
+ST S7 H2 SQ
+SJ SK H3 S2
+H8 H7 H4 HK
+C5 C2 H5 S9
+CT C7 H6 S8
+D6 D3 D7 D2
+CJ HA HQ C8
+- HT HJ S5
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "19"]
+[West "Lauria"]
+[North "Martel"]
+[East "Versace"]
+[South "Chagas"]
+[Vulnerable "EW"]
+[Deal "S:K64.752.KQ8432.K AJ95.J9.J975.742 Q2.KQ643.6.QJ983 T873.AT8.AT.AT65"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+D6 DA D4 D7
+H6 DT DQ D5
+C8 C5 CK C2
+HQ HA H2 H9
+HK H8 H7 HJ
+CQ CA S4 C4
+SQ C6 D2 D9
+CJ CT D3 C7
+H3 HT H5 DJ
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "20"]
+[West "Lauria"]
+[North "Martel"]
+[East "Versace"]
+[South "Chagas"]
+[Vulnerable "Both"]
+[Deal "S:Q7.AJ8532.KJ9.A5 AK2.T7.Q43.QJ983 J98.Q94.AT762.76 T6543.K6.85.KT42"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1S 2H
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+HA H7 H4 H6
+DJ D3 D7 D5
+DK D4 D2 D8
+CA C3 C6 C2
+D9 DQ DA S3
+S7 SA S8 S4
+SQ SK S9 S5
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "21"]
+[West "Lanzarotti"]
+[North "Richman"]
+[East "Buratti"]
+[South "Burgess"]
+[Vulnerable "NS"]
+[Deal "S:K94.K62.J85.K543 65.JT8.AQ64.JT72 Q72.AQ9743.732.9 AJT83.5.KT9.AQ86"]
+[Dealer "N"]
+[Auction "N"]
+2H X Pass 3C
+Pass 3D Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+H2 H8 HA H5
+CK C2 C9 CQ
+HK HT H3 D9
+C3 CJ D3 C8
+S4 S5 S2 SA
+SK S6 S7 SJ
+C4 C7 D2 C6
+DJ DA D7 DT
+D5 D4 H4 DK
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "22"]
+[West "Lanzarotti"]
+[North "Richman"]
+[East "Buratti"]
+[South "Burgess"]
+[Vulnerable "EW"]
+[Deal "S:J82.K8.KJT7.8643 975.J53.Q42.AJT2 Q4.QT9742.A9.KQ7 AKT63.A6.8653.95"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2S 3H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+SA S2 S9 S4
+C5 C4 CA C7
+C9 C3 C2 CK
+HA H8 H3 H2
+SK S8 S5 SQ
+H6 HK H5 H4
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "23"]
+[West "Lanzarotti"]
+[North "Larsen"]
+[East "Buratti"]
+[South "Silver"]
+[Vulnerable "Both"]
+[Deal "S:JT6.AJ32.QT93.76 Q875.Q965.642.98 93.K874.AJ7.AQJ4 AK42.T.K85.KT532"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1S
+X 2S 3H Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+SA S6 S5 S9
+SK ST S7 S3
+S2 SJ SQ H4
+HT HJ HQ H7
+CK C6 C8 CQ
+C2 C7 C9 CA
+C3 H2 H5 HK
+D8 HA H6 H8
+DK DT D2 D7
+D5 D3 D4 DA
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "24"]
+[West "Lanzarotti"]
+[North "Larsen"]
+[East "Buratti"]
+[South "Silver"]
+[Vulnerable "None"]
+[Deal "S:K98732.4.Q.A9874 QT6.T95.KT98543. A4.KQ82.AJ62.JT3 J5.AJ763.7.KQ652"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass 2D
+3D X Pass 3S
+Pass 3NT Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H9 HK HA H4
+DK DA D7 DQ
+S6 CJ C2 C4
+DT DJ SJ C7
+SQ C3 CK CA
+H5 HQ H7 C8
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "25"]
+[West "Greco"]
+[North "Meckstroth"]
+[East "Hampson"]
+[South "Johnson"]
+[Vulnerable "EW"]
+[Deal "S:J865.T9763.AQ8.4 KT9.K82.753.KJ85 A742.Q54.J2.AT62 Q3.AJ.KT964.Q973"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2H Pass
+Pass X Pass 2S
+Pass 2NT Pass 3C
+X Pass Pass Pass
+[Declarer "W"]
+[Contract "3CX"]
+[Play "N"]
+C2 C3 C4 C5
+D2 DT DQ D3
+SA S3 S5 ST
+H4 HJ H7 H2
+C6 C7 H3 CK
+CA C9 H6 C8
+DJ DK DA D5
+CT D4 D8 D7
+*
+[Result "8"]
+[Score "-200"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "26"]
+[West "Greco"]
+[North "Meckstroth"]
+[East "Hampson"]
+[South "Johnson"]
+[Vulnerable "Both"]
+[Deal "S:AQ932.9.KT82.Q96 KJ64.KT864.Q.K82 87.A7532.J95.A54 T5.QJ.A7643.JT73"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2D Pass 2H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+CJ CQ CK CA
+CT C6 C2 C5
+S5 SQ SK S7
+HJ H9 H4 H3
+ST SA S4 S8
+HQ S2 S6 H2
+C3 C9 C8 C4
+D3 S3 SJ H5
+DA D2 DQ D5
+*
+[Result "5"]
+[Score "-300"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "27"]
+[West "Birolo"]
+[North "Greco"]
+[East "De Falco"]
+[South "Hampson"]
+[Vulnerable "None"]
+[Deal "S:Q9643..AQJT4.QJ3 K7.A9763.96.6542 AJT2.K5.753.AK98 85.QJT842.K82.T7"]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2NT Pass
+4D Pass 4H Pass
+4S Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HA H5 H2 S3
+S7 SJ S5 S4
+*
+[Result "13"]
+[Score "+510"]
+
+[Event "1997 Cavendish Invitational Pairs Tournament"]
+[Site "The Mirage Hotel, Las Vegas, Nevada, USA"]
+[Date "1997.05.11"]
+[Round "4"]
+[Board "28"]
+[West "Birolo"]
+[North "Greco"]
+[East "De Falco"]
+[South "Hampson"]
+[Vulnerable "NS"]
+[Deal "S:J62.42.QJ9.J8763 Q3.QJ6.K7653.KT4 AT74.AK95.84.Q95 K985.T873.AT2.A2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C X Pass
+2NT Pass Pass Pass
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+H5 H7 H2 H6
+HK H3 H4 HQ
+HA H8 C3 HJ
+C5 C2 CJ CK
+S4 SK S2 S3
+D4 D2 D9 D5
+SA S5 SJ SQ
+C9 CA C6 C4
+H9 HT S6 CT
+D8 DA DJ D3
+*
+[Result "9"]
+[Score "+150"]
+

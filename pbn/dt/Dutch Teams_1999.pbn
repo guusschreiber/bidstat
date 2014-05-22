@@ -1,0 +1,5506 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[HomeTeam "Crash"]
+[VisitTeam "Hok TS"]
+[Round "1"]
+[Board "1"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:75.AK974.K84.KQ2 KJT8.J62.9.AT654 A942.853.AQT7.73 Q63.QT.J6532.J98"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+H2 H3 HQ HA
+CA C3 C9 CK
+D9 DT DJ DK
+C4 C7 C8 CQ
+C5 H5 CJ C2
+H6 H8 HT HK
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "1"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:75.AK974.K84.KQ2 KJT8.J62.9.AT654 A942.853.AQT7.73 Q63.QT.J6532.J98"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H 1S
+X 2S X Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+ST SA S6 S5
+CA C3 C9 CK
+SK S2 S3 S7
+D9 DT DJ DK
+H6 H3 HQ HK
+H2 H5 HT HA
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "2"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:T9876.6.AK943.J8 A542.AQ.Q72.A543 QJ3.JT852.J5.KT6 K.K9743.T86.Q972"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 2D
+X 2H Pass Pass
+2S Pass Pass 3C
+3H Pass 3S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+CA C6 C2 C8
+HA H2 H4 H6
+HQ H5 H3 S6
+D2 D5 D6 DA
+D7 DJ D8 DK
+DQ SQ DT D4
+S2 SJ SK S7
+C3 CT C7 CJ
+S4 H8 H7 D3
+C4 CK - -
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "2"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:T9876.6.AK943.J8 A542.AQ.Q72.A543 QJ3.JT852.J5.KT6 K.K9743.T86.Q972"]
+[Dealer "S"]
+[Auction "S"]
+2S 2NT Pass 3D
+X Pass Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+SQ SK ST S4
+H5 H3 H6 HA
+C6 C2 C8 CA
+H2 H4 S6 HQ
+CT CQ CJ C4
+CK C7 D4 C3
+SJ H7 S9 SA
+H8 C9 D3 C5
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "3"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:T864.AQJ9.T6.Q75 A95.T876.AQ987.6 7.432.KJ542.AJ98 KQJ32.K5.3.KT432"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+S4 S5 S7 SJ
+D6 DQ DK D3
+HA H6 H3 HK
+HQ H7 H4 H5
+S6 SA H2 S2
+C7 C6 CA C4
+DT DA D4 C2
+H9 H8 D2 S3
+C5 HT C8 CK
+CQ S9 C9 C3
+- D7 DJ -
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "3"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:T864.AQJ9.T6.Q75 A95.T876.AQ987.6 7.432.KJ542.AJ98 KQJ32.K5.3.KT432"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D6 DA D2 D3
+C7 C6 CA C3
+HA H6 H4 HK
+HQ H7 H3 H5
+DT DQ DK S2
+C5 D7 C8 CK
+CQ S5 C9 C2
+H9 H8 H2 S3
+HJ S9 CJ C4
+S4 D8 D4 SJ
+S6 SA D5 CT
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "4"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:KT6.53.KQJ2.QJT2 952.QT.AT.AK9854 43.K98764.854.73 AQJ87.AJ2.9763.6"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3S
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CQ CA C3 C6
+H3 HQ H4 H2
+H5 HT H6 HJ
+ST DT H7 HA
+CJ CK C7 D6
+D2 DA D5 D7
+C2 C9 D8 S7
+DJ S5 D4 D3
+CT C4 H8 SQ
+DQ S9 H9 D9
+S6 S2 S3 SA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "4"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:KT6.53.KQJ2.QJT2 952.QT.AT.AK9854 43.K98764.854.73 AQJ87.AJ2.9763.6"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CQ CA C3 C6
+H3 HQ HK HA
+H5 HT H7 H2
+C2 CK C7 D3
+CJ C4 D4 S7
+CT DT H4 HJ
+D2 DA D5 D6
+SK S2 S3 SQ
+S6 S5 S4 S8
+*
+[Room "Closed"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "5"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:K2.Q9.752.A75432 Q94.JT.AQJ9864.8 JT87.K87543.3.T9 A653.A62.KT.KQJ6"]
+[Dealer "W"]
+[Auction "W"]
+3D Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+C4 C8 C9 CQ
+CA S4 CT CK
+C7 - - -
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+690"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "6"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:K762.86.8752.Q94 T854.QT72.63.AJ3 AQ3.K43.AKQJT4.8 J9.AJ95.9.KT7652"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+C7 C4 CJ C8
+C2 C9 CA H3
+CK CQ C3 S3
+CT D2 D3 D4
+C5 D5 D6 DT
+C6 S2 H2 SQ
+SJ S6 S4 SA
+D9 D7 S5 DA
+S9 D8 H7 DK
+H5 H6 S8 DQ
+H9 H8 ST DJ
+HJ S7 HQ H4
+*
+[Room "Open"]
+[Result "5"]
+[Score "-200"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "6"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:K762.86.8752.Q94 T854.QT72.63.AJ3 AQ3.K43.AKQJT4.8 J9.AJ95.9.KT7652"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D
+2C 2D Pass 3C
+X 3D Pass 3H
+X 3NT Pass Pass
+Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+HQ H3 H5 H6
+H2 H4 HJ H8
+HT HK HA D2
+H7 C8 H9 D5
+CJ D4 C5 C4
+CA - - -
+*
+[Room "Closed"]
+[Result "3"]
+[Score "-300"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "7"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:52.AT4.984.AT974 QT3.Q863.T.Q8532 AK64.J95.KJ652.J J987.K72.AQ73.K6"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D Pass 1NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+C2 CJ CK CA
+DT DJ DQ D8
+C3 S4 C6 CT
+H3 D2 D3 D9
+H6 DK DA D4
+S3 SA S9 S2
+C5 D6 D7 H4
+ST SK S8 S5
+C8 D5 H7 C4
+H8 H5 H2 HA
+CQ S6 S7 C9
+SQ H9 SJ -
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "7"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:52.AT4.984.AT974 QT3.Q863.T.Q8532 AK64.J95.KJ652.J J987.K72.AQ73.K6"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D X Pass
+1H 1S Pass 3D
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+H2 H4 HQ HJ
+DQ D4 DT DJ
+H7 HT H3 H5
+C6 CA C2 CJ
+CK C4 C3 D2
+HK HA H6 H9
+S7 S2 S3 SK
+S8 S5 ST SA
+S9 D8 SQ S4
+D7 C7 C5 D5
+DA D9 C8 D6
+D3 C9 H8 DK
+SJ CT CQ S6
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "8"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "Both"]
+[Deal "S:2.A9543.AT92.AT2 J9853.Q72.873.K7 KQ76.JT86.K5.Q63 AT4.K.QJ64.J9854"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 3D Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+S3 SK S4 S2
+H2 HJ HK HA
+D8 DK D4 D2
+D7 D5 D6 DA
+D3 H6 DJ D9
+S8 S6 ST H5
+SJ H8 DQ DT
+HQ HT C9 H3
+CK C3 C4 CA
+H7 S7 C5 H9
+S5 SQ SA H4
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "8"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:2.A9543.AT92.AT2 J9853.Q72.873.K7 KQ76.JT86.K5.Q63 AT4.K.QJ64.J9854"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 2NT Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+S3 SK SA S2
+S5 SQ ST C2
+D8 DK D4 D2
+D3 D5 D6 DA
+H2 H6 HK HA
+D7 H8 DJ D9
+S8 S7 S4 H3
+S9 HT DQ DT
+HQ HJ C4 H4
+SJ S6 C5 H5
+H7 C3 C8 H9
+- - - CA
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "9"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:T82.AK6.A65.A854 J9.T82.KJT9.QJ72 AK543.J7.8432.63 Q76.Q9543.Q7.KT9"]
+[Dealer "N"]
+[Auction "N"]
+2S Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H3 H6 HT HJ
+D7 D5 D9 D4
+CT CA CQ C3
+S6 S2 S9 SA
+S7 S8 SJ SK
+H4 HK H8 H7
+H5 HA H2 C6
+DQ DA DT D3
+H9 D6 DJ D8
+- - C2 S3
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "9"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:T82.AK6.A65.A854 J9.T82.KJT9.QJ72 AK543.J7.8432.63 Q76.Q9543.Q7.KT9"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass 2NT Pass
+3D Pass 3S Pass
+3NT Pass 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DT D2 D7 D6
+S9 SA S7 S2
+D9 D3 DQ DA
+DJ D4 H5 D5
+SJ SK S6 S8
+DK D8 CT ST
+H8 H7 H4 HA
+H2 HJ H3 HK
+*
+[Room "Closed"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "10"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:T.9854.Q8752.542 K962.A6.AKJ.QJ97 AJ873.KQT2.T9.63 Q54.J73.643.AKT8"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C 1S
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+ST SK SA S5
+D5 DJ DT D4
+C2 CQ C3 C8
+C4 C7 C6 CK
+C5 C9 S3 CT
+D2 CJ HT CA
+D7 DA D9 D3
+D8 DK H2 D6
+H4 S2 S7 SQ
+H5 HA HK H3
+H8 H6 HQ HJ
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+630"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "11"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:Q9.K9752.87.9765 T5.Q864.KJ94.J83 AKJ74.JT.QT3.KQ4 8632.A3.A652.AT2"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2D Pass 2H Pass
+Pass Pass
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+S6 SQ S5 S7
+HA H2 H4 HJ
+S2 S9 ST SK
+H3 HK H6 HT
+D2 H5 H8 S4
+DA D7 D9 DT
+S3 D8 HQ SJ
+CA C5 C3 CK
+C2 C6 CJ CQ
+S8 C7 - SA
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "11"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:Q9.K9752.87.9765 T5.Q864.KJ94.J83 AKJ74.JT.QT3.KQ4 8632.A3.A652.AT2"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "1S"]
+[Play "E"]
+DA D7 D4 D3
+D2 D8 DK DT
+CA C5 C3 CQ
+D5 H2 D9 DQ
+S3 SQ S5 S4
+S2 S9 ST SK
+S6 H5 DJ SA
+S8 H7 H4 SJ
+C2 C6 C8 CK
+CT C7 CJ C4
+*
+[Room "Closed"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "12"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:AKQJ95.K.K86.K74 T862.AQ3.AT72.A8 7.T9752.J53.JT65 43.J864.Q94.Q932"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass 3S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+DA D3 D4 D8
+D2 DJ DQ DK
+S2 S7 S3 SA
+S6 D5 S4 SK
+S8 H2 H4 SQ
+ST H5 C2 SJ
+C8 CJ CQ C4
+HA H7 H6 HK
+HQ H9 H8 S5
+CA C5 C3 CK
+DT HT D9 D6
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "12"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:AKQJ95.K.K86.K74 T862.AQ3.AT72.A8 7.T9752.J53.JT65 43.J864.Q94.Q932"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1H X
+XX 2C Pass 2S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+S2 S7 S3 S9
+S6 H2 S4 SA
+S8 H5 H4 SK
+ST H7 C3 SQ
+C8 C5 C2 CK
+HA H9 H6 HK
+CA C6 C9 C7
+HQ HT HJ S5
+D2 CT CQ C4
+H3 CJ H8 SJ
+D7 D3 D9 D8
+DA D5 D4 DK
+DT DJ DQ D6
+*
+[Room "Closed"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "13"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "Both"]
+[Deal "S:QJT.KQ32.7.QJ874 8753.A5.KQ43.KT5 A92.J8764.985.A6 K64.T9.AJT62.932"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass Pass X
+2H 3D 3H Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+HT H2 HA H4
+C3 C4 C5 CA
+H9 HK H5 H6
+C2 CQ CK C6
+D6 D7 DK D5
+SK ST S8 S2
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "13"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "Both"]
+[Deal "S:QJT.KQ32.7.QJ874 8753.A5.KQ43.KT5 A92.J8764.985.A6 K64.T9.AJT62.932"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C Pass
+1H Pass 2H Pass
+2NT Pass 4H Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+S4 SQ S3 S9
+C3 CQ C5 C6
+D6 D7 DQ D5
+SK ST S5 S2
+S6 SJ S7 SA
+DT H2 D3 D8
+H9 HK HA H4
+HT HQ H5 H7
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "14"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "NS"]
+[Deal "S:T.K2.QJ972.AJ983 J92.9765.K65.T42 A8763.AQJT.AT3.5 KQ54.843.84.KQ76"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2H Pass
+2NT Pass 3D Pass
+3H Pass 3S Pass
+3NT Pass 4C Pass
+4D Pass 4NT Pass
+5C Pass 6D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "6D"]
+[Play "W"]
+H7 HT H8 HK
+H5 HJ H4 H2
+H6 HQ H3 C3
+S2 SA S4 ST
+S9 S3 SK D2
+C2 C5 C6 CA
+C4 D3 C7 C8
+SJ S6 S5 D7
+CT DT CQ C9
+H9 HA D8 D9
+D5 DA CK CJ
+*
+[Room "Open"]
+[Result "12"]
+[Score "+1370"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "14"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "NS"]
+[Deal "S:T.K2.QJ972.AJ983 J92.9765.K65.T42 A8763.AQJT.AT3.5 KQ54.843.84.KQ76"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2H Pass
+3C Pass 3D Pass
+3NT Pass 4H Pass
+4NT Pass 5C Pass
+5NT Pass 6D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "6D"]
+[Play "W"]
+S2 SA S4 ST
+H5 HT H3 HK
+H6 HA H4 H2
+H7 HQ H8 C3
+S9 S3 SK D2
+C2 C5 C6 CA
+C4 D3 C7 C8
+SJ S6 S5 D7
+CT DT CQ C9
+H9 HJ D8 D9
+D5 DA CK CJ
+DK S7 SQ DQ
+D6 S8 D4 DJ
+*
+[Room "Closed"]
+[Result "12"]
+[Score "+1370"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "15"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "None"]
+[Deal "S:A842.64.T7632.K9 KQ93.JT8..QJT763 T75.KQ5.KQ954.52 J6.A9732.AJ8.A84"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S Pass
+1NT Pass 3H Pass
+4H Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D7 C3 DQ DA
+S2 S3 S7 SJ
+S4 SK S5 S6
+S8 S9 ST H2
+C9 C6 C2 CA
+D2 H8 D4 D8
+SA SQ C5 H3
+D3 HT D5 DJ
+H4 HJ HQ HA
+CK C7 D9 C4
+DT CT DK H9
+H6 CJ - C8
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "15"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "None"]
+[Deal "S:A842.64.T7632.K9 KQ93.JT8..QJT763 T75.KQ5.KQ954.52 J6.A9732.AJ8.A84"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S 2D
+Pass 4D 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D7 H8 D5 D8
+S2 S3 S7 SJ
+SA S9 ST S6
+S4 SK S5 C8
+S8 SQ H5 H7
+D2 HT D4 DJ
+CK CQ C2 C4
+H4 HJ HQ HA
+H6 C3 HK H3
+*
+[Room "Closed"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "16"]
+[West "De Bruijn"]
+[North "Van Prooijen"]
+[East "Gosschalk"]
+[South "De Wijs"]
+[Vulnerable "EW"]
+[Deal "S:QT543.AK8.J76.A6 J6.QT74.KQ984.K9 982.J963.3.QJ842 AK7.52.AT52.T753"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 1S
+X 2S Pass Pass
+3D Pass Pass Pass
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+D6 D4 D3 DT
+HA H4 H3 H5
+C6 CK C8 C7
+S5 S6 S9 SK
+HK H7 H6 H2
+CA C9 C2 C5
+SQ SJ S2 SA
+D7 D8 C4 DA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Round "1"]
+[Board "16"]
+[West "Nab"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Ramer"]
+[Vulnerable "EW"]
+[Deal "S:QT543.AK8.J76.A6 J6.QT74.KQ984.K9 982.J963.3.QJ842 AK7.52.AT52.T753"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C4 C3 CA C9
+C2 C5 C6 CK
+D3 D2 D7 DK
+S2 DA D6 D4
+S8 DT DJ DQ
+C8 D5 S3 D9
+H3 H2 S5 D8
+S9 SA S4 S6
+CQ SK ST SJ
+CJ C7 H8 H4
+H6 H5 HK H7
+*
+[Room "Closed"]
+[Result "8"]
+[Score "-100"]
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[HomeTeam "Hok TS"]
+[VisitTeam "Crash"]
+[Board "1"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q9872.QJ9.K32.K7 T54.A32.654.9865 63.T654.AQ987.A4 AKJ.K87.JT.QJT32"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "7"]
+[Room "Open"]
+[Round "2"]
+[Score "-100"]
+[Auction "N"]
+Pass Pass 1D X
+XX Pass 1NT Pass
+2D Pass Pass 3C
+Pass Pass Pass
+[Play "N"]
+D2 D4 DA DT
+SQ S5 S6 SJ
+S9 S4 S3 SK
+CK C5 C4 CQ
+S2 ST CA SA
+DK D6 D9 DJ
+D3 D5 D7 C2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "1"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q9872.QJ9.K32.K7 T54.A32.654.9865 63.T654.AQ987.A4 AKJ.K87.JT.QJT32"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "9"]
+[Room "Closed"]
+[Round "2"]
+[Score "+140"]
+[Auction "N"]
+Pass Pass 1D X
+1S Pass Pass Pass
+[Play "E"]
+H2 H4 HK H9
+C8 CA CQ C7
+HA H5 H8 HQ
+D6 D7 DT DK
+H3 H6 H7 HJ
+C5 C4 C3 CK
+D4 DA DJ D3
+S5 S6 SK S2
+S4 S3 SA S9
+C9 D8 CJ S8
+ST D9 SJ SQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "2"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ63.KQ4.QJ83.74 98.JT973.6.QT962 742.A852.A95.AK8 KJT5.6.KT742.J53"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Round "2"]
+[Score "+460"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 3NT Pass
+Pass Pass
+[Play "N"]
+D2 D3 D6 D9
+D4 D8 H7 DA
+DK DJ C6 D5
+SJ SQ S8 S2
+S5 S3 S9 S4
+C5 C4 CT CA
+ST SA C2 S7
+H6 H4 HJ HA
+D7 HK H3 H2
+DT HQ H9 H5
+C3 DQ C9 H8
+CJ C7 CQ CK
+SK S6 HT C8
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "2"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ63.KQ4.QJ83.74 98.JT973.6.QT962 742.A852.A95.AK8 KJT5.6.KT742.J53"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+430"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2H Pass 3NT Pass
+Pass Pass
+[Play "N"]
+C3 C4 CQ C8
+C5 C7 CT CA
+D2 DQ D6 D5
+DT D3 HJ DA
+DK D8 C2 D9
+CJ S3 C6 CK
+H6 HK H3 H5
+D4 DJ C9 S2
+S5 HQ H7 H2
+D7 H4 HT HA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "3"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJ32.AJ76.T9.T72 AQ5.K.Q8753.Q653 T9764.T2.AK642.9 8.Q98543.J.AKJ84"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Round "2"]
+[Score "+620"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 4H
+Pass Pass Pass
+[Play "S"]
+S2 SA S7 S8
+H6 HK H2 H4
+C2 C3 C9 CK
+HA D3 HT HQ
+DT D5 DA DJ
+D9 D7 DK H3
+HJ S5 D2 H9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "3"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJ32.AJ76.T9.T72 AQ5.K.Q8753.Q653 T9764.T2.AK642.9 8.Q98543.J.AKJ84"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 2C
+Pass 2D Pass 3C
+Pass 3NT Pass 4H
+Pass Pass Pass
+[Play "S"]
+DT D3 DK DJ
+C7 C3 C9 CA
+HA HK H2 H3
+CT C5 HT C4
+S2 SQ ST S8
+SJ S5 S4 H4
+H6 D5 D2 HQ
+HJ - - H9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "4"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ864.Q43.KT83.7 732.AKJT87.62.AK JT..AQJ.QT985432 K95.9652.9754.J6"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "11"]
+[Room "Open"]
+[Round "2"]
+[Score "+150"]
+[Auction "N"]
+1S 2H 3C Pass
+3D 3H 4C Pass
+Pass Pass
+[Play "W"]
+H5 H3 HT C5
+C6 C7 CK CQ
+H2 H4 HK C2
+CJ S4 CA C8
+- - HA -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "4"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ864.Q43.KT83.7 732.AKJT87.62.AK JT..AQJ.QT985432 K95.9652.9754.J6"]
+[Declarer "S"]
+[Contract "6CX"]
+[Result "11"]
+[Room "Closed"]
+[Round "2"]
+[Score "-200"]
+[Auction "N"]
+1S 2H 3C 3H
+Pass 4C 4D Pass
+5D X 6C Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+D7 D3 D2 DA
+CJ C7 CK C2
+H2 H3 HK C3
+C6 S4 CA C8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "5"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ9.K74.QJ7.A532 T754.9852.K985.7 86.Q.A42.KQJ9864 KQ32.AJT63.T63.T"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Round "2"]
+[Score "+630"]
+[Auction "W"]
+1NT Pass 2S Pass
+2NT Pass 3H X
+3NT Pass Pass Pass
+[Play "N"]
+H9 HQ HA H4
+H2 S6 H3 HK
+D5 DA D3 DQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "5"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ9.K74.QJ7.A532 T754.9852.K985.7 86.Q.A42.KQJ9864 KQ32.AJT63.T63.T"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+630"]
+[Auction "W"]
+1NT Pass 2S Pass
+2NT Pass 3H X
+Pass Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H8 HQ HA H4
+ST S6 S3 S9
+S7 S8 SQ SA
+C7 CK CT C2
+S5 CQ H6 C5
+D5 C4 H3 CA
+H2 C6 HT HK
+DK DA D3 DQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "6"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A.J7643.AJ72.A52 Q8432.K8.T54.Q76 KJ9.T952.K86.T93 T765.AQ.Q93.KJ84"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Room "Open"]
+[Round "2"]
+[Score "+170"]
+[Auction "E"]
+1H Pass 2H Pass
+Pass 2S Pass Pass
+3D Pass 3H Pass
+Pass Pass
+[Play "S"]
+S2 S9 ST SA
+H8 HT HQ H4
+CQ C3 C4 C2
+C7 C9 CJ CA
+D4 DK D3 D2
+S3 SK S5 C5
+D5 D6 D9 DJ
+HK H2 HA HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "6"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A.J7643.AJ72.A52 Q8432.K8.T54.Q76 KJ9.T952.K86.T93 T765.AQ.Q93.KJ84"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+170"]
+[Auction "E"]
+1H Pass 2H Pass
+Pass Pass
+[Play "S"]
+S2 S9 ST SA
+H8 HT HQ H3
+C7 C3 C4 CA
+D5 DK D3 D2
+S3 SK S5 C2
+D4 D6 D9 DJ
+HK H2 HA H4
+C6 C9 CK C5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "7"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AK52.A76.432.KQ5 QJT3.KJ53.J987.3 987.Q4.AKT5.AT72 64.T982.Q6.J9864"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Round "2"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "7"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AK52.A76.432.KQ5 QJT3.KJ53.J987.3 987.Q4.AKT5.AT72 64.T982.Q6.J9864"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+630"]
+[Auction "S"]
+1NT Pass 3NT Pass
+Pass Pass
+[Play "W"]
+SQ S7 S6 S2
+SJ S9 S4 SA
+D7 DT DQ D4
+HK H4 HT H6
+HJ HQ H2 H7
+DJ DA D6 D3
+D8 DK C4 D2
+C3 C2 C8 CK
+H5 C7 C6 CQ
+H3 CT H9 HA
+S3 CA C9 C5
+ST S8 H8 SK
+D9 D5 CJ S5
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "8"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K952.62.QT72.A64 QT.QJ54.K643.J52 A64.K98.8.KQ9873 J873.AT73.AJ95.T"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Room "Open"]
+[Round "2"]
+[Score "-100"]
+[Auction "N"]
+Pass Pass 1C X
+XX Pass Pass 1D
+1NT 2D 3C Pass
+Pass 3D Pass Pass
+Pass
+[Play "N"]
+CA C2 C3 CT
+C6 C5 CK D5
+SK ST S6 S3
+C4 CJ CQ D9
+D2 D3 D8 DA
+DQ DK S4 DJ
+H2 HQ H9 H3
+H6 H4 H8 HT
+D7 H5 HK HA
+DT D4 C7 S7
+S2 SQ SA S8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "8"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K952.62.QT72.A64 QT.QJ54.K643.J52 A64.K98.8.KQ9873 J873.AT73.AJ95.T"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+130"]
+[Auction "N"]
+Pass Pass 1C X
+1D 1H 2C Pass
+3C Pass Pass Pass
+[Play "W"]
+CT CA C5 C3
+HA H2 HQ HK
+DA D2 D3 D8
+D5 DT DK C7
+H3 H6 HJ H8
+H7 C4 C2 CK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "9"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:982.A32.752.AT98 Q73.JT95.T9.K432 AKJT65.K.AKJ6.Q6 4.Q8764.Q843.J75"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Room "Open"]
+[Round "2"]
+[Score "+450"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 3S Pass
+4C X 4D Pass
+4H Pass 4S Pass
+5S Pass Pass Pass
+[Play "S"]
+C5 C8 CK C6
+H8 H2 HJ HK
+S4 S2 S3 SA
+C7 C9 C4 CQ
+H6 S8 SQ S5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "9"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:982.A32.752.AT98 Q73.JT95.T9.K432 AKJT65.K.AKJ6.Q6 4.Q8764.Q843.J75"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+420"]
+[Auction "W"]
+Pass Pass 2C Pass
+2D Pass 2S Pass
+3S Pass 4D Pass
+4H Pass 4S Pass
+Pass Pass
+[Play "S"]
+C5 C8 CK CQ
+D3 D2 DT DA
+S4 S2 S3 SA
+H6 S8 S7 SK
+H4 H2 H5 HK
+C7 CA C4 C6
+H7 HA HJ D6
+DQ D5 D9 DJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "10"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J972.KJ82.7654.J 853.Q976.AT93.A3 Q4.43.J82.KQ9752 AKT6.AT5.KQ.T864"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Open"]
+[Round "2"]
+[Score "-300"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2C X 2S
+Pass 3C Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+CJ CA C2 C4
+HJ H6 H3 HT
+S2 S3 SQ SA
+S9 S5 S4 S6
+D7 D3 D2 DQ
+D6 D9 D8 DK
+S7 S8 C5 SK
+SJ C3 C7 ST
+D5 DT DJ H5
+H2 H7 H4 HA
+D4 H9 C9 C6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "10"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J972.KJ82.7654.J 853.Q976.AT93.A3 Q4.43.J82.KQ9752 AKT6.AT5.KQ.T864"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Room "Closed"]
+[Round "2"]
+[Score "+110"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2C X 2S
+Pass 3C Pass 3D
+Pass Pass Pass
+[Play "E"]
+CJ CA C2 C6
+HJ H6 H3 HT
+D6 D3 D8 DK
+D4 D9 D2 DQ
+S7 C3 C9 C8
+H2 DT CK C4
+D5 DA DJ CT
+S2 S3 S4 SK
+S9 S5 SQ SA
+SJ S8 C5 S6
+H8 H9 H4 H5
+HK H7 C7 HA
+D7 HQ CQ ST
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "11"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A87.KQ5.AKT.A976 2.J8764.J9764.J5 KQT9543.T2.832.3 J6.A93.Q5.KQT842"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Room "Open"]
+[Round "2"]
+[Score "+980"]
+[Auction "S"]
+2NT Pass 4D Pass
+4H Pass 4S Pass
+5S Pass 6S Pass
+Pass Pass
+[Play "E"]
+CK CA C5 C3
+S6 SA S2 S4
+SJ S8 H7 SK
+HA H5 H4 H2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "11"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A87.KQ5.AKT.A976 2.J8764.J9764.J5 KQT9543.T2.832.3 J6.A93.Q5.KQT842"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Room "Closed"]
+[Round "2"]
+[Score "+980"]
+[Auction "S"]
+1C Pass 3S Pass
+4C Pass 4S Pass
+4NT Pass 5C Pass
+6S Pass Pass Pass
+[Play "E"]
+CK CA C5 C3
+S6 SA S2 S5
+SJ S7 H8 SK
+HA H5 H6 H2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "12"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:93.85432.73.K752 A8.QJT96.QT5.J43 KQJ2.A.J9842.T96 T7654.K7.AK6.AQ8"]
+[Declarer "E"]
+[Contract "2SX"]
+[Result "5"]
+[Room "Open"]
+[Round "2"]
+[Score "-500"]
+[Auction "W"]
+Pass Pass 1S Pass
+Pass X 2D X
+2H X Pass Pass
+2S Pass Pass X
+Pass Pass Pass
+[Play "S"]
+S7 S9 SA S2
+S5 S3 S8 SQ
+CA C2 C4 C6
+HK H2 H6 HA
+S6 H3 HQ SK
+S4 D3 H9 SJ
+C8 CK C3 CT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "12"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:93.85432.73.K752 A8.QJT96.QT5.J43 KQJ2.A.J9842.T96 T7654.K7.AK6.AQ8"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "2"]
+[Score "+630"]
+[Auction "W"]
+Pass Pass 1D 1NT
+Pass 2D Pass 2H
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+C5 C3 C9 CQ
+H5 H6 HA HK
+CK C4 C6 C8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "13"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:632.Q52.652.K976 KQ.AJ8.AQT743.T4 JT75.K73.J98.AQ5 A984.T964.K.J832"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Round "2"]
+[Score "+600"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+S5 S8 S2 SQ
+D8 DK D2 D3
+HK HT H2 H8
+S7 S4 S3 SK
+D9 H4 D5 DA
+DJ H6 D6 DQ
+H7 C2 S6 DT
+C5 C3 C6 D4
+ST C8 C7 D7
+H3 H9 H5 HA
+CA CJ C9 C4
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "13"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:632.Q52.652.K976 KQ.AJ8.AQT743.T4 JT75.K73.J98.AQ5 A984.T964.K.J832"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 3D Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C7 C4 CQ C2
+C6 CT CA C3
+C9 H8 C5 C8
+CK HJ H7 CJ
+H2 HA H3 H6
+D2 D3 D9 DK
+S2 SK S5 S4
+D5 DA D8 H4
+- DQ DJ -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "14"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K973.AQ854.95.JT 82.JT6.KJ8763.K8 Q64.K32.AQ4.AQ96 AJT5.97.T2.75432"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Round "2"]
+[Score "+460"]
+[Auction "E"]
+2C 2D X Pass
+2H Pass 2NT Pass
+3D Pass 3H Pass
+3NT Pass Pass Pass
+[Play "N"]
+DT D5 DJ DQ
+H7 HQ HT H2
+SA S3 S2 SQ
+D2 D9 DK D4
+C5 S7 D6 DA
+H9 H4 H6 HK
+S5 HA HJ H3
+C2 H8 S8 S4
+C3 H5 D3 C6
+C4 CJ C8 C9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "14"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K973.AQ854.95.JT 82.JT6.KJ8763.K8 Q64.K32.AQ4.AQ96 AJT5.97.T2.75432"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Room "Closed"]
+[Round "2"]
+[Score "+980"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3S Pass 4C Pass
+4NT Pass 6H Pass
+Pass Pass
+[Play "N"]
+DT D5 DK DA
+SJ SK S2 S6
+H7 H4 H6 HK
+H9 HA HT H3
+D2 HQ HJ H2
+C2 CJ CK CA
+C4 CT C8 C6
+C3 D9 DJ DQ
+C5 S3 D3 CQ
+C7 S7 D6 C9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "15"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:73.AQ8764.KJ7.J2 A985.KT2.T43.985 K6.53.Q95.AQ7643 QJT42.J9.A862.KT"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Open"]
+[Round "2"]
+[Score "-200"]
+[Auction "S"]
+1H Pass 2C 2S
+Pass 3S 3NT Pass
+Pass Pass
+[Play "E"]
+SQ S3 SA S6
+S4 S7 S5 SK
+CK C2 C5 C4
+SJ H4 S9 D5
+ST H6 S8 C3
+S2 H7 HT H5
+HJ HA H2 H3
+CT CJ C8 CQ
+D2 - - CA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "15"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:73.AQ8764.KJ7.J2 A985.KT2.T43.985 K6.53.Q95.AQ7643 QJT42.J9.A862.KT"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Room "Closed"]
+[Round "2"]
+[Score "-300"]
+[Auction "S"]
+1H Pass 1NT 2S
+Pass 3S 3NT Pass
+Pass Pass
+[Play "E"]
+SQ S3 SA S6
+S4 S7 S9 SK
+H9 HQ HK H5
+ST H4 S8 C3
+S2 D7 S5 D5
+CK C2 C9 C4
+SJ DJ C8 H3
+DA DK D3 D9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "16"]
+[West "Nab"]
+[North "De Bruijn"]
+[East "Bertens"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q8.Q93.K9.KJ8643 AJ97.K75.T8652.9 KT63.AT8.AQ43.75 542.J642.J7.AQT2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Round "2"]
+[Score "-100"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S7 S3 S5 S8
+S9 S6 S2 SQ
+C9 C5 C2 C4
+D2 DA D7 D9
+D6 C7 CA C6
+D8 D3 DJ DK
+H5 H8 CT CK
+DT HT CQ C3
+H7 HA H6 H3
+D5 DQ H2 C8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "16"]
+[West "Bakker"]
+[North "Vis"]
+[East "Klaver"]
+[South "Zhao"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q8.Q93.K9.KJ8643 AJ97.K75.T8652.9 KT63.AT8.AQ43.75 542.J642.J7.AQT2"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Round "2"]
+[Score "+660"]
+[Auction "W"]
+Pass Pass 1D Pass
+2C Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+H4 H3 H7 HT
+C2 CJ C9 C7
+D7 D9 D8 DQ
+CQ CK S7 C5
+S5 S8 S9 ST
+DJ DK D2 D3
+S4 SQ SA S3
+H2 - HK HA
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[HomeTeam "Hok TS"]
+[VisitTeam "Crash"]
+[Board "1"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:73.KQT942.J32.KJ K65.J8.AKQ964.94 Q982.65.T5.AQ532 AJT4.A73.87.T876"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "11"]
+[Room "Open"]
+[Round "3"]
+[Score "+150"]
+[Auction "N"]
+2D 3D 3H X
+Pass 4D Pass Pass
+Pass
+[Play "S"]
+H6 HA H2 H8
+D5 D7 D2 DK
+DT D8 D3 DA
+C5 H3 DJ DQ
+S2 SJ S3 S6
+S8 S4 S7 SK
+S9 ST - S5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "1"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:73.KQT942.J32.KJ K65.J8.AKQ964.94 Q982.65.T5.AQ532 AJT4.A73.87.T876"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Round "3"]
+[Score "+460"]
+[Auction "N"]
+1H 2D X 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+HK H8 H6 HA
+D3 DA D5 D8
+D2 DK DT D7
+DJ DQ C3 H3
+H2 D9 S2 H7
+S3 D6 C2 C6
+H4 D4 H5 C7
+S7 SK S8 S4
+H9 S6 S9 SJ
+- - - SA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "2"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J9543.AQ.J9.AKT2 86.962.QT832.863 QT7.T8743.5.QJ94 AK2.KJ5.AK764.75"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Room "Open"]
+[Round "3"]
+[Score "+170"]
+[Auction "E"]
+1S Pass 1NT Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+D2 D5 DK D9
+S6 S7 SA S3
+S8 ST SK S4
+C6 SQ S2 S5
+H6 H3 H5 HQ
+H2 H4 HJ HA
+C3 CQ C5 CT
+H9 H7 HK S9
+C8 CJ C7 C2
+- HT - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "2"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J9543.AQ.J9.AKT2 86.962.QT832.863 QT7.T8743.5.QJ94 AK2.KJ5.AK764.75"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Room "Closed"]
+[Round "3"]
+[Score "+110"]
+[Auction "E"]
+1S Pass 2H 3D
+Pass Pass Pass
+[Play "E"]
+CK C3 C4 C5
+CA C6 C9 C7
+C2 C8 CJ D6
+D9 D2 D5 DA
+DJ DQ H4 D4
+S5 S6 ST SA
+S4 S8 S7 SK
+S9 D3 SQ S2
+HQ H2 H8 HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Room "Open"]
+[Board "3"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:92.AK62.JT92.J84 754.984.A875.AK6 AJ63.JT73.Q.Q953 KQT8.Q5.K643.T72"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Round "3"]
+[Auction "S"]
+Pass Pass Pass Pass
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "3"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:92.AK62.JT92.J84 754.984.A875.AK6 AJ63.JT73.Q.Q953 KQT8.Q5.K643.T72"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Room "Closed"]
+[Round "3"]
+[Score "+110"]
+[Auction "S"]
+Pass Pass 2D Pass
+2H Pass Pass Pass
+[Play "W"]
+CK C3 CT C4
+S7 S3 ST S2
+DA DQ D4 D2
+S5 SA S8 S9
+CA C5 C2 CJ
+C6 CQ C7 C8
+H4 HJ HQ HK
+D5 H3 D3 DT
+H9 HT H5 H2
+S4 C9 D6 D9
+H8 S6 SQ H6
+D7 H7 DK DJ
+D8 SJ SK HA
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "4"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT983.T643.J6.5 52.98.K74.AKJ863 K4.A72.AQ985.942 Q76.KQJ5.T32.QT7"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Round "3"]
+[Score "+620"]
+[Auction "W"]
+2D 3C 3S 3NT
+4S Pass Pass Pass
+[Play "S"]
+HK H3 H8 HA
+S6 S3 S2 SK
+S7 SJ S5 S4
+SQ SA C3 C4
+D3 DJ DK DA
+HJ H4 H9 H7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "4"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT983.T643.J6.5 52.98.K74.AKJ863 K4.A72.AQ985.942 Q76.KQJ5.T32.QT7"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "5"]
+[Room "Closed"]
+[Round "3"]
+[Score "-400"]
+[Auction "W"]
+2D 3C 3H 3NT
+Pass Pass Pass
+[Play "W"]
+SJ S2 SK S6
+SA S5 S4 SQ
+ST H8 C4 S7
+S8 C3 H7 H5
+S9 H9 C2 C7
+S3 C6 D5 HJ
+H3 D4 HA HQ
+D6 D7 DA D2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "5"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT3.K9.AQ8.KQT3 842.QJ743.T42.64 AJ96.T52.K6.J875 75.A86.J9753.A92"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Round "3"]
+[Score "+650"]
+[Auction "N"]
+1C Pass 1S Pass
+4S Pass Pass Pass
+[Play "W"]
+D7 D8 DT DK
+S5 SK S4 S6
+S7 S3 S8 S9
+D5 ST S2 SJ
+C2 CK C4 C5
+CA CQ C6 C8
+H6 HK H7 -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "5"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQT3.K9.AQ8.KQT3 842.QJ743.T42.64 AJ96.T52.K6.J875 75.A86.J9753.A92"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Round "3"]
+[Score "+650"]
+[Auction "N"]
+1C Pass 1S Pass
+2NT Pass 3C Pass
+4C Pass 4S Pass
+Pass Pass
+[Play "W"]
+D5 D8 DT DK
+S5 SK S4 S6
+S7 SQ S2 S9
+D7 S3 S8 SA
+C2 CT C4 C8
+CA CK C6 C5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "6"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:6.J4.KT9854.AQT7 98732.AT985.7.53 AJT5.K632.J3.J96 KQ4.Q7.AQ62.K842"]
+[Declarer "W"]
+[Contract "3NTX"]
+[Result "8"]
+[Room "Open"]
+[Round "3"]
+[Score "-200"]
+[Auction "E"]
+1D 2D X 2S
+Pass Pass X Pass
+3C Pass 3NT X
+Pass Pass Pass
+[Play "N"]
+SK S6 S9 SA
+DA D4 D7 DJ
+HQ H4 HT H2
+H7 HJ HA H3
+SQ C7 S7 SJ
+D6 DT C3 D3
+D2 DK C5 H6
+DQ D5 H5 S5
+C4 CT S3 CJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "6"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:6.J4.KT9854.AQT7 98732.AT985.7.53 AJT5.K632.J3.J96 KQ4.Q7.AQ62.K842"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "5"]
+[Room "Closed"]
+[Round "3"]
+[Score "-150"]
+[Auction "E"]
+1D 1H X XX
+2D Pass Pass 2NT
+Pass Pass Pass
+[Play "E"]
+C7 C3 CJ CK
+S6 S2 SA SK
+D4 D7 DJ D2
+D5 H5 D3 DA
+D8 S3 S5 SQ
+H4 H8 H2 HQ
+HJ HA H3 H7
+D9 H9 HK S4
+DT S7 SJ C2
+CT S8 ST C4
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "7"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:9876.975.QJ9.K62 AKQ5.A63.A8743.9 J42.KQ.KT.AJ8743 T3.JT842.652.QT5"]
+[Declarer "W"]
+[Contract "1D"]
+[Result "9"]
+[Room "Open"]
+[Round "3"]
+[Score "+110"]
+[Auction "S"]
+Pass 1D Pass Pass
+Pass
+[Play "N"]
+HK H2 H9 HA
+DT D2 D9 D8
+CA C5 C6 C9
+C3 CT CK D3
+DK D5 DJ DA
+HQ H4 H5 H6
+S2 ST S6 S5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "7"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:9876.975.QJ9.K62 AKQ5.A63.A8743.9 J42.KQ.KT.AJ8743 T3.JT842.652.QT5"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Room "Closed"]
+[Round "3"]
+[Score "+140"]
+[Auction "S"]
+Pass 1D 2C Pass
+Pass X Pass 2H
+Pass 3C Pass 3H
+Pass Pass Pass
+[Play "S"]
+C2 C9 CA C5
+H5 HA HK H2
+S6 SA S2 S3
+S9 SK S4 ST
+S7 SQ SJ D2
+S8 S5 C4 H4
+C6 H3 C3 CT
+DQ DA DT D6
+H7 H6 HQ H8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "8"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T654.K7543.Q83.3 A983.J982.K.KT98 QJ2.6.T972.AQJ42 K7.AQT.AJ654.765"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Round "3"]
+[Score "-50"]
+[Auction "W"]
+2C Pass 2S X
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+SQ SK S4 S3
+CJ C5 C3 CT
+SJ S7 S5 SA
+H6 HQ H4 H2
+CQ C6 S6 C9
+CA C7 D8 C8
+C4 D4 H3 CK
+C2 - - H9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "8"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T654.K7543.Q83.3 A983.J982.K.KT98 QJ2.6.T972.AQJ42 K7.AQT.AJ654.765"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Room "Closed"]
+[Round "3"]
+[Score "+90"]
+[Auction "W"]
+Pass Pass 1C 1D
+X 1NT Pass Pass
+Pass
+[Play "E"]
+SQ SK S4 S3
+D2 D4 D3 DK
+H6 HQ HK H2
+SJ S7 S5 S8
+D7 DJ DQ C8
+CJ C5 C3 CT
+D9 DA D8 C9
+C4 HA H4 H8
+S2 HT H3 HJ
+C2 D5 H5 H9
+- - - SA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "9"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ742.765.97.Q32 K6.KQT8.AQJ.AJ94 A5.J432.832.T876 T983.A9.KT654.K5"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Open"]
+[Round "3"]
+[Score "+690"]
+[Auction "N"]
+Pass 2NT Pass 3C
+Pass 3D Pass 3H
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+C8 C5 CQ CA
+D3 D4 D7 DQ
+C6 CK C3 C4
+D2 D5 D9 DA
+C7 S3 C2 CJ
+D8 DK S7 DJ
+S5 DT S2 S6
+SA D6 H6 SK
+H2 HA H5 H8
+H3 H9 H7 HK
+CT S8 S4 C9
+H4 S9 SJ HT
+HJ ST SQ HQ
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "9"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:QJ742.765.97.Q32 K6.KQT8.AQJ.AJ94 A5.J432.832.T876 T983.A9.KT654.K5"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "11"]
+[Room "Closed"]
+[Round "3"]
+[Score "-100"]
+[Auction "N"]
+Pass 2NT Pass 3C
+Pass 3H Pass 4D
+Pass 5D Pass 6D
+Pass Pass Pass
+[Play "N"]
+SQ SK SA S3
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "10"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK9.AK76.74.J975 Q543.Q93.AKQJ.62 JT86.J8.83.AKQ84 72.T542.T9652.T3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Round "3"]
+[Score "+600"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 3C Pass
+3D Pass 3NT Pass
+Pass Pass
+[Play "S"]
+DA D3 D2 D7
+DK D8 DT D4
+DQ S6 D5 S9
+DJ H8 D6 H6
+C6 - - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "10"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK9.AK76.74.J975 Q543.Q93.AKQJ.62 JT86.J8.83.AKQ84 72.T542.T9652.T3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Round "3"]
+[Score "+660"]
+[Auction "E"]
+1NT Pass 2C Pass
+2H Pass 3NT Pass
+Pass Pass
+[Play "S"]
+DA D3 DT D7
+C6 CA C3 C5
+C2 C4 CT CJ
+S4 CK S2 C9
+- CQ D5 C7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "11"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT64.8.J7532.QJ8 AK8.64.98.AKT932 9753.QJT32.T4.54 Q2.AK975.AKQ6.76"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Room "Open"]
+[Round "3"]
+[Score "+990"]
+[Auction "S"]
+Pass 1C 1H Pass
+Pass X Pass Pass
+XX Pass 1S 2S
+Pass 3NT Pass 4NT
+Pass 6C Pass 6NT
+Pass Pass Pass
+[Play "N"]
+S7 SQ S4 S8
+C4 C6 C8 CK
+D4 DA D5 D9
+C5 C7 CJ CA
+- - - CT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "11"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT64.8.J7532.QJ8 AK8.64.98.AKT932 9753.QJT32.T4.54 Q2.AK975.AKQ6.76"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Closed"]
+[Round "3"]
+[Score "+490"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2C Pass 2S
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Play "S"]
+D5 D8 DT DA
+C8 CA C4 C6
+CJ CK C5 C7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "12"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9.T743.KT985.T63 AKQ6.982.J762.AQ J8752.KQJ5.4.J84 T43.A6.AQ3.K9752"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Round "3"]
+[Score "+600"]
+[Auction "W"]
+Pass 1NT 2C 3NT
+Pass Pass Pass
+[Play "E"]
+HK HA H3 H2
+S2 S3 S9 SK
+S8 S4 H4 SA
+C4 C2 C3 CQ
+C8 C5 C6 CA
+D4 DQ DK D6
+H5 H6 HT H8
+HJ C7 H7 H9
+HQ ST D5 S6
+SJ C9 - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "12"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9.T743.KT985.T63 AKQ6.982.J762.AQ J8752.KQJ5.4.J84 T43.A6.AQ3.K9752"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "3"]
+[Score "+600"]
+[Auction "W"]
+Pass 1NT 2H 3NT
+Pass Pass Pass
+[Play "E"]
+HK HA H3 H2
+S5 S3 S9 SA
+S2 S4 DT SK
+C4 C2 C3 CQ
+C8 C5 C6 CA
+D4 DQ DK D2
+HJ H6 H4 H8
+HQ C7 HT H9
+H5 C9 H7 D6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "13"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A.AKJT874.J3.A97 QT74.6.QT764.QJ2 852.Q952.52.8653 KJ963.3.AK98.KT4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Round "3"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "13"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A.AKJT874.J3.A97 QT74.6.QT764.QJ2 852.Q952.52.8653 KJ963.3.AK98.KT4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Round "3"]
+[Score "-100"]
+[Auction "N"]
+2C Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D6 D2 DK D3
+S4 S2 S6 SA
+D7 D5 DA DJ
+S7 S5 SK H8
+H6 HQ H3 H4
+C2 C3 C4 CA
+D4 H9 S3 H7
+ST S8 S9 HT
+CJ C5 CT C7
+CQ C6 CK C9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "14"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ.J8764.Q62.AJ9 KT732.A2.T7.T873 654.Q93.AKJ985.6 J98.KT5.43.KQ542"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Room "Open"]
+[Round "3"]
+[Score "+420"]
+[Auction "E"]
+1H 1S 2D X
+3NT Pass 4H Pass
+Pass Pass
+[Play "S"]
+C8 C6 CQ CA
+H2 HQ HK H6
+S3 S6 S8 SA
+HA H3 H5 H4
+SK S4 S9 SQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "14"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AQ.J8764.Q62.AJ9 KT732.A2.T7.T873 654.Q93.AKJ985.6 J98.KT5.43.KQ542"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Round "3"]
+[Score "+450"]
+[Auction "E"]
+1H 1S 4H Pass
+Pass Pass
+[Play "S"]
+DT DA D3 D6
+HA H3 H5 H8
+S3 S4 SJ SQ
+H2 HQ HK H4
+S2 S5 S9 SA
+S7 H9 HT HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "15"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QT873.964.A52.T9 AKJ65.T7.K9.Q764 942.K52.J43.AJ52 .AQJ83.QT876.K83"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Round "3"]
+[Score "+460"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C5 C3 C9 CQ
+H2 H3 H4 HT
+H5 HQ H9 H7
+D3 D6 D5 DK
+D4 DT DA D9
+S9 H8 S8 SA
+CA C8 CT C6
+S2 HJ SQ SK
+S4 D7 S3 SJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "15"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:QT873.964.A52.T9 AKJ65.T7.K9.Q764 942.K52.J43.AJ52 .AQJ83.QT876.K83"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "3"]
+[Score "+430"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+C2 C3 C9 CQ
+H5 H3 H6 HT
+H2 HJ H4 H7
+HK HA H9 S5
+S4 HQ S3 S6
+S2 H8 S7 C4
+D3 D6 D5 DK
+S9 D7 S8 SA
+D4 DT DA D9
+DJ DQ D2 C6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "16"]
+[West "Zhao"]
+[North "De Bruijn"]
+[East "Vis"]
+[South "Gosschalk"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QT94.Q73.965.T65 7.A984.KT7432.32 AK52.KJ5.A8.AJ74 J863.T62.QJ.KQ98"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Room "Open"]
+[Round "3"]
+[Score "-100"]
+[Auction "W"]
+Pass Pass 2NT Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+3NT Pass 4C Pass
+4S Pass Pass Pass
+[Play "S"]
+DQ D5 D2 D8
+DJ D6 D3 DA
+S8 S4 S7 SK
+S3 S9 D4 SA
+H2 H3 H4 HK
+H6 HQ HA H5
+S6 D9 DK S5
+CK C5 - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.11"]
+[Board "16"]
+[West "Ramer"]
+[North "Van Prooijen"]
+[East "Paulissen"]
+[South "De Wijs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QT94.Q73.965.T65 7.A984.KT7432.32 AK52.KJ5.A8.AJ74 J863.T62.QJ.KQ98"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "3"]
+[Score "+600"]
+[Auction "W"]
+Pass Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+CK C5 C3 CA
+C8 CT C2 C4
+H6 H3 H4 HK
+H2 H7 H8 HJ
+HT HQ HA H5
+C9 D5 H9 C7
+DJ D6 D4 DA
+S3 S4 S7 SA
+S6 S9 D2 SK
+S8 ST D3 S2
+- SQ - -
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[HomeTeam "Crash"]
+[VisitTeam "Hok TS"]
+[Board "1"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A52.AT98.974.973 Q4.KJ6.652.KQJ86 KJ76.Q7532.KJT3. T983.4.AQ8.AT542"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Round "4"]
+[Score "-50"]
+[Auction "N"]
+Pass 1C X XX
+1H 1NT 3H 3NT
+Pass Pass Pass
+[Play "S"]
+H2 H4 HA H6
+HQ C2 HT HJ
+H5 C4 H8 HK
+D3 CA C9 C6
+S6 C5 C7 CK
+S7 CT C3 CQ
+H3 S3 S5 CJ
+H7 S8 D4 C8
+DJ DQ D7 D2
+DT DA D9 D6
+DK D8 S2 D5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "1"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A52.AT98.974.973 Q4.KJ6.652.KQJ86 KJ76.Q7532.KJT3. T983.4.AQ8.AT542"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "10"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[Auction "N"]
+Pass 1C X 1S
+2H Pass 3H 5C
+X Pass Pass Pass
+[Play "S"]
+H2 H4 HA H6
+S6 S3 SA S4
+SK S8 S5 SQ
+DJ DQ D7 D5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "2"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:75.A73.98.KQ8543 AQ6.J985.K743.T2 KJT32.T2.QJT6.76 984.KQ64.A52.AJ9"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "6"]
+[Room "Open"]
+[Round "4"]
+[Score "-200"]
+[Auction "E"]
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "N"]
+HK H3 H5 H2
+H4 HA H8 HT
+DA D9 D3 D6
+HQ H7 HJ S2
+D5 D8 DK DJ
+D2 C3 D7 DQ
+CA C4 C2 C7
+C9 CK CT C6
+S4 S5 SA S3
+S8 C5 D4 DT
+CJ CQ H9 ST
+- - - SK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "2"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:75.A73.98.KQ8543 AQ6.J985.K743.T2 KJT32.T2.QJT6.76 984.KQ64.A52.AJ9"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "+600"]
+[Auction "E"]
+3C Pass Pass 3NT
+Pass Pass Pass
+[Play "E"]
+C5 CT C6 C9
+H3 H5 H2 HK
+H7 HJ HT H4
+HA H8 S3 HQ
+S7 S6 ST S4
+C8 C2 C7 CA
+C3 H9 S2 H6
+D8 D3 DT DA
+D9 DK DJ D5
+C4 D4 D6 D2
+S5 D7 DQ S8
+CQ SQ SJ S9
+CK SA SK CJ
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "3"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T976.842.A9.AQ64 AQ2.KT9753.QJT8. J54.Q6.K43.KT983 K83.AJ.7652.J752"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "11"]
+[Room "Open"]
+[Round "4"]
+[Score "+150"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 2D Pass Pass
+Pass
+[Play "N"]
+D4 D2 DA D8
+C3 C2 C6 DT
+H6 HA H2 H3
+HQ HJ H4 HK
+D3 D5 H8 HT
+DK D6 D9 DJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "3"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T976.842.A9.AQ64 AQ2.KT9753.QJT8. J54.Q6.K43.KT983 K83.AJ.7652.J752"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 2D Pass 2H
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "N"]
+CT C2 CA H3
+H6 HA H2 H5
+HQ HJ H4 H7
+C9 C5 C4 H9
+C3 D2 H8 HK
+D3 D5 DA DQ
+C8 C7 C6 HT
+DK D6 D9 DJ
+CK CJ CQ D8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "4"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K2.AJT42.K76.AJ5 A98653.Q7.AQ.Q87 QJ7.K63.JT8542.4 T4.985.93.KT9632"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Room "Open"]
+[Round "4"]
+[Score "+110"]
+[Auction "W"]
+1NT 2D Pass 2H
+X 2S 3D Pass
+Pass Pass
+[Play "S"]
+ST SK SA S7
+S4 S2 S6 SJ
+D3 D6 DQ DT
+D9 DK S3 SQ
+C2 D7 DA D4
+C3 H2 S8 D2
+C6 CA C7 C4
+C9 C5 C8 D5
+H8 H4 H7 HK
+H9 HT HQ H6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "4"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K2.AJT42.K76.AJ5 A98653.Q7.AQ.Q87 QJ7.K63.JT8542.4 T4.985.93.KT9632"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Closed"]
+[Round "4"]
+[Score "-200"]
+[Auction "W"]
+1NT 2S 3C Pass
+3NT Pass Pass Pass
+[Play "N"]
+S9 SQ S4 S2
+DQ DJ D3 D6
+SA S7 ST SK
+S6 SJ C2 C5
+DA D2 D9 DK
+S8 D4 C3 CJ
+S5 H3 H9 H2
+S3 H6 C6 H4
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "5"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A4.4.A832.JT7543 K65.T8.9754.AK96 QJT973.Q96.JT6.8 82.AKJ7532.KQ.Q2"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Open"]
+[Round "4"]
+[Score "-100"]
+[Auction "N"]
+Pass Pass 2H 3H
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+SQ S2 SA S5
+SJ S8 S4 SK
+H6 HA H4 HT
+H9 HK C3 H8
+DJ DK DA D4
+C8 CQ C4 C6
+D6 DQ D2 D5
+S3 C2 CT CK
+S7 H2 C5 CA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "5"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A4.4.A832.JT7543 K65.T8.9754.AK96 QJT973.Q96.JT6.8 82.AKJ7532.KQ.Q2"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Room "Closed"]
+[Round "4"]
+[Score "+420"]
+[Auction "N"]
+Pass Pass 2D 3H
+Pass 4H Pass Pass
+Pass
+[Play "N"]
+SA S5 S3 S8
+C4 CA C8 C2
+H4 H8 H9 HA
+D2 HT H6 HK
+C3 C6 HQ CQ
+DA D4 DJ DK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "6"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:63.7632.8.KT9854 AQT42.KJT8.96.Q2 97.Q95.KT7542.A3 KJ85.A4.AQJ3.J76"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Room "Open"]
+[Round "4"]
+[Score "+480"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+D5 DQ D8 D6
+S7 SK S3 S2
+S9 S5 S6 SA
+D2 DJ C4 D9
+D4 DA C5 C2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "6"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:63.7632.8.KT9854 AQT42.KJT8.96.Q2 97.Q95.KT7542.A3 KJ85.A4.AQJ3.J76"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[Auction "E"]
+Pass 1S 2D 3D
+Pass 3H Pass 4D
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+CA C6 C4 C2
+C3 C7 CK CQ
+D2 CJ C5 ST
+S7 SJ S3 S2
+S9 S5 S6 SQ
+D4 DJ D8 D6
+H5 HA H2 H8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "7"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT95.Q92.J94.T52 AQ72.AJ87.K7.QJ6 643.54.T853.9743 K8.KT63.AQ62.AK8"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Room "Open"]
+[Round "4"]
+[Score "+1430"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2H Pass 3S
+Pass 4D Pass 4S
+Pass 5D Pass 6H
+Pass Pass Pass
+[Play "N"]
+C4 CA CT C6
+H4 HK H2 H7
+H5 H3 H9 HA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "7"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:JT95.Q92.J94.T52 AQ72.AJ87.K7.QJ6 643.54.T853.9743 K8.KT63.AQ62.AK8"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Room "Closed"]
+[Round "4"]
+[Score "+1470"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2NT Pass 3C
+Pass 3H Pass 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 5C
+Pass 5H Pass 6NT
+Pass Pass Pass
+[Play "N"]
+S3 SK S5 S2
+H4 HK H2 H7
+H5 HT H9 H8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "8"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K975.9.A972.KJ62 J82.AQ2.QT.AT875 A643.JT43.65.Q93 QT.K8765.KJ843.4"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Room "Open"]
+[Round "4"]
+[Score "-100"]
+[Auction "W"]
+1D X Pass 4H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+C2 CA C3 C4
+DA DQ D5 D4
+C6 C5 C9 H5
+D2 DT D6 D3
+H9 HA H3 H6
+- HQ H4 H7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "8"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K975.9.A972.KJ62 J82.AQ2.QT.AT875 A643.JT43.65.Q93 QT.K8765.KJ843.4"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "+140"]
+[Auction "W"]
+1D X 1H X
+1S Pass 2S Pass
+Pass Pass
+[Play "N"]
+HA H3 H5 H9
+S2 S3 SQ SK
+CA C3 C4 CK
+C8 C9 ST C2
+DT D5 D3 DA
+C5 CQ H6 C6
+H2 H4 H7 S5
+C7 D6 D4 CJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Room "Open"]
+[Board "9"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9762.J64.8543.Q6 AJ83.AK53.KT2.54 KQ4.T72.AQ.JT982 T5.Q98.J976.AK73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Round "4"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "9"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:9762.J64.8543.Q6 AJ83.AK53.KT2.54 KQ4.T72.AQ.JT982 T5.Q98.J976.AK73"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[Auction "N"]
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+CJ C3 C6 C4
+C8 CA CQ C5
+DQ D6 D3 DT
+CT CK H6 S3
+DA D7 D4 DK
+C9 C7 D5 S8
+C2 S5 D8 H3
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "10"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K72.K93.K432.AQ6 Q.T7654.AJ6.J954 AJ9654.J8.T85.KT T83.AQ2.Q97.8732"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Room "Open"]
+[Round "4"]
+[Score "-100"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "S"]
+H7 H8 HA H3
+DA D5 DQ DK
+D6 D8 D9 D2
+DJ - D7 D3
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "10"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K72.K93.K432.AQ6 Q.T7654.AJ6.J954 AJ9654.J8.T85.KT T83.AQ2.Q97.8732"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[Auction "E"]
+1NT Pass 4D Pass
+4S Pass Pass Pass
+[Play "S"]
+H7 H8 HA H3
+D6 D5 DQ D2
+DJ D8 D9 D3
+DA DT D7 D4
+H4 HJ HQ HK
+SQ S4 S3 SK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "11"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q.AK7542.A43.A65 AT54.83.Q965.QT4 KJ963.J9.K82.KJ7 872.QT6.JT7.9832"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Room "Open"]
+[Round "4"]
+[Score "+450"]
+[Auction "S"]
+1H Pass 1S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+D5 D2 DT DA
+H3 H9 H6 HA
+H8 HJ HT HK
+- - - SQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "11"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q.AK7542.A43.A65 AT54.83.Q965.QT4 KJ963.J9.K82.KJ7 872.QT6.JT7.9832"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[Auction "S"]
+1H Pass 1NT Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "W"]
+D5 D2 DT DA
+SA S3 S8 SQ
+C4 CK C2 C5
+S5 SK S2 C6
+H3 H9 H6 HA
+H8 HJ HT HK
+D6 S6 HQ H2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "12"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A975.T.KJ9743.A5 4.Q852.Q2.KT9632 KQJ832.K4.T5.Q74 T6.AJ9763.A86.J8"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Room "Open"]
+[Round "4"]
+[Score "+420"]
+[Auction "W"]
+1D Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+HA HT H2 H4
+C8 CA C2 C4
+S6 S5 S4 SK
+ST S7 C3 SQ
+H6 C5 H5 HK
+D8 D3 DQ DT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "12"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A975.T.KJ9743.A5 4.Q852.Q2.KT9632 KQJ832.K4.T5.Q74 T6.AJ9763.A86.J8"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Room "Closed"]
+[Round "4"]
+[Score "+590"]
+[Auction "W"]
+1D Pass 1S 2H
+3S 4C 4S X
+Pass Pass Pass
+[Play "S"]
+CJ CA C2 C4
+S6 S5 S4 SK
+ST SA C3 S2
+C8 C5 CK C7
+H3 HT HQ H4
+HA S7 H2 HK
+H6 S9 C6 SQ
+H7 D3 C9 CQ
+D6 DK D2 D5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "13"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:876.Q865.K9432.T KQ9532.J7.J.Q764 A.AT9432.AQT85.A JT4.K.76.KJ98532"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "13"]
+[Room "Open"]
+[Round "4"]
+[Score "+1460"]
+[Auction "N"]
+Pass 2D X 2H
+Pass 2S 3H 3S
+4H 4S 5D Pass
+6H Pass Pass Pass
+[Play "W"]
+SJ S6 S3 SA
+HK H5 H7 HA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "13"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:876.Q865.K9432.T KQ9532.J7.J.Q764 A.AT9432.AQT85.A JT4.K.76.KJ98532"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Room "Closed"]
+[Round "4"]
+[Score "+1370"]
+[Auction "N"]
+Pass 2S 4D 4S
+5D Pass 6D Pass
+Pass Pass
+[Play "W"]
+SJ S6 SQ SA
+D6 D2 DJ DQ
+D7 D3 S3 DA
+C3 DK S2 D8
+HK H5 H7 H9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "14"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KJ83.J73.J63.AQ6 6542..KQT92.T743 AT7.A9542.A5.J95 Q9.KQT86.874.K82"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "10"]
+[Room "Open"]
+[Round "4"]
+[Score "+170"]
+[Auction "E"]
+1C 1D X 1H
+Pass 2D X Pass
+2S Pass Pass Pass
+[Play "S"]
+DK DA D8 D3
+DQ D5 D7 DJ
+S4 S7 S9 SJ
+D9 ST D4 D6
+S2 SA SQ S3
+C3 C5 C2 CQ
+S5 H2 H6 SK
+S6 H4 H8 S8
+DT HA HT H3
+C4 H5 HQ H7
+D2 H9 HK HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "14"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KJ83.J73.J63.AQ6 6542..KQT92.T743 AT7.A9542.A5.J95 Q9.KQT86.874.K82"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "8"]
+[Room "Closed"]
+[Round "4"]
+[Score "-300"]
+[Auction "E"]
+1C 1D 1H 1NT
+Pass 2D X 3D
+3H Pass 4H X
+Pass Pass Pass
+[Play "N"]
+D8 D3 D9 D5
+D7 D6 DK DA
+HQ H3 D2 H2
+D4 DJ DQ H4
+HK H7 DT H5
+H6 HJ S6 H9
+S9 S3 S2 SA
+H8 C6 C3 HA
+SQ SK S4 ST
+HT SJ S5 S7
+C2 CA C4 C5
+C8 S8 C7 C9
+CK CQ CT CJ
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "15"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T93.T852.AQJ9.T6 J7.J964.T63.AK74 AK42.A.K842.9532 Q865.KQ73.75.QJ8"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Round "4"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "15"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T93.T852.AQJ9.T6 J7.J964.T63.AK74 AK42.A.K842.9532 Q865.KQ73.75.QJ8"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Room "Closed"]
+[Round "4"]
+[Score "+90"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+2D Pass Pass Pass
+[Play "S"]
+D5 DQ D6 D2
+CJ CT C4 C2
+D7 DJ D3 D4
+C8 C6 CA C3
+H3 DA DT D8
+S5 S3 S7 SA
+S6 S9 SJ SK
+SQ ST H4 S2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "16"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:6.AK732.94.AQJ72 J953.J64.QT5.KT4 KT8742.Q9.KJ86.8 AQ.T85.A732.9653"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Open"]
+[Round "4"]
+[Score "-200"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 2H Pass
+3C Pass 3NT Pass
+Pass Pass
+[Play "E"]
+C3 CJ CK C8
+SQ S6 S9 ST
+C5 C2 CT S2
+DA D4 DT DK
+SA H2 SJ S4
+D7 D9 DQ D6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "16"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:6.AK732.94.AQJ72 J953.J64.QT5.KT4 KT8742.Q9.KJ86.8 AQ.T85.A732.9653"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "+140"]
+[Auction "S"]
+1H Pass 1NT Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "E"]
+D2 D4 DQ DK
+C3 CA C4 C8
+C5 CQ CK S2
+H5 HA H6 H9
+C6 CJ CT D6
+DA D9 DT DJ
+SA S6 S3 S4
+D3 H2 D5 D8
+SQ C2 S5 SK
+D7 H3 S9 S8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "17"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T64.9854.A.QJ943 KJ85.JT.KQT92.T8 A93.AKQ6.J654.65 Q72.732.873.AK72"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Room "Open"]
+[Round "4"]
+[Score "+140"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Play "S"]
+HJ HA H3 H4
+C8 C5 CK C3
+SJ SA S2 S4
+HT HK H2 H5
+CT C6 CA C4
+SK S3 S7 ST
+S8 S9 SQ S6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "17"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T64.9854.A.QJ943 KJ85.JT.KQT92.T8 A93.AKQ6.J654.65 Q72.732.873.AK72"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "+150"]
+[Auction "E"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "N"]
+CA C3 C8 C5
+D8 DA D2 D4
+H2 H4 HJ HQ
+H3 H5 HT HA
+CK C4 CT C6
+D7 S4 DQ D6
+D3 - DK D5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "18"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J84.AJT86.AQ76.K K7.Q54.T54.J8652 AT2.K732.932.AQT Q9653.9.KJ8.9743"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Room "Open"]
+[Round "4"]
+[Score "+450"]
+[Auction "N"]
+1H Pass 3NT Pass
+4H Pass Pass Pass
+[Play "E"]
+C5 CT C3 CK
+H4 H2 H9 HA
+S7 SA S5 S4
+C2 CA C4 S8
+C6 CQ C9 SJ
+SK S2 S6 H8
+H5 HK S3 HT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "18"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J84.AJT86.AQ76.K K7.Q54.T54.J8652 AT2.K732.932.AQT Q9653.9.KJ8.9743"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Room "Closed"]
+[Round "4"]
+[Score "+480"]
+[Auction "N"]
+1H Pass 2NT Pass
+3D Pass 3NT Pass
+4C Pass 4H Pass
+Pass Pass
+[Play "E"]
+SK SA S6 S4
+H4 H2 H9 HA
+C6 CT C3 CK
+H5 H3 S3 HJ
+HQ HK C4 HT
+C2 CA C7 D6
+C5 CQ C9 D7
+D5 D2 D8 DQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "19"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:95.J3.AQJT93.AT8 AQ73.KT6.K862.76 J82.AQ97.54.KJ93 KT64.8542.7.Q542"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Room "Open"]
+[Round "4"]
+[Score "-50"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+C2 C8 C6 C9
+D7 D9 D2 D4
+C5 CT C7 CK
+H2 DJ DK D5
+ST S5 S3 S2
+S4 S9 SA S8
+SK H3 S7 SJ
+S6 - - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "19"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:95.J3.AQJT93.AT8 AQ73.KT6.K862.76 J82.AQ97.54.KJ93 KT64.8542.7.Q542"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[Auction "S"]
+1D Pass 1H Pass
+2D Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "E"]
+S4 S5 SQ S2
+SK S9 S3 SJ
+ST H3 S7 S8
+S6 C8 SA C3
+H2 HJ H6 HA
+D7 DQ DK D4
+H4 D3 HK H7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "20"]
+[West "Ramer"]
+[North "Nab"]
+[East "Paulissen"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ52.Q82.KJT.K97 T86.AJT643.542.4 K73.K7.AQ9876.J8 Q94.95.3.AQT6532"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Round "4"]
+[Score "+630"]
+[Auction "W"]
+1C 2H 3NT Pass
+Pass Pass
+[Play "S"]
+CA C7 C4 C8
+CQ C9 H3 CJ
+S4 SJ S8 S3
+H5 H2 HA H7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "20"]
+[West "De Wijs"]
+[North "Bakker"]
+[East "Van Prooijen"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ52.Q82.KJT.K97 T86.AJT643.542.4 K73.K7.AQ9876.J8 Q94.95.3.AQT6532"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "4"]
+[Score "+600"]
+[Auction "W"]
+1C 2H 3D Pass
+3H Pass 3NT Pass
+Pass Pass
+[Play "S"]
+H9 H2 H3 HK
+D3 DT D4 D6
+C6 DJ D2 D7
+C2 DK D5 DA
+C3 C7 H4 D9
+C5 S2 H6 D8
+CT C9 S6 DQ
+S4 SA S8 S3
+S9 S5 ST SK
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[HomeTeam "Crash"]
+[VisitTeam "Hok TS"]
+[Board "1"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:2.Q9.A7652.AJT97 J93.KJT7.Q4.Q864 A8764.A62.K98.53 KQT5.8543.JT3.K2"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Room "Open"]
+[Round "5"]
+[Score "+150"]
+[Auction "N"]
+1D Pass 1S Pass
+2C Pass 3D Pass
+Pass Pass
+[Play "E"]
+HJ H2 H3 HQ
+D4 DK D3 D2
+CQ C3 C2 CJ
+HK HA H4 H9
+C4 C5 CK CA
+DQ D8 DT DA
+- - - D5
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "1"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:2.Q9.A7652.AJT97 J93.KJT7.Q4.Q864 A8764.A62.K98.53 KQT5.8543.JT3.K2"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Room "Closed"]
+[Round "5"]
+[Score "+400"]
+[Auction "N"]
+1D Pass 1S Pass
+2C Pass 3D Pass
+4D Pass 5D Pass
+Pass Pass
+[Play "E"]
+HJ H2 H3 HQ
+HT HA H8 H9
+CQ C3 C2 CJ
+S3 SA S5 S2
+D4 D8 DJ DA
+DQ DK D3 D2
+C4 C5 CK CA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "2"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T862.732.A42.T84 QJ97.4.J9.AKJ652 AK5.KQJ85.KT6.Q7 43.AT96.Q8753.93"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Room "Open"]
+[Round "5"]
+[Score "-100"]
+[Auction "E"]
+Pass 1C X 1D
+Pass 1S 2H Pass
+Pass 2NT Pass 3C
+3H Pass Pass Pass
+[Play "N"]
+C9 C4 CK C7
+C3 C8 CA CQ
+S3 CT CJ D6
+S4 S2 SQ SA
+D5 DA D9 DT
+H6 H2 H4 HK
+HA H3 C6 HQ
+D3 D2 DJ DK
+- - - HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "2"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T862.732.A42.T84 QJ97.4.J9.AKJ652 AK5.KQJ85.KT6.Q7 43.AT96.Q8753.93"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Room "Closed"]
+[Round "5"]
+[Score "-50"]
+[Auction "E"]
+Pass 1C X Pass
+1S 2C 2H Pass
+Pass Pass
+[Play "N"]
+C9 C4 CK CQ
+S3 S2 SQ SA
+HA H2 H4 HJ
+S4 S6 S7 SK
+H6 H3 C2 HK
+D5 S8 S9 S5
+C3 ST SJ C7
+H9 C8 CA H5
+D3 D2 DJ DK
+HT H7 C5 HQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "3"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J74.A963.532.AJT AQ953.K8.AQT4.Q7 62.J52.K86.K8654 KT8.QT74.J97.932"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "+140"]
+[Auction "S"]
+Pass 1S Pass 2S
+Pass 3D Pass 3S
+Pass Pass Pass
+[Play "N"]
+S2 S8 SJ SA
+S6 SK S7 S3
+H5 H4 HA H8
+C6 ST S4 S5
+DK D9 D5 D4
+C4 C2 CA C7
+CK C3 CJ CQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "3"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J74.A963.532.AJT AQ953.K8.AQT4.Q7 62.J52.K86.K8654 KT8.QT74.J97.932"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Room "Closed"]
+[Round "5"]
+[Score "+170"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2NT Pass 3S
+Pass Pass Pass
+[Play "N"]
+S2 S8 S4 S3
+H5 H4 H3 HK
+S6 ST S7 SA
+H2 HT HA H8
+D8 D7 D5 DA
+C6 SK SJ S5
+HJ HQ H6 C7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "4"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K8.JT83.QJ94.A97 954.9642.2.QJ632 QT72.AK.T75.KT85 AJ63.Q75.AK863.4"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "+150"]
+[Auction "W"]
+Pass Pass 1C X
+XX 1H Pass Pass
+2NT Pass Pass Pass
+[Play "N"]
+H6 HK H7 H3
+D2 D5 D6 DJ
+C6 DT DK D4
+CJ C5 C4 C7
+S9 ST SA S8
+H2 HA H5 H8
+C2 C8 D3 CA
+S4 S2 S3 SK
+C3 CT D8 C9
+CQ CK HQ D9
+H4 D7 DA DQ
+S5 S7 S6 HT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "4"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K8.JT83.QJ94.A97 954.9642.2.QJ632 QT72.AK.T75.KT85 AJ63.Q75.AK863.4"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Room "Closed"]
+[Round "5"]
+[Score "+120"]
+[Auction "W"]
+Pass Pass 1C X
+XX 1H Pass Pass
+1NT Pass Pass Pass
+[Play "N"]
+H6 HK H5 H8
+D2 D5 D3 DQ
+C3 DT D6 D4
+S5 S2 S3 SK
+H2 HA H7 H3
+C2 D7 DK D9
+H4 C5 DA DJ
+H9 C8 D8 S8
+S9 S7 HQ HT
+- - C4 -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Room "Open"]
+[Board "5"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T3.AT9732.63.AT2 K965.Q54.KT74.J6 J84.K.AQ98.KQ985 AQ72.J86.J52.743"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Round "5"]
+[Score "+170"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "5"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:T3.AT9732.63.AT2 K965.Q54.KT74.J6 J84.K.AQ98.KQ985 AQ72.J86.J52.743"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "10"]
+[Room "Closed"]
+[Round "5"]
+[Score "+170"]
+[Auction "N"]
+2D Pass 2H Pass
+Pass Pass
+[Play "W"]
+D2 D3 DK DA
+H6 H2 H5 HK
+C7 CA C6 C5
+HJ HA H4 D9
+H8 HT HQ C9
+SQ S3 S6 S8
+SA ST S5 S4
+C4 - - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "6"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKJT3.QJ4.43.J54 Q.A2.K982.AKT962 9742.865.AJ75.83 865.KT973.QT6.Q7"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "-50"]
+[Auction "E"]
+1S 2C 2S X
+Pass 3S Pass 4H
+Pass Pass Pass
+[Play "E"]
+SA SQ S2 S6
+D4 D2 DJ DQ
+S3 H2 S9 S5
+H4 HA H5 H3
+C5 C2 C3 CQ
+HJ D8 H6 HK
+C4 CA C8 C7
+CJ CK H8 HT
+D3 D9 DA D6
+ST C6 S4 S8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "6"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKJT3.QJ4.43.J54 Q.A2.K982.AKT962 9742.865.AJ75.83 865.KT973.QT6.Q7"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[Room "Closed"]
+[Round "5"]
+[Score "+400"]
+[Auction "E"]
+1S 2C 3S X
+Pass 4NT Pass 5C
+Pass Pass Pass
+[Play "W"]
+S7 S5 SA SQ
+S2 S8 SJ C2
+C3 CQ C4 C6
+C8 C7 C5 CK
+S4 S6 CJ CA
+D5 DT D3 D2
+H8 H3 HQ HA
+D7 D6 D4 D8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Room "Open"]
+[Board "7"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q762.2.K982.KT92 KJ84.KQJ874.J.A4 T3.AT965.A43.QJ8 A95.3.QT765.7653"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Round "5"]
+[Score "-100"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "7"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:Q762.2.K982.KT92 KJ84.KQJ874.J.A4 T3.AT965.A43.QJ8 A95.3.QT765.7653"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Room "Closed"]
+[Round "5"]
+[Score "-100"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 3H Pass Pass
+Pass
+[Play "N"]
+ST S5 S2 SJ
+HA H3 H2 HQ
+S3 S9 S6 S4
+C8 C3 C2 CA
+H5 C5 D8 HK
+DA D5 D2 DJ
+CQ C6 CK C4
+H6 SA S7 S8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "8"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK92.QJT74.J6.K2 J6.AK6.AQ85.QT97 QT8.52.KT94.A653 7543.983.732.J84"]
+[Declarer "N"]
+[Contract "1NTX"]
+[Result "6"]
+[Room "Open"]
+[Round "5"]
+[Score "-100"]
+[Auction "W"]
+1H 1NT X Pass
+Pass Pass
+[Play "E"]
+D4 D2 DJ DQ
+C3 C4 CK CT
+DK D3 D6 DA
+CA C8 C2 C7
+DT D7 H7 D5
+D9 H3 H4 D8
+S8 S3 SK S6
+SQ S4 SA SJ
+ST S5 S2 H6
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "8"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK92.QJT74.J6.K2 J6.AK6.AQ85.QT97 QT8.52.KT94.A653 7543.983.732.J84"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Room "Closed"]
+[Round "5"]
+[Score "+170"]
+[Auction "W"]
+1H Pass 1NT Pass
+2H Pass Pass Pass
+[Play "N"]
+CT CA C4 C2
+HA H2 H8 HJ
+C7 C3 CJ CK
+D5 DT D7 D6
+HK H5 H3 HQ
+CQ C5 C8 H4
+- - - HT
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Room "Open"]
+[Board "9"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K5.T84.QJ98543.2 Q9.AKQ5.AK.J8764 T87642.J2.62.AQT AJ3.9763.T7.K953"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Round "5"]
+[Score "+630"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "9"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K5.T84.QJ98543.2 Q9.AKQ5.AK.J8764 T87642.J2.62.AQT AJ3.9763.T7.K953"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Closed"]
+[Round "5"]
+[Score "+630"]
+[Auction "N"]
+3D 3NT Pass Pass
+Pass
+[Play "S"]
+D6 D7 D8 DK
+CA C3 C2 C8
+D2 DT DQ DA
+CT CK D3 C4
+CQ C5 H4 C7
+H2 H6 H8 HK
+S2 C9 HT CJ
+S4 H3 D4 C6
+HJ H7 D5 HA
+S6 H9 D9 HQ
+S7 S3 DJ H5
+S8 SJ SK SQ
+ST SA S5 S9
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "10"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K9652.T6.T52.AJ9 J.J8.AK83.T87532 QT4.AKQ9.QJ764.Q A873.75432.9.K64"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Round "5"]
+[Score "+630"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2H Pass
+3NT Pass Pass Pass
+[Play "S"]
+HJ HA H5 H6
+DK D4 D9 DT
+C3 CQ CK CA
+D3 DQ S3 D5
+H8 H9 H4 HT
+DA D6 S8 D2
+C7 D7 C6 C9
+SJ S4 SA SK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "10"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:K9652.T6.T52.AJ9 J.J8.AK83.T87532 QT4.AKQ9.QJ764.Q A873.75432.9.K64"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Room "Closed"]
+[Round "5"]
+[Score "-100"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2H Pass
+3C Pass 3S Pass
+4S Pass Pass Pass
+[Play "S"]
+HJ HA H4 H6
+SJ S4 S3 SK
+C7 SQ SA S2
+DK D4 D9 DT
+DA D6 H2 D5
+D3 D7 S7 D2
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Room "Open"]
+[Board "11"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K2.Q53.AQ53.AJ92 974.AKJT94.J8.K4 Q3.872.KT762.T85 AJT865.6.94.Q763"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Round "5"]
+[Score "+140"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "11"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K2.Q53.AQ53.AJ92 974.AKJT94.J8.K4 Q3.872.KT762.T85 AJT865.6.94.Q763"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "11"]
+[Room "Closed"]
+[Round "5"]
+[Score "+200"]
+[Auction "S"]
+1NT 2D Pass 2H
+Pass Pass Pass
+[Play "S"]
+H3 HA H8 H6
+H5 HK H2 D4
+HQ HJ H7 C3
+C2 CK C8 C6
+SK S4 SQ SA
+S2 S7 S3 SJ
+- - - ST
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "12"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJT4.KQT65.85.J 3.A74.AJT976.A96 762.932.Q3.QT542 K985.J8.K42.K873"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "+600"]
+[Auction "W"]
+1S 2D 2S 3D
+3H 3S Pass 3NT
+Pass Pass Pass
+[Play "W"]
+HK H4 H9 H8
+HQ H7 H2 HJ
+HT HA H3 C3
+CJ C6 C5 CK
+SQ CA C2 C7
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "12"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AQJT4.KQT65.85.J 3.A74.AJT976.A96 762.932.Q3.QT542 K985.J8.K42.K873"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "5"]
+[Score "+600"]
+[Auction "W"]
+1S 2D Pass 2NT
+3H 3NT Pass Pass
+Pass
+[Play "W"]
+HK H4 H9 H8
+HQ HA H2 HJ
+D5 DA D3 D2
+D8 DJ DQ DK
+- - - CK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "13"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:65.K7.AQT75.A754 AT874.Q9865.2.KJ QJ32.A43.83.T963 K9.JT2.KJ964.Q82"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Room "Open"]
+[Round "5"]
+[Score "+110"]
+[Auction "N"]
+1D 1S 1NT Pass
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+D8 DJ DQ D2
+C3 C2 C5 CK
+S2 S9 S5 S4
+S3 SK S6 S8
+HA HJ H7 H6
+D3 D6 D7 S7
+SJ D4 C4 SA
+H4 HT HK H5
+SQ D9 DA ST
+CT C8 CA CJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "13"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:65.K7.AQT75.A754 AT874.Q9865.2.KJ QJ32.A43.83.T963 K9.JT2.KJ964.Q82"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Room "Closed"]
+[Round "5"]
+[Score "-200"]
+[Auction "N"]
+1D 1S Pass 1NT
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "S"]
+D8 D9 DT D2
+H4 H2 HK H8
+HA HT H7 H9
+H3 HJ S6 H6
+SJ SK S5 S4
+S2 S9 D5 SA
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "14"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T4.KQJ4.A74.AKQ4 J95.T97.KQJ53.JT KQ73.8532.62.652 A862.A6.T98.9873"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "-50"]
+[Auction "E"]
+1C 1D X 2D
+3D Pass 3S Pass
+4H Pass Pass Pass
+[Play "S"]
+DK D2 DT D7
+DQ D6 D9 DA
+S9 SK SA S4
+SJ SQ S2 ST
+H9 H2 H6 HQ
+H7 H3 HA HK
+CT C2 C9 CA
+D5 H5 D8 D4
+CJ C5 C7 CK
+HT C6 C3 CQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "14"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T4.KQJ4.A74.AKQ4 J95.T97.KQJ53.JT KQ73.8532.62.652 A862.A6.T98.9873"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Room "Closed"]
+[Round "5"]
+[Score "+140"]
+[Auction "E"]
+1C 1D Pass 1NT
+X Pass 2D 3D
+3H Pass Pass Pass
+[Play "S"]
+DK D2 DT D7
+DQ D6 D9 DA
+SJ SQ SA ST
+CJ C2 C9 CK
+D3 H2 D8 D4
+H7 H3 H6 HQ
+S5 SK S2 S4
+H9 H5 HA H4
+S9 S3 S6 HJ
+CT C5 C3 CA
+HT C6 C7 CQ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "15"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:62.A8532.AK.K762 QJ5.KT74.92.AQT5 K8.96.JT7654.983 AT9743.QJ.Q83.J4"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Room "Open"]
+[Round "5"]
+[Score "+140"]
+[Auction "W"]
+1H Pass Pass 1S
+Pass 2H Pass 2S
+Pass Pass Pass
+[Play "W"]
+DA D2 D4 D3
+HA H4 H6 HJ
+H5 H7 H9 HQ
+S2 S5 S8 SA
+S6 SJ SK S3
+DK D9 D5 D8
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "15"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:62.A8532.AK.K762 QJ5.KT74.92.AQT5 K8.96.JT7654.983 AT9743.QJ.Q83.J4"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Room "Closed"]
+[Round "5"]
+[Score "+110"]
+[Auction "W"]
+1H Pass Pass 1S
+Pass 1NT Pass 2S
+Pass Pass Pass
+[Play "W"]
+DK D2 D4 D8
+C6 CA C9 C4
+S2 S5 S8 SA
+S6 SQ SK S3
+DA D9 DJ DQ
+H2 H4 H9 HQ
+CK C5 C3 CJ
+HA H7 H6 HJ
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "16"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:54.6432.A8763.65 KQ62.875.J94.QJ3 J3.AKQJT9.Q5.A82 AT987..KT2.KT974"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Room "Open"]
+[Round "5"]
+[Score "+450"]
+[Auction "S"]
+Pass Pass 1H 2H
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+HK S7 H6 H7
+S3 SA S4 S2
+SJ S8 S5 SK
+C8 C4 C5 CJ
+CA C7 C6 CQ
+C2 CK H2 C3
+H9 CT H3 D4
+HT C9 D3 D9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "16"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:54.6432.A8763.65 KQ62.875.J94.QJ3 J3.AKQJT9.Q5.A82 AT987..KT2.KT974"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Room "Closed"]
+[Round "5"]
+[Score "+450"]
+[Auction "S"]
+Pass Pass 1H 1S
+3H 3S 4H 4S
+Pass Pass Pass
+[Play "S"]
+H6 H5 HK S7
+S4 SK S3 S8
+S5 S2 SJ SA
+C5 CQ CA C4
+H2 H7 HA S9
+C6 CJ C2 C7
+D8 C3 C8 CK
+H3 D4 H9 CT
+D3 D9 HT C9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "17"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:543.QJ92.932.973 Q962.KT6.QJ7.AJ2 K8.A4.8654.QT864 AJT7.8753.AKT.K5"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Round "5"]
+[Room "Open"]
+[Score "+460"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "17"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:543.QJ92.932.973 Q962.KT6.QJ7.AJ2 K8.A4.8654.QT864 AJT7.8753.AKT.K5"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "5"]
+[Score "+400"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+D6 DT D3 DJ
+SK SA S4 S9
+C4 CK C9 C2
+CQ C5 C3 CJ
+CT H8 C7 CA
+S8 SJ S3 S2
+H4 ST S5 S6
+D4 S7 D2 SQ
+D5 DA D9 D7
+D8 DK H2 DQ
+- H3 - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "18"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQJT42.Q72.7.986 8.865.AKJ632.AT5 97.AJT4.Q854.J43 K653.K93.T9.KQ72"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Room "Open"]
+[Round "5"]
+[Score "+630"]
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "18"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQJT42.Q72.7.986 8.865.AKJ632.AT5 97.AJT4.Q854.J43 K653.K93.T9.KQ72"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Closed"]
+[Round "5"]
+[Score "+660"]
+[Auction "E"]
+2D 3D Pass 3NT
+Pass Pass Pass
+[Play "E"]
+SQ S8 S7 S5
+SJ H8 S9 SK
+D7 D2 D4 DT
+C8 DJ DQ D9
+H7 H6 HT HK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "19"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:96.A72.QT742.A54 K875.84.J853.982 T32.JT965.A.JT76 AQJ4.KQ3.K96.KQ3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Room "Open"]
+[Round "5"]
+[Score "-200"]
+[Auction "S"]
+Pass Pass 2D X
+3H Pass Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H2 H8 H9 HK
+S6 S5 S2 SQ
+S9 S7 S3 SJ
+D4 S8 ST SA
+D2 SK C6 S4
+D7 D3 DA D9
+HA H4 HJ HQ
+H7 C2 HT H3
+C5 C8 H6 C3
+DT C9 H5 D6
+CA D5 CJ CK
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "19"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:96.A72.QT742.A54 K875.84.J853.982 T32.JT965.A.JT76 AQJ4.KQ3.K96.KQ3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Room "Closed"]
+[Round "5"]
+[Score "+600"]
+[Auction "S"]
+Pass Pass 2H 3NT
+Pass Pass Pass
+[Play "S"]
+H2 H4 HT HK
+S6 S5 S2 SQ
+S9 S7 S3 SJ
+D4 S8 ST SA
+D2 SK H5 S4
+CA C2 CJ CQ
+C5 C8 C6 C3
+D7 D3 DA D6
+H7 H8 HJ H3
+HA D5 H6 HQ
+DT DJ H9 D9
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "20"]
+[West "De Bruijn"]
+[North "Nab"]
+[East "Gosschalk"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T843.A4.T8654.K9 KQ6.J852.A93.A85 972.QT97.QJ2.632 AJ5.K63.K7.QJT74"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Room "Open"]
+[Round "5"]
+[Score "+660"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1H Pass 1S
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+HT H3 HA H2
+H7 HK H4 H5
+C6 CQ C9 C5
+C2 C4 CK CA
+C3 CJ D6 C8
+S7 CT D4 H8
+HQ C7 S3 HJ
+S2 S5 S4 SK
+S9 SJ S8 S6
+DQ SA ST SQ
+- DK - -
+*
+
+[Event "1999 Dutch Teams Final"]
+[Site "De Remise - Utrecht, The Netherlands, NLD"]
+[Date "1999.12.12"]
+[Board "20"]
+[West "Zhao"]
+[North "Bakker"]
+[East "Vis"]
+[South "Klaver"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T843.A4.T8654.K9 KQ6.J852.A93.A85 972.QT97.QJ2.632 AJ5.K63.K7.QJT74"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Room "Closed"]
+[Round "5"]
+[Score "+690"]
+[Auction "W"]
+Pass 1C Pass 2C
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "E"]
+HT H3 HA H2
+H9 HK H4 H8
+C6 CQ C9 C5
+C3 C4 CK CA
+*
+

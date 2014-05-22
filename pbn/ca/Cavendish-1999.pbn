@@ -1,0 +1,6103 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "1"]
+[West "Hamman"]
+[North "Lauria"]
+[East "Nickell"]
+[South "Versace"]
+[Vulnerable "None"]
+[Deal "S:KJT954.AQ63.J4.T AQ763.KJT4.853.Q 82.5.Q72.AK96432 .9872.AKT96.J875"]
+[Dealer "N"]
+[Auction "N"]
+3C Pass Pass X
+Pass 4C Pass 4S
+Pass 5D Pass 5H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5H"]
+[Play "N"]
+CA C5 CT CQ
+H5 H9 H3 HJ
+S2 H2 S5 S3
+C3 H7 H6 HT
+DQ DA D4 D3
+D2 DK DJ D5
+D7 H8 HA H4
+C2 C7 HQ HK
+*
+[Room "Open"]
+[Result "10"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "2"]
+[West "Hamman"]
+[North "Lauria"]
+[East "Nickell"]
+[South "Versace"]
+[Vulnerable "NS"]
+[Deal "S:AJ5.Q872.QJ76.Q9 T72.JT5.K952.652 9864.43.T843.T87 KQ3.AK96.A.AKJ43"]
+[Dealer "E"]
+[Auction "E"]
+2C Pass 2D Pass
+3C Pass 3D Pass
+3H Pass 4C Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4C"]
+[Play "S"]
+DQ D2 D3 DA
+C9 C2 C7 CA
+CQ C5 C8 CK
+D6 C6 CT CJ
+H2 H5 H3 HA
+HQ HT H4 H6
+*
+[Room "Open"]
+[Result "11"]
+[Score "+150"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "3"]
+[West "Sontag"]
+[North "Hamman"]
+[East "Weichsel"]
+[South "Nickell"]
+[Vulnerable "EW"]
+[Deal "S:.JT52.AJ9763.T85 QT98752.A94.T.A7 AJ4.KQ76.Q54.K63 K63.83.K82.QJ942"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S 1NT 2S
+X Pass 3H Pass
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+H3 H2 HA H7
+C9 C5 CA C6
+C4 C8 C7 CK
+S3 CT S2 SA
+H8 HJ H4 H6
+C2 H5 H9 HQ
+D2 DJ DT D4
+DK D3 S5 DQ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "4"]
+[West "Sontag"]
+[North "Hamman"]
+[East "Weichsel"]
+[South "Nickell"]
+[Vulnerable "Both"]
+[Deal "S:KT7642.J2.KQ732. AJ985.AK84.T98.4 .QT753.AJ64.AK96 Q3.96.5.QJT87532"]
+[Dealer "W"]
+[Auction "W"]
+1S X 1NT 3D
+Pass 3S Pass 4C
+Pass 4S Pass 5D
+Pass Pass Pass
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+HK H3 H9 H2
+HA H5 H6 HJ
+H8 HQ D5 D7
+D9 DA C3 D2
+H4 HT C2 S2
+C4 CA C5 S4
+D8 CK C7 S6
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "5"]
+[West "Nickell"]
+[North "Buratti"]
+[East "Hamman"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:AJ9.542.82.AKQT2 Q7.AT9.AQT76.854 KT8643.KQ7.J53.3 52.J863.K94.J976"]
+[Dealer "N"]
+[Auction "N"]
+2S Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+D4 D2 DA D5
+H3 H2 H9 HK
+S2 S9 S7 SK
+S5 SA SQ S3
+C6 CA C4 C3
+C7 CK C5 D3
+C9 CQ C8 DJ
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "6"]
+[West "Nickell"]
+[North "Buratti"]
+[East "Hamman"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:Q765.76.Q8654.K7 AJ9842.Q42.J2.J9 K.T85.AKT3.Q6532 T3.AKJ93.97.AT84"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1S 1NT
+Pass 3D 3H Pass
+Pass 4D Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4D"]
+[Play "W"]
+H2 H5 HK H6
+H4 H8 HA H7
+SA SK S3 S7
+HQ HT HJ D4
+D2 DA D7 D6
+C9 C2 CA C7
+CJ C3 H9 D5
+DJ DK D9 D8
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "7"]
+[West "Nickell"]
+[North "Cohen"]
+[East "Hamman"]
+[South "Berkowitz"]
+[Vulnerable "Both"]
+[Deal "S:AT4.T6543.2.JT95 93.87.Q98653.Q43 Q752.AJ9.KT7.AK2 KJ86.KQ2.AJ4.876"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1NT Pass
+2D Pass 2H Pass
+3C Pass 3D Pass
+3H Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+S6 S4 S9 SQ
+SJ SA S3 S5
+DA D2 D6 DK
+SK ST D3 S2
+S8 HT D5 S7
+C6 CJ C3 C2
+HQ H3 H7 HJ
+C7 CT C4 CA
+H2 H4 H8 HA
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "8"]
+[West "Nickell"]
+[North "Cohen"]
+[East "Hamman"]
+[South "Berkowitz"]
+[Vulnerable "None"]
+[Deal "S:.AT42.AT42.Q9863 KJT9.Q5.K75.A752 AQ642.87.QJ93.J4 8753.KJ963.86.KT"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 2S X
+Pass 3D Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+CK C3 C7 C4
+CT C6 CA CJ
+D6 C8 C2 H7
+D8 D2 DK D3
+S3 D4 D5 DQ
+S8 DT S9 S4
+S5 CQ C5 S2
+S7 C9 D7 D9
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "9"]
+[West "Stansby"]
+[North "Nickell"]
+[East "Martel"]
+[South "Hamman"]
+[Vulnerable "EW"]
+[Deal "S:952.QT7.AQJT3.AJ A64.A.K7652.KT83 KJT73.J94.9.Q765 Q8.K86532.84.942"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 1NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+C3 C5 C9 CJ
+S6 SJ SQ S5
+D5 D9 D8 D3
+S4 S3 S8 S9
+DK S7 D4 DQ
+SA ST C4 S2
+HA H4 H2 H7
+D6 C6 H5 DA
+D2 HJ HK HT
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "10"]
+[West "Stansby"]
+[North "Nickell"]
+[East "Martel"]
+[South "Hamman"]
+[Vulnerable "Both"]
+[Deal "S:AQT32.KJ75.8.QT2 864.A9.Q92.KJ643 K75.Q832.J53.987 J9.T64.AKT764.A5"]
+[Dealer "E"]
+[Auction "E"]
+1D X XX 1H
+Pass 2H Pass Pass
+3D Pass Pass Pass
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+H5 HA H8 H4
+H7 H9 HQ H6
+SQ S4 S5 SJ
+SA S6 S7 S9
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "11"]
+[West "Kasle"]
+[North "Hamman"]
+[East "Steiner"]
+[South "Nickell"]
+[Vulnerable "None"]
+[Deal "S:64.T752.J543.Q86 AQT.AK.98762.J75 K982.Q643.KT.A42 J753.J98.AQ.KT93"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D X XX
+1H Pass Pass 1S
+Pass 1NT Pass Pass
+Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+H3 H9 H7 HK
+C4 CT CQ C5
+H6 H8 H2 HA
+C2 CK C6 C7
+SK S3 S6 SQ
+CA C3 C8 CJ
+HQ HJ H5 D2
+H4 S5 HT D6
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "12"]
+[West "Kasle"]
+[North "Hamman"]
+[East "Steiner"]
+[South "Nickell"]
+[Vulnerable "NS"]
+[Deal "S:KT9.A653.K752.K2 AQ3.9.84.AQT8654 J82.KJT4.AQT963. 7654.Q872.J.J973"]
+[Dealer "W"]
+[Auction "W"]
+1C 1D X 2C
+3C 3H Pass 4H
+Pass Pass 5C X
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5CX"]
+[Play "N"]
+HJ H2 HA H9
+D6 C3 C2 CA
+DQ DJ D7 D4
+S2 S4 SK SA
+D9 C7 D2 D8
+S8 S5 ST SQ
+D3 CJ CK C4
+SJ S6 S9 S3
+*
+[Room "Open"]
+[Result "9"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "13"]
+[West "Miller"]
+[North "Hamman"]
+[East "Cheek"]
+[South "Nickell"]
+[Vulnerable "Both"]
+[Deal "S:A93.KJ.52.A98653 KQ5.T8642.KQ.T72 T8764.AQ75.J984. J2.93.AT763.KQJ4"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C Pass
+1S Pass 2C Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2C"]
+[Play "W"]
+DK D4 D7 D2
+DQ D8 D3 D5
+H2 H5 H9 HK
+C7 S4 C4 CA
+C2 S6 CJ C3
+CT D9 D6 S3
+SK S7 S2 SA
+H8 HA H3 HJ
+H4 HQ CQ S9
+H6 DJ DA C5
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "14"]
+[West "Miller"]
+[North "Hamman"]
+[East "Cheek"]
+[South "Nickell"]
+[Vulnerable "None"]
+[Deal "S:AT85.J92.A64.A62 QJ.QT7.T875.J983 K7643.53.QJ.KQ75 92.AK864.K932.T4"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+SQ SK S2 S5
+H7 H3 HK H2
+HT H5 HA H9
+D8 DJ D3 D4
+SJ S3 S9 SA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "15"]
+[West "Lambardi"]
+[North "Hamman"]
+[East "Camberos"]
+[South "Nickell"]
+[Vulnerable "NS"]
+[Deal "S:Q987.9642.J62.A6 KJ53..8754.KQ982 AT2.AK5.QT9.JT43 64.QJT873.AK3.75"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1H
+X Pass 1NT 2H
+Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+S7 SJ SA S6
+S8 SK ST S4
+D2 D4 DT DA
+CA C2 C4 C5
+SQ S3 S2 H3
+D6 D5 D9 DK
+C6 CK C3 C7
+H2 CQ CJ D3
+S9 S5 HA H7
+DJ C8 CT HQ
+H4 D7 HK HT
+- - DQ -
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "16"]
+[West "Lambardi"]
+[North "Hamman"]
+[East "Camberos"]
+[South "Nickell"]
+[Vulnerable "EW"]
+[Deal "S:AJT93.J.QJ8642.9 875.KT983.75.AQ4 Q6.Q654.AT.KT875 K42.A72.K93.J632"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C 1D
+1H 1NT Pass 2S
+Pass 3NT Pass Pass
+X Pass Pass 4D
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4D"]
+[Play "W"]
+CA C5 C2 C9
+HT H4 HA HJ
+CQ CK C6 S3
+S5 SQ SK SA
+D5 DA D3 D2
+D7 DT DK D4
+C4 C7 CJ DQ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "17"]
+[West "Schwartz"]
+[North "Hamman"]
+[East "Jacobus"]
+[South "Nickell"]
+[Vulnerable "None"]
+[Deal "S:97.A83.98642.J62 J8.KT654.KQJ.QT3 KT.QJ97.73.AK985 AQ65432.2.AT5.74"]
+[Dealer "N"]
+[Auction "N"]
+1C 1S Pass 2H
+Pass 2S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+C2 CT CK C4
+D2 DJ D7 D5
+S7 S8 ST SQ
+S9 SJ SK SA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "18"]
+[West "Schwartz"]
+[North "Hamman"]
+[East "Jacobus"]
+[South "Nickell"]
+[Vulnerable "NS"]
+[Deal "S:KQ.T95.A843.J543 T32.A7432.Q95.82 J97.Q6.KJT6.KQ96 A8654.KJ8.72.AT7"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+HT H2 HQ HK
+SK S2 S7 SA
+SQ S3 S9 S4
+DA D5 DJ D2
+D3 D9 DT D7
+C5 C2 CK CA
+H5 H3 H6 HJ
+H9 HA SJ H8
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "19"]
+[West "Hamman"]
+[North "Fallenius"]
+[East "Nickell"]
+[South "Moss"]
+[Vulnerable "EW"]
+[Deal "S:AQ952.95.QJT74.6 J4.863.65.KQJ985 T8.QJ72.AK932.A3 K763.AKT4.8.T742"]
+[Dealer "S"]
+[Auction "S"]
+2S Pass 2NT Pass
+3S Pass Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+CK CA C2 C6
+SJ ST S3 S2
+D6 DA D8 D4
+S4 S8 S7 S9
+H3 H2 S6 SA
+D5 DK SK D7
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "20"]
+[West "Hamman"]
+[North "Fallenius"]
+[East "Nickell"]
+[South "Moss"]
+[Vulnerable "Both"]
+[Deal "S:94.AKQ98.AK97.AK JT76.J72.64.Q952 K83.654.T8.T8743 AQ52.T3.QJ532.J6"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2H
+Pass 3H Pass 4C
+Pass 4H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SJ S3 S5 S4
+S6 S8 SQ S9
+ST SK SA H9
+D4 D8 D2 DA
+D6 DT D3 DK
+H7 C3 D5 D9
+H2 H4 HT HA
+HJ H5 H3 HK
+C2 H6 DJ D7
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "21"]
+[West "Shugart"]
+[North "Hamman"]
+[East "Robson"]
+[South "Nickell"]
+[Vulnerable "NS"]
+[Deal "S:5.AJT964.KQJ2.J6 AKJ3.7.9853.KT72 QT2.K52.A64.AQ98 98764.Q83.T7.543"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H Pass 2S X
+Pass 3S 4D Pass
+4H Pass Pass 4S
+X Pass Pass Pass
+[Declarer "E"]
+[Contract "4SX"]
+[Play "S"]
+DK D3 D4 DT
+S5 SA S2 S7
+DJ D5 D6 D7
+D2 D8 DA S8
+HJ H7 HK HQ
+H4 SJ ST S4
+DQ D9 C9 S9
+C6 CT CQ C3
+H9 S3 H5 H8
+CJ C2 C8 C5
+HA SK H2 H3
+*
+[Room "Open"]
+[Result "6"]
+[Score "-800"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "22"]
+[West "Shugart"]
+[North "Hamman"]
+[East "Robson"]
+[South "Nickell"]
+[Vulnerable "EW"]
+[Deal "S:J63.7643.Q987.32 AKT9.8.AKJ32.A64 742.AKJ92.654.T7 Q85.QT5.T.KQJ985"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H
+2NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H3 H8 HK H5
+H4 C4 H2 HQ
+*
+[Room "Open"]
+[Result "12"]
+[Score "+690"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "23"]
+[West "Rohowsky"]
+[North "Hamman"]
+[East "Schiesser"]
+[South "Nickell"]
+[Vulnerable "Both"]
+[Deal "S:QJ9.AT93.AQ8765. AKT87632.J.J.AJ7 .Q4.KT93.KQT9652 54.K87652.42.843"]
+[Dealer "S"]
+[Auction "S"]
+1D 4S 5D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+SA D3 S5 S9
+CA CK C3 H3
+SK D9 S4 SJ
+DJ DT D2 DA
+S2 DK D4 D5
+C7 CQ C4 H9
+HJ H4 H2 HA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+600"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "24"]
+[West "Rohowsky"]
+[North "Hamman"]
+[East "Schiesser"]
+[South "Nickell"]
+[Vulnerable "None"]
+[Deal "S:Q2.T952.A9.QT952 J3.843.KT643.J43 AKT96.KQ7.2.AK87 8754.AJ6.QJ875.6"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S Pass 1NT
+Pass 3C Pass 3D
+Pass 3NT Pass 4C
+Pass 4H Pass 4NT
+Pass 5H Pass 6C
+Pass Pass Pass
+[Declarer "N"]
+[Contract "6C"]
+[Play "E"]
+DQ DA DT D2
+C6 C2 C4 CA
+S8 C5 C3 CK
+S7 CQ CJ C7
+HA H2 H4 HK
+DJ D9 D3 C8
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "25"]
+[West "Abecassis"]
+[North "Hamman"]
+[East "Molson"]
+[South "Nickell"]
+[Vulnerable "EW"]
+[Deal "S:Q94.KT4.QJ8.QJ42 8.76532.972.KT96 AJ7632.Q.AT6.875 KT5.AJ98.K543.A3"]
+[Dealer "N"]
+[Auction "N"]
+1S X XX 2H
+2S Pass 3S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+CA C2 CT C5
+C3 CJ CK C7
+S5 C4 C9 C8
+HA H4 H2 HQ
+H9 HK H3 D6
+SK S4 S8 SJ
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "26"]
+[West "Abecassis"]
+[North "Hamman"]
+[East "Molson"]
+[South "Nickell"]
+[Vulnerable "Both"]
+[Deal "S:Q.K942.Q4.KJT863 JT6543.Q7.5.A975 97.JT865.AKJ963. AK82.A3.T872.Q42"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S 2H
+2S 4H 4S Pass
+Pass 5H X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "5HX"]
+[Play "E"]
+SK SQ S6 S7
+D7 D4 D5 D9
+H3 H2 HQ HJ
+C2 C3 CA H5
+HA H4 H7 H6
+*
+[Room "Open"]
+[Result "10"]
+[Score "-200"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "1"]
+[West "Baze"]
+[North "Ekeblad"]
+[East "Whitman"]
+[South "Sutherlin"]
+[Vulnerable "None"]
+[Deal "S:T984.J853.9.AJ42 J532.Q9.Q63.9853 AK76.T.AJ8754.K7 Q.AK7642.KT2.QT6"]
+[Dealer "N"]
+[Auction "N"]
+1D 1H 1S Pass
+4S Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HQ HT H7 H3
+H9 S6 H2 H5
+D3 DA D2 D9
+D6 D4 DK S4
+S2 SA SQ ST
+DQ D5 DT S8
+C3 CK C6 C2
+C5 D7 H6 S9
+C8 C7 CT CA
+C9 S7 CQ C4
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "2"]
+[West "Baze"]
+[North "Ekeblad"]
+[East "Whitman"]
+[South "Sutherlin"]
+[Vulnerable "NS"]
+[Deal "S:J8.AT96.KQ64.653 K543.K5.J97.AKJ4 A92.QJ.AT852.QT7 QT76.87432.3.982"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+HQ H2 H6 HK
+HJ H3 HA H5
+C7 C2 C6 CA
+D2 D3 DQ DJ
+CT C8 C5 CK
+D8 S6 D4 D7
+S9 H4 H9 S5
+CQ C9 C3 CJ
+DA S7 D6 D9
+SA SQ S8 S3
+DT H7 DK S4
+S2 ST SJ SK
+D5 H8 HT C4
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "3"]
+[West "Schermer"]
+[North "Baze"]
+[East "Chambers"]
+[South "Whitman"]
+[Vulnerable "EW"]
+[Deal "S:AK965.T4.95.K964 J84.AK73.K43.JT5 Q2.Q652.AT762.87 T73.J98.QJ8.AQ32"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass Pass
+1S Pass Pass Pass
+[Declarer "S"]
+[Contract "1S"]
+[Play "W"]
+CJ C7 CA C4
+S8 SQ S3 S5
+C5 C8 C2 CK
+CT S2 C3 C6
+HA H2 H8 HT
+D3 DA D8 D5
+H3 H5 HJ H4
+DK D2 CQ C9
+D4 D6 DQ D9
+SJ D7 DJ S6
+*
+[Room "Open"]
+[Result "7"]
+[Score "+80"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "4"]
+[West "Schermer"]
+[North "Baze"]
+[East "Chambers"]
+[South "Whitman"]
+[Vulnerable "Both"]
+[Deal "S:T9.J93.AJ82.K832 54.KQT85.T63.AJT KJ8632.7642.54.6 AQ7.A.KQ97.Q9754"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H 1S Pass Pass
+2H Pass Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+C6 C4 C2 CJ
+D4 DK DA D6
+H2 C5 C3 CT
+D5 DQ D2 D3
+H4 HA H3 H5
+S2 D7 DJ DT
+S3 SQ ST S4
+S6 SA S9 S5
+S8 S7 H9 HT
+H6 C7 HJ HK
+- - - HQ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "5"]
+[West "Baze"]
+[North "Lauria"]
+[East "Whitman"]
+[South "Versace"]
+[Vulnerable "NS"]
+[Deal "S:4.QJ92.K983.AJT8 3.AK765.T62.Q973 KQT762.83.AQ.K42 AJ985.T4.J754.65"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 2C 2H
+2S 2NT Pass Pass
+3H Pass 3NT Pass
+Pass X Pass Pass
+Pass
+[Declarer "S"]
+[Contract "3NTX"]
+[Play "W"]
+H6 H3 HT HJ
+HK H8 H4 H2
+D2 DA D5 D3
+CQ C2 C5 CJ
+D6 DQ D4 D9
+C3 CK C6 C8
+C7 C4 S5 CA
+C9 S2 S8 CT
+DT S6 D7 DK
+H5 S7 DJ D8
+*
+[Room "Open"]
+[Result "9"]
+[Score "+750"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "6"]
+[West "Baze"]
+[North "Lauria"]
+[East "Whitman"]
+[South "Versace"]
+[Vulnerable "EW"]
+[Deal "S:KT7.A8.T9876.K62 QJ83.942.42.9874 95.T753.KJ53.AJ5 A642.KQJ6.AQ.QT3"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass Pass Pass
+[Declarer "E"]
+[Contract "1C"]
+[Play "S"]
+DT D2 D3 DQ
+HA H2 H3 HQ
+D9 D4 D5 DA
+H8 H4 H5 HK
+C2 H9 H7 HJ
+CK C4 C5 C3
+C6 C7 CA CT
+D6 C8 DK S2
+SK SQ S5 S4
+S7 S3 S9 SA
+*
+[Room "Open"]
+[Result "8"]
+[Score "+90"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "7"]
+[West "Baze"]
+[North "Weichsel"]
+[East "Whitman"]
+[South "Sontag"]
+[Vulnerable "Both"]
+[Deal "S:9832.T82.K2.AKJ8 QJ7.KJ.AJT984.Q3 AKT4.Q7.Q653.762 65.A96543.7.T954"]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass 2NT Pass
+3S Pass Pass Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+D7 D2 D8 DQ
+S5 DK DJ D3
+H5 H2 HK H7
+HA H8 HJ HQ
+H9 HT S7 ST
+S6 S2 SQ SA
+H3 S3 SJ SK
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "8"]
+[West "Baze"]
+[North "Weichsel"]
+[East "Whitman"]
+[South "Sontag"]
+[Vulnerable "None"]
+[Deal "S:J9.AQT.Q864.A874 K8632.J9743.3.K5 Q54.82.AT72.T962 AT7.K65.KJ95.QJ3"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 1NT Pass
+2H Pass 2S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+C6 C3 CA C5
+CT CJ C4 CK
+S4 SA S9 S2
+C2 CQ C7 D3
+H2 H5 HQ H3
+D2 D5 D6 S3
+H8 HK HA H4
+S5 H6 HT HJ
+C9 D9 C8 S6
+SQ S7 SJ SK
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "9"]
+[West "Baze"]
+[North "Buratti"]
+[East "Whitman"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:A7.J63.J5.QJ9642 842.QT2.Q6.AT873 KT65.K9875.AT4.5 QJ93.A4.K98732.K"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2C Pass
+2D Pass 2H Pass
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SQ SA S2 S5
+S3 S7 S4 SK
+S9 H3 S8 S6
+CK C2 C3 C5
+HA H6 H2 H5
+H4 HJ HQ HK
+D9 C4 HT H7
+D2 C6 CA H8
+SJ C9 C7 ST
+D3 D5 DQ DA
+DK DJ D6 D4
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "10"]
+[West "Baze"]
+[North "Buratti"]
+[East "Whitman"]
+[South "Lanzarotti"]
+[Vulnerable "Both"]
+[Deal "S:T9.KT32.A4.QT764 AQ652.64.T875.K2 73.AQJ97.J9.AJ53 KJ84.85.KQ632.98"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1S 2H
+2S 2NT Pass 3C
+Pass 4H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+S4 ST SA S3
+SK S9 SQ S7
+DK D4 D5 D9
+H5 H2 H6 H7
+H8 HT H4 H9
+- H3 - -
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "11"]
+[West "Baze"]
+[North "Cohen"]
+[East "Whitman"]
+[South "Berkowitz"]
+[Vulnerable "None"]
+[Deal "S:J985.Q9.AQ3.A932 A7632.AKJ.J7.QJ4 QT4.T74.964.8765 K.86532.KT852.KT"]
+[Dealer "S"]
+[Auction "S"]
+1D 1S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "1S"]
+[Play "N"]
+D4 D2 DQ D7
+H7 H2 H9 HA
+D6 D5 DA DJ
+H4 H3 HQ HK
+S4 SK S8 S2
+C5 CK CA C4
+C6 CT C2 CQ
+ST H5 S5 SA
+SQ H6 S9 S3
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "12"]
+[West "Baze"]
+[North "Cohen"]
+[East "Whitman"]
+[South "Berkowitz"]
+[Vulnerable "NS"]
+[Deal "S:AQ2.QT982.876.82 96543.AK4.QT9.KT K87.J765.AKJ32.3 JT.3.54.AQJ97654"]
+[Dealer "W"]
+[Auction "W"]
+1S Pass 2C Pass
+2NT Pass 3C Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DA D4 D8 D9
+S8 ST SA S3
+DJ D5 D7 DT
+DK C4 D6 DQ
+SK SJ S2 S4
+D3 C5 C8 S5
+D2 C6 C2 H4
+*
+[Room "Open"]
+[Result "5"]
+[Score "-200"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "13"]
+[West "Stansby"]
+[North "Baze"]
+[East "Martel"]
+[South "Whitman"]
+[Vulnerable "Both"]
+[Deal "S:8.J732.A43.AQ983 K.QT6.KT752.JT75 AJT9763.85.Q9.K2 Q542.AK94.J86.64"]
+[Dealer "N"]
+[Auction "N"]
+3S Pass Pass Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+HK H2 H6 H5
+D6 DA D2 D9
+C4 C3 C5 CK
+C6 CA C7 C2
+S2 CQ CT DQ
+HA H3 HT H8
+H4 H7 HQ S3
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "14"]
+[West "Stansby"]
+[North "Baze"]
+[East "Martel"]
+[South "Whitman"]
+[Vulnerable "None"]
+[Deal "S:K7.K85.JT764.T62 Q98.Q3.53.AQJ874 T6.J6.AKQ982.K93 AJ5432.AT9742..5"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT 2D
+2H 3D 4S 5D
+5S Pass Pass Pass
+[Declarer "E"]
+[Contract "5S"]
+[Play "S"]
+DJ D3 DQ S3
+H5 H3 H6 HA
+HK HQ HJ H2
+H8 S8 ST H4
+D4 D5 D8 S2
+C2 CA C3 C5
+SK SQ S6 S5
+*
+[Room "Open"]
+[Result "10"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "15"]
+[West "Baze"]
+[North "Lewis P"]
+[East "Whitman"]
+[South "Lewis L"]
+[Vulnerable "NS"]
+[Deal "S:95.JT8765..Q9743 KT87.KQ432.76.65 QJ42..AKJT9832.T A63.A9.Q54.AKJ82"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 5D X
+Pass 5H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "5H"]
+[Play "N"]
+DA D4 S5 D6
+DK D5 S9 D7
+S4 S3 H5 S7
+CT CJ C9 C5
+D2 HA H6 H2
+D3 DQ H7 S8
+D8 H9 HJ HK
+D9 CA C3 C6
+DT CK C4 ST
+*
+[Room "Open"]
+[Result "8"]
+[Score "-150"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "16"]
+[West "Baze"]
+[North "Lewis P"]
+[East "Whitman"]
+[South "Lewis L"]
+[Vulnerable "EW"]
+[Deal "S:876.KT.KQJ53.T86 AKQT.985.AT.Q732 J54.A6.862.AKJ54 932.QJ7432.974.9"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+DK DA D8 D4
+C8 C2 CJ C9
+S6 ST S4 S2
+DJ DT D6 D7
+S8 SQ S5 S3
+C6 C3 CK H2
+DQ H8 D2 D9
+HK H5 H6 HQ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "17"]
+[West "Baze"]
+[North "Lord"]
+[East "Whitman"]
+[South "Kurkowski"]
+[Vulnerable "None"]
+[Deal "S:T965.Q964.JT62.8 AK84.T732.Q875.5 QJ7.AJ8.AK3.AJ73 32.K5.94.KQT9642"]
+[Dealer "N"]
+[Auction "N"]
+1H 3C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+DJ D5 D3 D4
+D2 D7 DK D9
+H4 H2 HJ HK
+S6 SA S7 S2
+D6 D8 DA C2
+S5 SK SJ S3
+DT DQ C7 H5
+H6 H3 HA C4
+C8 C5 CA CQ
+S9 S4 SQ CT
+- - - CK
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "18"]
+[West "Baze"]
+[North "Lord"]
+[East "Whitman"]
+[South "Kurkowski"]
+[Vulnerable "NS"]
+[Deal "S:3.KT5432.K7652.3 KJ974.A.J9.K9865 AQT65.J76.AQT3.2 82.Q98.84.AQJT74"]
+[Dealer "E"]
+[Auction "E"]
+3C Pass 5C X
+Pass 5H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "5H"]
+[Play "W"]
+C6 C2 CA C3
+S4 ST S8 S3
+HA H6 H8 HT
+SK S5 S2 H2
+C5 H7 H9 HK
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "19"]
+[West "Baze"]
+[North "Rossano"]
+[East "Whitman"]
+[South "Vivaldi"]
+[Vulnerable "EW"]
+[Deal "S:T52.K854.K3.AQT8 J63.AQJ9.J87.K95 Q4.632.AQT.J6432 AK987.T7.96542.7"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 1NT Pass
+Pass Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+S8 S2 S3 SQ
+C7 CQ CK C2
+SA S5 S6 S4
+SK ST SJ H3
+S9 H4 D7 H2
+S7 C8 D8 H6
+D4 DK DJ DT
+H7 CA C5 C3
+- CT C9 C4
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "20"]
+[West "Baze"]
+[North "Rossano"]
+[East "Whitman"]
+[South "Vivaldi"]
+[Vulnerable "Both"]
+[Deal "S:82.T84.J86.T7642 J973.Q73.93.AJ95 AQT4.A9652.KT5.K K65.KJ.AQ742.Q83"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "1H"]
+[Play "E"]
+DA D6 D9 D5
+D4 D8 D3 DT
+HJ H4 H3 HA
+HK H8 H7 H2
+DQ DJ C9 DK
+S5 S2 S7 SA
+SK S8 S3 SQ
+C3 C6 CA CK
+C8 HT HQ H5
+CQ C2 C5 H6
+S6 C4 S9 S4
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "21"]
+[West "Gower"]
+[North "Baze"]
+[East "Convery"]
+[South "Whitman"]
+[Vulnerable "NS"]
+[Deal "S:53.AQ832.62.AKJ3 K97.T76.T73.Q762 42.KJ94.KQ95.954 AQJT86.5.AJ84.T8"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S 2H 2S
+4H 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CK C2 C4 C8
+HA H6 H9 H5
+H3 H7 HK ST
+CA C6 C5 CT
+D6 D3 DQ DA
+S3 S7 S2 SQ
+S5 S9 S4 S6
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "22"]
+[West "Gower"]
+[North "Baze"]
+[East "Convery"]
+[South "Whitman"]
+[Vulnerable "EW"]
+[Deal "S:AQ854.98.86.6542 JT7.QJT.542.KQ83 62.AK7.AKQJ93.J9 K93.65432.T7.AT7"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H6 H8 HT HA
+D7 D6 D2 DA
+DT D8 D4 DK
+H3 S5 D5 DQ
+CT - - DJ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "23"]
+[West "Lara"]
+[North "Baze"]
+[East "Capucho"]
+[South "Whitman"]
+[Vulnerable "Both"]
+[Deal "S:AQ5.AT864.87.KJ8 KJ9432.92.9632.7 76.KQ53.KJT5.T32 T8.J7.AQ4.AQ9654"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 3H Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C7 C2 CA C8
+H2 C3 C4 CJ
+D6 DK DA D7
+H9 CT C5 CK
+D3 DJ DQ D8
+SK S6 ST SQ
+SJ S7 S8 SA
+*
+[Room "Open"]
+[Result "7"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "24"]
+[West "Lara"]
+[North "Baze"]
+[East "Capucho"]
+[South "Whitman"]
+[Vulnerable "None"]
+[Deal "S:Q2.QJ72.Q97.J986 J4.AKT983.654.52 K3.54.AJT.KQT743 AT98765.6.K832.A"]
+[Dealer "W"]
+[Auction "W"]
+2H 3C 3S 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+SJ SK SA S2
+S4 S3 ST SQ
+C2 CK CA C6
+HT H4 S9 D7
+C5 H5 S8 H2
+D4 DT S7 C8
+D5 DJ S6 C9
+H3 C3 S5 D9
+HK C4 H6 HQ
+HA C7 D2 H7
+*
+[Room "Open"]
+[Result "4"]
+[Score "-250"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "25"]
+[West "Baze"]
+[North "Hamman"]
+[East "Whitman"]
+[South "Nickell"]
+[Vulnerable "EW"]
+[Deal "S:T6.J93.KQJT542.5 AKJ54.6..AKQJT74 Q873.K754.763.62 92.AQT82.A98.983"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 3D 6C
+Pass Pass Pass
+[Declarer "W"]
+[Contract "6C"]
+[Play "N"]
+D3 DA DT S4
+C2 C3 C5 CA
+S3 S2 S6 SA
+S7 S9 ST SK
+S8 C8 D2 S5
+D6 D8 DJ C7
+SQ C9 D4 SJ
+D7 D9 DQ CK
+- - - CQ
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1390"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "26"]
+[West "Baze"]
+[North "Hamman"]
+[East "Whitman"]
+[South "Nickell"]
+[Vulnerable "Both"]
+[Deal "S:95.A2.AKJ654.T76 T8764.J543.Q.AQ3 QJ2.976.T98.J854 AK3.KQT8.732.K92"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+DK DQ D8 D3
+C6 C3 CJ CK
+D4 H3 D9 D2
+HA H4 H6 HK
+C7 CQ C4 C9
+H2 HJ H7 H8
+S5 S4 S2 SA
+D6 H5 DT D7
+S9 S6 SJ SK
+- - - HQ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "1"]
+[West "Passell"]
+[North "Lara"]
+[East "Wold"]
+[South "Capucho"]
+[Vulnerable "None"]
+[Deal "S:Q.JT75.8754.KT87 AK2.K8642.AJ2.J9 J85.A93.KQT.6542 T97643.Q.963.AQ3"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 4H Pass 4S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DK D3 D5 D2
+C2 C3 CK C9
+DT D6 D4 DA
+S5 S3 SQ SA
+S8 S4 D7 SK
+C4 CA C7 CJ
+C5 CQ C8 DJ
+HA HQ H5 H2
+SJ - - -
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "2"]
+[West "Passell"]
+[North "Lara"]
+[East "Wold"]
+[South "Capucho"]
+[Vulnerable "NS"]
+[Deal "S:AT87.QJ3.Q85.J85 K42.T984.AK.A432 J953.K.JT3.KQT97 Q6.A7652.97642.6"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 2H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+D5 DA D3 D4
+H3 HT HK HA
+D8 DK DT D2
+HQ H9 C9 H2
+DQ H4 DJ D6
+SA S2 S3 SQ
+HJ H8 S5 H5
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "3"]
+[West "Convery"]
+[North "Passell"]
+[East "Gower"]
+[South "Wold"]
+[Vulnerable "EW"]
+[Deal "S:QJ6.6.Q75.AJ9873 A8754.K7542.32.2 .AQ.AKJT86.KQT64 KT932.JT983.94.5"]
+[Dealer "S"]
+[Auction "S"]
+1C 3C 7C Pass
+Pass Pass
+[Declarer "S"]
+[Contract "7C"]
+[Play "W"]
+SA C4 S2 S6
+C2 CK C5 C3
+*
+[Room "Open"]
+[Result "13"]
+[Score "+1440"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "4"]
+[West "Convery"]
+[North "Passell"]
+[East "Gower"]
+[South "Wold"]
+[Vulnerable "Both"]
+[Deal "S:965.KQ653.K3.AT8 QT.J984.AT82.932 KJ872.T.964.QJ54 A43.A72.QJ75.K76"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 1H
+2D X Pass 2S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DA D4 D7 D3
+D2 D6 DJ DK
+H8 HT HA HQ
+SQ SK S3 S6
+D8 D9 DQ S9
+ST SJ SA S5
+H4 S8 S4 H3
+C2 CQ CK CA
+H9 C4 H2 HK
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "5"]
+[West "Vivaldi"]
+[North "Passell"]
+[East "Rossano"]
+[South "Wold"]
+[Vulnerable "NS"]
+[Deal "S:AQ82.Q5.9864.KJ9 9.JT874.KJT32.Q3 KJT6543.K3.5.T75 7.A962.AQ7.A8642"]
+[Dealer "N"]
+[Auction "N"]
+2S Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HA H5 H4 H3
+DA D4 D3 D5
+DQ D6 DK S3
+S7 SA S9 S4
+H2 HQ HJ HK
+C4 CJ CQ C7
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "6"]
+[West "Vivaldi"]
+[North "Passell"]
+[East "Rossano"]
+[South "Wold"]
+[Vulnerable "EW"]
+[Deal "S:Q63.T2.A9.AJT432 KJT52.K6.K7.K875 8.QJ7543.Q854.Q9 A974.A98.JT632.6"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1S 3H
+3S Pass 4S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+CQ C6 CA C5
+H3 HA HT H6
+D5 D2 DA D7
+HQ H8 H2 HK
+D8 D3 D9 DK
+S8 S4 S3 SK
+H4 SA S6 S2
+D4 D6 C3 S5
+C9 H9 C2 CK
+H5 - - C7
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "7"]
+[West "Kurkowski"]
+[North "Passell"]
+[East "Lord"]
+[South "Wold"]
+[Vulnerable "Both"]
+[Deal "S:92.QT42.QT74.653 K63.AK876.86.KQ8 AQT754.3.K3.J972 J8.J95.AJ952.AT4"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H 1S X
+Pass 1NT 2S X
+Pass 3C Pass 3H
+Pass 4H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+C7 C4 C3 CK
+H3 H9 H2 HA
+S7 H5 H4 HK
+D3 D5 DT D8
+S4 HJ HQ H6
+SQ S8 S9 S3
+SA SJ S2 S6
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "8"]
+[West "Kurkowski"]
+[North "Passell"]
+[East "Lord"]
+[South "Wold"]
+[Vulnerable "None"]
+[Deal "S:J9632.63.J54.864 AK.T7542.K.AT732 Q54.KJ9.9762.KQ5 T87.AQ8.AQT83.J9"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 4H Pass
+Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+CK C9 C6 CA
+H9 HA H3 H2
+S4 S7 S2 SK
+HK H8 H6 H4
+CQ CJ C8 C3
+C5 S8 C4 C7
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "9"]
+[West "Quinn"]
+[North "Passell"]
+[East "Breed"]
+[South "Wold"]
+[Vulnerable "EW"]
+[Deal "S:AT42.Q64.Q9.AK83 K9863.J.A8742.94 J.AKT753.KT.T752 Q75.982.J653.QJ6"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 3H Pass
+3NT Pass 4C Pass
+4D Pass 4NT Pass
+6H Pass Pass Pass
+[Declarer "N"]
+[Contract "6H"]
+[Play "E"]
+D5 D9 DA DT
+D3 DQ D4 DK
+H2 H4 HJ HA
+H8 HQ D2 H3
+H9 H6 D8 HK
+D6 C3 S3 HT
+DJ S2 S6 H7
+C6 CA C4 C2
+CJ CK C9 C5
+*
+[Room "Open"]
+[Result "11"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "10"]
+[West "Quinn"]
+[North "Passell"]
+[East "Breed"]
+[South "Wold"]
+[Vulnerable "Both"]
+[Deal "S:K85.KQT4.J65.A64 972.865.Q943.T73 AQJ63.J7.AK2.J98 T4.A932.T87.KQ52"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1NT Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+CK CA C7 C8
+S4 S5 S2 SQ
+ST S8 S9 SJ
+HA H4 H8 HJ
+CQ C4 C3 C9
+D7 DJ DQ DA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "11"]
+[West "Passell"]
+[North "Rodwell"]
+[East "Wold"]
+[South "Klar"]
+[Vulnerable "None"]
+[Deal "S:Q8.A.QT9865432.2 J732.KQJ83.J.KQ5 AT65.76.A7.A9764 K94.T9542.K.JT83"]
+[Dealer "S"]
+[Auction "S"]
+5D Pass 6D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "6D"]
+[Play "W"]
+HK H6 H2 HA
+DJ DA DK DQ
+C5 CA C3 C2
+CK C4 CT DT
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "12"]
+[West "Passell"]
+[North "Rodwell"]
+[East "Wold"]
+[South "Klar"]
+[Vulnerable "NS"]
+[Deal "S:K43.K985.J975.K8 Q9875.A.A8.QT953 A62.QJT632.Q3.J6 JT.74.KT642.A742"]
+[Dealer "W"]
+[Auction "W"]
+1S 2H X 3H
+4C Pass Pass Pass
+[Declarer "W"]
+[Contract "4C"]
+[Play "N"]
+HQ H4 H5 HA
+C6 CA C8 C5
+CJ C2 CK C3
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "13"]
+[West "Passell"]
+[North "Seamon"]
+[East "Wold"]
+[South "Ekeblad"]
+[Vulnerable "Both"]
+[Deal "S:AQ3.QJT9.AK7.T65 982.A82.Q632.J73 74.7543.J5.AQ982 KJT65.K6.T984.K4"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1NT Pass
+Pass 2D Pass 2H
+3C Pass Pass Pass
+[Declarer "N"]
+[Contract "3C"]
+[Play "E"]
+DT DA D6 D5
+CK C5 C3 CQ
+HK H9 H8 H3
+H6 HT HA H4
+C4 HQ H2 H5
+S5 SQ S2 S4
+D4 CT C7 C2
+S6 C6 CJ CA
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "14"]
+[West "Passell"]
+[North "Sanborn S"]
+[East "Wold"]
+[South "Sanborn K"]
+[Vulnerable "NS"]
+[Deal "S:A82.K9.A85.QJ865 KT63.AQT43.T62.7 J97.6.J974.AKT42 Q54.J8752.KQ3.93"]
+[Dealer "S"]
+[Auction "S"]
+1NT 2C 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H4 H6 HJ HK
+C7 C2 C3 CQ
+D2 CK C9 C5
+S3 CA D3 C6
+D6 C4 H8 C8
+S6 CT H2 CJ
+DT D4 DQ DA
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "15"]
+[West "Passell"]
+[North "Seamon"]
+[East "Wold"]
+[South "Ekeblad"]
+[Vulnerable "None"]
+[Deal "S:AQJ83.A9.AQ874.A K965.72.KT2.KJ53 T42.QT8.96.T9872 7.KJ6543.J53.Q64"]
+[Dealer "E"]
+[Auction "E"]
+2H X Pass 2NT
+Pass 3S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+H7 H8 HJ HA
+D2 D6 D3 DA
+DT D9 DJ D4
+S5 ST S7 S3
+SK S2 H3 SQ
+H2 HT HK H9
+C5 HQ H4 SJ
+DK S4 D5 D7
+C3 C2 C4 CA
+S6 C7 H5 SA
+S9 C8 H6 DQ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "16"]
+[West "Passell"]
+[North "Sanborn S"]
+[East "Wold"]
+[South "Sanborn K"]
+[Vulnerable "EW"]
+[Deal "S:A52.K874.T76.743 Q93.AQJT9.J98.T5 KJT874.3.KQ54.QJ 6.652.A32.AK9862"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S 2C 2S
+X 3S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+CA C3 CT CJ
+CK C4 C5 CQ
+C9 C7 HT S7
+S6 S2 S3 SK
+C2 SA S9 SJ
+DA D6 D8 DK
+H2 H4 HJ H3
+H5 S5 SQ S8
+H6 H7 HA S4
+D2 D7 D9 DQ
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "17"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Vulnerable "None"]
+[Deal "S:KQT53.K8.J7.A864 A82.A975.KT64.J5 9764.T6.A92.QT92 J.QJ432.Q853.K73"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S X
+3S 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SK SA S4 SJ
+S5 S2 S6 H2
+HK HA H6 HQ
+H8 H5 HT HJ
+D7 D4 DA DQ
+S3 S8 S7 H3
+DJ DK D2 D3
+C4 DT D9 D8
+C6 D6 C2 D5
+CA C5 C9 CK
+C8 CJ CQ C3
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "19"]
+[West "West"]
+[North "North"]
+[East "East"]
+[South "South"]
+[Vulnerable "EW"]
+[Deal "S:T87.KQT4.T.KJT53 AKQ32.32.AJ75.86 96.A95.98632.974 J54.J876.KQ4.AQ2"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D9 DK DT D5
+S6 S4 S7 SA
+S9 SJ S8 S2
+D2 S5 ST SK
+D3 DQ C3 D7
+D6 D4 C5 DA
+D8 H6 H4 DJ
+H5 HJ HQ H2
+HA H7 HT H3
+C7 CQ CK C6
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "20"]
+[West "Passell"]
+[North "Mari"]
+[East "Wold"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:KJT7.53.KQ43.KQT 8543.AJT9.J62.A8 A62.76.AT.J97652 Q9.KQ842.9875.43"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1H X
+2NT 3C Pass Pass
+3H 3S Pass 4C
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4C"]
+[Play "E"]
+HK H3 HT H7
+HQ H5 HA H6
+SQ SK S4 S6
+- CK - -
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "21"]
+[West "Stansby"]
+[North "Passell"]
+[East "Martel"]
+[South "Wold"]
+[Vulnerable "NS"]
+[Deal "S:AQ62.T2.KJT.T762 T43.A8754.52.K93 J5.Q63.Q984.QJ85 K987.KJ9.A763.A4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+S2 S3 SJ SK
+HT HA H3 H9
+H2 H4 H6 HJ
+SQ S4 S5 S8
+SA ST HQ S7
+*
+[Room "Open"]
+[Result "10"]
+[Score "+180"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "22"]
+[West "Stansby"]
+[North "Passell"]
+[East "Martel"]
+[South "Wold"]
+[Vulnerable "EW"]
+[Deal "S:QT72.KJ6.K652.T9 985.A7.A98.A6432 A643.853.J3.KQ85 KJ.QT942.QT74.J7"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H X Pass 2S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+CJ C9 CA C5
+H4 H6 HA H5
+H2 HJ H7 H8
+SJ S2 S5 SA
+SK S7 S8 S4
+H9 HK S9 H3
+C7 CT C4 CK
+D7 DK DA D3
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "23"]
+[West "Passell"]
+[North "Weichsel"]
+[East "Wold"]
+[South "Sontag"]
+[Vulnerable "Both"]
+[Deal "S:AT874.76.J87.A54 J952.JT983.3.J98 3.42.AK65.KT7632 KQ6.AKQ5.QT942.Q"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 2C X
+2D 2H Pass 4H
+X Pass Pass Pass
+[Declarer "W"]
+[Contract "4HX"]
+[Play "N"]
+DK D2 D7 D3
+S3 S6 SA S2
+H2 SQ S4 S5
+C7 CQ CA C8
+H4 SK ST S9
+*
+[Room "Open"]
+[Result "8"]
+[Score "-500"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "24"]
+[West "Passell"]
+[North "Weichsel"]
+[East "Wold"]
+[South "Sontag"]
+[Vulnerable "None"]
+[Deal "S:985432.J4.4.7543 KQ6.KT2.AKQ2.AK2 AJT.A6.J983.QJ98 7.Q98753.T765.T6"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass 2H Pass
+2NT Pass 4D Pass
+4H Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+D4 DA D9 D7
+H4 H2 HA H7
+HJ D2 DJ D5
+S9 SK SA S7
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "25"]
+[West "Passell"]
+[North "Levin"]
+[East "Wold"]
+[South "Weinstein"]
+[Vulnerable "EW"]
+[Deal "S:K76.T763.QJT5.73 QT42.98.42.KJ965 AJ93.AKJ42.873.8 85.Q5.AK96.AQT42"]
+[Dealer "N"]
+[Auction "N"]
+2D X 3H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+D4 D3 DK DJ
+D2 D7 DA DQ
+H8 D8 D6 DT
+C5 C8 CA C3
+C6 H2 D9 D5
+H9 HA H5 H3
+C9 HK HQ H6
+S2 S3 S5 SK
+S4 SJ S8 S6
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "3"]
+[Board "26"]
+[West "Passell"]
+[North "Levin"]
+[East "Wold"]
+[South "Weinstein"]
+[Vulnerable "Both"]
+[Deal "S:J84.KQ752.J9.754 975.A.8762.KT862 AQ62.64.K543.AQ3 KT3.JT983.AQT.J9"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 2D Pass 2H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+HT HK HA H4
+C9 C4 C2 C3
+CJ C5 CK CA
+H3 HQ C6 H6
+SK S4 S5 SQ
+H8 H2 C8 D3
+H9 H5 CT D4
+HJ H7 D2 S6
+ST S8 S7 SA
+S3 C7 D6 CQ
+- - - S2
+*
+[Room "Open"]
+[Result "5"]
+[Score "-300"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "1"]
+[West "Cohen"]
+[North "Levin"]
+[East "Smith"]
+[South "Weinstein"]
+[Vulnerable "None"]
+[Deal "S:Q9752.Q63.K743.8 K63.JT984.Q9.KT3 J84.AK7.T2.A9642 AT.52.AJ865.QJ75"]
+[Dealer "N"]
+[Auction "N"]
+1C 1D 1S X
+XX 2D 2S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DQ D2 D5 DK
+D9 DT DJ D3
+S3 S4 SA S2
+SK S8 ST S5
+S6 SJ H2 S7
+C3 CA C5 C8
+CT C2 C7 S9
+H4 H7 H5 HQ
+H8 HK D6 H3
+CK C4 CJ SQ
+H9 HA D8 H6
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "2"]
+[West "Cohen"]
+[North "Levin"]
+[East "Smith"]
+[South "Weinstein"]
+[Vulnerable "NS"]
+[Deal "S:65.AQ83.Q964.JT6 J.JT75.AT52.A752 T32.K96.K873.Q94 AKQ9874.42.J.K83"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass
+3S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CJ C2 C4 CK
+S5 SJ S2 S4
+D4 DA D3 DJ
+D6 D2 D7 S7
+S6 H5 S3 SA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "3"]
+[West "Cohen"]
+[North "Levin"]
+[East "Smith"]
+[South "Weinstein"]
+[Vulnerable "EW"]
+[Deal "S:4.QT94.QJ86.QJ96 AKQT7.A8762.43.3 8652.K53.92.AK82 J93.J.AKT75.T754"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2H Pass 3S
+Pass 4S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+CA C4 CQ C3
+S2 S3 S4 S7
+H3 HJ H4 HA
+H5 S9 H9 H2
+C8 C5 C6 ST
+HK SJ HT H6
+D2 DA D6 D3
+D9 DK D8 D4
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "4"]
+[West "Hampson"]
+[North "Smith"]
+[East "Greco"]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:K72.A9754.J32.T7 J865.KQ.AQ4.AJ54 AT9.J83.987.KQ86 Q43.T62.KT65.932"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+C6 C2 C7 CJ
+ST SQ SK S5
+C8 C3 CT CA
+S9 S3 S2 S6
+CK C9 H5 C4
+D9 D5 D2 DA
+SA S4 S7 SJ
+D8 D6 D3 DQ
+H3 H2 HA HQ
+H8 H6 H4 HK
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "5"]
+[West "Hampson"]
+[North "Smith"]
+[East "Greco"]
+[South "Cohen"]
+[Vulnerable "NS"]
+[Deal "S:J73.JT942.AJ.AQ9 K85.AK8.Q9832.73 T94.Q3.K74.J6542 AQ62.765.T65.KT8"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H Pass
+1NT Pass Pass Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+D6 DJ DQ DK
+C8 CQ C3 C2
+H7 H2 HK HQ
+DT DA D3 D4
+CT CA C7 C4
+H5 HJ HA H3
+D5 C9 D9 D7
+H6 S3 D8 C5
+S2 S7 D2 C6
+S6 SJ SK S4
+SQ H4 S5 S9
+SA H9 S8 ST
+CK HT H8 CJ
+*
+[Room "Open"]
+[Result "4"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "6"]
+[West "Hampson"]
+[North "Smith"]
+[East "Greco"]
+[South "Cohen"]
+[Vulnerable "EW"]
+[Deal "S:AKT643.5.AQT7.94 8.AKJT9.63.KJT63 QJ9.8762.8542.87 752.Q43.KJ9.AQ52"]
+[Dealer "E"]
+[Auction "E"]
+1C 1S 2H Pass
+3H 3S 4C 4S
+Pass Pass 5C Pass
+6C Pass Pass Pass
+[Declarer "E"]
+[Contract "6C"]
+[Play "S"]
+SA S8 S9 S2
+DA D3 D2 D9
+*
+[Room "Open"]
+[Result "11"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "7"]
+[West "Sontag"]
+[North "Smith"]
+[East "Weichsel"]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:QT4.T43..AQT8743 KJ832.KQJ87.Q.KJ A9.652.JT98542.6 765.A9.AK763.952"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 2D
+3C 3H Pass 3S
+Pass 4H Pass 4S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+C6 C2 CA CJ
+S9 C5 C3 CK
+D2 D3 S4 DQ
+D4 C9 C4 S8
+H2 HA H3 H7
+SA S5 ST SJ
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "8"]
+[West "Sontag"]
+[North "Smith"]
+[East "Weichsel"]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:3.AQ954.T2.Q9753 AT976.T73.AKJ85. KQJ854.8.4.AKT62 2.KJ62.Q9763.J84"]
+[Dealer "W"]
+[Auction "W"]
+1S 2C Pass 4S
+Pass 5C Pass Pass
+Pass
+[Declarer "N"]
+[Contract "5C"]
+[Play "E"]
+S2 S3 SA S4
+D3 D2 DA D4
+D6 DT DK C6
+- - - SJ
+*
+[Room "Open"]
+[Result "11"]
+[Score "+400"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "9"]
+[West "Sontag"]
+[North "Smith"]
+[East "Weichsel"]
+[South "Cohen"]
+[Vulnerable "EW"]
+[Deal "S:AQT842.K2.A4.T76 K9.AQ7543.85.Q43 3.T86.KQT732.AK8 J765.J9.J96.J952"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S 2H
+3D Pass 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H4 H6 H9 HK
+*
+[Room "Open"]
+[Result "10"]
+[Score "+430"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "10"]
+[West "Sontag"]
+[North "Mari"]
+[East "Weichsel"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:K97.543.852.AT92 42.AKQ92.AT.QJ63 JT53..QJ97643.75 AQ86.JT876.K.K84"]
+[Dealer "E"]
+[Auction "E"]
+2D Pass 3H Pass
+4H Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DQ DK D2 DT
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "11"]
+[West "Sontag"]
+[North "Mari"]
+[East "Weichsel"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:973.T5.A653.KQ64 AJ54.AQJ96.7.JT2 T86.K732.KT92.A5 KQ2.84.QJ84.9873"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2D Pass 2S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S7 S4 S6 SQ
+HT HQ H3 H8
+S3 S5 S8 SK
+H5 HJ HK H4
+CQ C2 C5 C8
+CK CT CA C9
+S9 H6 H2 D4
+DA D7 D2 D8
+C4 CJ ST C3
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "12"]
+[West "Sontag"]
+[North "Mari"]
+[East "Weichsel"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:AKQ95.65.AKQ.JT9 J2.AQ83..KQ87642 63.KT974.87643.A T874.J2.JT952.53"]
+[Dealer "W"]
+[Auction "W"]
+2C Pass Pass X
+3C 4H Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+CK CA C3 C9
+S2 S3 S4 SA
+C2 D3 C5 CJ
+CQ S6 S7 CT
+SJ D4 D2 DQ
+HA H4 H2 H5
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "13"]
+[West "Lazard"]
+[North "Mari"]
+[East "Bramley"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:43.J96543.KT3.A5 QJ6.T.Q9876.Q873 AK852.8.A54.KT92 T97.AKQ72.J2.J64"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 1NT Pass
+2C Pass 2H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+D7 D4 DJ DK
+HT H8 H2 H3
+SQ SA S7 S3
+C7 C2 C4 CA
+D6 C9 H7 H4
+C3 S2 HQ H5
+S6 S5 HK H6
+D8 D5 HA H9
+CQ CK C6 C5
+D9 DA D2 D3
+C8 CT CJ HJ
+SJ SK S9 S4
+DQ S8 ST DT
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "14"]
+[West "Lazard"]
+[North "Mari"]
+[East "Bramley"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:A8743.732.Q42.KQ JT95.K6.K975.A92 Q2.QJ9.T63.T8763 K6.AT854.AJ8.J54"]
+[Dealer "E"]
+[Auction "E"]
+1H 1S 1NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+SQ SK SA S5
+*
+[Room "Open"]
+[Result "10"]
+[Score "+180"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "15"]
+[West "Lazard"]
+[North "Mari"]
+[East "Bramley"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:AQ86.764.T764.97 K.AKJ2.Q8.KQJ843 JT954.T85.AKJ9.2 732.Q93.532.AT65"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1S 2C
+3S 5C Pass Pass
+Pass
+[Declarer "W"]
+[Contract "5C"]
+[Play "N"]
+DA D2 D7 D8
+DK D3 D6 DQ
+SJ S2 SA SK
+*
+[Room "Open"]
+[Result "10"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "16"]
+[West "Lewis L."]
+[North "Cohler"]
+[East "Lewis P."]
+[South "Tudor"]
+[Vulnerable "EW"]
+[Deal "S:KQ4.976.Q87.9854 JT87653.QT8.T96. 9.KJ54.A543.KQ62 A2.A32.KJ2.AJT73"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1NT Pass
+4H Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D7 D9 DA D2
+DQ D6 D5 DJ
+D8 DT D3 DK
+S4 S3 S9 SA
+SQ S5 C2 S2
+SK S6 D4 H2
+C9 H8 CQ CA
+C4 S7 C6 C3
+C5 SJ H4 C7
+H6 ST H5 CT
+H7 S8 HJ CJ
+H9 HT HK HA
+C8 HQ CK H3
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "17"]
+[West "Lewis L."]
+[North "Cohler"]
+[East "Lewis P."]
+[South "Tudor"]
+[Vulnerable "None"]
+[Deal "S:932.Q954.Q76.KQ9 KQJT.JT62.J9854. A84.AK873.T.AJ74 765..AK32.T86532"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2H Pass
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DA D6 D4 DT
+S5 S2 ST SA
+D3 HQ H2 H3
+C2 H9 HT HK
+C6 CK H6 C4
+S6 S3 SK S4
+S7 S9 SQ S8
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "18"]
+[West "Lewis L."]
+[North "Cohler"]
+[East "Lewis P."]
+[South "Tudor"]
+[Vulnerable "NS"]
+[Deal "S:QJT6.K53.985.J62 K82.976.Q76.KQ97 A5.A842.JT2.T853 9743.QJT.AK43.A4"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+H2 HT H5 H6
+C5 CA C2 C7
+C3 C4 C6 CK
+C8 S3 CJ CQ
+D2 D3 D5 DQ
+DT DK D8 D7
+DJ DA D9 D6
+H4 D4 S6 H7
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "19"]
+[West "Weinstein"]
+[North "Breed"]
+[East "Levin"]
+[South "Quinn"]
+[Vulnerable "EW"]
+[Deal "S:5.KJT9742.K852.4 AQ9..974.AJT8763 KJ743.3.QJT3.K95 T862.AQ865.A6.Q2"]
+[Dealer "S"]
+[Auction "S"]
+4H X Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4HX"]
+[Play "W"]
+CA C5 C2 C4
+D4 DQ DA D5
+CJ CK CQ S5
+C8 H3 H5 HK
+CT S3 HQ HJ
+S9 S4 S6 H2
+D9 DJ D6 D8
+SQ S7 ST H4
+D7 D3 H6 DK
+SA SJ S8 H7
+C3 DT HA HT
+*
+[Room "Open"]
+[Result "8"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "20"]
+[West "Weinstein"]
+[North "Breed"]
+[East "Levin"]
+[South "Quinn"]
+[Vulnerable "Both"]
+[Deal "S:QT92.KQ942.KJ5.T K876.T87.A8.AQ94 AJ53.A3.97.KJ762 4.J65.QT6432.853"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 2D X
+Pass 4S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+C3 CT CA C2
+C8 D5 C4 CJ
+C5 S2 C9 C7
+S4 SQ S6 S3
+D4 ST SK SA
+D2 S9 S7 S5
+H5 H2 H7 HA
+D3 DJ S8 SJ
+*
+[Room "Open"]
+[Result "12"]
+[Score "+680"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "21"]
+[West "Weinstein"]
+[North "Breed"]
+[East "Levin"]
+[South "Quinn"]
+[Vulnerable "NS"]
+[Deal "S:87432.J754.QJ.T4 QT65.T8.KT4.8632 AJ.KQ3.A763.AJ95 K9.A962.9852.KQ7"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass Pass Pass
+[Declarer "N"]
+[Contract "1D"]
+[Play "E"]
+D2 DJ DK D3
+HA H4 HT HK
+H2 H5 H8 HQ
+D5 DQ DT D6
+CQ CT C6 C5
+H6 HJ D4 H3
+CK C4 C2 CJ
+D9 S2 S5 DA
+C7 S3 C3 CA
+D8 S4 C8 C9
+*
+[Room "Open"]
+[Result "6"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "22"]
+[West "Wildavsky"]
+[North "Miller"]
+[East "Morse"]
+[South "Cheek"]
+[Vulnerable "EW"]
+[Deal "S:A962.87653.K95.2 QT5.QJT9.J.KQT83 KJ7.K2.AQT82.A64 843.A4.7643.J975"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H Pass 2NT
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+C5 C2 CQ CA
+D3 D5 DJ DQ
+D6 DK S5 D2
+D4 D9 HQ DA
+D7 H3 HT DT
+S8 H5 H9 D8
+S3 SA ST S7
+S4 S2 SQ SK
+C7 S6 C3 SJ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "23"]
+[West "Wildavsky"]
+[North "Miller"]
+[East "Morse"]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:K98654.AQJ3.4.64 J7.2.AKQ832.K872 A3.K985.JT975.QT QT2.T764.6.AJ953"]
+[Dealer "S"]
+[Auction "S"]
+1S 2D Pass Pass
+X Pass Pass Pass
+[Declarer "W"]
+[Contract "2DX"]
+[Play "N"]
+SA S2 S9 S7
+S3 ST SK SJ
+H9 H4 HA H2
+H5 H7 HQ D2
+D5 D6 D4 DA
+D7 C3 S6 DK
+CT C5 C4 CK
+CQ CA C6 C7
+*
+[Room "Open"]
+[Result "8"]
+[Score "+180"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "24"]
+[West "Wildavsky"]
+[North "Miller"]
+[East "Morse"]
+[South "Cheek"]
+[Vulnerable "None"]
+[Deal "S:76.654.A873.A764 T.AQJT3.T6.KJT85 AKJ9853.872.K.93 Q42.K9.QJ9542.Q2"]
+[Dealer "W"]
+[Auction "W"]
+1H 1S 2D Pass
+2H 2S Pass Pass
+3C Pass 3H 3S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+HK H4 HT H8
+CQ CA C5 C3
+S2 S6 ST SA
+S4 S7 CK SK
+SQ C4 H3 SJ
+C2 C6 CT C9
+H9 H5 HJ H2
+D2 H6 HQ H7
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "25"]
+[West "Chemla"]
+[North "Passell"]
+[East "Mari"]
+[South "Wold"]
+[Vulnerable "EW"]
+[Deal "S:AK94.QT6.J872.82 QJ87.87.AQ65.763 T6532.J5.K93.AQ9 .AK9432.T4.KJT54"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+Pass 3H Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SA S7 S2 H2
+H6 H7 H5 HA
+HT H8 HJ HK
+D2 DQ DK D4
+DJ DA D9 DT
+C2 C3 C9 CJ
+C8 C6 CA CK
+D8 D5 D3 H3
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "26"]
+[West "Chemla"]
+[North "Passell"]
+[East "Mari"]
+[South "Wold"]
+[Vulnerable "Both"]
+[Deal "S:AT52.3.82.KJT987 QJ863.52.KQJ3.53 K7.AQ986.T75.Q62 94.KJT74.A964.A4"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C X 2NT
+Pass 3C Pass Pass
+Pass
+[Declarer "S"]
+[Contract "3C"]
+[Play "W"]
+H5 HA H4 H3
+S3 SK S4 S5
+S6 S7 S9 SA
+S8 C6 - S2
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "27"]
+[West "Chemla"]
+[North "Passell"]
+[East "Mari"]
+[South "Wold"]
+[Vulnerable "None"]
+[Deal "S:KJT83.KQ972.7.AT .T83.JT64.J98654 Q942.J4.AQ.KQ732 A765.A65.K98532."]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2C 2D
+2H 3D 3S Pass
+4C Pass 4D Pass
+4H Pass 4NT Pass
+5H Pass 5S X
+Pass Pass 5NT Pass
+Pass Pass
+[Declarer "N"]
+[Contract "5NT"]
+[Play "E"]
+D5 D7 DT DQ
+S6 S3 C5 S9
+H6 HK H3 H4
+SA SK D4 S2
+D2 H2 DJ DA
+S7 CA C4 C3
+S5 S8 C6 SQ
+H5 ST H8 S4
+D3 SJ HT HJ
+D8 CT CJ CQ
+D9 H7 C8 CK
+HA H9 C9 C2
+DK HQ D6 C7
+*
+[Room "Open"]
+[Result "10"]
+[Score "-50"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "1"]
+[West "Chemla"]
+[North "Hallberg"]
+[East "Mari"]
+[South "Whittaker"]
+[Vulnerable "None"]
+[Deal "S:Q9752.Q63.K743.8 K63.JT984.Q9.KT3 J84.AK7.T2.A9642 AT.52.AJ865.QJ75"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2H Pass
+2S Pass Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+CQ C8 C3 CA
+D6 DK D9 D2
+H5 H3 H4 HK
+H2 H6 HJ HA
+ST HQ H8 H7
+SA S2 S3 S4
+C5 S5 CT C2
+D5 D3 DQ DT
+D8 S7 SK S8
+C7 SQ S6 SJ
+DJ D4 H9 C4
+DA D7 HT C6
+CJ S9 CK C9
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "2"]
+[West "Chemla"]
+[North "Hallberg"]
+[East "Mari"]
+[South "Whittaker"]
+[Vulnerable "NS"]
+[Deal "S:65.AQ83.Q964.JT6 J.JT75.AT52.A752 T32.K96.K873.Q94 AKQ9874.42.J.K83"]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 1NT Pass
+3S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D4 DA D8 DJ
+S6 SJ S3 S4
+D6 D2 D3 S9
+S5 D5 S2 SA
+D9 C2 ST SK
+H3 DT C9 S8
+CT C7 C4 C3
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "3"]
+[West "Chemla"]
+[North "Hallberg"]
+[East "Mari"]
+[South "Whittaker"]
+[Vulnerable "EW"]
+[Deal "S:4.QT94.QJ86.QJ96 AKQT7.A8762.43.3 8652.K53.92.AK82 J93.J.AKT75.T754"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1S Pass 2S
+X 3H Pass 4S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+S2 S3 S4 S7
+H3 HJ H4 HA
+H5 S9 H9 H2
+D2 DA D6 D4
+D9 DK D8 D3
+C2 D5 DJ SA
+HK SJ HT H6
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "4"]
+[West "Chemla"]
+[North "Levin"]
+[East "Mari"]
+[South "Weinstein"]
+[Vulnerable "Both"]
+[Deal "S:K72.A9754.J32.T7 J865.KQ.AQ4.AJ54 AT9.J83.987.KQ86 Q43.T62.KT65.932"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+CQ C2 C7 CA
+C8 C3 CT C5
+H3 H2 H4 HK
+CK C9 H9 C4
+D9 D5 D3 DA
+C6 S3 H5 CJ
+D7 D6 D2 DQ
+D8 DK DJ D4
+H8 DT H7 S5
+HJ H6 HA HQ
+SA S4 S2 S6
+S9 SQ SK S8
+ST HT S7 SJ
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "5"]
+[West "Chemla"]
+[North "Levin"]
+[East "Mari"]
+[South "Weinstein"]
+[Vulnerable "NS"]
+[Deal "S:J73.JT942.AJ.AQ9 K85.AK8.Q9832.73 T94.Q3.K74.J6542 AQ62.765.T65.KT8"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1H Pass
+1NT Pass Pass Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C8 C9 C7 C6
+H5 H2 H8 HQ
+H7 HJ HK H3
+S6 S3 SK S4
+SQ S7 S8 S9
+SA SJ S5 ST
+S2 CQ D9 D7
+D5 DA D3 D4
+H6 HT HA C2
+D6 DJ D2 DK
+CT CA C3 C4
+- H9 - -
+*
+[Room "Open"]
+[Result "7"]
+[Score "+90"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "6"]
+[West "Chemla"]
+[North "Greco"]
+[East "Mari"]
+[South "Hampson"]
+[Vulnerable "Both"]
+[Deal "S:QT4.T43..AQT8743 KJ832.KQJ87.Q.KJ A9.652.JT98542.6 765.A9.AK763.952"]
+[Dealer "S"]
+[Auction "S"]
+3C X Pass 4D
+Pass 4H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DJ D3 H3 DQ
+C6 C2 CA CJ
+SA S5 S4 SJ
+S9 S6 ST SK
+H2 HA H4 H7
+H5 H9 HT HK
+H6 S7 C3 HQ
+D2 D6 SQ S8
+D4 C5 C4 CK
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "7"]
+[West "Chemla"]
+[North "Levin"]
+[East "Mari"]
+[South "Weinstein"]
+[Vulnerable "EW"]
+[Deal "S:AKT643.5.AQT7.94 8.AKJT9.63.KJT63 QJ9.8762.8542.87 752.Q43.KJ9.AQ52"]
+[Dealer "E"]
+[Auction "E"]
+1C 1S 2H Pass
+3H 3S 4C 4S
+Pass Pass 5C Pass
+Pass Pass
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+SK S8 SQ S5
+H5 HA H8 H4
+C4 C3 C7 CA
+C9 CK C8 C2
+S3 H9 H2 HQ
+*
+[Room "Open"]
+[Result "11"]
+[Score "+600"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "8"]
+[West "Chemla"]
+[North "Greco"]
+[East "Mari"]
+[South "Hampson"]
+[Vulnerable "None"]
+[Deal "S:3.AQ954.T2.Q9753 AT976.T73.AKJ85. KQJ854.8.4.AKT62 2.KJ62.Q9763.J84"]
+[Dealer "W"]
+[Auction "W"]
+1S 2C Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D6 D2 DA D4
+D3 DT DK S4
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "9"]
+[West "Chemla"]
+[North "Greco"]
+[East "Mari"]
+[South "Hampson"]
+[Vulnerable "EW"]
+[Deal "S:AQT842.K2.A4.T76 K9.AQ7543.85.Q43 3.T86.KQT732.AK8 J765.J9.J96.J952"]
+[Dealer "N"]
+[Auction "N"]
+1D Pass 1S 2H
+3D Pass 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+H5 H8 H9 HK
+D5 D2 D6 DA
+D8 DK D9 D4
+C3 CA C2 C6
+H7 DQ DJ S2
+H3 DT S6 S4
+S9 D7 S5 H2
+H4 D3 S7 C7
+C4 CK C5 CT
+SK S3 SJ SA
+- - - SQ
+*
+[Room "Open"]
+[Result "13"]
+[Score "+520"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "10"]
+[West "Passell"]
+[North "Levin"]
+[East "Wold"]
+[South "Weinstein"]
+[Vulnerable "Both"]
+[Deal "S:K97.543.852.AT92 42.AKQ92.AT.QJ63 JT53..QJ97643.75 AQ86.JT876.K.K84"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 2S Pass
+3C Pass 3D X
+3NT Pass 4S Pass
+5C Pass 6H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "6H"]
+[Play "S"]
+H4 HA D4 H6
+H5 HK D7 H7
+H3 HQ D3 H8
+SK S2 S3 SQ
+*
+[Room "Open"]
+[Result "11"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "11"]
+[West "Passell"]
+[North "Levin"]
+[East "Wold"]
+[South "Weinstein"]
+[Vulnerable "None"]
+[Deal "S:973.T5.A653.KQ64 AJ54.AQJ96.7.JT2 T86.K732.KT92.A5 KQ2.84.QJ84.9873"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+S6 SK S3 S5
+HK H4 H5 HQ
+CA C3 C4 C2
+C5 C9 CQ CT
+D2 D4 DA D7
+S8 C8 CK CJ
+ST C7 C6 H9
+H2 H8 HT HA
+H3 D8 D3 HJ
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "12"]
+[West "Passell"]
+[North "Levin"]
+[East "Wold"]
+[South "Weinstein"]
+[Vulnerable "NS"]
+[Deal "S:AKQ95.65.AKQ.JT9 J2.AQ83..KQ87642 63.KT974.87643.A T874.J2.JT952.53"]
+[Dealer "W"]
+[Auction "W"]
+1C 1H Pass 2S
+4C Pass Pass X
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4CX"]
+[Play "N"]
+S6 S4 SQ S2
+D3 D2 DK C2
+CA C3 CT CK
+S3 S7 SA SJ
+H9 HJ H6 H8
+D8 C5 CJ CQ
+D7 D5 C9 C8
+H7 H2 H5 H3
+D6 D9 DQ C4
+*
+[Room "Open"]
+[Result "7"]
+[Score "-500"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "13"]
+[West "Weinstein"]
+[North "Bates"]
+[East "Levin"]
+[South "Mordecai"]
+[Vulnerable "Both"]
+[Deal "S:43.J96543.KT3.A5 QJ6.T.Q9876.Q873 AK852.8.A54.KT92 T97.AKQ72.J2.J64"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 1NT Pass
+2C Pass 2H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+D6 D4 DJ DK
+S6 SA S7 S4
+HT H8 H2 H3
+C7 C9 CJ CA
+D9 S2 H7 H4
+DQ DA D2 DT
+SQ SK S9 S3
+SJ S5 ST H5
+C3 CK C6 C5
+C8 S8 C4 D3
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "14"]
+[West "Weinstein"]
+[North "Bates"]
+[East "Levin"]
+[South "Mordecai"]
+[Vulnerable "None"]
+[Deal "S:A8743.732.Q42.KQ JT95.K6.K975.A92 Q2.QJ9.T63.T8763 K6.AT854.AJ8.J54"]
+[Dealer "E"]
+[Auction "E"]
+1H 1S X Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S4 SJ SQ SK
+S7 ST S2 S6
+H2 HK H9 H5
+H3 H6 HJ HA
+H7 D5 HQ HT
+CQ C2 C3 C5
+CK CA C6 C4
+S3 C9 CT CJ
+S8 S5 C7 H8
+D2 S9 C8 H4
+D4 D7 D3 DA
+DQ DK D6 D8
+SA D9 DT DJ
+*
+[Room "Open"]
+[Result "11"]
+[Score "+460"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "15"]
+[West "Weinstein"]
+[North "Bates"]
+[East "Levin"]
+[South "Mordecai"]
+[Vulnerable "NS"]
+[Deal "S:AQ86.764.T764.97 K.AKJ2.Q8.KQJ843 JT954.T85.AKJ9.2 732.Q93.532.AT65"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1D 2C
+2D 2H Pass 3C
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+DK D2 D6 D8
+SJ S2 S6 SK
+*
+[Room "Open"]
+[Result "11"]
+[Score "+150"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "16"]
+[West "Chemla"]
+[North "Smith"]
+[East "Mari"]
+[South "Cohen"]
+[Vulnerable "EW"]
+[Deal "S:KQ4.976.Q87.9854 JT87653.QT8.T96. 9.KJ54.A543.KQ62 A2.A32.KJ2.AJT73"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1NT Pass
+2H Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D7 D6 DA D2
+DQ D9 D5 DJ
+H6 HT HJ HA
+C4 H8 C6 CA
+C5 S3 C2 C3
+S4 S5 S9 SA
+SQ S6 H4 S2
+H7 HQ HK H2
+*
+[Room "Open"]
+[Result "8"]
+[Score "-200"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "17"]
+[West "Chemla"]
+[North "Smith"]
+[East "Mari"]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:932.Q954.Q76.KQ9 KQJT.JT62.J9854. A84.AK873.T.AJ74 765..AK32.T86532"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 2H Pass
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DA D6 D4 DT
+C3 CK H2 C4
+D2 D7 D9 H7
+C2 HQ H6 H3
+C5 H4 HT HA
+S5 H5 HJ HK
+C6 CQ D5 C7
+C8 C9 SK CA
+CT S2 D8 CJ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "18"]
+[West "Chemla"]
+[North "Smith"]
+[East "Mari"]
+[South "Cohen"]
+[Vulnerable "NS"]
+[Deal "S:QJT6.K53.985.J62 K82.976.Q76.KQ97 A5.A842.JT2.T853 9743.QJT.AK43.A4"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SQ SK SA S4
+ST S2 S5 S3
+SJ S8 H8 S9
+H3 H6 HA HT
+HK H7 H2 HJ
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "19"]
+[West "Cohen"]
+[North "Cornell"]
+[East "Smith"]
+[South "Bach"]
+[Vulnerable "EW"]
+[Deal "S:5.KJT9742.K852.4 AQ9..974.AJT8763 KJ743.3.QJT3.K95 T862.AQ865.A6.Q2"]
+[Dealer "S"]
+[Auction "S"]
+4H 5C X Pass
+Pass Pass
+[Declarer "W"]
+[Contract "5CX"]
+[Play "N"]
+H3 HA H4 S9
+D3 DA D2 D4
+DQ D6 DK D7
+S4 S2 S5 SA
+DJ C2 D5 D9
+CK CQ C4 C3
+SK S6 H2 SQ
+*
+[Room "Open"]
+[Result "10"]
+[Score "-200"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "20"]
+[West "Cohen"]
+[North "Cornell"]
+[East "Smith"]
+[South "Bach"]
+[Vulnerable "Both"]
+[Deal "S:QT92.KQ942.KJ5.T K876.T87.A8.AQ94 AJ53.A3.97.KJ762 4.J65.QT6432.853"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass Pass 1H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D4 D5 DA D7
+D6 DJ D8 D9
+S4 SQ S6 S3
+C3 ST S7 S5
+C5 CT CA C2
+D3 S2 S8 SJ
+D2 S9 SK SA
+H5 H2 H7 HA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+660"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "21"]
+[West "Cohen"]
+[North "Cornell"]
+[East "Smith"]
+[South "Bach"]
+[Vulnerable "NS"]
+[Deal "S:87432.J754.QJ.T4 QT65.T8.KT4.8632 AJ.KQ3.A763.AJ95 K9.A962.9852.KQ7"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass Pass Pass
+[Declarer "N"]
+[Contract "1C"]
+[Play "E"]
+D5 DQ DK DA
+D2 DJ D4 D3
+HA H4 H8 HK
+H2 H5 HT HQ
+D8 C4 DT D7
+S9 S2 S6 SA
+D9 CT S5 D6
+H6 HJ C6 H3
+CQ S4 C2 CJ
+SK S3 ST SJ
+H9 H7 C8 C9
+C7 S7 C3 CA
+CK S8 SQ C5
+*
+[Room "Open"]
+[Result "8"]
+[Score "+90"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "22"]
+[West "Bach"]
+[North "Mari"]
+[East "Cornell"]
+[South "Chemla"]
+[Vulnerable "EW"]
+[Deal "S:A962.87653.K95.2 QT5.QJT9.J.KQT83 KJ7.K2.AQT82.A64 843.A4.7643.J975"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C 1NT
+2C X Pass 2D
+Pass 2H Pass 2S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+C7 C2 CQ CA
+D3 DK DJ D2
+HA H3 H9 HK
+C5 S2 C3 C4
+D4 D5 C8 DA
+C9 S6 CT C6
+D7 D9 S5 D8
+H4 H5 HJ H2
+CJ H6 HT SJ
+D6 H7 ST DQ
+S3 SA SQ S7
+S4 H8 HQ SK
+S8 S9 CK DT
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "23"]
+[West "Bach"]
+[North "Mari"]
+[East "Cornell"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:K98654.AQJ3.4.64 J7.2.AKQ832.K872 A3.K985.JT975.QT QT2.T764.6.AJ953"]
+[Dealer "S"]
+[Auction "S"]
+1S 3D Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+SA S2 S9 S7
+S3 ST SK SJ
+H9 H4 HA H2
+D5 SQ S8 C2
+HK H6 H3 D2
+D7 D6 D4 DA
+D9 C3 S4 DK
+DT H7 S5 DQ
+CT C5 C4 CK
+CQ CA C6 C8
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "24"]
+[West "Bach"]
+[North "Mari"]
+[East "Cornell"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:76.654.A873.A764 T.AQJT3.T6.KJT85 AKJ9853.872.K.93 Q42.K9.QJ9542.Q2"]
+[Dealer "W"]
+[Auction "W"]
+1H 3S X 4S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+HK H4 HA H7
+H9 H5 HQ H8
+D2 H6 HT H2
+D4 C4 H3 SJ
+S2 S6 ST SA
+S4 S7 C5 SK
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "25"]
+[West "Weinstein"]
+[North "Ballantyne"]
+[East "Levin"]
+[South "Jabon"]
+[Vulnerable "EW"]
+[Deal "S:AK94.QT6.J872.82 QJ87.87.AQ65.763 T6532.J5.K93.AQ9 .AK9432.T4.KJT54"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+Pass 3H Pass 3NT
+Pass 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+SK S7 S2 H3
+H6 H7 H5 HA
+HT H8 HJ HK
+D2 DQ DK D4
+C2 C3 CA C5
+C8 C6 C9 CJ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+620"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "26"]
+[West "Weinstein"]
+[North "Ballantyne"]
+[East "Levin"]
+[South "Jabon"]
+[Vulnerable "None"]
+[Deal "S:KJT83.KQ972.7.AT .T83.JT64.J98654 Q942.J4.AQ.KQ732 A765.A65.K98532."]
+[Dealer "S"]
+[Auction "S"]
+1S Pass 2NT 3D
+4H 5C X 5D
+6S Pass Pass X
+Pass Pass Pass
+[Declarer "S"]
+[Contract "6SX"]
+[Play "W"]
+C8 C3 S5 CT
+H8 HJ H5 H2
+C4 S2 SA S3
+H3 H4 HA H7
+*
+[Room "Open"]
+[Result "10"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "1"]
+[Board "27"]
+[West "Weinstein"]
+[North "Ballantyne"]
+[East "Levin"]
+[South "Jabon"]
+[Vulnerable "Both"]
+[Deal "S:AT52.3.82.KJT987 QJ863.52.KQJ3.53 K7.AQ986.T75.Q62 94.KJT74.A964.A4"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C X 3C
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3C"]
+[Play "W"]
+DK D5 D6 D2
+C3 C2 CA C8
+C5 C6 C4 C9
+H5 HA H4 H3
+H2 HQ HK CT
+S3 SK S4 S2
+S6 S7 S9 SA
+S8 CQ D4 S5
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "1"]
+[West "Weinstein"]
+[North "Lewis P."]
+[East "Levin"]
+[South "Lewis L."]
+[Vulnerable "None"]
+[Deal "S:KQJT4.KQT52.97.7 A983.J4.QJ86.943 6.A973.T53.QJ862 752.86.AK42.AKT5"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 2D 3D
+3H Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+CA C7 C9 C2
+DK D7 D6 D5
+DA D9 D8 D3
+C5 H2 C4 C6
+H6 HQ H4 H3
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "2"]
+[West "Weinstein"]
+[North "Lewis P."]
+[East "Levin"]
+[South "Lewis L."]
+[Vulnerable "NS"]
+[Deal "S:J6.Q753.J7.QJT53 K743.J96.6432.94 AT985.AT2.985.K8 Q2.K84.AKQT.A762"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S Pass
+2NT Pass Pass Pass
+[Declarer "E"]
+[Contract "2NT"]
+[Play "S"]
+CQ C4 C8 C2
+CT C9 CK CA
+D7 D2 D5 DA
+DJ D3 D8 DK
+C3 D4 D9 DQ
+CJ D6 S5 C7
+C5 S3 ST C6
+H5 H6 H2 DT
+S6 S4 SA SQ
+*
+[Room "Open"]
+[Result "8"]
+[Score "+120"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "3"]
+[West "Weinstein"]
+[North "Lewis P."]
+[East "Levin"]
+[South "Lewis L."]
+[Vulnerable "EW"]
+[Deal "S:KT2.J9432.7.8532 53.T7.KQJ32.KQJ9 AQ4.AKQ8.A9654.T J9876.65.T8.A764"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D X Pass
+1H Pass 4C Pass
+4D Pass 6H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "6H"]
+[Play "W"]
+DK DA D8 D7
+D2 D4 DT H2
+S3 SQ S6 S2
+D3 D5 H5 H9
+CJ CT C4 C2
+H7 HQ H6 H3
+DJ D6 C6 H4
+S5 SA S7 ST
+DQ D9 S8 HJ
+C9 H8 C7 C3
+HT HK S9 C5
+CQ HA SJ C8
+CK S4 CA SK
+*
+[Room "Open"]
+[Result "12"]
+[Score "+980"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "4"]
+[West "Weinstein"]
+[North "Morse"]
+[East "Levin"]
+[South "Wildavsky"]
+[Vulnerable "Both"]
+[Deal "S:7.AKT8.J32.AQ763 J964.QJ2.AK8.542 T532.9753.7.KJT8 AKQ8.64.QT9654.9"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 2C
+X 4C 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HK H2 H3 H4
+CA C2 C8 C9
+C7 C4 CK S8
+S7 S4 S2 SA
+H8 S6 S3 SQ
+HT S9 S5 SK
+D2 DA D7 D5
+C3 SJ ST H6
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "5"]
+[West "Weinstein"]
+[North "Morse"]
+[East "Levin"]
+[South "Wildavsky"]
+[Vulnerable "NS"]
+[Deal "S:K8.JT98753.73.42 Q762.KQ6.KJ642.Q AJ543.42.T9.T975 T9.A.AQ85.AKJ863"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2D Pass 2H
+Pass 3C Pass 3D
+Pass 4H Pass 4S
+Pass 6D Pass Pass
+Pass
+[Declarer "E"]
+[Contract "6D"]
+[Play "S"]
+HJ H6 H4 HA
+D3 D2 D9 DA
+D7 DK DT D5
+*
+[Room "Open"]
+[Result "13"]
+[Score "+940"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "6"]
+[West "Weinstein"]
+[North "Morse"]
+[East "Levin"]
+[South "Wildavsky"]
+[Vulnerable "EW"]
+[Deal "S:AT76.73.9732.AK3 KQ52.JT54.KQJ6.7 943.AK82.A8.J654 J8.Q96.T54.QT982"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+C9 C3 C7 CJ
+S8 ST SK S4
+DT D2 D6 D8
+D5 D3 DJ DA
+SJ SA S2 S3
+C2 S7 SQ S9
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "7"]
+[West "Baze"]
+[North "Smith"]
+[East "Whitman"]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:AQ87653.JT.42.86 KJT.Q76.A75.AJ75 94.K9854.KQT96.2 2.A32.J83.KQT943"]
+[Dealer "S"]
+[Auction "S"]
+3S 3NT 4S 5C
+Pass Pass Pass
+[Declarer "E"]
+[Contract "5C"]
+[Play "S"]
+HJ H6 H9 HA
+C6 C5 C2 CK
+C8 C7 DT CT
+SA ST S9 S2
+HT H7 H4 H2
+D4 DA D6 D3
+S3 SK S4 H3
+*
+[Room "Open"]
+[Result "9"]
+[Score "-200"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "8"]
+[West "Baze"]
+[North "Smith"]
+[East "Whitman"]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:874.J854.AKJ65.T AJ.K3.T9743.KQJ8 Q92.QT6.2.A95432 KT653.A972.Q8.76"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass 2H Pass
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+CT CK CA C7
+DK D3 D2 DQ
+S4 SA S2 S3
+H4 HK H6 H2
+H5 H3 HT HA
+H8 SJ HQ H7
+S7 CQ C2 C6
+DA D4 C3 D8
+DJ D7 C4 S5
+S8 D9 S9 SK
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "9"]
+[West "Baze"]
+[North "Smith"]
+[East "Whitman"]
+[South "Cohen"]
+[Vulnerable "EW"]
+[Deal "S:Q.K85.J7.QT97654 AK872.AQ3.84.J82 JT954.7642.KT9.3 63.JT9.AQ6532.AK"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 3C 3S
+Pass 3NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+C6 C2 C3 CA
+SQ SA S4 S3
+D7 D4 D9 DQ
+DJ D8 DT DA
+CT C8 DK D2
+C4 SK SJ S6
+C5 CJ H4 CK
+C7 S2 H2 D6
+H5 S7 S5 D5
+C9 S8 H6 D3
+H8 HA H7 HJ
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "10"]
+[West "Miller"]
+[North "Levin"]
+[East "Cheek"]
+[South "Weinstein"]
+[Vulnerable "Both"]
+[Deal "S:85.875.KJ82.K872 KT7.QJ93.AT74.AQ A2.AKT6.Q3.J9543 QJ9643.42.965.T6"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2H Pass 2S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+HA H2 H5 H3
+DQ D5 D2 D7
+D3 D6 DK DA
+HK H4 H8 HJ
+C9 C6 CK CA
+H6 D9 H7 HQ
+- - - ST
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "11"]
+[West "Miller"]
+[North "Levin"]
+[East "Cheek"]
+[South "Weinstein"]
+[Vulnerable "None"]
+[Deal "S:AT984.QJ63.K3.T8 65.K97.QJ654.Q76 732.84.A8.AKJ942 KQJ.AT52.T972.53"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass
+1S Pass 2C Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+D5 D8 D9 DK
+C7 C2 C3 CT
+C6 CJ C5 C8
+CQ CA D2 S4
+D4 CK D7 S9
+H7 C4 H2 ST
+S5 C9 DT H3
+S6 S2 SK SA
+D6 S3 SJ S8
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "12"]
+[West "Miller"]
+[North "Levin"]
+[East "Cheek"]
+[South "Weinstein"]
+[Vulnerable "NS"]
+[Deal "S:973.Q4.AQ83.AJ97 AK62.K853.75.QT8 T854.A96.42.K642 QJ.JT72.KJT96.53"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+S3 S2 ST SQ
+S7 SA S4 SJ
+S9 SK S5 C3
+DQ D5 D2 DJ
+CA C8 C2 C5
+C7 CT CK H2
+D3 D7 D4 D9
+H4 H3 HA HT
+HQ S6 S8 H7
+D8 HK C4 D6
+C9 H5 H6 HJ
+DA H8 H9 DK
+CJ CQ C6 DT
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "13"]
+[West "Lewis L."]
+[North "Smith"]
+[East "Lewis P."]
+[South "Cohen"]
+[Vulnerable "Both"]
+[Deal "S:84.873.J54.AT754 K3.QJ9.QT9876.86 QJT752.T42.K2.J9 A96.AK65.A3.KQ32"]
+[Dealer "N"]
+[Auction "N"]
+2S X Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S8 S3 ST SA
+D4 D6 D2 DA
+D5 DQ DK D3
+C4 C6 CJ C2
+CA C8 C9 CQ
+C7 D7 H2 CK
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "14"]
+[West "Lewis L."]
+[North "Smith"]
+[East "Lewis P."]
+[South "Cohen"]
+[Vulnerable "None"]
+[Deal "S:K9764.T8765..JT4 AJ52.3.KT542.AQ8 T83.AKQ94.Q87.K5 Q.J2.AJ963.97632"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H
+3D 4H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+SQ SK SA S3
+C7 S4 SJ S8
+H2 S6 S2 ST
+C3 C4 CA C5
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "15"]
+[West "Lewis L."]
+[North "Smith"]
+[East "Lewis P."]
+[South "Cohen"]
+[Vulnerable "NS"]
+[Deal "S:AT62.T93.K72.QT5 K73.A87.A63.9864 95.KJ6542.QJ5.J7 QJ84.Q.T984.AK32"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 2C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "2C"]
+[Play "S"]
+D2 D3 DJ D4
+SA S3 S9 SJ
+D7 DA D5 DT
+C5 C4 C7 CA
+CT C6 CJ CK
+S2 SK S5 S4
+S6 S7 H2 SQ
+ST D6 H6 S8
+HT HA H4 HQ
+CQ C8 H5 C2
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "16"]
+[West "Sontag"]
+[North "Miller"]
+[East "Weichsel"]
+[South "Cheek"]
+[Vulnerable "EW"]
+[Deal "S:T6.AQ8652.AT5.T3 A932.3.KJ76.AJ97 J874.KJT7.9.8542 KQ5.94.Q8432.KQ6"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 2D 2H
+X Pass Pass Pass
+[Declarer "S"]
+[Contract "2HX"]
+[Play "W"]
+D7 - - -
+*
+[Room "Open"]
+[Result "9"]
+[Score "+570"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "17"]
+[West "Sontag"]
+[North "Miller"]
+[East "Weichsel"]
+[South "Cheek"]
+[Vulnerable "None"]
+[Deal "S:AJ43.Q75.KQ64.97 86.KT832.982.KQ6 75.A6.AJ75.JT832 KQT92.J94.T3.A54"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 1H
+2H 2S Pass Pass
+3C 3H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+CJ C4 C7 CK
+S7 SK S4 S8
+HA H4 H5 HT
+C3 CA C9 C6
+H6 H9 H7 H2
+C2 C5 HQ CQ
+D7 D3 DQ D8
+DJ DT D4 D9
+S5 SQ SA S6
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "18"]
+[West "Sontag"]
+[North "Miller"]
+[East "Weichsel"]
+[South "Cheek"]
+[Vulnerable "NS"]
+[Deal "S:A.98532.J83.KQ98 J8642..T62.AJ432 QT973.KQJT4.Q4.T K5.A76.AK975.765"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 2S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+HK HA H2 D6
+CT C7 CQ CA
+DQ DA D3 DT
+D4 C5 CK C4
+S3 S5 SA S2
+HT H6 H3 S4
+S7 C6 C8 CJ
+S9 SK H5 S6
+ST DK D8 D2
+SQ H7 H8 S8
+HQ - - -
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "19"]
+[West "Weinstein"]
+[North "Buratti"]
+[East "Levin"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:QJ97.Q.AKJT2.964 3.K9843.Q9754.AK AKT2.JT5..QJT875 8654.A762.863.32"]
+[Dealer "S"]
+[Auction "S"]
+1D 1H X 3H
+3S 4H 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+CK C5 C3 C6
+S3 S2 S6 S9
+H3 H5 HA HQ
+H8 ST S4 S7
+CA CQ C2 C9
+D4 HT D8 DT
+D5 HJ D3 DA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "20"]
+[West "Weinstein"]
+[North "Buratti"]
+[East "Levin"]
+[South "Lanzarotti"]
+[Vulnerable "Both"]
+[Deal "S:Q6432.9.3.QJ9762 AKT7.K54.K62.A83 J.A82.AQJT84.KT5 985.QJT763.975.4"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2D Pass
+2H 3D Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+C4 C2 CA CK
+D5 C6 C8 CT
+S5 S2 SK SJ
+D7 C7 C3 C5
+D9 D3 D2 DT
+H3 S3 D6 DA
+*
+[Room "Open"]
+[Result "6"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "21"]
+[West "Weinstein"]
+[North "Buratti"]
+[East "Levin"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:K9532.T2.A74.A84 .KJ985.Q52.KQJT7 QT6.AQ64.JT93.92 AJ874.73.K86.653"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+DJ D6 D4 DQ
+HA H3 H2 HK
+DT D8 D7 D2
+D3 DK DA D5
+C2 C3 C4 CK
+C9 C6 CA CQ
+H4 C5 C8 CJ
+D9 H7 HT HJ
+HQ - - H8
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "22"]
+[West "Chemla"]
+[North "Cohler"]
+[East "Mari"]
+[South "Tudor"]
+[Vulnerable "EW"]
+[Deal "S:KJT954.Q75.T.J85 632.KJ632.AJ64.3 7.AT98.KQ2.AKT76 AQ8.4.98753.Q942"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D9 DT DA D2
+H4 HQ H3 H8
+CQ C5 C3 CT
+D8 S4 D4 DK
+C2 CJ S2 C6
+S8 H5 HJ HA
+D3 H7 HK HT
+*
+[Room "Open"]
+[Result "9"]
+[Score "+400"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "23"]
+[West "Chemla"]
+[North "Cohler"]
+[East "Mari"]
+[South "Tudor"]
+[Vulnerable "Both"]
+[Deal "S:A94.J98643.KJ6.5 KQ3.Q75.Q94.KQ72 J876.KT2.73.9643 T52.A.AT852.AJT8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H Pass Pass 3C
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+H2 HA H3 H5
+C3 CA C5 C2
+C4 C8 H4 CQ
+D3 D2 DJ D9
+S6 S2 S4 SK
+D7 D5 DK DQ
+S7 S5 SA S3
+C6 D8 D6 D4
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "24"]
+[West "Chemla"]
+[North "Cohler"]
+[East "Mari"]
+[South "Tudor"]
+[Vulnerable "None"]
+[Deal "S:Q642.JT93.Q962.Q K8.K874.KT8.J763 AT9753.5.A753.K9 J.AQ62.J4.AT8542"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S 2C 4S
+5C 5S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "5S"]
+[Play "E"]
+CA CQ C7 C9
+SJ SQ SK SA
+C2 S2 S8 ST
+C4 H3 C3 CK
+HQ H9 H4 H5
+HA HT H7 S3
+C5 S6 CJ S5
+H2 HJ HK S7
+D4 D2 D8 DA
+DJ DQ DK D3
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "25"]
+[West "Cohen"]
+[North "Sanborn S."]
+[East "Smith"]
+[South "Sanborn K."]
+[Vulnerable "EW"]
+[Deal "S:J643.K83.6.JT842 Q.J742.K42.AKQ53 T.A96.QJT985.976 AK98752.QT5.A73."]
+[Dealer "N"]
+[Auction "N"]
+3D 4S Pass 5C
+Pass 5D Pass 5S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "5S"]
+[Play "S"]
+H3 H4 HA HQ
+HK H2 H9 HT
+H8 HJ H6 H5
+S3 SQ ST S2
+C2 C3 C6 S5
+S4 C5 C7 SK
+*
+[Room "Open"]
+[Result "10"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "26"]
+[West "Cohen"]
+[North "Sanborn S."]
+[East "Smith"]
+[South "Sanborn K."]
+[Vulnerable "Both"]
+[Deal "S:AJ54.AT5.97.KJ82 Q96.J8763.Q32.96 832.42.AKT865.T4 KT7.KQ9.J4.AQ753"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2D X
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+D9 D2 DK D4
+CK C6 C4 CQ
+D7 D3 DA DJ
+S5 DQ D5 HK
+HA H3 H2 HQ
+H5 H6 H4 H9
+C2 C9 CT CA
+C8 H7 D6 C3
+HT HJ D8 C5
+S4 SQ S2 S7
+SJ S6 S3 ST
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "27"]
+[West "Cohen"]
+[North "Sanborn S."]
+[East "Smith"]
+[South "Sanborn K."]
+[Vulnerable "None"]
+[Deal "S:A732.9532.976.JT KT8.AQT4.K8.AKQ7 964.KJ876.T3.854 QJ5..AQJ542.9632"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2NT Pass 3S
+Pass 3NT Pass 4C
+Pass 4NT Pass 6D
+Pass Pass Pass
+[Declarer "E"]
+[Contract "6D"]
+[Play "S"]
+CJ CA C4 C2
+D6 DK D3 D2
+*
+[Room "Open"]
+[Result "12"]
+[Score "+920"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "28"]
+[West "Bach"]
+[North "Miller"]
+[East "Cornell"]
+[South "Cheek"]
+[Vulnerable "NS"]
+[Deal "S:AQJ87.53.K43.AJ6 9.AJ98.AJ972.Q98 642.KT62.5.T7532 KT53.Q74.QT86.K4"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 2D 2S
+X Pass 2NT Pass
+3D Pass Pass Pass
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+S2 S3 SJ S9
+HK H4 H5 H9
+S6 ST SQ D2
+C2 CK CA C9
+HT HQ H3 H8
+D5 DQ DK DA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+130"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "29"]
+[West "Bach"]
+[North "Miller"]
+[East "Cornell"]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:QJ82.9852.74.J64 7.JT6.AKJ82.A872 A6543.AKQ3.9.QT3 KT9.74.QT653.K95"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 1NT 2D
+X 2S X 3C
+Pass 3D Pass Pass
+3H Pass 3S 4D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4D"]
+[Play "N"]
+HQ H4 H9 H6
+HA H7 H2 HJ
+SA S9 S8 S7
+S5 SK S2 C8
+D9 D3 D4 DA
+S3 D5 D7 DK
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "30"]
+[West "Bach"]
+[North "Miller"]
+[East "Cornell"]
+[South "Cheek"]
+[Vulnerable "None"]
+[Deal "S:A5.Q74.K9765.KT5 J9.J8.AQ32.AQ742 KT8743.K6.T8.983 Q62.AT9532.J4.J6"]
+[Dealer "E"]
+[Auction "E"]
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+D5 D2 DT DJ
+S5 S9 ST S2
+HQ HJ H6 H2
+DK DA D8 D4
+SA SJ S3 S6
+H4 H8 HK HA
+H7 C2 S8 HT
+D6 C4 S7 H9
+C5 D3 S4 H5
+D7 C7 C8 H3
+CT CA C3 C6
+D9 DQ C9 CJ
+CK CQ SK SQ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "1"]
+[West "Miller"]
+[North "Buratti"]
+[East "Cheek"]
+[South "Lanzarotti"]
+[Vulnerable "None"]
+[Deal "S:KQJT4.KQT52.97.7 A983.J4.QJ86.943 6.A973.T53.QJ862 752.86.AK42.AKT5"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 2D 3D
+4H Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DK D7 DQ D5
+CK C7 C3 C8
+D2 D9 DJ D3
+S2 S4 SA S6
+S5 ST S3 H7
+H6 HK H4 H3
+H8 H2 HJ HA
+*
+[Room "Open"]
+[Result "9"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "2"]
+[West "Miller"]
+[North "Buratti"]
+[East "Cheek"]
+[South "Lanzarotti"]
+[Vulnerable "NS"]
+[Deal "S:J6.Q753.J7.QJT53 K743.J96.6432.94 AT985.AT2.985.K8 Q2.K84.AKQT.A762"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1S Pass
+2NT Pass 3C Pass
+3D Pass Pass Pass
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+CQ C4 C8 C2
+C3 C9 CK CA
+D7 D2 D8 DA
+CT D3 D5 C6
+HQ H6 H2 H4
+CJ D4 D9 C7
+H3 H9 HA H8
+H5 HJ HT HK
+DJ D6 S5 DK
+S6 S3 SA SQ
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "3"]
+[West "Miller"]
+[North "Buratti"]
+[East "Cheek"]
+[South "Lanzarotti"]
+[Vulnerable "EW"]
+[Deal "S:KT2.J9432.7.8532 53.T7.KQJ32.KQJ9 AQ4.AKQ8.A9654.T J9876.65.T8.A764"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2C X Pass
+3H Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK CT C7 C2
+S5 S4 SJ SK
+D2 DA D8 D7
+D3 D4 DT H3
+H7 HA H5 H2
+DJ D5 C4 H4
+S3 SQ S9 S2
+DQ D6 CA H9
+HT H8 H6 HJ
+*
+[Room "Open"]
+[Result "11"]
+[Score "+450"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "4"]
+[West "Sanborn K."]
+[North "Miller"]
+[East "Sanborn S."]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:7.AKT8.J32.AQ763 J964.QJ2.AK8.542 T532.9753.7.KJT8 AKQ8.64.QT9654.9"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 2S X
+Pass 3C 3S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3S"]
+[Play "N"]
+D7 D4 D2 DK
+S2 SA S7 S4
+S3 SK C7 S6
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "5"]
+[West "Sanborn K."]
+[North "Miller"]
+[East "Sanborn S."]
+[South "Cheek"]
+[Vulnerable "NS"]
+[Deal "S:K8.JT98753.73.42 Q762.KQ6.KJ642.Q AJ543.42.T9.T975 T9.A.AQ85.AKJ863"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 3H Pass 4C
+Pass 5C Pass 6D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "6D"]
+[Play "N"]
+SA S9 S8 S2
+S3 ST SK S6
+*
+[Room "Open"]
+[Result "11"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "6"]
+[West "Sanborn K."]
+[North "Miller"]
+[East "Sanborn S."]
+[South "Cheek"]
+[Vulnerable "EW"]
+[Deal "S:AT76.73.9732.AK3 KQ52.JT54.KQJ6.7 943.AK82.A8.J654 J8.Q96.T54.QT982"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D Pass 1H
+Pass 1S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+CT C3 C7 CJ
+S8 ST SQ S3
+D4 D2 DJ DA
+SJ SA S2 S4
+C8 S6 SK S9
+H9 H3 HJ HA
+C2 CK S5 C5
+D5 S7 D6 D8
+DT D7 DQ C4
+HQ H7 H5 H2
+C9 CA H4 C6
+H6 D3 DK H8
+CQ D9 HT HK
+*
+[Room "Open"]
+[Result "8"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "7"]
+[West "Weinstein"]
+[North "Cohler"]
+[East "Levin"]
+[South "Tudor"]
+[Vulnerable "None"]
+[Deal "S:874.J854.AKJ65.T AJ.K3.T9743.KQJ8 Q92.QT6.2.A95432 KT653.A972.Q8.76"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C 2D
+X Pass Pass Pass
+[Declarer "S"]
+[Contract "2DX"]
+[Play "W"]
+CK CA C7 CT
+C8 C2 C6 D5
+HK H6 H9 H5
+SA S2 S3 S7
+SJ S9 ST S4
+H3 HT HA H8
+D3 HQ H7 H4
+CQ C3 H2 D6
+D4 D2 D8 DA
+D7 SQ S5 HJ
+D9 C4 DQ DK
+DT C5 S6 DJ
+CJ C9 SK S8
+*
+[Room "Open"]
+[Result "6"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "8"]
+[West "Weinstein"]
+[North "Cohler"]
+[East "Levin"]
+[South "Tudor"]
+[Vulnerable "Both"]
+[Deal "S:AQ87653.JT.42.86 KJT.Q76.A75.AJ75 94.K9854.KQT96.2 2.A32.J83.KQT943"]
+[Dealer "S"]
+[Auction "S"]
+2S 3NT Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+DQ D3 D4 DA
+C2 CK C6 C7
+S4 S2 SA ST
+DK D8 D2 D5
+D6 DJ S5 D7
+H4 C3 C8 CA
+H8 HA HJ H7
+H5 C4 S3 CJ
+- - - SK
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "9"]
+[West "Weinstein"]
+[North "Cohler"]
+[East "Levin"]
+[South "Tudor"]
+[Vulnerable "EW"]
+[Deal "S:Q.K85.J7.QT97654 AK872.AQ3.84.J82 JT954.7642.KT9.3 63.JT9.AQ6532.AK"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 3C 3S
+Pass 3NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H5 HQ H6 H9
+DJ D4 D9 D2
+HK HA H2 HT
+D7 D8 DT DQ
+- - - DA
+*
+[Room "Open"]
+[Result "12"]
+[Score "+690"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "10"]
+[West "Baze"]
+[North "Mari"]
+[East "Whitman"]
+[South "Chemla"]
+[Vulnerable "Both"]
+[Deal "S:85.875.KJ82.K872 KT7.QJ93.AT74.AQ A2.AKT6.Q3.J9543 QJ9643.42.965.T6"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+H5 HQ HK H2
+D8 D4 DQ D5
+DJ DA D3 D6
+S5 S7 S2 SQ
+S8 SK SA S4
+C8 CQ C3 C6
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "11"]
+[West "Baze"]
+[North "Mari"]
+[East "Whitman"]
+[South "Chemla"]
+[Vulnerable "None"]
+[Deal "S:AT984.QJ63.K3.T8 65.K97.QJ654.Q76 732.84.A8.AKJ942 KQJ.AT52.T972.53"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3H Pass 3S Pass
+3NT Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+DT DK D6 D8
+SQ S4 S5 S7
+H2 H3 HK H4
+D2 D3 DQ DA
+SJ S8 S6 S3
+SK SA D4 S2
+C5 CT CQ CA
+C3 C8 C6 CK
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "12"]
+[West "Baze"]
+[North "Mari"]
+[East "Whitman"]
+[South "Chemla"]
+[Vulnerable "NS"]
+[Deal "S:973.Q4.AQ83.AJ97 AK62.K853.75.QT8 T854.A96.42.K642 QJ.JT72.KJT96.53"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+S5 SJ S3 S2
+S4 SQ S7 SA
+S8 C3 S9 SK
+D4 DJ DQ D5
+D2 D6 DA D7
+H9 DT D3 H8
+CK C5 C9 C8
+ST HJ HQ S6
+C2 D9 D8 HK
+H6 H7 H4 H3
+HA DK C7 CT
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "13"]
+[West "Hampson"]
+[North "Miller"]
+[East "Greco"]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:84.873.J54.AT754 K3.QJ9.QT9876.86 QJT752.T42.K2.J9 A96.AK65.A3.KQ32"]
+[Dealer "N"]
+[Auction "N"]
+2S X Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S8 S3 ST S6
+S4 SK S5 S9
+D4 DQ D2 D3
+D5 D6 DK DA
+H3 HQ H2 H5
+DJ D7 S7 C2
+CA C6 C9 C3
+*
+[Room "Open"]
+[Result "10"]
+[Score "+630"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "14"]
+[West "Hampson"]
+[North "Miller"]
+[East "Greco"]
+[South "Cheek"]
+[Vulnerable "None"]
+[Deal "S:K9764.T8765..JT4 AJ52.3.KT542.AQ8 T83.AKQ94.Q87.K5 Q.J2.AJ963.97632"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1D 1H
+2H 4H X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4HX"]
+[Play "E"]
+SQ SK SA S8
+C9 S4 SJ ST
+H2 S6 S2 S3
+C3 CJ CA C5
+D3 S7 S5 HA
+HJ H5 H3 HK
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "15"]
+[West "Hampson"]
+[North "Miller"]
+[East "Greco"]
+[South "Cheek"]
+[Vulnerable "NS"]
+[Deal "S:AT62.T93.K72.QT5 K73.A87.A63.9864 95.KJ6542.QJ5.J7 QJ84.Q.T984.AK32"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1NT Pass 2C
+Pass 2D Pass 2NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2NT"]
+[Play "N"]
+H2 HQ H3 H7
+S9 S4 S2 SK
+S5 SQ SA S7
+H6 D4 HT HA
+C7 CA CT C9
+CJ C2 CQ C4
+HK D8 H9 H8
+HJ D9 D2 -
+*
+[Room "Open"]
+[Result "7"]
+[Score "-50"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "16"]
+[West "Weinstein"]
+[North "Hallberg"]
+[East "Levin"]
+[South "Whitaker"]
+[Vulnerable "EW"]
+[Deal "S:T6.AQ8652.AT5.T3 A932.3.KJ76.AJ97 J874.KJT7.9.8542 KQ5.94.Q8432.KQ6"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 2D 2H
+2S 4H Pass Pass
+5D Pass Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+HT H4 HA H3
+H7 H9 H8 D6
+D9 D2 D5 DJ
+C2 D3 DA DK
+*
+[Room "Open"]
+[Result "11"]
+[Score "+600"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "18"]
+[West "Weinstein"]
+[North "Hallberg"]
+[East "Levin"]
+[South "Whitaker"]
+[Vulnerable "NS"]
+[Deal "S:A.98532.J83.KQ98 J8642..T62.AJ432 QT973.KQJT4.Q4.T K5.A76.AK975.765"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2C 2H
+Pass 4H 4S Pass
+Pass 5H X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "5HX"]
+[Play "E"]
+DK D3 D2 D4
+DA D8 D6 DQ
+C5 CK CA CT
+*
+[Room "Open"]
+[Result "9"]
+[Score "-500"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "19"]
+[West "Lazard"]
+[North "Miller"]
+[East "Bramley"]
+[South "Cheek"]
+[Vulnerable "EW"]
+[Deal "S:QJ97.Q.AKJT2.964 3.K9843.Q9754.AK AKT2.JT5..QJT875 8654.A762.863.32"]
+[Dealer "S"]
+[Auction "S"]
+1D 1H X 3H
+3S Pass 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H4 H5 HA HQ
+D4 HT D3 DA
+CK C5 C3 C9
+D5 HJ D6 DJ
+S3 SA S4 S7
+H8 S2 S5 SQ
+CA C7 C2 C6
+*
+[Room "Open"]
+[Result "10"]
+[Score "+420"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "20"]
+[West "Lazard"]
+[North "Miller"]
+[East "Bramley"]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:Q6432.9.3.QJ9762 AKT7.K54.K62.A83 J.A82.AQJT84.KT5 985.QJT763.975.4"]
+[Dealer "W"]
+[Auction "W"]
+1NT X 2D Pass
+2H 3D Pass Pass
+3H Pass Pass Pass
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+SJ S5 S6 SA
+H2 HQ H9 H5
+HA H3 S4 HK
+H8 HJ C7 H4
+DT HT C2 C3
+D8 H6 C6 D6
+C5 H7 D3 C8
+CT S8 SQ SK
+D4 S9 S3 ST
+DJ D5 S2 S7
+CK C4 C9 CA
+*
+[Room "Open"]
+[Result "10"]
+[Score "+170"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "21"]
+[West "Lazard"]
+[North "Miller"]
+[East "Bramley"]
+[South "Cheek"]
+[Vulnerable "NS"]
+[Deal "S:K9532.T2.A74.A84 .KJ985.Q52.KQJT7 QT6.AQ64.JT93.92 AJ874.73.K86.653"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1S 2S
+3S Pass Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+CK C2 C3 C8
+HJ HQ H7 H2
+DQ DJ D6 D4
+HK HA H3 HT
+C7 C9 C6 CA
+H5 SQ SA S2
+CT S6 C5 C4
+D5 DT D8 D7
+CJ ST SJ SK
+D2 D3 DK DA
+CQ D9 S4 S3
+H8 H4 S8 S9
+H9 H6 S7 S5
+*
+[Room "Open"]
+[Result "8"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "22"]
+[West "Cohen"]
+[North "Miller"]
+[East "Smith"]
+[South "Cheek"]
+[Vulnerable "EW"]
+[Deal "S:KJT954.Q75.T.J85 632.KJ632.AJ64.3 7.AT98.KQ2.AKT76 AQ8.4.98753.Q942"]
+[Dealer "E"]
+[Auction "E"]
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D9 DT DJ DQ
+H4 H5 HJ HT
+D5 S4 DA D2
+D8 S5 D4 DK
+C2 C5 C3 CA
+C4 C8 S2 CK
+CQ CJ S3 C7
+D7 S9 D6 S7
+D3 HQ H2 H9
+SA ST S6 H8
+*
+[Room "Open"]
+[Result "7"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "23"]
+[West "Cohen"]
+[North "Miller"]
+[East "Smith"]
+[South "Cheek"]
+[Vulnerable "Both"]
+[Deal "S:A94.J98643.KJ6.5 KQ3.Q75.Q94.KQ72 J876.KT2.73.9643 T52.A.AT852.AJT8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H 1NT Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H2 HA H3 H5
+D7 DA D6 D4
+D3 D2 DK D9
+HK S2 H6 HQ
+HT S5 HJ H7
+- - H9 -
+*
+[Room "Open"]
+[Result "6"]
+[Score "-300"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "24"]
+[West "Cohen"]
+[North "Miller"]
+[East "Smith"]
+[South "Cheek"]
+[Vulnerable "None"]
+[Deal "S:Q642.JT93.Q962.Q K8.K874.KT8.J763 AT9753.5.A753.K9 J.AQ62.J4.AT8542"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S 2C 2S
+2NT 3S 3NT 4S
+Pass Pass X Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4SX"]
+[Play "E"]
+CA CQ C3 C9
+DJ DQ DK DA
+C2 S2 C6 CK
+SJ SQ S8 S3
+C4 S4 SK SA
+HQ H3 H7 H5
+D4 D2 D8 D3
+C5 D6 DT D5
+H2 H9 H4 S5
+*
+[Room "Open"]
+[Result "9"]
+[Score "-100"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "25"]
+[West "Weinstein"]
+[North "Weichsel"]
+[East "Levin"]
+[South "Sontag"]
+[Vulnerable "EW"]
+[Deal "S:J643.K83.6.JT842 Q.J742.K42.AKQ53 T.A96.QJT985.976 AK98752.QT5.A73."]
+[Dealer "N"]
+[Auction "N"]
+3D 3S Pass 3NT
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+D6 D2 DJ DA
+S3 SQ ST S2
+C2 CA C6 H5
+C4 CK C9 HT
+CJ C3 C7 S7
+S4 H2 D5 SA
+*
+[Room "Open"]
+[Result "11"]
+[Score "+650"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "26"]
+[West "Weinstein"]
+[North "Weichsel"]
+[East "Levin"]
+[South "Sontag"]
+[Vulnerable "Both"]
+[Deal "S:AJ54.AT5.97.KJ82 Q96.J8763.Q32.96 832.42.AKT865.T4 KT7.KQ9.J4.AQ753"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2D X
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+D9 D2 DK D4
+SA S6 S2 S7
+D7 D3 DA DJ
+HA DQ D8 HQ
+S4 S9 S8 SK
+H5 H3 H2 HK
+HT HJ H4 H9
+*
+[Room "Open"]
+[Result "8"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "27"]
+[West "Weinstein"]
+[North "Weichsel"]
+[East "Levin"]
+[South "Sontag"]
+[Vulnerable "None"]
+[Deal "S:A732.9532.976.JT KT8.AQT4.K8.AKQ7 964.KJ876.T3.854 QJ5..AQJ542.9632"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 3C
+Pass 3NT Pass 4C
+Pass 4H Pass 5NT
+Pass 6C Pass 6NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "6NT"]
+[Play "N"]
+H6 S5 H9 HT
+C4 C2 CT CA
+C5 C3 CJ CK
+C8 C6 S2 CQ
+D3 D2 D6 DK
+*
+[Room "Open"]
+[Result "12"]
+[Score "+990"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "28"]
+[West "Weinstein"]
+[North "Bramley"]
+[East "Levin"]
+[South "Lazard"]
+[Vulnerable "NS"]
+[Deal "S:AQJ87.53.K43.AJ6 9.AJ98.AJ972.Q98 642.KT62.5.T7532 KT53.Q74.QT86.K4"]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S Pass
+2D Pass 3D Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+H2 HQ H5 H9
+D5 DQ D4 D2
+C2 D6 D3 D9
+C3 D8 DK DA
+C5 CK CA C9
+H6 H4 H3 HA
+S2 SK SA S9
+C7 C4 C6 CQ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "29"]
+[West "Weinstein"]
+[North "Bramley"]
+[East "Levin"]
+[South "Lazard"]
+[Vulnerable "Both"]
+[Deal "S:QJ82.9852.74.J64 7.JT6.AKJ82.A872 A6543.AKQ3.9.QT3 KT9.74.QT653.K95"]
+[Dealer "N"]
+[Auction "N"]
+1S Pass 1NT X
+2H 3D Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3D"]
+[Play "S"]
+SQ S7 SA S9
+H8 H6 HQ H4
+H2 HT HA H7
+H5 HJ HK DQ
+*
+[Room "Open"]
+[Result "9"]
+[Score "+110"]
+
+[Event "1999 MSN Gaming Zone Cavendish Invitational"]
+[Site "MGM Grand Hotel - Las Vegas, Nevada, USA"]
+[Date "1999.05.09"]
+[Round "2"]
+[Board "30"]
+[West "Weinstein"]
+[North "Bramley"]
+[East "Levin"]
+[South "Lazard"]
+[Vulnerable "None"]
+[Deal "S:A5.Q74.K9765.KT5 J9.J8.AQ32.AQ742 KT8743.K6.T8.983 Q62.AT9532.J4.J6"]
+[Dealer "E"]
+[Auction "E"]
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+D6 D2 DT DJ
+D7 DQ D8 D4
+D5 DA H6 H9
+S5 S9 ST S6
+H4 H8 HK HA
+SA SJ S3 S2
+HQ HJ S8 H3
+DK D3 S4 H2
+H7 C2 C3 HT
+D9 C4 C8 H5
+C5 CA C9 C6
+*
+[Room "Open"]
+[Result "9"]
+[Score "+140"]
+
+% PBN 1.0
+% ACBL source converted to PBN by Francesco Barcio - frbarcio@tin.it
+%
+[Event "27th Cavendish Invitational 2001 Pairs"]
+[Site "Mirage Hotel and Casino - Las Vegas, Nevada, USA"]
+[Date "2001.05.11"]
+[Round "01"]
+[Board "1"]
+[Room "Open"]
+[West "M. Kwiecien"]
+[North "Bobby Levin"]
+[East "Jacek Pszczola"]
+[South "S. Weinstein"]
+[Dealer "N"]
+[Deal "S:842.AT763.Q543.5 AQJT3.2.T9.AK973 K6.J954.82.QJ842 975.KQ8.AKJ76.T6"]
+[Vulnerable "None"]
+[Contract "5S"]
+[Declarer "W"]
+{
+Well start with two of the highest-priced pairs in this international
+field of superstars - the 1999 Cavendish Pairs winners Bobby
+Levin/Steve Weinstein as N/S taking on the front-line Polish
+pair Jacek Pszczola/Michal Kwiecien, who narrowly lost the Olympiad
+Teams final in Maastrich last year. The Polish Club (basically
+a natural system with a multi-meaning 1C) took West to 5S after
+a natural start, a game-forcing jump by responder, spade preference,
+cue-bids, and RKCB, revealing that two keycards wewre missing.
+}
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass 3C
+Pass 3S Pass 4C
+Pass 4D Pass 4H
+Pass 4S Pass 4NT
+Pass 5C Pass 5S
+Pass Pass Pass
+[Play "N"]
+CJ C6 C5 CA
+H5 HK HA H2
+HJ HQ H6 C3
+SK S9 S2 S3
+C2 CT S4 C7
+H4 H8 H3 ST
+S6 S5 S8 SA
+*
+[Result "10"]
+

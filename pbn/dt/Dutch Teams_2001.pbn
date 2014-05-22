@@ -1,0 +1,6057 @@
+% PBN created by BFC s1.lin P
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T6.K986.A32.QJ53 QJ82.3.Q654.A964 94.T742.KJ97.872 AK753.AQJ5.T8.KT"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1S Pass
+2C Pass 4S AP
+[Play "W"]
+CQ C4 C8 CK
+S6 SQ S4 S3
+ST S2 S9 SK
+C3 C6 C2 CT
+H6 H3 H2 HA
+H8 S8 H4 H5
+C5 CA C7 D8
+DA D4 D7 DT
+CJ C9 D9 S7
+H9 D5 H7 HJ
+*
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T6.K986.A32.QJ53 QJ82.3.Q654.A964 94.T742.KJ97.872 AK753.AQJ5.T8.KT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1S Pass
+3NT Pass 4S AP
+[Play "W"]
+S6 SQ S4 S3
+H6 H3 H4 HA
+HK S2 H2 HQ
+C3 C4 C2 CK
+H8 SJ H7 H5
+ST S8 S9 SA
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:932.752.A96.K862 KQ8754.84.T53.43 AJT.J.KJ82.QT975 6.AKQT963.Q74.AJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1C 4H AP
+[Play "W"]
+C2 C3 CQ CA
+H5 H4 HJ HA
+S9 SK SA S6
+CK C4 CT CJ
+DA D3 D2 D4
+D9 D5 DK D7
+D6 DT DJ DQ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:932.752.A96.K862 KQ8754.84.T53.43 AJT.J.KJ82.QT975 6.AKQT963.Q74.AJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1C 4H AP
+[Play "W"]
+C2 C3 CQ CA
+S2 SK SA S6
+H2 H4 HJ HQ
+H7 H8 C7 H6
+S3 S4 ST CJ
+DA D3 D2 DQ
+CK C4 C5 H3
+H5 S5 CT HA
+-  -  -  HK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:52.AQ95.QJ76.Q82 T9.2.K93.AKJ7653 J7643.KJ87.T42.4 AKQ8.T643.A85.T9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1H Pass 2C Pass
+2NT Pass 3NT AP
+[Play "W"]
+D6 D3 DT DA
+C2 CA C4 CT
+C8 CK S4 C9
+CQ C3 S3 D5
+H5 H2 HK H3
+H9 D9 HJ H4
+HQ S9 H8 H6
+HA -  -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:52.AQ95.QJ76.Q82 T9.2.K93.AKJ7653 J7643.KJ87.T42.4 AKQ8.T643.A85.T9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1C Pass 2C Pass
+2NT Pass 3NT AP
+[Play "W"]
+D6 D3 DT DA
+C2 CA C4 C9
+C8 CK S3 CT
+CQ C3 H7 D5
+H5 H2 HK H3
+H9 D9 HJ H4
+HA S9 H8 HT
+HQ C5 -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T654.AQJ763.3.K4 AKQ3.95.A986.Q75 982.84.KT54.AJ32 J7.KT2.QJ72.T986"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NTX"]
+[Result "4"]
+[Auction "W"]
+1H X Pass 1NT
+Pass 2NT Pass 3NT
+Pass Pass X AP
+[Play "W"]
+HQ H5 H8 HK
+D3 D8 DK DQ
+HJ H9 H4 H2
+HA D6 S8 HT
+H7 D9 S2 D2
+H3 C5 S9 D7
+H6 C7 D4 DJ
+CK CQ C2 C6
+C4 SA CA C9
+S4 S3 CJ C8
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T654.AQJ763.3.K4 AKQ3.95.A986.Q75 982.84.KT54.AJ32 J7.KT2.QJ72.T986"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "4"]
+[Auction "W"]
+1H X Pass 1NT
+Pass 2NT AP
+[Play "W"]
+HQ H5 H4 HK
+D3 D6 DK DQ
+CK C5 C2 C6
+HA H9 H8 H2
+HJ D8 S2 HT
+H7 -  -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AKJ43.K72.Q63.T3 92.T854.A92.A765 QT75.A63.KJT84.8 86.QJ9.75.KQJ942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2NT Pass 3S
+Pass 4S AP
+[Play "N"]
+H5 -  -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AKJ43.K72.Q63.T3 92.T854.A92.A765 QT75.A63.KJT84.8 86.QJ9.75.KQJ942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 4C Pass 4S
+AP
+[Play "N"]
+H5 H3 HJ HK
+S2 S5 S6 SA
+S9 SQ S8 S3
+-  D4 -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQ8.K9654.K72.85 KT73.872.QJT54.T 642.QT.A963.9764 J95.AJ3.8.AKQJ32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 3C AP
+[Play "W"]
+D7 DQ DA D8
+HK H2 HT HJ
+H6 H7 HQ HA
+C5 CT C4 C3
+DK DJ D3 H3
+SA S3 S4 S5
+S8 SK S6 S9
+D2 DT D6 SJ
+-  H8 C9 CJ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AQ8.K9654.K72.85 KT73.872.QJT54.T 642.QT.A963.9764 J95.AJ3.8.AKQJ32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1C 1H X
+Pass 2H Pass 2S
+Pass 3NT AP
+[Play "W"]
+SA S3 S2 S5
+SQ SK S4 SJ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T.Q5.QJ654.KQT95 KJ63.KT9872.KT.8 Q84.AJ3.9832.763 A9752.64.A7.AJ42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 3NT Pass
+4S AP
+[Play "W"]
+CK C8 C7 CA
+H5 HT HJ H4
+C5 S3 C6 C2
+ST S6 S4 SA
+HQ HK HA H6
+C9 SJ C3 C4
+D6 SK S8 S2
+D4 H9 H3 CJ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T.Q5.QJ654.KQT95 KJ63.KT9872.KT.8 Q84.AJ3.9832.763 A9752.64.A7.AJ42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1S Pass 4C Pass
+4S AP
+[Play "W"]
+CK C8 C7 CA
+ST SK S4 S2
+D4 DT D3 DA
+H5 HK HA H4
+C5 S3 C6 C2
+HQ H2 H3 H6
+D5 DK D2 D7
+D6 HT HJ S5
+CT S6 C3 C4
+DJ H9 D8 CJ
+-  SJ SQ SA
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKJ932.53.AK.A32 Q86.AK964.Q94.T6 74.J82.J862.KQ97 T5.QT7.T753.J854"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass 2D Pass
+3S Pass 4S AP
+[Play "N"]
+HA H2 H7 H5
+HK H8 HT H3
+H9 HJ HQ S2
+S6 S4 S5 SA
+C6 CK C4 C3
+SQ S7 ST SJ
+CT C7 C5 CA
+-  -  -  SK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKJ932.53.AK.A32 Q86.AK964.Q94.T6 74.J82.J862.KQ97 T5.QT7.T753.J854"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 1NT Pass
+3C Pass 4C Pass
+4S AP
+[Play "N"]
+HA H2 H7 H5
+HK H8 HT H3
+H9 HJ HQ S2
+S6 S4 S5 SA
+C6 CK C4 C2
+SQ S7 ST SJ
+H6 D2 D7 S3
+-  -  -  SK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQJ82.5.QT84.A84 K965.KJ32.K6.KJ2 43.876.A732.Q953 T7.AQT94.J95.T76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "N"]
+1H Pass 4H 4S
+X AP
+[Play "N"]
+H3 H8 HA H5
+HJ H7 H9 S2
+D6 DA D9 D4
+DK D2 D5 D8
+HK H6 HT C4
+C2 CQ C7 C8
+S5 S4 S7 SJ
+S6 S3 ST SA
+S9 -  -  DQ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQJ82.5.QT84.A84 K965.KJ32.K6.KJ2 43.876.A732.Q953 T7.AQT94.J95.T76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1H 1S
+2H Pass Pass X
+Pass 2S 3H AP
+[Play "W"]
+D4 D6 DA D5
+D8 DK D2 D9
+H5 H2 H6 HT
+SA S5 S4 S7
+SQ SK S3 ST
+S2 H3 H7 H9
+DT HJ H8 HQ
+C4 CJ CQ C6
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K73.J9752.T2.KJ7 AJT.8.KQ876.8643 Q6.KQT63.J543.T9 98542.A4.A9.AQ52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1S Pass 3NT
+Pass 4S AP
+[Play "W"]
+H5 H8 HQ HA
+S3 ST SQ S2
+C7 C3 CT CA
+S7 SA S6 S4
+D2 D6 D4 DA
+DT DK D5 D9
+SK DQ D3 C2
+CK C4 C9 C5
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K73.J9752.T2.KJ7 AJT.8.KQ876.8643 Q6.KQT63.J543.T9 98542.A4.A9.AQ52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1S Pass 3NT
+Pass 4S AP
+[Play "W"]
+DT D6 D5 DA
+S3 SJ SQ S2
+C7 C3 CT CA
+S7 ST S6 S4
+D2 DK D3 D9
+SK D7 DJ S9
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A76.8.98643.Q843 JT4.AQJT3.KQ7.62 852.954.AT5.AJT5 KQ93.K762.J2.K97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 2NT Pass
+3C Pass 4H AP
+[Play "W"]
+C3 C2 CA C7
+C4 C6 CJ CK
+H8 HT H5 H2
+D4 HJ H4 H6
+D3 H3 H9 HK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A76.8.98643.Q843 JT4.AQJT3.KQ7.62 852.954.AT5.AJT5 KQ93.K762.J2.K97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1C Pass 1H Pass
+2H Pass 4H AP
+[Play "E"]
+S5 SK SA S4
+DA D2 D8 D7
+S8 S3 S7 SJ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK543.K75.A53.J6 J.T643.QT92.7532 Q876.AQJ92.7.Q84 T92.8.KJ864.AKT9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1NT Pass 2C Pass
+3S Pass 4S AP
+[Play "N"]
+DT D7 DK DA
+D2 S6 D6 D3
+SJ SQ S2 SK
+D9 S7 D4 D5
+C2 S8 S9 SA
+H3 H2 H8 HK
+H6 HA C9 H5
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK543.K75.A53.J6 J.T643.QT92.7532 Q876.AQJ92.7.Q84 T92.8.KJ864.AKT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1NT Pass 2D Pass
+2H Pass 2S Pass
+3S Pass 4S AP
+[Play "S"]
+CA C6 C7 C4
+CK CJ C2 C8
+S2 S3 SJ SQ
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8632.AQ8.Q53.872 QT54.92.JT84.653 AK.KJT75.K6.JT94 J97.643.A972.AKQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass 1H Pass 1NT
+Pass 2C Pass 2H
+AP
+[Play "S"]
+H3 H8 H9 HT
+CQ C2 C6 CT
+H4 HA H2 H5
+CK C7 C5 C4
+H6 -  -  -
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8632.AQ8.Q53.872 QT54.92.JT84.653 AK.KJT75.K6.JT94 J97.643.A972.AKQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H
+AP
+[Play "S"]
+H3 H8 H9 HJ
+H4 HQ H2 H5
+H6 HA D8 H7
+CQ C8 C6 C4
+S7 S2 SQ SA
+CK C2 C3 CJ
+SJ S3 S4 SK
+CA C7 C5 CT
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AT53.AJT9.7.K952 KQ72.Q82.T5.JT83 96.63.K86432.AQ7 J84.K754.AQJ9.64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+2D AP
+[Play "S"]
+C6 C2 C8 CA
+H4 H9 HQ H6
+DA D7 DT DK
+S4 SA S2 S6
+H5 HA H8 H3
+HK HJ H2 S9
+H7 HT D5 D6
+D9 S3 S7 D2
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AT53.AJT9.7.K952 KQ72.Q82.T5.JT83 96.63.K86432.AQ7 J84.K754.AQJ9.64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+2D AP
+[Play "S"]
+C6 C2 C8 CA
+H4 H9 HQ H3
+S4 SA SK S6
+DA D7 D5 DK
+C4 C5 CT CQ
+DJ S3 DT D4
+D9 HT S2 D3
+DQ ST H8 D2
+SJ S5 S7 S9
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.KQT65.KQ84.Q 76542.42.AJT.853 JT.AJ93.973.J962 983.87.652.AKT74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass 1H Pass 3H
+Pass 4H AP
+[Play "N"]
+S2 SJ S9 SA
+H4 H3 H7 HK
+H2 HJ H8 H6
+DA D3 D6 DK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.KQT65.KQ84.Q 76542.42.AJT.853 JT.AJ93.973.J962 983.87.652.AKT74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass 1H Pass 2H
+Pass 4C Pass 4H
+AP
+[Play "N"]
+C3 C2 CA CQ
+DA D3 D2 DK
+DJ D7 D6 DQ
+H2 HA H7 H5
+H4 H3 H8 HK
+-  -  -  SA
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Nab"]
+[North "de Wijs"]
+[East "Paulissen"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K763.T76.T52.A62 QT42.3.AQ6.Q9874 A5.AJ542.9874.J5 J98.KQ98.KJ3.KT3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "W"]
+Pass Pass Pass 1H
+Pass 1S Pass 1NT
+AP
+[Play "W"]
+C6 C4 CJ CK
+C2 C7 C5 CT
+CA C8 D4 C3
+D5 DQ D7 D3
+SK S2 S5 SJ
+H7 H3 HJ HK
+S3 S4 SA S9
+H6 -  HA H8
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K763.T76.T52.A62 QT42.3.AQ6.Q9874 A5.AJ542.9874.J5 J98.KQ98.KJ3.KT3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 1NT
+Pass 2C Pass 2S
+Pass 3C Pass 3NT
+AP
+[Play "W"]
+D5 D6 D7 DJ
+C2 CQ C5 CT
+C6 C9 CJ CK
+CA C8 D4 C3
+DT DQ D8 D3
+SK S2 S5 SJ
+H7 H3 HJ HQ
+S3 ST SA S8
+H6 -  H4 HK
+*
+[Description "#"]
+[Stage "Seg 1 Of 5"]
+[HomeTeam "Lombard"]
+[VisitTeam "Modalfa +11"]
+[Room "Closed"]
+
+% PBN created by BFC s2.lin P
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ4.KJ9.852.KQ52 32.73.KJT93.J986 KQT.T2.AQ764.T74 98765.AQ8654..A3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1D 2D 3NT
+AP
+[Play "N"]
+H7 H2 H4 HJ
+S2 SK S8 S4
+C6 C4 C3 CK
+DT DQ S5 D2
+C8 C7 CA C2
+H3 HT HA H9
+D3 D4 H5 HK
+S3 ST S6 SA
+C9 SQ S7 SJ
+*
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ4.KJ9.852.KQ52 32.73.KJT93.J986 KQT.T2.AQ764.T74 98765.AQ8654..A3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1D 2D X
+Pass Pass 2H 3NT
+AP
+[Play "N"]
+H7 H2 H4 H9
+D9 DQ S8 D5
+C6 C4 C3 CK
+S2 SK S7 S4
+C8 C7 CA C5
+S3 SQ S5 SJ
+H3 HT HA HJ
+D3 ST S6 SA
+C9 D4 H5 HK
+CJ CT -  CQ
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q2.QT87.K.AKJ654 A93.A4.AQJ9654.3 T654.J52.T72.Q82 KJ87.K963.83.T97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C 1D
+Pass Pass 2C 2D
+AP
+[Play "E"]
+C2 C7 CK C3
+C8 C9 CA D5
+H2 HK H8 H4
+D2 D3 DK DA
+D7 D8 C4 DQ
+DT S7 C5 DJ
+S6 H3 C6 D9
+S4 CT CJ D6
+H5 H6 HT HA
+S5 SK S2 S3
+ST SJ SQ SA
+-  -  -  S9
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q2.QT87.K.AKJ654 A93.A4.AQJ9654.3 T654.J52.T72.Q82 KJ87.K963.83.T97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C X
+Pass 1S 2C 2D
+Pass 2H Pass 3C
+X Pass Pass 3D
+AP
+[Play "E"]
+C2 CT CK C3
+C8 C7 CA D4
+H5 HK H7 H4
+D2 D3 DK DA
+D7 D8 C6 DQ
+DT S7 C5 DJ
+S6 H3 H8 D9
+H2 H6 HT HA
+HJ C9 C4 D6
+CQ H9 CJ D5
+S4 SK S2 S3
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:72.7.A72.KT98732 QJT85.JT95.9.AJ4 3.AKQ842.KQ865.Q AK964.63.JT43.65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5SX"]
+[Result "9"]
+[Auction "S"]
+2S Pass 4S 4NT
+X 5C X 5D
+Pass Pass 5S Pass
+Pass X AP
+[Play "W"]
+H7 HJ HQ H3
+C2 H5 HK H6
+D2 D9 DK D4
+C3 H9 H8 S9
+S2 SQ S3 S4
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:72.7.A72.KT98732 QJT85.JT95.9.AJ4 3.AKQ842.KQ865.Q AK964.63.JT43.65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5HX"]
+[Result "9"]
+[Auction "S"]
+2S Pass 4S 5H
+Pass Pass X AP
+[Play "S"]
+SA S2 S5 S3
+SK S7 S8 H2
+H3 H7 H5 HK
+H6 C2 H9 HQ
+C5 C3 HT HA
+C6 C7 CA CQ
+S6 C8 HJ H4
+S4 C9 SQ H8
+D3 D2 D9 DQ
+D4 DA SJ D5
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT.AK98732.8.63 KQ9653.6.KJT65.T 87.Q54.Q732.K872 42.JT.A94.AQJ954"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+4H 4S AP
+[Play "E"]
+H4 HT HA H6
+H5 HJ HK S3
+C2 CA C6 CT
+S7 S2 SJ SK
+D3 DA D8 D5
+S8 S4 SA S5
+C7 C4 C3 S6
+C8 C5 ST SQ
+-  -  -  DK
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT.AK98732.8.63 KQ9653.6.KJT65.T 87.Q54.Q732.K872 42.JT.A94.AQJ954"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "W"]
+1H 2H Pass 3D
+3H Pass 4H X
+AP
+[Play "N"]
+CT C2 CJ C6
+SQ S7 S4 ST
+DT DQ DA D8
+S3 S8 S2 SA
+H6 H4 HT HA
+S5 H5 HJ HK
+S6 CK CA C3
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K7.AKJ74.A97.T85 T542.2.JT4.76432 986.963.Q8652.K9 AQJ3.QT85.K3.AQJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass Pass 1NT AP
+[Play "W"]
+HA H2 H3 H5
+H4 C4 H9 HT
+S7 S4 S6 SA
+SK S5 S8 SQ
+D7 DJ D6 D3
+C8 S2 S9 SJ
+D9 ST D2 S3
+C5 C2 C9 CA
+DA D4 D5 DK
+CT C3 CK CJ
+-  -  H6 -
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K7.AKJ74.A97.T85 T542.2.JT4.76432 986.963.Q8652.K9 AQJ3.QT85.K3.AQJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1H"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1H AP
+[Play "W"]
+H4 H2 H9 HT
+S7 ST S9 S3
+C8 C2 C9 CQ
+SK S2 S6 SA
+H7 S4 S8 SQ
+C5 C3 CK CA
+CT C4 H3 CJ
+DA D4 D2 D3
+D9 DT D5 DK
+D7 S5 H6 SJ
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A942.K4.T954.AK2 Q653.QJ5.76.Q863 .T8732.AKQJ3.JT5 KJT87.A96.82.974"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1H 1S 3NT AP
+[Play "N"]
+S5 H2 SK SA
+D6 DA D8 D4
+D7 DK D2 D9
+C3 DQ C7 D5
+H5 DJ C4 DT
+HJ D3 H6 S2
+C6 CJ C9 CA
+C8 C5 S8 CK
+CQ CT H9 C2
+HQ H3 HA H4
+S6 H7 SJ S4
+SQ H8 S7 S9
+S3 -  -  -
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A942.K4.T954.AK2 Q653.QJ5.76.Q863 .T8732.AKQJ3.JT5 KJT87.A96.82.974"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "E"]
+1H 1S X 3S
+4D Pass 4NT Pass
+5NT Pass 6D AP
+[Play "S"]
+C4 CA C3 C5
+D8 D4 D6 DK
+H6 HK H5 H3
+HA H4 HJ H8
+H9 DT HQ H2
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ4.QT9.AQ87.AT7 Q873.J5.KJT3.QJ8 K9.K832.9654.K93 T652.A764.2.6542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2NT
+Pass 3NT AP
+[Play "N"]
+S7 S9 ST SJ
+H5 H2 HA H9
+S8 SK S2 S4
+HJ H3 H4 HQ
+D3 HK H6 HT
+SQ H8 H7 C7
+DK D4 D2 DQ
+S3 D5 S5 SA
+DT D6 C2 DA
+DJ D9 C4 D7
+CQ CK C5 CT
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ4.QT9.AQ87.AT7 Q873.J5.KJT3.QJ8 K9.K832.9654.K93 T652.A764.2.6542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2NT
+Pass 3NT AP
+[Play "N"]
+S3 S9 ST SJ
+H5 H2 HA HT
+S7 SK S2 S4
+DK D4 D2 DQ
+SQ D6 S5 SA
+HJ H3 H4 HQ
+S8 HK H6 H9
+C8 H8 H7 C7
+CQ C3 C2 CA
+CJ CK C4 CT
+D3 C9 C5 D8
+DT D9 S6 DA
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK65.T86.A872.KT 843.AQJ7.6.Q9654 QJ2.2.KJT.AJ8732 T97.K9543.Q9543."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "10"]
+[Auction "W"]
+1D Pass 2C Pass
+2NT Pass 3D Pass
+3S Pass 4C Pass
+4S Pass 5D Pass
+5NT Pass 6C AP
+[Play "S"]
+H3 H6 HA H2
+H4 H8 HQ C2
+H5 CK C6 C3
+H9 CT C5 C7
+S7 S5 S8 SQ
+S9 S6 S4 SJ
+ST SA S3 S2
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK65.T86.A872.KT 843.AQJ7.6.Q9654 QJ2.2.KJT.AJ8732 T97.K9543.Q9543."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "W"]
+1D 1H 2C 4H
+X AP
+[Play "E"]
+DT D3 DA D6
+SQ S7 SA S4
+S2 S9 SK S8
+DK D4 D8 S3
+SJ ST S6 H7
+H2 H3 H6 HA
+C2 H4 H8 HQ
+C3 H5 CT C5
+DJ DQ D2 C4
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:73.JT5.KQ9.KQT54 KQ8.K9764.74.976 96.AQ2.AJT63.J83 AJT542.83.852.A2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D 2S 3C
+3S AP
+[Play "W"]
+DK D4 D6 D5
+CK C6 C3 C2
+S3 SK S6 S2
+D9 D7 DA D8
+S7 S8 S9 SJ
+DQ SQ D3 D2
+H5 H6 HQ H3
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:73.JT5.KQ9.KQT54 KQ8.K9764.74.976 96.AQ2.AJT63.J83 AJT542.83.852.A2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D 2S 3C
+3S AP
+[Play "W"]
+DK D4 D3 D5
+CK C6 C3 CA
+HT HK HA H3
+CQ C7 CJ C2
+CT C9 C8 S2
+HJ H4 HQ H8
+-  -  DA -
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A.4.T9432.765432 K74.97.QJ8.AKQJ9 QT86532.KQT6..T8 J9.AJ8532.AK765."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+2C 2H Pass 3C
+Pass 3D Pass 3NT
+AP
+[Play "E"]
+S6 S9 SA S4
+S5 D5 D3 DQ
+C8 H2 C2 CA
+CT H3 C3 CK
+S2 H5 C4 CQ
+H6 H8 C5 CJ
+S3 D6 C6 C9
+-  -  -  DJ
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A.4.T9432.765432 K74.97.QJ8.AKQJ9 QT86532.KQT6..T8 J9.AJ8532.AK765."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[Auction "E"]
+Pass 1H Pass 2C
+2S 3D Pass 4NT
+Pass 5D Pass 6NT
+AP
+[Play "E"]
+HK HA H4 H7
+S2 D5 D2 DQ
+HQ H2 C7 H9
+SQ S9 SA S4
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK7.KT.KT98765.4 Q52.QJ96.AJ3.J87 JT93.A84.Q4.AT63 864.7532.2.KQ952"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2D Pass 2NT
+Pass 3S Pass 3NT
+AP
+[Play "S"]
+C2 C4 CJ C3
+H5 HK HJ H4
+D2 D5 D3 DQ
+C5 D6 DJ D4
+H2 HT HQ HA
+S4 SA S5 S3
+S6 DK DA C6
+H3 S7 H9 H8
+H7 -  H6 S9
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK7.KT.KT98765.4 Q52.QJ96.AJ3.J87 JT93.A84.Q4.AT63 864.7532.2.KQ952"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S Pass 2NT
+Pass 3S Pass 3NT
+AP
+[Play "S"]
+C2 C4 CJ CA
+S4 SA S5 SJ
+D2 D5 D3 DQ
+H2 D6 DJ D4
+C9 D7 C8 C3
+CK D8 C7 C6
+CQ D9 H6 CT
+C5 DT H9 H4
+S6 SK S2 S3
+S8 S7 SQ ST
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT83.84.J532.KQ8 AQ4.K7532.AT8.A2 J5.AQJ6.Q964.T65 9762.T9.K7.J9743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass 1H Pass Pass
+X Pass 1NT AP
+[Play "S"]
+HT H4 H5 HQ
+S2 S3 SQ SJ
+H9 H8 H2 HJ
+S6 S8 SA S5
+S7 D2 H7 HA
+C7 CK CA C5
+C3 D3 HK H6
+C4 C8 H3 D4
+DK D5 DT D6
+D7 DJ DA D9
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KT83.84.J532.KQ8 AQ4.K7532.AT8.A2 J5.AQJ6.Q964.T65 9762.T9.K7.J9743"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass 1NT AP
+[Play "E"]
+D6 D7 DJ D8
+D4 DK D2 DT
+HA H9 H4 HK
+D9 S2 D3 DA
+HJ HT H8 H3
+C5 C9 CQ CA
+HQ S6 S3 H7
+DQ C3 D5 S4
+SJ S7 SK SA
+H6 C4 C8 H5
+CT CJ CK C2
+S5 S9 ST SQ
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:98.K95.AK985.Q43 AQ63.J8743.J7.A8 JT754.QT.T63.J96 K2.A62.Q42.KT752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1H Pass 1NT AP
+[Play "W"]
+D8 D7 D3 DQ
+H5 H3 HT H6
+DK DJ DT D2
+DA H4 D6 D4
+D9 H7 S5 C5
+D5 H8 C6 C2
+S9 S3 S4 SK
+H9 HJ HQ HA
+S8 SA S7 S2
+HK SQ SJ H2
+C3 CA C9 C7
+C4 C8 CJ CK
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:98.K95.AK985.Q43 AQ63.J8743.J7.A8 JT754.QT.T63.J96 K2.A62.Q42.KT752"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+1H Pass 2C Pass
+2H Pass 4H AP
+[Play "E"]
+SJ S2 S9 SA
+C6 C2 C3 CA
+C9 CK C4 C8
+CJ C5 CQ H7
+HT HA H5 H3
+HQ CT S8 D7
+DT D2 DA DJ
+D6 D4 D8 H4
+S5 SK H9 S3
+-  -  HK H8
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ52.AKT.AT542.3 KT97.97643.3.Q76 843.52.K97.J9842 Q6.QJ8.QJ86.AKT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT X 2D
+Pass 2H AP
+[Play "W"]
+C3 C6 CJ CA
+HK H3 H5 HJ
+SA S7 S3 S6
+S2 S9 S4 SQ
+HA H4 H2 HQ
+S5 ST S8 D6
+HT CQ C4 C5
+DA -  -  -
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ52.AKT.AT542.3 KT97.97643.3.Q76 843.52.K97.J9842 Q6.QJ8.QJ86.AKT5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "E"]
+Pass 1NT X 2C
+Pass 2D Pass 2H
+AP
+[Play "E"]
+D7 DQ DA D3
+D9 D6 D4 H3
+H2 HQ HK H4
+DK D8 D2 H6
+S8 SQ SA S7
+H5 DJ D5 C6
+C8 C5 C3 CQ
+S4 HJ HA H7
+C2 H8 HT H9
+-  -  DT -
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.K6.K8543.J97652 K9752.J2.QJT7.T3 AQ86.AQ8754.2.Q8 JT43.T93.A96.AK4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1C 1D 1S 2H
+2S AP
+[Play "E"]
+D2 DA D8 D7
+SA S3 C2 SK
+S6 S4 D5 S7
+SQ ST D4 S2
+S8 SJ C5 S5
+H7 D6 D3 DT
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.K6.K8543.J97652 K9752.J2.QJT7.T3 AQ86.AQ8754.2.Q8 JT43.T93.A96.AK4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "S"]
+1S 2NT 3S AP
+[Play "W"]
+C7 CT CQ CA
+C2 SK SA S3
+D3 D7 D2 DA
+CJ S2 SQ SJ
+H6 H2 HA H3
+HK HJ H8 H9
+DK DT C8 D6
+D5 DQ S6 D9
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "Bakkeren"]
+[East "Van Eijck"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A532.4.QJT764.K4 96.Q92.A982.9532 QJ87.AJT7.K3.A76 KT4.K8653.5.QJT8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 2S Pass
+2NT Pass 4S AP
+[Play "N"]
+H2 HA H6 H4
+S6 SQ SK SA
+D2 DK D5 D4
+DA D3 C8 DQ
+D9 S7 ST D6
+H9 H7 H3 S5
+S9 SJ S4 S2
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A532.4.QJT764.K4 96.Q92.A982.9532 QJ87.AJT7.K3.A76 KT4.K8653.5.QJT8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3S Pass
+4S AP
+[Play "N"]
+C3 CA C8 C4
+D2 DK D5 D6
+D8 D3 S4 D4
+C2 C6 CT CK
+S6 SQ SK S2
+C5 C7 CJ S3
+D9 H7 ST DQ
+HQ HA H3 H4
+S9 S7 H5 SA
+*
+[Description "#"]
+[HomeTeam "Modalfa +41"]
+[VisitTeam "Lombard +10"]
+[Room "Closed"]
+
+% PBN created by BFC s3.lin P
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9875.K8753.KJ.75 KQT6.A9.8765.Q93 A43.JT6.AQT.AJ64 J2.Q42.9432.KT82"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2H
+AP
+[Play "N"]
+HA H6 H2 H3
+H9 HT HQ HK
+S6 S3 SJ S9
+D5 HJ H4 H5
+ST S4 S2 S8
+SQ SA D2 S5
+*
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9875.K8753.KJ.75 KQT6.A9.8765.Q93 A43.JT6.AQT.AJ64 J2.Q42.9432.KT82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2H
+AP
+[Play "N"]
+D7 DT D3 DJ
+ST S3 SJ S8
+HA H6 H2 H3
+H9 HJ H4 H5
+S6 SA S2 S5
+SQ S4 D2 S7
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ4.T765.983.KQ2 KQ5.Q8.AJT7.9854 T876.J432.Q4.AJ6 932.AK9.K652.T73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1NT AP
+[Play "W"]
+H7 H8 HJ HA
+D9 DT DQ D5
+H5 HQ H2 H9
+SA SK S6 S3
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AJ4.T765.983.KQ2 KQ5.Q8.AJT7.9854 T876.J432.Q4.AJ6 932.AK9.K652.T73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1D"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1C
+Pass 1D AP
+[Play "W"]
+H5 HQ H2 H9
+D3 D7 D4 DK
+D8 DJ DQ D6
+CQ C4 C6 CT
+H6 H8 HJ HA
+D9 DA H3 D2
+C2 C5 CA C3
+-  -  S8 -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A54.KT732.QT3.92 KQT62.Q984.K62.4 73.AJ6.74.AQT653 J98.5.AJ985.KJ87"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 2C Pass
+2S Pass Pass 3C
+AP
+[Play "S"]
+H5 H2 H9 HJ
+DA D3 D6 D4
+S9 SA S2 S3
+C7 C2 C4 CA
+CJ C9 S6 C3
+S8 S4 SQ S7
+C8 H3 H4 HA
+D5 DQ DK D7
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A54.KT732.QT3.92 KQT62.Q984.K62.4 73.AJ6.74.AQT653 J98.5.AJ985.KJ87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1S 2C
+4S X AP
+[Play "E"]
+S3 S8 S5 ST
+CA C7 C2 C4
+S7 SJ SA S2
+C3 S9 S4 S6
+C5 CK C9 H4
+D4 DJ DQ DK
+D7 D8 DT D6
+HJ H5 H3 H8
+HA -  -  -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ953.62.AQJ.K62 874.AKT753.97.T9 AT6.QJ8.K8654.A5 K2.94.T32.QJ8743"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2D Pass
+2S Pass 3S Pass
+4S AP
+[Play "N"]
+HK H8 H4 H6
+HA HJ H9 H2
+H7 HQ S2 S3
+S7 S6 SK SQ
+C9 C5 CJ CK
+S4 SA C3 S5
+S8 ST C4 SJ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ953.62.AQJ.K62 874.AKT753.97.T9 AT6.QJ8.K8654.A5 K2.94.T32.QJ8743"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2C Pass
+2D 2H 4S AP
+[Play "N"]
+HA H8 H9 H2
+HK HQ H4 H6
+H7 HJ S2 S3
+S4 S6 SK SQ
+CT C5 CQ CK
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "21"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:5.K654.AKJ8.J953 732.QJ72.T765.KT KT84.T.9432.Q872 AQJ96.A983.Q.A64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1S X
+2S Pass 3D Pass
+3H Pass 4S AP
+[Play "W"]
+DA D5 D2 DQ
+DK D6 D3 S6
+C3 CK C2 C6
+S5 S2 S4 SQ
+HK H2 HT H8
+H4 HQ ST H3
+D8 D7 D4 S9
+C5 CT C7 CA
+C9 S3 C8 C4
+H5 S7 S8 SJ
+-  -  -  SA
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "21"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:5.K654.AKJ8.J953 732.QJ72.T765.KT KT84.T.9432.Q872 AQJ96.A983.Q.A64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1S X
+2S Pass 3C Pass
+3S AP
+[Play "W"]
+DK D5 D2 DQ
+DA D6 D3 S6
+C3 CK C2 C4
+S5 S3 S4 SQ
+C5 CT C7 CA
+C9 S2 C8 C6
+H4 S7 S8 SJ
+H5 H2 HT HA
+HK H7 D4 H3
+CJ HJ CQ -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "22"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KT8.A643.9873.J2 J754.KQ8.KQT5.65 62.T97.J64.AKT93 AQ93.J52.A2.Q874"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 2S Pass 2NT
+Pass 3S AP
+[Play "E"]
+CA C4 C2 C6
+HT H2 H3 HQ
+S2 SQ SK S4
+H7 H5 HA HK
+CK C7 CJ C5
+CT C8 S8 SJ
+S6 SA ST S5
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "22"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KT8.A643.9873.J2 J754.KQ8.KQT5.65 62.T97.J64.AKT93 AQ93.J52.A2.Q874"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1S Pass 3S
+Pass 4S AP
+[Play "W"]
+D9 DK D6 D2
+SK SJ S2 S3
+D3 D5 D4 DA
+S8 S4 S6 SA
+ST S5 HT SQ
+HA H8 H7 H5
+D8 DQ DJ C4
+D7 DT C3 C7
+H3 HK H9 H2
+H4 HQ C9 HJ
+C2 C5 CA C8
+-  -  CK -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "23"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KT8.KJ.Q632.Q863 652.AT92.T8.JT92 AQ4.874.AK754.75 J973.Q653.J9.AK4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1D
+X XX 1H Pass
+Pass 1NT AP
+[Play "N"]
+CJ C5 CK C3
+HA H4 H3 HJ
+H9 H7 H5 HK
+D8 DA DJ D3
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "23"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KT8.KJ.Q632.Q863 652.AT92.T8.JT92 AQ4.874.AK754.75 J973.Q653.J9.AK4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1D
+X XX 1H Pass
+Pass 1NT AP
+[Play "N"]
+CJ C5 CK C6
+HA H4 H3 HJ
+H2 H7 H5 HK
+D8 D4 D9 DQ
+S2 S4 S3 SK
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "24"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ642.943.J6.KJ3 J5.KQT8652.T.986 T8.AJ.98753.AQT7 K973.7.AKQ42.542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1S 3H X Pass
+3S Pass 3NT AP
+[Play "S"]
+DK D6 DT D3
+DQ DJ H6 D5
+DA S2 H5 D7
+H7 H3 HQ HA
+D4 H4 H2 D9
+D2 C3 H8 D8
+C4 CK C8 C7
+C2 CJ C6 CA
+C5 S4 C9 CQ
+S3 H9 S5 CT
+S7 SQ SJ S8
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "24"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ642.943.J6.KJ3 J5.KQT8652.T.986 T8.AJ.98753.AQT7 K973.7.AKQ42.542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+Pass 3H Pass Pass
+3S AP
+[Play "N"]
+DT D3 DQ D6
+H8 D5 DK DJ
+S5 D7 D4 H4
+SJ S8 S3 SQ
+C6 CQ C2 C3
+H2 D9 DA S2
+C8 C7 C4 CK
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "25"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:4.QJ4.A954.T8753 98632.9.Q82.AJ62 KJT7.72.KJT73.Q9 AQ5.AKT8653.6.K4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 4H AP
+[Play "W"]
+C3 C2 C9 CK
+H4 H9 H2 HA
+HJ S2 H7 HK
+HQ S3 D3 H3
+DA D2 D7 D6
+D4 D8 DT H5
+D5 S6 DJ HT
+C5 S8 S7 H8
+C8 CA CQ C4
+C7 CJ ST S5
+S4 S9 SJ SQ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "25"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:4.QJ4.A954.T8753 98632.9.Q82.AJ62 KJT7.72.KJT73.Q9 AQ5.AKT8653.6.K4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 4H AP
+[Play "W"]
+C5 C2 C9 CK
+H4 H9 H2 HA
+HJ S2 H7 HK
+HQ S3 D7 HT
+DA D2 D3 D6
+D4 D8 DJ H3
+C3 DQ S7 H8
+S4 S9 ST S5
+D5 C6 DK H5
+C7 S6 DT H6
+D9 S8 SJ SA
+C8 CJ CQ C4
+CT CA SK SQ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "26"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J4.J.3.AKQJT9864 AQ65.Q753.A987.2 T93.AKT9842.J6.3 K872.6.KQT542.75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Auction "E"]
+3H Pass 5C AP
+[Play "N"]
+SA S3 S2 SJ
+S5 S9 SK S4
+-  -  S8 -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "26"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J4.J.3.AKQJT9864 AQ65.Q753.A987.2 T93.AKT9842.J6.3 K872.6.KQT542.75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "E"]
+3H Pass 5C AP
+[Play "N"]
+SA S3 S8 SJ
+SQ ST S2 S4
+DA D6 DK D3
+D7 DJ DQ C4
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "27"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K8.KJ7.Q98652.T7 Q64.AQ4.AT3.AJ96 A53.T986.J4.KQ52 JT972.532.K7.843"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 2C 2NT Pass
+3H Pass 3S AP
+[Play "E"]
+DJ DK D9 D3
+S3 SJ S8 S4
+D4 D7 D8 DT
+S5 S2 SK SQ
+C2 H2 DQ DA
+SA S7 D6 S6
+HT H3 HK HA
+H6 H5 H7 HQ
+H8 ST HJ H4
+CQ C3 CT CJ
+H9 S9 D2 C6
+C5 C4 C7 CA
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "27"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K8.KJ7.Q98652.T7 Q64.AQ4.AT3.AJ96 A53.T986.J4.KQ52 JT972.532.K7.843"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2H Pass 2S Pass
+Pass 3D AP
+[Play "N"]
+S4 S3 S9 SK
+D3 DJ DK D5
+HQ H6 H3 HJ
+HA H8 H5 HK
+CA C2 C3 C7
+C6 CK C4 CT
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "28"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K.KQ532.KJ72.AKJ J9.J9.AQ6543.752 AQT654.A7..QT864 8732.T864.T98.93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "13"]
+[Auction "W"]
+1H Pass 1S Pass
+2NT Pass 3S Pass
+3NT Pass 6C AP
+[Play "S"]
+DT DJ DQ C4
+C3 CA C5 C6
+C9 CK C2 C8
+S2 SK S9 S4
+H4 H2 HJ HA
+S3 CJ SJ S6
+D8 D2 D4 CT
+D9 H3 C7 CQ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "28"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K.KQ532.KJ72.AKJ J9.J9.AQ6543.752 AQT654.A7..QT864 8732.T864.T98.93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "13"]
+[Auction "W"]
+1H Pass 1S Pass
+3D Pass 3S Pass
+3NT Pass 6C AP
+[Play "S"]
+DT DJ DQ C4
+S2 SK S9 S4
+H6 H2 H9 HA
+S3 D2 SJ SA
+C3 CA C2 C6
+C9 CK C5 C8
+-  CJ C7 CQ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "29"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q87.K653.84.K987 K643.Q87.9652.Q6 JT9.AJT92.T7.JT2 A52.4.AKQJ3.A543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 3C Pass
+3H X 3S Pass
+5D AP
+[Play "W"]
+HK H7 HJ H4
+H3 H8 H9 D3
+D4 D2 D7 DA
+D8 D5 DT DK
+C7 C6 C2 CA
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "29"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q87.K653.84.K987 K643.Q87.9652.Q6 JT9.AJT92.T7.JT2 A52.4.AKQJ3.A543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1D Pass
+1S Pass 3C Pass
+3D Pass 3S Pass
+5D AP
+[Play "W"]
+H3 H7 H9 H4
+H5 H8 HT DJ
+D4 D2 D7 DA
+D8 D5 DT DK
+S7 SK SJ S2
+H6 HQ HA D3
+SQ S3 S9 SA
+S8 S4 ST S5
+-  -  CJ -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "30"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J43.J864.J4.KJ93 A92.AT.K863.T652 K85.K9732.A752.Q QT76.Q5.QT9.A874"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+1H Pass 2H AP
+[Play "S"]
+D9 D4 D3 D2
+ST S3 SA S5
+S6 S4 S2 SK
+CA C3 C2 CQ
+SQ SJ S9 S8
+S7 H4 HA D5
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "30"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J43.J864.J4.KJ93 A92.AT.K863.T652 K85.K9732.A752.Q QT76.Q5.QT9.A874"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Auction "E"]
+1H Pass 3H AP
+[Play "S"]
+S6 S3 SA S8
+S7 S4 S9 SK
+SQ SJ S2 S5
+DT D4 D6 D5
+DQ DJ D3 DA
+CA C3 C6 CQ
+D9 H4 D8 D7
+C4 CK C2 D2
+-  H6 -  -
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "31"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ92.KT3.QJ2.AKJ K873.A96.K7.QT52 Q54.7542.T96.943 T6.QJ8.A8543.876"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1C"]
+[Result "5"]
+[Auction "S"]
+Pass 1C AP
+[Play "N"]
+S7 S4 ST SJ
+DK D6 D5 DQ
+D7 D9 DA DJ
+S3 S5 S6 SA
+C2 C3 C6 CA
+SK SQ D3 S2
+S8 DT C7 S9
+HA H2 HJ HK
+H9 H4 HQ H3
+CQ C4 C8 CJ
+C5 C9 H8 CK
+-  -  -  HT
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "31"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ92.KT3.QJ2.AKJ K873.A96.K7.QT52 Q54.7542.T96.943 T6.QJ8.A8543.876"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1NT AP
+[Play "N"]
+C2 C3 C6 CJ
+S3 S4 S6 SA
+S7 SQ ST S2
+SK S5 D3 SJ
+CQ C4 C7 CK
+S8 H2 D4 S9
+D7 D6 DA DQ
+HA H4 HQ HK
+C5 C9 C8 CA
+DK D9 D5 DJ
+CT H5 D8 D2
+H6 H7 HJ H3
+H9 DT H8 HT
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "32"]
+[West "de Wijs"]
+[North "Bakkeren"]
+[East "Muller"]
+[South "Bertens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:96.K.KQ42.A98543 KQ5.JT974.JT53.2 AJT82.852.7.KQJ6 743.AQ63.A986.T7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "W"]
+1C Pass 1S Pass
+2C Pass 5C AP
+[Play "N"]
+DJ D7 DA D4
+HJ H2 HA HK
+H4 H5 H3 C4
+D3 CJ D6 D2
+C2 CK C7 C3
+H7 CQ CT CA
+H9 C6 H6 C9
+S5 S2 S7 C8
+D5 S8 S3 C5
+DT ST D8 DK
+HT -  -  DQ
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "32"]
+[West "Nab"]
+[North "Westra"]
+[East "Paulissen"]
+[South "Leufkens"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:96.K.KQ42.A98543 KQ5.JT974.JT53.2 AJT82.852.7.KQJ6 743.AQ63.A986.T7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "W"]
+1C Pass 1S Pass
+2C 2H 3H X
+Pass Pass 5C AP
+[Play "N"]
+HJ H2 HA HK
+H4 H5 HQ C3
+C2 CK C7 C5
+D3 D7 DA D2
+*
+[Description "#"]
+[Stage "Seg 3 Of 5"]
+[HomeTeam "Modalfa +105"]
+[VisitTeam "Lombard +24"]
+[Room "Closed"]
+
+% PBN created by BFC s4.lin P
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A9763.AQ.K75.Q76 Q8.JT8.AJT84.852 KJ42.5432.Q62.94 T5.K976.93.AKJT3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+2C Pass 2D 2S
+Pass 3S Pass 3NT
+Pass 4S AP
+[Play "N"]
+HJ H2 H6 HQ
+S8 S2 S5 SA
+SQ SK ST S6
+C8 C4 CK C7
+H8 H3 H7 HA
+-  -  -  S7
+*
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A9763.AQ.K75.Q76 Q8.JT8.AJT84.852 KJ42.5432.Q62.94 T5.K976.93.AKJT3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C 1S
+Pass 2S AP
+[Play "N"]
+HJ H2 H6 HQ
+S8 SK S5 S3
+SQ S2 ST SA
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q5.AK8.AKT72.653 8.Q97632.4.AQJT8 AJ64.J54.9863.42 KT9732.T.QJ5.K97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+Pass 2D 2NT AP
+[Play "N"]
+CQ C2 C7 C6
+S8 SA S2 S5
+D4 D3 D5 DA
+H2 D6 DJ DK
+H3 D8 DQ D2
+CA C4 CK C3
+CJ S4 C9 C5
+CT H4 S3 H8
+C8 D9 S7 D7
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q5.AK8.AKT72.653 8.Q97632.4.AQJT8 AJ64.J54.9863.42 KT9732.T.QJ5.K97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+Pass 2D 2NT AP
+[Play "N"]
+CJ C2 CK C3
+CQ C4 C9 C5
+CA D3 C7 C6
+CT D6 S2 H8
+C8 H4 S3 S5
+S8 SA S7 SQ
+D4 D8 DQ DA
+H2 D9 D5 DK
+H3 S4 DJ DT
+-  -  SK -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT7.J3.987532.QJ 63.QT985.AQ4.A52 QJ842.AK42.J.K94 K95.76.KT6.T8763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1H 1S
+Pass 2S AP
+[Play "S"]
+H7 HJ HQ HA
+H6 H3 HT HK
+C6 S7 H8 H2
+D6 D2 DA DJ
+S5 ST S6 S2
+C8 CQ CA C4
+S9 SA S3 S4
+C3 CJ C5 C9
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT7.J3.987532.QJ 63.QT985.AQ4.A52 QJ842.AK42.J.K94 K95.76.KT6.T8763"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1H 1S
+X 2S AP
+[Play "S"]
+H7 HJ HQ HA
+C7 CJ CA C4
+H6 H3 HT HK
+C6 CQ C5 C9
+D6 D2 DA DJ
+DT S7 H9 H2
+DK D3 D4 S8
+C3 D5 C2 CK
+C8 ST H5 H4
+S5 SA S3 S2
+SK D7 DQ SQ
+CT -  -  -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:542.AKQ9873.2.T9 K6.4.AQ985.K8732 AT8.5.JT763.QJ64 QJ973.JT62.K4.A5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+3H AP
+[Play "N"]
+C2 C4 CA CT
+SK SA SQ S4
+H4 H5 H2 HK
+D5 D3 H6 HA
+C3 D6 HT HQ
+CK C6 C5 C9
+S6 S8 S9 -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:542.AKQ9873.2.T9 K6.4.AQ985.K8732 AT8.5.JT763.QJ64 QJ973.JT62.K4.A5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+4H AP
+[Play "N"]
+DA D3 D4 D2
+D5 DJ DK H3
+H4 H5 H6 HA
+C8 D6 H2 HK
+C2 C4 CA C9
+S6 SA SQ S2
+CK C6 C5 CT
+SK S8 S3 S4
+DQ D7 HJ S5
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q3.AK2.KQ4.KQJ32 KJ72.74.AJ963.76 T854.J65.T7.9854 A96.QT983.852.AT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H X
+XX Pass Pass 2C
+AP
+[Play "N"]
+H7 H5 H8 HK
+C6 C4 CA CK
+SJ S4 S6 S3
+H4 H6 HT HA
+C7 C5 CT CQ
+S2 S5 SA SQ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q3.AK2.KQ4.KQJ32 KJ72.74.AJ963.76 T854.J65.T7.9854 A96.QT983.852.AT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 2NT
+AP
+[Play "N"]
+D3 DT D8 D4
+C6 C4 CT CK
+C7 C5 CA CQ
+DA D7 D5 DK
+DJ S4 D2 DQ
+S2 C9 H3 C2
+-  H5 -  -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:863.KJ874.853.85 T952.AQ.A2.K6432 KJ.T6532.KJ6.AJ7 AQ74.9.QT974.QT9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1H X 3H 4S
+AP
+[Play "E"]
+H2 H9 HK HA
+SJ SQ S6 S2
+SK SA S3 S5
+H6 S4 S8 ST
+C7 CQ C5 C3
+CJ C9 C8 C2
+D6 DQ D8 D2
+DJ D4 D3 DA
+H3 CT H4 HQ
+CA S7 H7 C4
+DK D7 D5 S9
+-  -  -  CK
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:863.KJ874.853.85 T952.AQ.A2.K6432 KJ.T6532.KJ6.AJ7 AQ74.9.QT974.QT9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "6"]
+[Auction "E"]
+1H Pass 4H AP
+[Play "S"]
+D9 D3 DA D6
+DT D5 D2 DK
+H9 HJ HQ H2
+SQ S3 S5 SJ
+DQ D8 C4 DJ
+C9 C5 CK CA
+D4 H4 HA H3
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.QJ83.943.K8763 83.62.AKJ76.AJ92 AQJ2.K54.QT852.Q KT9754.AT97..T54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D Pass
+1S Pass 2C Pass
+2S AP
+[Play "W"]
+C3 CA CQ C4
+D3 DA D2 C5
+D4 DK D5 CT
+HJ H2 H5 HT
+CK C2 H4 S4
+H3 H6 HK HA
+H8 S8 SJ H7
+D9 D6 DQ ST
+S6 S3 SA SK
+C7 D7 D8 S5
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.QJ83.943.K8763 83.62.AKJ76.AJ92 AQJ2.K54.QT852.Q KT9754.AT97..T54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1SX"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 1D 1S
+Pass Pass X AP
+[Play "S"]
+S4 S6 S8 SQ
+C5 C3 C2 CQ
+H7 HQ H2 H4
+CT C6 CJ S2
+HA H3 H6 HK
+HT HJ S3 H5
+C4 D4 DK D2
+H9 C7 CA D5
+S5 D3 D6 D8
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K96.AK73.875.QT6 QJ8732.T8.K43.54 A5.9654.QT6.J972 T4.QJ2.AJ92.AK83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+1C 2S Pass 2NT
+Pass 3C Pass 3S
+AP
+[Play "E"]
+C7 CA C6 C5
+SA S4 S6 SQ
+C2 CK CT C4
+S5 ST SK S3
+H4 D2 S9 SJ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K96.AK73.875.QT6 QJ8732.T8.K43.54 A5.9654.QT6.J972 T4.QJ2.AJ92.AK83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+1H 2S 3H AP
+[Play "N"]
+SQ SA S4 S6
+H8 H4 HJ HA
+C4 C2 CK CT
+S2 S5 ST SK
+HT H5 H2 HK
+C5 C7 CA CQ
+S3 H6 HQ H3
+DK D6 D9 D5
+D4 DT DJ D7
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK93.K97.95.AK74 QJ.Q82.JT874.J63 T7542.JT65.K32.5 86.A43.AQ6.QT982"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C 1NT
+Pass 2H Pass 4S
+AP
+[Play "N"]
+C3 C5 CQ CA
+SJ S2 S6 SA
+SQ S4 S8 SK
+C6 S5 C8 C4
+H8 H5 HA H7
+CJ H6 CT CK
+H2 HT H4 HK
+D4 HJ C9 C7
+HQ ST H3 H9
+D7 S7 D6 S9
+D8 DK DA D5
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AK93.K97.95.AK74 QJ.Q82.JT874.J63 T7542.JT65.K32.5 86.A43.AQ6.QT982"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C 1NT
+Pass 2C Pass 2S
+AP
+[Play "N"]
+DJ D2 D6 D5
+D7 DK DA D9
+D4 D3 DQ S3
+SJ S2 S8 SA
+SQ S4 S6 SK
+C3 C5 C2 CA
+C6 H5 C8 CK
+CJ S5 C9 C4
+HQ HJ H3 H7
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T7.3.AT3.AQJ5432 K53.AQ9875.9862. QJ9.KJ4.KJ7.KT87 A8642.T62.Q54.96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1D 1H
+Pass 2H 3H Pass
+3NT AP
+[Play "S"]
+S2 S7 SK S9
+S4 ST S5 SJ
+C6 C2 H5 CK
+C9 C3 H7 CT
+H2 CA H8 C8
+H6 CQ H9 C7
+S6 CJ HQ SQ
+HT C4 D2 H4
+D4 C5 S3 D7
+D5 DA D6 DJ
+S8 H3 HA HJ
+-  -  D8 DK
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T7.3.AT3.AQJ5432 K53.AQ9875.9862. QJ9.KJ4.KJ7.KT87 A8642.T62.Q54.96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1C Pass 3H X
+3NT AP
+[Play "S"]
+H2 H3 HA H4
+SA S7 S3 SQ
+S4 ST SK S9
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ76.Q.AK7654.3 T85.T983.Q983.Q4 A43.A7.J2.AJT952 92.KJ6542.T.K876"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+2D 4D Pass 4H
+Pass 4S Pass 4NT
+Pass 5S Pass 6S
+AP
+[Play "N"]
+HT HA H4 HQ
+D3 D2 DT DA
+S5 S3 S2 SK
+S8 SA S9 S6
+D8 DJ H5 DK
+D9 S4 H6 D4
+H3 H7 HK S7
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ76.Q.AK7654.3 T85.T983.Q983.Q4 A43.A7.J2.AJT952 92.KJ6542.T.K876"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+2D 4D Pass 6NT
+AP
+[Play "S"]
+S9 SK S8 S3
+DT D4 DQ D2
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K8632.83.T75.943 4.QJ9.AK942.Q652 A7.KT74.86.KJT87 QJT95.A652.QJ3.A"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 2C Pass 2H
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+C7 CA C4 C2
+D8 DQ D5 D4
+D6 DJ D7 D2
+H4 D3 DT DA
+S7 S5 S6 DK
+H7 S9 S2 D9
+HK HA H3 HJ
+HT H2 H8 H9
+CK H5 C3 C5
+CT H6 C9 CQ
+C8 ST S3 HQ
+-  -  -  S4
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K8632.83.T75.943 4.QJ9.AK942.Q652 A7.KT74.86.KJT87 QJT95.A652.QJ3.A"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "3"]
+[Auction "W"]
+2D Pass 2S AP
+[Play "S"]
+S5 S2 S4 S7
+DJ D5 D9 D6
+SQ S3 D2 SA
+DQ D7 D4 D8
+SJ SK C5 C7
+S9 S6 C2 C8
+ST S8 C6 H4
+D3 DT DK CT
+H2 C3 DA H7
+HA H3 HQ HK
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A63.AQT.KQ96.J98 KJ542.J943.AJ82. Q97.K872.T5.K642 T8.65.743.AQT753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Auction "N"]
+1S Pass 1NT Pass
+2H Pass 2S AP
+[Play "E"]
+C4 CQ C9 D2
+C2 CA C8 D8
+H2 H5 HQ H4
+SQ S8 S6 S2
+S7 ST SA S4
+D5 D3 DQ DA
+S9 C3 S3 SK
+H7 H6 HT H3
+C6 C5 CJ S5
+H8 -  -  HJ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A63.AQT.KQ96.J98 KJ542.J943.AJ82. Q97.K872.T5.K642 T8.65.743.AQT753"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "6"]
+[Auction "N"]
+Pass Pass Pass 1NT
+2C X Pass Pass
+XX Pass 2H X
+AP
+[Play "W"]
+DK D2 D5 D4
+HT HJ HK H5
+HQ H3 H2 H6
+HA H4 H7 C5
+D6 DJ DT D7
+C8 H9 H8 C3
+D9 DA C4 D3
+DQ D8 C2 C7
+S3 S2 SQ S8
+SA S4 S9 ST
+CJ S5 CK CA
+-  -  -  CQ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT.J8542.J652.76 K987653.K76.8.92 J42.A9.AKQ94.Q84 A.QT3.T73.AKJT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2D 2S
+AP
+[Play "E"]
+DK D3 D2 D8
+HA H3 H5 H6
+H9 HQ H2 H7
+S4 SA ST S3
+D4 D7 DJ S5
+S2 C3 SQ SK
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT.J8542.J652.76 K987653.K76.8.92 J42.A9.AKQ94.Q84 A.QT3.T73.AKJT53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Auction "E"]
+1NT 3C AP
+[Play "W"]
+H4 H6 HA H3
+C6 C9 C4 C3
+C7 C2 C8 CA
+H8 S3 CQ CK
+D6 S5 D4 CT
+D2 S6 DA C5
+ST S7 S2 SA
+-  -  -  HQ
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T86.A54.KT72.A75 J.QJ762.AJ943.93 Q7432..Q85.KQJT4 AK95.KT983.6.862"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 3S Pass
+4H AP
+[Play "W"]
+CA C3 CK C2
+C7 C9 CT C6
+ST SJ S3 SA
+H5 HQ S2 H3
+D2 DA D8 D6
+D7 D3 D5 H8
+S6 D4 S4 SK
+S8 H2 S7 S5
+DT D9 DQ H9
+-  -  -  C8
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T86.A54.KT72.A75 J.QJ762.AJ943.93 Q7432..Q85.KQJT4 AK95.KT983.6.862"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 2H Pass
+4H AP
+[Play "E"]
+CK C2 C7 C9
+CT C8 CA C3
+CJ C6 C5 H7
+S2 H8 H4 H2
+S3 SA S6 SJ
+S4 SK S8 D3
+D5 D6 D7 DA
+D8 H9 D2 D4
+S7 S5 ST H6
+DQ HT DT D9
+-  S9 -  -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K872.AT9862.95.K QJ4.3.KT842.A987 963.KJ4.763.Q654 AT5.Q75.AQJ.JT32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 1C
+1H 2H Pass 2NT
+Pass 3C AP
+[Play "W"]
+S7 S4 S9 ST
+CK CA C4 C2
+H2 C7 C5 C3
+S2 C8 CQ CT
+H6 C9 C6 CJ
+D5 D2 D6 DA
+D9 D4 D3 DQ
+H8 DK D7 DJ
+H9 DT S6 H5
+HA D8 H4 H7
+-  SQ S3 -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K872.AT9862.95.K QJ4.3.KT842.A987 963.KJ4.763.Q654 AT5.Q75.AQJ.JT32"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+2C Pass 2D Pass
+2H AP
+[Play "N"]
+D2 D3 DJ D5
+D8 D6 DQ D9
+DT D7 DA H6
+CA C4 C2 CK
+C9 CQ C3 S2
+H3 H4 H5 HA
+DK HK H7 H2
+S4 S3 S5 SK
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:JT82.AJT.AKT7.AK 764.76.65432.T98 Q.843.QJ98.QJ753 AK953.KQ952..642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1S X
+Pass 2C 2H X
+2S 3C Pass 3NT
+AP
+[Play "N"]
+S6 SQ SK S2
+H6 H3 HK HA
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:JT82.AJT.AKT7.AK 764.76.65432.T98 Q.843.QJ98.QJ753 AK953.KQ952..642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1S X
+Pass 2C 2H X
+2S 3D Pass 3NT
+AP
+[Play "N"]
+S4 SQ SK S2
+H7 H3 HK HA
+H6 H4 HQ HJ
+D6 H8 H9 HT
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A96.AJ83.T6.KJ72 T32.Q65.QJ54.Q83 K874.KT7.732.T94 QJ5.942.AK98.A65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+Pass 1D X 2D
+2S AP
+[Play "S"]
+DA D6 D4 D3
+S5 S9 ST SK
+C6 C2 CQ CT
+SQ SA S3 S4
+C5 C7 C8 C9
+D8 DT DJ D2
+SJ S6 S2 S7
+DK H3 D5 D7
+CA CJ C3 C4
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A96.AJ83.T6.KJ72 T32.Q65.QJ54.Q83 K874.KT7.732.T94 QJ5.942.AK98.A65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass 1D X 2D
+2S AP
+[Play "S"]
+C5 C2 CQ CT
+DK D6 DQ D3
+H2 H3 HQ HK
+SJ S6 S3 S4
+H4 H8 H6 H7
+S5 SA S2 S7
+SQ S9 ST SK
+H9 HJ H5 HT
+D8 HA D4 D2
+CA C7 C3 C9
+DA -  -  -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQ72.J2.93.K863 J965.Q76.A75.AJ9 T3.K9.K8642.QT72 84.AT8543.QJT.54"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+2D 2S X Pass
+3H Pass Pass 3S
+AP
+[Play "N"]
+H6 H9 HA H2
+CA C2 C5 C6
+C9 CT C4 C8
+S5 S3 S4 SA
+S6 ST S8 SK
+S9 D2 H3 SQ
+CJ CQ H4 CK
+D5 DK DT D3
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQ72.J2.93.K863 J965.Q76.A75.AJ9 T3.K9.K8642.QT72 84.AT8543.QJT.54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+2D 2S 3H AP
+[Play "E"]
+ST S4 SQ S6
+S3 S8 SA S5
+CT C5 C3 C9
+C2 C4 CK CA
+HK HA H2 HQ
+DK DQ D9 D5
+D4 DT D3 DA
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "Bertens"]
+[North "de Wijs"]
+[East "Bakkeren"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK.A3.J92.QT9543 T8753.JT75.KQ73. QJ9.K9842.86.KJ6 642.Q6.AT54.A872"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1C 1S 2H 2S
+2NT Pass 3NT AP
+[Play "N"]
+DK D6 D4 D2
+D3 D8 DA D9
+ST S9 S6 SA
+S8 C6 CA CT
+DQ H2 DT DJ
+D7 -  -  -
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "Westra"]
+[North "Vis"]
+[East "Van Eijck"]
+[South "Van Cleeff"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK.A3.J92.QT9543 T8753.JT75.KQ73. QJ9.K9842.86.KJ6 642.Q6.AT54.A872"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1NT Pass 2D Pass
+2H Pass 3NT AP
+[Play "N"]
+S3 S9 S6 SK
+S8 CK CA C3
+DQ D6 D5 DJ
+D3 D8 DA D2
+DK SJ D4 D9
+D7 H2 DT C4
+*
+[Description "#"]
+[Stage "Seg 4 Of 5"]
+[HomeTeam "Lombard +46"]
+[VisitTeam "Modalfa +149"]
+[Room "Closed"]
+
+% PBN created by BFC s5.lin P
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T93.AJ64.6.AKT64 Q8652.K52.73.872 AKJ74.98.KT952.9 .QT73.AQJ84.QJ53"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "N"]
+Pass 1S X XX
+Pass Pass 2D 3C
+AP
+[Play "N"]
+D7 DT DJ D6
+C8 C9 C3 C4
+H5 H9 HQ H4
+HK H8 H3 HJ
+D3 D2 D8 C6
+C2 S4 C5 CA
+S8 SA D4 S3
+H2 DK DA CT
+C7 S7 CJ CK
+S2 SJ CQ S9
+S6 D5 HT HA
+S5 SK H7 ST
+SQ D9 DQ H6
+*
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "1"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T93.AJ64.6.AKT64 Q8652.K52.73.872 AKJ74.98.KT952.9 .QT73.AQJ84.QJ53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass 1S X 2C
+Pass 2D Pass 4S
+AP
+[Play "S"]
+H3 H4 HK H8
+DJ D6 D3 DT
+HT HJ H2 H9
+H7 HA H5 D2
+C3 CA C2 C9
+C5 CK C7 D5
+CJ C4 C8 S4
+DQ S3 D7 D9
+HQ H6 S5 S7
+DA S9 SQ DK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K6.K43.AKQ53.JT9 J2.AQ85.J876.A76 T8543.J92.T2.Q84 AQ97.T76.94.K532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1NT AP
+[Play "N"]
+H5 H9 HT HK
+C7 C4 C2 CJ
+D6 D2 D4 DA
+D7 DT D9 DK
+D8 S3 H7 DQ
+DJ S4 C3 D5
+HA H2 H6 H4
+HQ HJ S7 H3
+H8 S5 S9 C9
+CA C8 C5 CT
+S2 S8 SA S6
+C6 CQ CK D3
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "2"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K6.K43.AKQ53.JT9 J2.AQ85.J876.A76 T8543.J92.T2.Q84 AQ97.T76.94.K532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 3NT Pass
+4C Pass 4D AP
+[Play "N"]
+HA H2 HT H3
+SJ S3 SA S6
+S2 S4 S7 SK
+D6 D2 D4 DA
+D7 DT D9 DK
+D8 S5 C3 DQ
+C7 C4 CK CJ
+H5 H9 H7 HK
+CA C8 C5 CT
+DJ -  -  -
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q76.KQ3.92.KQ972 842.T8642.QJ874. KJT93.A.A6.A8543 A5.J975.KT53.JT6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "8"]
+[Auction "S"]
+Pass 1C 2NT 3D
+5D X AP
+[Play "W"]
+D2 D4 DA D3
+H3 H2 HA H5
+S6 S2 ST SA
+HQ H4 C8 HJ
+S7 S4 SK S5
+-  -  S9 DT
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "3"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q76.KQ3.92.KQ972 842.T8642.QJ874. KJT93.A.A6.A8543 A5.J975.KT53.JT6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Auction "S"]
+Pass 1C Pass 1S
+Pass 1NT Pass 6C
+AP
+[Play "N"]
+DQ DA D3 D2
+D4 C3 C6 CQ
+H4 CA CT C2
+H2 HA H5 H3
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT874.987.92.Q9 962.QT54.T763.84 AJ5.A62.QJ4.T732 3.KJ3.AK85.AKJ65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+2D Pass 2H Pass
+2S Pass Pass X
+Pass 2NT 3S X
+Pass 4H AP
+[Play "E"]
+SA S3 S4 S6
+C3 CJ CQ C4
+C2 CA C9 C8
+H6 HK H7 H4
+HA HJ H8 H5
+H2 H3 H9 HT
+D4 DA D2 D6
+C7 CK S7 S2
+CT C5 S8 HQ
+DQ DK D9 D3
+-  C6 ST S9
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "4"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT874.987.92.Q9 962.QT54.T763.84 AJ5.A62.QJ4.T732 3.KJ3.AK85.AKJ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+2D Pass 2H X
+2S Pass Pass X
+Pass 3H 3S AP
+[Play "N"]
+C4 C2 CK C9
+C8 C3 CA CQ
+D3 C7 C6 ST
+DT DQ DK D9
+D6 CT CJ SQ
+S2 SJ S3 S4
+S6 SA D5 S7
+S9 S5 H3 SK
+D7 DJ DA D2
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQJ7.K7.AK65.J84 KT82.5.Q984.T973 9653.AJT963.J7.2 4.Q842.T32.AKQ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass 2D Pass 2NT
+Pass 3C X 3D
+Pass 4D Pass 4H
+AP
+[Play "N"]
+CT C2 CK C4
+SK S3 S4 SQ
+S2 S5 H2 S7
+D4 D7 D3 DA
+H5 H3 H4 HK
+-  -  -  H7
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "5"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQJ7.K7.AK65.J84 KT82.5.Q984.T973 9653.AJT963.J7.2 4.Q842.T32.AKQ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 2D Pass 4C
+Pass 4D Pass 4H
+AP
+[Play "N"]
+CT C2 CK C4
+SK S3 S4 SQ
+S2 S5 H2 S7
+D4 D7 D3 DA
+C9 H3 C6 C8
+H5 HJ H4 H7
+C3 H6 H8 HK
+C7 H9 C5 CJ
+-  HA -  -
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ654.9843.AT83. Q9.J6.KQ92.J9765 AT7.AK2.J75.KT32 832.QT75.64.AQ84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3D Pass
+3S Pass 4S AP
+[Play "N"]
+DK D5 D4 DA
+DQ D7 D6 D3
+C5 C2 CQ S4
+S9 SA S2 S5
+SQ S7 S3 SK
+D2 DJ S8 D8
+HJ HA H5 H8
+H6 HK H7 H4
+C6 C3 C4 S6
+D9 H2 C8 DT
+C7 ST HT H3
+C9 CT CA SJ
+CJ CK HQ H9
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "6"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ654.9843.AT83. Q9.J6.KQ92.J9765 AT7.AK2.J75.KT32 832.QT75.64.AQ84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 3S Pass
+4S AP
+[Play "N"]
+C6 C2 CQ S4
+H6 HA H5 H3
+D9 D7 D4 D3
+HJ HK H7 H4
+DQ DJ D6 D8
+D2 D5 S2 DT
+S9 H2 HQ H8
+DK ST C4 DA
+C5 C3 C8 S5
+C7 S7 HT H9
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q.KQJ743.K752.96 AKT96432.6.Q4.Q2 8.952.AT98.AT543 J75.AT8.J63.KJ87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "12"]
+[Auction "S"]
+Pass 1H 4S X
+AP
+[Play "E"]
+H2 HA HK H6
+S8 S5 SQ SA
+CA C7 C6 C2
+H9 -  -  -
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "7"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q.KQJ743.K752.96 AKT96432.6.Q4.Q2 8.952.AT98.AT543 J75.AT8.J63.KJ87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "11"]
+[Auction "S"]
+Pass 1H 3S Pass
+4S Pass Pass X
+AP
+[Play "E"]
+H5 HA H7 H6
+CA C7 C9 CQ
+H9 H8 HK S4
+S8 S5 SQ SA
+D9 SJ D2 SK
+H2 S7 H3 ST
+D8 D3 H4 S9
+DT D6 HQ S6
+DA DJ D5 S3
+C5 HT D7 S2
+C3 CK C6 C2
+-  CJ -  -
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ5.85.A932.KQ95 A972.K76.K54.642 8.AQJ94.JT6.J873 KT643.T32.Q87.AT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+1D Pass 1H 1S
+Pass 2NT Pass 3S
+AP
+[Play "W"]
+CK C2 C8 CT
+C5 C4 CJ CA
+H5 HK HA H2
+H8 H6 HJ H3
+D2 H7 HQ HT
+DA D4 DT D7
+CQ C6 C3 S3
+SJ SA S8 S4
+-  S2 H9 SK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "8"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ5.85.A932.KQ95 A972.K76.K54.642 8.AQJ94.JT6.J873 KT643.T32.Q87.AT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[Auction "W"]
+1C Pass 1H 1S
+Pass 2H 3C Pass
+Pass 3S AP
+[Play "W"]
+CK C2 C3 CA
+S5 S2 S8 SK
+SJ SA C8 S4
+CQ C4 C7 CT
+SQ S7 H4 S3
+C9 C6 CJ S6
+D3 DK D6 D8
+DA D5 DT DQ
+D2 D4 DJ D7
+H5 H6 HA H2
+H8 HK HQ H3
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T97.Q875.872.972 K8.63.96543.J864 Q652.AT92.KQJ.53 AJ43.KJ4.AT.AKQT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1C X Pass
+1D Pass 2NT Pass
+3NT AP
+[Play "W"]
+H7 H3 HA H4
+HQ H6 HT HJ
+H8 D3 H2 HK
+C7 C4 C3 CA
+C2 C6 C5 CK
+C9 C8 S2 CQ
+D8 CJ DJ CT
+S7 SK S5 S3
+S9 S8 S6 SJ
+ST D4 SQ SA
+H5 -  -  S4
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "9"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T97.Q875.872.972 K8.63.96543.J864 Q652.AT92.KQJ.53 AJ43.KJ4.AT.AKQT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1H X 2H
+Pass Pass 2NT AP
+[Play "W"]
+H5 H3 HA H4
+HQ H6 HT HJ
+H8 D3 H2 HK
+C2 C4 C3 CA
+C7 C6 C5 CK
+C9 C8 S2 CQ
+D2 CJ S5 CT
+S7 SK S6 S3
+S9 S8 SQ SA
+-  -  -  SJ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:763.52.KQ62.T864 JT52.AT7.T953.AK AKQ8.Q3.AJ74.732 94.KJ9864.8.QJ95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1NT 2H Pass 4H
+AP
+[Play "W"]
+DK D3 D4 D8
+D2 D5 DA H4
+H2 HA H3 H6
+H5 H7 HQ HK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "10"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:763.52.KQ62.T864 JT52.AT7.T953.AK AKQ8.Q3.AJ74.732 94.KJ9864.8.QJ95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1NT 2D Pass 2NT
+Pass 3C Pass 4H
+AP
+[Play "E"]
+SA S4 S3 S5
+SK S9 S7 ST
+H3 H4 H5 HT
+HQ H6 H2 HA
+C2 HK D2 H7
+C3 C5 C4 CA
+S8 H8 S6 S2
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT7.J975.Q95.QT2 KQ.K.JT72.AKJ976 842.AQT843.K63.8 J9653.62.A84.543"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C 2H
+Pass 3H X Pass
+4S AP
+[Play "W"]
+H7 HK HA H2
+H9 SQ H3 H6
+SA SK S2 S3
+D5 DJ DK DA
+S7 C6 S4 SJ
+ST C7 S8 S5
+DQ D2 D6 D4
+HJ C9 HQ S6
+C2 CA C8 C4
+D9 DT D3 D8
+-  D7 -  -
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "11"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT7.J975.Q95.QT2 KQ.K.JT72.AKJ976 842.AQT843.K63.8 J9653.62.A84.543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C 2H
+Pass 3H AP
+[Play "S"]
+C5 C2 CJ C8
+H2 H5 HK HA
+S6 ST SK S2
+C3 CT CA H3
+H6 H9 C7 H8
+C4 CQ CK HT
+S5 SA SQ S4
+S9 S7 C6 S8
+D4 D5 DT DK
+D8 DQ D2 D6
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ753.A.975.AQ32 AT86.3.KJ4.JT754 9.KJT52.AT62.986 K42.Q98764.Q83.K"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass 2H AP
+[Play "S"]
+CK CA C7 C6
+SK S3 S6 S9
+D3 D5 DK DA
+H4 HA H3 H2
+S2 SQ SA H5
+H6 C2 C5 HK
+HQ S5 C4 HJ
+S4 S7 ST HT
+H7 C3 CT C9
+H9 D7 S8 C8
+DQ D9 D4 D2
+D8 SJ DJ D6
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "12"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ753.A.975.AQ32 AT86.3.KJ4.JT754 9.KJT52.AT62.986 K42.Q98764.Q83.K"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "6"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass Pass 2H
+Pass Pass X AP
+[Play "W"]
+D7 DJ DA D3
+SJ SA S9 S4
+HA H3 H2 H8
+S3 S6 H5 S2
+CA C4 C8 CK
+S5 S8 HT SK
+D5 D4 D2 DQ
+-  -  -  HQ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ.KQ7632.T2.AK4 T64.A94.J974.732 J982.T.AQ865.T98 A753.J85.K3.QJ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 3H
+AP
+[Play "N"]
+C2 C8 CJ CA
+S6 S2 SA SQ
+C3 C9 C5 CK
+S4 S8 S3 SK
+D4 DQ DK DT
+C7 CT CQ C4
+ST D5 C6 H6
+HA HT H5 HK
+DJ DA D3 D2
+D7 D6 HJ HQ
+H4 D8 H8 H2
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "13"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ.KQ7632.T2.AK4 T64.A94.J974.732 J982.T.AQ865.T98 A753.J85.K3.QJ65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 3H
+AP
+[Play "N"]
+C7 C8 CJ CA
+S6 S2 SA SQ
+C3 C9 C5 CK
+S4 S8 S3 SK
+D4 DA D3 D2
+ST SJ S5 C4
+H4 S9 S7 DT
+C2 CT CQ H2
+HA HT H5 HQ
+D7 DQ DK H3
+H9 D5 H8 HK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A64.Q653.AQJ5.J7 KQJ9875.AK82.3.K T2.97.642.A96532 3.JT4.KT987.QT84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D 4S
+AP
+[Play "E"]
+D2 D7 DJ D3
+H7 HJ H5 H2
+S2 S3 S4 SK
+ST D8 SA SJ
+C2 C4 S6 SQ
+C3 D9 D5 S9
+C6 C8 C7 S8
+C5 DT CJ S7
+H9 HT H6 HA
+C9 H4 DQ S5
+D4 DK H3 HK
+CA CT HQ CK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "14"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A64.Q653.AQJ5.J7 KQJ9875.AK82.3.K T2.97.642.A96532 3.JT4.KT987.QT84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D 4S
+AP
+[Play "E"]
+D4 D7 DJ D3
+H7 HJ H3 H2
+S2 S3 S4 SK
+ST C4 SA SQ
+CA C8 CJ CK
+D6 D8 DQ S8
+-  -  -  SJ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T86.Q.T9865.KJT6 752.J972.KQ4.874 AKQ9.AT4.AJ3.AQ2 J43.K8653.72.953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "S"]
+Pass 2C Pass 2NT
+Pass 3D Pass 3NT
+AP
+[Play "S"]
+H3 HQ H2 H4
+D2 DT D4 D3
+D7 D5 DQ DA
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "15"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T86.Q.T9865.KJT6 752.J972.KQ4.874 AKQ9.AT4.AJ3.AQ2 J43.K8653.72.953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 2C
+Pass 2D Pass 2NT
+Pass 3S Pass 3NT
+AP
+[Play "S"]
+H5 HQ H7 H4
+D2 DT DQ DA
+D7 D5 DK DJ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J86.9.AK952.KQT8 AQ932.32.J864.74 T75.Q8764.QT3.32 K4.AKJT5.7.AJ965"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "7"]
+[Auction "W"]
+1D 2S Pass 4S
+AP
+[Play "E"]
+D3 D7 DK D6
+C2 C5 CK C4
+S5 SK S6 S3
+H4 HA H9 H3
+H6 HK S8 H2
+S7 S4 SJ SQ
+ST H5 D2 SA
+H8 HT D5 S9
+C3 CA C8 C7
+H7 C6 CT S2
+DT HJ D9 D4
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "16"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J86.9.AK952.KQT8 AQ932.32.J864.74 T75.Q8764.QT3.32 K4.AKJT5.7.AJ965"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D 1S Pass 2D
+Pass 2S Pass 3H
+Pass 3NT AP
+[Play "E"]
+D3 D7 DA D6
+DT C5 D5 D8
+DQ C6 D2 D4
+C3 CA CK C4
+S5 SK S6 S3
+S7 S4 S8 SA
+ST C9 SJ SQ
+H4 H5 D9 S9
+C2 HT CT S2
+H7 HJ H9 H2
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J7.T98652.K2.J73 Q84.KQJ7.AQT6.Q9 T965.43.93.KT865 AK32.A.J8754.A42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "13"]
+[Auction "N"]
+1NT Pass 2C Pass
+2H Pass 3C Pass
+3H Pass 4D Pass
+4H Pass 4NT Pass
+5C Pass 6D AP
+[Play "W"]
+H6 H7 H3 HA
+D2 DQ D3 D4
+S7 S4 S5 SA
+DK DA D9 D5
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "17"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J7.T98652.K2.J73 Q84.KQJ7.AQT6.Q9 T965.43.93.KT865 AK32.A.J8754.A42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "13"]
+[Auction "N"]
+1NT Pass 2C Pass
+2H Pass 3D Pass
+3H Pass 4NT AP
+[Play "E"]
+C6 C2 CJ CQ
+H4 HA H6 H7
+D3 D4 D2 DQ
+S5 SA S7 S4
+D9 D5 DK DA
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A932.KQJ97.AQ4.7 QT.5.KT9876.T653 K7.T86432.J32.J8 J8654.A.5.AKQ942"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6CX"]
+[Result "11"]
+[Auction "E"]
+Pass 1C X 3C
+3H 5C 5H Pass
+Pass 6C X AP
+[Play "W"]
+C7 C3 CJ CQ
+DA D6 DJ D5
+SA ST S7 S6
+HK H5 H8 HA
+H7 CT C8 C9
+D4 DK D2 S4
+DQ D7 D3 C4
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "18"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A932.KQJ97.AQ4.7 QT.5.KT9876.T653 K7.T86432.J32.J8 J8654.A.5.AKQ942"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "E"]
+2D 3C 4C 5C
+Pass Pass X AP
+[Play "W"]
+HK H5 H6 HA
+C7 C3 C8 CA
+S3 C5 CJ CK
+DA D6 D2 D5
+SA ST S7 S4
+S2 SQ SK S5
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ643.QJ.AT74.87 T98.K9.J862.T942 2.T8542.K53.AK53 AK75.A763.Q9.QJ6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1NT AP
+[Play "W"]
+S3 S8 S2 S5
+C7 C2 C3 CQ
+-  -  -  CJ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "19"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ643.QJ.AT74.87 T98.K9.J862.T942 2.T8542.K53.AK53 AK75.A763.Q9.QJ6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1NT AP
+[Play "W"]
+S4 ST S2 S5
+C8 C2 C5 CQ
+C7 C4 CK CJ
+HQ H9 H4 HA
+S3 CT CA C6
+HJ HK H2 H3
+D4 C9 C3 H6
+S6 S9 D3 SK
+SJ S8 H5 SA
+D7 D2 DK DQ
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "Van Cleeff"]
+[North "de Wijs"]
+[East "Vis"]
+[South "Muller"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.872.AKT64.QT98 AJT92.QJ94.93.62 .AK63.QJ85.KJ743 KQ87643.T5.72.A5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5SX"]
+[Result "8"]
+[Auction "W"]
+2C Pass 2NT 3S
+Pass 4S 5D Pass
+Pass 5S X AP
+[Play "W"]
+DA D3 DJ D2
+DK D9 D5 D7
+CT C2 C3 CA
+H8 HQ HK H5
+C8 C6 CK C5
+H2 H4 HA HT
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Open"]
+
+[Event "2001 Ts Dutch Teams Final"]
+[Site ""]
+[Date "2001.00.00"]
+[Board "20"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Van Eijck"]
+[South "Nab"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.872.AKT64.QT98 AJT92.QJ94.93.62 .AK63.QJ85.KJ743 KQ87643.T5.72.A5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1C 2S
+3S 4S 6C AP
+[Play "S"]
+SK S5 SA C3
+D2 D4 D3 DQ
+D7 DA D9 D5
+CA CQ C2 C4
+C5 C8 C6 CK
+S4 D6 S2 DJ
+S6 DK S9 D8
+S8 DT ST H3
+H5 H2 H4 HA
+HT H7 H9 HK
+*
+[Description "#"]
+[Stage "Seg 5 Of 5"]
+[HomeTeam "Lombard +78"]
+[VisitTeam "Modalfa +163"]
+[Room "Closed"]
+

@@ -1,0 +1,7516 @@
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ9842.Q72.82.Q8 AJ73.643.T7.AT76 T.AK8.954.KJ5432 65.JT95.AKQJ63.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "8"]
+[Auction "N"]
+Pass 2C 3D 3S
+Pass 4C AP
+[Play "S"]
+DK D2 D7 D5
+DA D8 DT D9
+DQ C8 H4 D4
+C9 CQ CA C3
+H5 H2 H3 HA
+S5 -  -  CK
+*
+[Stage "Round 1"]
+[HomeTeam "Altschuler"]
+[VisitTeam "Narasimhan"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ9842.Q72.82.Q8 AJ73.643.T7.AT76 T.AK8.954.KJ5432 65.JT95.AKQJ63.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "7"]
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q6.AT982.AKT.T42 KT9532.J6.8.A853 A.74.J953.KQJ976 J874.KQ53.Q7642."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+2C Pass 2H Pass
+3C Pass 3H Pass
+3NT AP
+[Play "S"]
+D4 DA D8 D5
+H3 C2 C5 CK
+S4 C4 C3 CQ
+H5 CT CA CJ
+HQ H2 H6 H4
+S7 S6 S9 SA
+D6 H8 C8 C9
+D2 H9 S2 C7
+SJ SQ S5 C6
+D7 DK S3 D3
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q6.AT982.AKT.T42 KT9532.J6.8.A853 A.74.J953.KQJ976 J874.KQ53.Q7642."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K85.3.KQJ7.J6532 94.AT9.T9864.AT7 AQJ762.J87.A.K84 T3.KQ6542.532.Q9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2C Pass 4S
+AP
+[Play "S"]
+S3 S5 S9 SQ
+ST S8 S4 SJ
+D2 D7 DT DA
+D3 SK D4 S6
+D5 DK D6 H7
+H6 DQ D9 H8
+H2 DJ D8 HJ
+C9 C2 C7 CK
+CQ C3 CT C8
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K85.3.KQJ7.J6532 94.AT9.T9864.AT7 AQJ762.J87.A.K84 T3.KQ6542.532.Q9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT6.J84.AQJ9.AT3 AJ983.K9653.K.52 2.T72.876543.Q97 K754.AQ.T2.KJ864"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Auction "W"]
+1NT Pass 2NT Pass
+3D AP
+[Play "N"]
+C5 C7 CJ CA
+C2 CQ CK CT
+H5 H2 HA H4
+H3 H7 HQ H8
+DK C9 C4 C3
+SA S2 S7 S6
+HK HT -  -
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QT6.J84.AQJ9.AT3 AJ983.K9653.K.52 2.T72.876543.Q97 K754.AQ.T2.KJ864"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1NT X 2NT 3D
+X 3H Pass 4S
+AP
+[Play "W"]
+DA DK D5 DT
+H4 H3 HT HA
+S6 S3 S2 SK
+ST SJ D3 S4
+SQ SA D4 S5
+H8 H5 H2 HQ
+D9 S8 D6 D2
+-  HK -  -
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT7.A4.K875.J764 QJ53.J82.6.AT953 6.Q97653.QJT43.K K9842.KT.A92.Q82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT7.A4.K875.J764 QJ53.J82.6.AT953 6.Q97653.QJT43.K K9842.KT.A92.Q82"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Auction "N"]
+Pass 2H AP
+[Play "S"]
+S2 SA SQ S6
+DA D5 D6 DQ
+S4 S7 SJ H5
+HT HA H2 H6
+HK H4 H8 H9
+C2 C4 CA CK
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J8764.84.AQ7.K92 AKT9.J5.JT952.J5 Q53.QT72.86.T873 2.AK963.K43.AQ64"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J8764.84.AQ7.K92 AKT9.J5.JT952.J5 Q53.QT72.86.T873 2.AK963.K43.AQ64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2C Pass 2H =1=
+AP
+[Note "1:8-10 dbltn heart"]
+[Play "W"]
+S6 SA S5 S2
+S8 SK S3 C4
+CK CJ C8 C6
+S7 S9 SQ H3
+C2 C5 C3 CA
+C9 ST C7 CQ
+D7 DJ D8 D4
+DA D2 D6 DK
+DQ D5 CT D3
+H8 H5 -  -
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:95.T972.K92.AJ74 AK764.Q4.A75.T92 QJT.AJ86.Q84.K65 832.K53.JT63.Q83"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+Pass Pass 1C Pass
+1NT AP
+[Play "W"]
+H9 HQ HA H3
+HT H4 HJ H5
+H2 D5 H6 HK
+S5 SK SQ S2
+S9 SA ST S3
+C4 S4 SJ S8
+CJ C2 C5 C3
+H7 C9 H8 D3
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:95.T972.K92.AJ74 AK764.Q4.A75.T92 QJT.AJ86.Q84.K65 832.K53.JT63.Q83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 1S Pass
+2S AP
+[Play "E"]
+SJ S2 S5 SA
+ST S3 S9 SK
+SQ S8 H2 S4
+C5 C3 CJ CT
+HA H3 HT HQ
+C6 C8 CA C9
+CK CQ C4 C2
+HJ HK H7 H4
+DQ DJ D2 D5
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ6.KT.83.KJT843 JT.972.T764.AQ75 K97.QJ53.KJ52.62 85432.A864.AQ9.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+2C Pass 2D Pass
+2S Pass 2NT Pass
+3C AP
+[Play "N"]
+SJ S7 S3 SQ
+H9 H3 H4 HK
+H7 H5 HA HT
+CQ C2 C9 CJ
+ST SK S2 S6
+H2 HQ H6 D8
+C5 HJ H8 D3
+D7 DK DA C3
+-  -  -  C8
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ6.KT.83.KJT843 JT.972.T764.AQ75 K97.QJ53.KJ52.62 85432.A864.AQ9.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NTX"]
+[Result "9"]
+[Auction "W"]
+1C Pass 1H 1S
+2C Pass 2NT Pass
+3NT X AP
+[Play "S"]
+DA D3 D7 D2
+DQ D8 D4 DK
+H4 HK H7 H3
+HA HT H2 H5
+C9 CJ CQ C2
+D9 C3 D6 DJ
+H6 C4 H9 HQ
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Passell"]
+[North "Altschuler"]
+[East "Wold"]
+[South "Birman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J64.Q.AK9542.JT3 A872.J8654.T6.A8 KQT53.A72.Q83.94 9.KT93.J7.KQ7652"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S 2C 3C
+X 3S AP
+[Play "S"]
+CK C3 C8 C4
+C6 CT CA C9
+H3 HQ H5 HA
+HT S4 H4 H2
+D7 D2 D6 DQ
+H9 S6 H6 H7
+S9 SJ S2 SQ
+C2 D4 SA SK
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Cavendish Teams 2007"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Lev"]
+[North "Moss"]
+[East "Pszczola"]
+[South "Gitelman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J64.Q.AK9542.JT3 A872.J8654.T6.A8 KQT53.A72.Q83.94 9.KT93.J7.KQ7652"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass 1S 3C 3D
+4C Pass Pass 4S
+AP
+[Play "S"]
+C7 CJ CA C9
+CQ C3 C8 C4
+CK CT D6 S3
+S9 SJ S2 S5
+C6 S4 S7 SK
+*
+[Description "#"]
+[Stage "Round 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC r3.lin P
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:63.Q2.9754.AKQT5 KJ982.JT97.AQ.64 QT75.AK83.JT2.83 A4.654.K863.J972"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+Pass 1C 1S X
+2S AP
+[Play "E"]
+HA H4 H2 H7
+DJ D3 D5 DQ
+D2 D6 D4 DA
+S5 SA S3 S2
+DT DK D7 C6
+SQ S4 S6 SJ
+C8 C2 CT C4
+H3 H5 HQ H9
+ST D8 D9 S8
+C3 C7 CQ S9
+S7 -  -  SK
+*
+[Stage "Round 3"]
+[HomeTeam "Narasimhan"]
+[VisitTeam "Zimmerman"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:63.Q2.9754.AKQT5 KJ982.JT97.AQ.64 QT75.AK83.JT2.83 A4.654.K863.J972"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1D 1S X
+XX 2C Pass 2NT
+AP
+[Play "S"]
+SA S3 S2 S7
+S4 S6 SK S5
+D6 D4 DA D2
+D3 D5 DQ DT
+H4 HQ HJ H3
+DK D7 S8 DJ
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K86542.J4.QJ93.9 JT7.QT965.T.J853 A3.AK87.A72.AT42 Q9.32.K8654.KQ76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+2S Pass 4S AP
+[Play "N"]
+DT DA D6 D3
+S7 SA S9 S2
+-  S3 SQ -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K86542.J4.QJ93.9 JT7.QT965.T.J853 A3.AK87.A72.AT42 Q9.32.K8654.KQ76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1C =1= Pass
+1S =2= Pass 1NT Pass
+4S AP
+[Note "1:strong artificial"]
+[Note "2:gf nat"]
+[Play "N"]
+DT DA D4 D3
+S7 SA S9 S4
+-  S3 SQ -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AK7.AJ985.76.T96 965.KQ2.QJ85.532 J83.74.AT94.QJ74 QT42.T63.K32.AK8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C 1H
+1NT AP
+[Play "E"]
+H7 HT HJ HK
+C4 CA CT C5
+DA D2 D7 DQ
+H4 H3 HA H2
+S3 H6 H9 HQ
+D4 DK D6 D5
+DT D3 S7 DJ
+-  -  -  C2
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AK7.AJ985.76.T96 965.KQ2.QJ85.532 J83.74.AT94.QJ74 QT42.T63.K32.AK8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C 1H
+1NT AP
+[Play "E"]
+H7 HT HJ HK
+D4 D2 D7 DJ
+DT DK D6 D5
+DA D3 C6 DQ
+D9 C8 C9 D8
+H4 H6 HA H2
+S8 H3 H9 HQ
+C4 CK CT C3
+-  CA -  -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J52.542.K85.KQ87 Q87.T9.AQT76.T95 AT96.AK83.J.J643 K43.QJ76.9432.A2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1NT Pass
+Pass X 2C 2D
+3C Pass Pass 3D
+AP
+[Play "E"]
+HA H6 H2 H9
+C3 CA C8 C5
+DJ D2 D5 DQ
+HK H7 H4 HT
+C4 C2 CQ C9
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J52.542.K85.KQ87 Q87.T9.AQT76.T95 AT96.AK83.J.J643 K43.QJ76.9432.A2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+2D =1= Pass 3C =2= AP
+[Note "1:singleton or void in !D maybe 3-4 in maj"]
+[Note "2:to play"]
+[Play "N"]
+C5 C6 CA C8
+C9 C3 C2 CK
+S7 ST SK S5
+DQ DJ D4 D5
+CT CJ S4 CQ
+SQ SA S3 SJ
+S8 S9 D2 S2
+-  S6 -  -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT54.K4.T9.AQ952 KJ82.JT65.742.T8 A97.9872.KQJ86.4 63.AQ3.A53.KJ763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NTX"]
+[Result "5"]
+[Auction "S"]
+1NT Pass Pass X
+AP
+[Play "W"]
+S4 SJ S7 S3
+CQ CT C4 C3
+DT D2 D8 D3
+D9 D4 DJ D5
+C5 D7 DK DA
+CA C8 H2 CK
+S5 S2 SA S6
+C2 H5 DQ C6
+C9 S8 D6 C7
+HK H6 H7 H3
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT54.K4.T9.AQ952 KJ82.JT65.742.T8 A97.9872.KQJ86.4 63.AQ3.A53.KJ763"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "S"]
+1C Pass 1H 2D
+X =1= XX Pass Pass
+2H AP
+[Note "1:3 card heart support"]
+[Play "E"]
+DK DA D9 D7
+SA S3 S4 SJ
+DQ D5 DT D4
+DJ D3 C2 D2
+C4 C3 CQ C8
+S9 C6 CA CT
+H2 C7 C9 S2
+S7 S6 ST SK
+H9 H3 HK HJ
+-  -  C5 HT
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ2.985.KJ974.T8 974.Q6432.85.962 KJT863.AKT.Q3.AQ 5.J7.AT62.KJ7543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+Pass Pass 1S 2C
+X =1= Pass 3C Pass
+4S AP
+[Note "1:alerted"]
+[Play "S"]
+HJ -  -  -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ2.985.KJ974.T8 974.Q6432.85.962 KJT863.AKT.Q3.AQ 5.J7.AT62.KJ7543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+Pass Pass 1C =1= 2C
+2D Pass 2S Pass
+3S Pass 4C Pass
+4D Pass 4NT Pass
+5D Pass 5H =2= Pass
+6D =3= Pass 6S AP
+[Note "1:strong artificial"]
+[Note "2:Asks for Q"]
+[Note "3:I have it and the Kof !D"]
+[Play "S"]
+DA D4 D8 D3
+D2 D7 D5 DQ
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AJT2.K2.T742.AQ5 975.8.AQ953.KJT8 Q86.AQJ74.8.9432 K43.T9653.KJ6.76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 2H AP
+[Play "S"]
+C7 CQ CK C4
+C6 CA CJ C3
+H3 HK H8 H4
+H5 H2 D3 HA
+SK SA S7 S8
+S3 S2 S5 SQ
+H6 D2 D5 HQ
+H9 C5 S9 HJ
+S4 ST C8 S6
+-  SJ D9 D8
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AJT2.K2.T742.AQ5 975.8.AQ953.KJT8 Q86.AQJ74.8.9432 K43.T9653.KJ6.76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2D =1= Pass 2H
+Pass 3NT AP
+[Note "1:transfer to hearts"]
+[Play "N"]
+D5 D8 DK D2
+D9 C2 DJ D4
+DQ C3 D6 D7
+DA C4 C6 DT
+D3 S6 S3 C5
+H8 H4 H3 HK
+C8 HA H5 H2
+S5 HQ H6 S2
+CK HJ H9 CQ
+-  SQ -  -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J98.AK9753.KJ.QJ AT3..QT832.T9632 K7642.QT842.6.84 Q5.J6.A9754.AK75"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "12"]
+[Auction "E"]
+Pass 1NT 2H 2NT
+4H Pass Pass 4NT
+Pass 5C X AP
+[Play "W"]
+HA C2 H8 H6
+CJ C3 C4 CA
+HK C6 H4 HJ
+CQ CT C8 CK
+DJ D2 D6 DA
+DK D3 S7 D4
+H7 -  -  -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J98.AK9753.KJ.QJ AT3..QT832.T9632 K7642.QT842.6.84 Q5.J6.A9754.AK75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "E"]
+Pass 1D 1H 3D
+4H AP
+[Play "N"]
+D2 D6 DA DJ
+C2 C4 CK CJ
+C3 C8 CA CQ
+D3 S2 D5 DK
+C6 H4 H6 HA
+D8 H8 HJ HK
+S3 SK SQ S8
+-  S4 S5 -
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West "Zimmerman"]
+[North "Gitelman"]
+[East "Multon"]
+[South "Moss"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A.T52.AKT86.A754 K972.J93.Q943.T8 QT6.A76.72.KJ632 J8543.KQ84.J5.Q9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Auction "S"]
+Pass 1D Pass 2NT
+Pass 3C Pass 4C
+Pass 4S Pass 6C
+AP
+[Play "N"]
+H3 HA H4 H2
+C8 C2 C9 CA
+CT CK CQ C4
+D3 D2 D5 DK
+D4 D7 DJ DA
+D9 C3 H8 D6
+S2 S6 S8 SA
+DQ C6 S3 D8
+S7 ST SJ C5
+-  -  -  DT
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West "Passell"]
+[North "Willard"]
+[East "Wold"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A.T52.AKT86.A754 K972.J93.Q943.T8 QT6.A76.72.KJ632 J8543.KQ84.J5.Q9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 3C =1=
+Pass 3NT AP
+[Note "1:puppet"]
+[Play "N"]
+S2 S6 S3 SA
+C8 C2 C9 CA
+CT CK CQ C5
+D4 CJ H8 C7
+H3 C6 DJ C4
+H9 C3 H4 D8
+D3 D2 D5 DA
+HJ HA HQ H2
+-  D7 S4 DK
+*
+[Description "#"]
+[Stage "Round 3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+% PBN created by BFC r5.lin P
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:86.93.AQJ752.AQ4 QT9.KJT5..KT7653 AKJ72.8742.T94.8 543.AQ6.K863.J92"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D Pass
+2H Pass 2S AP
+[Play "N"]
+C5 C8 CJ CQ
+H5 H2 HQ H9
+S9 D4 D6 DA
+HT H4 HA H3
+HJ D9 DK D2
+ST DT D3 DQ
+CT H7 C2 CA
+SQ SA D8 DJ
+*
+[Stage "Round 5"]
+[HomeTeam "Yeh"]
+[VisitTeam "Jacobs"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:86.93.AQJ752.AQ4 QT9.KJT5..KT7653 AKJ72.8742.T94.8 543.AQ6.K863.J92"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1D Pass
+1S Pass 2D AP
+[Play "N"]
+C6 C8 CJ CQ
+S9 SA S3 S6
+C3 DT D3 D5
+ST SK S4 S8
+SQ SJ S5 D2
+C5 D4 C2 C4
+-  D9 DK -
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK8.J8762.A83.K7 QJ974.AT.762.JT3 T65.KQ3.J94.A952 32.954.KQT5.Q864"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 3NT
+AP
+[Play "N"]
+SQ S5 S3 SA
+HT HK H4 H2
+HA HQ H5 H6
+D7 D4 DT D3
+D6 D9 DQ DA
+S4 H3 H9 HJ
+S7 DJ S2 H8
+C3 C2 C4 H7
+CT C5 C6 CK
+CJ CA -  C7
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK8.J8762.A83.K7 QJ974.AT.762.JT3 T65.KQ3.J94.A952 32.954.KQT5.Q864"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 3NT
+AP
+[Play "N"]
+S7 S5 S3 S8
+HA H3 H4 H8
+D7 D4 DT D3
+D2 D9 DQ DA
+HT HQ H9 H2
+S4 HK H5 H7
+S9 S6 S2 SA
+SJ C2 C8 HJ
+SQ DJ D5 H6
+D6 ST C4 SK
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K6.654.AQ72.QJ74 AQJ954.T82.3.A86 T73.QJ3.KT654.T5 82.AK97.J98.K932"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "11"]
+[Auction "W"]
+1D 1S 2D X
+Pass 2S 3D Pass
+Pass 3S AP
+[Play "E"]
+D4 D8 DA D3
+C5 CK CJ C6
+S3 S2 S6 SQ
+H3 HA H4 H8
+S7 S8 SK SA
+ST D9 D2 SJ
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K6.654.AQ72.QJ74 AQJ954.T82.3.A86 T73.QJ3.KT654.T5 82.AK97.J98.K932"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+1D 1S 2D X =1=
+Pass 2S =2= 3D X
+Pass 4D =3= Pass 4S
+AP
+[Note "1:takeout"]
+[Note "2:hesitantly:)"]
+[Note "3:makeup cALL"]
+[Play "E"]
+HQ HA H4 H8
+S3 S2 SK SA
+S7 S8 S6 SQ
+ST D8 D7 SJ
+H3 H7 H5 H2
+C5 C2 C7 CA
+HJ HK H6 HT
+-  H9 -  -
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K53.AQ9.AJ75.Q94 QT9.87653.Q8.K76 J874.K42.T942.J8 A62.JT.K63.AT532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C 1NT
+AP
+[Play "N"]
+H5 HK HJ H9
+DQ D2 D3 DJ
+H8 H4 HT HA
+D8 D4 D6 DA
+C6 D9 DK D5
+ST S4 S2 SK
+SQ S7 S6 S5
+H3 H2 -  -
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K53.AQ9.AJ75.Q94 QT9.87653.Q8.K76 J874.K42.T942.J8 A62.JT.K63.AT532"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C X
+1H Pass 1NT AP
+[Play "W"]
+D5 DQ D4 D6
+HQ H3 H2 HT
+S3 SQ S7 S6
+C4 C6 C8 C5
+DA D8 DT DK
+DJ S9 D9 D3
+HA H5 H4 HJ
+D7 ST D2 C2
+H9 H6 HK S2
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q975.QJ82.Q.Q865 42.743.A9864.AJ2 T63.AK95.J5.T974 AKJ8.T6.KT732.K3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 3C
+Pass 3D Pass 3NT
+AP
+[Play "W"]
+HJ H3 H5 H6
+H2 H4 HK HT
+HQ H7 H9 D2
+H8 S2 HA D3
+S7 S4 S3 SA
+DQ D4 -  DK
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:Q975.QJ82.Q.Q865 42.743.A9864.AJ2 T63.AK95.J5.T974 AKJ8.T6.KT732.K3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Auction "E"]
+Pass 1D Pass 2S =1=
+Pass 3D AP
+[Note "1:strong in spades or mixed !D raise"]
+[Play "W"]
+HQ H3 H9 H6
+H2 H4 HK HT
+H8 H7 HA D3
+DQ -  -  DK
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:75.T952.K93.AJ72 AJT96.KQJ8.T6.KT K83.76.AQJ874.43 Q42.A43.52.Q9865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1S 2D
+2S 3C =1= 3S AP
+[Note "1:Diamond raise"]
+[Play "E"]
+C4 C5 CA CK
+H7 H3 H5 HK
+S3 S2 S5 SA
+SK S4 S7 S9
+H6 H4 H9 HQ
+S8 SQ D3 S6
+C3 CQ C2 CT
+-  C9 -  -
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:75.T952.K93.AJ72 AJT96.KQJ8.T6.KT K83.76.AQJ874.43 Q42.A43.52.Q9865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1S 2D
+2S 3D 3S AP
+[Play "E"]
+H7 HA H5 H8
+SK SQ S5 S6
+DA D2 D9 D6
+D4 D5 DK DT
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J92.KJ87.AJ5.862 653.AT9.QT92.JT9 KQT4.4.87643.AQ7 A87.Q6532.K.K543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1D 1H
+1NT AP
+[Play "N"]
+S6 SK S8 S2
+D2 D3 DK D5
+HA H4 H6 HJ
+CJ CA C5 C2
+S5 S4 S7 SJ
+S3 SQ SA S9
+HT D4 H2 H7
+CT CQ CK C6
+C9 C7 C4 C8
+H9 D6 H3 H8
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J92.KJ87.AJ5.862 653.AT9.QT92.JT9 KQT4.4.87643.AQ7 A87.Q6532.K.K543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1D 1H
+1NT 2H X Pass
+3NT AP
+[Play "N"]
+S6 SK SA S2
+HA H4 H3 HJ
+HT D3 H5 H8
+H9 C7 H2 HK
+S3 S4 S8 SJ
+S5 SQ S7 S9
+D2 ST C3 C2
+D9 D4 DK DA
+-  -  -  H7
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQ74.7.AT8543.K J6.AK85..QJT7432 T832.QT962.6.A95 95.J43.KQJ972.86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1C Pass 1D 1S
+2C 4S AP
+[Play "N"]
+HK H2 H3 H7
+CQ C5 C6 CK
+S6 D6 D7 DA
+C2 CA C8 D3
+H5 H6 H4 S4
+SJ C9 D2 D5
+CJ H9 DK S7
+-  -  -  D4
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQ74.7.AT8543.K J6.AK85..QJT7432 T832.QT962.6.A95 95.J43.KQJ972.86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Auction "N"]
+1C Pass 1D 1S
+2C 2S 3C 4S
+5C 5S AP
+[Play "N"]
+HK H2 H3 H7
+C2 C5 C8 CK
+S6 D6 D2 DA
+SJ S2 S5 SA
+C3 S3 D7 D4
+C4 CA C6 D3
+H5 H6 H4 S4
+-  -  -  D5
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Bobby Levin"]
+[North "Shi"]
+[East "Steve Weinstein"]
+[South "Zhuang"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ95.8.K43.QJT63 74.J9764.T875.K9 K8632.AQ532.A.84 JT.KT.QJ962.A752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 3NT =1= Pass
+4C =2= Pass 4S AP
+[Note "1:9-13 4+ spades any splinter"]
+[Note "2:Hearts"]
+[Play "S"]
+DQ D3 D7 DA
+C5 CQ CK C4
+D6 D4 D5 S3
+CA C3 C9 C8
+D9 DK D8 S2
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Teams"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Huang"]
+[North "Hamman"]
+[East "Yeh"]
+[South "Zia"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ95.8.K43.QJT63 74.J9764.T875.K9 K8632.AQ532.A.84 JT.KT.QJ962.A752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 4S Pass
+4NT Pass 5D Pass
+6S AP
+[Play "S"]
+CA C3 C9 C4
+C2 -  -  -
+*
+[Description "#"]
+[Stage "Round 5"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:93.AJT73.K542.K6 AQT7.98.QT3.T987 K6.KQ42.AJ76.532 J8542.65.98.AQJ4"]
+[Scoring "IMP;Cross"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2H Pass 4H
+AP
+[Play "N"]
+CT C2 CA C6
+C7 C3 CQ CK
+H8 H2 H5 HA
+H9 HK H6 H3
+C8 C5 C4 H7
+D3 D6 D8 DK
+DT DJ D9 D2
+*
+[Stage "Session 1 Table 1"]
+[HomeTeam "Team 1"]
+[VisitTeam "Team 2"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J9.JT8.A8653.KT3 832.Q64.942.Q852 AQ765.A93.T7.974 KT4.K752.KQJ.AJ6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT Pass Pass
+2S AP
+[Play "S"]
+DK D3 D9 D7
+H5 HJ H4 H3
+DJ DA D2 DT
+DQ D5 D4 S5
+S4 SJ S2 S6
+ST D6 S3 S7
+C6 CK C5 C4
+H2 D8 S8 C7
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Bobby Levin"]
+[North "Larsen"]
+[East "S Weinstein"]
+[South "Compton"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T982.954.AK5.AK4 A3.72.QJT4.QJ973 Q54.AKQ83.873.86 KJ76.JT6.962.T52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1NT Pass 3NT
+AP
+[Play "N"]
+DQ D3 D9 D5
+CQ C6 CT CK
+S3 S4 SJ ST
+D4 D7 D6 DA
+H2 HA H6 H4
+H7 HK HT H5
+-  HQ HJ H9
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T8.J8764.9.Q9642 AK.AT93.AQT54.AT J965.K52.J3.KJ73 Q7432.Q.K8762.85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 2C Pass 2D
+Pass 2NT Pass 3H =1=
+Pass 3S Pass 3NT
+AP
+[Note "1:TRFR"]
+[Play "E"]
+C3 C5 CQ CA
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT.K5.J865.QJ965 K63.64.Q974.T874 8752.AQ873.AT2.2 QJ94.JT92.K3.AK3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2CX"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1C Pass
+Pass X 1H 1NT
+2C Pass Pass X
+AP
+[Play "W"]
+D6 D7 DA D3
+SA S3 S8 S4
+ST SK S5 S9
+H5 H4 HA H2
+C5 S6 S2 SQ
+HK H6 H3 H9
+D5 D4 DT DK
+C6 C4 C2 CA
+-  -  -  CK
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Gawrys"]
+[North "Welland"]
+[East "Chmurski"]
+[South "Willenken"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:743.T9643.Q2.K43 T8.QJ52.JT543.QT KJ62.K7.AK876.92 AQ95.A8.9.AJ8765"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "9"]
+[Auction "E"]
+1D 2C AP
+[Play "W"]
+DQ D3 D6 D9
+C4 CQ C2 C6
+S3 S8 SK SA
+CK CT C9 C5
+D2 DJ DA C7
+C3 D4 D7 CA
+H3 H2 S2 CJ
+S4 ST SJ S5
+-  -  S6 -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ53.T96.T875.75 A974.A3.KQ432.Q2 T82.QJ875.AJ9.A6 K6.K42.6.KJT9843"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1C =1= Pass 1S =2= Pass
+2H =3= Pass 2S =4= Pass
+3C =5= Pass 3D =6= Pass
+3H =7= Pass 3S ! Pass
+3NT AP
+[Note "1:multi way"]
+[Note "2:str relay"]
+[Note "3:6+ clubs, no other suroswolf: polish presumably"]
+[Note "4:relay"]
+[Note "5:7@c, (321)"]
+[Note "6:asks"]
+[Note "7:stiff !d"]
+[Play "W"]
+SQ S4 S2 SK
+C5 C2 C6 CK
+C7 CQ CA C3
+S3 SA ST S6
+-  DK -  -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ63.T964.83.KT7 9872.8.KJ95.Q843 K5.KQJ.642.AJ962 JT4.A7532.AQT7.5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1C =1= 1H
+X =2= Pass 1NT AP
+[Note "1:Polish"]
+[Note "2:4+ spades"]
+[Play "S"]
+H5 H4 H8 HK
+H3 H6 C4 HQ
+HA H9 C3 HJ
+S4 S3 S2 SK
+C5 CK C8 C2
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "McGann"]
+[North "Lungu"]
+[East "Hanlon"]
+[South "Kozyzkowski"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J86.52.AK6.AT832 KQT5.J43.9752.J6 97432.T9.J8.Q974 A.AKQ876.QT43.K5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H X
+2H =1= Pass 2NT Pass
+3C =2= Pass 4H AP
+[Note "1:has stronger raise available"]
+[Note "2:doubleton club"]
+[Play "W"]
+DA D2 D8 DT
+DK D5 DJ D3
+CA C6 C4 C5
+D6 D7 H9 D4
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T9.A53.KQ62.AJ54 Q7.JT87.A7.QT876 J8542.KQ64.J4.K2 AK63.92.T9853.93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 2NT Pass
+3C Pass 3NT AP
+[Play "N"]
+C7 C2 C9 CJ
+SQ S2 S3 ST
+C8 CK C3 C4
+DA DJ D3 D2
+CT S4 H9 CA
+H7 HK H2 H3
+H8 H4 D5 HA
+HT HQ S6 H5
+D7 D4 D8 DK
+S7 H6 D9 DQ
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK5.87.K732.AK94 T972.AKJT653.J8. J63.Q.AT96.QJ732 Q84.942.Q54.T865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "10"]
+[Auction "S"]
+Pass 1C 3H Pass
+Pass X Pass 4H
+Pass 5C AP
+[Play "N"]
+HA HQ H2 H7
+HK C2 H4 H8
+H3 CQ C5 C4
+H5 C3 C6 C9
+S2 S3 S4 SA
+S7 S6 S8 SK
+S9 SJ SQ S5
+H6 C7 C8 CA
+D8 DA D4 D2
+DJ D6 D5 DK
+HT D9 DQ D3
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Bompis"]
+[North "Werdelin"]
+[East "Quantin"]
+[South "Bruun"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:4.9543.AJ732.654 T653.AJ7..AKQT32 972.KT862.K6.J97 AKQJ8.Q.QT9854.8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Auction "W"]
+Pass 1C 1H X
+1S X Pass 2S
+Pass 3H Pass 4H
+Pass 6C AP
+[Play "E"]
+S2 SA S4 S3
+CJ C8 C4 CT
+S7 SK C6 S5
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQT6.J832.J95.65 4.AKQT75.743.Q94 A9.964.AKQT2.AJ2 J87532..86.KT873"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "9"]
+[Auction "N"]
+1H X Pass 1S
+2H 3D Pass 3H
+Pass 4D Pass 5D
+AP
+[Play "S"]
+S7 S6 S4 SA
+D6 D5 D3 DA
+D8 D9 D4 DK
+S2 ST D7 S9
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ93.8542.842.84 A842.AQJ7.QT9.AK T5.KT3.J653.6532 Q76.96.AK7.QJT97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT =1= Pass 2C
+Pass 2D Pass 4NT
+Pass 6C Pass 6NT
+AP
+[Note "1:12-14?"]
+[Play "W"]
+H2 HJ HK H6
+D2 D9 D3 D7
+C4 CA C2 C7
+C8 CK C3 C9
+D4 DT D5 DK
+D8 DQ D6 DA
+S3 S2 C5 CQ
+CJ S9 S4 C6
+H3 CT SJ H7
+-  -  S6 SK
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Verhees"]
+[North "Bertheau"]
+[East "Rogoff"]
+[South "Nystrom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A2.JT74.T765.843 QJT64.KQ965.K42. 95.2.AQJ9.QJT965 K873.A83.83.AK72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1NT =1= Pass 4D X
+4S AP
+[Note "1:12-14"]
+[Play "S"]
+D7 DK DA D3
+D5 D2 DQ D8
+HJ HK H2 H3
+SA SQ S5 S3
+H4 H5 S9 -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.AQT.KQ764.KT62 J5.J62.T832.J843 QT942.K97.J95.A7 AK873.8543.A.Q95"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1S Pass
+2C Pass 2NT Pass
+3NT AP
+[Play "E"]
+H5 HT HJ HK
+DA D4 D2 D5
+H3 HQ H6 H7
+SK S6 S5 ST
+H4 HA H2 H9
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J87432.QJ8.Q.Q82 AT6.AKT76.T53.KT KQ.952.AJ76.J654 95.43.K9842.A973"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "9"]
+[Auction "N"]
+1NT AP
+[Play "N"]
+C4 C3 CQ CK
+D7 D9 DQ D3
+H5 H3 HQ HA
+D6 D2 S2 DT
+DA D4 S3 D5
+H9 H4 HJ HK
+H2 S5 H8 HT
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "B Levin"]
+[North "Gitelman"]
+[East "S Weinstein"]
+[South "Moss"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:4.A943.AJ8754.Q3 KJT65.KT6.9.AT76 Q2.J82.KQT2.K984 A9873.Q75.63.J52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1D 1S
+2H =1= 3S 4D AP
+[Note "1:good !d raise"]
+[Play "S"]
+ST S2 SA S4
+SJ SQ S9 D4
+C2 C3 C6 CK
+C5 CQ CA C4
+CJ D5 C7 C8
+D7 D9 DK D3
+D8 S5 DQ D6
+DA CT C9 S7
+HQ H3 H6 HJ
+H7 -  -  -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQJ73.9.T9854.A2 A6542.Q7.KQJ.T74 T.KJT8652.A7.K65 98.A43.632.QJ983"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 2NT Pass 3H
+Pass 3NT Pass 4H
+AP
+[Play "E"]
+CQ C2 C7 CK
+S8 S3 SA ST
+D2 D4 DK DA
+C3 CA C4 C5
+S9 SK S5 D7
+D3 D5 DJ H2
+H9 CT C6 C8
+D6 D8 DQ H6
+S7 H7 HK H3
+-  -  HJ -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J2.8543.7542.KQ3 KQ7.JT6.KJ96.T92 T96.9.AT8.AJ8764 A8543.AKQ72.Q3.5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1C 2C
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+C4 C5 CQ C2
+C6 S3 CK CT
+CJ S4 C3 C9
+CA D3 D2 -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Bruggeman"]
+[North "Doub"]
+[East "Paulissen"]
+[South "Wildavsky"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q4.KT832.Q98.862 AKT87.Q974..J953 3.A.AKJT543.KT74 J9652.J65.762.AQ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "N"]
+1S 2D 4S Pass
+Pass 5D X AP
+[Play "W"]
+S2 SQ SA S3
+CA C2 C5 CK
+CQ C6 C3 C4
+H5 H2 H7 HA
+D2 DQ S7 DJ
+H6 H3 H4 DK
+D3 D6 D8 -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:63.J853.AK94.K42 K9875.AK.73.JT63 QT42.QT4.JT2.Q75 AJ.9762.Q865.A98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1NT AP
+[Play "S"]
+DA D3 DJ D8
+H3 HK H4 H6
+S3 S5 S4 SA
+S6 SK S2 SJ
+C4 S9 ST C9
+H5 HA HT H2
+DK D7 DT DQ
+H8 S7 HQ H9
+S8 SQ H7 D4
+C3 C5 CA C2
+-  -  D6 D9
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q854.5.KQT85.KT3 A.Q872.974.AQ975 KT7632.AKJ9.AJ.J J9.T643.632.8642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C X
+Pass 2C Pass 3C
+Pass 3D Pass 3S
+Pass 4S Pass 4NT
+Pass 5C Pass 5S
+AP
+[Play "N"]
+C4 CK CA CJ
+C6 C3 CQ S3
+S9 SQ SA S6
+-  -  D4 DA
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Vainkonis"]
+[North "Wolff"]
+[East "Pszczola"]
+[South "Huang"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKQJT32.T95.96.Q 874.J742.A87.AKT 9.AQ863.JT532.96 65.K.KQ4.J875432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+4S AP
+[Play "W"]
+CK C6 C8 CQ
+CA C9 C4 S2
+SA S4 S9 S5
+SK S7 D2 S6
+SQ S8 D3 C5
+HT H2 H3 HK
+D9 DA D5 D4
+-  D8 -  -
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K932.J.954.J9743 AJ65.K8532.KQJ.5 QT87.AT4.82.AQ86 4.Q976.AT763.KT2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+2D =1= Pass 4H AP
+[Note "1:Flannery I think he said"]
+[Play "W"]
+D5 DJ D2 DA
+HJ HK HA H6
+D4 DQ D8 D7
+C7 H2 H4 HQ
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KT95.8.QT86.AK85 AJ73.4.AK94.QJ62 8642.A732.53.T43 Q.KQJT965.J72.97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "E"]
+Pass 3H Pass 4H
+AP
+[Play "N"]
+CA C2 C4 C7
+CK C6 C3 C9
+ST SA S2 SQ
+H8 H4 H2 HQ
+-  -  -  HT
+*
+[Description "#"]
+[Stage "Session 1 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Giubilo"]
+[North "Christiansen"]
+[East "Versace"]
+[South "Jens Auken"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T982.954.AK5.AK4 A3.72.QJT4.QJ973 Q54.AKQ83.873.86 KJ76.JT6.962.T52"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H Pass 3NT
+Pass 4H AP
+[Play "N"]
+DQ D3 D6 DK
+H2 HA H6 H4
+H7 HK HT H5
+C3 HQ HJ H9
+C7 C8 C5 CK
+S3 S4 SJ S9
+D4 D7 D2 DA
+SA S5 S6 S8
+DJ D8 D9 D5
+CQ C6 -  -
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Vainkonis"]
+[North "Madala"]
+[East "Pszczola"]
+[South "Sementa"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:743.T9643.Q2.K43 T8.QJ52.JT543.QT KJ62.K7.AK876.92 AQ95.A8.9.AJ8765"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "10"]
+[Auction "E"]
+1D 2C AP
+[Play "W"]
+DQ D3 D7 D9
+D2 DT DK C5
+S7 ST SJ S5
+CK CT C2 C6
+C3 CQ C9 C7
+H4 HQ HK HA
+C4 H2 D6 CA
+S4 D4 D8 CJ
+H3 H5 S6 C8
+H6 HJ H7 H8
+S3 S8 S2 SQ
+-  -  -  SA
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Eidi"]
+[North "Shen"]
+[East "Fantoni"]
+[South "Shih"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J86.52.AK6.AT832 KQT5.J43.9752.J6 97432.T9.J8.Q974 A.AKQ876.QT43.K5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1H 2C
+2H 3C 3D Pass
+3H Pass 4H AP
+[Play "W"]
+H2 H3 H9 HA
+H5 H4 HT HK
+S6 S5 S2 SA
+C3 HJ S3 H8
+S8 SK S4 C5
+SJ SQ S7 CK
+C2 ST S9 D3
+DK D2 D8 DT
+CA C6 C4 H6
+DA D5 DJ DQ
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Cheek"]
+[North "Wolpert"]
+[East "Grue"]
+[South "Kranyak"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:4.9543.AJ732.654 T653.AJ7..AKQT32 972.KT862.K6.J97 AKQJ8.Q.QT9854.8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 2C 2S 3NT
+AP
+[Play "W"]
+D3 S3 DK D4
+DJ S5 D6 DT
+DA C2 H2 D5
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Landen"]
+[North "Krekorian"]
+[East "Pratap"]
+[South "Diamond"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A2.JT74.T765.843 QJT64.KQ965.K42. 95.2.AQJ9.QJT965 K873.A83.83.AK72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2D 3C
+Pass Pass 3S Pass
+4C 5C Pass Pass
+X AP
+[Play "S"]
+S7 SA SQ S5
+C2 C3 H5 CQ
+CK C4 S4 C5
+S3 S2 ST S9
+HA H4 H6 H2
+H8 HJ HQ C6
+D3 D5 DK D9
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Birman"]
+[North "Multon"]
+[East "Altschuler"]
+[South "Zimmerman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:4.A943.AJ8754.Q3 KJT65.KT6.9.AT76 Q2.J82.KQT2.K984 A9873.Q75.63.J52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1H 1S
+X =1= 3H 5D AP
+[Note "1:Support shows 3 hearts"]
+[Play "S"]
+SA S4 SJ S2
+H5 HA H6 H2
+D3 D4 D9 DK
+S3 D5 S5 SQ
+D6 DA S6 D2
+C2 C3 CA C4
+H7 H4 HK H8
+HQ H3 HT HJ
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Shi"]
+[North "Christiansen"]
+[East "Zhuang"]
+[South "Jens Auken"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q4.KT832.Q98.862 AKT87.Q974..J953 3.A.AKJT543.KT74 J9652.J65.762.AQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Auction "N"]
+1S 2D 4S Pass
+Pass 5D Pass Pass
+5S AP
+[Play "E"]
+DK D2 D9 S7
+C4 CQ C2 C3
+C7 CA C6 C5
+S3 S2 S4 SA
+D3 S5 SQ SK
+CK S6 C8 CJ
+D4 D6 D8 S8
+HA H5 -  H4
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Zhao"]
+[North "Mike Moss"]
+[East "Fu Zhong"]
+[South "Fredin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKQJT32.T95.96.Q 874.J742.A87.AKT 9.AQ863.JT532.96 65.K.KQ4.J875432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+4S AP
+[Play "N"]
+CA C6 C7 CQ
+H4 H3 HK H5
+DA D2 D4 D9
+H2 H6 S5 HT
+D7 D3 DK D6
+*
+[Description "#"]
+[Stage "Session 1 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+% PBN created by BFC s2t1.lin P
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT6.753.Q932.K42 K985.J98.AK754.6 742.A6.T6.QT9753 QJ3.KQT42.J8.AJ8"]
+[Scoring "IMP;Cross"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C Pass 2NT Pass
+3D Pass 3NT Pass
+4H AP
+[Play "W"]
+H5 H8 HA H2
+H3 H9 H6 H4
+C2 C6 C3 CA
+C4 HJ C5 C8
+SA S5 S2 SQ
+CK D4 C7 CJ
+*
+[Stage "Session 2 Table 1"]
+[HomeTeam "Team 1"]
+[VisitTeam "Team 2"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K9872.Q5.J82.K92 J.AK873.KQ73.863 AT653.JT4.A95.T7 Q4.962.T64.AQJ54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "E"]
+2S Pass 4S X
+AP
+[Play "S"]
+S4 S2 SJ SA
+SQ SK D7 S6
+H2 H5 HK HJ
+D4 D2 DK D5
+CA C2 C6 C7
+DT DJ DQ DA
+H6 HQ HA H4
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Moss"]
+[North "Giubilo"]
+[East "Gitelman"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQ854.2.KJ84.J9 J3.J53.AT95.A876 T72.K964.Q7.T542 96.AQT87.632.KQ3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "S"]
+1H 4S X AP
+[Play "N"]
+H3 H4 HQ H2
+C8 C2 CK C9
+C6 C4 CQ CJ
+DA D7 D2 D4
+D5 DQ D3 D8
+S3 ST S6 SA
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J9.A854.QT64.863 87653.K76.A52.A7 T4.QJ3.K93.KQJ94 AKQ2.T92.J87.T52"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+Pass 1S 2C 3C
+Pass 3S AP
+[Play "E"]
+CK C2 C8 CA
+S4 SA S9 S3
+ST SK SJ S5
+CQ CT C6 C7
+CJ C5 C3 H6
+HQ H2 HA H7
+H3 H9 H4 HK
+C4 SQ D4 S6
+HJ HT H5 S7
+D3 DJ DQ D2
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T54.J9.KT87.K763 Q9.KQT862.954.Q5 A87632.4.AQ3.T42 KJ.A753.J62.AJ98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "N"]
+Pass 1S X 2H =1=
+4H 4S X AP
+[Note "1:spade raise"]
+[Play "S"]
+HA H9 H2 H4
+H3 HJ HQ S6
+SJ S4 S9 SA
+SK ST SQ S3
+CA C3 C5 C4
+C8 CK CQ CT
+H5 S5 H8 S7
+H7 -  -  S8
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Sadek"]
+[North "Levy"]
+[East "Hussein"]
+[South "Chemla"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A7.64.AKQ.AKQT98 T985432.J73..J32 Q.AKQT82.J98654. KJ6.95.T732.7654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "13"]
+[Auction "E"]
+1H Pass 2C =1= 3S
+4D 4S 7NT AP
+[Note "1:FG"]
+[Play "N"]
+ST -  -  -
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJT873.Q6.J64.52 5.AT975.A95.T643 A964.42.T32.AKQ8 Q2.KJ83.KQ87.J97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+1D 1S X 2D =1=
+2H Pass 3H 4S
+AP
+[Note "1:good spade raise"]
+[Play "N"]
+HA H2 H3 H6
+HT H4 HK HQ
+D5 D2 DK D6
+DA D3 D7 DJ
+D9 DT DQ D4
+H5 C8 D8 SJ
+S5 SA S2 S3
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQT8.973.6.97652 J7643.5.KJ74.A83 K52.AKT86.98.KJT 9.QJ42.AQT532.Q4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1H 2D
+2H 3S =1= Pass 4D
+Pass 5D AP
+[Note "1:spades + diamonds"]
+[Play "W"]
+H9 H5 HK H4
+D6 DJ D9 D2
+ST S3 S2 S9
+C6 C3 CK C4
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "S Weinstein"]
+[North "Cohler"]
+[East "B Levin"]
+[South "H Weinstein"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A74.K732.JT43.T3 T3.86.KQ987.AQJ8 KJ52.Q.A652.K754 Q986.AJT954..962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2H Pass
+Pass X XX Pass
+Pass 2S AP
+[Play "S"]
+C2 C3 CJ CK
+HA H2 H8 HQ
+C6 CT CQ C4
+S8 SA S3 S2
+H9 HK H6 D2
+HJ H3 ST SJ
+C9 S4 C8 C7
+H4 H7 D7 S5
+S9 D3 CA C5
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:JT5.J7.JT964.AT8 AK.QT43.KQ.QJ952 876.AK62.87532.4 Q9432.985.A.K763"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C Pass
+1S Pass 2NT Pass
+3H Pass 3S Pass
+3NT AP
+[Play "E"]
+D7 DA D4 DQ
+C4 C3 C8 CQ
+S6 S2 SJ SA
+S8 S3 S5 SK
+D5 C6 CA CJ
+HK H5 HJ HQ
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Fallenius"]
+[North "Wladlow"]
+[East "Schwartz"]
+[South "Elinescu"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.QJT84.J43.K3 K7.K2.AKQ85.A762 QJ8632.A6.9.J985 A5.9753.T762.QT4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+S2 SA S4 S7
+D9 D2 D3 DQ
+S3 D6 D4 DA
+H6 DT DJ DK
+C9 D7 H4 D5
+C5 CQ CK CA
+C8 C4 HQ D8
+CJ CT C3 C2
+SQ S5 S9 SK
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:976542.K96.A9.A4 .QJ852.J7.J98732 AKJT3.AT7.K852.Q Q8.43.QT643.KT65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "N"]
+Pass 1S Pass 2NT =1=
+Pass 3D =2= Pass 3H =3=
+Pass 3S =4= Pass 4D
+Pass 4H Pass 4NT
+Pass 5C Pass 6S
+AP
+[Note "1:fg raise"]
+[Note "2:14-16 some shortness"]
+[Note "3:asking"]
+[Note "4:club splinter"]
+[Play "S"]
+H3 H6 HJ HA
+S8 S2 H2 SA
+SQ S4 -  SK
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:T96.K854.AQ952.8 AQ874.Q2.JT7.Q97 J53.JT3.43.KT632 K2.A976.K86.AJ54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT Pass 2H =1=
+Pass 2S Pass 3NT
+AP
+[Note "1:trfr"]
+[Play "W"]
+D5 DJ D4 D8
+C8 CQ CK CA
+S6 S4 S3 SK
+S9 SA SJ S2
+ST SQ S5 H6
+H4 S7 H3 H7
+H5 S8 HT H9
+D2 C7 C2 C4
+D9 C9 CT CJ
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Shen"]
+[North "Kranyak"]
+[East "Shih"]
+[South "Wolpert"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K92.J.A865.KJT43 Q8753.762..Q9865 AJ.AK84.KQJ9.A72 T64.QT953.T7432."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6DX"]
+[Result "11"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 2D Pass 2H
+Pass 2S Pass 4D
+Pass 4S Pass 5C
+Pass 5D Pass 6D
+X AP
+[Play "S"]
+D2 D5 H7 D9
+D3 C3 C6 CA
+D4 D6 H2 DJ
+H3 HJ H6 HA
+HT D8 S5 H4
+S4 S2 S3 SJ
+S6 S9 S7 SA
+HQ C4 C5 HK
+H9 DA S8 H8
+ST SK SQ C2
+D7 CK C8 C7
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K952.952.5.AJ952 AJ3.AJT7.AKT6.64 Q.K864.J432.KT87 T8764.Q3.Q987.Q3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+Pass 1NT Pass 2H =1=
+Pass 2S AP
+[Note "1:TRFR"]
+[Play "E"]
+D2 DQ D5 D6
+H4 HQ H9 HA
+SQ S4 S2 SA
+HK H3 H2 HT
+C7 C3 CA C4
+CK CQ C5 C6
+D3 D7 S5 DT
+C8 S6 CJ H7
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K65.Q753.65.AQT9 QJ4.A92.KT8.8432 AT987.86.QJ74.76 32.KJT4.A932.KJ5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H Pass
+2C =1= Pass 2H Pass
+Pass 2S AP
+[Note "1:Drury"]
+[Play "S"]
+S3 S5 SQ SA
+C5 C9 C2 C6
+DA D5 D8 DQ
+HJ H3 HA H6
+D2 D6 DK D4
+D3 H5 DT DJ
+CJ CQ C3 C7
+CK CA C4 H8
+H4 H7 H9 S7
+S2 S6 SJ S8
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Wildavsky"]
+[North "Pollack"]
+[East "Doub"]
+[South "Berkowitz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q852.A652.A.QJ96 AKT76.983.Q943.K J.KT74.852.A8432 943.QJ.KJT76.T75"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1D 1S
+X 2S Pass Pass
+3C AP
+[Play "S"]
+S3 S2 SK SJ
+HJ HA H9 HT
+HQ H2 H3 HK
+D6 DA D3 D2
+D7 H5 H8 H4
+DT C6 D9 D5
+-  CQ CK CA
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQT62.J85.K83.75 J98.AT.Q97.KT843 A753.KQ642.62.A9 4.973.AJT54.QJ62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1H
+Pass 2C Pass 2D
+X 2H =1= 2NT 3D
+4C 4H Pass Pass
+4NT Pass 5C X
+AP
+[Note "1:3 hearts"]
+[Play "W"]
+SQ S8 S3 S4
+H5 HA H2 H3
+C5 C3 C9 CQ
+C7 C4 CA C2
+H8 HT HK H7
+S6 S9 SA C6
+HJ C8 H4 H9
+DK DQ D2 D4
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West "Giubilo"]
+[North "B Levin"]
+[East "Versace"]
+[South "S Weinstein"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJT8652.8.T8753. 97.KT9754.62.K75 AQ.AJ63.KJ4.9862 43.Q2.AQ9.AQJT43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "W"]
+4S Pass Pass 5C
+Pass Pass X AP
+[Play "W"]
+D3 D2 DK DA
+D8 C5 C2 CQ
+D5 D6 D4 DQ
+DT CK DJ D9
+S2 C7 C8 CJ
+SJ H4 C6 CA
+S5 H5 C9 CT
+H8 H7 HA HQ
+S6 S7 SA S3
+S8 S9 SQ S4
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K982.AQ54.AK5.94 543.T8.T2.AKJT82 .K97.Q98763.Q765 AQJT76.J632.J4.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 2S 2NT
+3S 4D Pass 5D
+AP
+[Play "S"]
+C3 C4 CK C5
+S6 C9 CA C6
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:4.KQ873.9853.A93 AT762.T6.KQT.K75 KJ85.A942.7.QJT8 Q93.J5.AJ642.642"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1H 1S
+2H 2S 3C Pass
+4H AP
+[Play "N"]
+DK D7 D6 D5
+DT H2 D2 D3
+H6 H4 H5 HK
+SA S5 S3 S4
+HT HA HJ H3
+CK CQ C2 C3
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:9864.5.Q987.KJ72 T53.T9843.AK4.53 KJ7.KJ76.532.AT4 AQ2.AQ2.JT6.Q986"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2D Pass
+2H AP
+[Play "W"]
+S6 S3 SK SA
+C2 C3 CT C9
+S4 S5 S7 SQ
+CJ C5 C4 C8
+S9 ST SJ S2
+C7 H3 CA CQ
+H5 H4 H6 HQ
+D7 DA D2 D6
+S8 H8 H7 HA
+CK HT HJ C6
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Diamond"]
+[North "Willenken"]
+[East "Krekorian"]
+[South "Welland"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ73.AKQ7.K763.6 8654.942..QJ8742 KQT.5.AJ854.A953 92.JT863.QT92.KT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "11"]
+[Auction "W"]
+1D Pass 2S Pass
+2NT Pass 3D =1= Pass
+3H =2= Pass 3S =3= Pass
+4NT Pass 5H Pass
+6D AP
+[Note "1:short in a Major"]
+[Note "2:asks"]
+[Note "3:heart splinter, not 4 spades"]
+[Play "N"]
+CQ CA CT C6
+C2 D4 D9 DK
+S6 SK S2 S7
+C7 C3 CK D3
+H2 H5 H3 HA
+H4 C5 H6 HK
+H9 ST H8 HQ
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+{North/South for board 25 were actually Pszczola and Vainkonis}
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K762.AT9742.T2.9 Q4.Q86.AKJ6.8652 J983.3.985.AQJ74 AT5.KJ5.Q743.KT3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1C Pass 3NT AP
+[Play "W"]
+HT H6 H3 HJ
+DT DA D5 D7
+C9 C2 CA C3
+SK S4 S9 S5
+HA H8 D9 H5
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+{}
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KJT962.KJ.Q7.K82 A753.AT85.J4.QT5 4.Q762.AT865.AJ9 Q8.943.K932.7643"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3NT AP
+[Play "S"]
+C7 C2 CT CJ
+S8 SJ S7 S4
+SQ SK S3 D5
+H9 ST SA H2
+DK D7 DJ D6
+H4 HK HA H6
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:52.A52.A643.AQJ5 K94.KJ8.QJT87.32 Q873.963.9.T9874 AJT6.QT74.K52.K6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "10"]
+[Auction "S"]
+1C =1= 1NT X 2C
+X Pass 2D AP
+[Note "1:can be 2"]
+[Play "E"]
+D9 D2 D3 DT
+C8 DK D4 D7
+CT D5 DA D8
+H3 S6 D6 DJ
+H6 H4 H2 HK
+H9 H7 HA HJ
+S8 HT H5 H8
+C4 HQ C5 C2
+*
+[Description "#"]
+[Stage "Session 2 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Welland"]
+[North "Hamman"]
+[East "Willenken"]
+[South "Zia"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKQ854.2.KJ84.J9 J3.J53.AT95.A876 T72.K964.Q7.T542 96.AQT87.632.KQ3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+1H 1S X Pass
+2C 2S 3H 3S
+Pass 4S AP
+[Play "N"]
+H3 HK HA H2
+C6 C2 CK C9
+C7 C4 CQ CJ
+C8 C5 C3 S5
+S3 S2 S6 SA
+D5 DQ D2 D4
+SJ S7 S9 SK
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Schermer"]
+[North "Wolff"]
+[East "Chambers"]
+[South "Huang"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A7.64.AKQ.AKQT98 T985432.J73..J32 Q.AKQT82.J98654. KJ6.95.T732.7654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "14"]
+[Auction "E"]
+4H Pass 4NT Pass
+5S Pass 7NT AP
+[Play "N"]
+ST SQ -  -
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Compton"]
+[North "Madala"]
+[East "Larsen"]
+[South "Sementa"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A74.K732.JT43.T3 T3.86.KQ987.AQJ8 KJ52.Q.A652.K754 Q986.AJT954..962"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3DX"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1H Pass
+2C Pass 2H Pass
+Pass X Pass 2S
+Pass Pass X 3D
+X AP
+[Play "N"]
+H8 HQ HA H3
+H6 S2 HJ HK
+CA C4 C2 CT
+DK DA H5 D3
+C8 CK C6 C3
+CJ C5 C9 D4
+S3 S5 S9 SA
+ST SK S6 S7
+CQ C7 H4 DT
+-  -  -  H2
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Verhees"]
+[North "Martel"]
+[East "Rogoff"]
+[South "Fleisher"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:T94.QJT84.J43.K3 K7.K2.AKQ85.A762 QJ8632.A6.9.J985 A5.9753.T762.QT4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 2NT Pass 3C
+Pass 3NT =1= AP
+[Note "1:no major"]
+[Play "E"]
+S6 S5 S9 SK
+D9 D2 D3 DA
+SQ D6 D4 DK
+H6 DT DJ DQ
+C5 D7 HQ D8
+S3 H3 S4 D5
+C8 CT CK C6
+HA H5 HJ HK
+S2 SA ST S7
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Ron Smith"]
+[North "Hanlon"]
+[East "J Feldman"]
+[South "McGann"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K92.J.A865.KJT43 Q8753.762..Q9865 AJ.AK84.KQJ9.A72 T64.QT953.T7432."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "S"]
+Pass 1C =1= Pass 1H
+Pass 1NT Pass 2D =2=
+Pass 3C Pass 4D =3=
+Pass 4NT =4= Pass 6NT
+AP
+[Note "1:maybe a dbltn"]
+[Note "2:GF stayman"]
+[Note "3:RKCB"]
+[Note "4:2 without the Q"]
+[Play "N"]
+H7 HA H3 HJ
+C5 CA D2 C3
+CQ C2 H5 CJ
+H6 HK H9 D5
+H2 DK D3 D6
+S3 D9 DT DA
+S5 SJ -  S2
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Schermer"]
+[North "Willenken"]
+[East "Chambers"]
+[South "Welland"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q852.A652.A.QJ96 AKT76.983.Q943.K J.KT74.852.A8432 943.QJ.KJT76.T75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1C 1S
+X 2S 3H Pass
+4H AP
+[Play "N"]
+SK SJ S9 S5
+D3 D2 DK DA
+H3 HK HJ H2
+H9 H4 HQ HA
+H8 HT D6 H5
+-  CA -  -
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJT8652.8.T8753. 97.KT9754.62.K75 AQ.AJ63.KJ4.9862 43.Q2.AQ9.AQJT43"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+3S Pass 4S AP
+[Play "N"]
+C5 C2 CA S5
+S7 SA S3 S6
+S9 SQ S4 S2
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Zhao"]
+[North "Helness"]
+[East "Fu Zhong"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K982.AQ54.AK5.94 543.T8.T2.AKJT82 .K97.Q98763.Q765 AQJT76.J632.J4.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+3C Pass Pass X
+Pass 5D Pass =1= Pass
+Pass
+[Note "1:thought about something"]
+[Play "S"]
+C3 C4 CK C5
+D4 C9 CA C6
+SA -  -  -
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Bruggeman"]
+[North "Pszczola"]
+[East "Paulissen"]
+[South "Vainkonis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ73.AKQ7.K763.6 8654.942..QJ8742 KQT.5.AJ854.A953 92.JT863.QT92.KT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7NTX"]
+[Result "10"]
+[Auction "W"]
+1D Pass 2D =1= Pass
+4C =2= Pass 4NT Pass
+5D Pass 7D X
+7NT Pass Pass X
+AP
+[Note "1:forcing"]
+[Note "2:shortness"]
+[Play "S"]
+HT HA H2 H5
+S2 S3 S5 SK
+D9 DK C2 D5
+DT D3 C4 D4
+HJ -  -  -
+*
+[Description "#"]
+[Stage "Session 2 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+% PBN created by BFC s3t1.lin P
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T32.KJT74.Q543.7 KQ754.62.KJ82.86 A98.85.A.AKJT952 J6.AQ93.T976.Q43"]
+[Scoring "IMP;Cross"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1C Pass 1H
+1S 2S Pass 3D
+Pass 3NT AP
+[Play "S"]
+SJ S2 S4 S8
+S6 S3 SQ SA
+C3 C7 C6 CA
+C4 ST C8 CK
+CQ H4 D2 CJ
+DT D3 DJ DA
+*
+[Stage "Session 3 Table 1"]
+[HomeTeam "Team 1"]
+[VisitTeam "Team 2"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T7.AT..KQT976532 QJ.KQJ9653.8632. 9632.87.AKQ74.84 AK854.42.JT95.AJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "8"]
+[Auction "E"]
+Pass 1S 5C 5H
+AP
+[Play "E"]
+DK D5 C7 D2
+DA D9 C2 D3
+DQ DT C6 D6
+D7 DJ HT D8
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Helgemo"]
+[North "Chambers"]
+[East "Helness"]
+[South "Schermer"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QT6.AT842.KT.T42 K852.Q75.QJ2.A85 J97.J963.76.KQ76 A43.K.A98543.J93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1D =1= 1H X 3D
+X Pass 3H Pass
+3NT AP
+[Note "1:Alerted"]
+[Play "W"]
+H4 H5 HJ HK
+DT D2 D6 DA
+DK DJ D7 D3
+SQ SK S7 S3
+C2 DQ H3 D4
+S6 S2 S9 SA
+ST -  -  D9
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:942.AKQ63.62.KJ7 KJ7.J72.KT7.AQT5 QT.98.AQJ98.8643 A8653.T54.543.92"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Auction "W"]
+1H X 2D 2S
+AP
+[Play "W"]
+HA H2 H8 H4
+HK H7 H9 H5
+HQ HJ C8 HT
+D6 DT DJ D3
+D2 D7 DA D4
+S2 DK DQ D5
+CJ CQ C3 C2
+S4 S7 ST SA
+S9 SJ SQ S3
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A76.AQ943.A9.Q62 J8.K2.JT873.AK85 Q943.T5.K652.JT3 KT52.J876.Q4.974"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass Pass 1NT
+AP
+[Play "N"]
+D3 DK DQ D9
+HK HT H8 H3
+D7 D2 D4 DA
+CK C3 C4 CQ
+DJ D5 C9 S6
+DT D6 C7 C6
+CA CT S2 C2
+D8 S3 S5 H4
+H2 H5 H6 -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Zia"]
+[North "Cohler"]
+[East "Hamman"]
+[South "H Weinstein"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:95.AKT9.KT52.A74 T82.QJ73.9863.K2 KQJ643.6542.A7.Q A7.8.QJ4.JT98653"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "E"]
+1S 2C X 3C
+3H 5C X AP
+[Play "W"]
+C4 CK CQ C3
+DK D3 D7 DQ
+S9 ST SJ SA
+S5 S2 SQ S7
+D5 S8 SK CJ
+CA C2 S3 CT
+HA H3 H2 H8
+HK H7 H4 C5
+C7 D6 H5 C9
+H9 HJ H6 C6
+-  -  -  D4
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQJT74.76.95.QJ8 K8.KQT543.KQ3.53 6.AJ2.T864.AK742 9532.98.AJ72.T96"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+Pass 2S 3H AP
+[Play "E"]
+CK C6 CQ C5
+S6 S2 SA S8
+H2 S3 S4 SK
+C7 C9 CJ C3
+HJ S5 ST HT
+CA CT C8 -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJT2.J98.Q42.KT9 8.QT762.98.AJ862 543.AK4.AJT73.Q5 KQ976.53.K65.743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "S"]
+S7 SJ S8 S3
+DK DQ D8 D3
+H5 HJ HQ HA
+SQ S2 C2 S4
+H3 H9 H2 H4
+C3 C9 C6 CQ
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Vainkonis"]
+[North "Cassen"]
+[East "Pszczola"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:86.AQJ64.962.T64 J.98532.QT43.KQ2 AKQ43.K7.A8.AJ97 T9752.T.KJ75.853"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass 2C Pass 2H
+Pass 2S Pass 2NT
+Pass 3NT AP
+[Play "N"]
+CQ CA C3 C4
+CK C7 C5 CT
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:4.K64.T5.KT98762 9765.95.KQ7432.A AJT32.83.J6.Q543 KQ8.AQJT72.A98.J"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "E"]
+Pass 1H 3C X
+5C X AP
+[Play "N"]
+DK D6 D9 D5
+H9 H3 HA H4
+D2 DJ DA DT
+H5 H8 HQ HK
+CA C3 CJ CK
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT732.JT87.K82.9 4.AQ542.J743.Q73 KQJ5.96.AQT.J852 986.K3.965.AKT64"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1S Pass 2S
+AP
+[Play "N"]
+D4 DA D5 D2
+S4 SK S6 S2
+H2 SQ S8 S3
+H5 H6 HK H7
+D3 SJ S9 S7
+HQ H9 H3 H8
+C3 C2 CA C9
+C7 C5 C4 SA
+H4 C8 C6 HJ
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Henner-Welland"]
+[North "Levy"]
+[East "Rosenberg"]
+[South "Chemla"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:53.QT432.K3.T862 JT.AK76.QJ52.J94 8764..9874.AK753 AKQ92.J985.AT6.Q"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 1D 2C 2S
+3C Pass Pass X
+Pass 3H Pass 4C
+Pass 4H AP
+[Play "E"]
+CA CQ C2 C4
+D4 D6 DK D2
+C3 H5 H4 HA
+S4 S2 S3 SJ
+S6 SQ S5 ST
+S7 SA H3 H6
+C5 H8 C6 C9
+S8 SK HT HK
+CK HJ C8 CJ
+-  S9 HQ D5
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KT9765.5.A3.AT84 .AKQJ82.KQJT98.2 AJ32.T96.7652.K5 Q84.743.4.QJ9763"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+2C Pass 2D Pass
+4H AP
+[Play "E"]
+HT H3 H5 -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ.Q82.QJT965.J3 KT63.T7.73.KQT76 942.AKJ9.K42.854 Q875.6543.A8.A92"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 2D Pass
+3D X Pass 3S
+AP
+[Play "E"]
+HA H3 H2 H7
+HK H4 H8 HT
+D2 DA DQ D3
+S4 S5 SA S3
+DK D8 DJ D7
+H9 H5 HQ S6
+S2 S7 SJ SK
+S9 SQ D5 ST
+-  S8 D6 C6
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Fredin"]
+[North "Woolsey"]
+[East "Mike Moss"]
+[South "Stewart"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.952.KT973.T7652 AQ87.K87.AQ6.QJ4 42.AQJ6.J42.AK98 KJT9653.T43.85.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2H Pass 3S Pass
+4S AP
+[Play "E"]
+CA C3 C5 C4
+S4 S3 C2 S7
+S2 S5 D3 SA
+CK S9 C6 CQ
+D4 D5 D7 DQ
+C8 H3 -  CJ
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT3.Q54.KJ7.Q842 J5.9.Q95.KJT9653 AQ984.KT87.AT2.7 762.AJ632.8643.A"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 3C X Pass
+3NT AP
+[Play "N"]
+SJ SA S2 S3
+H9 H7 H2 HQ
+S5 S4 S6 SK
+C3 SQ S7 ST
+C6 S9 H6 H5
+CJ S8 H3 H4
+C5 C7 CA C2
+DQ DA D6 D7
+D5 D2 D4 DJ
+D9 DT D3 DK
+C9 H8 D8 C4
+CK HT HJ C8
+CT HK HA CQ
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J932.K6.62.AKJ95 AK84.J875432.A3. QT65.AQ.JT74.864 7.T9.KQ985.QT732"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "11"]
+[Auction "N"]
+1H Pass 1NT =1= 2C
+3H 3NT X Pass
+4H X AP
+[Note "1:Semi/Forcing"]
+[Play "E"]
+C8 CT CJ H2
+HQ H9 H6 H3
+C6 C2 C5 H4
+S5 S7 S2 SA
+S6 HT S3 S4
+D4 D5 D6 DA
+HA D8 HK HJ
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Ron Smith"]
+[North "Ekeblad"]
+[East "Jason Feldman"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AKQ853.KT.Q9.QT5 64.A64.J85.KJ632 9.QJ832.AK432.98 JT72.975.T76.A74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 3NT =1= AP
+[Note "1:Alerted"]
+[Play "N"]
+C2 C8 CA C5
+CJ C9 C7 CT
+HA H2 H9 HT
+CK D2 C4 CQ
+C6 -  -  -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A84.92.J982.8632 7652.84.Q754.T97 QJ.AQ763.T3.AKQJ KT93.KJT5.AK6.54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "S"]
+1C Pass Pass X
+Pass 1D Pass 2H
+AP
+[Play "S"]
+DA D2 D4 D3
+DK D8 D5 DT
+C5 C2 C9 CJ
+H5 H2 H4 HA
+HT H9 H8 H3
+C4 C3 C7 CQ
+HJ C6 S2 H6
+HK S4 D7 H7
+ST S8 -  -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:76543.64.KQ.QJT9 AJ.QJ87.642.A654 K2.AK5.AJT95.K87 QT98.T932.873.32"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass 1C =1= X Pass
+2S Pass 3NT AP
+[Note "1:Minimum 2"]
+[Play "S"]
+C3 C9 CA C8
+S8 -  SA S2
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Verhees"]
+[North "Wladlow"]
+[East "Rogoff"]
+[South "Elinescu"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ95.K.765.JT872 K84.AQ76.QJ.K954 J7.J43.AK943.AQ6 T632.T9852.T82.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2C Pass
+2H AP
+[Play "E"]
+H3 HT HK HA
+DK D2 D5 DQ
+DA D8 D6 DJ
+D4 DT D7 S4
+CQ C3 C2 C9
+C6 H2 C7 C4
+S7 S2 SA S8
+CA H5 CT C5
+-  H8 -  -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT9765.Q3.J73.32 KQ83.98762.T6.KJ 4.AJT4.K54.QT754 J2.K5.AQ982.A986"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1D 1S 1NT
+AP
+[Play "E"]
+C5 C8 C2 CJ
+D4 D2 DJ DT
+HA H5 H3 H9
+H4 HK HQ H2
+S4 SJ SA S3
+C4 S2 S9 SQ
+D5 D8 D3 D6
+-  DA D7 -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:.J854.KQ94.AKT62 QJ432.93.T652.74 AK8.AKQT6.J7.J98 T9765.72.A83.Q53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 3H =1= Pass 4NT
+Pass 5C Pass 6H
+AP
+[Note "1:Alerted"]
+[Play "S"]
+ST H4 S4 S8
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Fleisher"]
+[North "Lev"]
+[East "Chip Martel"]
+[South "Blanchard"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.T962.AK75.QT53 K9543.J43.Q982.6 8762.Q87.J64.J72 QJT.AK5.T3.AK984"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1D Pass Pass X
+Pass 1S Pass 2C
+Pass 2D Pass 2S
+Pass 2NT Pass 3NT
+Pass 4S AP
+[Play "E"]
+S2 ST SA S3
+HQ HA H6 HJ
+D4 DT DK D2
+H8 HK HT H3
+C2 CA C3 C6
+C7 CK C5 H4
+D6 D3 DA D8
+H7 H5 H9 S4
+DJ C4 D5 DQ
+S6 SJ D7 D9
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T9.KJ983.AQ8.KQ9 QJ.QT762.92.6532 AK854.54.KJ.JT74 7632.A.T76543.A8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1S Pass 2H
+Pass 2S Pass 3NT
+AP
+[Play "N"]
+C5 C4 CA CQ
+C6 CJ C8 C9
+H2 H4 HA H3
+SJ SA S6 ST
+C2 C7 D3 CK
+SQ SK S2 S9
+H6 S8 S3 H8
+-  H5 D4 HK
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J94.76.AQ85.T932 QT.T32.KT942.KJ8 K876.AKQ9.J6.765 A532.J854.73.AQ4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+1NT AP
+[Play "S"]
+H4 H6 HT HK
+C4 CT CJ C7
+H5 H7 H3 HA
+CQ C2 CK C6
+H8 S4 H2 HQ
+CA C3 C8 C5
+HJ D5 D4 H9
+S2 S9 ST SK
+D7 D8 DK DJ
+S3 SJ SQ S6
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:72.4.KQ864.AKQT3 98543.QJ83.JT.84 AKJT6.K65.95.752 Q.AT972.A732.J96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2C Pass 2NT
+Pass 3NT AP
+[Play "S"]
+H7 H4 HJ HK
+SQ S2 S3 SA
+C6 CA C4 C5
+C9 CK C8 C2
+-  CQ -  -
+*
+[Description "#"]
+[Stage "Session 3 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "J Lall"]
+[North "Katz"]
+[East "Bramley"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:53.QT432.K3.T862 JT.AK76.QJ52.J94 8764..9874.AK753 AKQ92.J985.AT6.Q"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "W"]
+Pass 1D 2C 2S
+5C X AP
+[Play "S"]
+SK S3 ST S7
+CQ C2 C4 CA
+S9 S5 SJ S8
+H5 H2 HK C3
+D6 DK D2 D9
+H8 H3 H7 C5
+SQ D3 D5 S6
+SA CT CJ S4
+H9 C6 C9 CK
+DT H4 DJ D8
+-  -  DQ -
+*
+[Description "#"]
+[Stage "Session 3 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Rodwell"]
+[North "Versace"]
+[East "Ekeblad"]
+[South "Guibilo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.952.KT973.T7652 AQ87.K87.AQ6.QJ4 42.AQJ6.J42.AK98 KJT9653.T43.85.3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "11"]
+[Auction "S"]
+2S Pass 2NT X
+3S =1= 4D 4S Pass
+Pass 5C X AP
+[Note "1:alerted"]
+[Play "N"]
+S8 S2 SK C2
+C4 C8 C3 C5
+DQ D2 D5 DT
+DA D4 D8 D3
+D6 DJ S3 DK
+H7 HQ H3 H2
+S7 S4 SJ C6
+H8 HJ H4 H5
+HK HA HT H9
+*
+[Description "#"]
+[Stage "Session 3 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Fredin"]
+[North "Madala"]
+[East "Mike Moss"]
+[South "Sementa"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AKQ853.KT.Q9.QT5 64.A64.J85.KJ632 9.QJ832.AK432.98 JT72.975.T76.A74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+2C =1= Pass 2D Pass
+2S Pass 2NT Pass
+3S Pass 3NT AP
+[Note "1:5+ hearts and a minor, 10-15"]
+[Play "N"]
+C2 C8 CA C5
+CJ C9 C7 CT
+CK D2 C4 CQ
+C3 S9 H5 -
+*
+[Description "#"]
+[Stage "Session 3 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "B Levin"]
+[North "Hamman"]
+[East "S Weinstein"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ95.K.765.JT872 K84.AQ76.QJ.K954 J7.J43.AK943.AQ6 T632.T9852.T82.3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3HX"]
+[Result "7"]
+[Auction "N"]
+1NT =1= Pass 2D =2= Pass
+2H Pass Pass X
+3H X AP
+[Note "1:14-16"]
+[Note "2:trfr"]
+[Play "E"]
+DK D2 D7 DJ
+H3 HT HK HA
+DA D8 D6 DQ
+SJ S2 S5 SK
+H4 H2 C7 HQ
+CA C3 C2 CK
+HJ H5 D5 H6
+S7 -  -  -
+*
+[Description "#"]
+[Stage "Session 3 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Fantoni"]
+[North "Casen"]
+[East "Eidi"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.T962.AK75.QT53 K9543.J43.Q982.6 8762.Q87.J64.J72 QJT.AK5.T3.AK984"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1D Pass Pass X
+Pass 1S Pass 2S
+Pass 4S AP
+[Play "E"]
+D4 D3 DK D2
+DJ DT DA D8
+D6 C4 D5 D9
+S2 SJ SA S3
+-  -  D7 DQ
+*
+[Description "#"]
+[Stage "Session 3 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+% PBN created by BFC s4t1.lin P
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q5.9532.J82.AKQ3 KT98.K86.A53.J52 7632.AT7.KQT4.87 AJ4.QJ4.976.T964"]
+[Scoring "IMP;Cross"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Auction "N"]
+AP
+[Stage "Session 4 Table 1"]
+[HomeTeam "Team 1"]
+[VisitTeam "Team 2"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AK873.7642.AQ.T2 J9.KT98.T763.A83 T62.AJ3.2.KQJ954 Q54.Q5.KJ9854.76"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1C 1D 1S 2D
+X Pass 4S AP
+[Play "N"]
+D6 D2 DK DA
+S9 S2 S4 SA
+SJ S6 S5 SK
+D3 H3 D4 DQ
+CA C4 C6 CT
+HT HA H5 H2
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Verhees"]
+[North "Grue"]
+[East "Rogoff"]
+[South "Cheek"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT7.KQ3.84.KQ862 K53.J9.QJ96532.T J42.T85.AK7.A954 Q986.A7642.T.J73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT 3D 3NT
+AP
+[Play "N"]
+D6 DA DT D4
+CT CA C3 C2
+H9 H5 H2 HK
+DJ C4 C7 CK
+D5 C9 CJ CQ
+S5 C5 H7 C8
+D3 H8 S6 C6
+DQ DK H4 D8
+S3 S2 S8 SA
+SK S4 S9 S7
+D9 D7 H6 -
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT9.986.AJT65.J5 QJ876542.QT3.3.3 3.AK742.87.98642 A.J5.KQ942.AKQT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 4S AP
+[Play "E"]
+HA H5 H9 H3
+D8 D2 D5 D3
+C9 CA C5 C3
+C2 CK CJ HT
+C4 CQ ST SJ
+S3 SA S9 S2
+-  CT H6 HQ
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ85.J872.832.43 J.AKQT.JT9654.KT T2.9543.AQ7.J765 A97643.6.K.AQ982"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1D =1= Pass 1S Pass
+2D Pass 3C Pass
+3NT AP
+[Note "1:can be short"]
+[Play "E"]
+H5 H6 HJ HA
+DA DK D2 D4
+S2 S3 SQ SJ
+H3 S4 H8 HK
+DQ -  -  DJ
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Bertens"]
+[North "Wladlow"]
+[East "Bakkerens"]
+[South "Elinescu"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K.853.QJ963.AT92 J853.K64.A72.K83 QT97.QT92.5.J764 A642.AJ7.KT84.Q5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT =1= Pass 3NT
+AP
+[Note "1:14-16"]
+[Play "W"]
+D6 D2 D5 D8
+SK S3 S7 S2
+DQ DA C4 D4
+H8 S5 ST S4
+H5 H4 H2 HJ
+H3 HK H9 H7
+CA C3 C6 CQ
+C2 CK C7 C5
+D3 H6 HT HA
+D9 D7 CJ DK
+C9 S8 -  SA
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AK2.J.KT83.AJ973 QJ863.T7632.5.T2 T95.Q54.Q94.K865 74.AK98.AJ762.Q4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "2"]
+[Auction "S"]
+1D 1NT 2C =1= AP
+[Note "1:Majors"]
+[Play "E"]
+C6 CQ CA -
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65432.Q765.AJ9. 9.AK42.875.KJ874 KJ.J.K6432.AQ952 QT87.T983.QT.T63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S X 2C =1= Pass
+2S Pass 4S AP
+[Note "1:diamonds"]
+[Play "N"]
+HA HJ H3 H6
+HK SJ H8 H5
+C4 CA C3 H7
+C7 C2 CT S2
+S9 SK S7 S3
+C8 C5 C6 S4
+H2 D2 S8 SA
+H4 D3 H9 HQ
+D7 D4 DT DA
+D5 DK DQ DJ
+CJ C9 HT S5
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Kaminsky"]
+[North "Ron Smith"]
+[East "Levitt"]
+[South "Jason Feldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:987543.T2.Q875.7 .A8754.92.QJ8643 AJT2.3.KT643.A52 KQ6.KQJ96.AJ.KT9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "11"]
+[Auction "N"]
+4C =1= Pass 4H Pass
+Pass X 5C Pass
+Pass X AP
+[Note "1:clubs or clubs + another"]
+[Play "E"]
+H3 HK H2 H5
+CA C9 C7 C3
+D4 DA D5 D2
+C2 CK S3 C4
+C5 CT S4 CQ
+S2 S6 S5 CJ
+D3 HQ HT H4
+ST H6 S7 HA
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:542.A982.AT3.KQ6 T7.QT63.K765.A72 KJ9.J74.J4.JT843 AQ863.K5.Q982.95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2D Pass 2S
+AP
+[Play "W"]
+CK CA C8 C5
+S2 ST SJ SQ
+S4 S7 S9 SA
+S5 C2 SK S8
+CQ C7 CJ C9
+C6 H3 CT S3
+D3 DK D4 D9
+DT D5 DJ D2
+H2 D6 C4 S6
+DA D7 C3 D8
+HA H6 H4 H5
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT93.KT8.A74.T42 KQJ64.A.JT86.Q93 2.J7653.532.8765 875.Q942.KQ9.AKJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1NT Pass 2H Pass
+2S Pass 3NT AP
+[Play "W"]
+C4 C3 C6 CK
+S3 SK S2 S5
+DA D6 D2 DQ
+H8 HA H3 H2
+D4 D8 D3 DK
+S9 SQ C5 S7
+C2 C9 C7 CA
+SA S4 D5 S8
+HK DT H5 H4
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Compton"]
+[North "Casen"]
+[East "Larsen"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:842.753.75.K9875 KQ.AJ84.J943.QJ3 AT9.T9.AKQT82.AT J7653.KQ62.6.642"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 1NT 2S
+Pass Pass 3D AP
+[Play "S"]
+S3 S2 SQ S9
+S5 S4 SK SA
+D6 D5 D3 DA
+C6 CK C3 CT
+H2 D7 D4 DT
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KT6542.8.K87.A76 A93.AT.43.KJT983 8.KQ7652.AQ965.5 QJ7.J943.JT2.Q42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Auction "N"]
+1C 1H Pass 1S
+2C 2D 3C AP
+[Play "E"]
+S8 SQ S6 S3
+HQ H3 H8 HT
+H7 H4 C7 HA
+DQ D2 D7 D4
+DA DT D8 D3
+D9 DJ DK CJ
+C5 C2 CA C8
+-  -  C6 -
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QJ63.92.J952.K62 85.A73.KT76.JT83 AT72.T8654.Q8.Q5 K94.KQJ.A43.A974"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 2S
+Pass 3C Pass 3NT
+AP
+[Play "W"]
+S3 S5 SA S4
+SJ S8 S2 S9
+S6 H3 ST SK
+H2 HA H4 HQ
+C2 CJ CQ CA
+C6 CT C5 C4
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Fredin"]
+[North "Kranyak"]
+[East "Mike Moss"]
+[South "Wolpert"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q3.A932.AJ52.Q65 KJ9752.K64.86.KT A84.QT8.Q93.8742 T6.J75.KT74.AJ93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+Pass 1D 1S 1NT
+AP
+[Play "S"]
+ST SQ SK S4
+S6 S3 SJ SA
+H5 H2 HK HT
+C3 D2 S9 S8
+D4 D5 S2 C7
+H7 DJ S5 D9
+HJ C5 S7 C4
+D7 DA D6 D3
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J8.JT632.952.A63 Q95.K54.T74.KQT9 A643.AQ7.K86.J72 KT72.98.AQJ3.854"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT AP
+[Play "N"]
+CK C2 C4 CA
+H5 HQ H9 H3
+SQ S3 S2 SJ
+S9 SA S7 S8
+S5 S4 ST C6
+D7 S6 SK C3
+HK HA H8 HT
+H4 H7 D3 HJ
+C9 D6 C5 H6
+D4 D8 C8 H2
+DT DK DA D2
+CT C7 DQ D5
+CQ CJ DJ D9
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A5.T64.KQ852.K85 T9874.83.AJ3.Q42 K3.AKJ9.T976.973 QJ62.Q752.4.AJT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1C 1D
+1S 2S =1= X Pass
+Pass 3D Pass Pass
+3S AP
+[Note "1:alerted"]
+[Play "E"]
+HK H2 H4 H8
+C9 CJ CK C2
+HA H5 H6 H3
+C7 C6 C8 CQ
+SK S2 S5 S4
+C3 CT C5 C4
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Elinescu"]
+[North "Lev"]
+[East "Wladlow"]
+[South "Blanchard"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J9632..JT53.J654 QT8.KQ74.K6.Q832 K7.T8532.A982.K7 A54.AJ96.Q74.AT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "W"]
+D3 D6 DA D4
+DT DK D2 D7
+C4 CQ CK CA
+S3 H4 H2 HJ
+CJ C2 C7 CT
+C5 C3 H3 C9
+D5 S8 D9 DQ
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KT53.J75.53.QT82 J98.98642.K4.754 A7.AK3.A982.AJ63 Q642.QT.QJT76.K9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass Pass Pass 1C
+1D X 2D 3NT
+AP
+[Play "S"]
+DQ D3 D4 D2
+D6 D5 DK D9
+HT H5 H4 HA
+S2 SK S8 S7
+CK CT C4 C3
+DJ S3 H6 DA
+C9 C2 C5 CJ
+S4 S5 S9 SA
+S6 CQ C7 C6
+D7 C8 SJ CA
+DT ST H2 D8
+SQ H7 H8 H3
+HQ HJ H9 HK
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:T764.QJ53.JT.972 K8532.A94.AQ84.Q AQ9.K.K3.KJT8654 J.T8762.97652.A3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1S 2C X
+3C 3D 3NT AP
+[Play "S"]
+D5 DT DA D3
+D2 DJ DQ DK
+CA C2 CQ CK
+D9 S4 D4 S9
+D7 H3 D8 HK
+H2 H5 HA SQ
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Madala"]
+[North "Helness"]
+[East "Sementa"]
+[South "Helgemo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ74.AQ54.A64.KQ T8.9873.732.AJT3 952.KJT.KQJ985.7 AJ63.62.T.986542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "12"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2D Pass 4C
+Pass 4D =1= Pass 5D
+AP
+[Note "1:1 or 4 Key Cards"]
+[Play "S"]
+SA S4 S8 S2
+H6 H4 H3 -
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AK7632.Q84.32.K9 .76532.KQ5.Q8642 QJ95.AK.T974.T73 T84.JT9.AJ86.AJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "E"]
+Pass 1D 1S X
+3D Pass 4S 4NT
+X 5C Pass Pass
+X AP
+[Play "W"]
+SA C2 SQ S4
+H4 H2 HK H9
+CK C4 C3 C5
+C9 C6 C7 CA
+D3 DK D4 D6
+H8 H3 HA HT
+S2 C8 SJ S8
+-  H5 -  -
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQ975.A72.T4.AT5 A8.T3.QJ63.KQ643 432.KJ65.K8.J972 JT6.Q984.A9752.8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "11"]
+[Auction "S"]
+Pass 1S Pass 2S
+Pass Pass 2NT Pass
+3D AP
+[Play "W"]
+D4 DQ DK DA
+CT CK C2 C8
+C5 C4 C7 D2
+DT DJ D8 D5
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Hampson"]
+[North "Helness"]
+[East "Greco"]
+[South "Helgemo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A95.A5.T764.KT86 KT63.J4.AK9852.9 QJ72.T2.Q3.AJ754 84.KQ98763.J.Q32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+1C 1D 2H X
+Pass Pass 3C 3H
+Pass 4H AP
+[Play "W"]
+C8 C9 CA C2
+HA H4 H2 H3
+H5 HJ HT HQ
+D4 DA D3 DJ
+-  DK DQ C3
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T8.Q9754.J3.T986 AQJ73.AKT2.A4.A5 652.3.9876.KJ742 K94.J86.KQT52.Q3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "7S"]
+[Result "13"]
+[Auction "N"]
+2C =1= Pass 3D Pass
+3S Pass 4C =2= Pass
+4NT Pass 5D Pass
+5NT Pass 7S AP
+[Note "1:Fist in the Air"]
+[Note "2:Alerted"]
+[Play "E"]
+D7 D2 D3 DA
+S2 S4 S8 SA
+S5 SK ST S3
+S6 S9 H5 SQ
+C7 H6 C6 SJ
+CJ HJ C8 S7
+C4 C3 CT CA
+D6 DK DJ D4
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T6.KT86.A742.Q65 AK92.5.Q63.AJ873 QJ74.AQ74.KT5.K4 853.J932.J98.T92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Auction "E"]
+1NT Pass Pass 2D =1=
+Pass 2H Pass 2S
+Pass Pass X Pass
+3H AP
+[Note "1:Alerted"]
+[Play "S"]
+S3 S6 SK S4
+C9 CQ C3 C4
+H2 H6 H5 HA
+H3 H8 C8 HQ
+S5 ST SA S7
+C2 C5 CA CK
+CT C6 C7 H7
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AKQ982.T87.2.765 3.K532.T9876.A94 J754.Q964.K43.JT T6.AJ.AQJ5.KQ832"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "12"]
+[Auction "S"]
+1NT 2S X 3S
+Pass Pass X Pass
+4NT Pass 5D AP
+[Play "E"]
+S4 S6 SQ S3
+S5 ST SK DT
+-  -  -  D9
+*
+[Description "#"]
+[Stage "Session 4 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Fallenius"]
+[North "Levin"]
+[East "Schwartz"]
+[South "S Weinstein"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AT7.KQ3.84.KQ862 K53.J9.QJ96532.T J42.T85.AK7.A954 Q986.A7642.T.J73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass 1NT =1= Pass 3NT
+AP
+[Note "1:13+-16"]
+[Play "N"]
+S3 S4 S8 ST
+CT CA C3 C2
+H9 H5 H4 HK
+D5 C5 C7 CK
+D2 C9 CJ CQ
+D3 C4 H7 C8
+D6 S2 H2 C6
+D9 DA DT D8
+DJ DK H6 D4
+HJ H8 HA H3
+-  -  SQ -
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Fleisher"]
+[North "Ekeblad"]
+[East "Martel"]
+[South "Rodwell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K.853.QJ963.AT92 J853.K64.A72.K83 QT97.QT92.5.J764 A642.AJ7.KT84.Q5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2S AP
+[Play "E"]
+HT H7 H8 HK
+C7 CQ CA C3
+C4 C5 CT CK
+D5 D8 D9 D2
+S7 D4 DJ DA
+H2 HA H5 H6
+S9 SA SK S3
+-  S4 -  -
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Nystrom"]
+[North "Versace"]
+[East "Bertheau"]
+[South "Giubilo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:987543.T2.Q875.7 .A8754.92.QJ8643 AJT2.3.KT643.A52 KQ6.KQJ96.AJ.KT9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "12"]
+[Auction "N"]
+1H =1= 2NT =2= 3S Pass
+4S X Pass 5H
+X =3= AP
+[Note "1:4+ could have longer sud"]
+[Note "2:limit or better"]
+[Note "3:long pause"]
+[Play "E"]
+SA S6 -  -
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Henner-Welland"]
+[North "Pratap"]
+[East "Rosenberg"]
+[South "Landen"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:842.753.75.K9875 KQ.AJ84.J943.QJ3 AT9.T9.AKQT82.AT J7653.KQ62.6.642"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1D =1= 1NT Pass =2=
+Pass Pass
+[Note "1:not what Bertheau was expecting"]
+[Note "2:long pause"]
+[Play "S"]
+S3 S4 SQ SA
+D6 D5 D3 DA
+C2 C5 C3 CA
+C4 CK CJ CT
+-  D7 -  -
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+{Pratap is Pratap Rajadhyaksha}
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "McGann"]
+[North "Greco"]
+[East "Hanlon"]
+[South "Hampson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q3.A932.AJ52.Q65 KJ9752.K64.86.KT A84.QT8.Q93.8742 T6.J75.KT74.AJ93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+Pass 1D 1S 1NT
+AP
+[Play "S"]
+ST SQ SK S4
+S6 S3 SJ SA
+D4 DJ D6 D3
+H5 H2 HK H8
+H7 D2 S9 S8
+D7 D5 S2 C4
+C3 H3 S5 C7
+HJ HA S7 C8
+C9 -  CK C2
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Justin Lall"]
+[North "Sorensen"]
+[East "Bramley"]
+[South "Jens Auken"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:J9632..JT53.J654 QT8.KQ74.K6.Q832 K7.T8532.A982.K7 A54.AJ96.Q74.AT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1H 1NT Pass 3NT
+AP
+[Play "W"]
+S3 SQ SK SA
+S2 HK H8 H9
+C4 CQ CK CA
+CJ C2 C7 C9
+DT DK DA D4
+D3 D6 D2 DQ
+C5 C3 H3 CT
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Zhao"]
+[North "Hamman"]
+[East "Fu Zhong"]
+[South "Zia"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ74.AQ54.A64.KQ T8.9873.732.AJT3 952.KJT.KQJ985.7 AJ63.62.T.986542"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5NT"]
+[Result "11"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 2D Pass 4NT
+Pass 5C =1= Pass 5S
+Pass 5NT AP
+[Note "1:1 or 4"]
+[Play "N"]
+ST -  -  -
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Kranyak"]
+[North "Krekorian"]
+[East "Wolpert"]
+[South "Diamond"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A95.A5.T764.KT86 KT63.J4.AK9852.9 QJ72.T2.Q3.AJ754 84.KQ98763.J.Q32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1S 3H
+AP
+[Play "W"]
+C6 C9 CA C2
+HA H4 H2 H7
+H5 HJ HT HK
+S5 D2 C4 HQ
+D4 D5 C5 H9
+S9 S3 S2 H8
+D6 DK D3 DJ
+SA S6 S7 S4
+*
+[Description "#"]
+[Stage "Session 4 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+% PBN created by BFC s5t1.lin P
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQJ85432.92.T6.4 AT9.AJ.AQ53.QJ63 .Q764.982.AKT852 76.KT853.KJ74.97"]
+[Scoring "IMP;Cross"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "11"]
+[Auction "N"]
+1D 2C X 4S
+X Pass 5D Pass
+Pass X AP
+[Play "E"]
+CA C7 C4 C3
+CK C9 H2 C6
+H4 H3 H9 HJ
+D2 D4 D6 DQ
+D8 DJ DT D3
+H6 H5 S8 HA
+D9 DK S2 D5
+H7 HK S3 S9
+*
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "Team 1"]
+[VisitTeam "Team 2"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ76543.3.Q8.Q74 KT9.K76.JT7.J953 8.AT985.K942.AKT J2.QJ42.A653.862"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 3S Pass
+3NT AP
+[Play "S"]
+C6 C4 CJ CK
+SJ SQ SK S8
+HJ H3 H6 H9
+H2 S3 HK HA
+D3 DQ D7 D4
+D5 D8 DJ D2
+HQ S4 H7 HT
+DA -  -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "Passell"]
+[North "Madala"]
+[East "Casen"]
+[South "Sementa"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K8762.KT.KJ98.43 Q954.J6.4.KQJ876 AJT3.A932.T73.AT .Q8754.AQ652.952"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 3C X
+3D 4S Pass Pass
+5C Pass Pass X
+AP
+[Play "E"]
+SA C2 S8 S4
+D3 DA D8 D4
+D7 D2 D9 C6
+ST C5 S7 S5
+DT D5 DJ C7
+S3 C9 S2 S9
+SJ D6 DK H6
+H3 DQ SK SQ
+H2 H4 HK HJ
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQJ95.3.JT83.963 .94.754.AKQJT872 K76432.KT86.962. T8.AQJ752.AKQ.54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[Auction "W"]
+Pass 5C AP
+[Play "E"]
+H8 HA H3 H4
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T98432.7.A53.AJ4 .K93.QJ962.KQ983 AK76.AQJT865.4.5 QJ5.42.KT87.T762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1D 4H AP
+[Play "S"]
+DK DA D6 D4
+H2 H7 H3 HQ
+H4 D3 H9 HA
+S5 S2 -  SA
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Ron Smith"]
+[North "Cohler"]
+[East "Jason Feldman"]
+[South "H Weinstein"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K5.Q93.Q5.AKQJT8 AQ876432.A762.K. 9.84.J986.965432 JT.KJT5.AT7432.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C 1S
+Pass 2D 3C 3S
+5C 5S AP
+[Play "E"]
+H8 HT HQ HA
+S9 ST S5 SA
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J86.AJ.J63.98532 K.KQ753.72.AKT74 A9.T8642.A954.QJ QT75432.9.KQT8.6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+3S Pass 4S AP
+[Play "W"]
+HA H3 H8 H9
+D3 D2 DA D8
+D6 D7 D4 DK
+S6 SK SA S5
+HJ H5 H2 S7
+S8 C4 S9 SQ
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J9863.J985.KQ9.J Q.K432.T865.AT84 AK75.AQ.432.7652 T42.T76.AJ7.KQ93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 2S AP
+[Play "N"]
+H3 HQ H6 H5
+CA C2 C3 CJ
+SQ SA S2 S3
+D8 D2 DA D9
+D5 S5 S4 S6
+H2 HA H7 H9
+D6 D3 D7 DK
+H4 S7 HT H8
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "Zia"]
+[North "Compton"]
+[East "Hamman"]
+[South "Larsen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A86.643.QJT86.A2 KJT73.K75.93.KQT 54.JT98.AK72.J97 Q92.AQ2.54.86543"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 2S AP
+[Play "E"]
+DK D4 DQ D3
+HJ H2 H3 HK
+S4 S9 SA S3
+C9 C3 C2 CK
+S5 S2 S6 ST
+D2 SQ S8 S7
+-  C4 CA -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AQ4.74.QJT2.AJ72 KT862.KQ3.K8.964 .AT982.A654.KT83 J9753.J65.973.Q5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "11"]
+[Auction "E"]
+1H Pass 2C Pass
+3S =1= X XX Pass
+4C Pass 4S Pass
+4NT Pass 5H Pass
+6C AP
+[Note "1:SPL"]
+[Play "N"]
+D8 D4 D3 DQ
+HQ HA H5 H4
+HK H2 H6 H7
+S8 H8 S3 SQ
+C4 C3 C5 CA
+C6 C8 CQ CJ
+DK DA D7 DT
+-  CK -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K86.J87.KT53.JT8 A42.K964.72.K942 JT97.AQT53.Q6.AQ Q53.2.AJ984.7653"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3DX"]
+[Result "5"]
+[Auction "S"]
+2D Pass 3D X
+AP
+[Play "W"]
+CJ C2 CQ C5
+SK S2 SJ SQ
+S8 SA S7 S5
+S6 S4 S9 S3
+C8 C4 CA C6
+DT D2 D6 D4
+CT C9 DQ C3
+H7 H4 HA H2
+-  -  ST C7
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Verhees"]
+[North "Woolsey"]
+[East "Rogoff"]
+[South "Stewart"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.AK63.QJ52.9863 K92.85.98643.T54 A654.J974.A.KQJ7 JT873.QT2.KT7.A2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1H Pass 3D Pass
+3H Pass 4H AP
+[Play "N"]
+S2 SA S3 SQ
+C4 CK C2 C8
+S9 S4 S7 H3
+H5 H4 H2 HA
+D3 DA D7 D2
+SK S5 S8 H6
+H8 H7 HT HK
+C5 CQ CA C6
+-  -  HQ D5
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AQ752.QT84.K7.J3 83.AKJ72.A932.A5 964.9.Q854.T9762 KJT.653.JT6.KQ84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1NT Pass
+2H Pass 2S Pass
+3D Pass 3H Pass
+4H AP
+[Play "E"]
+CT C4 C3 CA
+H9 H3 H4 HK
+S9 ST SQ S8
+S4 SJ SA S3
+C2 CK CJ C5
+DQ DJ D7 D2
+D4 D6 DK DA
+C7 H5 H8 HA
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J5.62.QJ2.AQJ976 732.KQ9.T97.8532 K64.AJT75.K85.KT AQT98.843.A643.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "9"]
+[Auction "E"]
+1H 1S 2C 2S
+Pass Pass 3C Pass
+Pass 3S Pass Pass
+3NT Pass 4C AP
+[Play "N"]
+HK HA H3 H2
+HQ HJ H4 H6
+S7 S4 SQ SJ
+S3 S6 SA S5
+D7 D5 DA D2
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Hampson"]
+[North "Bertheau"]
+[East "Greco"]
+[South "Nystrom"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:76.KQT62.A98.AK5 QJT432.J4.T63.QT 9.953.KQJ5.J8432 AK85.A87.742.976"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Auction "S"]
+1D =1= 1H 2S Pass
+Pass X Pass 3H
+3S AP
+[Note "1:can be short"]
+[Play "E"]
+DK D2 D9 D3
+H3 HA H2 HJ
+S9 S5 S7 SQ
+C2 SA S6 S2
+C3 C9 CA CT
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J763.Q53.62.JT53 T8.J942.J983.AQ2 4.AK876.AK4.K964 AKQ952.T.QT75.87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1C 3S
+Pass Pass X AP
+[Play "W"]
+D6 D9 DK D5
+S7 S8 S4 SA
+S3 ST H6 SK
+S6 C2 H7 SQ
+HQ H2 H8 HT
+C3 CQ CK -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QJ9.K32.JT82.962 652.QJ84.K.AJT73 AK3.AT975.A96.K4 T874.6.Q7543.Q85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+1D =1= X Pass 1NT
+Pass 3NT AP
+[Note "1:can be short I think"]
+[Play "N"]
+CT CK C5 C6
+H4 H5 H6 HK
+HQ HA CQ H3
+HJ HT D7 H2
+CA C4 C8 C2
+CJ -  -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Jason Lall"]
+[North "Pratap"]
+[East "Bramley"]
+[South "Landen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ5.A2.J9732.Q3 42.QJ85.K85.A754 A83.643.A4.KT982 T976.KT97.QT6.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 3NT AP
+[Play "S"]
+H9 HA H5 H6
+C6 CQ CA C2
+H7 H2 HQ H3
+HK D2 HJ H4
+HT D3 H8 S3
+D6 D9 DK DA
+S6 S5 S2 SA
+S7 SJ S4 S8
+S9 SK D5 C8
+-  SQ -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:5.8.QT9864.AJT98 KQJ86.KJ73.J72.Q A.AQ6542.AK.K532 T97432.T9.53.764"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "13"]
+[Auction "S"]
+Pass Pass 1S X
+4S 4NT Pass 5S
+Pass 5NT Pass 6C
+AP
+[Play "S"]
+S3 S5 SJ SA
+C4 CA CQ C2
+C6 C8 S6 C3
+C7 C9 S8 C5
+D3 D4 D2 DA
+D5 D6 D7 DK
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:4.QT76.Q98.AT982 QT8.KJ.AK632.Q63 AJ7632.9.T54.J74 K95.A85432.J7.K5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1NT Pass 4D
+Pass 4H AP
+[Play "E"]
+C4 C5 C8 CQ
+D4 D7 D8 DA
+D5 DJ D9 DK
+DT CK DQ D2
+SA S5 S4 S8
+S2 SK H6 ST
+C7 H2 CA C3
+H9 H3 H7 HK
+S3 -  -  HJ
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Moss"]
+[North "Krekorian"]
+[East "Gitelman"]
+[South "Diamond"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:54.T987.AKJ6.AQ7 6.AKQ43.Q843.KJ9 QJT97.65.972.T65 AK832.J2.T5.8432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+1H Pass 1S X
+2D =1= Pass 2H AP
+[Note "1:bad for spades"]
+[Play "E"]
+H5 HJ HT H3
+C6 C2 C7 CJ
+H6 H2 H7 HA
+SQ S2 H8 HK
+C5 C3 H9 HQ
+S7 SA S4 S6
+-  SK S5 -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QT53.K72.83.JT86 AJ74.QJ865.T5.Q9 62.A93.Q976.AK73 K98.T4.AKJ42.542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT AP
+[Play "S"]
+D4 D3 DT DQ
+C2 C6 C9 CK
+C5 CJ CQ C3
+DA D8 D5 D6
+DK H2 H5 D7
+DJ C8 H6 D9
+D2 CT S7 H9
+S8 ST SJ S6
+S9 S3 SA S2
+-  -  S4 -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QJ7.KQ9872.K3.T6 6543.3.QT75.A873 982.4.AJ942.KQ42 AKT.AJT65.86.J95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Auction "S"]
+1H Pass 1S Pass
+2S Pass Pass X
+Pass 2NT Pass 3D
+AP
+[Play "S"]
+SK S7 S4 S8
+D8 D3 DQ DA
+HA H2 H3 H4
+SA SJ S3 S9
+D6 DK D5 D2
+C5 C6 CA C4
+ST SQ S6 S2
+H5 HK C3 C2
+-  H7 -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Justin Lall"]
+[North "Ron Smith"]
+[East "Bramley"]
+[South "Jason Feldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T765.AK7432.6.95 J9.T5.875.AKQJ63 AK84.J8.KT93.T82 Q32.Q96.AQJ42.74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+3H Pass 4H AP
+[Play "N"]
+CQ C2 C7 C9
+CA C8 C4 C5
+D8 DT DJ D6
+D5 D3 DA H2
+H5 H8 H6 HA
+HT HJ H9 HK
+D7 S4 HQ H3
+S9 SA S2 S5
+C3 DK D2 S6
+C6 D9 DQ H4
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J5.K832.A73.K764 A74.AQ94.982.J95 KQ93.765.JT6.QT3 T862.JT.KQ54.A82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1S Pass
+1NT AP
+[Play "E"]
+DJ DK DA D2
+DT DQ D7 D9
+H7 HT H2 H4
+H6 HJ H3 HQ
+D6 D4 D3 D8
+H5 -  -  HA
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK94.T7.J4.QJ983 QJT8762.4.7652.5 3.KQJ83.K83.KT76 5.A9652.AQT9.A42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1NT Pass
+2C Pass 2S Pass
+3C AP
+[Play "S"]
+S5 SA S2 S3
+CA C3 C5 CK
+HA H7 H4 H8
+H2 HT S6 H3
+C2 CQ S7 C6
+-  C8 -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT3.KQ5.JT4.JT54 J852.J83.83.AKQ9 96.AT742.K96.873 KQ74.96.AQ752.62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1S Pass
+2S Pass 2NT Pass
+3S =1= Pass 4S AP
+[Note "1:4 spades"]
+[Play "E"]
+C3 C2 CT CQ
+C7 C6 C4 CA
+C8 H6 C5 CK
+D6 DQ D4 D3
+D9 DA DT D8
+DK D2 DJ S2
+*
+[Description "#"]
+[Stage "Session 5/5 Table 1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "3"]
+[West "McGann"]
+[North "Fu Zhong"]
+[East "Hanlon"]
+[South "Zhao"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K8762.KT.KJ98.43 Q954.J6.4.KQJ876 AJT3.A932.T73.AT .Q8754.AQ652.952"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 3C X
+4NT =1= X 5C X
+AP
+[Note "1:Suggests !d lead"]
+[Play "E"]
+CA C2 C3 C8
+CT C5 C4 CK
+D3 DQ DK D4
+ST H4 S2 S9
+HA H5 HT H6
+SA C9 S7 S4
+D7 DA D8 HJ
+-  D2 D9 -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "6"]
+[West "Berkowitz"]
+[North "Versace"]
+[East "Pollack"]
+[South "Giubilo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K5.Q93.Q5.AKQJT8 AQ876432.A762.K. 9.84.J986.965432 JT.KJT5.AT7432.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "13"]
+[Auction "E"]
+Pass Pass 1C =1= 4S
+AP
+[Note "1:10-12 bal or strong"]
+[Play "E"]
+H8 HK H3 H6
+S9 ST S5 S6
+C3 SJ SK SA
+D6 DA D5 DK
+-  HJ -  -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "9"]
+[West "B Levin"]
+[North "Pszczola"]
+[East "S Weinstein"]
+[South "Vainkonis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A86.643.QJT86.A2 KJT73.K75.93.KQT 54.JT98.AK72.J97 Q92.AQ2.54.86543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+1S Pass 2S Pass
+Pass X XX 3D
+AP
+[Play "N"]
+D3 D2 D5 D8
+D9 DA D4 D6
+H5 HJ HA H3
+S3 S4 S9 S6
+CQ C7 C5 C2
+SK S5 S2 SA
+CT C9 C3 CA
+ST D7 SQ S8
+CK CJ C4 DJ
+HK -  -  H4
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "12"]
+[West "Zia"]
+[North "Grue"]
+[East "Hamman"]
+[South "Cheek"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q.AK63.QJ52.9863 K92.85.98643.T54 A654.J974.A.KQJ7 JT873.QT2.KT7.A2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass 2S Pass
+3H Pass 4H AP
+[Play "S"]
+SJ SQ SK SA
+S7 H3 S9 S5
+CA C3 C4 CK
+H2 HA H5 H4
+D7 D2 D6 DA
+HT HK H8 H7
+C2 C9 C5 CQ
+S3 H6 S2 S4
+-  DQ D3 S6
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "15"]
+[West "Elinescu"]
+[North "B Levin"]
+[East "Wladow"]
+[South "S Weinstein"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:76.KQT62.A98.AK5 QJT432.J4.T63.QT 9.953.KQJ5.J8432 AK85.A87.742.976"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1D =1= 1H 2H =2= 3D
+3S 4D Pass 4H
+AP
+[Note "1:Minimum 2"]
+[Note "2:6+ spades"]
+[Play "N"]
+CQ C2 C9 CA
+DT DK D7 D9
+H4 H3 H7 HK
+ST S9 SK S7
+CT C3 C6 CK
+SJ H5 S5 S6
+HJ H9 H8 HQ
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "18"]
+[West "Kranyak"]
+[North "Helness"]
+[East "Wolpert"]
+[South "Helgemo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ5.A2.J9732.Q3 42.QJ85.K85.A754 A83.643.A4.KT982 T976.KT97.QT6.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 3NT AP
+[Play "S"]
+H9 HA H8 H3
+C6 CQ CA C2
+H7 H2 HQ H4
+HK D2 H5 H6
+HT D3 HJ D4
+D6 D7 D8 DA
+S6 SQ S4 S8
+S9 S5 S2 SA
+ST SJ D5 S3
+S7 SK DK C8
+CJ C3 C4 CK
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "21"]
+[West "Kranyak"]
+[North "Rosenberg"]
+[East "Wolpert"]
+[South "Henner-Welland"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:54.T987.AKJ6.AQ7 6.AKQ43.Q843.KJ9 QJT97.65.972.T65 AK832.J2.T5.8432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+1H Pass 1S Pass
+2D Pass 2H AP
+[Play "E"]
+SQ SA S4 S6
+S7 SK S5 D3
+C5 C2 C7 CJ
+H5 HJ H7 H3
+H6 H2 H8 HQ
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "2007 Cavendish Pairs"]
+[Site ""]
+[Date "2007.00.00"]
+[Board "24"]
+[West "Verhees"]
+[North "Schwartz"]
+[East "Rogoff"]
+[South "Fallenius"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T765.AK7432.6.95 J9.T5.875.AKQJ63 AK84.J8.KT93.T82 Q32.Q96.AQJ42.74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+2H 3C 3H 3NT
+AP
+[Play "W"]
+H2 H5 HJ HQ
+C5 CA C2 C7
+C9 CK C8 C4
+S5 CQ CT D2
+S6 CJ D9 H6
+S7 C3 H8 H9
+-  C6 S4 -
+*
+[Description "#"]
+[Stage "Session 5/5 Table 2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+

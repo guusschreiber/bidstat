@@ -1,0 +1,1108 @@
+% PBN created by BFC fi02.lin P
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "1"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K93.K76.JT8.J852 J65.AQJ.Q764.Q76 AQT72.T93.K52.T3 84.8542.A93.AK94"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "N"]
+Pass 2S AP
+[Play "S"]
+CK C2 C7 C3
+H2 HK HA H3
+H4 H6 HQ H9
+H5 H7 HJ HT
+C4 C5 CQ CT
+C9 C8 C6 S2
+S4 S3 S6 SA
+S8 SK S5 ST
+D3 DJ D4 D2
+H8 S9 SJ SQ
+D9 DT DQ D5
+*
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "1"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:K93.K76.JT8.J852 J65.AQJ.Q764.Q76 AQT72.T93.K52.T3 84.8542.A93.AK94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Auction "N"]
+1C 1S X XX
+Pass Pass 2C 2S
+Pass Pass 3C AP
+[Play "E"]
+S7 S4 SK S6
+D5 D3 DJ D4
+ST S8 S9 S5
+SA H2 S3 SJ
+HT H4 H7 HQ
+C3 CA C2 C6
+CT C4 C5 CQ
+S2 CK C8 C7
+H3 H5 H6 HJ
+H9 H8 HK HA
+DK DA D8 DQ
+D2 C9 CJ D6
+SQ D9 DT D7
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "2"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AKT3.Q74.84.Q864 75.T982.J653.K73 864.KJ.AKQT.JT52 QJ92.A653.972.A9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "E"]
+1C X XX Pass
+Pass 1H X 2H
+Pass Pass X Pass
+2NT AP
+[Play "S"]
+H5 H4 H8 HJ
+C9 CQ CK C2
+HA H7 H2 HK
+H6 HQ H9 S4
+CA C4 C3 CJ
+H3 S3 HT DT
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "2"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AKT3.Q74.84.Q864 75.T982.J653.K73 864.KJ.AKQT.JT52 QJ92.A653.972.A9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2NT Pass
+3NT AP
+[Play "S"]
+S2 SA S5 S4
+CA C4 C3 CJ
+S9 ST S7 S6
+C9 C6 C7 CT
+H3 C8 CK C2
+HA H4 HT HK
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "3"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQJ86.K63.K93.75 94.T5.864.AQJT62 75.AQ72.AQ7.K843 KT32.J984.JT52.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1S 3C X
+Pass 3D Pass 3NT
+AP
+[Play "S"]
+C9 C5 CT C3
+H4 H3 H5 HA
+S2 SQ S4 S5
+D2 C7 CA C4
+H9 H6 HT HQ
+S3 SJ S9 S7
+H8 HK C6 H2
+-  SA C2 -
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "3"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQJ86.K63.K93.75 94.T5.864.AQJT62 75.AQ72.AQ7.K843 KT32.J984.JT52.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+2D Pass 2H Pass
+Pass 2S Pass 3NT
+AP
+[Play "S"]
+H8 H3 H5 HQ
+S3 SQ S4 S5
+D2 D3 D4 DQ
+S2 SJ S9 S7
+SK SA D6 C3
+ST S6 D8 C4
+C9 C5 CA C8
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "4"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQJ3.T53.Q74.KJ8 T8765.8742.T95.5 42.AK9.K82.AQ732 A9.QJ6.AJ63.T964"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+1C Pass 2C Pass
+2NT Pass 3NT AP
+[Play "N"]
+S5 S2 SA S3
+S6 S4 S9 SQ
+C5 C2 C4 CJ
+DT DK DA D4
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "4"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQJ3.T53.Q74.KJ8 T8765.8742.T95.5 42.AK9.K82.AQ732 A9.QJ6.AJ63.T964"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "S"]
+HQ H3 H8 HA
+S9 SK ST S4
+SA SQ S6 S2
+C6 CK C5 C2
+DA D4 D5 DK
+D3 DQ D9 D2
+C4 SJ S5 D8
+C9 CJ H4 C3
+CT C8 H2 CA
+D6 D7 H7 CQ
+H6 H5 DT H9
+HJ HT S7 HK
+DJ S3 S8 C7
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "5"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:97.QT9752.AK.753 KQ62.83.QT75.J42 AJ53.AJ.J6432.A6 T84.K64.98.KQT98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1NT Pass 4C
+Pass 4H AP
+[Play "S"]
+CK C3 C4 C6
+C9 C5 CJ CA
+ST S7 S6 S3
+CQ C7 C2 HJ
+H6 H2 H3 HA
+D8 DK D5 D2
+HK HQ H8 D3
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "5"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:97.QT9752.AK.753 KQ62.83.QT75.J42 AJ53.AJ.J6432.A6 T84.K64.98.KQT98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 2H Pass 4H
+AP
+[Play "S"]
+CK C3 C2 CA
+C8 C5 CJ C6
+H4 H2 H8 HA
+D8 DK D7 D4
+C9 C7 C4 HJ
+D9 DA D5 D3
+HK HQ H3 S3
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "6"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K.862.KJ987542.5 Q5.AKQT743.T.K43 AJ9843..6.QT8762 T762.J95.AQ3.AJ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+2S Pass Pass 3H
+Pass 3S Pass 4H
+AP
+[Play "E"]
+C7 C9 C5 C4
+S3 HJ H2 H3
+S4 H9 H6 H4
+C2 H5 H8 HQ
+C8 CA SK C3
+C6 CJ D7 CK
+D6 D3 D2 DT
+SJ S2 D4 S5
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "6"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K.862.KJ987542.5 Q5.AKQT743.T.K43 AJ9843..6.QT8762 T762.J95.AQ3.AJ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "10"]
+[Auction "E"]
+2S Pass Pass 4H
+Pass 5H AP
+[Play "E"]
+S8 S2 SK S5
+S3 H5 H6 HA
+SA S6 C5 SQ
+C7 C9 H2 C4
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "7"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQ4.976.Q9854.K6 AJ98763.J.A6.J82 5.AK532.732.AQT4 T2.QT84.KJT.9753"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 3S X
+Pass 3NT AP
+[Play "N"]
+S7 S5 ST S4
+SA D2 S2 SK
+SJ D3 C3 SQ
+HJ HA H4 H6
+C8 HK H8 H7
+CJ C4 C5 CK
+C2 CT C7 C6
+D6 CQ C9 D4
+S3 CA HT D5
+-  D7 -  -
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "7"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KQ4.976.Q9854.K6 AJ98763.J.A6.J82 5.AK532.732.AQT4 T2.QT84.KJT.9753"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1S 2H
+Pass 3H AP
+[Play "S"]
+ST SK SA S5
+S2 SQ SJ D3
+H4 H6 HJ HA
+H8 H7 S3 HK
+C3 CK C2 C4
+C5 C6 C8 CA
+C7 S4 CJ CQ
+C9 D4 S6 CT
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "8"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:973.984.AT73.J96 AQT8.6.K864.K543 J5.AKJT75.J92.A2 K642.Q32.Q5.QT87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 1H X
+2H 2S 3H Pass
+Pass 3S AP
+[Play "E"]
+HA H2 H9 H6
+CA C7 C9 C4
+C2 C8 CJ CK
+S5 S2 S3 SA
+SJ SK S9 S8
+H5 S4 S7 SQ
+D2 DQ DA D6
+H7 CT C6 C5
+HT H3 H8 ST
+HJ CQ H4 C3
+D9 S6 D3 D4
+DJ D5 D7 DK
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "8"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:973.984.AT73.J96 AQT8.6.K864.K543 J5.AKJT75.J92.A2 K642.Q32.Q5.QT87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Auction "W"]
+Pass 1D 1H 1S
+Pass 2S 3H Pass
+Pass 3S AP
+[Play "W"]
+H9 H6 HA H3
+H4 C3 HT HQ
+H8 S8 H5 H2
+DA D4 D2 DQ
+CJ C4 C2 CQ
+S3 SA S5 S4
+S7 SQ SJ S2
+S9 ST H7 S6
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "9"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T62..AQJ8543.A98 KJ95.QT872.92.T2 AQ4.6.KT76.QJ643 873.AKJ9543..K75"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6HX"]
+[Result "10"]
+[Auction "N"]
+Pass 1C 4H 5D
+6H Pass Pass X
+AP
+[Play "W"]
+CA C2 C6 C5
+S2 SJ SQ S7
+C9 CT CQ CK
+C8 H7 C3 C7
+D8 D2 D6 H9
+D3 HQ H6 H5
+DQ D9 D7 HK
+S6 S9 SA S3
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "9"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T62..AQJ8543.A98 KJ95.QT872.92.T2 AQ4.6.KT76.QJ643 873.AKJ9543..K75"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6HX"]
+[Result "8"]
+[Auction "N"]
+2D Pass 4H 5D
+Pass Pass 5H Pass
+Pass 6D 6H X
+AP
+[Play "W"]
+DA D2 DT H4
+D3 HQ H6 HJ
+D5 D9 D7 H9
+S6 SK SA S8
+CA C2 CQ CK
+C9 CT CJ C5
+C8 H2 C4 C7
+D4 H7 C3 HA
+S2 SJ SQ S7
+ST S5 S4 S3
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "10"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK.AJ8.J53.KT654 T97543.5.Q.A8732 J6.KQT2.A982.QJ9 Q82.97643.KT764."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1C Pass 2C Pass
+2D Pass 2S Pass
+2NT Pass 3C Pass
+3NT AP
+[Play "S"]
+D4 D3 DQ DA
+H6 C4 CA CJ
+-  -  S9 -
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "10"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK.AJ8.J53.KT654 T97543.5.Q.A8732 J6.KQT2.A982.QJ9 Q82.97643.KT764."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1D Pass 2C Pass
+2H Pass 2S Pass
+2NT Pass 3NT AP
+[Play "S"]
+H7 HJ H5 H2
+D6 C4 C2 CQ
+H3 C5 CA CJ
+S8 SA ST S6
+D4 DJ DQ DA
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "11"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A8.AT.AKQT94.953 T2.KQJ875.52.K62 Q9743.9.J87.AT87 KJ65.6432.63.QJ4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "9"]
+[Auction "S"]
+Pass 2C 2H Pass
+3H 3NT Pass 4H
+X Pass Pass 4NT
+AP
+[Play "N"]
+HK H9 H6 HT
+H5 S3 H2 HA
+D2 D7 D3 DQ
+D5 D8 D6 DK
+S2 DJ S6 DA
+C6 S4 H4 DT
+H8 C7 S5 D9
+HJ C8 C4 D4
+C2 CA CJ C3
+CK CT CQ C5
+HQ S7 H3 S8
+H7 S9 SJ C9
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "11"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A8.AT.AKQT94.953 T2.KQJ875.52.K62 Q9743.9.J87.AT87 KJ65.6432.63.QJ4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1D 3H Pass
+Pass 3NT AP
+[Play "N"]
+HK H9 H3 HA
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "12"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT3.A652.A974.JT A7.K8.J6.AKQ9863 J8642.Q743.T52.4 K95.JT9.KQ83.752"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+1C 3NT AP
+[Play "E"]
+S8 S5 S3 SA
+D5 D3 D4 DJ
+D2 DK DA D6
+-  -  SQ -
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "12"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT3.A652.A974.JT A7.K8.J6.AKQ9863 J8642.Q743.T52.4 K95.JT9.KQ83.752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "12"]
+[Auction "W"]
+Pass 1C 1S 1NT
+2C 3NT Pass Pass
+X Pass 4S Pass
+Pass 4NT AP
+[Play "W"]
+ST SA S6 S5
+DA DJ D5 D8
+SQ S7 S2 SK
+CT CA C4 C7
+CJ CK D2 C5
+H2 CQ H4 C2
+H5 C9 H3 HT
+H6 C8 DT H9
+S3 C6 H7 HJ
+D4 C3 HQ S9
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "13"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q532.3.QT92.JT72 A7.K8.863.K86543 JT4.AT6542.75.A9 K986.QJ97.AKJ4.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 2H 2NT Pass
+3NT AP
+[Play "W"]
+H3 H8 HT HJ
+C2 C3 CA CQ
+S3 SA SJ S6
+DQ D3 D5 DJ
+S2 S7 ST SK
+SQ C4 S4 S9
+S5 C5 C9 S8
+C7 HK HA H7
+D2 D6 D7 DA
+CJ C6 H2 HQ
+DT D8 H4 DK
+-  -  -  D4
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "13"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q532.3.QT92.JT72 A7.K8.863.K86543 JT4.AT6542.75.A9 K986.QJ97.AKJ4.Q"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "4"]
+[Auction "N"]
+Pass Pass 1D Pass
+2C 2H X AP
+[Play "S"]
+DA D2 D8 D5
+DK D9 D6 D7
+S6 S2 SA ST
+SK S3 S7 SJ
+S8 SQ H8 S4
+CQ C2 C8 CA
+H7 H3 HK HA
+H9 S5 C3 H4
+HQ C7 C4 H2
+HJ CT C5 H5
+S9 DT D3 H6
+D4 CJ CK C9
+DJ DQ C6 HT
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "14"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A843.7652.A3.K76 J52.AJ943.KJT4.2 KQT76.8.9872.J43 9.KQT.Q65.AQT985"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "E"]
+2S 3C 3S X
+Pass 4C Pass 4H
+Pass Pass X AP
+[Play "E"]
+SK S9 S3 S5
+H8 HK H2 H3
+D2 D5 D3 DJ
+S6 HT S4 S2
+-  HQ H5 HA
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "14"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:A843.7652.A3.K76 J52.AJ943.KJT4.2 KQT76.8.9872.J43 9.KQT.Q65.AQT985"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C X XX
+2S 3C Pass 3H
+Pass 4H AP
+[Play "E"]
+SK S9 S3 S5
+D9 D5 DA D4
+D7 D6 D3 DJ
+S6 HT S4 S2
+H8 HK H2 H3
+S7 HQ H5 H4
+C4 CA C7 C2
+C3 C5 C6 H9
+-  -  -  HA
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "15"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ..KQ5432.AK754 A76432.A742.98.3 T.KQ8653.A6.QJ92 K985.JT9.JT7.T86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "12"]
+[Auction "S"]
+Pass 1D 1S 2C
+2S 3C Pass 4C
+Pass 5C AP
+[Play "S"]
+S8 SJ SA ST
+S9 SQ S2 C2
+C8 C4 C3 CQ
+D7 D2 D8 DA
+C6 CA D9 C9
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "15"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ..KQ5432.AK754 A76432.A742.98.3 T.KQ8653.A6.QJ92 K985.JT9.JT7.T86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Auction "S"]
+Pass 1D 1S 2H
+2S 3C Pass 3S
+Pass 4D Pass 5C
+AP
+[Play "N"]
+SA ST S5 SJ
+D9 DA D7 D2
+C3 CQ C6 C4
+S2 CJ C8 C5
+D8 D6 DT DK
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "16"]
+[West "Brink"]
+[North "Bertens"]
+[East "Vprooijen"]
+[South "Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T3.JT85.J974.652 J9.A32.Q53.AKQ73 AK82.Q97.K2.JT98 Q7654.K64.AT86.4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3NT
+AP
+[Play "E"]
+CJ C4 C6 CQ
+SA S4 S3 SJ
+C8 H4 C2 CA
+S2 SQ ST S9
+S8 S5 C5 H2
+C9 D6 H5 C3
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Open"]
+
+[Event "2005 Dutch Teams"]
+[Site ""]
+[Date "2005.00.00"]
+[Board "16"]
+[West "Nab"]
+[North "Eskes"]
+[East "Paulissen"]
+[South "Sprinkhuizn"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T3.JT85.J974.652 J9.A32.Q53.AKQ73 AK82.Q97.K2.JT98 Q7654.K64.AT86.4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3NT
+AP
+[Play "E"]
+CJ C4 C6 C3
+C9 S4 C5 CA
+D2 DT DJ D3
+CT H4 C2 CK
+DK DA D4 DQ
+SK S5 S3 SJ
+C8 D6 D7 CQ
+S2 D8 H5 C7
+S8 SQ ST S9
+SA S6 H8 H2
+H7 -  -  -
+*
+[Description "#"]
+[Stage "Final 2"]
+[HomeTeam "Modalfa +35"]
+[VisitTeam "Crash +37"]
+[Room "Closed"]
+

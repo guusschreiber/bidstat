@@ -1,0 +1,44 @@
+This file contains the R cosole commands plus main results
+For the plots: see the figs subdirecteroy of doc
+ 
+CONTESTED AUCTION
+
+R console interaction: 
+
+> source("partition.r")
+> ca = read.table("contested_auction.txt", header=TRUE)
+> cap = partition(ca, 200)
+> head(cap)
+        [,1]  [,2]
+[1,] 1955.00 0.465
+[2,] 1955.00 0.465
+[3,] 1956.60 0.465
+[4,] 1957.00 0.495
+[5,] 1958.16 0.470
+[6,] 1959.09 0.455
+> y = cap[,1]
+> c = cap[,2]
+> cap.lm = lm(c~y)
+> plot(y,c, ylim=c(0,1), xlab="Year", ylab="Freqeuncy contested auction")
+> abline(cap.lm)
+> summary(cap.lm)
+Call:
+lm(formula = c ~ y)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.159896 -0.035750 -0.000535  0.041865  0.126690 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)  
+(Intercept) -1.0747821  0.7299677  -1.472   0.1443  
+y            0.0007930  0.0003652   2.171   0.0324 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+
+Residual standard error: 0.05883 on 94 degrees of freedom
+Multiple R-squared: 0.04777,	Adjusted R-squared: 0.03764 
+F-statistic: 4.715 on 1 and 94 DF,  p-value: 0.03241 
+
+
+

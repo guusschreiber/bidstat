@@ -1,0 +1,4240 @@
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "1"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:5.Q9852.7.Q97532 Q84.AJT743.KJ32. J976..T865.AKT64 AKT32.K6.AQ94.J8"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass 3D Pass
+3S Pass 4H Pass
+5D Pass 6H AP
+[Play "E"]
+CK C8 C5 H3
+C6 HK H2 H4
+S9 SA S5 S8
+S6 S2 H8 S4
+CT CJ C3 H7
+D5 DQ D7 D3
+-  H6 H9 HT
+*
+[Description "1998 Vanderbilt"]
+[Stage "F:1"]
+[HomeTeam "Schwartz"]
+[VisitTeam "Cayne"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "1"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:5.Q9852.7.Q97532 Q84.AJT743.KJ32. J976..T865.AKT64 AKT32.K6.AQ94.J8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6SX"]
+[Result "12"]
+[Auction "N"]
+1H Pass 1S Pass
+2S Pass 2NT Pass
+3D Pass 4D Pass
+4H Pass 4NT Pass
+5D Pass 5H Pass
+6D Pass 6S Pass
+Pass X AP
+[Play "W"]
+H2 H3 S6 HK
+S5 S4 S7 ST
+C2 S8 C4 C8
+-  SQ S9 -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "2"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:8.T98654.K862.95 KT964.J.QJT95.62 AJ2.KQ7.A73.AKJ8 Q753.A32.4.QT743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1D Pass
+2NT Pass 4D Pass
+4H AP
+[Play "S"]
+D4 DK D5 D3
+HA H4 HJ HQ
+C7 C5 C2 CJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "2"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:8.T98654.K862.95 KT964.J.QJT95.62 AJ2.KQ7.A73.AKJ8 Q753.A32.4.QT743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+2NT Pass 4D Pass
+4H AP
+[Play "S"]
+D4 D2 DT DA
+HA H4 HJ HK
+S7 S8 SK SA
+H3 D6 D5 D7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "3"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKJ3.AK4.864.KT9 8642.QJ6.T732.Q4 9.T532.K5.AJ8652 QT75.987.AQJ9.73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass 2NT Pass 3C
+Pass 3S Pass 3NT
+AP
+[Play "N"]
+HQ H2 H7 HK
+C4 C2 C3 CK
+CQ CA C7 CT
+-  CJ -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "3"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AKJ3.AK4.864.KT9 8642.QJ6.T732.Q4 9.T532.K5.AJ8652 QT75.987.AQJ9.73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1C Pass 1H
+X XX 2S 3C
+Pass 3NT AP
+[Play "N"]
+D2 DK DA D4
+DT D5 DQ D6
+D3 C2 DJ D8
+D7 H3 D9 H4
+HJ H2 H7 HK
+C4 C5 C3 CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "4"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.7.AJT876543.A4 KQT32.A3.KQ92.J3 J975.QT8642..K98 A84.KJ95..QT7652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "8"]
+[Auction "W"]
+5D Pass Pass X
+AP
+[Play "N"]
+SK S5 S4 S6
+HA H2 H5 H7
+H3 H4 H9 D3
+DQ H6 C6 DJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "4"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.7.AJT876543.A4 KQT32.A3.KQ92.J3 J975.QT8642..K98 A84.KJ95..QT7652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3DX"]
+[Result "8"]
+[Auction "W"]
+1D 1S X XX
+2D X 2H X
+3D X AP
+[Play "N"]
+SK S5 S4 S6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "5"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.T542.K643.KQ542 AK963.QJ6.QJT8.6 Q75.A97.952.AJ93 JT842.K83.A7.T87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1S Pass 3S Pass
+4S AP
+[Play "E"]
+D2 DA D3 D8
+S5 S2 C2 SA
+S7 S4 H2 SK
+D5 D7 DK DT
+CJ C7 C4 C6
+HA H3 H5 H6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "5"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.T542.K643.KQ542 AK963.QJ6.QJT8.6 Q75.A97.952.AJ93 JT842.K83.A7.T87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "N"]
+1S Pass 3S X
+4S X AP
+[Play "E"]
+D5 DA D6 D8
+S5 S2 H2 SA
+S7 S4 C2 SK
+H7 HK H4 H6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "6"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT8.T83.AQ93.654 Q43.A.J542.KQJ72 J95.Q6542.86.983 K762.KJ97.KT7.AT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1D Pass 2C
+Pass 2H Pass 3D
+Pass 3NT AP
+[Play "W"]
+C5 C2 C3 CA
+D3 DJ D6 D7
+H3 HA H2 H7
+S8 SQ S5 S2
+C4 CK C8 CT
+C6 CQ C9 H9
+H8 CJ H6 S7
+D9 C7 H4 HJ
+DQ D2 D8 DT
+DA D4 H5 DK
+HT D5 HQ HK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "6"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT8.T83.AQ93.654 Q43.A.J542.KQJ72 J95.Q6542.86.983 K762.KJ97.KT7.AT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1D Pass 2C
+Pass 3NT AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "7"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A975.K62.Q942.Q6 KQ2.A8753.73.AK5 T64.T94.T865.JT4 J83.QJ.AKJ.98732"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1H Pass
+1NT Pass 2C Pass
+2S Pass 3NT AP
+[Play "W"]
+D2 D3 DT DJ
+H2 H3 H4 HJ
+CQ CA C4 C3
+C6 CK CT C2
+S5 C5 CJ C7
+D4 D7 D5 DA
+H6 H5 S6 C9
+S9 H7 ST C8
+S7 SK S4 S3
+SA SQ D6 S8
+HK HA H9 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "7"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A975.K62.Q942.Q6 KQ2.A8753.73.AK5 T64.T94.T865.JT4 J83.QJ.AKJ.98732"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass 2D Pass
+2H Pass 4H AP
+[Play "E"]
+CJ C2 CQ CA
+H4 HJ HK H3
+H9 HQ H6 H5
+S4 S3 S5 SK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "8"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K9.KQT85.K75.AQ3 Q742.J42.98.KT98 8653.A76.AT32.74 AJT.93.QJ64.J652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1C Pass 1D Pass
+1NT Pass 3C Pass
+3H Pass 4H AP
+[Play "N"]
+CT C4 C6 CQ
+H2 HA H9 H5
+H4 H6 H3 HK
+C9 C7 C5 CA
+C8 H7 C2 C3
+D8 D2 D4 DK
+HJ S3 D6 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "8"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K9.KQT85.K75.AQ3 Q742.J42.98.KT98 8653.A76.AT32.74 AJT.93.QJ64.J652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+1H Pass 2H Pass
+3NT Pass 4H AP
+[Play "N"]
+D9 D2 D4 DK
+H2 HA H3 H5
+CK C4 C2 CQ
+D8 DA D6 D5
+C8 C7 C5 CA
+C9 H6 C6 C3
+S2 S3 SA S9
+S4 D3 DJ D7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "9"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ43.Q.AKQ3.KT42 9.AJT642.J42.Q95 K85.K975.T.AJ873 JT762.83.98765.6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Auction "N"]
+2H Pass Pass X
+Pass 3C Pass 3H
+Pass 3NT Pass 4C
+Pass 4S Pass 5C
+AP
+[Play "S"]
+H8 HQ HA H5
+H3 S3 HT HK
+C6 C2 C5 CA
+D5 -  -  C7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "9"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ43.Q.AKQ3.KT42 9.AJT642.J42.Q95 K85.K975.T.AJ873 JT762.83.98765.6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3HX"]
+[Result "4"]
+[Auction "N"]
+2D Pass 3H X
+AP
+[Play "W"]
+DK D2 DT D5
+DQ D4 C3 D6
+HQ HA H5 H3
+C2 CQ CA C6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "10"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AQJ.T64.T42.T875 9743.85.J8765.Q2 652.KJ972.A9.963 KT8.AQ3.KQ3.AKJ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 2C Pass 2H
+Pass 2NT Pass 3C
+Pass 3D Pass 3NT
+AP
+[Play "W"]
+C5 C2 C9 CJ
+D2 D5 DA DK
+HT H5 H2 H3
+H6 H8 HK HA
+C7 CQ C6 C4
+SQ S9 S2 ST
+C8 D6 C3 CA
+D4 D7 D9 DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "10"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AQJ.T64.T42.T875 9743.85.J8765.Q2 652.KJ972.A9.963 KT8.AQ3.KQ3.AKJ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 2C Pass 2H
+Pass 2NT Pass 3C
+Pass 3D Pass 3NT
+AP
+[Play "W"]
+C8 C2 C3 CA
+D2 D5 D9 DK
+D4 D6 DA DQ
+HT H5 H7 H3
+C5 CQ C6 C4
+SJ S3 S2 ST
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "11"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K543.65.T6542.J4 QT62.Q97.K.K9532 A98.JT83.98.T876 J7.AK42.AQJ73.AQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1S Pass
+2H Pass 2NT Pass
+3NT AP
+[Play "E"]
+HJ H2 H6 HQ
+C6 CA C4 C2
+C7 CQ CJ C3
+D8 D3 D2 DK
+C8 S7 S3 CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "11"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K543.65.T6542.J4 QT62.Q97.K.K9532 A98.JT83.98.T876 J7.AK42.AQJ73.AQ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1S Pass
+2H Pass 2NT Pass
+3NT AP
+[Play "E"]
+H3 H2 H5 H7
+D8 D3 D2 DK
+C7 CQ C4 C3
+D9 DA D4 S2
+S8 DQ D5 S6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "12"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6543.KJ873.2.AQ8 T92.AT5.KJ86.654 AJ.Q.AQT973.KT73 KQ87.9642.54.J92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1H Pass 2D Pass
+2H Pass 3C Pass
+3S Pass 3NT AP
+[Play "S"]
+SK S3 S2 SA
+H6 H3 HA HQ
+SQ S4 ST SJ
+C2 CA C4 C7
+H4 HK H5 D3
+D4 D2 D6 DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "12"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:6543.KJ873.2.AQ8 T92.AT5.KJ86.654 AJ.Q.AQT973.KT73 KQ87.9642.54.J92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1H Pass 2D Pass
+2S Pass 3NT AP
+[Play "S"]
+S7 S3 S9 SJ
+H2 H3 HA HQ
+SK S4 ST SA
+C2 CQ -  C3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "13"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A75.KQ4.QJ7532.6 KJT.87.K9.AQJT42 Q92.JT952.T8.K87 8643.A63.A64.953"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "E"]
+HJ H3 HQ H7
+H5 H6 HK H8
+H9 HA H4 ST
+CK C9 C6 C2
+HT D4 S5 CT
+H2 C3 D5 C4
+C8 C5 D2 CJ
+C7 S3 D3 CQ
+D8 -  -  CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "13"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A75.KQ4.QJ7532.6 KJT.87.K9.AQJT42 Q92.JT952.T8.K87 8643.A63.A64.953"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "E"]
+HJ H3 HQ H7
+H5 H6 HK H8
+H2 HA H4 ST
+CK C9 C6 C2
+HT S3 D2 CJ
+H9 S4 S7 C4
+S2 S6 SA SJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "14"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.AK2.KQ963.86542 AQJ84..AJ84.J973 K76.JT7643.T.AKQ T9532.Q985.752.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "E"]
+1H Pass 2D 2S
+Pass 4S Pass Pass
+X AP
+[Play "E"]
+CA CT C2 C3
+DT D2 DQ DA
+CQ S2 C6 CJ
+SK S3 D3 SJ
+H7 H8 HK SQ
+CK S5 C4 C9
+H6 D5 DK D4
+S6 D7 D9 DJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "14"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.AK2.KQ963.86542 AQJ84..AJ84.J973 K76.JT7643.T.AKQ T9532.Q985.752.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "E"]
+1H Pass 2D 2S
+Pass 4S Pass Pass
+X AP
+[Play "E"]
+CQ CT C2 C3
+DT D2 DQ DA
+S6 S2 C8 SA
+CK S3 C4 CJ
+CA D7 DK D4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "15"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ742.AT6.AQ4.A5 86.J853.986.Q987 AJ9.Q4.KJT53.KJ2 T53.K972.72.T643"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7D"]
+[Result "13"]
+[Auction "S"]
+Pass 1C Pass 2D
+Pass 2S Pass 3S
+Pass 4NT Pass 5D
+Pass 5H Pass 5S
+Pass 5NT Pass 6D
+Pass 6H Pass 6NT
+Pass 7D AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "15"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ742.AT6.AQ4.A5 86.J853.986.Q987 AJ9.Q4.KJT53.KJ2 T53.K972.72.T643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7NT"]
+[Result "13"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 3D Pass 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 5D
+Pass 5NT Pass 6C
+Pass 7C Pass 7NT
+AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "16"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQ.8765.JT8.QJ73 653.KQ93.Q97432. 9742.AJ4.A6.AT42 AJT8.T2.K5.K9865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass Pass X
+Pass 2D 2H AP
+[Play "N"]
+D4 D6 DK D8
+S3 S2 ST SK
+S6 C2 CK CJ
+H3 C4 C9 C3
+S5 S4 SA SQ
+H9 CT C5 C7
+D3 DA D5 DT
+HK HA H2 H5
+HQ H4 HT H6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "16"]
+[West "Soloway"]
+[North "Passell"]
+[East "Goldman"]
+[South "Seamon"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQ.8765.JT8.QJ73 653.KQ93.Q97432. 9742.AJ4.A6.AT42 AJT8.T2.K5.K9865"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3CX"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H 2D X Pass
+3C Pass Pass X
+AP
+[Play "S"]
+DK D8 D2 DA
+SA SQ S3 S4
+HT H5 HQ H4
+D5 DT DQ D6
+C5 DJ D9 S2
+S8 SK S5 S7
+C6 CQ D7 C2
+CK CJ D4 C4
+C9 C3 D3 CT
+ST C7 S6 S9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "17"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q7643.AQJ.A9.QJ6 A952.T75.532.743 K.K8.QT64.AKT852 JT8.96432.KJ87.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass 2C Pass 2D
+Pass 4C Pass 4D
+Pass 5C Pass 6C
+AP
+[Play "S"]
+ST S3 SA SK
+S8 SQ S5 D4
+C9 C6 C3 CA
+H2 CJ C4 C5
+SJ S7 S2 CT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "17"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q7643.AQJ.A9.QJ6 A952.T75.532.743 K.K8.QT64.AKT852 JT8.96432.KJ87.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2C Pass 2NT
+Pass 3NT AP
+[Play "N"]
+H5 H8 H2 HJ
+C3 C2 C9 CQ
+C4 C5 H3 CJ
+C7 CA H4 C6
+H7 CK H6 S3
+S9 CT H9 S4
+D2 C8 D7 D9
+HT HK D8 HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "18"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K543.Q2.QJ9.AK75 JT92.73.T73.9863 AQ8.KT654.K6542. 76.AJ98.A8.QJT42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1H Pass 1S Pass
+2D Pass 3C Pass
+4S AP
+[Play "N"]
+ST SQ S6 S3
+D3 D2 D8 DQ
+H7 H4 HA HQ
+S9 SA S7 S4
+S2 S8 C2 SK
+D7 D4 DA DJ
+C3 H5 CJ CA
+DT DK -  D9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "18"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K543.Q2.QJ9.AK75 JT92.73.T73.9863 AQ8.KT654.K6542. 76.AJ98.A8.QJT42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1H Pass 2C Pass
+2H Pass 2NT Pass
+3D Pass 3H Pass
+3S Pass 3NT AP
+[Play "N"]
+SJ SQ S7 S3
+D7 D2 D8 DQ
+D3 D4 DA DJ
+S9 SA S6 S4
+H7 H4 H9 HQ
+H3 HT HJ H2
+C9 H5 C2 CA
+C3 H6 C4 CK
+DT DK H8 D9
+C6 D5 CT C5
+C8 D6 CJ C7
+-  S8 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "19"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AK65.QT82.87.T53 94.53.KT4.A98642 JT82.KJ96.AJ92.7 Q73.A74.Q653.KQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1D Pass 1NT AP
+[Play "E"]
+SJ S3 S6 S4
+ST S7 SA S9
+S8 SQ SK D4
+S2 D3 S5 DT
+H6 HA H8 H5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "19"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AK65.QT82.87.T53 94.53.KT4.A98642 JT82.KJ96.AJ92.7 Q73.A74.Q653.KQJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1D Pass 1NT AP
+[Play "E"]
+SJ S3 S5 S4
+S2 S7 SA S9
+ST SQ SK D4
+H9 HA H2 H3
+C7 CK C3 C2
+D2 CQ C5 C4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "20"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q2.96.74.AQJ8742 K76.Q4.K8652.963 AJ954.KJ72.JT9.K T83.AT853.AQ3.T5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "12"]
+[Auction "W"]
+3C AP
+[Play "N"]
+S6 S4 S8 SQ
+C3 CK C5 CA
+C6 H2 CT CQ
+C9 D9 H3 CJ
+S7 SJ S3 S2
+SK SA ST D4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "20"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q2.96.74.AQJ8742 K76.Q4.K8652.963 AJ954.KJ72.JT9.K T83.AT853.AQ3.T5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "W"]
+3C AP
+[Play "N"]
+HQ HK HA H6
+D2 D9 DQ D4
+H4 HJ HT H9
+C6 CK C5 C2
+D5 DT DA D7
+D6 H2 H5 CJ
+C3 S4 CT CA
+C9 -  -  CQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "21"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:64.9642.AQ843.K8 KJT2.AKQ.T2.Q753 Q93.JT53.J5.T642 A875.87.K976.AJ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1NT Pass 2C Pass
+2S Pass 4S AP
+[Play "E"]
+HJ H7 H2 HQ
+C6 CJ CK C3
+H3 H8 H4 HK
+S3 S5 S4 ST
+S9 SA S6 S2
+SQ S7 D4 SK
+D5 DK DA D2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "21"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:64.9642.AQ843.K8 KJT2.AKQ.T2.Q753 Q93.JT53.J5.T642 A875.87.K976.AJ9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1D Pass
+1S Pass 4S AP
+[Play "E"]
+HJ H7 H2 HQ
+S3 SA S4 S2
+SQ S5 S6 ST
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "22"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T63.A85.QJ876.AQ K5.KQT632.942.96 A987.J74.T5.J853 QJ42.9.AK3.KT742"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 1S Pass 2H
+AP
+[Play "E"]
+DT DK D6 D2
+SA S2 S3 SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "22"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T63.A85.QJ876.AQ K5.KQT632.942.96 A987.J74.T5.J853 QJ42.9.AK3.KT742"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+Pass 1C 1D 1H
+Pass 1S Pass 2H
+AP
+[Play "E"]
+DT DA D6 D2
+H4 H9 H5 HQ
+SA S2 S6 SK
+D5 DK D7 D9
+S7 SQ S3 S5
+S8 SJ ST D4
+S9 S4 D8 H2
+H7 C2 H8 H3
+C3 D3 DQ HK
+HJ C4 HA H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "23"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ7.8432.QT52.96 .J97.KJ9864.T754 T94.AT6.A.KQJ832 KQ86532.KQ5.73.A"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT 2C
+2S Pass Pass 3C
+3S AP
+[Play "W"]
+C9 CT CJ CA
+SA D4 S4 SQ
+C6 C7 CQ S2
+S7 C4 S9 SK
+SJ C5 ST S6
+H4 HJ HA H5
+H2 H7 H6 HK
+D5 DJ DA D3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "23"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ7.8432.QT52.96 .J97.KJ9864.T754 T94.AT6.A.KQJ832 KQ86532.KQ5.73.A"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT 2C
+2S AP
+[Play "W"]
+C9 C4 C2 CA
+SA D4 S4 SQ
+C6 CT CQ S2
+S7 D6 S9 SK
+SJ C5 ST S5
+D2 DJ DA D3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "24"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ.53.98732.9765 J83.AT9764.T65.J K972.QJ8.AQ.AK42 T654.K2.KJ4.QT83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "7"]
+[Auction "W"]
+Pass 2H X Pass
+2NT Pass 3C Pass
+3D AP
+[Play "N"]
+CJ CA C3 C5
+S3 S2 S6 SQ
+S8 S7 S5 SA
+DT DQ DK D2
+D5 C2 CT C7
+HA H8 H2 H3
+H4 HJ HK H5
+D6 C4 C8 C9
+HT HQ D4 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "24"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ.53.98732.9765 J83.AT9764.T65.J K972.QJ8.AQ.AK42 T654.K2.KJ4.QT83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "W"]
+Pass 2H 2NT AP
+[Play "S"]
+HK H3 H7 H8
+S4 SQ S3 S2
+C3 C5 CJ CA
+CT C6 H6 C4
+S5 SA S8 S7
+H2 H5 HA HJ
+S6 D2 SJ SK
+ST D3 H4 S9
+DK D7 D5 DA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "25"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQ6.QJ985.QJ5.J4 T7.62.T9643.KT62 AJ42.A4.A72.AQ73 9853.KT73.K8.985"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2NT
+Pass 3C Pass 3NT
+Pass 4NT AP
+[Play "S"]
+S3 S6 ST SJ
+H3 H5 H2 HA
+H7 HQ H6 H4
+DK DQ D3 D7
+S5 SQ S7 S2
+S8 SK D6 S4
+C8 CJ CK C3
+C9 C4 CT CA
+S9 H8 D4 SA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "25"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQ6.QJ985.QJ5.J4 T7.62.T9643.KT62 AJ42.A4.A72.AQ73 9853.KT73.K8.985"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+S3 SK S7 S2
+H3 H5 H2 HA
+H7 HQ H6 H4
+DK DQ D3 D2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "26"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K9864.K542.A9.K4 52.AT8.87543.T96 J7.Q96.KT62.AJ82 AQT3.J73.QJ.Q753"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2H Pass
+2NT AP
+[Play "S"]
+C3 C4 C9 CJ
+SA S4 S5 SJ
+C5 CK C6 C2
+S3 SK S2 S7
+ST S9 CT H6
+DQ DA D3 D2
+DJ D9 D7 D6
+H3 H2 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "26"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K9864.K542.A9.K4 52.AT8.87543.T96 J7.Q96.KT62.AJ82 AQT3.J73.QJ.Q753"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2H Pass
+2NT AP
+[Play "S"]
+C3 C4 C9 CJ
+SA S4 S2 SJ
+C5 CK C6 C2
+S3 SK S5 S7
+ST S9 D3 C8
+H3 H2 HT HQ
+C7 S6 CT CA
+DJ DA D4 D2
+DQ D9 D5 DK
+-  -  -  DT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "27"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJ6.T974.64.K954 Q7.6.AQ8752.AJ63 K932.AQJ32.9.Q72 T854.K85.KJT3.T8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D 1H
+X 3D Pass 4H
+AP
+[Play "S"]
+DJ D4 DA D9
+D3 D6 D7 H2
+S5 SJ SQ S3
+HK H4 H6 H3
+H5 H7 D5 HA
+S8 SA S7 S2
+S4 S6 D2 SK
+ST H9 C3 S9
+C8 CK CA C2
+-  -  C6 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "27"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AJ6.T974.64.K954 Q7.6.AQ8752.AJ63 K932.AQJ32.9.Q72 T854.K85.KJT3.T8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D 1H
+X 3D X 3H
+Pass Pass 4C Pass
+4D AP
+[Play "E"]
+HA H5 HT H6
+S2 S4 SA S7
+SK S5 S6 SQ
+S3 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "28"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:5.AJ.9843.AQJ732 64.8642.QT2.KT54 AKJ2.Q9.KJ765.86 QT9873.KT753.A.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+2C Pass 2D 2S
+3C Pass 3NT AP
+[Play "S"]
+H5 HJ H6 HQ
+C9 CQ CK C6
+H3 HA H2 H9
+ST CA C4 C8
+DA D9 D2 DJ
+HK C2 H4 S2
+HT C3 H8 SJ
+H7 D3 S6 D5
+S8 S5 S4 SA
+S3 D4 DT DK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "28"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:5.AJ.9843.AQJ732 64.8642.QT2.KT54 AKJ2.Q9.KJ765.86 QT9873.KT753.A.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1C Pass 1D 1S
+2D Pass 3NT AP
+[Play "S"]
+H5 HJ H4 HQ
+C9 CQ C5 C6
+S3 CA C4 C8
+DA D3 D2 DJ
+H3 HA H2 H9
+S7 D4 DT DK
+S8 D8 DQ D5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "29"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:863.AQ653.A6.JT6 .JT872.QJT92.K52 J54.K9.K8743.A73 AKQT972.4.5.Q984"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+2H Pass 4S AP
+[Play "W"]
+CJ C2 C3 CQ
+S3 H2 S4 SA
+S6 H7 S5 SK
+S8 H8 SJ SQ
+DA D2 D3 D5
+HA HT H9 H4
+H6 HJ HK S2
+C6 C5 CA C8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "29"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:863.AQ653.A6.JT6 .JT872.QJT92.K52 J54.K9.K8743.A73 AKQT972.4.5.Q984"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 4S AP
+[Play "W"]
+HA H2 H9 H4
+H6 HJ HK S2
+S6 D2 S5 SA
+S3 H7 S4 SK
+S8 D9 SJ SQ
+D6 DT DK D5
+DA DJ D4 S7
+C6 CK CA C4
+-  -  C3 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "30"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:762.T.J642.AQ973 KJT95.Q74.KQ.T52 A8.AKJ982.A95.KJ Q43.653.T873.864"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1D 1S
+X Pass 3C Pass
+3H Pass 3S Pass
+4H AP
+[Play "S"]
+S3 S2 SK SA
+H3 HT H4 HA
+H5 S6 H7 HK
+H6 D2 HQ H8
+S4 S7 SJ S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "30"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:762.T.J642.AQ973 KJT95.Q74.KQ.T52 A8.AKJ982.A95.KJ Q43.653.T873.864"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1NT Pass
+3D Pass 4D Pass
+4H AP
+[Play "S"]
+S3 S2 SK SA
+H5 HT H4 HA
+H3 S7 H7 HK
+H6 S6 HQ HJ
+S4 D2 SJ S8
+SQ D4 ST H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "31"]
+[West "Berkowitz"]
+[North "Schwartz"]
+[East "Cohen"]
+[South "Lair"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K83.84.Q952.T985 95.AQ2.AKJ.A6432 AQT4.T65.T643.QJ J762.KJ973.87.K7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2D Pass
+2H Pass 3H Pass
+4H AP
+[Play "W"]
+D5 DA D4 D7
+S3 S5 SA S2
+H8 HQ H5 H7
+SK S9 S4 S6
+H4 H2 HT HK
+S8 HA ST S7
+C5 C2 CQ CK
+C8 C3 H6 HJ
+C9 CA CJ C7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "31"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K83.84.Q952.T985 95.AQ2.AKJ.A6432 AQT4.T65.T643.QJ J762.KJ973.87.K7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1C 1S
+X 2S X Pass
+3H Pass 4H AP
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "32"]
+[West "Stansby"]
+[North "Cayne"]
+[East "Martel"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K853.KT.J9654.82 A72.J75.AT2.QJ96 J6.A9864.Q8.A543 QT94.Q32.K73.KT7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass 1C 1H X
+XX Pass Pass 1NT
+AP
+[Play "W"]
+HK H5 H4 H2
+HT H7 HA H3
+D6 HJ H6 HQ
+C2 C6 CA CT
+S5 S2 H9 S4
+C8 D2 H8 CK
+SK SA S6 SQ
+D4 CQ C3 C7
+S3 CJ C4 S9
+S8 C9 C5 ST
+D5 DA D8 D3
+D9 DT DQ DK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "33"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:64.85.KQT8732.T3 AJ2.J72.AJ4.AQJ8 KT9853.A4.6.K652 Q7.KQT963.95.974"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1C 1S 3H Pass
+4H AP
+[Play "W"]
+S6 S2 SK S7
+S4 SA S5 SQ
+H5 HJ HA H3
+D7 SJ S8 HT
+C3 CQ CK C7
+D3 D4 ST H9
+H8 H2 H4 HK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "33"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:64.85.KQT8732.T3 AJ2.J72.AJ4.AQJ8 KT9853.A4.6.K652 Q7.KQT963.95.974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1NT 2S 3H Pass
+3NT AP
+[Play "E"]
+ST SQ S6 S2
+C2 C4 C3 CQ
+H4 HK H8 H2
+CK C7 CT CJ
+D6 D5 DQ DA
+HA H3 H5 HJ
+C6 C9 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "34"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:5.J53.KJ7652.KQ9 9.AKT96.T84.J842 QT8762.84.3.T753 AKJ43.Q72.AQ9.A6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+3S 3NT AP
+[Play "W"]
+D6 D4 D3 D9
+H3 H6 H4 HQ
+H5 HA H8 H7
+S5 S9 ST SJ
+HJ HK S2 H2
+D2 HT S6 S3
+DK H9 S7 DQ
+D5 D8 C3 DA
+D7 DT S8 SA
+DJ C2 SQ SK
+C9 C4 C5 S4
+CQ C8 C7 CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "34"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:5.J53.KJ7652.KQ9 9.AKT96.T84.J842 QT8762.84.3.T753 AKJ43.Q72.AQ9.A6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+2S 2NT Pass 3D
+Pass 4H AP
+[Play "W"]
+S5 S9 SQ SA
+H5 HA H4 H2
+H3 H6 H8 HQ
+HJ HK S2 H7
+DJ DT D3 D9
+C9 CJ C3 C6
+D2 H9 C5 S3
+CQ C2 C7 CA
+D5 C4 S6 SK
+D6 D4 S7 SJ
+CK HT S8 S4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "35"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ6.7542.Q32.764 94.AJ.AK764.A952 T875.KQ963.8.KQ3 AK32.T8.JT95.JT8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D 1H
+X 2H X Pass
+3H Pass 3NT AP
+[Play "E"]
+HQ H8 H5 HA
+D8 D5 D2 DA
+S5 SA S6 S4
+S7 DT D3 DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "35"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJ6.7542.Q32.764 94.AJ.AK764.A952 T875.KQ963.8.KQ3 AK32.T8.JT95.JT8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT AP
+[Play "E"]
+H3 H8 H7 HJ
+D8 D5 D2 DA
+S5 SK S6 S4
+HK DJ D3 D4
+HQ DT DQ DK
+H9 D9 C4 D6
+CK CJ C7 C2
+S7 SA SJ S9
+C3 CT C6 CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "36"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J6.AJT74.Q7632.3 T42.8632.K9.KT84 .KQ95.AJT4.A9752 AKQ98753..85.QJ6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "12"]
+[Auction "W"]
+Pass Pass 1D 4S
+5D AP
+[Play "S"]
+SK S6 S2 D4
+D5 D2 D9 DA
+C6 C3 C4 CA
+CJ D3 C8 C5
+S3 SJ S4 DT
+D8 D6 DK DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "36"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J6.AJT74.Q7632.3 T42.8632.K9.KT84 .KQ95.AJT4.A9752 AKQ98753..85.QJ6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "12"]
+[Auction "W"]
+Pass Pass 1D 4S
+5D AP
+[Play "S"]
+SQ S6 S2 D4
+D5 D2 D9 DA
+C6 C3 C4 CA
+CJ D3 C8 C2
+S3 SJ S4 DT
+D8 D6 DK DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "37"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ943.6.KQJ5.A84 T852.KQ92.982.J2 KQ7.AT87.T7.Q963 6.J543.A643.KT75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2C Pass 4S
+AP
+[Play "N"]
+HK HA H5 H6
+D2 DT D3 D5
+S2 SK S6 S3
+S5 SQ D4 S4
+S8 S7 C5 SA
+ST D7 C7 SJ
+D8 C3 DA DK
+H2 H7 HJ S9
+D9 H8 D6 DQ
+C2 HT CT DJ
+CJ C6 CK CA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "37"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AJ943.6.KQJ5.A84 T852.KQ92.982.J2 KQ7.AT87.T7.Q963 6.J543.A643.KT75"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2H Pass 3D
+Pass 4S AP
+[Play "N"]
+HK HA H4 H6
+S2 SK S6 S3
+S5 SQ H3 S4
+S8 S7 D3 SA
+ST C3 D6 SJ
+D2 DT DA D5
+H2 H7 H5 S9
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "38"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:98.82.8653.KQJ76 QJ72.A73.AKQ.953 AT643.J5.J92.AT4 K5.KQT964.T74.82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 2H Pass 2NT
+Pass 3C X 3H
+3S 4H AP
+[Play "W"]
+S9 S2 SA S5
+C7 C3 CA C2
+CK C5 CT C8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "38"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:98.82.8653.KQJ76 QJ72.A73.AKQ.953 AT643.J5.J92.AT4 K5.KQT964.T74.82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass 2H Pass 2NT
+Pass 3H Pass 3NT
+AP
+[Play "E"]
+S4 SK S8 S7
+HJ HK H8 H3
+H5 H4 H2 HA
+C4 HQ C7 H7
+D2 HT C6 S2
+D9 H9 D3 C3
+CT H6 S9 C5
+DJ D4 D5 DQ
+S3 D7 D6 DK
+S6 DT D8 DA
+SA S5 -  SQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "39"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ6.Q9875.A2.AK8 972.4.KJ93.QJ652 T53.JT32.Q75.943 AQ84.AK6.T864.T7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Auction "S"]
+1NT X 2C Pass
+2D AP
+[Play "W"]
+H5 H4 HT HA
+CK C2 C3 C7
+H7 S2 HJ HK
+CA C5 C4 CT
+HQ S7 H3 H6
+H9 C6 H2 D4
+D2 D3 DQ D8
+S6 S9 ST SA
+DA D9 D5 D6
+H8 -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "39"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ6.Q9875.A2.AK8 972.4.KJ93.QJ652 T53.JT32.Q75.943 AQ84.AK6.T864.T7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Auction "S"]
+1D 1H 2D Pass
+Pass X 3C 3H
+AP
+[Play "N"]
+D9 DQ D6 D2
+H4 H2 HK H5
+S2 ST S8 S6
+-  HJ HA H7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "40"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ32.T4.A43.KQ73 85.A87653.KQ5.AJ T974.KQJ.T92.T92 AK6.92.J876.8654"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+1C 1H 1NT Pass
+Pass 2H AP
+[Play "E"]
+HK H2 H4 H6
+C2 C4 CQ CA
+HJ H9 HT HA
+D2 D6 DA DQ
+C9 C5 CK CJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "40"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJ32.T4.A43.KQ73 85.A87653.KQ5.AJ T974.KQJ.T92.T92 AK6.92.J876.8654"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+1C 1H Pass 1NT
+Pass 2H AP
+[Play "E"]
+CT C4 CQ CA
+HJ H2 H4 HA
+HQ H9 HT H3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "41"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:3.A984.AQ3.Q7643 AQT986.Q.K98.952 K5.T752.T542.AKT J742.KJ63.J76.J8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+2S Pass 3S X
+Pass 4H AP
+[Play "S"]
+S2 S3 SA S5
+S7 D3 ST SK
+H3 H4 HQ H7
+S4 DQ SQ H2
+HJ H8 S6 HT
+SJ C3 S8 H5
+C8 C4 C2 CA
+CJ C6 C5 CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "41"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:3.A984.AQ3.Q7643 AQT986.Q.K98.952 K5.T752.T542.AKT J742.KJ63.J76.J8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+2S Pass 4S AP
+[Play "E"]
+CK C8 C4 C9
+D2 D6 DA D9
+CA CJ C6 C2
+HT H3 HA HQ
+D4 D7 D3 DK
+CT S2 C3 C5
+H2 HK H4 D8
+-  SJ S3 S6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "42"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J7.J87643.53.J63 KT42.9.KJ76.T852 A53.KQ2.Q42.KQ97 Q986.AT5.AT98.A4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H AP
+[Play "S"]
+S6 S7 SK SA
+H5 H3 H9 HQ
+HA H4 C2 H2
+HT H6 D6 HK
+CA C3 C5 CK
+DA D3 D7 D2
+SQ SJ S2 S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "42"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J7.J87643.53.J63 KT42.9.KJ76.T852 A53.KQ2.Q42.KQ97 Q986.AT5.AT98.A4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H AP
+[Play "S"]
+S8 SJ SK SA
+HA H3 H9 HK
+CA C3 C5 C9
+C4 CJ C2 C7
+-  H4 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "43"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ.QT842.Q74.A72 KJ542.KJ9.863.98 63.A53.AKJT5.T64 T987.76.92.KQJ53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass 1H 1S X
+3C Pass 3S 4H
+AP
+[Play "N"]
+C9 C4 CJ C7
+H9 HA H6 H4
+HJ H3 H7 HT
+SK S3 S7 SQ
+HK -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "43"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ.QT842.Q74.A72 KJ542.KJ9.863.98 63.A53.AKJT5.T64 T987.76.92.KQJ53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass 1H Pass 2D
+Pass 3D Pass 3H
+Pass 4H AP
+[Play "N"]
+S2 S3 S7 SQ
+H9 HA H6 H4
+HK H3 H7 HQ
+HJ H5 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "44"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK98..Q9432.Q953 J5.J763.AJ7.AT42 72.AKQT95.65.J76 QT643.842.KT8.K8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+2D Pass 3H AP
+[Play "S"]
+CK C3 C2 C6
+C8 C5 CA C7
+H4 C9 C4 CJ
+D8 D2 DA D5
+DK D3 D7 D6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "44"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK98..Q9432.Q953 J5.J763.AJ7.AT42 72.AKQT95.65.J76 QT643.842.KT8.K8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+1D Pass 1H Pass
+1S Pass 2C Pass
+3C Pass 3H AP
+[Play "S"]
+S3 SA S5 S7
+CK C3 C4 CJ
+S4 SK SJ S2
+S6 S8 C2 H5
+H4 D2 H3 HA
+H2 D3 H6 HK
+H8 S9 H7 HQ
+C8 -  -  C7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "45"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJT6.T6.KQT5.T72 954.K754.96.Q963 Q72.A982.832.J54 A83.QJ3.AJ74.AK8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2NT AP
+[Play "W"]
+HT H4 H2 HQ
+H6 H5 H8 HJ
+C2 HK HA H3
+C7 H7 H9 S3
+ST S4 S2 S8
+SJ S5 S7 SA
+CT C3 C4 CK
+D5 C6 C5 CA
+DT CQ CJ C8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "45"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KJT6.T6.KQT5.T72 954.K754.96.Q963 Q72.A982.832.J54 A83.QJ3.AJ74.AK8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H Pass 2NT AP
+[Play "W"]
+SJ S4 S7 SA
+HT H4 H2 HJ
+H6 HK HA H3
+C2 H5 H9 HQ
+C7 C3 C4 CA
+CT C6 C5 CK
+D5 CQ CJ C8
+S6 C9 D2 S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "46"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:876.82.AK3.AQJ75 AK32.T76.5.T9863 JT954.AQ94.T872. Q.KJ53.QJ964.K42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+2S AP
+[Play "S"]
+D6 DA D5 D2
+C2 CA C3 H4
+CK CQ C6 H9
+DQ DK S2 D7
+HK H2 H7 HQ
+DJ D3 HT D8
+H3 H8 H6 HA
+SQ S6 S3 SJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "46"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:876.82.AK3.AQJ75 AK32.T76.5.T9863 JT954.AQ94.T872. Q.KJ53.QJ964.K42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+2S AP
+[Play "S"]
+DQ DA D5 D2
+HK H2 H6 HQ
+DJ DK S2 D7
+SQ S6 SA S9
+D4 S7 SK S4
+H3 S8 S3 S5
+C2 CA C3 D8
+CK CQ C6 H4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "47"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ932.432.874.QT A4.KQT865.KQJ.K5 K87.AJ9.T953.A73 T65.7.A62.J98642"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1H AP
+[Play "E"]
+D5 D2 D4 DQ
+HA H7 H4 HQ
+S7 S5 S2 SA
+H9 S6 H2 HK
+HJ C2 H3 H5
+S8 ST SQ S4
+D3 D6 D7 DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "47"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ932.432.874.QT A4.KQT865.KQJ.K5 K87.AJ9.T953.A73 T65.7.A62.J98642"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass 2S X 3S
+4C Pass 4H AP
+[Play "E"]
+S7 S5 S9 S4
+D5 DA D8 DJ
+HJ H7 H2 HT
+D3 D2 D7 DQ
+HA D6 H3 HQ
+D9 C2 D4 DK
+H9 S6 H4 HK
+CA C4 CT CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "48"]
+[West "Passell"]
+[North "Martel"]
+[East "Seamon"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:932.J73.AJ653.KQ K874.Q85.KQT98.J JT6.A9.2.AT86542 AQ5.KT642.74.973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 3C AP
+[Play "S"]
+D7 DA D8 D2
+C7 CK CJ C2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "48"]
+[West "Goldman"]
+[North "Cayne"]
+[East "Soloway"]
+[South "Burger"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:932.J73.AJ653.KQ K874.Q85.KQT98.J JT6.A9.2.AT86542 AQ5.KT642.74.973"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 3C Pass
+3NT 4C X 4H
+Pass Pass X AP
+[Play "W"]
+CK CJ CA C7
+DA D8 D2 D4
+D3 DT H9 D7
+CQ H5 C5 C3
+D5 DK HA C9
+-  -  CT -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "49"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T74.3.AQT9.AQ732 KJ9652.T87..JT64 A8.KQJ5.8532.K85 Q3.A9642.KJ764.9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "6"]
+[Auction "N"]
+2S X 3S X
+AP
+[Play "E"]
+HK HA H3 H7
+C5 C9 CA C4
+SA S3 S4 S2
+S8 SQ S7 SK
+H5 D4 ST SJ
+CK D6 C2 CT
+HQ H2 C3 H8
+HJ H4 C7 HT
+D8 DJ DQ S5
+C8 D7 CQ CJ
+D2 DK DA S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "49"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T74.3.AQT9.AQ732 KJ9652.T87..JT64 A8.KQJ5.8532.K85 Q3.A9642.KJ764.9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "6"]
+[Auction "N"]
+2D X 3S X
+AP
+[Play "W"]
+H3 H7 HJ HA
+DT HT HQ H4
+CQ C4 C5 C9
+S4 S2 SA S3
+S7 SK S8 SQ
+ST SJ D2 D4
+C3 H8 HK H2
+DQ S5 D8 DJ
+C2 CJ CK H6
+D9 S6 D5 D7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "50"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ654.QT6..98653 T9.J83.AQ9.KJT72 J732.K72.T642.A4 A8.A954.KJ8753.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "E"]
+Pass 1D 2S 3C
+4S Pass Pass X
+AP
+[Play "N"]
+ST S2 SA S5
+C2 CA CQ C3
+HJ H2 H4 HT
+CT C4 S8 C5
+D9 D2 D7 S4
+CJ S3 D3 C9
+DQ D4 DJ S6
+C7 S7 D5 C6
+-  H7 -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "50"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQ654.QT6..98653 T9.J83.AQ9.KJT72 J732.K72.T642.A4 A8.A954.KJ8753.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "E"]
+Pass 1D 1S 3D
+4S 5D Pass Pass
+X AP
+[Play "W"]
+SK S9 S7 SA
+C3 C2 CA CQ
+S6 ST SJ S8
+H6 H3 H2 HA
+S5 D9 D2 DK
+S4 DQ D4 D3
+C5 CK C4 H4
+C6 CJ D6 D7
+SQ DA DT D5
+C8 CT S2 H5
+C9 C7 S3 H9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "51"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A3.AKQT.AK985.T4 KQJ95.J52.Q6.962 T62.96.JT3.KQ853 874.8743.742.AJ7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1C 1S X
+Pass 2D Pass 3D
+Pass 3H Pass 3S
+Pass 3NT AP
+[Play "N"]
+SK S2 S8 SA
+D6 DJ D2 DA
+DQ DT D4 DK
+H2 D3 D7 D9
+H5 H6 C7 D8
+C2 H9 CJ D5
+HJ C3 H3 HA
+S5 C5 H4 HK
+S9 C8 H7 HQ
+C6 S6 -  HT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "51"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A3.AKQT.AK985.T4 KQJ95.J52.Q6.962 T62.96.JT3.KQ853 874.8743.742.AJ7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 2NT Pass 3NT
+AP
+[Play "N"]
+SK S2 S4 S3
+SJ S6 S7 SA
+D6 D3 D2 DA
+DQ DT D4 DK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "52"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ964.A96.J65.QJ KJT3.KQ75.Q84.A8 52.832.T93.97642 87.JT4.AK72.KT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1NT X XX Pass
+2C Pass Pass X
+Pass 2H Pass 4H
+AP
+[Play "E"]
+S5 S7 SA S3
+S2 S8 S6 SJ
+H3 HJ H6 H5
+H2 H4 HA H7
+H8 HT H9 HQ
+C2 C3 CQ CA
+C4 CK CJ C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "52"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ964.A96.J65.QJ KJT3.KQ75.Q84.A8 52.832.T93.97642 87.JT4.AK72.KT53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1SX"]
+[Result "4"]
+[Auction "W"]
+1S Pass Pass X
+AP
+[Play "N"]
+HK H2 H4 H6
+D4 D3 DK D5
+H5 H3 HJ HA
+DQ D9 D2 D6
+HQ H8 HT H9
+D8 DT DA DJ
+ST S2 S8 S9
+H7 S5 S7 CJ
+C8 C2 D7 CQ
+CA C4 C3 S4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "53"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ53.T93.KJ.K873 9876.764.AT4.QJ2 KJT.KJ852.Q872.4 42.AQ.9653.AT965"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 2H AP
+[Play "S"]
+S4 SA S9 ST
+HQ HT H6 H2
+S2 S3 S8 SK
+HA H3 H4 H8
+D3 DJ DA D2
+CA C3 C2 C4
+D5 DK -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "53"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AQ53.T93.KJ.K873 9876.764.AT4.QJ2 KJT.KJ852.Q872.4 42.AQ.9653.AT965"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+Pass 1H Pass 1NT
+Pass 2D Pass 4H
+AP
+[Play "S"]
+D5 DJ DA D7
+CA C3 CQ C4
+C6 CK C2 D2
+HQ HT H4 H2
+C5 C7 CJ H5
+HA H3 H6 HK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "54"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J865.AK952.3.J95 K943.Q4.AQ854.AQ Q.73.KJT9762.T87 AT72.JT86..K6432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H X
+2C X Pass Pass
+2D 2S Pass 3S
+Pass 4S AP
+[Play "W"]
+HK H4 H3 H8
+HA HQ H7 HT
+H2 S9 SQ H6
+C9 CQ C8 C3
+S5 SK C7 S2
+C5 CA CT C2
+D3 DA D6 C4
+-  D4 D7 S7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "54"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J865.AK952.3.J95 K943.Q4.AQ854.AQ Q.73.KJT9762.T87 AT72.JT86..K6432"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H X
+2C 4S AP
+[Play "W"]
+HK H4 H7 H6
+HA HQ H3 H8
+H2 D4 SQ HT
+C5 CQ C7 C4
+-  S3 D6 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "55"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K5432.65.J975.T6 Q7.942.AT84.AJ83 AJ6.KQ87.K2.K952 T98.AJT3.Q63.Q74"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass 2H Pass 2S
+AP
+[Play "S"]
+ST S2 SQ SA
+S8 SK S7 S6
+HA H5 H2 HQ
+S9 S3 C3 SJ
+H3 H6 H4 HK
+HT S4 H9 H8
+D6 D5 D4 DK
+DQ D7 D8 D2
+D3 D9 DT C2
+C4 DJ DA C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "55"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K5432.65.J975.T6 Q7.942.AT84.AJ83 AJ6.KQ87.K2.K952 T98.AJT3.Q63.Q74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1C 1NT
+X 2S AP
+[Play "N"]
+D8 D2 DQ D5
+H2 HQ HT H5
+DA DK D6 D7
+CA C2 C4 C6
+H9 HK HA H6
+H4 H7 HJ S5
+S7 S6 S9 SK
+SQ SA S8 S2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "56"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:93.9.KJ3.KQT9864 Q742.AQ8743.5.53 KT65.T5.Q98742.7 AJ8.KJ62.AT6.AJ2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+3C Pass Pass X
+Pass 4H AP
+[Play "E"]
+C7 CA C4 C5
+H5 HK H9 H3
+HT H2 C9 HA
+SK SA S3 SQ
+D4 CJ CK C3
+S5 SJ S9 S2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "56"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:93.9.KJ3.KQT9864 Q742.AQ8743.5.53 KT65.T5.Q98742.7 AJ8.KJ62.AT6.AJ2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass 2H Pass 2NT
+3C Pass Pass 4C
+Pass 4H AP
+[Play "E"]
+C7 CA C6 C3
+H5 HK H9 H3
+HT H2 C4 HA
+S5 SJ S3 S4
+D2 CJ CQ C5
+-  -  S9 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "57"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J963.A98.K72.K52 AT2.KJ3.J6.AQT84 KQ87.754.QT8.J93 54.QT62.A9543.76"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1H Pass
+1NT AP
+[Play "E"]
+H5 H2 H8 HJ
+H7 H6 HA HK
+S7 S4 SJ S2
+SQ S5 S3 ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "57"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J963.A98.K72.K52 AT2.KJ3.J6.AQT84 KQ87.754.QT8.J93 54.QT62.A9543.76"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "9"]
+[Auction "N"]
+1NT Pass 2C Pass
+2D AP
+[Play "E"]
+H5 H2 HA H3
+S8 S4 S3 SA
+D8 DA D2 D6
+DQ D3 D7 DJ
+SK S5 S6 S2
+C3 C7 CK CA
+H7 HQ H9 HJ
+DT D4 DK C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "58"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:82.T6.J.K9876542 T97.K532.KQ543.Q AKQJ643.Q.T2.AJT 5.AJ9874.A9876.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "13"]
+[Auction "E"]
+1C 1H Pass 2NT
+4S AP
+[Play "S"]
+C3 C2 CQ -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "58"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:82.T6.J.K9876542 T97.K532.KQ543.Q AKQJ643.Q.T2.AJT 5.AJ9874.A9876.3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Auction "E"]
+1S 2H Pass 2S
+4S 5H AP
+[Play "W"]
+DJ -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "59"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ95.K73.J7432.9 AT62.Q52.AK.8643 43.86.QT.AKQJ752 Q87.AJT94.9865.T"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2D Pass 2H 3C
+AP
+[Play "S"]
+D5 D2 DA DQ
+D9 D3 DK DT
+SQ SK S2 S3
+D6 D4 S6 C2
+CT C9 C3 CA
+D8 H3 C4 CK
+H4 S5 C6 CQ
+H9 H7 C8 CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "59"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ95.K73.J7432.9 AT62.Q52.AK.8643 43.86.QT.AKQJ752 Q87.AJT94.9865.T"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1C 3C
+3H Pass 4H AP
+[Play "W"]
+C9 C3 CJ CT
+H7 C4 CQ H4
+D3 DK DT D5
+HK H2 H6 HJ
+D4 DA DQ D6
+H3 H5 H8 HT
+D7 S2 C5 D9
+DJ HQ C7 D8
+S9 S6 S3 S8
+D2 C6 C2 H9
+SK SA S4 SQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "60"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ2.T76.KQ76532. 6.AKQ943.AT8.KQJ AT98543..9.87543 K7.J852.J4.AT962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6SX"]
+[Result "10"]
+[Auction "W"]
+3D 4H 4S 5H
+5S Pass Pass 6H
+6S X AP
+[Play "S"]
+H2 H6 HA S5
+D4 DK DA D9
+C2 S2 CK C8
+DJ DQ D8 C3
+H5 D2 DT ST
+S7 SJ S6 SA
+C6 SQ CJ C4
+SK D3 H3 C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "60"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ2.T76.KQ76532. 6.AKQ943.AT8.KQJ AT98543..9.87543 K7.J852.J4.AT962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6SX"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 4S X
+Pass 5NT Pass 6H
+6S X AP
+[Play "S"]
+DJ DQ DA D9
+H8 H6 HA S3
+C2 S2 CJ C3
+H2 H7 H9 S4
+C6 SJ CQ C4
+H5 HT HQ S5
+C9 SQ CK C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "61"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AQJ62.J8.AT.A765 73.Q7653.QJ2.JT3 KT95.AK42.8764.8 84.T9.K953.KQ942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S Pass 2NT
+Pass 3H Pass 4S
+AP
+[Play "N"]
+DQ D4 D3 DA
+H3 HA H9 H8
+H5 HK HT HJ
+CJ C8 CQ CA
+C3 S5 C4 C5
+H6 H2 C2 S2
+CT -  -  C6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "61"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AQJ62.J8.AT.A765 73.Q7653.QJ2.JT3 KT95.AK42.8764.8 84.T9.K953.KQ942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2C Pass 4S
+AP
+[Play "N"]
+DQ D4 D5 DA
+C3 C8 C2 CA
+CT S5 C4 C5
+D2 D6 DK DT
+S3 S9 S4 S2
+H3 HA H9 H8
+H5 HK HT HJ
+DJ D7 D3 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "62"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ84.AT3.KJ965.A A2.8742.Q432.932 T5.KJ965.T.KQT75 Q9763.Q.A87.J864"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 4H AP
+[Play "S"]
+S6 S4 SA S5
+SQ SK S2 ST
+S3 SJ H2 H5
+-  -  -  DT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "62"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ84.AT3.KJ965.A A2.8742.Q432.932 T5.KJ965.T.KQT75 Q9763.Q.A87.J864"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1NT Pass 3H Pass
+4H AP
+[Play "S"]
+S3 S4 SA S5
+HQ HA H4 H5
+C6 CA C2 C5
+S6 H3 H2 H9
+SQ SK S2 ST
+S7 SJ H8 HJ
+C4 HT C3 C7
+S9 S8 D4 H6
+D7 D5 H7 HK
+-  -  -  CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "63"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q95.QJ.AK874.JT2 AKJ764.6.Q3.8543 T83.A8432.952.Q6 2.KT975.JT6.AK97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+1H Pass 1S Pass
+2C Pass 3S AP
+[Play "E"]
+D2 D6 DK D3
+D5 DT DA DQ
+HA H5 HJ H6
+H4 HK HQ C4
+S3 S2 S5 SA
+S8 H7 S9 SK
+ST -  -  SJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "63"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q95.QJ.AK874.JT2 AKJ764.6.Q3.8543 T83.A8432.952.Q6 2.KT975.JT6.AK97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "10"]
+[Auction "S"]
+Pass 1D 2S AP
+[Play "E"]
+D2 D6 DK D3
+D9 DJ DA DQ
+D5 DT D7 H6
+S8 S2 S5 SJ
+S3 H5 S9 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "64"]
+[West "Cohen"]
+[North "Martel"]
+[East "Berkowitz"]
+[South "Stansby"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKT5.J7.AKQ3.865 J86.T53.J64.KQ73 732.962.952.AJ94 Q94.AKQ84.T87.T2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1D 1H
+X 2H X Pass
+2S AP
+[Play "N"]
+H5 H2 HK H7
+H3 H6 HA HJ
+D4 D2 D7 DA
+C3 C9 CT C5
+D6 D5 D8 DK
+SJ S2 S4 S5
+CK CA C2 C6
+S6 S3 S9 SA
+S8 S7 SQ SK
+C7 D9 H4 ST
+DJ -  -  DQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Reno NV:Hilton Hotel"]
+[Date "1998.03.??"]
+[Board "64"]
+[West "Goldman"]
+[North "Seamon"]
+[East "Soloway"]
+[South "Passell"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AKT5.J7.AKQ3.865 J86.T53.J64.KQ73 732.962.952.AJ94 Q94.AKQ84.T87.T2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+1NT Pass Pass 2H
+AP
+[Play "W"]
+DK D4 D2 D8
+SK S6 S2 S9
+DQ D6 D5 DT
+C8 CK C9 C2
+H7 H3 H2 HA
+HJ H5 H6 HK
+C6 C3 CJ CT
+DA DJ D9 D7
+SA -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

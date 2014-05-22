@@ -10,27 +10,29 @@
  *------------------------------------------------------------*/
 
 
-defs :-  forall(deal(ID, _), deal_def(ID)). 
-
-deal_def(ID) :-
-  maplist(hand_def(ID), [1,2, 3, 4]),
-  bids_def(ID, 1, 9). 
+deal_record_def(ID) :-
+  hand_types(ID), 
+  bid_types(ID, 8). 
 
 % Hand type defintions
+% This uses the predicates "correct_hand predicates from check.pl
 
-hand_def(ID, H) :-
-  hands(ID, Hands), 
+hand_types(ID) :-
+  ( \+ record_feature(ID, hands(_))
+  ; record_feature(ID, hand(Hands))
+  , \+ correct_hands(Hands)
+  ; record_feature(ID, hands(Hands))
+  , maplist(hand_def(ID, Hands), [1,2,3,4])
+  ). 
+
+hand_def(ID, Hands, H) :-
   nth1(H, Hands, Hand), 
   hcp(Hand, HCP),
   distr(Hand, Distr), 
   findall(Type, hand_type(Distr, Type), HandTypes), 
   HandDef =.. [hand, ID, H, HCP, Distr, HandTypes],
-  write_ln(HandDef), 
-  assert(HandDef). 
-
-hands(ID, Hands) :-
-  deal(ID, Facts),
-  nth1(2, Facts, Hands). 
+  assert(HandDef), 
+  write_term(data, HandDef, [fullstop(true), nl(true)]).
 
 hcp(Hand, HCP) :-
   flatten(Hand, H), 
@@ -74,7 +76,7 @@ baltype([_, [_, _, _, 1]], unbalanced).
 baltype([_, [_, _, _, 0]], unbalanced). 
 
 suittype([_, [4, _, _, _]], balanced_suited). 
-suittype([_, [S1, S2, _, _]], single-suited) :-
+suittype([_, [S1, S2, _, _]], single_suited) :-
   S1 >= 5, S2 =< 3. 
 suittype([_, [S1, 4, _, _]], two_suited_short) :- 
   S1 >= 5.
@@ -84,24 +86,28 @@ suittype([_, [_, _, 4, _]], three_suited).
 
 % Bid type definitions (two types)
 
-bids_def(_, N, N). 
-bids_def(ID, N, _) :-
-  deal(ID, Facts),
-  nth1(5, Facts, Auction),
+bid_types(ID, _) :-
+  \+ record_feature(ID, auction(_)).
+bid_types(ID, N) :-
+  record_feature(ID, auction(Auction)),
   length(Auction, L), 
-  N > L.
-bids_def(ID, N, Max) :-
-  deal(ID, Facts),
-  nth1(5, Facts, Auction),
-  nth1(N, Auction, Bid),
-  player_position(N, Player, Round), 
-  list_before(N, Auction, BidHistory), 
+  ( L < N
+  , Num is L
+  ; Num is N
+  ), 
+  bids_def(ID, Auction, 0, Num). 
+ 
+bids_def(_, _, N, N). 
+bids_def(ID, Auction, N, Max) :-
+  BidNum is N + 1,  
+  nth1(BidNum, Auction, Bid),
+  player_position(BidNum, Player, Round), 
+  list_before(BidNum, Auction, BidHistory), 
   bid_def(ID, Player, Round, Bid, BidHistory, Features),
   BidDef =.. [bid, ID, Player, Round, Bid, Features], 
-  assert(BidDef),
-  write_ln(BidDef), 
-  NextN is N + 1, 
-  bids_def(ID, NextN, Max). 
+  assert(BidDef), 
+  write_term(data, BidDef, [fullstop(true), nl(true)]),
+  bids_def(ID, Auction, BidNum, Max). 
 
 bid_def(ID, Player, Round, Bid, BidHistory, Features) :-
   findall(F, call_type(F, Bid), CallTypes), 

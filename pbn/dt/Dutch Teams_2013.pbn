@@ -1,0 +1,5847 @@
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T6.KQT43.A64.QJ5 K932.J6.KQ52.T87 754.A752.J9.AK93 AQJ8.98.T873.642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass 1D 1S 2D !
+3D ! AP
+[Play "S"]
+D7 DA D2 D9
+H9 HK H6 H2
+-  H3 HJ -
+*
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T6.KQT43.A64.QJ5 K932.J6.KQ52.T87 754.A752.J9.AK93 AQJ8.98.T873.642"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass 1NT Pass 2D
+Pass 3H Pass 4H
+AP
+[Play "S"]
+H8 HT HJ HA
+H9 HK H6 H2
+-  CQ -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T63.KJT.A32.J952 AJ7.92.JT987.AQT 985.743.K54.K873 KQ42.AQ865.Q6.64"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 2NT
+Pass 3NT AP
+[Play "E"]
+D4 DQ DA D7
+DK D6 D3 DJ
+D5 H5 D2 D8
+H3 HQ HK H2
+CK C4 C5 CQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T63.KJT.A32.J952 AJ7.92.JT987.AQT 985.743.K54.K873 KQ42.AQ865.Q6.64"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1H Pass 2D
+Pass 2H Pass 3NT
+AP
+[Play "E"]
+C3 C4 CJ CQ
+D4 DQ DA D8
+CK C6 C2 CT
+H7 HA HJ H2
+DK D6 D2 DT
+H4 -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J7432.AKT.62.764 Q8.75432.QJT.AQ8 KT.96.K943.JT953 A965.QJ8.A875.K2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT =1= Pass 2D =2= Pass
+2H Pass 4H AP
+[Note "1:13-16"]
+[Note "2:GF relay"]
+[Play "E"]
+CJ CK C7 C8
+C3 C2 C6 CA
+H6 HQ HK H2
+DK DA D2 DQ
+D3 D5 D6 DJ
+C5 S5 C4 CQ
+H9 H8 HT H3
+CT HJ HA H4
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J7432.AKT.62.764 Q8.75432.QJT.AQ8 KT.96.K943.JT953 A965.QJ8.A875.K2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1NT Pass 2D Pass
+2H Pass 3NT Pass
+4H AP
+[Play "W"]
+D6 DT D3 D8
+HA H2 H6 HQ
+C7 CQ CJ C2
+HK H3 H9 HJ
+S2 SQ SK SA
+HT H4 C5 H8
+SJ S8 ST S5
+D2 -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A98.86.AKQ5.KT95 542.KQJT.T984.J3 KQT3.A9742.J.AQ6 J76.53.7632.8742"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 2H Pass
+3C Pass 3D Pass
+3H X XX Pass
+3S Pass 3NT AP
+[Play "N"]
+HK HA H3 H6
+D4 DJ D2 D5
+C3 CA C2 C5
+CJ CQ C4 C9
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A98.86.AKQ5.KT95 542.KQJT.T984.J3 KQT3.A9742.J.AQ6 J76.53.7632.8742"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 1NT Pass
+2C Pass 2H Pass
+2S Pass 2NT Pass
+3C Pass 3D Pass
+3NT Pass 4NT AP
+[Play "S"]
+C4 CT CJ CA
+D2 D5 D4 DJ
+C2 C5 C3 CQ
+C7 C9 -  C6
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.Q74.KT76.Q64 AT2.AK952.Q53.JT K64.JT6.A942.K92 9753.83.J8.A8753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1NT AP
+[Play "E"]
+D2 D8 DT DQ
+H6 H8 HQ H2
+CK CA C6 CJ
+HT H3 H4 HK
+HJ -  -  HA
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.Q74.KT76.Q64 AT2.AK952.Q53.JT K64.JT6.A942.K92 9753.83.J8.A8753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1H"]
+[Result "7"]
+[Auction "N"]
+1H AP
+[Play "E"]
+S4 S3 SJ S2
+CK CA C6 CJ
+C2 C3 CQ CT
+C9 C5 C4 H2
+H6 H3 H4 HA
+HT H8 H7 HK
+HJ C7 HQ H5
+-  -  S8 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A987.T962.KQ73.A KQ3.AKJ5.2.KQJT4 JT65.84.J954.873 42.Q73.AT86.9652"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D X
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+DK D2 D4 DA
+SA S3 S5 S2
+DQ -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A987.T962.KQ73.A KQ3.AKJ5.2.KQJT4 JT65.84.J954.873 42.Q73.AT86.9652"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 3NT AP
+[Play "W"]
+S7 -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:852.J932.83.QJ73 97.AK864.AQ2.T96 AQ4.T75.T974.A85 KJT63.Q.KJ65.K42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3C Pass 3D Pass
+3NT AP
+[Play "E"]
+D4 D5 D8 DA
+SA S3 S5 S9
+H7 HQ H2 H4
+S4 SK S2 S7
+SQ SJ S8 H6
+CA -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:852.J932.83.QJ73 97.AK864.AQ2.T96 AQ4.T75.T974.A85 KJT63.Q.KJ65.K42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+3NT AP
+[Play "W"]
+CQ C6 C5 CK
+D3 DQ D4 D5
+S8 S7 S4 SK
+H2 H4 H7 HQ
+D8 DA D7 D6
+-  HA H5 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.AQ85.864.Q8632 J652.K76.AT9.J97 K74.JT92.QJ73.AT AQ983.43.K52.K54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D 1S
+X 2D ! 2H 2S
+3H 3S AP
+[Play "W"]
+C3 C7 CA C5
+C2 C9 CT CK
+H5 HK H2 H3
+ST SJ S4 S3
+C6 S2 S7 S8
+H8 S5 SK SA
+HA H6 H9 H4
+CQ CJ D3 C4
+D6 D9 DJ DK
+D4 DT -  D2
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.AQ85.864.Q8632 J652.K76.AT9.J97 K74.JT92.QJ73.AT AQ983.43.K52.K54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1D =1= 1S
+X 2NT Pass 3S
+AP
+[Note "1:11-15 unbal."]
+[Play "W"]
+D4 D9 DJ DK
+H5 HK H2 H4
+ST SJ S4 S3
+C2 S2 S7 S8
+D6 S5 SK SA
+H8 H6 HT H3
+HQ H7 HJ S9
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K872.Q2.5.KQ9843 T543.A9654.AJ.65 AQ6.J3.KQ8763.J2 J9.KT87.T942.AT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+1NT =1= X Pass Pass
+XX 2D Pass 3NT
+AP
+[Note "1:10-12"]
+[Play "N"]
+H4 H3 HT HQ
+C6 CJ CA C3
+H6 HJ HK H2
+H9 D3 H8 S2
+HA D6 H7 D5
+H5 D7 D4 C4
+S5 S6 SJ SK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K872.Q2.5.KQ9843 T543.A9654.AJ.65 AQ6.J3.KQ8763.J2 J9.KT87.T942.AT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2D Pass Pass
+2H 2S 3H AP
+[Play "E"]
+DK D2 D5 DA
+H3 H7 H2 HA
+HJ HK HQ H5
+-  D4 C3 DJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:53.9.A97543.K984 K942.AQT32.J6.Q3 6.K84.KT82.AT765 AQJT87.J765.Q.J2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 2S
+Pass 3D Pass 3H
+Pass 3NT Pass 4S
+AP
+[Play "W"]
+H9 HA H8 H7
+S3 S2 S6 SA
+S5 S4 C5 SQ
+C9 HQ HK H6
+C4 C3 CA CJ
+CK CQ C6 C2
+DA -  -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:53.9.A97543.K984 K942.AQT32.J6.Q3 6.K84.KT82.AT765 AQJT87.J765.Q.J2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1S Pass 2NT
+Pass 3S =1= Pass 4S
+AP
+[Note "1:min"]
+[Play "W"]
+H9 HA H4 H7
+S3 S2 S6 SA
+S5 SK C5 ST
+D3 H2 H8 HJ
+D4 HQ HK H6
+DA D6 D2 DQ
+CK C3 C7 CJ
+C4 CQ CA C2
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q976.J6.5.JT6432 84.Q32.QJT97.AQ5 J.AT975.8643.K87 AKT532.K84.AK2.9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 1NT Pass
+3S Pass 4S AP
+[Play "W"]
+D5 DQ D3 DA
+S7 S4 SJ SA
+S6 S8 D4 SK
+S9 D7 D6 DK
+CT CA C7 C9
+C2 CQ CK S2
+SQ C5 C8 ST
+H6 H3 HA H4
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q976.J6.5.JT6432 84.Q32.QJT97.AQ5 J.AT975.8643.K87 AKT532.K84.AK2.9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+1S Pass 1NT Pass
+3C Pass 3D Pass
+3S Pass 4S AP
+[Play "W"]
+D5 D7 D3 DA
+S6 S4 SJ SA
+S7 S8 H5 SK
+S9 D9 D4 DK
+HJ HQ HA H4
+H6 H2 H9 HK
+C2 CQ CK C9
+-  -  HT H8
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ5.KQ4.943.Q864 KQT6.982.AQJ2.97 72.AJ765.K76.A53 9843.T3.T85.KJT2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1H Pass
+1NT Pass 2C Pass
+2D Pass 2H AP
+[Play "S"]
+D5 D3 DA D6
+S9 SA SQ S2
+H3 HK H2 H5
+HT HQ H8 H6
+D8 H4 H9 HA
+CK C4 C9 C3
+S4 SJ SK S7
+S3 S5 ST H7
+S8 D4 C7 HJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJ5.KQ4.943.Q864 KQT6.982.AQJ2.97 72.AJ765.K76.A53 9843.T3.T85.KJT2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+1NT =1= Pass 2D Pass
+2H Pass 3NT Pass
+4H AP
+[Note "1:12-15"]
+[Play "N"]
+SK S2 S3 S5
+DJ DK D5 D4
+H2 H5 H3 HK
+C7 C3 CK CQ
+DQ D6 D8 D9
+DA D7 DT D3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ86.QJ.A32.AT52 T4.6432.KQT7.Q87 J752.K7.964.J943 A93.AT985.J85.K6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H X
+3H AP
+[Play "W"]
+SK S4 S2 S3
+S6 ST SJ SA
+HJ H2 H7 HA
+HQ H3 HK HT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ86.QJ.A32.AT52 T4.6432.KQT7.Q87 J752.K7.964.J943 A93.AT985.J85.K6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H X
+3H AP
+[Play "W"]
+SK S4 S2 SA
+HJ H2 H7 HA
+HQ H3 HK H5
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ732.QJ3.AK64.A 95.97.JT95.QT754 Q864.AK8.Q.KJ932 KT.T6542.8732.86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+3NT Pass 4D Pass
+4H Pass 4NT Pass
+5C Pass 5D Pass
+6D Pass 6S AP
+[Play "S"]
+D2 D4 DJ DQ
+C6 CA C4 C2
+-  S2 S5 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "B. Muller"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ732.QJ3.AK64.A 95.97.JT95.QT754 Q864.AK8.Q.KJ932 KT.T6542.8732.86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "12"]
+[Auction "E"]
+2D =1= Pass 2NT =2= Pass
+3C Pass 3D Pass
+3S Pass 4C Pass
+4S Pass 4NT Pass
+5S Pass 5NT Pass
+6C Pass 6S AP
+[Note "1:11-15 short !D"]
+[Note "2:relay"]
+[Play "S"]
+H2 H3 H9 HA
+ST SA S5 S4
+SK S2 S9 SQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "Bc \\'T Onstein 1 +10"]
+[VisitTeam "Bc \\'T Onstein 2"]
+[Room "Closed"]
+
+% PBN created by BFC f2.lin P
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T6.Q543.976.J743 Q732.KJT.KT54.QT 5.987.J82.AK9852 AKJ984.A62.AQ3.6"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+1S Pass 2NT 3C
+4C Pass 4D Pass
+4H Pass 4S Pass
+6S AP
+[Play "W"]
+CJ CQ CK C6
+C7 CT CA SA
+S6 S2 S5 SK
+ST SQ C2 SJ
+D6 D4 D2 DA
+D7 D5 D8 DQ
+D9 DK DJ D3
+*
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T6.Q543.976.J743 Q732.KJT.KT54.QT 5.987.J82.AK9852 AKJ984.A62.AQ3.6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "S"]
+1S Pass 2NT 3C
+X 4C 4S 5C
+6S AP
+[Play "W"]
+C4 CT CK C6
+C3 CQ CA S4
+S6 S2 S5 SA
+ST S3 C5 SK
+H3 HT H7 HA
+D6 D4 D2 DA
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q6.QT84.KQ864.K7 KT7542.J.A9.JT64 AJ8.K963.53.AQ92 93.A752.JT72.853"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1H 1S 2S Pass
+4H AP
+[Play "N"]
+CJ C2 C5 CK
+HJ HK H2 H4
+DA D3 D2 DQ
+C4 C9 C3 C7
+D9 D5 DT DK
+SK SA S3 SQ
+C6 CA C8 S6
+-  CQ -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q6.QT84.KQ864.K7 KT7542.J.A9.JT64 AJ8.K963.53.AQ92 93.A752.JT72.853"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+1D 3S 3NT AP
+[Play "S"]
+S9 SQ SK SA
+D7 DK D9 D3
+HA H4 HJ HK
+S3 S6 ST SJ
+D2 DQ DA D5
+C3 D4 S5 S8
+H2 HT -  H3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT2.T98.72.T8764 K984.AK32.AJ86.3 75.Q75.KQT53.A92 AJ63.J64.94.KQJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1S Pass
+3H =1= Pass 4S AP
+[Note "1:4441 or 5!D4!S"]
+[Play "W"]
+HT HA H7 H4
+C6 C3 C2 CK
+D2 D6 DT D9
+ST SK S5 S3
+H8 HK H5 H6
+D7 DA D3 D4
+C4 DJ DK S6
+C7 S4 C9 C5
+S2 S8 S7 SA
+C8 S9 CA CJ
+SQ D8 D5 SJ
+H9 H2 HQ HJ
+CT H3 DQ CQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT2.T98.72.T8764 K984.AK32.AJ86.3 75.Q75.KQT53.A92 AJ63.J64.94.KQJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1D Pass 1S Pass
+3S Pass 4S AP
+[Play "W"]
+HT HA H7 H4
+C6 C3 CA C5
+ST SK S5 S3
+SQ S4 S7 SJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AK4.8764.953.932 Q98.K32.J42.AKJ8 J5.T95.AKT876.Q7 T7632.AQJ.Q.T654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D X
+3D 3S AP
+[Play "W"]
+D3 D2 DK DQ
+H4 H2 H9 HJ
+S4 SQ S5 S2
+SK S8 SJ S3
+D9 DJ DA S7
+C2 CA C7 C5
+H6 HK H5 HQ
+H7 H3 HT HA
+C3 CJ CQ C6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AK4.8764.953.932 Q98.K32.J42.AKJ8 J5.T95.AKT876.Q7 T7632.AQJ.Q.T654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass Pass 1C =1=
+1D 1S 2D X
+3D 3S AP
+[Note "1:2+"]
+[Play "W"]
+D9 D4 DA DQ
+H4 H2 H5 HQ
+SK S8 S5 S2
+D5 D2 D6 S3
+SA S9 SJ S6
+D3 DJ DK S7
+C3 CJ CQ C4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:87.832.KT98732.K QJ2.T4.AQJ6.AJ64 A953.AKQJ76..872 KT64.95.54.QT953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1NT 2C
+Pass 2D Pass 3H
+Pass 4H AP
+[Play "S"]
+H5 H2 H4 H6
+C3 CK CA C2
+H9 H3 HT HA
+S4 S7 SQ S3
+ST S8 S2 S5
+D5 DT DJ H7
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:87.832.KT98732.K QJ2.T4.AQJ6.AJ64 A953.AKQJ76..872 KT64.95.54.QT953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "S"]
+Pass 2C =1= Pass 2H
+Pass 3H Pass 4H
+AP
+[Note "1:weak !D or something strong"]
+[Play "S"]
+H5 H2 H4 H7
+C5 CK CA C7
+H9 H3 HT HA
+S4 S7 SJ S5
+C3 H8 C4 C2
+S6 S8 S2 SA
+C9 D2 D6 HK
+D4 -  -  HQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:973.Q874.AQ.K643 J52.63.J976532.7 Q8.AKJ952.8.QT52 AKT64.T.KT4.AJ98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1H 1S
+2H 2S 4H AP
+[Play "S"]
+SA S3 S2 S8
+SK S7 S5 SQ
+ST S9 SJ H2
+HT H4 H3 HA
+S4 H7 H6 HK
+C9 CK C7 C2
+CJ C3 D2 CT
+D4 DA D3 D8
+DK DQ D9 C5
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:973.Q874.AQ.K643 J52.63.J976532.7 Q8.AKJ952.8.QT52 AKT64.T.KT4.AJ98"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1H 1S
+2S Pass 3C X
+4C Pass 4H AP
+[Play "S"]
+SK S3 SJ S8
+SA S7 S2 SQ
+CA C3 C7 C2
+C8 C4 H3 C5
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J9.863.QJ2.QJT73 AT4.72.9754.9842 87653.J954.K863. KQ2.AKQT.AT.AK65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "W"]
+CQ C2 S3 CA
+S9 SA S5 S2
+DJ D4 D3 DT
+SJ S4 S6 SK
+C3 ST S7 SQ
+H3 H2 H4 HA
+H6 H7 H5 HK
+H8 D5 H9 HQ
+D2 D7 D6 DA
+C7 C4 -  CK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:J9.863.QJ2.QJT73 AT4.72.9754.9842 87653.J954.K863. KQ2.AKQT.AT.AK65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 2H Pass
+2S Pass 2NT Pass
+3NT AP
+[Play "W"]
+CQ C2 S8 CA
+H6 H2 H4 HA
+S9 SA S3 S2
+H3 H7 H5 HT
+H8 D4 H9 HK
+C3 D5 HJ HQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:87542.J98.JT9.Q8 JT.65.A72.JT6432 A63.AKQT32.K85.5 KQ9.74.Q643.AK97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1D 2C
+2H X Pass 3C
+AP
+[Play "E"]
+HK H4 H9 H6
+HA H7 H8 H5
+C5 CA C8 C2
+H2 CK CQ CJ
+SA S9 S5 SJ
+S3 -  -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:87542.J98.JT9.Q8 JT.65.A72.JT6432 A63.AKQT32.K85.5 KQ9.74.Q643.AK97"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "E"]
+1H X 2H 3C
+4H 5C Pass Pass
+X AP
+[Play "E"]
+HA H4 H9 H6
+HK H7 H8 H5
+C5 CA C8 C2
+H2 CK CQ CJ
+SA SK S8 ST
+S3 S9 S2 SJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.K865.K652.KQT6 Q7532.Q7432.A83. AJ9.A9.QT94.J843 KT84.JT.J7.A9752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1D 2D =1= X
+XX =2= Pass 2H X =3=
+3S Pass Pass 3NT
+AP
+[Note "1:Majors"]
+[Note "2:Strength"]
+[Note "3:Takeout"]
+[Play "S"]
+S4 S6 S7 S9
+C7 CK H7 C3
+CA CQ D3 C4
+SK H5 S2 SJ
+ST H6 S3 SA
+D7 -  -  DQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:6.K865.K652.KQT6 Q7532.Q7432.A83. AJ9.A9.QT94.J843 KT84.JT.J7.A9752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "S"]
+Pass 1C =1= 2D =2= 2H !
+4S Pass Pass X
+Pass 5C Pass Pass
+X AP
+[Note "1:2+"]
+[Note "2:majors"]
+[Play "N"]
+H2 HA HT H6
+S2 C3 C2 CK
+D8 DQ D7 D2
+DA DT DJ DK
+D3 D9 C5 D5
+S3 C4 CA C6
+H4 C8 C7 CT
+S5 D4 C9 D6
+SQ SA S4 S6
+H3 H9 HJ HK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ6532.K3.A6.Q53 J4.AT4.T83.AKJ96 9.Q65.KQJ974.874 KT87.J9872.52.T2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+1S 2C 2D Pass
+2S AP
+[Play "N"]
+CA C4 C2 C5
+D3 DK D2 D6
+S4 S9 ST SQ
+SJ D4 S7 SA
+D8 C7 SK S2
+CK C8 CT CQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ6532.K3.A6.Q53 J4.AT4.T83.AKJ96 9.Q65.KQJ974.874 KT87.J9872.52.T2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1S X 2D 2H
+2S AP
+[Play "N"]
+CK C4 C2 C3
+D8 DK D2 D6
+S4 S9 ST SQ
+SJ D4 S7 SA
+D3 D7 D5 DA
+HA H5 H9 HK
+CA C7 CT C5
+C9 C8 S8 CQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T872.43.AQ93.963 AQ6.J7.KJT4.KJ87 K943.AQ95.872.T2 J5.KT862.65.AQ54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1H Pass
+1NT =1= Pass 2C =2= Pass
+2D =3= Pass 2H =4= Pass
+3NT AP
+[Note "1:13-16 may have 4!S"]
+[Note "2:Forces 2!D"]
+[Note "3:Relay"]
+[Note "4:Inv 5+!H, denies 4!S"]
+[Play "E"]
+S3 SJ S2 S6
+D8 D6 DA D4
+SK S5 S8 SQ
+S4 H2 S7 SA
+C2 CQ C3 C7
+D2 D5 D3 DJ
+CT CA C6 C8
+H5 C4 C9 CJ
+D7 H6 D9 DK
+H9 C5 H3 CK
+HA H8 H4 H7
+S9 HT ST HJ
+HQ HK DQ DT
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T872.43.AQ93.963 AQ6.J7.KJT4.KJ87 K943.AQ95.872.T2 J5.KT862.65.AQ54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H =1= Pass 3C Pass
+3NT AP
+[Note "1:2!H"]
+[Play "E"]
+D2 D5 DQ DK
+HA H2 H3 HJ
+D7 D6 DA D4
+SK S5 S8 S6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQ.KQ32.KQ9.JT63 T976.JT85.AJ82.8 A52.A97.T643.KQ9 J843.64.75.A7542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "S"]
+C2 C3 C8 C9
+D5 DK D2 D3
+CA C6 S9 CQ
+H6 HK H8 H7
+S3 SQ S6 S2
+S4 SK S7 S5
+C4 CT ST CK
+D7 D9 DJ D4
+H4 H2 HJ HA
+S8 DQ -  SA
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQ.KQ32.KQ9.JT63 T976.JT85.AJ82.8 A52.A97.T643.KQ9 J843.64.75.A7542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1H Pass
+1NT Pass 3NT AP
+[Play "S"]
+C2 C3 C8 CK
+D5 DK D2 D3
+CA C6 S6 CQ
+H4 HK H5 H7
+S3 SQ S7 S2
+S4 SK S9 S5
+D7 DQ DA D4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:82.A.QJ985.QJ863 QT9.J52.K632.T95 K653.K98643.T74. AJ74.QT7.A.AK742"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+1C 1D Pass 1H
+X Pass 1NT 2D
+X Pass 2S AP
+[Play "E"]
+D4 DA D9 D6
+S3 CA C6 C5
+H6 HQ HA H2
+H3 CK CQ C9
+S5 SA S2 S9
+H4 C2 CJ CT
+SK C4 C3 SQ
+HK H7 D5 H5
+H8 HT S8 HJ
+-  -  C8 ST
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:82.A.QJ985.QJ863 QT9.J52.K632.T95 K653.K98643.T74. AJ74.QT7.A.AK742"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C 1D Pass 1H
+2S Pass 3D Pass
+3NT AP
+[Play "W"]
+DQ D2 DT DA
+C6 C5 H3 CA
+HA H2 H6 HQ
+CQ C9 D4 CK
+CJ CT H4 C2
+DJ DK D7 H7
+S2 SQ S3 S4
+S8 ST S5 S7
+C3 S9 SK SA
+D5 D3 S6 SJ
+-  -  -  HT
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ942.J.AT87.976 AK86.865.Q92.KT4 3.AQT9742.KJ.AQ8 T75.K3.6543.J532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 1C 4H AP
+[Play "S"]
+S5 SQ SK S3
+HK HJ H6 H2
+D6 D7 D9 DJ
+H3 S2 H5 HA
+S7 S4 H8 HQ
+D3 C6 S6 HT
+D4 C7 S8 H9
+D5 S9 CT H4
+ST D8 CK H7
+C2 DA D2 DK
+-  C9 C4 -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ942.J.AT87.976 AK86.865.Q92.KT4 3.AQT9742.KJ.AQ8 T75.K3.6543.J532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+2S =1= Pass 4H AP
+[Note "1:5!S+minor"]
+[Play "S"]
+C2 C6 CK CA
+D3 DA D2 DJ
+HK HJ H5 H2
+S7 SQ SK S3
+-  -  SA HA
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "Bc \\'T Onstein 1 +34"]
+[VisitTeam "Bc \\'T Onstein 2 +7"]
+[Room "Closed"]
+
+% PBN created by BFC f3.lin P
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J972.Q76.KJ4.K97 843.8.QT873.A832 AT65.AK54.A96.Q6 KQ.JT932.52.JT54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass 1C 1H X
+Pass 1NT =1= Pass 3NT
+AP
+[Note "1:17-19 HCP"]
+[Play "S"]
+H2 HQ H8 H4
+SQ SJ S3 S5
+CJ C7 C2 CQ
+SK S2 S4 SA
+HJ S9 S8 S6
+D2 S7 D7 ST
+D5 DJ DQ D6
+C5 DK D8 D9
+H3 H6 C3 HA
+H9 H7 C8 HK
+-  -  -  DA
+*
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J972.Q76.KJ4.K97 843.8.QT873.A832 AT65.AK54.A96.Q6 KQ.JT932.52.JT54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT Pass 3NT
+AP
+[Play "S"]
+HJ -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:8.AJ6.KJ954.J763 Q54.875.AQ72.T84 J62.K32.T863.K52 AKT973.QT94..AQ9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 1S Pass 2S
+Pass 4S AP
+[Play "W"]
+C6 C8 CK CA
+S8 S4 S2 SA
+D4 S5 S6 SK
+D5 SQ SJ ST
+D9 DA D3 C9
+HJ H8 H3 H4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:8.AJ6.KJ954.J763 Q54.875.AQ72.T84 J62.K32.T863.K52 AKT973.QT94..AQ9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass 4S AP
+[Play "W"]
+D5 DQ D6 C9
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q43.A2.AJT93.982 T976.J8.74.QJT74 K8.QT76543.82.K5 AJ52.K9.KQ65.A63"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1C 1D Pass 1H
+Pass 1NT Pass 2H
+Pass Pass X XX
+2S 3H AP
+[Play "S"]
+C3 C2 CJ CK
+H9 HA H8 H3
+HK H2 HJ HQ
+CA C8 C4 C5
+C6 C9 CT -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q43.A2.AJT93.982 T976.J8.74.QJT74 K8.QT76543.82.K5 AJ52.K9.KQ65.A63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "S"]
+1D Pass 1NT 2D
+Pass 2H AP
+[Play "N"]
+D4 -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ76.KJ8763.QT.J KT54.Q.KJ9.K9872 9832.54.A62.Q643 A.AT92.87543.AT5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1S Pass 2D
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+H5 H2 HK HQ
+S9 SA S6 S4
+DA D3 DQ DK
+H4 HA H7 S5
+D2 D4 DT DJ
+D6 D5 H3 D9
+C3 CT CJ C2
+S2 H9 SQ SK
+C4 CA H6 C7
+S3 D8 S7 C8
+S8 D7 H8 C9
+C6 C5 HJ CK
+CQ HT SJ ST
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJ76.KJ8763.QT.J KT54.Q.KJ9.K9872 9832.54.A62.Q643 A.AT92.87543.AT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1C Pass 1D
+1H Pass Pass 3NT
+AP
+[Play "W"]
+SQ S4 S2 SA
+DT DJ DA D3
+HK HQ H5 H2
+CJ CK C4 C5
+DQ DK D2 D4
+H7 D9 D6 D5
+H3 C2 C3 CT
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:JT76.K432.7.QJ98 AK942.J6.AT9.K54 Q5.T8.QJ85432.72 83.AQ975.K6.AT63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1NT 3D 3S Pass
+3NT AP
+[Play "E"]
+DQ DK D7 D9
+H8 H5 H2 HJ
+S5 S3 S6 SA
+SQ S8 S7 SK
+D5 H7 ST S2
+D4 H9 SJ S4
+C2 C3 CJ C4
+-  -  HK -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:JT76.K432.7.QJ98 AK942.J6.AT9.K54 Q5.T8.QJ85432.72 83.AQ975.K6.AT63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1S 3D 3H Pass
+3NT AP
+[Play "E"]
+C7 C3 C8 CK
+H8 H5 H2 HJ
+HT HQ HK H6
+C2 CA CQ C4
+D4 HA H3 S4
+D3 H9 H4 DT
+D2 H7 D7 C5
+SQ S3 S6 S9
+S5 S8 ST SA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ5.83.T8753.AJ4 JT6.AQ92.AJ6.T82 A9432.KJ765.4.Q7 87.T4.KQ92.K9653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1S Pass
+2S Pass 3S AP
+[Play "N"]
+S6 S2 S7 SK
+H2 HJ H4 H3
+C2 CQ CK CA
+HA H5 HT H8
+SJ S3 S8 SQ
+C8 C7 C3 CJ
+CT S4 C5 C4
+H9 HK DQ D3
+HQ H6 D2 S5
+DA D4 D9 D8
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ5.83.T8753.AJ4 JT6.AQ92.AJ6.T82 A9432.KJ765.4.Q7 87.T4.KQ92.K9653"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2NT Pass
+4S AP
+[Play "S"]
+HT H3 HA H6
+H4 H8 H2 HK
+CK CA C2 CQ
+D2 D3 DA D4
+C3 CJ C8 C7
+D9 D5 D6 S2
+S7 SK H9 H5
+S8 SQ S6 S3
+DQ D7 DJ S4
+C5 S5 HQ H7
+C6 C4 CT S9
+C9 D8 ST SA
+DK DT SJ HJ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ2.7643.JT84.87 K953.KQ.AKQ65.Q4 T86.A9852.2.KT52 Q74.JT.973.AJ963"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1NT =1= Pass
+2NT =2= Pass 3C =3= Pass
+3NT AP
+[Note "1:18-20 NT"]
+[Note "2:Relay"]
+[Note "3:No weak doubleton"]
+[Play "E"]
+H5 HT H3 HQ
+C2 C3 C7 CQ
+D2 D3 D4 DA
+S8 D7 D8 DK
+C5 CJ C8 C4
+CT CA H7 D5
+S6 S4 S2 SK
+H2 D9 DT DQ
+HA HJ H4 HK
+H9 C6 H6 S3
+CK C9 SJ S5
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ2.7643.JT84.87 K953.KQ.AKQ65.Q4 T86.A9852.2.KT52 Q74.JT.973.AJ963"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 2C Pass
+2D Pass 2NT Pass
+3C Pass 3D Pass
+3NT AP
+[Play "E"]
+H2 HT H3 HQ
+CK CA C7 CQ
+D2 D3 D4 DK
+S6 D9 D8 DA
+C5 C9 C8 C4
+C2 CJ H6 S5
+S8 D7 DT DQ
+ST SQ SA S9
+HA HJ H7 HK
+H9 C3 H4 D5
+H8 C6 DJ D6
+H5 S4 S2 S3
+CT S7 SJ SK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q84.KJ4.JT5.AQ93 J7.6532.7643.J62 AK9653.QT7.AK2.T T2.A98.Q98.K8754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Auction "W"]
+1D Pass 2C Pass
+2NT Pass 3H Pass
+3S Pass 4C Pass
+4H Pass 4NT Pass
+5C Pass 5D Pass
+6D Pass 6S AP
+[Play "N"]
+D4 DA D8 D5
+S7 SA S2 S4
+C2 CT C4 CA
+C6 S9 C5 C3
+SJ SK ST S8
+CJ S3 C8 SQ
+H2 S5 C7 CQ
+H3 HQ HA H4
+H5 H7 H9 HK
+H6 HT H8 HJ
+D3 D2 DQ DJ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q84.KJ4.JT5.AQ93 J7.6532.7643.J62 AK9653.QT7.AK2.T T2.A98.Q98.K8754"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass 2D Pass
+2S Pass 3S Pass
+3NT Pass 4S AP
+[Play "S"]
+C8 CA C2 CT
+S2 SQ S7 S3
+ST S8 SJ SA
+H8 HJ H2 H7
+C4 C3 C6 S5
+HA H4 H3 HQ
+H9 HK H5 HT
+C5 C9 CJ SK
+D8 D5 D3 DA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AKJ653.952.J7.T8 4.AK63.AKQ62.KQ2 QT982.Q74.85.A65 7.JT8.T943.J9743"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Auction "N"]
+1D Pass 2NT Pass
+5D AP
+[Play "E"]
+S9 S7 SK S4
+H4 H8 H5 HA
+D5 D3 D7 DA
+D8 D4 DJ DK
+CA C3 C8 CK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AKJ653.952.J7.T8 4.AK63.AKQ62.KQ2 QT982.Q74.85.A65 7.JT8.T943.J9743"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "10"]
+[Auction "N"]
+1D Pass 1H 1S
+3S 4S Pass Pass
+4NT Pass 5D Pass
+5H AP
+[Play "W"]
+SA S4 S8 S7
+C8 CK CA C3
+CT CQ C5 C4
+H2 HA H4 H8
+H5 HK H7 HT
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A952.A53.985.Q32 JT864.KJ4.J32.T5 Q73.T92.KQ64.AK4 K.Q876.AT7.J9876"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "E"]
+1NT Pass 2NT AP
+[Play "S"]
+C9 CQ C5 C4
+DA D5 D3 DQ
+H6 HA H4 H2
+SK S2 S8 SQ
+H8 H3 HK H9
+CJ C2 CT CA
+C8 S5 ST S7
+HQ H5 HJ HT
+H7 C3 S4 D4
+C7 D8 -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A952.A53.985.Q32 JT864.KJ4.J32.T5 Q73.T92.KQ64.AK4 K.Q876.AT7.J9876"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT AP
+[Play "S"]
+C8 CQ C5 C4
+SK S2 S6 SQ
+H7 H3 HJ H2
+C6 SA SJ S3
+DA D5 D3 DK
+H8 H5 HK H9
+H6 HA H4 HT
+DT D8 D2 D4
+HQ C2 S4 S7
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.JT9542.Q43.QJ7 AQ9852.A86.2.864 764..KT9876.KT93 KT3.KQ73.AJ5.A52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1NT Pass 4D ! Pass
+4S AP
+[Play "W"]
+CQ C4 C3 CA
+D3 D2 D6 DA
+D4 S2 D7 D5
+SJ SA S4 S3
+H2 S5 S6 ST
+DQ S8 D8 DJ
+H4 S9 S7 SK
+H5 HA D9 H3
+C7 SQ DT C2
+H9 H6 C9 HK
+HT H8 CT HQ
+-  -  -  H7
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J.JT9542.Q43.QJ7 AQ9852.A86.2.864 764..KT9876.KT93 KT3.KQ73.AJ5.A52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+1NT 2D 3H Pass
+4S AP
+[Play "W"]
+CQ C4 C9 CA
+SJ SA S4 S3
+H2 S2 S6 SK
+H4 SQ S7 ST
+D4 S9 D6 C2
+H5 S8 D7 C5
+H9 H6 D8 HK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKJ965.J63.872.A T4.K8752.954.982 32.Q9.KQJT63.T73 Q87.AT4.A.KQJ654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1S Pass 1NT 2C
+2S Pass Pass 3C
+AP
+[Play "W"]
+SK S4 S2 S8
+D7 D9 DT DA
+SJ ST S3 S7
+D2 D4 DK C4
+CA C2 C3 CQ
+SA C8 CT SQ
+D8 D5 D6 CK
+S5 C9 C7 CJ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKJ965.J63.872.A T4.K8752.954.982 32.Q9.KQJT63.T73 Q87.AT4.A.KQJ654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1S Pass 3D Pass
+4S AP
+[Play "N"]
+H2 H9 HA H6
+C9 C3 CQ CA
+S4 S2 S7 SA
+ST S3 S8 SK
+D4 DK DA D2
+HK HQ H4 H3
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q42.J83.AQJT8.J7 AT3.KT75.7543.K6 KJ6.642.K6.A9532 9875.AQ9.92.QT84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q42.J83.AQJT8.J7 AT3.KT75.7543.K6 KJ6.642.K6.A9532 9875.AQ9.92.QT84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1NT Pass 3NT
+AP
+[Play "S"]
+S9 S2 S3 SK
+S7 SQ SA S6
+HQ H3 H5 H2
+HA H8 H7 H4
+H9 HJ HK H6
+-  -  HT -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "Verhees"]
+[North "Drijver"]
+[East "V.Prooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:65.AK.K976.K8763 AKJ8.T863.QJ.AQ5 Q74.Q7542.8532.9 T932.J9.AT4.JT42"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Auction "E"]
+Pass 4S AP
+[Play "W"]
+HK -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "S. de Wijs"]
+[North "T.Bakkeren"]
+[East "J.V.D.Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:65.AK.K976.K8763 AKJ8.T863.QJ.AQ5 Q74.Q7542.8532.9 T932.J9.AT4.JT42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1C 1NT
+AP
+[Play "E"]
+H2 H9 HA H3
+H5 HJ HK H6
+C9 CJ C3 C5
+SQ S2 S5 SJ
+HQ D4 D6 H8
+D3 -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Bc \\'T Onstein 1 +50"]
+[VisitTeam "Bc \\'T Onstein 2 +51"]
+[Room "Closed"]
+
+% PBN created by BFC f4.lin P
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T52.K876.A5.AJT9 KJ764.AJ52.42.82 AQ3.T94.KQT6.K63 98.Q3.J9873.Q754"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass 1D 1S 2S
+Pass 2NT Pass 3NT
+AP
+[Play "N"]
+H2 H4 HQ HK
+HJ H9 H3 H6
+C8 C3 CQ CA
+HA HT -  H8
+*
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T52.K876.A5.AJT9 KJ764.AJ52.42.82 AQ3.T94.KQT6.K63 98.Q3.J9873.Q754"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1C =1= 1S 3NT
+AP
+[Note "1:2+!C"]
+[Play "S"]
+S9 S2 S6 SQ
+C4 C9 C8 CK
+C5 CT C2 C3
+D3 DA D2 D6
+D7 D5 D4 DK
+C7 CJ H2 C6
+CQ CA H5 H4
+S8 S5 SK SA
+D8 H6 HJ DQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A7653.JT5.T743.4 T.AQ742.Q86.AQ82 Q4.K8.AKJ92.T975 KJ982.963.5.KJ63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 3H
+Pass 4H AP
+[Play "E"]
+DK D5 D7 D6
+C5 C3 C4 CA
+S4 S2 SA ST
+HK H3 H5 HQ
+C7 CK HJ C2
+H8 H6 HT HA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A7653.JT5.T743.4 T.AQ742.Q86.AQ82 Q4.K8.AKJ92.T975 KJ982.963.5.KJ63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 2D 3D =1=
+3S 4H AP
+[Note "1:3(+)!H INV(+)"]
+[Play "E"]
+DA D5 D4 D8
+D9 S2 D7 DQ
+C5 CK C4 C2
+HK H3 H5 HQ
+CT C3 D3 CQ
+H8 H6 HT HA
+DJ H9 DT D6
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T96.8753.532.QT9 Q7.K.QT64.AK7632 K82.A962.KJ97.54 AJ543.QJT4.A8.J8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1C =1= X XX Pass
+1D Pass 3NT AP
+[Note "1:2+ if bal"]
+[Play "W"]
+H7 HK HA H4
+H3 D4 H2 HQ
+C9 C2 C4 C8
+S9 SQ SK SA
+CQ CA C5 CJ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T96.8753.532.QT9 Q7.K.QT64.AK7632 K82.A962.KJ97.54 AJ543.QJT4.A8.J8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1C =1= X XX 1H
+2C Pass 3NT AP
+[Note "1:2+!C"]
+[Play "W"]
+ST SQ SK S3
+S6 S7 S8 SA
+S9 C2 S2 SJ
+H8 C3 C4 S5
+H3 HK H2 H4
+CT CA C5 C8
+C9 CK H6 CJ
+D2 D4 D7 DA
+H5 C6 H9 S4
+-  -  -  HQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:4.KQ874.Q9862.52 AK93.962.J3.KJ97 Q8762.AJ3.7.QT64 JT5.T5.AKT54.A83"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Auction "E"]
+Pass 1D 1H X =1=
+2D =2= X 2H =3= X
+Pass 2S Pass 4S
+AP
+[Note "1:4+!s"]
+[Note "2:good raise"]
+[Note "3:."]
+[Play "W"]
+HK H2 H3 H5
+H8 H6 HA HT
+H7 H9 HJ S5
+S4 S3 SQ ST
+HQ SA S2 SJ
+D2 SK S6 D4
+C2 S9 S7 C3
+D6 DJ D7 DA
+D8 D3 S8 DK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:4.KQ874.Q9862.52 AK93.962.J3.KJ97 Q8762.AJ3.7.QT64 JT5.T5.AKT54.A83"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "6"]
+[Auction "E"]
+Pass 1D 1H X =1=
+2D =2= X =3= 2H X =4=
+XX 2S 3H 4S
+X AP
+[Note "1:exactly 4!S"]
+[Note "2:good !H raise"]
+[Note "3:Good !D"]
+[Note "4:t/o"]
+[Play "W"]
+HK H2 H3 HT
+S4 S3 SQ S5
+H4 SA S2 ST
+DQ DJ D7 D4
+H7 H6 HA H5
+C5 S9 S6 SJ
+D2 D3 S7 DA
+HQ H9 HJ C3
+H8 SK C4 D5
+C2 C7 C6 CA
+D6 C9 S8 DK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q9764.KQ4.9843.9 AK3.AJ63.T2.AJ43 J82.T9.QJ75.KT87 T5.8752.AK6.Q652"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1NT =1= Pass 2D =2= Pass
+2H =3= Pass 4H AP
+[Note "1:9-12"]
+[Note "2:GF asking"]
+[Note "3:4/5!h, no 4!s"]
+[Play "W"]
+C9 C3 C7 CQ
+HQ HA H9 H2
+D3 D2 D5 DA
+H4 HJ HT H5
+D9 DT D7 DK
+D8 H3 DJ D6
+S7 SA S2 S5
+S4 SK S8 ST
+S6 S3 SJ H7
+-  -  -  C2
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:Q9764.KQ4.9843.9 AK3.AJ63.T2.AJ43 J82.T9.QJ75.KT87 T5.8752.AK6.Q652"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1NT Pass
+2C Pass 2H Pass
+4H AP
+[Play "E"]
+HT H2 HK HA
+D5 DA D3 D2
+H9 H5 HQ H3
+C7 C2 C9 CA
+D7 H7 H4 HJ
+CK C5 S4 CJ
+DQ DK D4 DT
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K72.7.A9764.J843 Q3.K65.J53.AQT96 A98.AT94.KQ8.K75 JT654.QJ832.T2.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1C =1= X Pass
+2D Pass 3NT AP
+[Note "1:2+ if bal"]
+[Play "S"]
+HQ H7 H5 H4
+H3 C3 HK HA
+DT D4 D3 DK
+D2 D6 D5 DQ
+HJ S2 H6 HT
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K72.7.A9764.J843 Q3.K65.J53.AQT96 A98.AT94.KQ8.K75 JT654.QJ832.T2.2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1C =1= X 1S
+2D Pass 2NT Pass
+3NT AP
+[Note "1:2+!C"]
+[Play "S"]
+H2 H7 HK HA
+DT D4 D3 DK
+D2 D6 D5 DQ
+S4 DA DJ D8
+C2 C3 CA C5
+HJ C4 H6 HT
+HQ -  -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T9.KJ76.KJ95.J86 A74.T854.T42.KQ9 KQJ653.3.A73.A75 82.AQ92.Q86.T432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 3S Pass 4S
+AP
+[Play "S"]
+C3 C6 CQ CA
+HA H6 H4 H3
+CT CJ CK C5
+C2 C8 C9 C7
+D8 DJ D4 D3
+S2 S9 S4 S3
+S8 ST SA S5
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T9.KJ76.KJ95.J86 A74.T854.T42.KQ9 KQJ653.3.A73.A75 82.AQ92.Q86.T432"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S Pass 1NT
+Pass 2S AP
+[Play "S"]
+C3 C6 CQ CA
+S2 S9 S7 S5
+S8 ST S4 SJ
+C2 H6 SA SK
+HA H7 H4 H3
+C4 CJ CK C5
+CT C8 C9 C7
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J54.AKT54..KJ843 KT92.J72.J62.A65 AQ873.86.AK43.Q7 6.Q93.QT9875.T92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1H =1= Pass
+1S Pass 2C Pass
+2NT =2= Pass 4S AP
+[Note "1:."]
+[Note "2:max 5!s-4!d"]
+[Play "S"]
+CT C3 CA C7
+C2 C4 C6 CQ
+S6 S4 S2 SA
+DT SJ SK S3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J54.AKT54..KJ843 KT92.J72.J62.A65 AQ873.86.AK43.Q7 6.Q93.QT9875.T92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2C Pass
+2D =1= Pass 3S Pass
+4D =2= Pass 4S AP
+[Note "1:A: nat, B: doesn\\'t want to bid 2!S or 2N"]
+[Note "2:cue bid, serious"]
+[Play "S"]
+CT C3 CA C7
+C9 C4 C6 CQ
+S6 S4 S2 SA
+D5 S5 D2 D3
+D7 SJ SK S3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AT54.AQ63.T4.J64 J.T87.AQ9632.Q32 KQ3.94.K7.AKT985 98762.KJ52.J85.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "S"]
+Pass 1D Pass 2C
+Pass 2D Pass 2S =1=
+Pass 2NT =2= Pass 3NT
+AP
+[Note "1:no slam interest relay"]
+[Note "2:11-13 bal, but not 4333"]
+[Play "N"]
+D2 DK D8 D4
+C3 CA C7 C6
+SJ SK S2 S4
+H8 SQ S9 S5
+H7 S3 S8 ST
+HT D7 S7 SA
+D3 H4 H5 HA
+C2 C5 D5 CJ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AT54.AQ63.T4.J64 J.T87.AQ9632.Q32 KQ3.94.K7.AKT985 98762.KJ52.J85.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 2C =1= 3C
+Pass 3D Pass 3NT
+AP
+[Note "1:6+!D weak or strong"]
+[Play "S"]
+D5 D4 DA D7
+D8 DT D2 DK
+C7 C4 C3 CA
+S6 C6 C2 CK
+H2 HQ H8 H4
+-  S4 SJ -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J.AQT3.JT2.AKQ86 T852.82.Q84.J532 974.J97654.93.T7 AKQ63.K.AK765.94"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1C Pass 1D =1= 1S
+X =2= 2S 2NT =3= 4S
+AP
+[Note "1:0-7 any"]
+[Note "2:t/o"]
+[Note "3:lebensohl"]
+[Play "W"]
+CK C2 C7 C4
+CA C3 CT C9
+D2 D4 D9 DA
+SJ S2 S4 SA
+H3 S5 S7 SK
+C6 S8 S9 SQ
+DT DQ D3 D7
+DJ D8 H4 DK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J.AQT3.JT2.AKQ86 T852.82.Q84.J532 974.J97654.93.T7 AKQ63.K.AK765.94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5HX"]
+[Result "10"]
+[Auction "W"]
+1C =1= Pass 2H =2= X
+Pass 2S Pass 4S
+5H X AP
+[Note "1:2+!C"]
+[Note "2:weak"]
+[Play "S"]
+DK D2 D8 D3
+DA DT D4 D9
+SQ SJ S8 S7
+D6 DJ DQ H5
+HK -  -  HJ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J63.A8762.65.QJ5 A742.9.QT3.AKT63 98.KJ543.AKJ98.4 KQT5.QT.742.9872"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1C =1= 2NT ! Pass 4H
+AP
+[Note "1:2+"]
+[Play "N"]
+CA C4 C9 C5
+SA S8 S5 S3
+S2 S9 SQ S6
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J63.A8762.65.QJ5 A742.9.QT3.AKT63 98.KJ543.AKJ98.4 KQT5.QT.742.9872"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1C =1= 2NT ! Pass 4H
+AP
+[Note "1:2+!C"]
+[Play "N"]
+CA C4 C9 C5
+SA S8 S5 S6
+S7 S9 SQ S3
+S2 H3 SK SJ
+H9 H4 HT HA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A4.KJ75.94.AQT87 KQ52.T2.87532.K5 J9763.AQ.KQT6.63 T8.98643.AJ.J942"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+1D Pass 2C Pass
+2H Pass 2S Pass
+2NT =1= Pass 3NT AP
+[Note "1:5242"]
+[Play "S"]
+H8 H5 H2 HA
+C2 CT C5 C3
+H4 H7 HT HQ
+CJ CQ CK C6
+ST SA S2 S9
+H3 HK D8 S3
+C4 CA S5 S6
+H6 HJ D2 D6
+DA D4 D3 DQ
+H9 S4 D5 S7
+C9 C7 D7 SJ
+S8 D9 SQ DT
+DJ C8 SK DK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:A4.KJ75.94.AQT87 KQ52.T2.87532.K5 J9763.AQ.KQT6.63 T8.98643.AJ.J942"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1S Pass 2C =1= Pass
+2D =2= Pass 2NT Pass
+3NT AP
+[Note "1:doesnt have to be 4+!C, GF"]
+[Note "2:A) nat B) doesn\\'t want to bid 2!S or 2N"]
+[Play "N"]
+D2 D6 DJ D4
+SQ S3 S8 S4
+S2 S6 ST SA
+D3 DT DA D9
+CK C3 C2 CQ
+SK S7 -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:74.KT9876.J63.QT AQ653.52.972.J98 K8.J43.KQT5.7543 JT92.AQ.A84.AK62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1C =1= 2H X 3H
+4S AP
+[Note "1:2+ if bal"]
+[Play "W"]
+H9 H5 HJ HQ
+S4 S3 SK SJ
+D3 D2 DQ D4
+D6 D7 D5 DA
+H8 H2 H4 HA
+S7 SQ S8 ST
+DJ D9 DK D8
+CT C8 C3 CA
+CQ C9 C5 CK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:74.KT9876.J63.QT AQ653.52.972.J98 K8.J43.KQT5.7543 JT92.AQ.A84.AK62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1C =1= 2H 2S =2= 3H
+3NT AP
+[Note "1:2+!C"]
+[Note "2:NF"]
+[Play "W"]
+H9 H2 HJ HQ
+S4 S3 SK SJ
+HT H5 H3 HA
+S7 S5 S8 ST
+H6 S6 D5 S9
+D3 SQ C5 S2
+D6 SA DT D8
+CT C8 C3 CA
+CQ C9 C4 CK
+H7 CJ C7 C2
+DJ D2 DQ DA
+H8 D7 H4 C6
+HK D9 DK D4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "Verhees"]
+[North "Drijver"]
+[East "Vprooijen"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.Q973.9765.QT932 J5.8542.AK2.KJ54 AKQ98.KT.T843.A8 T76432.AJ6.QJ.76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "7"]
+[Auction "W"]
+Pass 1C 1S 1NT
+Pass Pass 2D AP
+[Play "S"]
+C7 C2 CJ CA
+DJ D5 D2 D3
+HA H3 H8 HT
+C6 C3 CK C8
+DQ C9 C5 S8
+S2 H7 SJ SQ
+S3 D6 DK D4
+S4 D7 DA D8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "de Wijs"]
+[North "T.Bakkeren"]
+[East "V.D Neut"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.Q973.9765.QT932 J5.8542.AK2.KJ54 AKQ98.KT.T843.A8 T76432.AJ6.QJ.76"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "6"]
+[Auction "W"]
+Pass 1C 1S AP
+[Play "S"]
+DQ D5 D2 D3
+DJ D6 DK DT
+C6 D7 DA D8
+HA H3 H5 HT
+H6 H7 H2 HK
+S2 C2 S5 SA
+S3 C3 SJ SK
+S4 C9 H4 SQ
+ST H9 H8 S9
+S6 D9 C5 S8
+S7 CT C4 D4
+C7 CQ CK CA
+HJ HQ CJ C8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Bc \\'T Onstein 1 +91"]
+[VisitTeam "Bc \\'T Onstein 2 +79"]
+[Room "Closed"]
+
+% PBN created by BFC f5.lin P
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ7.98.T952.T543 JT852.KQJ.84.KQ9 943.AT7532.J3.87 K6.64.AKQ76.AJ62"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1S Pass 2C =1= Pass
+2D =2= Pass 2H Pass
+2NT =3= 3C Pass 3H =4=
+Pass 3S Pass 3NT =5=
+AP
+[Note "1:GF relay"]
+[Note "2:min. not 4!h"]
+[Note "3:no 2nd sup"]
+[Note "4:\\'short\\' middle suit"]
+[Note "5:5323"]
+[Play "E"]
+H2 H4 H8 HJ
+D3 DA D2 D4
+DJ DK D5 D8
+S9 DQ DT S2
+S4 D6 D9 S5
+HA H6 H9 HQ
+H5 S6 S7 HK
+*
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "1"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ7.98.T952.T543 JT852.KQJ.84.KQ9 943.AT7532.J3.87 K6.64.AKQ76.AJ62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1S Pass 2C Pass
+2NT Pass 3C Pass
+3H Pass 3NT AP
+[Play "E"]
+H2 H4 H8 HJ
+S3 SK SA S2
+HA H6 H9 HQ
+H3 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QJ98.A4.763.AKT3 62.JT852.QT9.QJ2 KT754.KQ9.A852.6 A3.763.KJ4.98754"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1S Pass 2NT Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4S AP
+[Play "S"]
+D4 D3 DQ DA
+SA S8 S2 S4
+DK D6 D9 D2
+DJ D7 DT D8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "2"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QJ98.A4.763.AKT3 62.JT852.QT9.QJ2 KT754.KQ9.A852.6 A3.763.KJ4.98754"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1S Pass 2NT =1= Pass
+4S AP
+[Note "1:10-14 3+!S"]
+[Play "S"]
+C4 CA C2 C6
+SA SQ S2 S5
+C5 C3 CQ S4
+S3 S8 S6 S7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K86.T972.Q9752.7 T9543.A3.AK.AJ94 QJ7.KQJ8.JT.K652 A2.654.8643.QT83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1S =1= X
+Pass 2H X Pass
+2S 3D Pass 3H
+AP
+[Note "1:could be 4 and weak in 3rd"]
+[Play "N"]
+DK DT D6 D7
+CA C2 CT C7
+C4 CK C3 S8
+HA HK H6 H2
+CJ C5 CQ H7
+ST S7 SA SK
+DA DJ D3 D2
+C9 C6 C8 H9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "3"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K86.T972.Q9752.7 T9543.A3.AK.AJ94 QJ7.KQJ8.JT.K652 A2.654.8643.QT83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C =1= Pass
+1D =2= Pass 1S =3= Pass
+2C =4= AP
+[Note "1:16+"]
+[Note "2:0-7"]
+[Note "3:4+!S forcing, can be canape"]
+[Note "4:5-7 no 3!S, no 5!H"]
+[Play "E"]
+HK H4 H2 H3
+HQ H5 H7 HA
+S7 SA S6 S3
+SQ S2 SK S4
+HJ H6 HT C4
+SJ C3 S8 S5
+C2 CQ C7 C9
+C5 C8 H9 CA
+DT D3 D2 DA
+C6 CT D5 ST
+DJ D4 D7 DK
+-  -  -  S9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:8.Q74.QT643.KQ86 AKJT63.K3.2.JT92 Q9.JT982.AJ95.A4 7542.A65.K87.753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass 1S X 2H =1=
+X =2= 4S AP
+[Note "1:good !s-raise"]
+[Note "2:t/o"]
+[Play "E"]
+HJ H5 H4 HK
+DA D7 D3 D2
+H8 HA H7 H3
+H2 H6 HQ SJ
+S9 S2 S8 SA
+SQ S4 D4 SK
+HT S5 C6 S3
+D5 DK D6 C2
+DJ D8 DT ST
+CA C3 C8 C9
+C4 C5 CQ CT
+D9 C7 CK CJ
+H9 S7 DQ S6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "4"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:8.Q74.QT643.KQ86 AKJT63.K3.2.JT92 Q9.JT982.AJ95.A4 7542.A65.K87.753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+Pass 2C =1= Pass 2D =2=
+Pass 2S =3= AP
+[Note "1:10-15 a) 6+!C b) 5+!S 4+!C"]
+[Note "2:asks"]
+[Note "3:5+!S-4+!C"]
+[Play "E"]
+HJ H5 H7 HK
+S9 S2 S8 SA
+SQ S4 D3 SK
+DA D7 D4 D2
+HT HA H4 H3
+H9 H6 HQ S3
+H2 S7 D6 S6
+D5 DK DT C2
+D9 D8 DQ ST
+CA C3 C6 C9
+C4 C5 -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQJ85.AJ73.K6.K7 32.965.JT952.543 9764.Q42.AQ7.JT9 AT.KT8.843.AQ862"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1C =1= 1S
+Pass 2NT =2= Pass 4S
+AP
+[Note "1:2+"]
+[Note "2:4+!s, weaker than 3!c"]
+[Play "N"]
+DJ D7 D8 DK
+S2 S4 SA SK
+C5 C9 CA C7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "5"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQJ85.AJ73.K6.K7 32.965.JT952.543 9764.Q42.AQ7.JT9 AT.KT8.843.AQ862"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1D =1= X
+Pass 1S Pass 3S
+Pass 4D Pass 4S
+AP
+[Note "1:10-15 0+!D"]
+[Play "S"]
+CA C7 C3 C9
+HT H3 H6 HQ
+SA S5 S2 S7
+H8 HJ H5 H2
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT6.T6432.76.AQ9 K7.A875.AK2.K643 QJ542.J.T984.T72 983.KQ9.QJ53.J85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1H 1NT
+Pass 3NT AP
+[Play "E"]
+HJ HK H3 H5
+C7 C5 CA C3
+S2 S3 ST SK
+D4 HQ H2 H7
+DT H9 HT HA
+D9 S8 H4 H8
+D8 D3 D6 DA
+SQ D5 D7 DK
+S4 DJ S6 D2
+S5 DQ H6 S7
+SJ S9 SA C4
+C2 CJ C9 C6
+CT C8 CQ CK
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "6"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT6.T6432.76.AQ9 K7.A875.AK2.K643 QJ542.J.T984.T72 983.KQ9.QJ53.J85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass Pass 1C =1=
+Pass 1H =2= Pass 1NT =3=
+Pass 2C =4= Pass 2NT =5=
+Pass 3NT AP
+[Note "1:16+"]
+[Note "2:bal GF"]
+[Note "3:normally bal"]
+[Note "4:8-9"]
+[Note "5:no Slam try"]
+[Play "E"]
+S2 S3 SA S7
+S5 S8 ST SK
+HJ HK H4 H5
+D4 HQ H2 H7
+-  H9 HT HA
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J65.AT7.94.AKJ76 87.Q9852.KJ632.5 T32.KJ6.A75.T983 AKQ94.43.QT8.Q42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+1S 2C X 2S
+Pass 3C AP
+[Play "N"]
+S8 S2 SQ SJ
+S7 S3 SK S5
+D2 ST SA S6
+D3 DA DT D4
+C5 C3 C2 CA
+H9 C8 C4 CK
+DJ D5 DQ D9
+H2 C9 CQ C6
+D6 D7 D8 C7
+H5 HJ H3 H7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "7"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J65.AT7.94.AKJ76 87.Q9852.KJ632.5 T32.KJ6.A75.T983 AKQ94.43.QT8.Q42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+1S =1= 2C X 3C
+Pass =2= Pass Pass
+[Note "1:10-15 4+!S can be canape"]
+[Note "2:Normally no 5!D/!H"]
+[Play "N"]
+S8 S2 SQ S6
+S7 S3 SK SJ
+D3 ST SA S5
+D2 DA DT D4
+C5 C3 C2 CA
+D6 C8 C4 CK
+DJ D5 DQ D9
+H2 C9 CQ C6
+DK D7 D8 C7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:4.AJT65.T873.J86 6.K87432.A962.A7 AQ75.Q.KJ5.Q9432 KJT9832.9.Q4.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+2D =1= Pass 2H 3S =2=
+AP
+[Note "1:weak !h or strong hands"]
+[Note "2:weak"]
+[Play "W"]
+D7 DA D5 D4
+C8 CA C3 C5
+C6 C7 C4 CK
+CJ S6 CQ CT
+HJ H2 HQ H9
+D3 H3 C2 DQ
+H5 H4 C9 SJ
+S4 D2 SA SK
+D8 D6 DK S9
+H6 D9 SQ ST
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "8"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:4.AJT65.T873.J86 6.K87432.A962.A7 AQ75.Q.KJ5.Q9432 KJT9832.9.Q4.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "W"]
+2H =1= Pass 3C =2= 3S
+Pass 3NT X 4S
+Pass Pass X AP
+[Note "1:3-10 5!H-4+minor"]
+[Note "2:pass or correct"]
+[Play "W"]
+C6 CA C4 C5
+CJ C7 C2 CK
+C8 S6 C3 CT
+H5 H2 HQ H9
+H6 H3 C9 SJ
+S4 H4 SA SK
+HT D2 CQ S2
+HJ H7 S5 ST
+D3 D6 SQ S9
+D7 H8 S7 S8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KT84.Q2.AT6.A752 QJ652.AT65.984.T A97.K83.J5.KJ863 3.J974.KQ732.Q94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1C =1= 1D 1S
+2D X =2= 3D X
+Pass 3S Pass 3NT
+AP
+[Note "1:2+"]
+[Note "2:3!s"]
+[Play "N"]
+D9 D5 DK DA
+CT C3 C4 CA
+S6 CJ CQ C2
+D4 DJ D2 D6
+S2 CK C9 C7
+H5 C6 H7 C5
+H6 C8 H9 H2
+S5 S7 S3 SK
+HA H3 H4 HQ
+D8 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "9"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KT84.Q2.AT6.A752 QJ652.AT65.984.T A97.K83.J5.KJ863 3.J974.KQ732.Q94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1C =1= 1D 1S
+2D X =2= Pass 3NT
+AP
+[Note "1:2+!C"]
+[Note "2:no agreements, but they both thought 3!S"]
+[Play "N"]
+D9 DJ DQ D6
+HA H3 H4 HQ
+H5 H8 HJ H2
+H6 HK H9 C2
+CT C3 C4 CA
+S2 CK C9 C5
+S5 C6 CQ C7
+HT -  H7 S4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:8532.AJ62.A63.32 AKQ.K87.KT9.QJ75 J6.Q3.QJ8752.KT4 T974.T954.4.A986"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "E"]
+2C Pass 2D 2NT
+AP
+[Play "E"]
+DQ D4 D3 DK
+CK CA C2 CQ
+C4 C9 C3 C7
+CT C6 S2 CJ
+S6 S4 S3 SA
+SJ S7 S5 SK
+D2 S9 S8 SQ
+H3 C8 H2 C5
+D5 ST H6 H7
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "10"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:8532.AJ62.A63.32 AKQ.K87.KT9.QJ75 J6.Q3.QJ8752.KT4 T974.T954.4.A986"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "6"]
+[Auction "E"]
+Pass Pass Pass 1C =1=
+1D Pass =2= 2D Pass
+Pass X =3= XX Pass
+3D X =4= Pass 3H
+AP
+[Note "1:16+"]
+[Note "2:0-4"]
+[Note "3:take out"]
+[Note "4:take out"]
+[Play "E"]
+DQ D4 DA D9
+DJ H4 D6 DT
+H3 H5 H2 HK
+HQ H9 HA H8
+D2 HT HJ H7
+D5 S4 D3 DK
+CK CA C2 CQ
+CT C9 C3 C5
+D8 S7 S2 C7
+D7 C6 S3 SQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:872.A64.AKQ2.KT3 QJ9.J952.T75.QJ6 A65.83.J98.A9852 KT43.KQT7.643.74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 3NT
+AP
+[Play "N"]
+SQ SA S3 S8
+C6 C2 C7 CK
+CJ C5 C4 CT
+SJ S5 S4 S2
+S9 S6 ST S7
+H2 H3 SK H4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "11"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:872.A64.AKQ2.KT3 QJ9.J952.T75.QJ6 A65.83.J98.A9852 KT43.KQT7.643.74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 3NT
+AP
+[Play "N"]
+SQ SA S3 S8
+C6 CA C7 C3
+CJ C2 C4 CT
+SJ S5 S4 S2
+S9 S6 SK S7
+-  -  ST H4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ8.AK432.K6.J86 AQ653.Q75.542.92 7.JT.JT.AKQT7543 T942.986.AQ9873."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Auction "W"]
+1NT Pass 2S ! Pass
+3C Pass 3S =1= Pass
+4C Pass 4S =2= Pass
+4NT =3= Pass 5C AP
+[Note "1:short !s"]
+[Note "2:rkc !c "]
+[Note "3:1/4"]
+[Play "N"]
+SA S7 S2 S8
+D5 DT DA D6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "12"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ8.AK432.K6.J86 AQ653.Q75.542.92 7.JT.JT.AKQT7543 T942.986.AQ9873."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Auction "W"]
+1NT Pass 2S =1= Pass
+3C =2= Pass 3S =3= Pass
+4H =4= Pass 4NT Pass
+5C AP
+[Note "1:6+!C"]
+[Note "2:2N would show good hand"]
+[Note "3:0-1!S"]
+[Note "4:maybe cue, maybe to play"]
+[Play "N"]
+D2 DT DA D6
+D4 DJ DQ DK
+C9 CA D3 C6
+C2 CK D9 C8
+H5 HT H8 HA
+H7 HJ H6 HK
+HQ C3 H9 H3
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:3.98642.AJ95.AKQ AK9.Q5.K6.T98742 J86542.KJ.742.53 QT7.AT73.QT83.J6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1H Pass
+2C AP
+[Play "E"]
+HK HA H6 H5
+C3 CJ CQ C2
+HJ H3 H4 HQ
+C5 C6 CK C4
+D7 S7 CA C7
+D2 D3 DA D6
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "13"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:3.98642.AJ95.AKQ AK9.Q5.K6.T98742 J86542.KJ.742.53 QT7.AT73.QT83.J6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "N"]
+1NT =1= Pass 2C Pass
+2D Pass 2NT =2= AP
+[Note "1:14-16"]
+[Note "2:4!H and/or 4!S"]
+[Play "E"]
+S4 SQ S3 S9
+C3 CJ CQ C2
+HJ HA H4 H5
+C5 C6 CK C4
+S8 D3 CA C7
+HK H3 H6 HQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:92.AJT62.5.AQT53 AJT8.8.KT843.764 764.K943.J976.92 KQ53.Q75.AQ2.KJ8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT 2D X
+XX Pass 2H X
+3H 4S AP
+[Play "W"]
+D5 D3 D7 DA
+S2 S8 S4 SK
+S9 ST S6 S3
+CQ C4 C2 CJ
+CA C6 C9 C8
+CT C7 S7 CK
+HT H8 H3 H5
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "14"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "V.D Neut"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:92.AJT62.5.AQT53 AJT8.8.KT843.764 764.K943.J976.92 KQ53.Q75.AQ2.KJ8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "8"]
+[Auction "E"]
+Pass 1C =1= 1H 2C =2=
+3H Pass 4H X =3=
+Pass 5D AP
+[Note "1:16+, 17+ when Bal"]
+[Note "2:GF 5+!D"]
+[Note "3:take out/please bid on/short !H"]
+[Play "W"]
+HA H8 H4 H7
+HJ C4 HK H5
+CQ C6 C9 CJ
+CA C7 C2 CK
+C3 D8 D9 C8
+H2 S8 H9 HQ
+D5 D3 D6 DA
+-  -  -  DQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "Bc \\'T Onstein 1 +124"]
+[VisitTeam "Bc \\'T Onstein 2 +86"]
+[Room "Closed"]
+
+% PBN created by BFC f6.lin P
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ872.AKQ7.82.63 AKT93.83.T4.AK85 5.T5.A976.QJT942 64.J9642.KQJ53.7"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+Pass 1S Pass 1NT
+2D 2H X =1= 3C
+AP
+[Note "1:t/o"]
+[Play "S"]
+C7 C3 C5 C9
+S4 SQ SK S5
+HJ HA H3 HT
+S6 S2 ST C2
+H2 C6 CK CQ
+H4 HK H8 H5
+H6 HQ C8 CT
+DJ D2 D4 D7
+H9 H7 S3 C4
+D3 D8 DT DA
+D5 S7 CA CJ
+DQ S8 SA D6
+DK SJ S9 D9
+*
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "15"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QJ872.AKQ7.82.63 AKT93.83.T4.AK85 5.T5.A976.QJT942 64.J9642.KQJ53.7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "S"]
+Pass 1S =1= Pass 3C =2=
+X =3= Pass 3NT AP
+[Note "1:5+!S 10-15"]
+[Note "2:to play"]
+[Note "3:take out"]
+[Play "E"]
+CQ C7 C6 C5
+CT H2 C3 CA
+S5 S4 S8 SA
+D6 DK D2 D4
+C2 S6 SJ SK
+D7 D3 SQ ST
+H5 H4 HQ H3
+HT H6 HA H8
+D9 H9 HK C8
+DA D5 D8 DT
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K975.KJT.JT.J987 A8.A986532.A6.T2 QT643.4.K432.A64 J2.Q7.Q9875.KQ53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 1S X
+2H 3H Pass 4H
+AP
+[Play "E"]
+S3 S2 SK SA
+CA C3 C7 C2
+SQ SJ S5 S8
+D4 DQ DT D6
+H4 HQ HK HA
+-  -  -  H9
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "16"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K975.KJT.JT.J987 A8.A986532.A6.T2 QT643.4.K432.A64 J2.Q7.Q9875.KQ53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+Pass 1H =1= 1S X
+3H 4H AP
+[Note "1:10-15 4+!H can be canape"]
+[Play "E"]
+S3 S2 SK SA
+C6 CK C7 CT
+SQ SJ S5 S8
+CA C3 C8 C2
+C4 CQ C9 D6
+H4 H7 HT HA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:843.J.QJ9843.A93 Q952.A762.AT7.54 KT76.KQ854.K5.K8 AJ.T93.62.QJT762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+Pass 1H 2C Pass
+2NT Pass Pass 3D
+AP
+[Play "N"]
+C5 C8 CT CA
+HA H4 HT HJ
+S2 S6 SJ S3
+S5 S7 SA S4
+DA D5 D2 D8
+S9 ST D6 S8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "17"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:843.J.QJ9843.A93 Q952.A762.AT7.54 KT76.KQ854.K5.K8 AJ.T93.62.QJT762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[Auction "N"]
+Pass 1H =1= Pass 2C =2=
+Pass 2D =3= AP
+[Note "1:10-15 5+!H"]
+[Note "2:any INV or wants to play 2!D"]
+[Note "3:no 6!H min, no 5!S"]
+[Play "S"]
+CQ CA C4 C8
+H9 HJ H2 H4
+C7 C3 C5 CK
+HT D3 H6 H5
+CJ C9 D7 DK
+H3 D4 H7 H8
+D2 DQ DA D5
+SJ S3 S2 S6
+SA S4 S5 S7
+CT D8 DT HQ
+D6 S8 S9 SK
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q74.J64.J984.KT6 K82.Q982.T62.Q82 J63.AK53.AQ75.73 AT95.T7.K3.AJ954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+1NT AP
+[Play "S"]
+C4 CT CQ C3
+C9 CK C8 C7
+DK DJ D6 D5
+CA C6 C2 S3
+CJ D8 D2 H5
+C5 D9 DT H3
+D3 D4 H2 DQ
+-  -  -  DA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "18"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q74.J64.J984.KT6 K82.Q982.T62.Q82 J63.AK53.AQ75.73 AT95.T7.K3.AJ954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+1NT =1= AP
+[Note "1:12-15"]
+[Play "S"]
+C5 CT CQ C3
+C9 CK C8 C7
+DK D4 D6 DQ
+CA C6 C2 H3
+CJ D8 H2 S3
+C4 H4 D2 H5
+SA S4 S2 S6
+S5 S7 SK SJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:865.A95.7.KQJ543 AJ7.QJ87.J92.976 KQT2.KT43.AQ3.T2 943.62.KT8654.A8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+2D =1= 3C 3D 3NT
+AP
+[Note "1:weak 5+"]
+[Play "S"]
+D4 D7 DJ DQ
+C8 C3 C9 CT
+CA C4 C7 C2
+DK S5 D2 D3
+DT S6 D9 DA
+H2 HA H7 H4
+D5 CK C6 S2
+D6 CQ H8 ST
+H6 CJ S7 H3
+D8 C5 SJ HT
+S3 S8 SA SQ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "19"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:865.A95.7.KQJ543 AJ7.QJ87.J92.976 KQT2.KT43.AQ3.T2 943.62.KT8654.A8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 2C =1= Pass 2D =2=
+X ! 3C =3= 3D 3NT
+AP
+[Note "1:10-15 6+!C"]
+[Note "2:relay"]
+[Note "3:min good !C no 4M"]
+[Play "S"]
+D6 D7 DJ DQ
+C8 C3 C6 CT
+CA C4 C9 C2
+DT S5 D2 DA
+H2 HA H7 H3
+S4 CK C7 D3
+D5 CQ S7 S2
+S3 CJ SJ H4
+H6 C5 H8 ST
+S9 H5 HJ HK
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKQJT.A4.Q4.JT97 732.KJ2.A9875.K4 95.T65.J632.AQ52 864.Q9873.KT.863"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "11"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass 2S Pass
+2NT Pass 3C AP
+[Play "N"]
+H2 H5 HQ HA
+CK CA C3 CJ
+C4 C2 C6 CT
+D5 CQ C8 C9
+S2 S9 S4 ST
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "20"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKQJT.A4.Q4.JT97 732.KJ2.A9875.K4 95.T65.J632.AQ52 864.Q9873.KT.863"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "10"]
+[Auction "W"]
+1C =1= 1D ! Pass =2= Pass
+1S =3= Pass 1NT Pass
+2NT AP
+[Note "1:16+"]
+[Note "2:6-8 or penalty pass"]
+[Note "3:can be canape"]
+[Play "S"]
+H9 HA HJ H5
+-  CJ CK -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ83.QT98.986.A5 9765.J764.32.986 JT4.AK5.KJ7.KQ43 A2.32.AQT54.JT72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "S"]
+D4 D9 D2 D7
+SA S3 S6 SJ
+S2 S8 S9 ST
+D5 SQ S7 S4
+H2 SK S5 DK
+H3 H8 H6 HA
+DA H9 H4 HK
+DT HQ H7 H5
+DQ D6 D3 DJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "21"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQ83.QT98.986.A5 9765.J764.32.986 JT4.AK5.KJ7.KQ43 A2.32.AQT54.JT72"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass 1C =1= 1D 2D
+Pass 2NT Pass 3C
+Pass 3NT =2= AP
+[Note "1:16+"]
+[Note "2:no 4+!H/!S (15)16+"]
+[Play "S"]
+D5 D9 D2 D7
+SA S3 S5 SJ
+S2 S8 S9 ST
+H2 SQ S7 S4
+H3 H8 H4 HA
+D4 H9 H6 HK
+DT HQ H7 H5
+DQ SK S6 DJ
+DA D6 D3 DK
+CT CA C6 C3
+-  D8 -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T8.85.Q8743.AK92 A964.QJ976.A2.43 KJ53.AK2.6.QJT76 Q72.T43.KJT95.85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+1C =1= 1D 1NT Pass
+2NT Pass 3NT AP
+[Note "1:2+"]
+[Play "N"]
+HQ H2 HT H5
+H6 HK H3 H8
+C4 C6 C5 CK
+S4 SJ SQ S8
+H7 HA H4 D7
+C3 C7 C8 CA
+D2 CQ D5 C2
+S6 CJ S2 C9
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "22"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T8.85.Q8743.AK92 A964.QJ976.A2.43 KJ53.AK2.6.QJT76 Q72.T43.KJT95.85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "E"]
+2D =1= Pass 3C AP
+[Note "1:11-15 short !D"]
+[Play "N"]
+C3 C6 C8 CK
+S4 SJ SQ S8
+C4 CT C5 C2
+SA S3 S2 ST
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ8.A7.QJT84.632 QT9.42.AK9.Q9874 K73.KT853.72.AK5 6542.QJ96.653.JT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1D Pass 1H
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT =1=
+AP
+[Note "1:5!h 332"]
+[Play "N"]
+C9 CA CT C3
+DK D2 D6 DQ
+CQ C5 CJ C2
+C4 CK S2 C6
+DA D7 D3 DJ
+C8 -  -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "23"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ8.A7.QJT84.632 QT9.42.AK9.Q9874 K73.KT853.72.AK5 6542.QJ96.653.JT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT =1= Pass 2D
+Pass 2H Pass 3NT =2=
+AP
+[Note "1:12-15"]
+[Note "2:with 3!H pd can choose"]
+[Play "N"]
+C9 C5 CT C3
+C4 CK CJ C2
+DA D2 D5 DJ
+C7 CA S2 C6
+DK D7 D6 DQ
+CQ -  -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T4.Q87.AJ762.AK9 AK72.AKT4.T93.T5 J965.965.K.Q7643 Q83.J32.Q854.J82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+1NT 2C =1= Pass 2D
+X XX Pass 2H
+AP
+[Note "1:Majors"]
+[Play "W"]
+ST S2 S6 SQ
+H8 HT H6 H2
+HQ HA H9 H3
+H7 H4 H5 HJ
+S4 SA S5 S8
+C9 C5 C6 C8
+CK CT C4 C2
+CA HK C3 CJ
+D2 SK S9 S3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "24"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T4.Q87.AJ762.AK9 AK72.AKT4.T93.T5 J965.965.K.Q7643 Q83.J32.Q854.J82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1NT =1= X XX ! Pass
+2C X =2= Pass ! 2D
+3C AP
+[Note "1:12-15"]
+[Note "2:take out"]
+[Play "N"]
+DT DK D8 D2
+C5 C3 C2 CK
+D3 H5 D5 DA
+SK S5 S8 ST
+CT C4 C8 CA
+S7 SJ SQ S4
+HT H6 H3 H8
+HA H9 H2 H7
+D9 C6 D4 D6
+S2 S6 S3 C9
+HK C7 HJ HQ
+-  CQ CJ -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K64.KQ872.2.T732 A2.JT3.AT3.AJ985 985.A96.QJ7654.6 QJT73.54.K98.KQ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1C 1D 1H =1= 2H
+Pass =2= 3H 3S Pass
+4S AP
+[Note "1:4/5!s"]
+[Note "2:denies 3!s"]
+[Play "W"]
+D2 D3 DJ DK
+S6 S2 S5 SJ
+S4 SA S8 S3
+C2 C5 C6 CK
+SK H3 S9 ST
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "25"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K64.KQ872.2.T732 A2.JT3.AT3.AJ985 985.A96.QJ7654.6 QJT73.54.K98.KQ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1NT =1= Pass 2H Pass
+2S Pass 3NT AP
+[Note "1:14-16"]
+[Play "E"]
+D4 D8 D2 D3
+C6 CK C2 C5
+D5 CQ C3 C8
+DQ C4 C7 C9
+S9 S3 CT CA
+H6 H4 S6 CJ
+D6 D9 H7 DA
+D7 DK H2 DT
+S8 S7 S4 SA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QT2.87.KQ754.864 854.AK632.6.QJ52 976.Q5.AJ93.AK73 AKJ3.JT94.T82.T9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1D Pass 2D 2H
+Pass 4H AP
+[Play "E"]
+CK C9 C8 C5
+CA CT C6 C2
+DA D2 D7 D6
+D3 D8 DQ H2
+H5 H4 H7 HA
+HQ HJ H8 HK
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "26"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:QT2.87.KQ754.864 854.AK632.6.QJ52 976.Q5.AJ93.AK73 AKJ3.JT94.T82.T9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[Auction "E"]
+1NT =1= Pass Pass 2H !
+Pass 3H AP
+[Note "1:12-15"]
+[Play "E"]
+CA C9 C8 C2
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q5.AQ63.KQ965.63 AT84.KJ874.2.AK5 976.T2.JT43.JT82 KJ32.95.A87.Q974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+Pass 1D 1H 3D =1=
+Pass Pass X Pass
+4D X 4S AP
+[Note "1:weak"]
+[Play "E"]
+DJ DA D9 D2
+H2 H5 HA H4
+C2 C4 C3 CA
+HT H9 H6 HK
+D3 S2 H3 HJ
+S6 SK S5 S4
+S7 S3 SQ SA
+D4 SJ HQ H8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "27"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q5.AQ63.KQ965.63 AT84.KJ874.2.AK5 976.T2.JT43.JT82 KJ32.95.A87.Q974"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "S"]
+Pass 1NT =1= X Pass
+Pass 2D =2= X =3= Pass
+3D Pass 3H Pass
+3S Pass 4S AP
+[Note "1:12-15"]
+[Note "2:5+!D"]
+[Note "3:take out"]
+[Play "W"]
+DK D2 DJ DA
+HA H4 H2 H5
+C6 C5 CT CQ
+S5 S4 S6 SK
+SQ SA S7 S2
+H3 HK HT H9
+H6 H7 C2 S3
+C3 CK C8 C4
+HQ H8 CJ SJ
+D5 S8 D3 D7
+-  ST -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "F Bakkeren"]
+[North "Drijver"]
+[East "T Bakkeren"]
+[South "Brink"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.K65.A7653.64 KT3.QT72.4.QJT73 97654.98.JT92.K9 A2.AJ43.KQ8.A852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1S 1NT
+Pass 2S =1= 3D 3H
+Pass 4H AP
+[Note "1:cuebid stayman"]
+[Play "W"]
+H6 HQ H8 H3
+HK H2 H9 HJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Open"]
+
+[Event "Dutch Teams Championship Final"]
+[Site "Utrecht NL"]
+[Date "2013.01.??"]
+[Board "28"]
+[West "de Wijs"]
+[North "V.Prooijen"]
+[East "Muller"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ8.K65.A7653.64 KT3.QT72.4.QJT73 97654.98.JT92.K9 A2.AJ43.KQ8.A852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1C =1=
+1D 1S =2= 3D Pass
+Pass X Pass 3H
+Pass 4H AP
+[Note "1:16+"]
+[Note "2:GF"]
+[Play "W"]
+C6 CQ CK CA
+DA D4 D2 DQ
+C4 CT C9 C8
+HK HQ H8 H3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "Bc \\'T Onstein 1 +144"]
+[VisitTeam "Bc \\'T Onstein 2 +92"]
+[Room "Closed"]
+

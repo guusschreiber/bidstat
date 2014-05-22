@@ -1,0 +1,5450 @@
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "1"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:.98652.Q76.AKJT8 K4.QT7.AK832.Q64 QJ9865.3.J9.7532 AT732.AKJ4.T54.9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S 2C 2D
+3C 3D Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+CK C4 C2 C9
+H5 HQ H3 H4
+C8 SK S5 S2
+CJ C6 C7 S3
+H6 H7 S6 HA
+H2 S4 SQ SA
+H8 HT S8 HK
+H9 D2 SJ S7
+CA CQ C3 ST
+*
+[Result "7"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "2"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:QT976..T986.AQ72 42.KQJT82.32.K95 J85.A965.K.JT643 AK3.743.AQJ754.8"]
+[Dealer "E"]
+[Auction "E"]
+1D 1S 2H 2S
+4H Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S8 SA S6 S2
+C6 C8 CA C9
+S5 SK S7 S4
+H5 H3 S9 HQ
+C4 H4 C2 C5
+HA H7 ST HJ
+DK DA D6 D2
+SJ S3 SQ H2
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "3"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:K5.AQT973.KQ3.64 JT3.KJ6.984.AT32 AQ986.42.A6.KJ98 742.85.JT752.Q75"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 1S Pass
+2H Pass 3C Pass
+3NT Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+D9 DA D2 D3
+HJ H2 H5 HT
+D8 D6 DT DK
+H6 H4 H8 HA
+HK S6 DJ HQ
+S3 S8 S7 SK
+C3 C8 S4 H9
+C2 C9 C5 H7
+D4 - - H3
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "4"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:AT862.Q752.AKQ.5 J95.JT.752.AQT32 K74.K63.J84.K986 Q3.A984.T963.J74"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2C Pass 2D
+Pass 2S Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HJ H3 H4 HQ
+CA C6 C7 C5
+HT H6 H8 H2
+C3 CK C4 H5
+CT C8 CJ S2
+S5 SK S3 S6
+S9 S4 SQ SA
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "5"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:AQ932.6.K.AQT984 KJT5.A432.T74.K2 8.KJT75.A985.J53 764.Q98.QJ632.76"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C X
+1H 2D 2S Pass
+3NT Pass Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+DQ DK D7 D5
+C7 CQ CK C3
+D3 S2 DT DA
+DJ S3 D4 D8
+S7 SA S5 S8
+C6 C4 C2 CJ
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "6"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:AJ.AQ9.9754.T874 Q72.64.KQ2.AQ965 K9863.T532.J6.K3 T54.KJ87.AT83.J2"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 2S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DK D6 D3 D4
+DQ DJ DA D5
+H4 H3 H7 HQ
+CA C3 C2 C4
+H6 H2 HK HA
+D2 S3 D8 D7
+C5 CK CJ C7
+C6 H5 HJ H9
+C9 HT H8 SA
+S2 S6 S5 SJ
+CQ S8 DT D9
+S7 SK S4 C8
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "7"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:84.Q754.9643.K97 A.J96.QJT72.A643 QT9532.AT83.5.Q5 KJ76.K2.AK8.JT82"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1S 3NT
+Pass Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S4 SA ST S6
+CK C3 C5 CJ
+H4 H9 HA H2
+H5 H6 H3 HK
+C7 CA CQ C2
+*
+[Result "11"]
+[Score "+660"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "8"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:AJ863.864.KJ43.T QT.J9.A6.AKQJ753 94.KT73.T875.962 K752.AQ52.Q92.84"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H 1S
+3C Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+D3 D6 DT DQ
+SA ST S4 S2
+D4 DA D5 D2
+*
+[Result "12"]
+[Score "+490"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "9"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:43.94.AQT8764.K6 KJ65.JT765.J9.Q2 T872.Q832.K2.T98 AQ9.AK.53.AJ7543"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 3D X
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3DX"]
+[Play "W"]
+CQ C8 CA C6
+H7 H2 HA H4
+H6 H3 HK H9
+SJ S2 S9 S4
+HJ H8 C3 D4
+C2 C9 C4 CK
+D9 D2 D3 DA
+DJ DK D5 D6
+H5 HQ C5 S3
+*
+[Result "9"]
+[Score "+470"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "10"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:65.AK5.K974.J983 AK3.Q876.AQJ.KT4 QJ84.T943.T53.65 T972.J2.862.AQ72"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass
+1S Pass 2NT Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H9 H2 HK H6
+H4 HJ HA H8
+H3 D2 H5 HQ
+C5 CQ C9 C4
+D5 D6 D4 DQ
+C6 C2 C3 CK
+S4 CA C8 CT
+D3 D8 D7 DJ
+DT C7 DK DA
+S8 S2 S5 SA
+SJ S7 S6 SK
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "11"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:K85.KQT53.873.J2 Q973.J8.AJ.AQT63 J62.A72.654.9754 AT4.964.KQT92.K8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C7 C8 CJ CQ
+C5 CK C2 C3
+D4 D2 D3 DA
+C4 H4 H3 CA
+C9 H6 H5 CT
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "12"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:K9876..QT92.AK65 JT.KJ94.8763.T87 Q543.Q87632.K.J2 A2.AT5.AJ54.Q943"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT 2D Pass
+2S Pass Pass Pass
+[Declarer "N"]
+[Contract "2S"]
+[Play "E"]
+C4 C5 CT CJ
+DA D2 D3 DK
+C3 CA C8 C2
+D4 DQ D6 H3
+D5 D9 D7 S3
+H5 S6 H4 H2
+CQ CK C7 H6
+DJ DT D8 S4
+HT S7 H9 H7
+C9 C6 ST SQ
+SA S8 SJ S5
+*
+[Result "11"]
+[Score "+200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "13"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:K654.6.A632.AT72 A83.QJ85.K4.QJ83 J92.K974.JT8.K94 QT7.AT32.Q975.65"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 2H Pass
+Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+DJ D5 D2 DK
+H4 H2 H6 HJ
+H7 HT D6 H5
+CK C5 C2 CQ
+H9 H3 S4 HQ
+D8 D9 DA D4
+C4 C6 CA C3
+C9 S7 C7 CJ
+HK HA S6 H8
+DT DQ D3 S3
+S9 D7 S5 C8
+S2 ST SK SA
+SJ SQ CT S8
+*
+[Result "10"]
+[Score "+170"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "14"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:KQJ9.KJ.JT763.K4 A852.QT9.K4.AQ96 T764.87653.2.J87 3.A42.AQ985.T532"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D X Pass
+Pass 1S 1NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "1NT"]
+[Play "N"]
+S7 S3 SJ S2
+S6 C2 SQ S5
+S4 D5 SK SA
+D2 D8 D3 DK
+H7 DQ D6 D4
+C8 C3 C4 CQ
+C7 C5 CK CA
+ST CT S9 S8
+H6 H2 HK H9
+H3 HA HJ HT
+H5 DA DJ C9
+H8 H4 D7 HQ
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "15"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:QT4.AT62.T8.AKJ4 AKJ86.73.J973.76 975.KQJ95.Q.T953 32.84.AK6542.Q82"]
+[Dealer "S"]
+[Auction "S"]
+1C 1S X 2D
+2H 3D 3H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+SK S5 S2 ST
+SA S7 S3 S4
+S6 S9 H4 SQ
+D3 DQ DA D8
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "16"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:T94.QJ754.AK86.T AQ52..53.KQJ9874 J8.KT63.QJT4.632 K763.A982.972.A5"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DQ D2 D6 D5
+D4 D7 DK D3
+DJ D9 DA S5
+S8 S3 S4 SA
+SJ SK S9 S2
+- S6 ST SQ
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "17"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:.98652.Q76.AKJT8 K4.QT7.AK832.Q64 QJ9865.3.J9.7532 AT732.AKJ4.T54.9"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass 2S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DK D9 D5 D7
+C4 C2 C9 CJ
+DA DJ D4 D6
+H7 H3 HK H2
+HT S5 HA H6
+C6 C3 S3 C8
+HQ S6 H4 H9
+SK SQ S2 H5
+*
+[Result "5"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "18"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:QT976..T986.AQ72 42.KQJT82.32.K95 J85.A965.K.JT643 AK3.743.AQJ754.8"]
+[Dealer "E"]
+[Auction "E"]
+1D 1S 2H 2S
+4H Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S5 SA S7 S2
+C3 C8 CA C5
+SJ SK SQ S4
+H5 H3 S6 HT
+C4 H4 C2 C9
+HA H7 D6 HK
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "19"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:K5.AQT973.KQ3.64 JT3.KJ6.984.AT32 AQ986.42.A6.KJ98 742.85.JT752.Q75"]
+[Dealer "S"]
+[Auction "S"]
+1H Pass 1S Pass
+2H Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+D9 DA D7 D3
+HK H2 H5 HQ
+SJ S6 S4 SK
+H6 H4 H8 HA
+S3 SA S2 S5
+ST SQ S7 C4
+HJ S9 D2 C6
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "20"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:AT862.Q752.AKQ.5 J95.JT.752.AQT32 K74.K63.J84.K986 Q3.A984.T963.J74"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D7 D4 D3 DA
+CA C6 C7 C5
+D5 D8 D6 DK
+S5 S4 S3 SA
+S9 SK SQ S2
+C3 CK C4 H2
+HT H3 H4 HQ
+D2 DJ D9 DQ
+SJ S7 DT S6
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "21"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:AQ932.6.K.AQT984 KJT5.A432.T74.K2 8.KJT75.A985.J53 764.Q98.QJ632.76"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C X
+1H 2D 2S Pass
+2NT Pass 3C Pass
+3D Pass 3S Pass
+4C Pass Pass Pass
+[Declarer "S"]
+[Contract "4C"]
+[Play "W"]
+DT D5 D6 DK
+S5 S8 S4 SA
+H2 HK H9 H6
+D4 DA D2 S2
+H3 H5 H8 C4
+ST C3 S6 S3
+H4 H7 HQ C8
+SJ C5 S7 S9
+HA HT D3 C9
+SK CJ DJ SQ
+D7 D8 DQ CT
+*
+[Result "12"]
+[Score "+170"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "22"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:AJ.AQ9.9754.T874 Q72.64.KQ2.AQ965 K9863.T532.J6.K3 T54.KJ87.AT83.J2"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C 1S
+X 1NT Pass 2S
+Pass 3S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+H8 H9 H4 H2
+S4 SA S2 S3
+S5 SJ S7 S6
+C2 C4 CA C3
+H7 HQ H6 H3
+CJ C7 C6 CK
+ST D4 SQ SK
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "23"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:84.Q754.9643.K97 A.J96.QJT72.A643 QT9532.AT83.5.Q5 KJ76.K2.AK8.JT82"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1S 3NT
+Pass Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+S8 SA S2 S6
+CK C3 C5 CT
+H4 H6 H8 HK
+S4 C4 S3 SK
+D6 D2 D5 DA
+C7 CA CQ C2
+*
+[Result "11"]
+[Score "+660"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "24"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:AJ863.864.KJ43.T QT.J9.A6.AKQJ753 94.KT73.T875.962 K752.AQ52.Q92.84"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H 1S
+2S Pass 2NT Pass
+3NT Pass Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+D3 D6 DT DQ
+SA ST - S2
+*
+[Result "12"]
+[Score "+490"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "25"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:43.94.AQT8764.K6 KJ65.JT765.J9.Q2 T872.Q832.K2.T98 AQ9.AK.53.AJ7543"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C 3D Pass
+4D X Pass 4H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DK D3 D7 D9
+D2 D5 DQ DJ
+H2 HK H4 H6
+H3 HA H9 H5
+S7 S9 S4 SJ
+HQ C3 D4 HJ
+S2 SQ S3 SK
+H8 C4 D6 HT
+C8 C5 CK CQ
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "26"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:65.AK5.K974.J983 AK3.Q876.AQJ.KT4 QJ84.T943.T53.65 T972.J2.862.AQ72"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D Pass 1NT Pass
+2C Pass 2H Pass
+2S Pass 2NT Pass
+3S Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C6 C2 CJ CK
+S4 S2 S6 SA
+S8 S7 S5 SK
+SJ S9 D4 S3
+SQ ST H5 H6
+HT H2 HK H7
+H3 HJ HA H8
+C5 C7 C9 CT
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "27"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:K85.KQT53.873.J2 Q973.J8.AJ.AQT63 J62.A72.654.9754 AT4.964.KQT92.K8"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C Pass 1D
+1H Pass 2H X
+Pass 2S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "2S"]
+[Play "N"]
+C7 C8 CJ CA
+S2 ST SK S3
+H7 H4 HK H8
+HA H6 H5 HJ
+H2 H9 HT C3
+C4 CK C2 C6
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "28"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:K654.6.A632.AT72 A83.QJ85.K4.QJ83 J92.K974.JT8.K94 QT7.AT32.Q975.65"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H X
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+H6 H5 H4 HT
+C7 CQ CK C5
+SK SA S9 ST
+DA DK D8 D5
+S4 S3 S2 S7
+CA C3 C4 C6
+C2 CJ C9 D7
+S5 S8 SJ SQ
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "29"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:KQJ9.KJ.JT763.K4 A852.QT9.K4.AQ96 T764.87653.2.J87 3.A42.AQ985.T532"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D X Pass
+Pass Pass
+[Declarer "S"]
+[Contract "1DX"]
+[Play "W"]
+DK D2 D5 D3
+D4 S4 DQ D6
+SA S6 S3 SQ
+S2 S7 D8 SJ
+CQ C7 C3 C4
+S5 ST D9 S9
+CA C8 C2 CK
+S8 H3 C5 SK
+H9 H5 DA DJ
+HT H6 HA HJ
+*
+[Result "4"]
+[Score "-500"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "30"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:K9876..QT92.AK65 JT.KJ94.8763.T87 Q543.Q87632.K.J2 A2.AT5.AJ54.Q943"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass Pass
+2H Pass 2S Pass
+3S Pass 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+SJ S3 SA S6
+CT C2 C9 CA
+ST SQ S2 S7
+D3 DK DA D2
+C8 CJ C3 CK
+D6 H2 D4 DQ
+D8 H3 DJ DT
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "31"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:QT4.AT62.T8.AKJ4 AKJ86.73.J973.76 975.KQJ95.Q.T953 32.84.AK6542.Q82"]
+[Dealer "S"]
+[Auction "S"]
+1C 1S X 2D
+2H 2NT 4H 5D
+X Pass Pass Pass
+[Declarer "E"]
+[Contract "5DX"]
+[Play "S"]
+CA C6 C5 C8
+HA H3 HK H8
+H2 H7 HJ H4
+CJ C7 CT C2
+C4 DJ C3 CQ
+D8 D3 DQ DK
+*
+[Result "9"]
+[Score "-300"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "1"]
+[Board "32"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:T94.QJ754.AK86.T AQ52..53.KQJ9874 J8.KT63.QJT4.632 K763.A982.972.A5"]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 4S Pass
+Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+DQ D2 D8 D5
+DT D9 DK D3
+D4 D7 DA S2
+S8 S3 S4 SA
+*
+[Result "11"]
+[Score "+650"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "1"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:AQ43.K4.J987.KT9 96.AQT92.KQ64.Q2 KJ85.J6.A53.A753 T72.8753.T2.J864"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 1D 1H
+X 3H 4S Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HA H6 H3 H4
+H9 HJ H7 HK
+D4 D3 DT D7
+DQ DA D2 D9
+S6 SK S2 S3
+S9 S5 S7 SA
+H2 S8 ST SQ
+DK D5 H8 DJ
+D6 C3 H5 D8
+C2 CA C4 CT
+CQ C5 C6 CK
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "2"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:T8542.K73.4.QJT9 J3.Q4.Q65.A86542 K96.T98.AT732.73 AQ7.AJ652.KJ98.K"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1NT Pass
+2D Pass 2H Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D2 D8 D4 D6
+H8 H2 H3 HQ
+HT H5 HK H4
+C7 CK CQ C2
+DA D9 S5 DQ
+DT DJ S2 D5
+H9 HA H7 C6
+SK S7 S8 SJ
+*
+[Result "10"]
+[Score "+430"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "3"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:AK3.A9875.64.975 JT842.KT.KQ832.2 Q97.Q64.95.AK843 65.J32.AJT7.QJT6"]
+[Dealer "S"]
+[Auction "S"]
+1H 1S 2C Pass
+3C Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+DK D5 DA D4
+DQ D9 DJ D6
+SJ S7 S5 SA
+HK H4 H3 H7
+S4 S9 S6 SK
+HT HQ H2 H5
+- H6 HJ HA
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "4"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:863.K9732.KJ65.A K54.84.AT932.964 JT97.QT6.8.QJ872 AQ2.AJ5.Q74.KT53"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT 2H
+3C 3H 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+H2 H4 HQ HA
+S6 SK S7 S2
+DJ DT D8 D7
+HK H8 HT H5
+H9 C4 H6 HJ
+DK DA C2 DQ
+S3 S4 S9 SA
+S8 S5 ST SQ
+CA C6 C7 C3
+H7 D2 C8 C5
+H3 D3 SJ CT
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "5"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:974.AT6.AJT63.94 A85.8743.7.QJ763 JT63.Q9.Q94.AKT2 KQ2.KJ52.K852.85"]
+[Dealer "N"]
+[Auction "N"]
+1C X 1D 1H
+2D 2H 3D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3D"]
+[Play "W"]
+H8 H9 HJ HA
+C6 CA C5 C9
+D7 DQ D2 D3
+H3 D9 D5 D6
+H4 D4 D8 DJ
+- - - DA
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "6"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:K742.K.T98754.72 J853.J9654.6.J93 AT9.QT73.KJ2.AK8 Q6.A82.AQ3.QT654"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1D X
+Pass 1S Pass 1NT
+Pass 3D Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+C5 C7 CJ CK
+SQ SK S3 ST
+DQ D4 D6 DJ
+CQ C2 C9 CA
+D3 D5 H6 DK
+HA HK H4 H3
+CT S2 C3 C8
+C6 D7 S5 D2
+C4 S4 H5 H7
+*
+[Result "6"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "7"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:KJT73.K.AKQ76.A7 8.A9763.9854.KJ6 A64.T42.J.Q98543 Q952.QJ85.T32.T2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+D9 DJ D3 D7
+S8 S4 S2 SJ
+D4 S6 DT D6
+H3 SA S5 S3
+C6 C3 C2 CA
+H6 C4 S9 SK
+D5 C5 D2 DA
+D8 C8 SQ DK
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "8"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:T6.AK85.4.AKQT75 KQ.QJT9642.T76.3 J985.73.AK5.9642 A7432.QJ9832.J8."]
+[Dealer "S"]
+[Auction "S"]
+1C 2H X Pass
+3NT Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+HQ H3 D2 HA
+- - - CA
+*
+[Result "10"]
+[Score "+630"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "9"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:AJ43.4.JT7542.KQ T752.76532.96.65 Q98.98.AK83.T874 K6.AKQJT.Q.AJ932"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H X 2H
+X 4H 5D Pass
+Pass 5H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "5H"]
+[Play "S"]
+CK C5 C4 C3
+DJ D6 DK DQ
+CQ C6 C7 CA
+H4 H2 H8 HA
+D2 H3 H9 HK
+D4 D9 C8 CJ
+D5 H5 CT C2
+SA S2 S9 SK
+*
+[Result "9"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "10"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:AJT982..K6.KQT93 Q74.Q95.QT7.J542 653.AKJ8432.92.6 K.T76.AJ8543.A87"]
+[Dealer "E"]
+[Auction "E"]
+1D 1S 1NT 4H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4H"]
+[Play "E"]
+DA D6 D7 D9
+D8 DK DT D2
+CA CK C2 C6
+D5 S2 DQ H2
+H6 S8 H5 HA
+H7 S9 H9 HK
+HT ST HQ H8
+SK SA S4 S5
+C7 CQ C4 S3
+C8 CT CJ H3
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "11"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:Q9543.K96.9.Q763 2.J7.AKQJT84.JT5 AK8.Q543.65.AK94 JT76.AT82.732.82"]
+[Dealer "S"]
+[Auction "S"]
+2D Pass 2NT Pass
+3C 3S 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+D2 D9 DJ D6
+D7 S3 DK D5
+S6 S4 S2 SA
+S7 S5 D4 SK
+C2 CQ C5 C4
+HA H6 H7 HQ
+SJ SQ DT S8
+C8 C3 CT CA
+D3 C6 CJ CK
+ST C7 D8 C9
+H2 H9 HJ H3
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "12"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:942.KT762.AK76.3 A75.A93.Q942.T62 KT83.J84.J83.J85 QJ6.Q5.T5.AKQ974"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT 2H
+X Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+DA D2 D8 D5
+H2 H3 HJ HQ
+C3 C2 C5 CK
+S2 S5 SK SQ
+HT HA H8 H5
+*
+[Result "10"]
+[Score "+430"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "13"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:963.J75.Q852.532 AQ854.4.AJ9.AKQ8 KJT.K986.K63.T74 72.AQT32.T74.J96"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1NT Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D3 D4 DQ DA
+C7 CJ C2 C8
+SK S2 S6 SQ
+DK D7 D2 D9
+C4 C6 C3 CQ
+SJ S7 S3 SA
+ST H2 S9 S4
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "14"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:KQ6.Q73.J32.KQ64 2.K52.AK975.A852 J9875.AJT94.T.JT AT43.86.Q864.973"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C 1D 1S
+3D Pass Pass 3H
+Pass 3S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+D6 D2 DK DT
+D4 D3 DA S5
+C9 C4 C2 CJ
+S3 SK S2 S7
+H6 HQ HK HA
+S4 SQ - S8
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "15"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:Q5.52.AJ75.K7652 AJ.QT4.KQT432.J3 9764.AK7.86.AQT9 KT832.J9863.9.84"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D X 1S
+1NT 2D Pass Pass
+3C 3D Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+HK H3 H2 H4
+HA H6 H5 HT
+H7 H8 D5 HQ
+C9 C4 C2 C3
+CA C8 C5 CJ
+*
+[Result "6"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "16"]
+[West "Nab"]
+[North "De Boer"]
+[East "Bertens"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:J5.KQJ92.742.AQ3 K63.A.AKQJ83.984 84.T63.T965.KT72 AQT972.8754.J65."]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S 2H
+2NT Pass 3C Pass
+3S Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HK HA H3 H5
+S5 S3 S4 SQ
+SJ S6 S8 SA
+*
+[Result "13"]
+[Score "+710"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "17"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "None"]
+[Deal "S:AQ43.K4.J987.KT9 96.AQT92.KQ64.Q2 KJ85.J6.A53.A753 T72.8753.T2.J864"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 2C 2H
+2S Pass 4S Pass
+Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+H7 H4 HQ H6
+H3 HK HA HJ
+S2 SQ S6 S5
+S7 SA S9 S8
+ST S4 H9 SK
+D2 D7 D4 DA
+DT DJ DQ D5
+H5 D8 DK D3
+H8 D9 D6 SJ
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "18"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "NS"]
+[Deal "S:T8542.K73.4.QJT9 J3.Q4.Q65.A86542 K96.T98.AT732.73 AQ7.AJ652.KJ98.K"]
+[Dealer "E"]
+[Auction "E"]
+1H Pass 1NT Pass
+3D Pass 3H Pass
+3NT Pass 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+CQ C2 C7 CK
+HK H4 H8 H2
+CT CA C3 D8
+H3 HQ H9 H5
+D4 D5 D2 DK
+H7 C4 HT HA
+S2 D6 DA DJ
+S8 DQ D3 D9
+S4 SJ SK SA
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "19"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "EW"]
+[Deal "S:AK3.A9875.64.975 JT842.KT.KQ832.2 Q97.Q64.95.AK843 65.J32.AJT7.QJT6"]
+[Dealer "S"]
+[Auction "S"]
+1H 1S 2C Pass
+2H Pass 3H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+DK D5 D7 D6
+C2 CA C6 C7
+HT H4 H2 HA
+HK H6 H3 H5
+D3 D9 DT D4
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "20"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "Both"]
+[Deal "S:863.K9732.KJ65.A K54.84.AT932.964 JT97.QT6.8.QJ872 AQ2.AJ5.Q74.KT53"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "1NT"]
+[Play "S"]
+H2 H4 HQ HA
+DK DA D8 DQ
+D5 D2 C2 D7
+D6 DT HT D4
+DJ D3 C8 C3
+HK H8 H6 H5
+H7 C4 C7 HJ
+S3 S4 S7 SA
+S6 S5 S9 SQ
+*
+[Result "9"]
+[Score "+150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "21"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "NS"]
+[Deal "S:974.AT6.AJT63.94 A85.8743.7.QJ763 JT63.Q9.Q94.AKT2 KQ2.KJ52.K852.85"]
+[Dealer "N"]
+[Auction "N"]
+1C X 1NT 2H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2H"]
+[Play "N"]
+CA C5 C9 C3
+S6 S2 S9 SA
+D4 DK DA D7
+CK C8 C4 CJ
+C2 D2 H6 C6
+D9 D5 D3 H3
+H9 HJ HA H4
+- - D6 -
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "22"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "EW"]
+[Deal "S:K742.K.T98754.72 J853.J9654.6.J93 AT9.QT73.KJ2.AK8 Q6.A82.AQ3.QT654"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass Pass X
+Pass 1S Pass 1NT
+Pass 2C Pass 2S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+C3 CA C6 C7
+H4 H3 H2 HK
+D6 DJ DQ D5
+C9 DK DA D4
+CJ CK CQ C2
+S3 SA S6 S2
+- ST - -
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "23"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "Both"]
+[Deal "S:T6.AK85.4.AKQT75 KQ.QJT9642.T76.3 J985.73.AK5.9642 A7432.QJ9832.J8."]
+[Dealer "S"]
+[Auction "S"]
+1C 3H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3H"]
+[Play "N"]
+DA D2 D4 D6
+S8 S2 ST SK
+H7 S3 HA HQ
+C6 C8 CA C3
+C2 CJ CK H2
+H3 D3 H5 H9
+C4 D8 HK HT
+S5 S4 S6 SQ
+S9 S7 H8 HJ
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "24"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "None"]
+[Deal "S:KJT73.K.AKQ76.A7 8.A9763.9854.KJ6 A64.T42.J.Q98543 Q952.QJ85.T32.T2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2S Pass 3D
+Pass 4S Pass 4NT
+Pass 5D Pass 5H
+Pass 5S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "5S"]
+[Play "W"]
+D8 DJ D2 D6
+S8 SA S5 S3
+H7 S4 S2 SK
+D5 H2 D3 DA
+D4 H4 DT DK
+D9 HT S9 DQ
+H3 S6 SQ S7
+HA - HQ HK
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "25"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "EW"]
+[Deal "S:AJ43.4.JT7542.KQ T752.76532.96.65 Q98.98.AK83.T874 K6.AKQJT.Q.AJ932"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1H X 3H
+X 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+CK C5 C8 C3
+DJ D6 DK DQ
+D2 D9 DA HJ
+H4 H2 H8 HA
+D5 H3 H9 HK
+CQ C6 C4 CA
+S3 S2 C7 CJ
+D4 H5 CT C2
+SA S5 S8 SK
+S4 S7 SQ S6
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "26"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "Both"]
+[Deal "S:AJT982..K6.KQT93 Q74.Q95.QT7.J542 653.AKJ8432.92.6 K.T76.AJ8543.A87"]
+[Dealer "E"]
+[Auction "E"]
+1D 1S 1NT 3H
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+SK S2 S4 S5
+DA D6 D7 D2
+DJ DK DQ D9
+CA CK C4 C6
+D8 S8 DT H2
+H7 C3 H5 HA
+H6 S9 H9 HK
+HT C9 HQ H4
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "27"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "None"]
+[Deal "S:Q9543.K96.9.Q763 2.J7.AKQJT84.JT5 AK8.Q543.65.AK94 JT76.AT82.732.82"]
+[Dealer "S"]
+[Auction "S"]
+Pass 3NT X 4C
+X 4D Pass Pass
+4S Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DA D5 D2 D9
+DJ D6 D7 S3
+S2 SA S7 S4
+D4 SK S6 S5
+C5 CA C8 C3
+CJ CK C2 C6
+HJ H3 H2 HK
+CT C4 ST CQ
+D8 S8 SJ SQ
+H7 HQ HA H6
+DT H4 HT H9
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "28"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "NS"]
+[Deal "S:942.KT762.AK76.3 A75.A93.Q942.T62 KT83.J84.J83.J85 QJ6.Q5.T5.AKQ974"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C 1H
+X 2H 3C Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+H2 H3 HJ HQ
+C3 C2 C5 CA
+H7 C6 C8 CK
+S2 CT CJ CQ
+DK D2 D3 D5
+S9 S5 SK S6
+S4 S7 S3 SQ
+DA D4 D8 DT
+*
+[Result "10"]
+[Score "+130"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "29"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "None"]
+[Deal "S:KQ6.Q73.J32.KQ64 2.K52.AK975.A852 J9875.AJT94.T.JT AT43.86.Q864.973"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT 2D 2H
+3D Pass Pass Pass
+[Declarer "W"]
+[Contract "3D"]
+[Play "N"]
+CJ C3 C6 CA
+DT D4 D2 DA
+H9 DQ D3 D5
+CT C7 CK C2
+HT H6 H3 H2
+S9 SA S6 S2
+S7 D6 DJ DK
+S5 C9 CQ C5
+HA H8 H7 HK
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "30"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "Both"]
+[Deal "S:963.J75.Q852.532 AQ854.4.AJ9.AKQ8 KJT.K986.K63.T74 72.AQT32.T74.J96"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 1NT Pass 3C
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+D5 D9 DK D7
+H5 H4 H9 HQ
+D2 DJ D6 D4
+S3 S4 ST S2
+D8 DA D3 DT
+C2 CA C4 C6
+C3 CK C7 C9
+C5 C8 CT CJ
+H7 S5 H6 HA
+S6 SA SJ S7
+- CQ - -
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "31"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "NS"]
+[Deal "S:Q5.52.AJ75.K7652 AJ.QT4.KQT432.J3 9764.AK7.86.AQT9 KT832.J9863.9.84"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D X 1S
+2C 2D 3C Pass
+3NT Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DK D6 D9 D5
+SA S4 S3 S5
+SJ S6 SK SQ
+HT HA H9 H5
+C3 CA C8 C5
+CJ CQ C4 C6
+D2 CT S2 C2
+D3 C9 H6 CK
+D4 S7 H3 C7
+HQ HK H8 H2
+DT D8 S8 DA
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "2"]
+[Board "32"]
+[West "Westra"]
+[North "Vis"]
+[East "Leufkens"]
+[South "Versluis"]
+[Vulnerable "EW"]
+[Deal "S:J5.KQJ92.742.AQ3 K63.A.AKQJ83.984 84.T63.T965.KT72 AQT972.8754.J65."]
+[Dealer "W"]
+[Auction "W"]
+1D Pass 1S 2H
+X Pass 3S Pass
+4D Pass 4S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+HK HA H6 H5
+SJ S3 S4 SQ
+S5 S6 S8 SA
+*
+[Result "13"]
+[Score "+710"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "1"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:J85.QJ8.Q.AJ6532 KQ64.KT96.AKJ4.Q A2.A754.72.K9874 T973.32.T98653.T"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass 3NT X
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3NTX"]
+[Play "E"]
+H3 HQ HK HA
+CT C2 CQ CK
+DT C3 DA C9
+D3 C5 S4 C8
+ST CA H6 C7
+S3 CJ D4 C4
+S7 C6 S6 H4
+*
+[Result "9"]
+[Score "+550"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "2"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:A4.JT853.AQT4.87 K865.KQ7.J8765.A QJ972.64.K32.J54 T3.A92.9.KQT9632"]
+[Dealer "E"]
+[Auction "E"]
+3C Pass Pass Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+HJ HK H6 H2
+C7 CA C5 C2
+DT D5 D3 D9
+HT H7 H4 HA
+C8 D6 C4 CK
+H3 S5 CJ CQ
+SA S6 S2 S3
+*
+[Result "11"]
+[Score "+150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "3"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:T.A9.AJ9654.J982 962.J852.K2.KQ76 AK8.Q4.T83.AT543 QJ7543.KT763.Q7."]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 2C 2S
+2NT 3S 3NT Pass
+5C X Pass Pass
+Pass
+[Declarer "N"]
+[Contract "5CX"]
+[Play "E"]
+SQ ST S6 SA
+S3 H9 S9 SK
+S4 C8 S2 S8
+H6 HA H5 H4
+S7 C9 CQ CA
+HK C2 H8 HQ
+H3 CJ CK C3
+H7 D4 HJ C4
+D7 DA D2 D3
+DQ D5 DK D8
+S5 D6 C6 CT
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "4"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:AKQ87.Q5.KT954.3 JT54.82.762.AJT5 92.KT943.Q83.972 63.AJ76.AJ.KQ864"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1NT 2D
+Pass 2H Pass 2S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+H8 HT HA H5
+C5 C2 CK C3
+CT C7 C4 S7
+D7 D3 DA DK
+CA C9 C6 S8
+D6 DQ DJ D4
+D2 D8 S3 D5
+S4 S2 S6 SA
+S5 S9 H6 SK
+H2 H3 H7 HQ
+ST H4 - SQ
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "5"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:AKQ7.T94.A854.J8 T4.AKQ.T72.AQ964 J8652.J632.963.7 93.875.KQJ.KT532"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+HK H2 H8 HT
+HQ H3 H7 H4
+HA H6 H5 H9
+D7 D3 DJ D4
+D2 D6 DQ DA
+S4 S2 S3 SA
+ST S5 S9 SK
+C4 SJ C2 S7
+C6 HJ C3 C8
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "6"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:A96.J3.AKJ75.AJ4 72.AKQ842.842.Q8 KQ.T5.T963.KT652 JT8543.976.Q.973"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 2H
+3D Pass 3H Pass
+4C Pass 5D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+HK H5 H9 H3
+HA HT H7 HJ
+S7 SK S3 S6
+D2 D3 DQ DA
+D4 DT S4 D5
+D8 D9 S5 D7
+S2 SQ SJ S9
+H2 D6 S8 DJ
+H4 C2 ST SA
+C8 CK C3 C4
+CQ C5 C7 CJ
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "7"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:AJT83.64.QT.AQJ6 .AK3.KJ6532.T954 KQ65.QT82.A94.K8 9742.J975.87.732"]
+[Dealer "W"]
+[Auction "W"]
+1D X Pass 2D
+X Pass Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HA H2 H5 H6
+HK H8 H7 H4
+H3 HT HJ S3
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "8"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:J652.K75.J75.984 KQ8.AT.AKQ9.T763 T7.QJ9632.842.AJ A943.84.T63.KQ52"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 2H X
+Pass 3NT Pass Pass
+Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+HQ H4 H5 HT
+H9 H8 HK HA
+D4 D3 D7 DK
+D2 D6 D5 DA
+S7 S3 S2 SK
+ST S4 S5 SQ
+CJ SA S6 S8
+D8 DT DJ DQ
+H2 C2 C4 D9
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "9"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:AJ764.T4.K9732.3 K.AK7.AT654.AT95 9532.652.J.Q8764 QT8.QJ983.Q8.KJ2"]
+[Dealer "N"]
+[Auction "N"]
+3C Pass Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+S5 S8 SJ SK
+C6 C2 C3 C9
+H6 H3 H4 HA
+C4 CJ D7 C5
+C7 CK HT CT
+- ST SA -
+*
+[Result "12"]
+[Score "+690"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "10"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:QJ5.AQ3.K92.KT72 98763.KJT2.6.A95 KT.9654.JT7.QJ64 A42.87.AQ8543.83"]
+[Dealer "E"]
+[Auction "E"]
+1D 1NT 2C X
+2D Pass Pass 2NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2NT"]
+[Play "W"]
+S3 ST SA S5
+S9 SK S4 SJ
+CA C4 C3 CK
+S8 H4 S2 SQ
+C9 CJ C8 C7
+D6 D7 DA D2
+H2 H5 H8 HA
+C5 C6 D3 CT
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "11"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:Q632.854.Q3.J963 KT.KJ973.AJ6.852 85.A62.97542.QT7 AJ974.QT.KT8.AK4"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1NT Pass 2H
+Pass 2S Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D7 D8 DQ DA
+H6 HQ H4 H3
+HA HT H5 H7
+D5 DK D3 D6
+S5 S4 S2 ST
+S8 S7 S3 SK
+*
+[Result "12"]
+[Score "+490"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "12"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:KJ9652.A74.AK8.5 A4.QT6.QJT63.AJ9 T8.J853.954.T864 Q73.K92.72.KQ732"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H3 H9 HA H6
+S8 SQ SJ S4
+C4 C2 C5 CJ
+D5 D2 DA DT
+ST S3 S9 SA
+C6 C3 D8 CA
+C8 CQ H4 C9
+CT CK H7 D3
+- C7 S2 -
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "13"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:T3.QT.AKJ7.AKT84 AKQ742.762.Q5.75 J.AKJ943.986.J32 9865.85.T432.Q96"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass 2NT Pass
+3S Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SK SJ S5 S3
+C7 C2 CQ CA
+H2 H3 H5 HQ
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "14"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:K752.QT8.K72.AJ6 AQ863.K732.5.KT5 J.AJ6.QT9643.872 T94.954.AJ8.Q943"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT 2C 2D
+Pass Pass X 3D
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+ST S2 SQ SJ
+CQ CA C5 C8
+DA D2 D5 DQ
+S9 S5 S3 D3
+DJ DK S6 DT
+H4 HQ HK HA
+D8 D7 H2 D9
+C3 CJ CK C2
+C4 C6 CT C7
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "15"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:KQ65.Q9.JT84.K84 A8.J864.K97653.2 T432.KT2.2.AQT95 J97.A753.AQ.J763"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1C
+Pass 1D Pass 1H
+Pass 3H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+SK SA S2 S7
+D4 D3 D2 DA
+D8 D5 H2 DQ
+C4 C2 CA C6
+SQ S8 S4 S9
+DT D6 HT HA
+H9 HJ HK H3
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "16"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:Q94.AT52.7.AQ986 J8.KQ63.JT8.J754 62.J94.KQ96543.3 AKT753.87.A2.KT2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1S 2C
+X 2D 2NT Pass
+3NT Pass Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+C8 CJ C3 C2
+SQ SJ S2 S5
+CA C4 D3 CT
+C9 C5 D4 CK
+HA H3 H4 H7
+CQ C7 D5 D2
+C6 H6 D6 S3
+D7 DJ DQ DA
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "17"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:J85.QJ8.Q.AJ6532 KQ64.KT96.AKJ4.Q A2.A754.72.K9874 T973.32.T98653.T"]
+[Dealer "N"]
+[Auction "N"]
+1C Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 5C Pass
+Pass Pass
+[Declarer "N"]
+[Contract "5C"]
+[Play "E"]
+H3 H8 H9 HA
+CT C2 CQ CK
+D3 CA D4 C4
+H2 HQ HK H4
+D5 DQ DK D2
+*
+[Result "10"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "18"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:A4.JT853.AQT4.87 K865.KQ7.J8765.A QJ972.64.K32.J54 T3.A92.9.KQT9632"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H Pass 1S
+3C Pass Pass Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+SA S5 S2 S3
+S4 SK S7 ST
+C7 CA C4 C2
+H3 H7 H4 HA
+C8 D5 C5 CK
+*
+[Result "11"]
+[Score "+150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "19"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:T.A9.AJ9654.J982 962.J852.K2.KQ76 AK8.Q4.T83.AT543 QJ7543.KT763.Q7."]
+[Dealer "S"]
+[Auction "S"]
+1D Pass 2C 2S
+3C Pass 3NT Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+H3 H9 HJ HQ
+DQ DA D2 DT
+D7 D4 DK D8
+H7 HA H2 H4
+S3 DJ S9 D3
+S4 D6 C6 C3
+S5 D5 C7 C4
+S7 D9 S2 C5
+H6 C2 CQ CA
+SJ ST S6 SA
+SQ C8 H5 SK
+HT C9 H8 S8
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "20"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:A96.J3.AKJ75.AJ4 72.AKQ842.842.Q8 KQ.T5.T963.KT652 JT8543.976.Q.973"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1D 3H
+4D 4H 5D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "5D"]
+[Play "W"]
+HK H5 H9 H3
+HA HT H7 HJ
+S7 SK S5 S6
+D4 D3 DQ DA
+D2 DT S3 D5
+D8 D6 S4 DK
+S2 SQ S8 S9
+H2 D9 H6 DJ
+C8 CK C3 C4
+CQ C2 C7 CJ
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "21"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:AKQ87.Q5.KT954.3 JT54.82.762.AJT5 92.KT943.Q83.972 63.AJ76.AJ.KQ864"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1C 1S
+Pass Pass X 2D
+Pass Pass 2H Pass
+3S Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SA S4 S2 S3
+DT D2 DQ DA
+C3 CA C2 C4
+S7 CJ C7 C6
+S8 C5 C9 CK
+D4 CT D8 CQ
+D5 H2 H4 C8
+SQ S5 S9 S6
+SK ST H3 H7
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "22"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:AKQ7.T94.A854.J8 T4.AKQ.T72.AQ964 J8652.J632.963.7 93.875.KQJ.KT532"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1D 2C Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SA S4 S8 S3
+SQ ST S5 S9
+SK D2 S2 H5
+S7 D7 SJ C2
+HT DT S6 H7
+DA - D6 DK
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "23"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:J652.K75.J75.984 KQ8.AT.AKQ9.T763 T7.QJ9632.842.AJ A943.84.T63.KQ52"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1C 1H X
+2H X Pass 3C
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3C"]
+[Play "N"]
+HQ H4 H7 HA
+CJ CK C4 C3
+CA C2 C8 CT
+*
+[Result "11"]
+[Score "+150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "24"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:AJT83.64.QT.AQJ6 .AK3.KJ6532.T954 KQ65.QT82.A94.K8 9742.J975.87.732"]
+[Dealer "W"]
+[Auction "W"]
+1D X Pass 2D
+Pass 2H Pass 4S
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+HK H2 H5 H6
+DK DA D7 DT
+D5 SK S2 S3
+*
+[Result ""]
+[Score "-550"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "25"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:AJ764.T4.K9732.3 K.AK7.AT654.AT95 9532.652.J.Q8764 QT8.QJ983.Q8.KJ2"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 2S X
+4S 5H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "5H"]
+[Play "S"]
+SA SK S3 S8
+C3 C5 C6 CJ
+H4 H7 H2 HQ
+HT HA H5 H3
+S6 HK H6 H8
+D3 C9 C4 C2
+S4 CT C7 CK
+DK DA DJ DQ
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "26"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:QJ5.AQ3.K92.KT72 98763.KJT2.6.A95 KT.9654.JT7.QJ64 A42.87.AQ8543.83"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1NT Pass Pass
+2D Pass Pass Pass
+[Declarer "E"]
+[Contract "2D"]
+[Play "S"]
+SQ S3 SK SA
+H3 HT H6 H7
+D2 D6 D7 DA
+HA H2 H4 H8
+S5 S6 ST S4
+CT CA C4 C3
+HQ HK H5 C8
+D9 HJ H9 S2
+*
+[Result "9"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "27"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:Q632.854.Q3.J963 KT.KJ973.AJ6.852 85.A62.97542.QT7 AJ974.QT.KT8.AK4"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D7 D8 DQ DA
+H2 HQ H4 H3
+H6 HT H5 H7
+D4 DT D3 DJ
+HA S4 H8 HK
+D2 DK S2 D6
+S5 S7 S3 SK
+D5 C4 C3 HJ
+S8 S9 C6 H9
+- - - ST
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "28"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KJ9652.A74.AK8.5 A4.QT6.QJT63.AJ9 T8.J853.954.T864 Q73.K92.72.KQ732"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C 2S
+Pass Pass X Pass
+3D Pass 3S Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+ST S3 S5 SA
+C4 C2 C5 CA
+C8 C3 H4 CJ
+C6 CK D8 C9
+CT CQ S2 S4
+D4 C7 S6 D3
+H3 H2 H7 HQ
+H5 H9 HA HT
+- - SK -
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "29"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:T3.QT.AKJ7.AKT84 AKQ742.762.Q5.75 J.AKJ943.986.J32 9865.85.T432.Q96"]
+[Dealer "N"]
+[Auction "N"]
+2D Pass 2NT 3S
+4D Pass 4H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SK SJ S6 ST
+SA H3 S8 S3
+H7 H4 H5 HQ
+H2 HA H8 HT
+H6 HK S5 D7
+C5 CJ C6 CA
+C7 C2 C9 CK
+S2 C3 CQ CT
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "30"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KQ65.Q9.JT84.K84 A8.J864.K97653.2 T432.KT2.2.AQT95 J97.A753.AQ.J763"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C Pass
+1D Pass 1S Pass
+3S Pass Pass Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+H5 H9 HJ HK
+S7 SK SA S2
+CJ CK C2 CT
+S9 SQ S8 S3
+C3 C4 D3 CA
+C6 C8 D5 CQ
+C7 HQ H4 C9
+H3 D4 D6 C5
+H7 S5 H6 H2
+- DJ - -
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "31"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:K752.QT8.K72.AJ6 AQ863.K732.5.KT5 J.AJ6.QT9643.872 T94.954.AJ8.Q943"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass Pass Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+C4 C6 CT C2
+C3 CJ CK C7
+C9 CA C5 C8
+DA D2 D5 DQ
+CQ H8 H7 H6
+H4 HQ HK HA
+DJ DK S6 DT
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.12"]
+[Round "3"]
+[Board "32"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:Q94.AT52.7.AQ986 J8.KQ63.JT8.J754 62.J94.KQ96543.3 AKT753.87.A2.KT2"]
+[Dealer "W"]
+[Auction "W"]
+Pass 3D 3S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+D7 DJ DQ DA
+H5 HK H4 H7
+SQ S8 S2 ST
+HA H3 H9 H8
+CA C4 C3 C2
+C6 C5 S6 CT
+C8 D8 DK D2
+- - D3 SA
+*
+[Result "8"]
+[Score "-100"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "1"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:K.T2.AJ82.JT8654 J92.AK9874.K43.7 QT87654.53.Q.Q93 A3.QJ6.T9765.AK2"]
+[Dealer "N"]
+[Auction "N"]
+2S X Pass 2NT
+Pass 3C Pass 4H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DQ D5 DA D4
+H3 D6 D2 D3
+C3 CA C4 C7
+H5 HQ H2 H4
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "2"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:AQ76.T4.7.A96432 KT9432.83.T5.K75 J85.A75.AJ432.JT .KQJ962.KQ986.Q8"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C X 2D
+2H Pass 2S 3C
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3C"]
+[Play "W"]
+H8 H5 HJ H4
+H3 HA HQ HT
+CK CT C8 C3
+DT DA D6 D7
+C5 CJ CQ CA
+C7 D2 H2 C9
+S4 D3 D8 C6
+S2 H7 D9 C4
+*
+[Result "10"]
+[Score "+130"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "3"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:K982.K.T852.Q932 A5.62.K9743.AT75 QJT4.AJ954.AJ6.4 763.QT873.Q.KJ86"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1H Pass
+Pass X 1S X
+Pass Pass Pass
+[Declarer "N"]
+[Contract "1SX"]
+[Play "E"]
+DQ D2 D3 DA
+S3 S2 SA ST
+S6 D5 D4 D6
+C6 C2 CA C4
+S7 D8 D7 DJ
+H3 HK H2 H4
+C8 S8 S5 SQ
+*
+[Result "8"]
+[Score "+260"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "4"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:A3.QJ8732.J3.AJ9 K9.T6.Q6.KT86432 Q842.AK95.A987.5 JT765.4.KT542.Q7"]
+[Dealer "N"]
+[Auction "N"]
+1D 2S 3H Pass
+3S Pass 3NT Pass
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SK S2 S7 SA
+H6 HA H4 H2
+- H5 - -
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "5"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:KJ9.643.987.J984 3.QJT8.KT3.Q6532 T87.AK972.6542.K AQ6542.5.AQJ.AT7"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 3S Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+HA H5 H6 H8
+H2 S2 H4 HT
+CK CA C4 C3
+D6 CT CJ C5
+D2 DJ D9 DK
+HK S4 H3 HQ
+ST S5 S9 S3
+S8 SA SJ C2
+D4 DA D7 D3
+D5 DQ D8 DT
+- C7 C8 CQ
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "6"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:T98.QJ8.963.Q973 J5.KT9754.AJ72.A Q72.3.KQT854.T86 AK643.A62.KJ542."]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2H 3D
+3H Pass 4C Pass
+5D Pass 6C Pass
+7C Pass 7H Pass
+Pass Pass
+[Declarer "W"]
+[Contract "7H"]
+[Play "N"]
+DK H2 D3 D2
+C6 C2 C3 CA
+D4 H6 D6 D7
+H3 HA H8 H4
+C8 C4 C7 H9
+*
+[Result "12"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "7"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:A74.AJ.T973.AQ43 QJ.Q874.QJ86.J95 KT9852.K962.2.87 63.T53.AK54.KT62"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass 4D Pass
+4S Pass Pass Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+DQ D2 DK D3
+C5 C7 C6 CQ
+SJ S2 S3 SA
+SQ SK S6 S4
+HQ H2 H3 HJ
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "8"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:6.KQ9432.J95.853 932.85.8642.KQJT KJT75.6.AT73.A92 AQ84.AJT7.KQ.764"]
+[Dealer "N"]
+[Auction "N"]
+1S 1NT 2H X
+Pass Pass Pass
+[Declarer "S"]
+[Contract "2HX"]
+[Play "W"]
+CK C2 C6 C3
+CQ CA C7 C8
+H5 H6 HT HQ
+S2 ST SQ S6
+D6 D3 DK D5
+D2 DA DQ DJ
+S3 SK SA H2
+D4 DT H7 D9
+CT C9 C4 C5
+CJ S5 S4 H4
+*
+[Result "6"]
+[Score "-300"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "9"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:KJ85.A972.A95.75 AT76.QJT4.K4.KQ9 4.865.QJ732.AJT8 Q932.K3.T86.6432"]
+[Dealer "W"]
+[Auction "W"]
+1C 1D 1S X
+2S Pass Pass 3D
+Pass Pass Pass
+[Declarer "N"]
+[Contract "3D"]
+[Play "E"]
+D6 D5 DK D2
+DT DA D4 D3
+C4 C5 CK CA
+S3 SJ SA S4
+S9 SK S6 H6
+C2 C7 C9 CJ
+C3 D9 CQ CT
+S2 S5 S7 D7
+*
+[Result "10"]
+[Score "+130"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "10"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:QJ5.J92.QT5.AQ62 T.AQ5.A972.KJT93 AK9842.T63.3.874 763.K874.KJ864.5"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1C Pass 1S
+X XX 5D Pass
+Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+SK S3 SQ ST
+HT H4 H2 HA
+D3 D4 D5 DA
+C8 DK DT D2
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "11"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:73.Q854.A53.AQJ4 T85.AK963.Q.KT87 AK4.J2.KT86.9653 QJ962.T7.J9742.2"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1S Pass
+1NT Pass 2C X
+2D Pass Pass Pass
+[Declarer "W"]
+[Contract "2D"]
+[Play "N"]
+SK S2 S3 S8
+SA S6 S7 S5
+S4 S9 D3 ST
+H2 H7 H8 HA
+D6 D2 DA DQ
+C3 C2 CA C7
+HJ HT H4 HK
+C5 D4 C4 C8
+DK DJ D5 H3
+C6 SJ CJ CK
+C9 D7 H5 H6
+*
+[Result "5"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "12"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:T9.AKJ54.4.A8642 AQ76542.62.T.QT5 J.83.AKJ98632.K7 K83.QT97.Q75.J93"]
+[Dealer "S"]
+[Auction "S"]
+1H 3S 5D Pass
+Pass Pass
+[Declarer "N"]
+[Contract "5D"]
+[Play "E"]
+S3 S9 SA SJ
+S8 ST S2 D9
+D5 D4 DT DA
+D7 - - DK
+*
+[Result "11"]
+[Score "+400"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "13"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:J5.95432.KT3.KT9 AKT42.J.AQJ6.Q65 976.AT7.8754.874 Q83.KQ86.92.AJ32"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2S Pass 4H
+Pass 4S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D5 D2 DK DA
+HA H6 H2 HJ
+C8 CA C9 C6
+S6 S3 S5 SA
+S7 SQ SJ S2
+H7 HK H3 C5
+HT HQ H4 CQ
+D4 D9 D3 DQ
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "14"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:AT982.T9754.A.86 743.3.KQJT98.J92 KQ6.J86.765.QT43 J5.AKQ2.432.AK75"]
+[Dealer "E"]
+[Auction "E"]
+1C 1S 2D 2S
+X Pass 3D 3S
+4H Pass 5C Pass
+5D Pass Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+SK S5 ST S7
+SQ SJ S2 S4
+D5 D2 DA D8
+H6 HA HT H3
+- D4 - -
+*
+[Result "10"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "15"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:Q6.T954.QJ32.764 K832.K863.KT.853 AJ954.J7.A975.KQ T7.AQ2.864.AJT92"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S 2C
+Pass 3C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+C4 C3 CQ CA
+DQ DK DA D8
+C6 C5 CK C9
+DJ DT D5 D4
+C7 C8 S5 C2
+H4 H3 H7 HA
+H5 H6 HJ HQ
+HT HK S4 H2
+H9 H8 S9 CT
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "16"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:A2.AQJ74.AK54.A8 7.KT6.962.J76532 T854.85.Q73.QT94 KQJ963.932.JT8.K"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 2D X
+2S Pass Pass X
+Pass 2NT Pass 3H
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3H"]
+[Play "W"]
+S7 S4 S9 SA
+H6 H5 H2 HA
+HK H8 H3 HJ
+C7 CQ CK CA
+HT S5 H9 HQ
+CJ C4 SQ C8
+D9 D3 DJ DA
+D6 DQ DT D5
+C2 CT S6 S2
+*
+[Result "11"]
+[Score "+200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "17"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "None"]
+[Deal "S:T3.KJ9874.A65.85 A75.6.Q984.AQJ76 Q84.QT2.73.KT932 KJ962.A53.KJT2.4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S 2H 2NT
+3H 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+H7 H6 HQ HA
+H4 S5 H2 H5
+DA D4 D3 DK
+D6 D8 D7 DJ
+H8 S7 HT H3
+S3 SA S4 S2
+C5 CA C3 C4
+C8 C6 C2 S6
+ST C7 S8 SK
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "18"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "NS"]
+[Deal "S:Q9653.J83.A863.T 42.Q9652.KJ5.973 AK87.T.QT92.AQJ8 JT.AK74.74.K6542"]
+[Dealer "E"]
+[Auction "E"]
+1NT Pass 2D Pass
+2H Pass Pass X
+3H 4S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+H2 HT HA H3
+HQ S7 H4 HJ
+C3 C8 CK CT
+H5 S8 HK H8
+S2 SK ST S3
+S4 SA SJ S5
+C7 CA C2 D3
+C9 CQ C4 D6
+H6 CJ C5 D8
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "19"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "EW"]
+[Deal "S:K732.QJ985.K8.74 964.T73.QJ7542.5 T8.K62.T93.AKQT6 AQJ5.A4.A6.J9832"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1C 1NT
+2C 2D 2H Pass
+Pass 3D Pass Pass
+3H Pass Pass Pass
+[Declarer "N"]
+[Contract "3H"]
+[Play "E"]
+C2 C4 C5 CT
+HA H5 H3 H2
+C3 C7 H7 C6
+DA D8 DQ D3
+C8 HJ D2 CQ
+H4 HQ HT H6
+S5 H8 D4 HK
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "20"]
+[West "Vis"]
+[North "De Boer"]
+[East "Versluis"]
+[South "Muller"]
+[Vulnerable "Both"]
+[Deal "S:764.QT53.J.JT654 T98.AK8.Q8.AK987 J53.72.K9753.Q32 AKQ2.J964.AT642."]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 3NT Pass
+Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+D3 D2 DJ DQ
+D9 DT S7 D8
+H7 H4 H3 HA
+H2 H6 HT H8
+S5 H9 H5 HK
+C2 D4 C4 CA
+C3 D6 C5 CK
+S3 SA S4 ST
+*
+[Result "11"]
+[Score "+660"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "21"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:K.T2.AJ82.JT8654 J92.AK9874.K43.7 QT87654.53.Q.Q93 A3.QJ6.T9765.AK2"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1D 3C 3H
+3S 4H Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+DQ D5 DA D3
+H3 D6 D2 D4
+S8 SA SK S2
+H5 HQ H2 H4
+S4 H6 HT HA
+- - - DK
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "22"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:AQ76.T4.7.A96432 KT9432.83.T5.K75 J85.A75.AJ432.JT .KQJ962.KQ986.Q8"]
+[Dealer "E"]
+[Auction "E"]
+1H 2C 3S X
+4H Pass Pass X
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4HX"]
+[Play "S"]
+D7 D5 DA D8
+CA C5 CJ C8
+C2 CK CT CQ
+H4 H3 H5 HK
+HT H8 HA HQ
+S6 S2 S8 H2
+- - - HJ
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "23"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:K982.K.T852.Q932 A5.62.K9743.AT75 QJT4.AJ954.AJ6.4 763.QT873.Q.KJ86"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1D 1H 1NT
+Pass 2C 2D 3C
+3S Pass Pass Pass
+[Declarer "S"]
+[Contract "3S"]
+[Play "W"]
+SA SQ S7 S2
+S5 S4 S3 S9
+D3 DA DQ D2
+D4 SJ S6 SK
+H2 H4 H3 HK
+D7 DJ H7 D5
+H6 HA H8 C2
+C5 HJ HQ C3
+CA C4 C6 CQ
+C7 - - -
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "24"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:KJ9.643.987.J984 3.QJT8.KT3.Q6532 T87.AK972.6542.K AQ6542.5.AQJ.AT7"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 3S Pass
+3NT Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+H7 H5 H6 H8
+CK CA C4 C2
+S7 S2 SJ S3
+H2 S4 H4 HJ
+HK S5 H3 HQ
+HA C7 D9 HT
+H9 S6 D7 C3
+S8 SA S9 C5
+D2 DA D8 DK
+D4 DQ C8 D3
+D5 DJ C9 DT
+D6 CT CJ CQ
+ST SQ SK C6
+*
+[Result "9"]
+[Score "+600"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "25"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:A3.QJ8732.J3.AJ9 K9.T6.Q6.KT86432 Q842.AK95.A987.5 JT765.4.KT542.Q7"]
+[Dealer "N"]
+[Auction "N"]
+1D 1S 2H 3C
+4H Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+SK S2 S7 SA
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "26"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:A74.AJ.T973.AQ43 QJ.Q874.QJ86.J95 KT9852.K962.2.87 63.T53.AK54.KT62"]
+[Dealer "S"]
+[Auction "S"]
+1NT Pass 2H Pass
+2S Pass Pass Pass
+[Declarer "S"]
+[Contract "2S"]
+[Play "W"]
+DQ D2 DK D3
+C5 C7 C2 CQ
+SJ SK S3 S4
+H4 H2 H3 HA
+D6 S2 D4 D7
+SQ S5 S6 SA
+*
+[Result "11"]
+[Score "+200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "27"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:T98.QJ8.963.Q973 J5.KT9754.AJ72.A Q72.3.KQT854.T86 AK643.A62.KJ542."]
+[Dealer "E"]
+[Auction "E"]
+1S Pass 2H Pass
+3C Pass 3D X
+3H Pass 4C Pass
+4D Pass 4NT Pass
+5NT Pass 6H Pass
+Pass Pass
+[Declarer "W"]
+[Contract "6H"]
+[Play "N"]
+DK H2 D3 D2
+C6 C2 C3 CA
+D4 H6 D6 D7
+H3 HA H8 H4
+C8 C4 C7 H5
+D5 S3 HJ HK
+*
+[Result "12"]
+[Score "+1430"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "28"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:KJ85.A972.A95.75 AT76.QJT4.K4.KQ9 4.865.QJ732.AJT8 Q932.K3.T86.6432"]
+[Dealer "W"]
+[Auction "W"]
+1NT Pass Pass 2C
+Pass 2H Pass Pass
+Pass
+[Declarer "N"]
+[Contract "2H"]
+[Play "E"]
+H3 H2 HT H6
+HK H7 H4 H5
+C4 C5 CQ CA
+D6 D5 DK DJ
+C2 HA HQ H8
+C3 C7 CK C8
+C6 S5 C9 CJ
+D8 DA D4 D2
+- H9 HJ -
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "29"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:6.KQ9432.J95.853 932.85.8642.KQJT KJT75.6.AT73.A92 AQ84.AJT7.KQ.764"]
+[Dealer "N"]
+[Auction "N"]
+1S 1NT 2H Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2H"]
+[Play "W"]
+CK C2 C4 C8
+CT CA C7 C3
+H5 H6 H7 HK
+H8 S5 HT H2
+CQ C9 C6 C5
+S3 SJ SQ S6
+D2 DA DK D5
+S2 SK SA H3
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "30"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:QJ5.J92.QT5.AQ62 T.AQ5.A972.KJT93 AK9842.T63.3.874 763.K874.KJ864.5"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1C 2S
+X XX 3C Pass
+Pass 3S Pass Pass
+Pass
+[Declarer "N"]
+[Contract "3S"]
+[Play "E"]
+C5 CA C3 C8
+S3 SQ ST S2
+H7 HJ HA H6
+H4 H2 HQ HT
+HK H9 H5 H3
+S6 S5 C9 S9
+DK D5 D7 D3
+S7 SJ CT S4
+*
+[Result "7"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "31"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:T9.AKJ54.4.A8642 AQ76542.62.T.QT5 J.83.AKJ98632.K7 K83.QT97.Q75.J93"]
+[Dealer "S"]
+[Auction "S"]
+1H 3S 4D Pass
+4H Pass 4S X
+XX Pass 4NT Pass
+5D Pass 6D Pass
+Pass Pass
+[Declarer "N"]
+[Contract "6D"]
+[Play "E"]
+S3 S9 SA SJ
+S8 ST S2 D2
+D5 D4 DT DA
+D7 C2 S4 DK
+*
+[Result "11"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "32"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:J5.95432.KT3.KT9 AKT42.J.AQJ6.Q65 976.AT7.8754.874 Q83.KQ86.92.AJ32"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 1NT Pass 2C
+Pass 2S Pass 4H
+Pass 4S Pass Pass
+Pass
+[Declarer "W"]
+[Contract "4S"]
+[Play "N"]
+D7 D9 DK DA
+HA H6 H5 HJ
+C7 CA C9 C5
+H7 HK H2 C6
+S6 S3 S5 SA
+S7 SQ SJ S2
+HT HQ H3 CQ
+*
+[Result "12"]
+[Score "+680"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "33"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:73.Q854.A53.AQJ4 T85.AK963.Q.KT87 AK4.J2.KT86.9653 QJ962.T7.J9742.2"]
+[Dealer "W"]
+[Auction "W"]
+1H Pass 1S Pass
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S7 S5 SK S2
+S3 S8 SA S6
+D5 ST S4 SQ
+H4 H9 HJ H7
+D3 DQ DK D4
+DA C7 D6 D9
+CA C8 C3 C2
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "34"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:Q6.T954.QJ32.764 K832.K863.KT.853 AJ954.J7.A975.KQ T7.AQ2.864.AJT92"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1S 2C
+Pass 3C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+SQ SK SA S7
+S6 S2 SJ ST
+D2 S3 S4 CJ
+DJ DK DA D4
+D3 S8 S9 CT
+DQ DT D5 D6
+C6 C3 CK CA
+H4 C5 D7 D8
+H5 H3 H7 HA
+H9 HK HJ H2
+HT H6 S5 HQ
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "35"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:AT982.T9754.A.86 743.3.KQJT98.J92 KQ6.J86.765.QT43 J5.AKQ2.432.AK75"]
+[Dealer "E"]
+[Auction "E"]
+1NT 2C 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+ST S3 SQ S5
+SA S4 SK SJ
+S9 S7 S6 C5
+S8 C2 H6 H2
+S2 C9 D5 C7
+DA D8 D6 D2
+*
+[Result "7"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "36"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:A2.AQJ74.AK54.A8 7.KT6.962.J76532 T854.85.Q73.QT94 KQJ963.932.JT8.K"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 2D X
+2S Pass Pass X
+Pass 3C Pass 3NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+S7 S4 S9 S2
+C2 S5 SJ SA
+HK H5 H2 HQ
+C5 CT CK CA
+H6 H8 H3 HA
+HT S8 H9 HJ
+C3 ST D8 H7
+D2 - - H4
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "37"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:T3.KJ9874.A65.85 A75.6.Q984.AQJ76 Q84.QT2.73.KT932 KJ962.A53.KJT2.4"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1S 2H 3C
+3H Pass Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+H8 H6 HQ HA
+H4 S5 H2 H3
+DA D4 D3 DJ
+C5 CA C2 C4
+D6 D8 D7 DK
+H7 S7 HT H5
+S3 SA S4 S2
+C8 C6 C9 S6
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "38"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:Q9653.J83.A863.T 42.Q9652.KJ5.973 AK87.T.QT92.AQJ8 JT.AK74.74.K6542"]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1H X
+2H 4S Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4S"]
+[Play "W"]
+C7 CA C6 CT
+C3 CQ CK S6
+S2 S7 ST SQ
+S4 SA SJ S3
+DK DQ D4 D3
+H2 HT HA H3
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "39"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:K732.QJ985.K8.74 964.T73.QJ7542.5 T8.K62.T93.AKQT6 AQJ5.A4.A6.J9832"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass 1NT X
+Pass 2D Pass Pass
+X Pass Pass Pass
+[Declarer "W"]
+[Contract "2DX"]
+[Play "N"]
+CK C2 C4 C5
+D9 D6 DK D2
+HK H4 H8 HT
+H6 HA H5 H3
+D3 DA D8 D4
+C6 C3 C7 D5
+DT S5 S2 DQ
+S8 SQ SK S4
+*
+[Result "8"]
+[Score "+180"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "4"]
+[Board "40"]
+[West "Westra"]
+[North "Hoogenkamp"]
+[East "Leufkens"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:764.QT53.J.JT654 T98.AK8.Q8.AK987 J53.72.K9753.Q32 AKQ2.J964.AT642."]
+[Dealer "W"]
+[Auction "W"]
+1C Pass 1D Pass
+1H Pass 4C Pass
+4H Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+S5 SA S4 S8
+DK D2 DJ DQ
+D3 D4 H5 D8
+H2 H4 H3 HA
+H7 H6 HT HK
+C2 D6 C4 CA
+C3 S2 C5 CK
+*
+[Result "10"]
+[Score "+620"]
+
+% PBN 1.0
+% BridgePlaza source converted to PBN by Francesco Barcio - pes136k1@pe.nettuno.it
+%
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "1"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:A9642.KT64.3.K87 87.J753.AJ98.J54 QT3.A.K76542.632 KJ5.Q982.QT.AQT9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT 2C Pass
+2S Pass Pass 2NT
+X 3C Pass Pass
+Pass
+[Declarer "E"]
+[Contract "3C"]
+[Play "S"]
+D3 D8 DK DT
+HT H3 HA H2
+C7 D9 D2 DQ
+HK H5 ST H8
+H4 H7 C3 HQ
+C8 DJ D4 H9
+H6 HJ C6 CT
+CK C4 C2 CA
+S2 CJ D5 C9
+S4 DA D6 S5
+SA S7 S3 SJ
+*
+[Result "6"]
+[Score "-150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "2"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:42.QT96.J9874.AQ T953.AK875.A3.T4 AJ87.J4.QT.KJ972 KQ6.32.K652.8653"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 1H X
+1NT X Pass Pass
+Pass
+[Declarer "E"]
+[Contract "1NTX"]
+[Play "S"]
+D9 DA DT D2
+S4 S3 S7 SK
+H9 HA H4 H3
+S2 S5 SA S6
+D4 D3 DQ DK
+H6 S9 S8 SQ
+HT HK HJ H2
+- H8 C2 -
+*
+[Result "6"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "3"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:82.AT54.T72.QT42 QT65.87.QJ95.J87 74.QJ96.K86.K965 AKJ93.K32.A43.A3"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 2NT
+Pass 3C Pass 3S
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C2 C7 C9 CA
+S2 S5 S4 SA
+S8 ST S7 S3
+D2 DQ D6 D4
+HA H7 H6 HK
+C4 C8 CK C3
+H4 H8 HQ H3
+CT CJ C5 S9
+H5 S6 H9 H2
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "4"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:52.T65.87654.T62 AQT.943.T932.Q83 K984.KQJ2.AJ.K94 J763.A87.KQ.AJ75"]
+[Dealer "N"]
+[Auction "N"]
+1NT Pass Pass Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+S3 S2 SQ SK
+H7 H5 H9 HK
+H8 HT H4 H2
+HA H6 H3 HQ
+DK D4 D2 DA
+C5 S5 C8 HJ
+S6 D5 ST S9
+DQ D6 D3 DJ
+S7 CT SA S4
+C7 - D9 C4
+*
+[Result "5"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "5"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:AK.QJ75.K952.T63 Q96543.T92.T.987 JT8.4.QJ83.AJ542 72.AK863.A764.KQ"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1H Pass
+Pass X Pass 1NT
+2H Pass Pass Pass
+[Declarer "E"]
+[Contract "2H"]
+[Play "S"]
+SK S3 SJ S2
+HQ H2 H4 HA
+D2 DT D3 DA
+D5 H9 D8 D4
+C6 C7 C5 CK
+D9 HT DJ D6
+C3 C8 CA CQ
+DK S4 DQ D7
+SA S5 S8 S7
+CT C9 C2 H3
+HJ S6 C4 H8
+*
+[Result "8"]
+[Score "+110"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "6"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:42.AKQ865.Q752.4 AJ5.42.843.AK653 KQ7.J93.AJ96.QJ2 T9863.T7.KT.T987"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 2NT
+Pass 3D Pass 3H
+Pass 3NT Pass 4D
+Pass 4H Pass Pass
+Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CA C2 C7 C4
+SA S7 S9 S4
+S5 SQ S3 S2
+H2 H3 H7 HA
+H4 H9 HT HK
+C6 HJ S6 H5
+SJ SK S8 D2
+- CQ C9 H6
+*
+[Result "10"]
+[Score "+420"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "7"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:A765.43.AJ72.K74 KJ8.KQ95.T.AQT65 QT4.876.K986.J32 932.AJT2.Q543.98"]
+[Dealer "S"]
+[Auction "S"]
+1D X 1NT 2H
+Pass 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+C7 CQ C3 C8
+C4 CA C2 C9
+CK C5 CJ H2
+S5 SK S4 S3
+H3 H5 H8 HA
+H4 H9 H6 HJ
+- - - HT
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "8"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:Q9643.J65.AK.KJ3 5.AQ42.7542.A984 K72.83.T93.QT765 AJT8.KT97.QJ86.2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 1S
+X 2S 3H Pass
+4H Pass Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+S4 S5 SK SA
+H6 H2 H3 HK
+H5 HA H8 H7
+HJ HQ C6 H9
+DK D2 D3 DQ
+CK CA C7 C2
+DA D4 DT DJ
+C3 C4 CQ HT
+SQ H4 S2 ST
+S3 D5 D9 D6
+S6 - S7 SJ
+*
+[Result "9"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "9"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:Q63.T64.JT8.Q842 AKJT82.872.Q9.T7 94.AK9.7632.K653 75.QJ53.AK54.AJ9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 4D
+Pass 4S Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C2 C7 CK CA
+S3 SA S4 S5
+S6 SK S9 S7
+DJ DQ D2 D4
+DT D9 D3 DA
+D8 CT D6 DK
+CQ S2 C3 CJ
+H6 H2 H9 HQ
+C4 H7 C5 C9
+*
+[Result "11"]
+[Score "+650"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "10"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:T2.742.K73.K9853 QJ9.K95.J962.JT6 AK53.T83.AQT854. 8764.AQJ6.AQ742."]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1NT 2D
+2NT Pass 3C X
+Pass Pass Pass
+[Declarer "E"]
+[Contract "3CX"]
+[Play "S"]
+D7 D2 DA C2
+S2 SQ SK S4
+DK D6 D8 C4
+H4 H5 H3 HA
+H7 H9 H8 HQ
+H2 HK HT H6
+D3 D9 DT C7
+C9 CT D4 HJ
+ST DJ DQ CA
+CK C6 S3 CQ
+*
+[Result "9"]
+[Score "+670"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "11"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:Q975.6.Q542.Q854 AK64.AQJ54.6.T32 J83.KT.T98.AKJ76 T2.98732.AKJ73.9"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H 2C 4D
+5C X Pass Pass
+Pass
+[Declarer "N"]
+[Contract "5CX"]
+[Play "E"]
+DK D2 D6 DT
+ST S5 SK SJ
+H9 H6 HA HT
+S2 S7 SA S3
+C9 S9 S4 S8
+DA D4 H4 D8
+D3 D5 C3 D9
+H2 SQ S6 CA
+*
+[Result "6"]
+[Score "-1100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "12"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:Q43.82.AKJ5.J854 AK987.J753.T8.92 T5.AQ.Q7643.AT63 J62.KT964.92.KQ7"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1D 1H 2H
+2S 3D Pass Pass
+3H Pass Pass Pass
+[Declarer "E"]
+[Contract "3H"]
+[Play "S"]
+DK D8 D7 D2
+DA DT D3 D9
+C4 C2 CA C7
+C5 C9 C3 CQ
+S4 SA S5 S2
+H2 H3 HA H6
+H8 H5 HQ HK
+CJ S7 C6 CK
+S3 S8 ST SJ
+*
+[Result "9"]
+[Score "+140"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "13"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:QJ7.K9.K9.QJ8763 T.AQJT5.A87532.5 K6532.8763.4.K92 A984.42.QJT6.AT4"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 2NT
+Pass 3C Pass 3D
+Pass 4D Pass 5D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+CK CA C3 C5
+D4 DQ D9 D8
+S2 D6 DK DA
+S3 SA S7 ST
+H3 H2 HK HA
+*
+[Result "13"]
+[Score "+640"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "14"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:KJ82.T93.98.KJ86 AQ543.AK.AJ2.QT5 T97.J542.KT.A974 6.Q876.Q76543.32"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2NT Pass 3C
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C4 C2 CK C5
+CA C3 C6 CT
+C9 D3 CJ CQ
+H2 H6 HT HK
+H5 H7 H3 HA
+DT D4 D8 DA
+DK D5 D9 DJ
+C7 H8 C8 S3
+*
+[Result "9"]
+[Score "+400"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "15"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:JT84.87.Q8.J9873 K65.AKJ94.5.KQ42 Q32.Q6532.KT976. A97.T.AJ432.AT65"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3NT"]
+[Play "S"]
+SJ S5 S2 SA
+H8 H4 HQ HT
+S4 SK SQ S7
+H7 HA H5 D3
+C3 HK H2 D2
+D8 HJ H3 D4
+DQ H9 H6 C5
+C7 C2 D6 CA
+C9 CK D7 C6
+CJ CQ D9 CT
+S8 D5 DT DJ
+- - - DA
+*
+[Result "11"]
+[Score "+460"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "16"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:9843.AK.QJ74.764 AKT7.J86.983.T53 65.7532.A6.AKQ92 QJ2.QT94.KT52.J8"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1NT Pass Pass
+Pass
+[Declarer "N"]
+[Contract "1NT"]
+[Play "E"]
+H9 HK HJ H5
+D2 D4 D9 DA
+D5 DQ D3 D6
+C8 C4 C5 CA
+CJ C6 C3 CK
+- - - CQ
+*
+[Result "9"]
+[Score "+150"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "17"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "None"]
+[Deal "S:KT52.62.A5.AK963 Q8743.KJ3.T987.2 J96.AQ985.Q3.QT8 A.T74.KJ642.J754"]
+[Dealer "N"]
+[Auction "N"]
+1H Pass 1S Pass
+1NT Pass 3NT Pass
+Pass Pass
+[Declarer "N"]
+[Contract "3NT"]
+[Play "E"]
+D2 D5 D7 DQ
+SA S2 S4 SJ
+D6 DA DT D3
+C4 CA C2 CT
+C5 C3 S7 CQ
+CJ CK S3 C8
+C7 C9 D9 H5
+H4 C6 D8 H8
+H7 H2 H3 HA
+- - - S6
+*
+[Result "10"]
+[Score "+430"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "18"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "NS"]
+[Deal "S:KQT.K9543.AQJ4.8 A3.2.KT97.AKT743 J87.AQJT7.83.J96 96542.86.652.Q52"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H 2C 3C
+Pass 4C Pass 4H
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+CK C6 C5 C8
+CA C9 C2 H5
+H2 HQ H6 H4
+C3 CJ CQ H9
+C4 H7 H8 HK
+SA S7 S2 ST
+S3 - - -
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "19"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "Both"]
+[Deal "S:Q875.AK7532.3.76 T6.T.JT8742.A953 KJ943.J96.KQ.QJ4 A2.Q84.A965.KT82"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3C
+Pass 3H Pass 3S
+Pass 3NT Pass 4C
+Pass 4H Pass 4S
+Pass Pass Pass
+[Declarer "N"]
+[Contract "4S"]
+[Play "E"]
+SA S5 S6 S9
+C2 C6 CA C4
+CK C7 C3 CQ
+DA D3 D2 DQ
+S2 S7 ST SK
+H4 HA HT H6
+H8 HK D8 H9
+*
+[Result "8"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "20"]
+[West "De Boer"]
+[North "Hoogenkamp"]
+[East "Muller"]
+[South "Verhees"]
+[Vulnerable "EW"]
+[Deal "S:AQ943.AJT74..752 K.Q.KJ975432.KQ9 T862.52.Q8.AJT84 J75.K9863.AT6.63"]
+[Dealer "S"]
+[Auction "S"]
+1S 4D 4S 5D
+5S Pass Pass Pass
+[Declarer "S"]
+[Contract "5S"]
+[Play "W"]
+CK CA C3 C7
+SK S2 S5 SQ
+D2 DQ DA S3
+D5 S6 S7 SA
+CQ C4 C6 C5
+HQ H2 H3 HA
+C9 CJ SJ C2
+- - HK -
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "21"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:A9642.KT64.3.K87 87.J753.AJ98.J54 QT3.A.K76542.632 KJ5.Q982.QT.AQT9"]
+[Dealer "N"]
+[Auction "N"]
+2C X 2D Pass
+Pass Pass
+[Declarer "S"]
+[Contract "2D"]
+[Play "W"]
+H5 HA H2 H6
+C5 C2 CA C8
+D8 DK DT D3
+DA D2 DQ S2
+S8 SQ SK SA
+H3 D4 H8 H4
+- D5 - -
+*
+[Result "8"]
+[Score "+90"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "22"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:42.QT96.J9874.AQ T953.AK875.A3.T4 AJ87.J4.QT.KJ972 KQ6.32.K652.8653"]
+[Dealer "E"]
+[Auction "E"]
+Pass Pass 2C Pass
+2S Pass Pass Pass
+[Declarer "E"]
+[Contract "2S"]
+[Play "S"]
+S2 S3 SA S6
+CQ C4 CJ C3
+CA CT C2 C5
+DJ DA DT D2
+H6 HA H4 H2
+H9 HK HJ H3
+HT H5 DQ SQ
+D4 S5 C7 C6
+D7 D3 S7 D5
+S4 S9 S8 SK
+D8 ST C9 C8
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "23"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:82.AT54.T72.QT42 QT65.87.QJ95.J87 74.QJ96.K86.K965 AKJ93.K32.A43.A3"]
+[Dealer "S"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2S Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+C2 C7 C9 CA
+S2 S5 S4 SA
+S8 S6 S7 SK
+C4 C8 CK C3
+HA H7 HQ HK
+H4 H8 HJ H3
+CQ CJ C5 S3
+H5 ST H6 H2
+D2 DQ D6 D3
+D7 D5 D8 DA
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "24"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:AK.QJ75.K952.T63 Q96543.T92.T.987 JT8.4.QJ83.AJ542 72.AK863.A764.KQ"]
+[Dealer "W"]
+[Auction "W"]
+2H Pass 2NT Pass
+3C Pass 3S Pass
+Pass Pass
+[Declarer "E"]
+[Contract "3S"]
+[Play "S"]
+SA S3 S8 S2
+H5 HT H4 H3
+HQ H2 ST H6
+D2 DT D3 DA
+C3 C7 C2 CK
+C6 C8 CA CQ
+SK S4 SJ S7
+CT - - -
+*
+[Result "8"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "25"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:52.T65.87654.T62 AQT.943.T932.Q83 K984.KQJ2.AJ.K94 J763.A87.KQ.AJ75"]
+[Dealer "N"]
+[Auction "N"]
+1NT X Pass 2C
+Pass Pass Pass
+[Declarer "W"]
+[Contract "2C"]
+[Play "N"]
+HK HA H5 H3
+SK S3 S5 SQ
+HJ H7 H6 H4
+HQ H8 HT H9
+DA DQ D4 D2
+S4 S6 S2 SA
+C4 CJ C2 C3
+C9 CA C6 C8
+S8 S7 CT ST
+*
+[Result "7"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "26"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:42.AKQ865.Q752.4 AJ5.42.843.AK653 KQ7.J93.AJ96.QJ2 T9863.T7.KT.T987"]
+[Dealer "E"]
+[Auction "E"]
+Pass 1H 2C 2D
+2NT 4C X 4H
+Pass Pass Pass
+[Declarer "S"]
+[Contract "4H"]
+[Play "W"]
+C6 CQ C7 C4
+H2 HJ H7 H5
+H4 H3 HT HA
+SA S7 S3 S4
+CA C2 C8 H6
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "27"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:A765.43.AJ72.K74 KJ8.KQ95.T.AQT65 QT4.876.K986.J32 932.AJT2.Q543.98"]
+[Dealer "S"]
+[Auction "S"]
+1D X 2D 2H
+Pass 4H Pass Pass
+Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+H3 H5 H8 HJ
+C4 C5 CJ C9
+DJ DT D6 D5
+S5 SK S4 S3
+H4 HK H6 H2
+S6 H9 H7 HA
+C7 CT C2 C8
+CK CA C3 S2
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "28"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:Q9643.J65.AK.KJ3 5.AQ42.7542.A984 K72.83.T93.QT765 AJT8.KT97.QJ86.2"]
+[Dealer "W"]
+[Auction "W"]
+Pass Pass 1D 1S
+X 2S 3H Pass
+3S X 4H Pass
+Pass Pass
+[Declarer "E"]
+[Contract "4H"]
+[Play "S"]
+DK D2 D3 D6
+DA D4 DT D8
+S3 S5 SK SA
+H5 HA H3 H7
+H6 HQ H8 H9
+HJ H2 C5 HK
+S4 D5 D9 DQ
+S6 D7 C6 DJ
+SQ H4 S2 SJ
+C3 CA C7 C2
+CJ C4 CT HT
+S9 C8 S7 ST
+CK C9 CQ S8
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "29"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:Q63.T64.JT8.Q842 AKJT82.872.Q9.T7 94.AK9.7632.K653 75.QJ53.AK54.AJ9"]
+[Dealer "N"]
+[Auction "N"]
+Pass 1NT Pass 2H
+Pass 2S Pass 4S
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4S"]
+[Play "S"]
+DJ D9 D3 DK
+S3 SA S4 S5
+S6 SK S9 S7
+D8 DQ D2 D4
+H4 H2 HA H3
+- - H9 -
+*
+[Result "10"]
+[Score "+620"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "30"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:T2.742.K73.K9853 QJ9.K95.J962.JT6 AK53.T83.AQT854. 8764.AQJ6.AQ742."]
+[Dealer "E"]
+[Auction "E"]
+1C Pass 1NT 2D
+2H 3D Pass 3S
+Pass 4D Pass Pass
+Pass
+[Declarer "N"]
+[Contract "4D"]
+[Play "E"]
+S8 ST SQ SK
+S4 S2 SJ SA
+S6 D3 S9 S3
+C2 C3 CT D4
+S7 DK C6 S5
+C4 D7 D2 DT
+H6 H2 HK HT
+C7 C5 CJ D5
+HJ H4 H5 H8
+*
+[Result "9"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "31"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:Q975.6.Q542.Q854 AK64.AQJ54.6.T32 J83.KT.T98.AKJ76 T2.98732.AKJ73.9"]
+[Dealer "S"]
+[Auction "S"]
+Pass 1H 2C 4C
+X Pass Pass 4H
+Pass Pass Pass
+[Declarer "W"]
+[Contract "4H"]
+[Play "N"]
+CA C9 C8 C2
+S3 S2 SQ SA
+*
+[Result "11"]
+[Score "+450"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "32"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:Q43.82.AKJ5.J854 AK987.J753.T8.92 T5.AQ.Q7643.AT63 J62.KT964.92.KQ7"]
+[Dealer "W"]
+[Auction "W"]
+2C X 4H X
+Pass Pass Pass
+[Declarer "E"]
+[Contract "4HX"]
+[Play "S"]
+DA D8 D3 D2
+C4 C2 CA C7
+DJ DT D6 D9
+C5 C9 CT CK
+S3 SA S5 S6
+H2 H3 HA H6
+C8 S7 C3 CQ
+H8 H5 HQ HK
+S4 SK ST S2
+*
+[Result "8"]
+[Score "-300"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "33"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:JT84.87.Q8.J9873 K65.AKJ94.5.KQ42 Q32.Q6532.KT976. A97.T.AJ432.AT65"]
+[Dealer "E"]
+[Auction "E"]
+1D Pass 1H Pass
+2C Pass 2S Pass
+2NT Pass 3C Pass
+3D Pass 3H Pass
+3S Pass 4C Pass
+4H Pass 4S Pass
+6C Pass Pass Pass
+[Declarer "E"]
+[Contract "6C"]
+[Play "S"]
+SJ S5 S3 SA
+C3 CK S2 C5
+D8 D5 D6 DA
+DQ C2 D7 D3
+H7 HA H2 HT
+H8 HK H3 S7
+C7 H4 H5 C6
+S4 SK SQ S9
+S8 S6 D9 CT
+C8 CQ DT D4
+ST H9 HQ CA
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "34"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:QJ7.K9.K9.QJ8763 T.AQJT5.A87532.5 K6532.8763.4.K92 A984.42.QJT6.AT4"]
+[Dealer "N"]
+[Auction "N"]
+Pass Pass 1C 1H
+1S 1NT 2C 2D
+3C 5D Pass Pass
+Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+C2 CA C8 C5
+D4 DQ D9 D2
+S2 D6 DK DA
+*
+[Result "13"]
+[Score "+640"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "35"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KJ82.T93.98.KJ86 AQ543.AK.AJ2.QT5 T97.J542.KT.A974 6.Q876.Q76543.32"]
+[Dealer "S"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 2NT Pass 3C
+Pass 3S Pass 3NT
+Pass Pass Pass
+[Declarer "W"]
+[Contract "3NT"]
+[Play "N"]
+C4 C2 CK C5
+CA C3 C6 CQ
+C7 H6 CJ CT
+C9 H7 C8 S3
+H2 - - -
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "36"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "None"]
+[Deal "S:KT52.62.A5.AK963 Q8743.KJ3.T987.2 J96.AQ985.Q3.QT8 A.T74.KJ642.J754"]
+[Dealer "N"]
+[Auction "N"]
+1H 2D X 2NT
+Pass 3D X Pass
+3H Pass 3NT Pass
+Pass Pass
+[Declarer "S"]
+[Contract "3NT"]
+[Play "W"]
+DT DQ DK D5
+D7 D3 D4 DA
+C2 CT C4 CA
+S3 CQ C5 C3
+D8 C8 C7 C9
+S4 S6 CJ CK
+S7 H5 H4 C6
+H3 HQ H7 H2
+HK HA HT H6
+*
+[Result "8"]
+[Score "-50"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "37"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:9843.AK.QJ74.764 AKT7.J86.983.T53 65.7532.A6.AKQ92 QJ2.QT94.KT52.J8"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1H Pass 1NT
+Pass Pass Pass
+[Declarer "S"]
+[Contract "1NT"]
+[Play "W"]
+SA S5 S2 S3
+S7 S6 SJ S4
+H8 H2 H4 HA
+C3 CA C8 C4
+C5 CK CJ C6
+CT CQ D2 C7
+D3 C9 H9 D4
+D8 C2 D5 D7
+H6 H3 HT HK
+D9 DA DT DQ
+*
+[Result "8"]
+[Score "+120"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "38"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "NS"]
+[Deal "S:KQT.K9543.AQJ4.8 A3.2.KT97.AKT743 J87.AQJT7.83.J96 96542.86.652.Q52"]
+[Dealer "E"]
+[Auction "E"]
+2H 3H 4S 5H
+Pass Pass X Pass
+Pass Pass
+[Declarer "S"]
+[Contract "5HX"]
+[Play "W"]
+CK C6 C2 C8
+CA C9 C5 H3
+H2 HQ H6 H4
+C3 HJ H8 H5
+DK D3 D2 DQ
+*
+[Result "10"]
+[Score "-200"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "39"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "EW"]
+[Deal "S:AQ943.AJT74..752 K.Q.KJ975432.KQ9 T862.52.Q8.AJT84 J75.K9863.AT6.63"]
+[Dealer "S"]
+[Auction "S"]
+1S 2D 2S X
+3S 4D Pass 5D
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5D"]
+[Play "N"]
+S8 S5 SA SK
+CA C3 C7 CK
+CJ C6 C5 CQ
+D8 DA S3 D2
+H2 H3 HA HQ
+*
+[Result "10"]
+[Score "-100"]
+
+[Event "1998 Dutch Teams Final"]
+[Site "RAI Congress Centre Amsterdam, Netherlands, NLD"]
+[Date "1998.12.13"]
+[Round "5"]
+[Board "40"]
+[West "Nab"]
+[North "Westra"]
+[East "Bertens"]
+[South "Leufkens"]
+[Vulnerable "Both"]
+[Deal "S:Q875.AK7532.3.76 T6.T.JT8742.A953 KJ943.J96.KQ.QJ4 A2.Q84.A965.KT82"]
+[Dealer "W"]
+[Auction "W"]
+Pass 1S X 4S
+5D Pass Pass X
+Pass Pass Pass
+[Declarer "W"]
+[Contract "5DX"]
+[Play "N"]
+S4 SA S5 S6
+H6 H4 HK HT
+SK S2 SQ ST
+HJ HQ HA D4
+DQ DA D3 DJ
+H9 H8 H2 D2
+DK D5 H3 D7
+C4 C2 C6 C9
+*
+[Result "10"]
+[Score "-200"]
+

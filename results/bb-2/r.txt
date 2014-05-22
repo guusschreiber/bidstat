@@ -1,0 +1,27 @@
+> ca <- read.table("contested_auction.txt", header=TRUE)
+> cap <- partition(ca,200)
+> y <- cap[,1]
+> c <- cap[,2]
+> cap.lm <- lm(c~y)
+> plot(y,c, ylim=c(0,1), xlab="Year", ylab="Freqeuncy contested auction")
+> abline(cap.lm)
+> summary(cap.lm)
+
+Call:
+lm(formula = c ~ y)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.134636 -0.032000  0.000418  0.041971  0.157139 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)  
+(Intercept) -1.2058079  0.7243829  -1.665   0.0995 .
+y            0.0008605  0.0003624   2.374   0.0197 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+
+Residual standard error: 0.05785 on 89 degrees of freedom
+Multiple R-squared: 0.05956,	Adjusted R-squared: 0.04899 
+F-statistic: 5.636 on 1 and 89 DF,  p-value: 0.01974 
+

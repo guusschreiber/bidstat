@@ -1,0 +1,7011 @@
+% PBN created by BFC s02.rbn P
+% RBN by Richard Pavlicek (www.rpbridge.net)
+% 103 deals (2 results each)
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "1"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT92.98542.76.AT K64.K73.4.J86432 QJ83.A6.QT953.K5 75.QJT.AKJ82.Q97"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 3S
+AP
+[Play "S"]
+S5 S9 SK S3
+S7 ST S4 S8
+DJ D6 D4 DT
+C7 CA C2 C5
+DK D7 C3 D9
+C9 CT CJ CK
+HQ H2 H7 HA
+HT H4 H3 H6
+D2 H5 S6 -
+*
+[Description "2002 Spingold"]
+[Stage "F:1"]
+[HomeTeam "Moss"]
+[VisitTeam "Jacobs"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "1"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT92.98542.76.AT K64.K73.4.J86432 QJ83.A6.QT953.K5 75.QJT.AKJ82.Q97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass 1H
+Pass 1S Pass 2S
+AP
+[Play "S"]
+S5 S9 SK S3
+S7 ST S4 S8
+DJ D7 D4 D9
+C7 CA C2 C5
+D8 D6 C3 D3
+HQ H2 H3 HA
+DK SA C4 DQ
+C9 CT C6 CK
+D2 H4 S6 DT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "2"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:875.A98765.6.532 T64.4.AK9743.J64 K3.KQ32.J52.KQT8 AQJ92.JT.QT8.A97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1C 1S X 2C
+2H 3D 4H 4S
+AP
+[Play "W"]
+C2 C4 CT CA
+D6 DK D5 DT
+S5 ST SK SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "2"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:875.A98765.6.532 T64.4.AK9743.J64 K3.KQ32.J52.KQT8 AQJ92.JT.QT8.A97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+1C 1S Pass 2S
+Pass Pass 3H 3S
+4H AP
+[Play "N"]
+DK D2 DT D6
+S4 SK SA S8
+S6 S3 SQ S7
+D3 D5 DQ H8
+H4 HK HT H5
+D4 DJ D8 H7
+D7 H2 HJ HA
+C4 CK CA C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "3"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J4.QJT92.AJ98.J3 K97.K8.Q53.Q9762 QT.7643.K764.A84 A86532.A5.T2.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 2S Pass
+3S Pass 4S AP
+[Play "W"]
+HJ H8 H3 HA
+S4 S7 SQ SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "3"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J4.QJT92.AJ98.J3 K97.K8.Q53.Q9762 QT.7643.K764.A84 A86532.A5.T2.KT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 2NT Pass
+4S AP
+[Play "W"]
+HQ H8 H4 HA
+S4 S7 SQ SA
+SJ SK ST S2
+DJ D3 D6 DT
+DA D5 D4 D2
+D9 DQ DK S3
+H2 HK H3 H5
+CJ C2 C4 CK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "5"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T96.97543.KT5.J4 32.AK862.97.A753 Q84.JT.QJ3.QT986 AKJ75.Q.A8642.K2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1H Pass 1NT Pass
+2C Pass 2D Pass
+2H Pass 3NT AP
+[Play "W"]
+CJ C3 CQ CK
+H3 H2 HJ HQ
+ST S2 S4 S5
+C4 CA C6 C2
+H4 HA HT D2
+H5 HK S8 D4
+-  S3 SQ -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "5"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T96.97543.KT5.J4 32.AK862.97.A753 Q84.JT.QJ3.QT986 AKJ75.Q.A8642.K2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1H Pass 2NT Pass
+3C Pass 3H Pass
+3NT AP
+[Play "W"]
+CJ C3 CQ CK
+H3 H2 HJ HQ
+S6 S3 S8 S5
+C4 CA CT C2
+H4 HA HT D2
+H5 HK C6 D4
+ST S2 S4 SJ
+S9 H6 SQ SK
+-  -  -  SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "6"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q53.T.KQJ93.A764 AK98.AK76.T876.5 T76.984..KQJT932 J42.QJ532.A542.8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "9"]
+[Auction "E"]
+3C Pass 5C X
+Pass 5H Pass Pass
+X AP
+[Play "W"]
+DK D6 H4 D4
+CA C5 C2 C8
+D9 DT H8 D2
+HT HA H9 H2
+C4 HK C3 H3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "6"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q53.T.KQJ93.A764 AK98.AK76.T876.5 T76.984..KQJT932 J42.QJ532.A542.8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "9"]
+[Auction "E"]
+3C Pass 5C X
+AP
+[Play "S"]
+HJ HT HK H8
+SJ S3 SK ST
+H5 C4 H6 H4
+C8 C6 C5 CK
+H2 CA D6 C2
+DA DK D7 S7
+S4 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "7"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ753.983.62.652 K9.T754.AKQ83.93 J864.AQJ6.7.JT87 T2.K2.JT954.AKQ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1D Pass 2D Pass
+2S X Pass Pass
+3C Pass 3NT AP
+[Play "E"]
+S4 S2 SQ SK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "7"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ753.983.62.652 K9.T754.AKQ83.93 J864.AQJ6.7.JT87 T2.K2.JT954.AKQ4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2S Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 5D X
+Pass Pass Pass
+[Play "W"]
+SA S9 S8 S2
+H9 H4 HA H2
+C2 C3 CT CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "8"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:32.AJ875.63.JT94 KT5.K96.QJ94.A82 AQ97.Q42.K852.73 J864.T3.AT7.KQ65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "W"]
+Pass 1D Pass 1S
+Pass 1NT AP
+[Play "E"]
+H2 H3 HJ HK
+D2 D7 D6 DJ
+D8 DT D3 D4
+D5 DA S2 D9
+C3 C5 C4 CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "8"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:32.AJ875.63.JT94 KT5.K96.QJ94.A82 AQ97.Q42.K852.73 J864.T3.AT7.KQ65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1C 1S 1NT
+AP
+[Play "W"]
+S3 S5 S9 SJ
+D6 D4 D2 DA
+D3 DQ DK D7
+H8 HK HQ H3
+S2 DJ D5 DT
+H5 D9 D8 S4
+C4 CA C3 C5
+C9 C2 C7 CK
+CT C8 S7 CQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "9"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A32.K832.4.AJT75 94.JT9754.K96.Q2 KJ8.A6.QT853.964 QT765.Q.AJ72.K83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "4"]
+[Auction "N"]
+2H Pass Pass 3C
+Pass 3H X 3NT
+AP
+[Play "N"]
+H4 HA HQ H2
+CQ C4 C3 CJ
+H9 H6 S7 HK
+S4 S8 S5 SA
+S9 SJ SQ S2
+DK D3 D2 D4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "9"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A32.K832.4.AJT75 94.JT9754.K96.Q2 KJ8.A6.QT853.964 QT765.Q.AJ72.K83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1S 2C
+Pass 2NT Pass 3C
+AP
+[Play "N"]
+S9 SJ SQ SA
+DK D3 D2 D4
+S4 SK S5 S3
+H4 HA HQ H2
+H7 H6 C3 H3
+HT S8 ST S2
+CQ D5 S7 H8
+H5 D8 C8 HK
+C2 -  S6 C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "10"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J976.763.K9.JT64 Q8.84.J8765.AKQ9 K4.J52.QT432.732 AT532.AKQT9.A.85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 2NT
+Pass 3H Pass 3S
+Pass 6NT AP
+[Play "E"]
+D2 DA D9 D5
+C2 C5 C4 C9
+H2 HA H3 H4
+H5 HK H6 H8
+HJ HQ H7 D6
+D3 H9 C6 D7
+D4 HT S7 D8
+C3 C8 CT CQ
+C7 S2 CJ CA
+DQ S3 S9 CK
+DT S5 DK DJ
+SK SA S6 S8
+S4 ST SJ SQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "10"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J976.763.K9.JT64 Q8.84.J8765.AKQ9 K4.J52.QT432.732 AT532.AKQT9.A.85"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1S Pass 2C
+Pass 2H Pass 2S
+Pass 2NT Pass 3C
+Pass 3H Pass 3NT
+Pass 4NT AP
+[Play "W"]
+C4 CA C2 C5
+H3 H4 H2 HA
+S6 SQ SK S2
+DK D8 D2 DA
+H6 H8 H5 HK
+H7 D5 HJ HQ
+D9 D6 D3 HT
+S7 D7 D4 H9
+C6 CK C3 C8
+CT CQ C7 S3
+S9 S8 S4 SA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "11"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:8743.4.KQ7643.84 KT62.QT32.A5.AK2 J9.K7.JT2.QJ9765 AQ5.AJ9865.98.T3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "13"]
+[Auction "S"]
+1H 2D 3D Pass
+3H Pass 4H AP
+[Play "W"]
+D3 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "11"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:8743.4.KQ7643.84 KT62.QT32.A5.AK2 J9.K7.JT2.QJ9765 AQ5.AJ9865.98.T3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "13"]
+[Auction "S"]
+1H Pass 1S Pass
+2D X Pass Pass
+2H Pass 3S Pass
+4H AP
+[Play "W"]
+C8 CA C9 C3
+H4 HQ H7 H5
+D7 H3 HK HA
+S3 S2 S9 SA
+S4 S6 SJ SQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "13"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AT8543.54.J2.T82 J.AQ982.Q8763.93 K72.KJ3.KT9.A754 Q96.T76.A54.KQJ6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass 1C Pass 2D
+2H 2S 3H Pass
+Pass 3NT AP
+[Play "S"]
+CK -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "13"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AT8543.54.J2.T82 J.AQ982.Q8763.93 K72.KJ3.KT9.A754 Q96.T76.A54.KQJ6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1C Pass 1S
+X 1NT Pass 2S
+Pass 3S AP
+[Play "N"]
+D3 D9 DA DJ
+C3 CA CK C2
+SJ SK S6 S3
+H9 S2 S9 SA
+DQ DK D4 D2
+D6 DT D5 C8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "14"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK865.K96.QJ4.82 Q732.T75.A8652.9 .AQ2.97.AKQT6543 JT94.J843.KT3.J7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Auction "E"]
+2C Pass 2H Pass
+3C Pass 3D Pass
+3NT Pass 4C Pass
+4H Pass 5C AP
+[Play "S"]
+D3 -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "14"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK865.K96.QJ4.82 Q732.T75.A8652.9 .AQ2.97.AKQT6543 JT94.J843.KT3.J7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Auction "E"]
+2C Pass 2S Pass
+3C Pass 3D Pass
+4C Pass 4NT Pass
+5C Pass 6NT AP
+[Play "N"]
+H7 HA H8 H6
+-  CA C7 C2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "15"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J65.QJ643.QT93.4 Q74.KT972.6542.T K9832.A.8.KQJ985 AT.85.AKJ7.A7632"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2D 2H
+Pass 2S Pass 3C
+3D AP
+[Play "E"]
+CK CA C4 CT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "15"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J65.QJ643.QT93.4 Q74.KT972.6542.T K9832.A.8.KQJ985 AT.85.AKJ7.A7632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2D 3C
+AP
+[Play "S"]
+DK D3 D2 D8
+H8 H3 H9 HA
+C2 C4 CT CQ
+CA H4 D4 CK
+H5 HQ HK C5
+C3 H6 D5 CJ
+C6 D9 H7 C9
+C7 S5 D6 C8
+ST SJ SQ S8
+SA S6 S7 S3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "16"]
+[West "Versace"]
+[North "Graves"]
+[East "Lauria"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T.AJ9865.762.K97 AK2.742.AKT.Q543 Q9764.KT.QJ983.2 J853.Q3.54.AJT86"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "E"]
+DQ -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "16"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T.AJ9865.762.K97 AK2.742.AKT.Q543 Q9764.KT.QJ983.2 J853.Q3.54.AJT86"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Auction "W"]
+2H X Pass 2S
+AP
+[Play "W"]
+D7 DA D9 D4
+CK C3 C2 CJ
+D6 DK D3 D5
+ST SA S4 S3
+H9 SK S6 S5
+C7 C4 S7 C6
+C9 S2 SQ S8
+D2 DT DQ SJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "17"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A974.T75.KQT4.64 6532.A64.J6.KJ82 J8.QJ83.7.AQT975 KQT.K92.A98532.3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1D Pass
+1NT 2C 2D AP
+[Play "W"]
+C6 C8 C9 C3
+H5 H4 H8 HK
+D4 D6 D7 DA
+DQ DJ C5 D3
+DT S2 S8 D2
+DK S3 SJ D5
+C4 C2 C7 H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "17"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A974.T75.KQT4.64 6532.A64.J6.KJ82 J8.QJ83.7.AQT975 KQT.K92.A98532.3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1D Pass
+1H 2C AP
+[Play "S"]
+SK S4 S3 S8
+SQ SA S2 SJ
+C3 C4 C2 CQ
+D5 C6 C8 CA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "18"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K8654.5.K98.QJ73 AQ3.AK94.T654.T5 97.QT2.AJ2.A9842 JT2.J8763.Q73.K6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2S Pass
+3C AP
+[Play "N"]
+HA H2 H8 H5
+DT DJ DQ DK
+C5 C2 CK CQ
+D4 DA D7 D9
+CT CA C6 C3
+SA S7 S2 SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "18"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K8654.5.K98.QJ73 AQ3.AK94.T654.T5 97.QT2.AJ2.A9842 JT2.J8763.Q73.K6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 2S AP
+[Play "N"]
+HA H2 H8 H5
+CT CA C6 CJ
+SA S9 S2 SK
+C5 C2 CK CQ
+HK HT H3 D9
+D6 D2 DQ DK
+S3 S7 ST S4
+H4 HQ H6 C3
+D4 DA D7 D8
+D5 DJ D3 C7
+DT C4 SJ S5
+H9 C8 H7 S6
+SQ C9 HJ S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "19"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:42.J962.Q64.KQ75 J93.AK5.2.AJT642 KQ86.8743.JT85.9 AT75.QT.AK973.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3D Pass 3NT AP
+[Play "E"]
+SK SA S2 S3
+SQ S5 S4 SJ
+S6 S7 C5 S9
+C9 C3 C7 C2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "19"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:42.J962.Q64.KQ75 J93.AK5.2.AJT642 KQ86.8743.JT85.9 AT75.QT.AK973.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+3C Pass 3D Pass
+3H Pass 3NT AP
+[Play "E"]
+SK SA S2 S3
+C9 C3 C5 CJ
+H4 C8 C7 CA
+-  -  -  SJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "21"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AK.7.QT542.KQT64 9874.QJT9865.97. Q32.AK432.K8.J75 JT65..AJ63.A9832"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass 1H X XX
+1S Pass Pass 2D
+Pass 2H Pass 2S
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+SJ SK S4 S3
+C3 CK HQ C5
+CA C4 H6 CJ
+S5 SA S9 S2
+DA D2 D7 DK
+C9 CQ H5 C7
+C2 CT S7 H3
+C8 C6 S8 H4
+S6 D4 D9 SQ
+D6 H7 HT HA
+ST D5 H8 HK
+D3 DQ H9 D8
+DJ DT HJ H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "21"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AK.7.QT542.KQT64 9874.QJT9865.97. Q32.AK432.K8.J75 JT65..AJ63.A9832"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result "11"]
+[Auction "N"]
+3H Pass Pass 3NT
+Pass 4NT AP
+[Play "N"]
+S8 S2 ST SK
+HQ C5 C2 CQ
+H6 CJ CA C4
+S7 S3 S5 SA
+D7 DK DA D2
+S9 SQ SJ D5
+H5 HA S6 H7
+H8 HK D3 C6
+D9 D8 D6 DT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "22"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QT.QJ74.J.AKQT63 A952.82.Q97543.8 J8763.T3.T82.J94 K4.AK965.AK6.752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+Pass 1H 2C X
+Pass 3D Pass 4C
+Pass 4H Pass 5D
+AP
+[Play "W"]
+CK C8 C4 C5
+CA D3 C9 C2
+DJ D4 D2 DK
+C6 D5 D8 DA
+H4 H2 H3 HA
+H7 H8 HT HK
+HJ D7 DT H5
+-  -  S3 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "22"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QT.QJ74.J.AKQT63 A952.82.Q97543.8 J8763.T3.T82.J94 K4.AK965.AK6.752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+Pass 1H 2C Pass
+Pass X Pass 3C
+Pass 3D Pass 5D
+AP
+[Play "W"]
+CK C8 C4 C2
+CA D3 C9 C5
+DJ D4 D8 DA
+H4 H2 H3 HA
+H7 H8 HT HK
+HQ D5 DT H5
+C6 D7 D2 DK
+HJ D9 S3 H6
+ST S2 S7 SK
+C3 S5 S6 H9
+SQ SA S8 S4
+CT S9 SJ D6
+CQ DQ CJ C7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "23"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A73.A65.AKT42.53 T982.Q43.9.AKJT9 Q64.KT.Q7653.872 KJ5.J9872.J8.Q64"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT AP
+[Play "N"]
+CK C2 CQ C3
+CT C7 C6 C5
+C9 C8 C4 DT
+CA S4 H9 D4
+CJ -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "23"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:A73.A65.AKT42.53 T982.Q43.9.AKJT9 Q64.KT.Q7653.872 KJ5.J9872.J8.Q64"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT AP
+[Play "N"]
+CK C2 CQ C3
+CA C7 C6 C5
+CJ C8 C4 S3
+CT D3 H8 S7
+C9 D5 D8 H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "24"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A842.953.T52.K73 95.J764.AK97.T85 JT6.A8.86.AQJ964 KQ73.KQT2.QJ43.2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1C X
+Pass 1H Pass Pass
+1S 2D 2S 3H
+AP
+[Play "E"]
+SJ SK SA S5
+D8 D3 D5 DA
+HA H2 H3 H4
+D6 DQ DT D7
+S6 SQ S2 S9
+ST S3 S4 H7
+H8 D4 D2 D9
+CA C2 C7 C5
+CQ HT C3 C8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "24"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A842.953.T52.K73 95.J764.AK97.T85 JT6.A8.86.AQJ964 KQ73.KQT2.QJ43.2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1C X
+Pass 1H 2C 2H
+3C 3D Pass 4H
+AP
+[Play "E"]
+CA C2 C7 C8
+S6 SK SA S5
+ST SQ S2 S9
+HA HK H3 H4
+SJ S3 S4 H6
+H8 H2 H5 HJ
+D8 DJ D2 D7
+-  S7 S8 H7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "25"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KT2.AJ.JT74.9875 Q8763.984.85.QJ2 J54.Q7532.A93.A3 A9.KT6.KQ62.KT64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1NT Pass
+2H Pass 2S AP
+[Play "W"]
+C9 CQ CA C6
+C5 CJ C3 C4
+D7 D5 D3 DK
+C8 C2 S5 CK
+HJ H4 H2 H6
+HA H8 H7 HT
+C7 D8 S4 CT
+S2 H9 H3 HK
+D4 S3 D9 D2
+ST S6 SJ SA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "25"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KT2.AJ.JT74.9875 Q8763.984.85.QJ2 J54.Q7532.A93.A3 A9.KT6.KQ62.KT64"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1NT Pass
+2H Pass 2S AP
+[Play "W"]
+DJ D5 DA D6
+HJ H4 H3 H6
+HA H8 H2 HT
+C9 C2 CA C4
+S2 H9 H5 HK
+C8 CJ C3 C6
+ST S3 S4 SA
+SK S6 S5 S9
+C5 CQ SJ CT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "26"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:43.AQ62.43.K8432 87652.T984.A8.QJ AQT9.J53.QT92.95 KJ.K7.KJ765.AT76"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 2S AP
+[Play "W"]
+C2 CQ C9 C7
+C3 CJ C5 CA
+C8 S5 ST C6
+S4 S2 SA SJ
+S3 S6 S9 SK
+D4 DA D2 D6
+D3 D8 D9 DJ
+H6 H4 DT DK
+H2 S7 DQ D5
+HA HT H3 HK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "26"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:43.AQ62.43.K8432 87652.T984.A8.QJ AQT9.J53.QT92.95 KJ.K7.KJ765.AT76"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2D Pass 2H
+Pass 3C AP
+[Play "E"]
+DT D5 D4 DA
+SA SJ S3 S6
+D2 DK D3 D8
+D9 D6 S4 CQ
+SQ SK C2 S7
+C5 CA CK CJ
+DQ D7 H6 S2
+ST C6 H2 S5
+C9 CT C3 S8
+H3 DJ C4 H4
+S9 C7 C8 H8
+H5 H7 HA H9
+HJ HK HQ HT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "27"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ752.K..A876532 K43.T985.763.QJ4 9.AQ7632.K542.KT JT86.J4.AQJT98.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Auction "S"]
+Pass 1C Pass 1H
+3D 3S Pass 3NT
+Pass 4C Pass 4H
+Pass 5D Pass 6C
+AP
+[Play "N"]
+D3 DK DA C2
+H5 H2 H4 HK
+CJ CK C9 C3
+H8 HA HJ S2
+H9 HQ DQ S5
+HT H3 D9 C5
+S3 S9 S6 SA
+S4 CT S8 S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "27"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ752.K..A876532 K43.T985.763.QJ4 9.AQ7632.K542.KT JT86.J4.AQJT98.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 1H
+2D 2S Pass 3D
+Pass 4C Pass 4D
+Pass 4S Pass 5C
+Pass 6C AP
+[Play "N"]
+D3 D2 DQ C2
+H5 HA H4 HK
+SK S9 ST SQ
+D7 D4 DJ C3
+S4 CT S6 S2
+H8 HQ HJ S5
+C4 CK C9 C5
+D6 D5 D8 C6
+CJ H2 D9 CA
+CQ DK DT C7
+HT H3 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "28"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.642.QT82.QJ8632 AT843.KT.976.AT9 K762.J983.K.K754 QJ95.AQ75.AJ543."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+3C Pass 4C X
+Pass 4S AP
+[Play "E"]
+C5 S5 C6 C9
+S2 SQ C2 S3
+H9 HA H2 HT
+H3 H5 H6 HK
+C4 D3 CQ CA
+C7 S9 C3 CT
+SK SJ D8 S4
+HJ H7 H4 S8
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "28"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.642.QT82.QJ8632 AT843.KT.976.AT9 K762.J983.K.K754 QJ95.AQ75.AJ543."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "10"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3C
+X XX Pass 3S
+Pass 4H Pass 6S
+AP
+[Play "E"]
+C4 S5 C2 C9
+SK SQ C3 S3
+S2 S9 C6 S4
+HJ H5 H2 HT
+S6 SJ H4 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "30"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ862.AJ952.32.T Q43.Q.AQJ85.K432 AT9.643.K7.AJ987 75.KT87.T964.Q65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2H Pass
+2S AP
+[Play "N"]
+DQ -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "30"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KJ862.AJ952.32.T Q43.Q.AQJ85.K432 AT9.643.K7.AJ987 75.KT87.T964.Q65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1C Pass 1S 2D
+2S 3D 4S AP
+[Play "N"]
+HQ H3 H7 H2
+DA D7 D4 D2
+D5 DK D6 D3
+S3 SA S5 S2
+SQ ST S7 SJ
+S4 S9 D9 SK
+C4 CA C5 CT
+D8 H6 H8 HJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "31"]
+[West "Katz"]
+[North "Graves"]
+[East "Jacobs"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:63.Q943.72.QJ862 J98.A852.9864.AT AQT42.KJ6.A.K974 K75.T7.KQJT53.53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1S
+2D X 2S 3C
+3D 4C Pass 5C
+Pass Pass X AP
+[Play "S"]
+DK -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "31"]
+[West "Moss,M"]
+[North "Bocchi"]
+[East "Schifko"]
+[South "Duboin"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:63.Q943.72.QJ862 J98.A852.9864.AT AQT42.KJ6.A.K974 K75.T7.KQJT53.53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass Pass 1S
+2D Pass 3D X
+Pass 3H AP
+[Play "N"]
+D6 DA DK D2
+CA C4 C3 CQ
+D8 H6 D3 D7
+H5 HK H7 H3
+HA HJ HT H4
+D9 S2 DQ H9
+H2 S4 S7 HQ
+CT CK C5 C2
+D4 C9 S5 CJ
+S8 SQ SK S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "33"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:63.KQ84.QJ643.T9 QJT95.963.T92.A8 7.JT72.AK85.J732 AK842.A5.7.KQ654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1S Pass
+3S Pass 4C Pass
+4S AP
+[Play "W"]
+HK H3 H7 HA
+S6 SQ S7 S2
+S3 SJ H2 S4
+C9 CA C2 C4
+CT C8 C3 CK
+D3 H6 C7 CQ
+-  -  -  C5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "33"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:63.KQ84.QJ643.T9 QJT95.963.T92.A8 7.JT72.AK85.J732 AK842.A5.7.KQ654"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1S Pass
+2NT Pass 3C Pass
+3H Pass 4C Pass
+4S Pass 4NT Pass
+5D X 6S AP
+[Play "W"]
+HK H3 H7 HA
+S3 SQ S7 S2
+S6 S5 D8 SA
+C9 CA C2 C4
+CT C8 C3 CQ
+D6 H6 C7 CK
+D3 S9 CJ C5
+H4 ST H2 SK
+D4 H9 D5 C6
+H8 SJ -  H5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "35"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T4.AJT875.876.KT AKJ2.K92.T52.A97 7653.Q3.AK943.J4 Q98.64.QJ.Q86532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass 2H X 3D
+Pass 3H AP
+[Play "N"]
+SA S3 S8 S4
+SK S5 S9 ST
+S2 S6 SQ H5
+D5 DA DQ D7
+HK HQ H4 H7
+D2 DK DJ D6
+SJ S7 C6 H8
+H2 H3 H6 HA
+H9 D3 C2 HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "35"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T4.AJT875.876.KT AKJ2.K92.T52.A97 7653.Q3.AK943.J4 Q98.64.QJ.Q86532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "8"]
+[Auction "S"]
+Pass 2H 2NT Pass
+3NT Pass Pass X
+AP
+[Play "E"]
+DK DJ D6 D5
+DA DQ D7 D2
+HQ H4 H8 HK
+S5 SQ S4 S2
+S3 S9 ST SA
+S6 S8 H5 SK
+S7 C2 D8 SJ
+D3 C3 H7 DT
+H3 H6 HA H9
+D4 C5 HJ H2
+-  -  HT C7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "38"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K63.AJ.QT983.AJ5 Q8.K43.K54.KT962 AT5.T92.A76.Q843 J9742.Q8765.J2.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "N"]
+C2 C3 C7 CJ
+D4 DA D2 DT
+DK D6 DJ DQ
+CT CQ H6 C5
+HK H2 H5 HJ
+SQ S5 S4 SK
+D5 D7 S2 D9
+C6 H9 H8 D8
+H4 HT S7 D3
+C9 C4 H7 CA
+H3 C8 HQ HA
+S8 SA S9 S3
+CK ST SJ S6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "38"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K63.AJ.QT983.AJ5 Q8.K43.K54.KT962 AT5.T92.A76.Q843 J9742.Q8765.J2.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1NT Pass
+3NT AP
+[Play "N"]
+CT C4 C7 CJ
+SQ SA -  S6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "40"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ94.T64.9.T9875 8732.8753.AJ82.4 JT.K92.KQT6.KQ32 K65.AQJ.7543.AJ6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1D X
+1S Pass 1NT Pass
+Pass 2H AP
+[Play "E"]
+SJ SK SA S2
+DQ D3 D9 DJ
+DK D4 H6 D2
+ST S5 S4 S3
+DT D5 H4 D8
+H2 S6 S9 S7
+D6 D7 HT DA
+C2 HJ SQ S8
+C3 CA C5 C4
+CQ C6 C7 H3
+H9 HQ C8 H5
+HK HA C9 H7
+CK CJ CT H8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "40"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ94.T64.9.T9875 8732.8753.AJ82.4 JT.K92.KQT6.KQ32 K65.AQJ.7543.AJ6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1S"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1D X
+Pass 1S AP
+[Play "E"]
+DK D3 D9 DA
+H2 HJ HT H7
+C2 CA C5 C4
+CK C6 CT S2
+H9 HQ H4 H5
+CQ CJ C7 S3
+HK HA H6 H3
+DT D4 C8 D8
+SJ S5 S4 S7
+ST -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "41"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ853.A92.832.Q6 AQ9.J5.AJT75.K54 62.T.KQ64.JT9873 T74.KQ87643.9.A2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H Pass 4H AP
+[Play "E"]
+DK D9 D2 DA
+HT H3 H2 HJ
+D4 S4 D3 DT
+D6 H8 D8 D5
+CJ HK HA H5
+CT CA CQ C4
+C3 HQ H9 C5
+S2 S7 S5 SQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "41"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ853.A92.832.Q6 AQ9.J5.AJT75.K54 62.T.KQ64.JT9873 T74.KQ87643.9.A2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3S Pass
+3NT Pass 4H AP
+[Play "E"]
+DK D9 D2 DA
+HT H3 HA HJ
+S6 S4 S5 SQ
+CJ HK H2 H5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "42"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:52.J54.QT543.A84 KQ8.7.AKJ98.JT97 AJ93.AK32.2.K532 T764.QT986.76.Q6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2C"]
+[Result "6"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 2C Pass
+Pass Pass
+[Play "S"]
+S6 S2 SQ SA
+D6 DT DK D2
+C6 CA C9 C2
+D7 D3 D9 C3
+S4 S5 S8 S3
+CQ C4 C7 CK
+H9 H4 H7 HA
+HT H5 CT HK
+H6 C8 CJ C5
+H8 D4 DA H3
+S7 HJ SK S9
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "42"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:52.J54.QT543.A84 KQ8.7.AKJ98.JT97 AJ93.AK32.2.K532 T764.QT986.76.Q6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "6"]
+[Auction "E"]
+1C Pass 1D Pass
+1H Pass 2C Pass
+2NT Pass 3NT X
+5C Pass Pass X
+AP
+[Play "S"]
+D7 D3 D9 D2
+S6 S2 SK SA
+C6 CA C7 C2
+S7 S5 SQ S3
+CQ C4 C9 CK
+H6 H4 H7 HA
+H8 H5 CT HK
+H9 C8 CJ C3
+S4 D4 S8 SJ
+D6 D5 D8 C5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "43"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q75.Q9753.T9.KJT A92.K864.42.Q864 T6.AT2.KJ8653.97 KJ843.J.AQ7.A532"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1S Pass 2S Pass
+3H Pass 4S AP
+[Play "W"]
+H3 H4 HA HJ
+DT D2 D8 DQ
+D9 D4 DK DA
+H9 S2 D6 D7
+S5 SA S6 S3
+SQ S9 ST SJ
+HQ HK H2 C2
+H5 H6 HT S8
+S7 C4 D3 SK
+CJ C6 C7 CA
+CK -  -  C3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "43"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:Q75.Q9753.T9.KJT A92.K864.42.Q864 T6.AT2.KJ8653.97 KJ843.J.AQ7.A532"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1S Pass 2S Pass
+3C Pass 4C Pass
+4S AP
+[Play "W"]
+H5 H4 HA HJ
+DT D2 D6 DQ
+D9 D4 D3 DA
+H3 S2 DK D7
+H7 HK H2 C2
+HQ H6 HT S3
+S5 SA S6 S4
+H9 H8 ST SJ
+CJ CQ C9 C3
+CT C4 C7 CA
+CK C6 D5 C5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "44"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ9.AK6.Q54.QJT7 T865.872.T962.A4 K73.J54.AJ83.K96 A42.QT93.K7.8532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 3NT AP
+[Play "N"]
+S6 S7 SA S9
+S5 S3 S4 SQ
+C4 C9 C2 C7
+CA CK C3 CJ
+H8 HJ HQ HA
+D2 DJ DK D4
+H2 H4 HT HK
+ST SK S2 SJ
+S8 C6 C5 CQ
+H7 H5 C8 CT
+D6 D3 D7 DQ
+D9 DA H3 D5
+DT D8 H9 H6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "44"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QJ9.AK6.Q54.QJT7 T865.872.T962.A4 K73.J54.AJ83.K96 A42.QT93.K7.8532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+1NT Pass 3NT AP
+[Play "N"]
+S6 S3 SA S9
+H8 HJ H3 H6
+CA C6 C2 CQ
+H7 H4 H9 HA
+C4 CK C3 C7
+S5 C9 C5 CJ
+D2 DJ DK D4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "45"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:2.AQJ964.K8654.7 QJT86.K2.Q3.AJ94 AK75.3.T9.KT8652 943.T875.AJ72.Q3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+1S 2C 2S 3H
+AP
+[Play "N"]
+SQ SA S4 S2
+S6 SK S3 C7
+D3 D9 D2 DK
+DQ DT D7 D6
+ST S5 S9 H4
+C4 H3 DJ D8
+S8 S7 C3 H6
+C9 C2 DA D5
+HK C5 H5 HQ
+SJ C6 CQ H9
+H2 C8 H7 HA
+CJ CT H8 HJ
+CA CK HT D4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "45"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:2.AQJ964.K8654.7 QJT86.K2.Q3.AJ94 AK75.3.T9.KT8652 943.T875.AJ72.Q3"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Auction "N"]
+1S Pass 2S 3H
+AP
+[Play "N"]
+SQ SA S4 S2
+S6 SK S3 C7
+D3 DT D2 DK
+DQ D9 DA D5
+HK H3 H5 HQ
+SJ S5 S9 H4
+H2 C2 H7 HA
+C4 C5 H8 HJ
+C9 C6 D7 D6
+S8 C8 HT H6
+CJ CT C3 D4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "46"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT62.Q4.JT84.AQ3 J53.T765.62.9654 987.K93.AQ7.KJT7 AK4.AJ82.K953.82"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "6"]
+[Auction "E"]
+1C X XX 1H
+Pass 2H AP
+[Play "E"]
+H3 H2 HQ H5
+C7 C2 CA C4
+CK C8 CQ C5
+CJ HJ C3 C6
+H9 HA H4 H6
+HK H8 ST HT
+CT D3 D8 C9
+S9 SA S2 S3
+S7 SK S6 S5
+S8 S4 SQ SJ
+-  -  DJ D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "46"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT62.Q4.JT84.AQ3 J53.T765.62.9654 987.K93.AQ7.KJT7 AK4.AJ82.K953.82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1C X XX Pass
+Pass 1D 2NT Pass
+3NT AP
+[Play "N"]
+H5 H3 H8 HQ
+D2 DQ DK D4
+H6 H9 HA H4
+S3 S7 S4 SQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "47"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K.J987.98654.J53 A863.KQ3.J73.874 T542.T6542.A2.96 QJ97.A.KQT.AKQT2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1S Pass
+3H Pass 3S Pass
+4S AP
+[Play "E"]
+DA DT D4 D7
+D2 DQ D9 DJ
+H2 HA H9 H3
+S4 SQ SK SA
+S2 S9 D5 S3
+C9 CA C5 C4
+C6 CK C3 C7
+S5 CQ CJ C8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "47"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K.J987.98654.J53 A863.KQ3.J73.874 T542.T6542.A2.96 QJ97.A.KQT.AKQT2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "13"]
+[Auction "S"]
+1C Pass 1S Pass
+2H Pass 2NT Pass
+3S Pass 4H Pass
+4NT Pass 5D Pass
+5S AP
+[Play "E"]
+D2 DK D4 D3
+H5 HA H7 H3
+S5 S7 SK SA
+H2 DT H8 HK
+H4 DQ H9 HQ
+S2 S9 D9 S3
+C6 CA C3 C4
+C9 CK C5 C7
+-  SQ -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "48"]
+[West "Jacobs"]
+[North "Graves"]
+[East "Katz"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK983.65.J52.A63 QJ74.943.987.KT9 6.KJ72.KQ63.QJ84 T52.AQT8.AT4.752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1S Pass 2C Pass
+2S Pass 2NT Pass
+3NT AP
+[Play "S"]
+S5 S9 SJ S6
+DA D2 D8 D6
+HA H5 H4 H2
+H8 H6 H9 HJ
+C5 C3 CK CQ
+-  -  H3 -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "48"]
+[West "Moss,M"]
+[North "Lauria"]
+[East "Schifko"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AK983.65.J52.A63 QJ74.943.987.KT9 6.KJ72.KQ63.QJ84 T52.AQT8.AT4.752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1S Pass 1NT Pass
+2C Pass 3NT AP
+[Play "S"]
+HQ H5 H9 HK
+D4 DJ D7 D3
+C5 C3 CK C4
+H8 H6 H4 H7
+S2 SA S4 S6
+DA D2 D8 DK
+S5 SK S7 H2
+C2 CA C9 C8
+C7 C6 CT CJ
+HT D5 H3 CQ
+DT S3 D9 DQ
+ST S8 SJ D6
+HA S9 SQ HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "50"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT8.J92.K932.A62 Q5.643.AJT4.KQJ5 AK432.5.Q86.T843 976.AKQT87.75.97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "5"]
+[Auction "E"]
+2H AP
+[Play "S"]
+HA H2 H3 H5
+HK H9 H4 S2
+HQ HJ H6 S3
+C9 C2 CJ C3
+C7 CA CK C4
+D7 D2 D4 DQ
+S6 S8 S5 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "50"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:JT8.J92.K932.A62 Q5.643.AJT4.KQJ5 AK432.5.Q86.T843 976.AKQT87.75.97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 1NT
+Pass 2H Pass 2NT
+Pass 3H Pass 4H
+AP
+[Play "W"]
+SJ SQ SK S6
+ST S5 SA S9
+DK DA D6 D5
+H2 H4 H5 HA
+S8 H3 S2 S7
+-  H6 C3 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "51"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T73.984.AKT7.AK2 J982.QT3.J54.Q97 AKQ4.J76.82.JT84 65.AK52.Q963.653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2NT
+Pass 3NT AP
+[Play "N"]
+H3 H6 HK H8
+HQ H7 H2 H4
+HT HJ HA H9
+D4 D2 H5 D7
+C7 C4 C5 CA
+S2 SA S5 S3
+CQ CJ C3 C2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "51"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T73.984.AKT7.AK2 J982.QT3.J54.Q97 AKQ4.J76.82.JT84 65.AK52.Q963.653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "N"]
+S2 S4 S5 S7
+C7 C4 C3 CK
+S8 SQ S6 S3
+CQ CJ C6 C2
+HT HJ HK H8
+HQ H6 H2 H9
+H3 H7 HA H4
+D4 C8 H5 D7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "52"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q5.KJ985.K65.KQ3 A.AQ42.JT98742.7 JT872.T73.A3.862 K9643.6.Q.AJT954"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1H 2D 2H 3C
+Pass 3D Pass 3S
+Pass 3NT AP
+[Play "E"]
+H3 H6 HK H2
+H7 DQ H9 HA
+DA C4 D6 D8
+HT -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "52"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q5.KJ985.K65.KQ3 A.AQ42.JT98742.7 JT872.T73.A3.862 K9643.6.Q.AJT954"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "11"]
+[Auction "W"]
+1H 2D 2H 2S
+Pass 3D AP
+[Play "E"]
+HT H6 HK HA
+S2 S3 S5 SA
+H7 C4 HJ HQ
+H3 DQ H5 H2
+S7 SK SQ H4
+-  S4 -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "53"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KT83.AJT9.K5.T32 QJ7.KQ.AJ4.AQ974 A9542.87543.8.K6 6.62.QT97632.J85"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "N"]
+1C 2C 2D 4D
+Pass 4S Pass Pass
+4NT Pass 5D X
+AP
+[Play "W"]
+S8 S7 SA S6
+HA HQ H8 H6
+H9 HK H3 H2
+S3 SQ S2 D2
+D5 D4 D8 DQ
+DK DA H4 D3
+ST DJ S4 D7
+SK SJ S5 DT
+C2 C4 CK CJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "53"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KT83.AJT9.K5.T32 QJ7.KQ.AJ4.AQ974 A9542.87543.8.K6 6.62.QT97632.J85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "N"]
+2D X 3D 3S
+3NT Pass Pass 4H
+X 4S Pass Pass
+X AP
+[Play "N"]
+DA D8 D7 D5
+CA C6 C8 C3
+C7 CK C5 C2
+S7 S2 S6 SK
+D4 H3 D2 DK
+CQ S4 CJ CT
+HQ H5 H2 HA
+HK H4 H6 HJ
+SQ SA D3 S3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "54"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AK9763.QJ.842.62 .T98765.Q7.KJ974 QJ5.AK32.A9.QT83 T842.4.KJT653.A5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 2H 3H
+Pass Pass 4H Pass
+4S X AP
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "54"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AK9763.QJ.842.62 .T98765.Q7.KJ974 QJ5.AK32.A9.QT83 T842.4.KJT653.A5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1NT X 2H Pass
+2S Pass 3NT Pass
+4S AP
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "55"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT63.64.T.AKQT5 872.AQ5.AJ8542.6 Q54.JT972.7.9432 J9.K83.KQ963.J87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass 1S Pass 2S
+Pass 4S AP
+[Play "N"]
+S2 -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "55"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT63.64.T.AKQT5 872.AQ5.AJ8542.6 Q54.JT972.7.9432 J9.K83.KQ963.J87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "10"]
+[Auction "S"]
+Pass 1S 2D 2S
+3S 4C 5D Pass
+Pass 5S AP
+[Play "N"]
+DA D7 D9 DT
+S2 S4 SJ SK
+S7 SQ S9 S3
+S8 S5 D3 SA
+C6 C2 C7 CA
+D5 C3 C8 CK
+D2 C4 CJ CQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "56"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:9532.K9642.974.J 4.JT87.JT53.A975 QT8.A3.82.KT6432 AKJ76.Q5.AKQ6.Q8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass Pass 2C
+Pass 2D Pass 2NT
+Pass 3C X 3S
+Pass 3NT Pass 4S
+Pass 4NT AP
+[Play "W"]
+CJ C5 CK C8
+H6 C7 C6 CQ
+H2 H7 HA HQ
+D7 D3 D8 DA
+HK H8 H3 H5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "56"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:9532.K9642.974.J 4.JT87.JT53.A975 QT8.A3.82.KT6432 AKJ76.Q5.AKQ6.Q8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1C X
+1H Pass 2C X
+Pass 2D Pass 2S
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+HA H5 H2 H7
+H3 HQ H6 H8
+D2 D6 D4 DJ
+C2 S6 HK HJ
+C3 C8 CJ CA
+C4 S7 H4 HT
+D8 DQ D7 D3
+C6 DK D9 D5
+CT DA S2 DT
+S8 SA S3 S4
+ST SK S5 C5
+SQ SJ S9 C7
+CK CQ H9 C9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "57"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J43.7.9853.AQT54 AT5.A832.AT42.93 KQ2.KQ964.K.K872 9876.JT5.QJ76.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1H"]
+[Result "9"]
+[Auction "N"]
+1D 1H AP
+[Play "S"]
+DQ D3 D4 DK
+S9 S3 SA SK
+D6 D5 DA H4
+C6 CQ C3 C2
+CJ CA C9 C7
+D7 D9 D2 H6
+S6 S4 ST SQ
+S7 SJ S5 S2
+H5 H7 H2 HK
+HT C4 DT CK
+DJ D8 HA C8
+HJ C5 H3 H9
+S8 CT H8 HQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "57"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:J43.7.9853.AQT54 AT5.A832.AT42.93 KQ2.KQ964.K.K872 9876.JT5.QJ76.J6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "N"]
+1D 1H 2D Pass
+Pass X Pass 3C
+AP
+[Play "N"]
+C3 C2 CJ CA
+HA H4 HT H7
+SA S2 S6 S3
+DA DK D6 D3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "58"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K9.JT2.KQ54.A984 52.A76.J972.KQT6 JT3.KQ84.A3.J532 AQ8764.953.T86.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D 1S Pass Pass
+X Pass 2H AP
+[Play "N"]
+S5 SJ SA S9
+CQ C2 C7 C4
+S2 S3 S7 SK
+HA H4 H5 HJ
+CT C3 H3 C8
+D7 ST SQ HT
+H6 -  -  H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "58"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K9.JT2.KQ54.A984 52.A76.J972.KQT6 JT3.KQ84.A3.J532 AQ8764.953.T86.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H 1S X Pass
+2NT Pass 3NT AP
+[Play "S"]
+S4 SK S2 S3
+H3 HJ HA H4
+SQ S9 S5 SJ
+SA C4 H6 ST
+S8 -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "59"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K72.JT9.Q8643.86 AQJT4.A854.KT.Q4 863.Q762.2.AJT32 95.K3.AJ975.K975"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1S Pass
+2D Pass 2H Pass
+2NT Pass 3NT AP
+[Play "W"]
+HJ H4 H2 HK
+S7 S4 S3 S9
+S2 ST S6 S5
+SK SA S8 C5
+DQ DT D2 D7
+HT HA H6 H3
+C6 SQ C3 C7
+C8 SJ C2 C9
+D3 DK CT DA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "59"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:K72.JT9.Q8643.86 AQJT4.A854.KT.Q4 863.Q762.2.AJT32 95.K3.AJ975.K975"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+1D Pass 1S Pass
+2C Pass 2H Pass
+2NT Pass 3NT AP
+[Play "W"]
+HJ H4 H2 HK
+S7 S4 S3 S9
+S2 ST S6 S5
+DQ DT D2 D5
+HT HA H6 H3
+SK SA S8 C5
+C6 SQ C3 C7
+D3 SJ C2 C9
+D4 DK CT DA
+D6 H5 H7 DJ
+D8 H8 HQ D9
+C8 C4 CJ D7
+H9 CQ CA CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "60"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:842.7.J82.AKQ876 J9.A42.K764.J954 A3.KQT65.Q53.T32 KQT765.J983.AT9."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1D 1S
+2C Pass 3C AP
+[Play "N"]
+SJ SA S7 S4
+H2 HK H3 H7
+S9 S3 SQ S2
+H4 C2 ST S8
+C4 C3 S5 CA
+C5 CT H8 CK
+C9 H5 H9 CQ
+CJ H6 HJ C8
+HA HT D9 C6
+D6 DQ DA D2
+D4 D3 SK C7
+D7 D5 DT D8
+DK HQ S6 DJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "60"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:842.7.J82.AKQ876 J9.A42.K764.J954 A3.KQT65.Q53.T32 KQT765.J983.AT9."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1H 1S
+2C Pass 2D Pass
+3C AP
+[Play "N"]
+SJ S3 SQ S4
+S9 SA S5 S8
+C4 C2 S6 CA
+HA H5 H3 H7
+D4 D3 DA D2
+DK D5 DT D8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "61"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8542.KT52.5.AK32 AKQ9.AQ73.T.QT87 7.J94.AKQ9872.96 JT63.86.J643.J54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3DX"]
+[Result "9"]
+[Auction "N"]
+1C 3D Pass Pass
+X AP
+[Play "S"]
+H8 H2 HQ H4
+S6 S2 SA S7
+H6 H5 HA H9
+D4 HK H7 HJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "61"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8542.KT52.5.AK32 AKQ9.AQ73.T.QT87 7.J94.AKQ9872.96 JT63.86.J643.J54"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NTX"]
+[Result "7"]
+[Auction "N"]
+1C 2D Pass 3NT
+X AP
+[Play "N"]
+SA S7 S3 S2
+SQ H4 SJ S4
+SK C6 S6 S5
+HA H9 H6 H5
+S9 D2 ST S8
+C7 C9 C4 CA
+DT DA D3 D5
+C8 DK D4 C2
+H3 DQ D6 C3
+HQ HJ H8 H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "62"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K2.K843.T942.J32 AT83.QT62.A7.QT8 QJ7654.9.KJ3.K76 9.AJ75.Q865.A954"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+2S X Pass 3NT
+AP
+[Play "E"]
+SJ S9 SK SA
+CK CA -  CQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "62"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K2.K843.T942.J32 AT83.QT62.A7.QT8 QJ7654.9.KJ3.K76 9.AJ75.Q865.A954"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C Pass 1H
+1S 2H Pass 4H
+AP
+[Play "E"]
+D3 DQ D2 D7
+S4 S9 SK SA
+S5 H5 S2 S3
+DJ D5 D9 DA
+SJ H7 H8 S8
+DK D6 DT H2
+C6 C4 -  CT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "63"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q853.T865.KQ7.J4 KT64.7.J865.K752 A97.QJ943.9.AQ93 J2.AK2.AT432.T86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1D Pass 1S 2H
+Pass 2NT Pass 3NT
+Pass 4H AP
+[Play "S"]
+SJ S3 S6 S7
+S2 S5 ST SA
+DA D7 D5 D9
+D4 DQ D6 S9
+D2 DK D8 C3
+HA H5 H7 HJ
+HK H6 DJ H3
+H2 H8 C2 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "63"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q853.T865.KQ7.J4 KT64.7.J865.K752 A97.QJ943.9.AQ93 J2.AK2.AT432.T86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "S"]
+1D Pass 2D X
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+D5 D9 DA D7
+D6 H3 D4 DK
+H7 HQ HK H5
+D8 H9 D3 DQ
+CK CA C6 CJ
+C2 CQ C8 C4
+C5 C3 CT S3
+C7 HJ HA H6
+ST S7 S2 S5
+S4 S9 SJ SQ
+S6 SA D2 S8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "64"]
+[West "Bocchi"]
+[North "Schifko"]
+[East "Duboin"]
+[South "Moss,M"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J.72.A65.AK98765 KQ854.AT63..QJT3 AT963.K854.KQ3.2 72.QJ9.JT98742.4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+1C 1S X 2D
+3C X Pass 3D
+Pass Pass 3NT AP
+[Play "S"]
+S7 SJ SQ SA
+S2 C5 SK ST
+C4 CA CQ C2
+H9 H7 H3 H8
+DJ D5 C3 DQ
+D4 DA S4 D3
+DT CK CT H4
+D2 D6 H6 DK
+D7 H2 S5 S9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "64"]
+[West "Maksymetz"]
+[North "Lauria"]
+[East "Graves"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J.72.A65.AK98765 KQ854.AT63..QJT3 AT963.K854.KQ3.2 72.QJ9.JT98742.4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+1C 2C X 2D
+3C Pass 3NT AP
+[Play "S"]
+HQ H2 H3 H4
+HJ H7 H6 HK
+C4 CA C3 C2
+DJ CK CT S3
+S2 SJ SQ SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "2"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:84.KT3.Q76.KQ853 KQJT532.A87.9.AJ A6.J62.AT54.T976 97.Q954.KJ832.42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+Pass Pass Pass 1S
+Pass 1NT Pass 4S
+AP
+[Play "E"]
+C7 C2 CQ CA
+D4 DK D7 D9
+SA S7 S8 SK
+D5 D2 D6 S2
+S6 S9 S4 S3
+DT D3 DQ S5
+C6 H4 C8 SQ
+H2 C4 C5 SJ
+H6 D8 C3 ST
+C9 -  -  CJ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "Jacobs"]
+[VisitTeam "Christiansen"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "2"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:84.KT3.Q76.KQ853 KQJT532.A87.9.AJ A6.J62.AT54.T976 97.Q954.KJ832.42"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1C 4S
+X AP
+[Play "E"]
+CT C2 CQ CA
+DA D2 D6 D9
+C6 C4 CK CJ
+H2 H4 HK HA
+S6 S9 S4 S2
+SA S7 S8 SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "3"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQ.AQ94.QJ.KJ962 98743.J632.A98.5 JT65.T7.752.A874 A2.K85.KT643.QT3"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Auction "S"]
+1D 1H X Pass
+1NT Pass 2D AP
+[Play "W"]
+DQ DA D5 D3
+CK C5 C4 CQ
+DJ D8 D2 DK
+C2 D9 C7 C3
+SK S3 S5 SA
+C6 S4 D7 DT
+HA H2 H7 HK
+SQ S7 S6 S2
+C9 H3 CA CT
+CJ S8 C8 D4
+-  -  -  H5
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "3"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQ.AQ94.QJ.KJ962 98743.J632.A98.5 JT65.T7.752.A874 A2.K85.KT643.QT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "S"]
+1NT X 2H Pass
+Pass X Pass 3C
+AP
+[Play "S"]
+SA SQ S8 S6
+H5 HA H2 H7
+S2 SK S3 S5
+C3 C2 C5 CA
+CT DJ S4 ST
+D6 DQ DA D5
+CQ CK S9 SJ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "4"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q7.AKT5.QJT3.Q64 T632.QJ93.K9.K95 K854.6.A82.AT873 AJ9.8742.7654.J2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+1NT Pass 3H Pass
+3NT AP
+[Play "N"]
+HQ H6 H2 HA
+C5 CA C2 C6
+CK C3 CJ CQ
+HJ S5 H7 HK
+DK DA D4 DJ
+C9 CT S9 C4
+S2 C7 SJ H5
+S3 C8 H8 D3
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "4"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q7.AKT5.QJT3.Q64 T632.QJ93.K9.K95 K854.6.A82.AT873 AJ9.8742.7654.J2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "W"]
+1D Pass 2C Pass
+2NT Pass 3S Pass
+3NT AP
+[Play "N"]
+HQ H6 H8 HA
+C5 CA C2 C6
+C9 C3 CJ CQ
+CK C7 H7 C4
+S3 S4 S9 SQ
+DK DA D4 DQ
+H3 CT H4 H5
+S2 C8 D5 S7
+D9 D2 D6 DJ
+S6 D8 D7 DT
+ST S5 H2 D3
+HJ S8 SJ HT
+H9 SK SA HK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "5"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQT83.986.AK87.A A54.AKT32.Q93.Q3 976.QJ.642.K9764 J2.754.JT5.JT852"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1H Pass Pass X
+Pass 2C Pass 2S
+Pass 3H Pass 3S
+AP
+[Play "N"]
+HA HJ H7 H8
+S4 S6 S2 ST
+C3 C4 C5 CA
+HK HQ H4 H9
+SA S7 SJ SQ
+S5 S9 C2 S3
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "5"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KQT83.986.AK87.A A54.AKT32.Q93.Q3 976.QJ.642.K9764 J2.754.JT5.JT852"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1H Pass Pass X
+Pass 2C Pass 2S
+Pass 3S AP
+[Play "N"]
+HA HJ H5 H6
+S4 S6 SJ SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "6"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ2.2.A8542.KQ53 T96.K83.KQ96.762 AJ8543.QT4.J.A94 7.AJ9765.T73.JT8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1S 2H 2NT 3H
+4S AP
+[Play "S"]
+HA H2 H8 H4
+H7 S2 H3 HT
+S7 SQ S9 S3
+C8 C3 C2 CA
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "6"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KQ2.2.A8542.KQ53 T96.K83.KQ96.762 AJ8543.QT4.J.A94 7.AJ9765.T73.JT8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2D Pass
+2S Pass 4S AP
+[Play "S"]
+CJ CK C7 C4
+HJ H2 H8 HT
+S7 S2 S9 SJ
+H5 SQ H3 H4
+H6 SK S6 S3
+D3 DA D6 DJ
+D7 D2 DQ S4
+DT D4 ST SA
+H7 D5 D9 S8
+C8 D8 -  S5
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "8"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T72.AT842..KJ862 A54.KJ7.AJ8432.7 KJ9863.53.K.AQ54 Q.Q96.QT9765.T93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "11"]
+[Auction "W"]
+3C 3D 5C 5D
+AP
+[Play "E"]
+H5 H6 HA HK
+H3 H9 H4 HJ
+DK D5 -  DA
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "8"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T72.AT842..KJ862 A54.KJ7.AJ8432.7 KJ9863.53.K.AQ54 Q.Q96.QT9765.T93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6DX"]
+[Result "11"]
+[Auction "W"]
+Pass 1D 1S 4D
+4S 4NT 5S X
+Pass 6D Pass Pass
+X AP
+[Play "E"]
+S9 SQ S2 S4
+-  D5 C6 -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "9"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q8.AT654.84.7654 AK942.92.JT76.K3 J5.83.AK9.AQJT92 T763.KQJ7.Q532.8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "8"]
+[Auction "N"]
+1S 3C 4S 5C
+Pass Pass X Pass
+5S X AP
+[Play "E"]
+DA -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "9"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q8.AT654.84.7654 AK942.92.JT76.K3 J5.83.AK9.AQJT92 T763.KQJ7.Q532.8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+1S 2C X 4C
+Pass Pass 4S AP
+[Play "E"]
+DA D2 D8 DJ
+DK D3 D4 D6
+D9 D5 S8 D7
+H3 H7 HA H2
+CA C8 C7 CK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "10"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T543.A76.63.AQJT K9862.Q9543.T8.5 QJ7.KT2.Q74.8432 A.J8.AKJ952.K976"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Auction "E"]
+Pass 3D AP
+[Play "W"]
+D6 -  -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "10"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T543.A76.63.AQJT K9862.Q9543.T8.5 QJ7.KT2.Q74.8432 A.J8.AKJ952.K976"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "10"]
+[Auction "E"]
+Pass 1D X 1S
+2C 2D AP
+[Play "W"]
+CQ C5 C2 CK
+CT D8 C3 C6
+S4 S2 S7 SA
+CJ DT C4 C7
+S3 SK SJ C9
+S5 S6 SQ D2
+D3 H3 D4 DA
+D6 H4 D7 DK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "11"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J8653.K7.A73.JT4 A74.954.KQ5.KQ62 QT2.AQT3.T42.A98 K9.J862.J986.753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1NT AP
+[Play "E"]
+HA H2 H7 H4
+C8 C3 CJ CK
+DT D6 D3 DK
+D2 D8 D7 DQ
+D4 D9 DA D5
+CA C5 CT CQ
+H3 H6 HK H5
+C9 C7 C4 C2
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "11"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J8653.K7.A73.JT4 A74.954.KQ5.KQ62 QT2.AQT3.T42.A98 K9.J862.J986.753"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+Pass Pass 1NT AP
+[Play "E"]
+H3 H2 HK H5
+ST SK S5 S4
+C8 C3 C4 CK
+D2 D6 D3 DK
+D4 D8 D7 DQ
+HQ H6 H7 H9
+DT DJ DA D5
+SQ S9 SJ SA
+S2 -  -  S7
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "13"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J3.JT93.A654.K84 KQ6542.A82.J8.T6 T8.64.Q9732.J972 A97.KQ75.KT.AQ53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3C Pass
+3H Pass 4S AP
+[Play "W"]
+HJ H2 H4 HK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "13"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:J3.JT93.A654.K84 KQ6542.A82.J8.T6 T8.64.Q9732.J972 A97.KQ75.KT.AQ53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+2S Pass 4S AP
+[Play "E"]
+H6 H5 H9 HA
+S8 S7 S3 SK
+ST SA SJ S6
+H4 HK H3 H2
+D7 HQ HT H8
+D3 H7 HJ S2
+C7 S9 D6 SQ
+C2 CQ CK C6
+CJ CA C8 CT
+C9 C3 C4 S4
+D2 DK DA DJ
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "14"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K976542.KT43.K2. J8.QJ92.JT3.QT84 QT.A65.Q76.AK965 A3.87.A9854.J732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2D Pass
+2H Pass 2S Pass
+2NT Pass 3C Pass
+3NT Pass 4S AP
+[Play "N"]
+HQ HA H7 H4
+C4 CA C3 H3
+C8 CK C7 HT
+S8 SQ SA S2
+CT C5 C2 S9
+SJ ST S3 SK
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "14"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K976542.KT43.K2. J8.QJ92.JT3.QT84 QT.A65.Q76.AK965 A3.87.A9854.J732"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass 3H Pass
+3S Pass 4C Pass
+4S AP
+[Play "S"]
+DA D2 DJ D7
+D8 DK D3 D6
+SA S2 S8 SQ
+S3 SK SJ ST
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "15"]
+[West "Eriksson"]
+[North "Lauria"]
+[East "Nilsson"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J94.A62.9654.KQ5 83.J9875.QJ73.87 QT62.K3.K8.AJT32 AK75.QT4.AT2.964"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1C Pass 1H 1S
+Pass 2C Pass 2S
+AP
+[Play "S"]
+H4 HA H9 H3
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "15"]
+[West "Katz"]
+[North "Munksgaard"]
+[East "Jacobs"]
+[South "Christiansen"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J94.A62.9654.KQ5 83.J9875.QJ73.87 QT62.K3.K8.AJT32 AK75.QT4.AT2.964"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "8"]
+[Auction "S"]
+1NT Pass 2D Pass
+2H Pass Pass X
+Pass 2NT Pass 3C
+AP
+[Play "S"]
+SA S4 S3 S6
+SK S9 S8 ST
+S7 SJ C7 S2
+DA D4 D7 DK
+S5 CK -  -
+*
+[Description "#"]
+[Stage "S:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "17"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT76.Q74.KJ6.T87 952.KJT3.T952.53 KJ8.A.A873.AKQ62 Q43.98652.Q4.J94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Auction "N"]
+Pass 1C Pass 1S
+Pass 2D Pass 2H
+Pass 3S Pass 3NT
+AP
+[Play "N"]
+D2 D3 DQ DK
+C5 CA C4 C7
+C3 CK C9 C8
+D5 D7 D4 DJ
+D9 DA H2 D6
+H3 CQ CJ CT
+HT C6 H8 H4
+HJ C2 H5 H7
+S2 SK S3 S6
+S5 S8 S4 ST
+S9 SJ SQ SA
+DT D8 H6 S7
+HK HA H9 HQ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "17"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT76.Q74.KJ6.T87 952.KJT3.T952.53 KJ8.A.A873.AKQ62 Q43.98652.Q4.J94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "13"]
+[Auction "N"]
+Pass 1C Pass 1H
+Pass 2D Pass 2H
+Pass 2S Pass 2NT
+Pass 3S Pass 4C
+Pass 4S Pass 5C
+AP
+[Play "S"]
+H6 H4 HT HA
+C9 C7 C3 CA
+C4 C8 C5 CK
+CJ CT H3 CQ
+S4 S6 S2 SK
+S3 ST S5 S8
+SQ SA S9 SJ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "19"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:76.AKT832.A5.AQT JT983.96.QJ.KJ63 KQ42.54.K873.975 A5.QJ7.T9642.842"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1H 1S 1NT
+Pass 3H Pass 3NT
+AP
+[Play "S"]
+D4 DA DQ D3
+H7 HA H6 H4
+HJ HK H9 H5
+HQ H2 C3 S2
+D2 D5 DJ D7
+SA S6 SJ SK
+C4 CQ CK C5
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "19"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:76.AKT832.A5.AQT JT983.96.QJ.KJ63 KQ42.54.K873.975 A5.QJ7.T9642.842"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass 1H 1S 1NT
+Pass 2S Pass 2NT
+Pass 3H Pass 4H
+AP
+[Play "N"]
+DQ D3 D4 DA
+H9 H4 H7 HA
+S8 SK SA S6
+CJ C5 C2 CT
+S9 SQ S5 S7
+H6 H5 HJ HK
+S3 S2 HQ HT
+C3 C7 C4 CA
+C6 C9 C8 H8
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "21"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T7.QT9.KQ2.QJT53 K83.6542.T9.A642 J62.J87.J854.987 AQ954.AK3.A763.K"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1S 2C
+2S Pass 4S AP
+[Play "W"]
+CQ C2 C9 CK
+D2 D9 D5 DA
+DQ DT D4 D3
+CJ CA C7 H3
+HT H2 H8 HA
+DK S3 D8 D6
+H9 H4 H7 HK
+HQ S8 DJ D7
+S7 SK S2 S4
+C3 C4 C8 S5
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "21"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T7.QT9.KQ2.QJT53 K83.6542.T9.A642 J62.J87.J854.987 AQ954.AK3.A763.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+Pass Pass 1C Pass
+1D Pass 1H Pass
+2C Pass 2D Pass
+2S Pass 2NT Pass
+3D Pass 3H Pass
+3S Pass 4S AP
+[Play "E"]
+D5 D3 DQ D9
+C7 CK C3 C2
+D4 DA D2 DT
+DJ D6 DK S3
+C8 H3 C5 CA
+HJ HK H9 H2
+D8 D7 S7 S8
+S2 S4 ST SK
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "22"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J75.QT93.73.K653 K9432.K8.KJ42.98 AQT6.AJ76.986.Q2 8.542.AQT5.AJT74"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NTX"]
+[Result "8"]
+[Auction "E"]
+1D Pass 1H 1S
+2H X Pass 2S
+Pass 3C Pass 3NT
+X AP
+[Play "E"]
+H7 H2 HQ HK
+CQ CA C3 C9
+C2 CJ CK C8
+HA H4 H3 H8
+HJ H5 H9 S2
+H6 D5 HT S3
+ST S8 S5 S4
+D6 DA D3 D4
+D8 DT D7 DK
+D9 DQ S7 DJ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "22"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:J75.QT93.73.K653 K9432.K8.KJ42.98 AQT6.AJ76.986.Q2 8.542.AQT5.AJT74"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+1C Pass 1D 1S
+2H AP
+[Play "S"]
+S8 SJ SK SA
+H5 H3 H8 HA
+H2 H9 HK H6
+H4 S7 S4 SQ
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "23"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ3.AT3.KT4.KT75 854.QJ4.975.AJ62 Q762.K962.AQ.Q84 AT9.875.J8632.93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "N"]
+HQ H2 H8 HA
+HJ HK H5 HT
+CJ C4 C3 CT
+S8 S2 S9 SJ
+H4 H6 H7 H3
+D7 DQ D2 D4
+S5 S6 SA S3
+D5 DA D3 DT
+S4 H9 D6 C5
+C2 S7 ST SK
+-  -  -  C7
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "23"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ3.AT3.KT4.KT75 854.QJ4.975.AJ62 Q762.K962.AQ.Q84 AT9.875.J8632.93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3C
+Pass 3H Pass 3NT
+AP
+[Play "N"]
+HQ H2 H8 HA
+C2 CQ C3 C5
+CJ C4 C9 CT
+D5 DA D8 D4
+CA C8 D6 C7
+D7 DQ D3 DT
+S4 S2 S9 SK
+C6 H6 H5 CK
+H4 H9 H7 H3
+S5 S6 ST SJ
+HJ HK D2 HT
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "24"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQJ53.76.KQ2.K94 T972.T43.AJ95.T8 A86.KQ82.74.AJ62 4.AJ95.T863.Q753"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+3C Pass 4S AP
+[Play "N"]
+H3 HK H5 H6
+DA D4 D6 DK
+HT H2 H9 H7
+H4 H8 HJ S3
+D5 D7 D3 DQ
+D9 S6 D8 D2
+S2 SA S4 S5
+S7 S8 C3 SJ
+S9 C2 DT SK
+ST C6 C5 SQ
+C8 CA C7 C4
+CT CJ CQ CK
+DJ HQ HA C9
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "24"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQJ53.76.KQ2.K94 T972.T43.AJ95.T8 A86.KQ82.74.AJ62 4.AJ95.T863.Q753"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2C Pass
+2D Pass 2H Pass
+2NT Pass 3C Pass
+3NT Pass 4S AP
+[Play "N"]
+CT CJ CQ CK
+S2 SA S4 S3
+ST S6 D8 SK
+S7 S8 D3 SQ
+S9 D4 H5 SJ
+HT HK H9 H7
+D5 D7 DT DK
+C8 C2 C3 C9
+H3 CA C5 C4
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "25"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T8.J.A5432.KT974 J9.AQT643.T976.5 AQ6432.9.J.AQJ62 K75.K8752.KQ8.83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "10"]
+[Auction "N"]
+2H 4S 5H 5S
+AP
+[Play "S"]
+DK DA D6 DJ
+SK S8 S9 SQ
+H5 HJ HA H9
+S5 ST SJ SA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "25"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:T8.J.A5432.KT974 J9.AQT643.T976.5 AQ6432.9.J.AQJ62 K75.K8752.KQ8.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "9"]
+[Auction "N"]
+3H 4H 5H X
+Pass 5S 6H X
+AP
+[Play "E"]
+DJ DK DA D6
+H9 D8 D2 DT
+CA C3 C4 C5
+C6 C8 CT H3
+S2 H2 HJ HA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "26"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT8.Q.J532.QT94 A763.J32.AT4.862 954.AKT9764.86.7 J2.85.KQ97.AKJ53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "E"]
+3H AP
+[Play "S"]
+CA C4 C8 C7
+DK D2 DT D6
+DQ D3 D4 D8
+SJ SK SA S4
+C3 C9 C6 H4
+H5 HQ H2 H6
+C5 CT C2 HT
+-  -  -  HA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "26"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT8.Q.J532.QT94 A763.J32.AT4.862 954.AKT9764.86.7 J2.85.KQ97.AKJ53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "E"]
+3H AP
+[Play "S"]
+CK C4 C8 C7
+D7 D2 DA D6
+DQ D3 DT D8
+DK D5 D4 H4
+H5 HQ H2 H6
+C5 C9 C6 H7
+H8 S8 H3 HA
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "27"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:76.KQ84.QJ8.J976 T98.T3.A9643.AK8 AQ542.A975.T.Q43 KJ3.J62.K752.T52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1D 1S
+1NT AP
+[Play "W"]
+S7 -  -  -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "27"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:76.KQ84.QJ8.J976 T98.T3.A9643.AK8 AQ542.A975.T.Q43 KJ3.J62.K752.T52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2H
+Pass 3H Pass 4H
+Pass Pass X AP
+[Play "S"]
+D5 D8 DA DT
+C5 C6 CK C4
+C2 C7 CA C3
+D2 DJ D6 H5
+CT C9 C8 CQ
+SJ S6 S8 S2
+DK DQ D3 H7
+H2 H4 H3 HA
+H6 HK HT H9
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "28"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J976.A76543.K2.J A2.T2.AT86.AT632 KT3.Q9.743.KQ954 Q854.KJ8.QJ95.87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+Pass 1C Pass 1D
+1H 2D Pass Pass
+2H X Pass 3D
+AP
+[Play "W"]
+CJ CA C4 C7
+S7 C2 C9 C8
+DK DA D3 DQ
+D2 D6 D4 DJ
+H3 D8 D7 D5
+HA HT HQ HK
+S6 S2 SK S4
+-  -  H9 -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "28"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J976.A76543.K2.J A2.T2.AT86.AT632 KT3.Q9.743.KQ954 Q854.KJ8.QJ95.87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+Pass 1D Pass 1S
+2H AP
+[Play "N"]
+SA S3 S4 S6
+S2 SK S5 S7
+CA C4 C7 CJ
+D6 D3 DJ DK
+D8 D4 D9 D2
+C6 ST SQ S9
+DT D7 DQ H3
+DA H9 S8 SJ
+H2 HQ HK HA
+HT C5 H8 H4
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "29"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AT93.KT96.Q7.AK6 Q542.87.J96.Q842 KJ8.A32.A32.J973 76.QJ54.KT854.T5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "S"]
+D4 DQ D9 D2
+S7 S9 S5 S8
+S6 S3 S4 SJ
+HJ HK H7 H2
+D5 ST SQ SK
+H4 H6 H8 HA
+HQ H9 S2 H3
+H5 HT C2 C3
+-  SA D6 -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "29"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AT93.KT96.Q7.AK6 Q542.87.J96.Q842 KJ8.A32.A32.J973 76.QJ54.KT854.T5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+Pass 1C Pass 2C
+Pass 2D Pass 2H
+Pass 3NT AP
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "31"]
+[West "Christiansen"]
+[North "Lauria"]
+[East "Munksgaard"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q9742.AK4.AT8.84 863.75.962.AT732 .QJT863.KQ75.KQ6 AKJT5.92.J43.J95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3H Pass 4H
+AP
+[Play "S"]
+SA S2 S8 H3
+C9 C4 CA CK
+H9 HA H5 H6
+H2 H4 H7 HQ
+C5 C8 C2 CQ
+CJ HK C3 C6
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "31"]
+[West "Duboin"]
+[North "Nilsson"]
+[East "Bocchi"]
+[South "Eriksson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:Q9742.AK4.AT8.84 863.75.962.AT732 .QJT863.KQ75.KQ6 AKJT5.92.J43.J95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "S"]
+Pass 1S Pass 2H
+Pass 3H Pass 3S
+Pass 4D Pass 4H
+AP
+[Play "S"]
+H2 HA H5 H3
+C5 C4 C3 CK
+H9 HK H7 H6
+-  C8 CA -
+*
+[Description "#"]
+[Stage "S:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "49"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ542.Q.962.QT54 Q8.J532.Q743.AJ9 T963.K987.AKJ8.6 K7.AT64.T5.K8732"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "10"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 2S AP
+[Play "N"]
+H3 H7 H6 HQ
+C9 C6 C2 C4
+H2 H8 HT S2
+CJ S3 C8 C5
+SQ ST S7 S4
+S8 S6 SK SA
+D3 DJ D5 D2
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "49"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AJ542.Q.962.QT54 Q8.J532.Q743.AJ9 T963.K987.AKJ8.6 K7.AT64.T5.K8732"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "7"]
+[Auction "N"]
+Pass 1D 2C X
+3C AP
+[Play "W"]
+D2 D3 DJ D5
+D9 D4 DK DT
+HQ H2 H7 H4
+D6 D7 D8 C2
+CT CJ C6 C3
+C4 CA H8 C7
+S5 H3 H9 HA
+C5 C9 S6 CK
+S2 HJ HK H6
+SA S8 ST S7
+CQ DQ S3 C8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "50"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:653.AT74.AQ62.AJ T74.95.T974.K973 AKJ92.QJ83.K.862 Q8.K62.J853.QT54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2D Pass
+2H Pass 3C Pass
+3S Pass 4C X
+Pass Pass 4D Pass
+4S AP
+[Play "S"]
+C5 CA C9 C6
+S8 S3 S7 SA
+SQ S5 S4 SK
+C4 S6 ST SJ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "50"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:653.AT74.AQ62.AJ T74.95.T974.K973 AKJ92.QJ83.K.862 Q8.K62.J853.QT54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+1S Pass 2C Pass
+2H Pass 3H Pass
+3NT Pass 4H AP
+[Play "S"]
+D5 D2 D9 DK
+H2 H4 H5 HJ
+H6 HT H9 H3
+HK HA C3 H8
+SQ S3 S4 SJ
+C5 CA C7 C2
+-  DA D4 -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "51"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J84.Q6.QJ974.J64 T53.AT852.T6.975 KQ72.4.AK532.KT3 A96.KJ973.8.AQ82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "S"]
+1H Pass 4H X
+AP
+[Play "W"]
+DQ D6 D2 D8
+D7 DT DK H7
+H6 H2 H4 HK
+HQ HA D3 H9
+C4 C9 CT CQ
+CJ C5 CK C2
+S4 S3 SK S6
+S8 S5 S2 SA
+C6 C7 C3 CA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "51"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J84.Q6.QJ974.J64 T53.AT852.T6.975 KQ72.4.AK532.KT3 A96.KJ973.8.AQ82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HXX"]
+[Result "9"]
+[Auction "S"]
+1H Pass 4H X
+XX AP
+[Play "W"]
+DQ D6 D5 D8
+S4 S3 SQ S9
+S8 S5 S2 SA
+H6 H2 H4 HK
+HQ HA D3 H9
+D7 DT DA HJ
+SJ ST SK S6
+CJ C5 C3 C2
+C6 C7 CK CA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "52"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:2.AJ8.AKJ8532.K3 K64.Q642.Q96.965 Q985.K53.7.QT742 AJT73.T97.T4.AJ8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1S Pass
+3D AP
+[Play "N"]
+C5 C2 CJ CK
+C9 CT CA C3
+SK S5 S3 S2
+S6 S8 ST D3
+H2 HK H7 H8
+C6 CQ C8 HJ
+DQ D7 D4 DJ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "52"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:2.AJ8.AKJ8532.K3 K64.Q642.Q96.965 Q985.K53.7.QT742 AJT73.T97.T4.AJ8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "W"]
+1D Pass 1S Pass
+2H Pass 2NT Pass
+3D Pass 3NT AP
+[Play "S"]
+S3 S2 SK S5
+ST C3 S6 S9
+H7 H8 HQ HK
+D4 DJ DQ D7
+SA D2 S4 SQ
+SJ D3 -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "53"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:8542.AQT54.Q4.Q9 KQJT3.2.AK875.72 96.J87.T63.AJ865 A7.K963.J92.KT43"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1S Pass 1NT 2H
+3D 3H 3NT AP
+[Play "W"]
+S4 S3 S9 SA
+D4 DA D3 D2
+DQ D5 DT DJ
+S2 SJ -  -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "53"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:8542.AQT54.Q4.Q9 KQJT3.2.AK875.72 96.J87.T63.AJ865 A7.K963.J92.KT43"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1S Pass 1NT Pass
+3D Pass 4S AP
+[Play "E"]
+H7 H9 HQ H2
+CA C3 C9 C7
+HJ H3 H5 S3
+D3 D2 D4 DA
+D6 D9 DQ DK
+DT DJ S2 D8
+H8 H6 HA SJ
+S6 SA S4 ST
+S9 S7 S5 SK
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "54"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:7642.AQT95.98.A9 K95.J6.KQ762.J87 A.K82.AJ54.QT642 QJT83.743.T3.K53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1H Pass
+2H Pass 3H Pass
+4H AP
+[Play "N"]
+DK DA D3 D9
+CJ C2 C3 C9
+S5 SA SQ S2
+C7 C4 C5 CA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "54"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:7642.AQT95.98.A9 K95.J6.KQ762.J87 A.K82.AJ54.QT642 QJT83.743.T3.K53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1C Pass 1H Pass
+2H Pass 4H AP
+[Play "N"]
+DK D4 D3 D8
+DQ DA DT D9
+S5 SA S3 S2
+D2 DJ H7 H9
+S9 H2 SQ S4
+C8 C2 C5 CA
+SK H8 S8 S6
+D7 D5 C3 H5
+C7 HK ST S7
+CJ CQ CK C9
+-  -  SJ -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "55"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ543.Q64..AT732 KQT7.K2.KQJ95.94 862.JT875.A87.QJ 9.A93.T6432.K865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass 1S Pass 2S
+AP
+[Play "N"]
+DK DA D2 H4
+C9 CQ C6 C2
+C4 CJ CK CA
+H2 S2 C8 C3
+ST S6 S9 S3
+DQ D7 DT S4
+D9 D8 C5 CT
+DJ S8 H9 C7
+HK H5 H3 HQ
+SK H7 D3 SA
+D5 H8 HA H6
+-  -  D6 -
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "55"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJ543.Q64..AT732 KQT7.K2.KQJ95.94 862.JT875.A87.QJ 9.A93.T6432.K865"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass 1S Pass 2S
+AP
+[Play "N"]
+DK DA D6 H4
+C4 CQ C5 C3
+C9 CJ C6 C2
+S7 S2 S9 SA
+D9 S6 C8 C7
+ST S8 D2 S3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "56"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q9.QT7.QJ54.QT63 652.A8542.9.J987 AKJT.J6.AT73.AK5 8743.K93.K862.42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 2NT Pass
+3NT AP
+[Play "S"]
+S7 SQ S2 ST
+D2 DQ D9 D3
+DK DJ H5 D7
+C4 C3 C8 CK
+D8 D4 H4 DA
+D6 D5 S6 DT
+S3 S9 S5 SA
+S4 H7 H2 SK
+S8 HT H8 SJ
+C2 C6 C9 CA
+H3 CQ C7 C5
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "56"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q9.QT7.QJ54.QT63 652.A8542.9.J987 AKJT.J6.AT73.AK5 8743.K93.K862.42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 2NT Pass
+3C Pass 3D Pass
+3NT AP
+[Play "S"]
+S4 SQ S6 SJ
+DK DQ D9 D3
+S3 S9 S5 SA
+S7 H7 S2 SK
+S8 HT H2 ST
+D2 DJ H5 D7
+D6 D4 H4 DA
+D8 D5 H8 DT
+C2 C3 C7 CA
+C4 C6 C8 CK
+H3 CQ C9 C5
+H9 CT CJ H6
+HK HQ HA HJ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "57"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:5.KT63.QJ.AKQT93 JT9.A8.AKT86.J42 KQ863.QJ94.9532. A742.752.74.8765"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+1D 1S Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "S"]
+D7 DJ DK D5
+D4 DQ DA D3
+S7 H3 DT D2
+C8 C3 C4 H4
+H5 H6 HA H9
+SA S5 ST SK
+C7 CA CJ S3
+C5 CK C2 S6
+C6 CQ D8 S8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "57"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:5.KT63.QJ.AKQT93 JT9.A8.AKT86.J42 KQ863.QJ94.9532. A742.752.74.8765"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+1D 1S Pass 2D
+Pass 2H Pass 3C
+Pass 3D Pass 4H
+AP
+[Play "S"]
+D7 DJ DK D5
+D4 DQ DA D2
+SA S5 S9 SK
+S7 C3 ST SQ
+H2 H3 H8 HQ
+H5 H6 HA H9
+S2 -  SJ S3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "58"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQ65.6.JT5.QT432 A93.AK43.984.976 JT72.JT97.62.K85 84.Q852.AKQ73.AJ"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 4H
+AP
+[Play "W"]
+DJ D9 D6 DA
+H6 HA H7 H2
+C4 H3 HJ HQ
+C2 HK H9 H5
+D5 D4 D2 DK
+DT D8 C5 DQ
+S5 S3 S7 D7
+S6 S9 S2 D3
+SQ SA ST S8
+C3 C6 C8 CA
+SK H4 SJ S4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "58"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQ65.6.JT5.QT432 A93.AK43.984.976 JT72.JT97.62.K85 84.Q852.AKQ73.AJ"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 1NT
+Pass 2C Pass 2D
+Pass 3D Pass 3H
+Pass 3NT Pass 4H
+AP
+[Play "E"]
+SJ S4 S5 SA
+D6 DA D5 D8
+H7 H2 H6 HK
+H9 H5 C4 HA
+D2 DK DT D9
+HT HQ C3 H3
+HJ DQ DJ D4
+S2 S8 SQ S3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "59"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:864.9.AJ72.AKQ62 AQ.J6.KQ96.T9875 KT73.AK73.53.J43 J952.QT8542.T84."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3DX"]
+[Result "7"]
+[Auction "S"]
+Pass 1C 1D X
+Pass 2C Pass 3C
+3D Pass Pass X
+AP
+[Play "E"]
+HA H2 H9 H6
+D5 D4 DA D6
+D3 D8 D2 DK
+C4 DT C2 CT
+S3 S2 S4 SQ
+S7 S5 S6 SA
+HK H4 S8 HJ
+H3 HQ D7 D9
+H7 H5 DJ DQ
+CJ H8 CA C9
+C3 S9 CK C5
+ST SJ CQ C7
+SK HT C6 C8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "59"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:864.9.AJ72.AKQ62 AQ.J6.KQ96.T9875 KT73.AK73.53.J43 J952.QT8542.T84."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1C 1D 2D
+Pass 2S Pass 3S
+Pass 3NT AP
+[Play "N"]
+CT C3 H2 CA
+SA S3 S2 S4
+H6 HA H4 H9
+SQ SK S5 S6
+HJ HK H5 S8
+C5 CJ H8 C2
+C7 C4 S9 CK
+C8 H3 HT CQ
+C9 H7 HQ C6
+D6 D3 DT DJ
+D9 D5 D4 DA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "60"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJT92.K6.K.KQJ65 K864.J8432.Q2.T3 Q5.AQ975.A9854.A 73.T.JT763.98742"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "12"]
+[Auction "W"]
+1S Pass 2H Pass
+3C Pass 3D Pass
+4C Pass 6S AP
+[Play "N"]
+H2 H5 HT HK
+C3 CA C2 C5
+SK SQ S7 S2
+DQ D4 D3 DK
+S4 S5 S3 SA
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "60"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AJT92.K6.K.KQJ65 K864.J8432.Q2.T3 Q5.AQ975.A9854.A 73.T.JT763.98742"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "W"]
+1S Pass 2H Pass
+3C Pass 3D Pass
+3H Pass 3S Pass
+4C Pass 4D Pass
+4H Pass 6NT AP
+[Play "S"]
+C4 C5 CT CA
+S3 S2 S4 SQ
+S7 S9 SK S5
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "61"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A83.QT.KT83.AQJ8 J974.642.94.9652 QT2.K753.Q62.KT3 K65.AJ98.AJ75.74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1D 1NT
+Pass 3NT AP
+[Play "N"]
+D9 D2 D5 DT
+D4 DQ DA D3
+C2 D6 D7 D8
+C9 CK C7 C8
+H2 H3 H8 HQ
+S4 C3 DJ DK
+C6 CT C4 CA
+C5 H5 H9 CQ
+H6 S2 S5 CJ
+S7 ST S6 SA
+S9 SQ SK S3
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "61"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:A83.QT.KT83.AQJ8 J974.642.94.9652 QT2.K753.Q62.KT3 K65.AJ98.AJ75.74"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 1D 1NT
+Pass 3NT AP
+[Play "N"]
+S4 ST SK SA
+C2 CT C7 C8
+D4 D2 D5 DT
+D9 DQ DA D3
+C5 CK C4 CJ
+H6 H3 H8 HQ
+C6 C3 H9 CA
+C9 H5 S6 CQ
+S9 SQ S5 S3
+-  D6 D7 D8
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "62"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:7.A9.QJ953.AKQ95 AQ32.J8543.42.86 K64.2.AT76.J7432 JT985.KQT76.K8.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1D Pass
+2D 2H 3C 3S
+4H 4S 5C AP
+[Play "N"]
+SA S4 S5 S7
+H3 H2 HQ HA
+C6 C2 CT CA
+C8 C3 SJ CK
+D2 D6 DK DQ
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "62"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:7.A9.QJ953.AKQ95 AQ32.J8543.42.86 K64.2.AT76.J7432 JT985.KQT76.K8.T"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1D Pass
+3C 3D 4NT Pass
+5D AP
+[Play "N"]
+H3 H2 HQ HA
+H4 D6 H6 H9
+D2 DA D8 D3
+D4 D7 DK D5
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "63"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ4.QJ3.A863.T74 .K987.K752.AKJ93 AJ6532.T4.JT4.86 T987.A652.Q9.Q52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "11"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass 2S X Pass
+3H AP
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "63"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KQ4.QJ3.A863.T74 .K987.K752.AKJ93 AJ6532.T4.JT4.86 T987.A652.Q9.Q52"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass 1D 2C X
+2D Pass 2H 2S
+AP
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "64"]
+[West "Christiansen"]
+[North "Katz"]
+[East "Munksgaard"]
+[South "Jacobs"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT3.Q83.AK4.AQT2 A97542.J54.8.K53 J8.T96.J7632.987 Q6.AK72.QT95.J64"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+1C 1S Pass 1NT
+Pass 2S Pass 3S
+AP
+[Play "E"]
+C7 C4 CT CK
+DJ D5 DK D8
+C8 C6 CA C5
+C9 CJ CQ C3
+S8 SQ C2 H5
+D6 D9 DA S2
+SJ S6 S3 SA
+HT -  -  S5
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "64"]
+[West "Versace"]
+[North "Eriksson"]
+[East "Lauria"]
+[South "Nilsson"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT3.Q83.AK4.AQT2 A97542.J54.8.K53 J8.T96.J7632.987 Q6.AK72.QT95.J64"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+2D 2S AP
+[Play "E"]
+HT HA H8 H5
+D7 D5 DK D8
+C9 C4 CA C5
+D3 D9 DA S2
+S8 SQ SK S5
+SJ S6 S3 SA
+D6 H2 ST S7
+H6 -  HQ H4
+*
+[Description "#"]
+[Stage "S:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "33"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J83.AJT7654.Q5.A AQ97.93.643.T842 K54.KQ8.872.KJ95 T62.2.AKJT9.Q763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1C 1D 1H
+X 2H 2S 4H
+AP
+[Play "N"]
+D3 D2 DK D5
+D6 D7 DA DQ
+D4 D8 DT H7
+C4 C5 C6 CA
+H3 HK H2 H4
+C8 C9 C3 HA
+H9 HQ D9 HJ
+CT CK C7 S3
+C2 CJ CQ H5
+SA -  -  S8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "Cayne"]
+[VisitTeam "Moss"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "33"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J83.AJT7654.Q5.A AQ97.93.643.T842 K54.KQ8.872.KJ95 T62.2.AKJT9.Q763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass 1C 1D 1H
+X XX 1S 4H
+AP
+[Play "N"]
+D3 D2 DK D5
+D6 D7 DA DQ
+SA S4 S6 S3
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "34"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ862.853.KQJ2.Q A4.T962.8.AJ8754 53.AKQJ.AT943.K3 QT97.74.765.T962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "E"]
+1D Pass 1S X
+Pass 2C 3D Pass
+4C Pass 4D Pass
+4NT Pass 5D AP
+[Play "S"]
+H7 H3 H6 HA
+D5 DK D8 D3
+D6 D2 C4 D9
+D7 DJ C5 DA
+H4 H5 H2 HK
+CT H8 H9 HQ
+C2 CQ HT HJ
+S7 SJ SA S3
+S9 SK S4 S5
+-  S2 C7 -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "34"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ862.853.KQJ2.Q A4.T962.8.AJ8754 53.AKQJ.AT943.K3 QT97.74.765.T962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2H Pass
+2S Pass 3D Pass
+3H Pass 3NT AP
+[Play "S"]
+C2 CQ CA C3
+C6 H3 C7 CK
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "35"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K986.84.T86.J542 J2.J.J74.AKQT863 AQ4.A76532.Q953. T753.KQT9.AK2.97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1H Pass 2C Pass
+2NT Pass 3NT AP
+[Play "W"]
+S6 S2 SQ S3
+S9 SJ SA S5
+H4 HJ HA H9
+S8 D4 S4 S7
+SK C3 H2 ST
+C5 CA -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "35"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:K986.84.T86.J542 J2.J.J74.AKQT863 AQ4.A76532.Q953. T753.KQT9.AK2.97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1H Pass 2C Pass
+2D Pass 3C Pass
+3NT AP
+[Play "W"]
+S6 S2 SQ S7
+S8 SJ SA S3
+S9 D4 S4 S5
+SK D7 H7 ST
+H4 HJ HA HT
+-  -  D3 -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "36"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A4.JT3.J865.9762 Q53.K84.Q743.K53 KT9762.AQ72.T.AJ J8.965.AK92.QT84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 2H AP
+[Play "S"]
+H5 HJ HK HA
+S8 SA S3 S2
+SJ S4 S5 SK
+H6 HT SQ S6
+H9 H3 H4 HQ
+C8 D5 H8 ST
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "36"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A4.JT3.J865.9762 Q53.K84.Q743.K53 KT9762.AQ72.T.AJ J8.965.AK92.QT84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1S Pass
+1NT Pass 2H AP
+[Play "S"]
+DA D5 D3 DT
+DK D6 D4 H2
+S8 SA S3 S2
+SJ S4 S5 SK
+D2 H3 SQ S6
+C4 C2 C5 CA
+D9 HT C3 ST
+H6 HJ H4 H7
+C8 C6 CK CJ
+H5 D8 D7 S7
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "37"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KT.A6.A9875.AT43 43.Q97543.Q63.98 AQJ92.KJ8.42.KJ5 8765.T2.KJT.Q762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result "12"]
+[Auction "N"]
+Pass 1S Pass 2D
+Pass 3NT Pass 6NT
+AP
+[Play "S"]
+C6 -  -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "37"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:KT.A6.A9875.AT43 43.Q97543.Q63.98 AQJ92.KJ8.42.KJ5 8765.T2.KJT.Q762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "13"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2S Pass 3D
+Pass 3NT AP
+[Play "S"]
+C2 C3 C8 CJ
+C6 C4 C9 CK
+C7 CT H3 C5
+H2 HA H4 H8
+HT H6 H5 HJ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "38"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KT4.KT2.K64.8432 QJ97.85.3.JT9765 A2.A43.AT9752.KQ 8653.QJ976.QJ8.A"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "E"]
+1NT 2C X 2S
+3NT Pass Pass 4S
+X AP
+[Play "E"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "38"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KT4.KT2.K64.8432 QJ97.85.3.JT9765 A2.A43.AT9752.KQ 8653.QJ976.QJ8.A"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 3NT AP
+[Play "S"]
+HQ H2 H8 HA
+DQ DK D3 DT
+DJ D4 C7 D9
+S8 ST SJ SA
+H7 HT H5 H3
+CA C2 C5 CK
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "39"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J8654..AJ8754.97 K2.Q932.QT63.862 AQT9.JT4.K.AKQJT 73.AK8765.92.543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "13"]
+[Auction "S"]
+2H Pass 4H X
+Pass 4S Pass 4NT
+Pass 6S AP
+[Play "N"]
+H3 HJ HK S4
+S2 S9 S3 SJ
+SK SA -  S5
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "39"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J8654..AJ8754.97 K2.Q932.QT63.862 AQT9.JT4.K.AKQJT 73.AK8765.92.543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "13"]
+[Auction "S"]
+2H Pass Pass X
+Pass 4S AP
+[Play "N"]
+H3 H4 HK S4
+S2 S9 S3 S6
+H2 HT H8 S5
+SK -  -  S8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "40"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT6.KQ4.T87.862 83.753.Q963.KQ94 QJ952.92.K54.A53 74.AJT86.AJ2.JT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+1S Pass 4S AP
+[Play "N"]
+CK CA CJ C8
+H3 H2 HA H4
+CQ C3 CT C6
+C9 C5 C7 C2
+S8 S2 S4 ST
+S3 S5 S7 SA
+H5 H9 HJ HK
+H7 D4 H6 HQ
+D6 DK DA D7
+D9 D5 D2 D8
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "40"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT6.KQ4.T87.862 83.753.Q963.KQ94 QJ952.92.K54.A53 74.AJT86.AJ2.JT7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1S 2H
+2S 3H 4S AP
+[Play "S"]
+CJ C2 C4 C5
+CT C6 CQ CA
+S4 SA S3 S5
+S7 S6 S8 SQ
+HA H4 H7 H9
+C7 C8 C9 C3
+DJ D7 D3 D4
+DA D8 D6 D5
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "41"]
+[West "Moss,M"]
+[North "Helness"]
+[East "Schifko"]
+[South "Furunes"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQT9652.9.63.T65 AJ74.J65.J74.J72 8.KT843.AT95.Q84 3.AQ72.KQ82.AK93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1C 1S
+1NT Pass 3NT AP
+[Play "E"]
+H4 H2 H9 HJ
+D5 DK D6 D4
+DA D2 D3 DJ
+HT HQ S6 H6
+C4 CA C6 C2
+CQ C3 C5 CJ
+C8 CK CT C7
+H3 C9 S2 S4
+H8 HA ST H5
+HK H7 S5 S7
+DT DQ S9 D7
+S8 S3 SQ SA
+D9 D8 SK SJ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Washington DC:Marriott Hotel"]
+[Date "2002.07.??"]
+[Board "41"]
+[West "Helgemo"]
+[North "Graves"]
+[East "Cayne"]
+[South "Maksymetz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQT9652.9.63.T65 AJ74.J65.J74.J72 8.KT843.AT95.Q84 3.AQ72.KQ82.AK93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1C 2S
+Pass Pass X Pass
+2NT Pass 3D Pass
+3NT AP
+[Play "E"]
+S8 S3 SQ S4
+H4 HQ H9 H5
+C4 CA C5 C2
+CQ C3 C6 CJ
+C8 C9 CT C7
+D9 DQ D6 D4
+D5 DK D3 D7
+H3 CK S2 S7
+DA D8 S5 DJ
+DT D2 S6 H6
+HK HA S9 HJ
+*
+[Description "#"]
+[Stage "S:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

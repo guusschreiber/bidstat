@@ -1,0 +1,5857 @@
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:3.KT85.Q965.K643 QT2.A62.A43.QJ95 A9864.Q9.KJ8.A72 KJ75.J743.T72.T8"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1NT 2S Pass
+Pass Pass
+[Play "W"]
+H4 H5 H2 H9
+S5 S3 S2 SA
+S7 D5 ST S4
+C8 C3 C5 CA
+H3 H8 HA HQ
+D2 D6 D3 DK
+SJ C4 SQ S8
+DT D9 DA D8
+H7 HT H6 C2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:3.KT85.Q965.K643 QT2.A62.A43.QJ95 A9864.Q9.KJ8.A72 KJ75.J743.T72.T8"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+80"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1C 1S Pass
+Pass Pass
+[Play "W"]
+CT C3 C5 CA
+S5 S3 S2 SA
+S7 H5 ST S4
+C8 CK CQ C2
+D2 D5 D4 DK
+SJ C4 SQ S8
+D7 C6 CJ C7
+H3 H8 C9 S6
+DT D6 DA DJ
+- - D3 D8
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q763.J9.JT5.9543 KJ95.8.K642.KQT2 AT84.T75.AQ93.A6 2.AKQ6432.87.J87"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1C X 4H
+Pass Pass Pass
+[Play "E"]
+DJ D2 D3 D7
+DT D4 D9 D8
+D5 D6 DQ H2
+H9 H8 H5 HA
+HJ S5 H7 HK
+C5 CK CA C8
+S3 S9 SA S2
+C3 C2 C6 CJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:Q763.J9.JT5.9543 KJ95.8.K642.KQT2 AT84.T75.AQ93.A6 2.AKQ6432.87.J87"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-500"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1D 1S 4H
+4S X Pass Pass
+Pass
+[Play "N"]
+HK H9 H8 HT
+HQ HJ D4 H7
+HA S7 S9 H5
+C8 C3 CK CA
+S2 S3 SJ S8
+C7 C4 CQ C6
+CJ C5 C2 D3
+D7 DT D2 D9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ5.QJ8542.T6.Q7 AK732.K963.J52.6 T986.T.9743.AKJ8 4.A7.AKQ8.T95432"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+2H 2S Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H4 H3 HT HA
+HJ HK D4 H7
+C7 C6 CK C4
+SJ SA S6 S4
+D6 D2 D7 DA
+CQ S2 C8 C9
+SQ S3 S8 C2
+S5 SK S9 C3
+DT DJ D3 D8
+H2 D5 D9 DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ5.QJ8542.T6.Q7 AK732.K963.J52.6 T986.T.9743.AKJ8 4.A7.AKQ8.T95432"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+2D Pass 2H Pass
+Pass 2S Pass 3C
+Pass Pass Pass
+[Play "S"]
+D6 DJ D4 D8
+C7 C6 CK C2
+H2 H3 HT HA
+CQ D2 C8 CT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:.AKQT875.4.JT932 AQT9862.43.QT9.A 753.J6.A7632.KQ5 KJ4.92.KJ85.8764"]
+[Declarer "N"]
+[Contract "5SX"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+4H 4S 5H 5S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+HJ H2 HQ H3
+H6 H9 HK H4
+C5 C4 C2 CA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:.AKQT875.4.JT932 AQT9862.43.QT9.A 753.J6.A7632.KQ5 KJ4.92.KJ85.8764"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+680"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1H 1S X 2S
+4H 4S X Pass
+5C Pass 5H Pass
+Pass Pass
+[Play "N"]
+CA C5 C8 C3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:96.AQJ543.JT753. AQ832..K96.KJ875 J7.KT86.Q2.AQ942 KT54.972.A84.T63"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+3H 3S 4H 4S
+X Pass 5H Pass
+Pass Pass
+[Play "E"]
+SA S7 ST S6
+DK D2 D4 D5
+D9 DQ DA D3
+S3 SJ SK S9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:96.AQJ543.JT753. AQ832..K96.KJ875 J7.KT86.Q2.AQ942 KT54.972.A84.T63"]
+[Declarer "E"]
+[Contract "6SX"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+4H 4S 5H 5S
+Pass Pass 6H Pass
+Pass 6S X Pass
+Pass Pass
+[Play "S"]
+H6 H2 HA S2
+S7 S4 S6 SA
+SJ S5 S9 SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J52.T9854.Q3.T93 KT9.KQ732.J97.K7 Q876.AJ6.A642.Q6 A43..KT85.AJ8542"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+170"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 3C
+Pass Pass Pass
+[Play "E"]
+DQ D7 D2 DK
+C3 CK C6 C2
+C9 C7 CQ CA
+CT H2 S8 CJ
+D3 D9 DA D5
+SJ SK S6 S3
+H4 HK HA C4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J52.T9854.Q3.T93 KT9.KQ732.J97.K7 Q876.AJ6.A642.Q6 A43..KT85.AJ8542"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+430"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "E"]
+H4 HK H6 D5
+CT CK C6 C2
+C3 C7 CQ CA
+C9 H2 S7 CJ
+S5 D7 D2 C8
+H5 D9 D4 C4
+D3 H3 HJ C5
+S2 S9 S6 SA
+SJ SK S8 S4
+DQ DJ D6 DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQT832.AK94..T97 9765.J87.K832.K3 4.T52.AT6.AQJ854 AJ.Q63.QJ9754.62"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 2C Pass
+2H Pass 3C Pass
+5C Pass Pass Pass
+[Play "E"]
+C6 C7 CK CA
+SA S2 S7 S4
+H3 HA H7 H2
+C2 C9 C3 CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQT832.AK94..T97 9765.J87.K832.K3 4.T52.AT6.AQJ854 AJ.Q63.QJ9754.62"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 3C Pass
+5C Pass Pass Pass
+[Play "E"]
+DQ - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.JT854.K62.JT84 J75.AQ.QT97.A965 Q43.K963.A53.K32 AK9862.72.J84.Q7"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+420"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+2C X 3H 4S
+Pass Pass Pass
+[Play "W"]
+HJ HQ HK H2
+CT C5 C2 CQ
+ST S5 S3 SA
+H8 HA H3 H7
+H5 SJ S4 S2
+- S7 SQ SK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T.JT854.K62.JT84 J75.AQ.QT97.A965 Q43.K963.A53.K32 AK9862.72.J84.Q7"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+420"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1NT Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+C2 CQ C4 C6
+S3 SA ST S5
+S4 SK H4 SJ
+DA D4 D6 DT
+SQ S2 - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T3.JT74.K6.AQJ53 AJ652.82.T984.KT Q9.KQ63.AJ753.86 K874.A95.Q2.9742"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 4H Pass
+Pass Pass
+[Play "E"]
+H8 H3 H5 HT
+H2 HK HA H4
+CK C6 C7 CQ
+SA S9 S8 S3
+S5 SQ SK ST
+S2 H6 H9 HJ
+CT C8 C2 CA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T3.JT74.K6.AQJ53 AJ652.82.T984.KT Q9.KQ63.AJ753.86 K874.A95.Q2.9742"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1C 1S X 2S
+3H Pass 4H Pass
+Pass Pass
+[Play "E"]
+DT D3 D2 DK
+H2 H3 H5 HT
+H8 HQ HA H4
+S6 S9 SK S3
+SA SQ S4 ST
+D4 DA DQ D6
+D8 D5 S7 HJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T643.J75.K74.Q93 QJ9.AT984.A98.K6 872.K2.J653.T752 AK5.Q63.QT2.AJ84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+660"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "W"]
+D5 D2 D7 D8
+S2 SA S6 S9
+HK HQ H5 H4
+S8 SK S3 SJ
+H2 H3 H7 H9
+D3 H6 HJ HA
+S7 S5 S4 HT
+C2 C4 ST H8
+C5 DT D4 SQ
+D6 DQ DK DA
+C7 C8 C3 CK
+CT - - C6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T643.J75.K74.Q93 QJ9.AT984.A98.K6 872.K2.J653.T752 AK5.Q63.QT2.AJ84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+690"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2NT Pass 3C
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+D5 DT DK DA
+S7 SA S3 S9
+HK HQ H5 H4
+D3 D2 D7 D9
+S2 SK S4 SJ
+H2 H3 H7 H8
+- - - HA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ875.AKJ3.Q.A73 93.Q852.9742.852 A2.76.AK863.KT64 JT64.T94.JT5.QJ9"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 2D Pass
+2H Pass 3NT Pass
+4NT Pass 6NT Pass
+Pass Pass
+[Play "E"]
+H9 HA H5 H6
+DT DQ D7 D3
+S4 S5 S3 SA
+S6 SK S9 S2
+ST SQ H2 D6
+SJ S7 C2 C4
+HT HJ HQ H7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ875.AKJ3.Q.A73 93.Q852.9742.852 A2.76.AK863.KT64 JT64.T94.JT5.QJ9"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+920"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 2C Pass
+2H Pass 2S Pass
+2NT Pass 3C Pass
+3D Pass 3NT Pass
+4C Pass 6C Pass
+Pass Pass
+[Play "E"]
+HT HA H2 H7
+DJ DQ D2 D3
+C9 C3 C5 CK
+D5 C7 D4 D6
+CJ CA C2 C4
+S4 S5 S3 SA
+CQ H3 C8 C6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q9873.64.Q9.T732 AK4.AT32.KJT3.AJ T6.9875.A765.864 J52.KQJ.842.KQ95"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+1440"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+2D X 2S 3NT
+Pass 4S Pass 5C
+Pass 6NT Pass Pass
+Pass
+[Play "W"]
+S8 SA ST S2
+H6 H2 H7 HK
+D9 DT D5 D4
+C7 CA C4 C5
+C2 CJ C6 C9
+H4 H3 H5 HQ
+CT D3 C8 CK
+C3 S4 D6 CQ
+DQ DK DA D2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q9873.64.Q9.T732 AK4.AT32.KJT3.AJ T6.9875.A765.864 J52.KQJ.842.KQ95"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+690"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+2S X Pass 3S
+Pass 4NT Pass Pass
+Pass
+[Play "E"]
+ST S2 S3 SA
+C4 C5 C2 CA
+C6 C9 C3 CJ
+H5 HJ H4 H3
+DA D2 D9 DJ
+S6 S5 S7 SK
+H7 HQ H6 H2
+C8 CK C7 S4
+D5 CQ CT D3
+D6 D4 DQ DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q86.A.Q9752.AT98 AKT953.953.JT3.K J.KJT762.86.Q764 742.Q84.AK4.J532"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D 2S 3H 3S
+Pass Pass Pass
+[Play "S"]
+D8 DA D9 DT
+C4 C2 CA CK
+H7 H4 HA H3
+SJ S2 S6 SA
+D6 DK D5 D3
+H6 S4 S8 ST
+H2 S7 SQ SK
+HK H8 D2 H5
+HJ HQ C8 H9
+C6 D4 DQ DJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q86.A.Q9752.AT98 AKT953.953.JT3.K J.KJT762.86.Q764 742.Q84.AK4.J532"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D 1S 3H Pass
+Pass Pass
+[Play "W"]
+S2 S6 SK SJ
+C2 CA CK C4
+H4 HA H3 H2
+S4 S8 S9 H6
+H8 D2 H9 HK
+HQ C8 H5 H7
+DK D5 D3 D8
+D4 D7 DJ D6
+DA D9 DT HT
+C3 C9 S3 CQ
+CJ CT S5 C6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J9.KQJ9.AKQJT.65 Q862.A52.8.98432 KT.8764.97643.KQ A7543.T3.52.AJT7"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1D Pass 1H 1S
+2S 4S X Pass
+Pass Pass
+[Play "E"]
+DA D8 D4 D5
+HK HA H7 H3
+SJ S2 ST SA
+S9 SQ SK S3
+C6 C2 CK CA
+C5 C3 CQ CT
+HJ H2 H4 HT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J9.KQJ9.AKQJT.65 Q862.A52.8.98432 KT.8764.97643.KQ A7543.T3.52.AJT7"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1D Pass 1H 1S
+4H 4S 5H Pass
+Pass Pass
+[Play "N"]
+SA S9 S8 ST
+CA C6 C8 CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJ7.K87.AT98.K32 8.AT5.42.AQ98765 632.Q9642.K653.J KQT954.J3.QJ7.T4"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1NT 3C Pass Pass
+Pass
+[Play "N"]
+H2 H3 HK HA
+HQ HJ H8 H5
+CJ C4 C3 CQ
+S6 SK SA S8
+S2 CT CK CA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJ7.K87.AT98.K32 8.AT5.42.AQ98765 632.Q9642.K653.J KQT954.J3.QJ7.T4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1C Pass 1H 2S
+X Pass 3D Pass
+4H Pass Pass Pass
+[Play "E"]
+SK SA S8 S6
+H3 HK HA H2
+HJ H7 H5 HQ
+S9 H8 HT H4
+DQ DA D2 D3
+C4 C2 CQ CJ
+D7 D8 D4 DK
+SQ S7 C5 S2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJT952.9.T6532.4 A43.J765.AKJ7.J6 K86.A83.84.KQT52 7.KQT42.Q9.A9873"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "1"]
+[Score "+650"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+2D X 4S 4NT
+Pass 5D X 5H
+Pass Pass X Pass
+Pass Pass
+[Play "W"]
+C4 C6 CT CA
+H9 H5 HA HT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJT952.9.T6532.4 A43.J765.AKJ7.J6 K86.A83.84.KQT52 7.KQT42.Q9.A9873"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1NT Pass 2D
+Pass 2S Pass 2NT
+Pass 3C Pass 3D
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "E"]
+CK CA C4 C6
+H8 HT H9 H5
+HA H4 D6 H6
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A95.QJ.A652.QJ95 KT76.T8.KJ.AK632 8432.9432.Q98.T4 QJ.AK765.T743.87"]
+[Declarer "N"]
+[Contract "2SX"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1NT X XX Pass
+2C X 2D X
+2S X Pass Pass
+Pass
+[Play "E"]
+CA C4 C7 C9
+CK CT C8 C5
+DK D8 D3 DA
+S6 S2 SJ S5
+S7 S3 SQ SA
+C2 D9 H5 CQ
+C3 H2 H6 CJ
+DJ DQ D4 D2
+H8 H3 H7 HQ
+HT S4 D7 D5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A95.QJ.A652.QJ95 KT76.T8.KJ.AK632 8432.9432.Q98.T4 QJ.AK765.T743.87"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1C 1S Pass 2H
+Pass 2NT Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+D8 D3 DA DJ
+CT C7 C5 C3
+D9 D4 D2 DK
+S2 SQ SA S7
+C4 C8 CQ CA
+H2 HA HQ H8
+DQ D7 D5 C2
+H3 HK HJ HT
+H4 DT D6 C6
+S3 SJ S5 SK
+H9 H5 C9 CK
+S4 H6 S9 ST
+S8 H7 CJ S6
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A94.AQ962.43.976 Q83.JT54.Q976.K8 KT762.K8.JT.QT53 J5.73.AK852.AJ42"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-50"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass Pass 2S Pass
+Pass Pass
+[Play "N"]
+DK D3 D6 DT
+DA D4 D7 DJ
+H3 H2 HJ HK
+S5 S4 S3 SK
+SJ SA S8 S2
+C2 C6 CK C3
+D2 S9 SQ S6
+CJ C7 C8 C5
+CA C9 D9 CT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A94.AQ962.43.976 Q83.JT54.Q976.K8 KT762.K8.JT.QT53 J5.73.AK852.AJ42"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass Pass 2D X
+2S 3D Pass Pass
+Pass
+[Play "W"]
+S2 S5 SA S3
+SK SJ S9 S8
+HK H3 H2 H5
+H8 H7 HA H4
+S7 C2 S4 SQ
+- - - DQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:32.J.JT9653.9762 AQJT8754.Q75.4.8 K96.AKT63.KQ.AQJ .9842.A872.KT543"]
+[Declarer "W"]
+[Contract "3SX"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-200"]
+[VisitTeam "Crash"]
+[Auction "S"]
+3D 3S X Pass
+Pass Pass
+[Play "N"]
+HK H2 HJ H5
+HA H4 D6 H7
+H6 H8 S2 HQ
+DQ DA DJ D4
+H3 H9 S3 S4
+S6 D2 D3 SA
+SK D7 D5 SJ
+HT C3 D9 S5
+S9 C4 C2 SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:32.J.JT9653.9762 AQJT8754.Q75.4.8 K96.AKT63.KQ.AQJ .9842.A872.KT543"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-200"]
+[VisitTeam "Crash"]
+[Auction "S"]
+2C 4S X Pass
+Pass Pass
+[Play "N"]
+DK DA D3 D4
+DQ D2 D5 S4
+S6 C3 S2 SA
+S9 H2 S3 SJ
+SK D7 D9 S5
+HA H4 HJ H7
+CA C4 C2 C8
+HK H8 - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.53.J7532.KQJ9 T.AK8762.K98.T54 AK432.JT4.Q.A763 QJ975.Q9.AT64.82"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 2D 2S Pass
+Pass Pass
+[Play "S"]
+HQ H3 H7 H4
+H9 H5 HA HT
+DA D2 D9 DQ
+DT D3 D8 S2
+S9 D5 H2 HJ
+C8 CK C4 C3
+S5 S6 ST SK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.53.J7532.KQJ9 T.AK8762.K98.T54 AK432.JT4.Q.A763 QJ975.Q9.AT64.82"]
+[Declarer "E"]
+[Contract "1SX"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-200"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 1H 1S Pass
+Pass X Pass Pass
+Pass
+[Play "S"]
+HQ H3 H7 HT
+SQ S6 ST SA
+H9 H5 HK HJ
+DA D2 D8 DQ
+SJ S8 CT S2
+S9 D3 H2 SK
+C2 CK C4 C3
+C8 CQ C5 C6
+D4 C9 H6 CA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ43.T64.QT43.53 J95.QJ3.J96.AT87 6.K87.AK72.KQJ94 AT872.A952.85.62"]
+[Declarer "W"]
+[Contract "2SX"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass Pass 1C 1S
+1NT 2S X Pass
+Pass Pass
+[Play "N"]
+C3 C7 C9 C6
+C5 CA CJ C2
+H6 HQ H7 H5
+SQ SJ S6 S7
+D3 D6 DK D8
+H4 C8 CQ S8
+HT H3 H8 HA
+D4 HJ HK H2
+DT D9 DA D5
+SK CT CK ST
+S3 - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ43.T64.QT43.53 J95.QJ3.J96.AT87 6.K87.AK72.KQJ94 AT872.A952.85.62"]
+[Declarer "W"]
+[Contract "2SX"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass Pass 1C 1S
+1NT 2S X Pass
+Pass Pass
+[Play "N"]
+C5 C8 C9 C6
+C3 CA CJ C2
+H6 HQ H8 H5
+H4 HJ HK HA
+HT H3 H7 H2
+DQ D6 D7 D8
+D3 D9 DK D5
+- - CQ S7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:6542.J6.Q532.543 KJT7.T875.874.92 Q9.AQ4.J96.QJ876 A83.K932.AKT.AKT"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+400"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass Pass 1C X
+Pass 1S Pass 2NT
+Pass 3H Pass 3NT
+Pass Pass Pass
+[Play "E"]
+C3 C2 CQ CA
+S2 SJ SQ S3
+C4 C9 C8 CT
+S4 S7 S9 SA
+S5 ST D6 S8
+S6 SK CJ H3
+H6 H5 H4 HK
+HJ H7 HQ H9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:6542.J6.Q532.543 KJT7.T875.874.92 Q9.AQ4.J96.QJ876 A83.K932.AKT.AKT"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass Pass 1C X
+Pass 1S Pass 2C
+Pass 2S Pass 2NT
+Pass 3H Pass 3S
+Pass 3NT Pass 4H
+Pass Pass Pass
+[Play "W"]
+C6 CA C3 C2
+C7 CK C4 C9
+C8 CT C5 H7
+H4 HK H6 H5
+HQ H2 HJ H8
+HA H3 D3 HT
+CQ H9 D2 D4
+D6 DA D5 D7
+D9 DK DQ D8
+S9 S3 S6 SK
+SQ SA S2 S7
+CJ S8 S4 SJ
+DJ DT S5 ST
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:4.643.AKJ82.K863 J9753.8.T965.A94 AKQT.KT972.Q3.T5 862.AQJ5.74.QJ72"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-800"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1D Pass 1H Pass
+2H Pass 4H X
+Pass Pass Pass
+[Play "E"]
+CQ C3 C4 C5
+CJ C6 C9 CT
+D4 DA DT DQ
+HJ H3 H8 H9
+D7 DK D5 D3
+H5 DJ D6 ST
+C7 C8 CA H2
+HQ H4 - H7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:4.643.AKJ82.K863 J9753.8.T965.A94 AKQT.KT972.Q3.T5 862.AQJ5.74.QJ72"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+600"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1D Pass 1H Pass
+2C Pass 3NT Pass
+Pass Pass
+[Play "E"]
+C2 C3 CA C5
+CJ C6 C4 CT
+D7 D2 D5 DQ
+D4 DJ D6 D3
+S2 DA D9 H2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T32.AKQ972.K542. Q64.J6.A98.Q9742 95.854.QJ63.J865 AKJ87.T3.T7.AKT3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1H Pass 1NT 2S
+3H 3S Pass 4S
+Pass Pass Pass
+[Play "W"]
+HA H6 H8 H3
+HK HJ H5 HT
+S2 S4 S5 S7
+S3 SQ S9 S8
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T32.AKQ972.K542. Q64.J6.A98.Q9742 95.854.QJ63.J865 AKJ87.T3.T7.AKT3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+420"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1H Pass 1NT X
+3H Pass Pass 3S
+Pass 4S Pass Pass
+Pass
+[Play "W"]
+HA H6 H5 H3
+HQ HJ H4 HT
+D4 DA D3 D7
+S2 S4 S5 SK
+S3 SQ S9 S7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ7632.862.KJ6.8 J5.T7.Q3.AKT6542 A94.AQ3.AT92.QJ3 T8.KJ954.8754.97"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "N"]
+2D Pass 2NT Pass
+3D Pass 4S Pass
+Pass Pass
+[Play "W"]
+C9 C8 CA C3
+H4 H2 HT HA
+S8 S2 S5 SA
+ST SK SJ S4
+D4 DK D3 D2
+D5 DJ DQ DA
+- - - DT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ7632.862.KJ6.8 J5.T7.Q3.AKT6542 A94.AQ3.AT92.QJ3 T8.KJ954.8754.97"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "N"]
+2S 3C 4S Pass
+Pass Pass
+[Play "E"]
+CA C3 C9 C8
+HT HQ HK H2
+C2 CJ C7 S2
+S5 SA S8 S3
+SJ S4 ST SK
+D3 D2 D5 DK
+DQ - - DJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT842.T2.65.JT5 K5.J7.AKQ743.A97 Q96.843.JT9.K632 73.AKQ965.82.Q84"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "E"]
+2D 3D Pass 4H
+Pass Pass Pass
+[Play "E"]
+CJ CA C2 C8
+H2 HJ H4 H5
+HT H7 H3 HA
+- - - HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJT842.T2.65.JT5 K5.J7.AKQ743.A97 Q96.843.JT9.K632 73.AKQ965.82.Q84"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+1440"]
+[VisitTeam "Crash"]
+[Auction "E"]
+2D X 2S 4H
+Pass 4NT Pass 5S
+Pass 6NT Pass Pass
+Pass
+[Play "W"]
+S6 S3 SA S5
+DJ D2 D6 DA
+S9 S7 S2 SK
+C6 C4 CT CA
+H3 H5 H2 HJ
+H4 HA HT H7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:6.KT84.QJ42.QT64 K943.J96.AT975.5 QJ2.Q53.63.A9832 AT875.A72.K8.KJ7"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+420"]
+[VisitTeam "Crash"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+D2 D5 D3 D8
+S6 S3 S2 SA
+D4 D7 D6 DK
+C4 S4 SJ S7
+H4 SK SQ S5
+DJ DA C2 H2
+DQ D9 C3 S8
+CQ C5 C8 CJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:6.KT84.QJ42.QT64 K943.J96.AT975.5 QJ2.Q53.63.A9832 AT875.A72.K8.KJ7"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+420"]
+[VisitTeam "Crash"]
+[Auction "S"]
+Pass Pass 1C 1NT
+Pass 2H Pass 2S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+S6 S3 SQ SA
+H8 SK S2 S5
+C4 C5 CA C7
+HK H6 H3 H2
+H4 H9 HQ HA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ98765.J4.87.T3 .KT832.K42.KJ752 AJ43.Q97.63.Q984 T2.A65.AQJT95.A6"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+650"]
+[VisitTeam "Crash"]
+[Auction "W"]
+3S Pass 4S X
+Pass 4NT Pass 5D
+Pass 5H Pass Pass
+Pass
+[Play "E"]
+SA S2 S5 H2
+H7 HA HJ H3
+H9 H5 H4 HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ98765.J4.87.T3 .KT832.K42.KJ752 AJ43.Q97.63.Q984 T2.A65.AQJT95.A6"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "13"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+1390"]
+[VisitTeam "Crash"]
+[Auction "W"]
+3S X 4S 6D
+Pass Pass Pass
+[Play "W"]
+SK D2 S3 S2
+CT C2 C4 CA
+S6 DK S4 ST
+D7 D4 D3 DA
+D8 H2 D6 DQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:842.52.A7.JT9543 Q5.AJ7.T943.KQ76 AT9763.Q83.KQ.A2 KJ.KT964.J8652.8"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass 1D 1S 2H
+2S 3H 4S Pass
+Pass Pass
+[Play "W"]
+D2 D7 D9 DK
+H9 H2 HJ H8
+SJ S2 S5 S3
+SK S4 SQ SA
+DJ DA D3 DQ
+C8 C9 CQ CA
+H6 CT - C2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:842.52.A7.JT9543 Q5.AJ7.T943.KQ76 AT9763.Q83.KQ.A2 KJ.KT964.J8652.8"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-500"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass 1D 1S 2H
+Pass 3H 3S 4H
+4S Pass Pass X
+Pass Pass Pass
+[Play "W"]
+C8 CJ CQ CA
+D2 CT CK C2
+HK H2 HJ HQ
+D6 D7 D9 DK
+SJ S2 S5 SA
+D5 DA DT DQ
+- C9 C6 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T.JT96.A932.K872 Q63..KQJT86.QJT6 A74.AK87432.4.A3 KJ9852.Q5.75.954"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "13"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+510"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass 1D 1H 1S
+4H Pass Pass Pass
+[Play "N"]
+D5 - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T.JT96.A932.K872 Q63..KQJT86.QJT6 A74.AK87432.4.A3 KJ9852.Q5.75.954"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+1010"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass 1D 4H 4S
+4NT 5D Pass Pass
+5H Pass 6H Pass
+Pass Pass
+[Play "N"]
+D7 DA DK D4
+H5 H6 D6 HA
+HQ H9 D8 HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K94.AQ965.Q92.J8 AJT32.J3.JT43.Q4 865.872.K6.97652 Q7.KT4.A875.AKT3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "+460"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1H 1S Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H6 HJ H8 H4
+D9 D3 D6 D8
+S9 S2 S6 SQ
+S4 SJ S5 S7
+SK SA S8 D7
+H5 ST C2 D5
+H9 S3 H7 HT
+D2 DJ DK DA
+C8 CQ C5 C3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K94.AQ965.Q92.J8 AJT32.J3.JT43.Q4 865.872.K6.97652 Q7.KT4.A875.AKT3"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+460"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1H 1S Pass 3NT
+Pass Pass Pass
+[Play "S"]
+H5 H3 H7 HT
+S4 S2 S5 SQ
+S9 ST S8 S7
+SK SA S6 D5
+- SJ C2 H4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K9765.62.7.87642 T4.KT75.865.AKT3 AJ32.A4.KJT942.9 Q8.QJ983.AQ3.QJ5"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "2"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass 1D 1H
+Pass 3D Pass 4H
+Pass Pass Pass
+[Play "W"]
+D7 D8 DK DA
+H2 H5 HA HJ
+H6 D5 DJ DQ
+S5 S4 SA S8
+C2 D6 DT D3
+SK ST S2 SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K9765.62.7.87642 T4.KT75.865.AKT3 AJ32.A4.KJT942.9 Q8.QJ983.AQ3.QJ5"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass 1D 1H
+1S 2S 4S Pass
+Pass Pass
+[Play "N"]
+CA C9 C5 C7
+H5 HA H3 H6
+S4 S2 S8 SK
+D5 D9 DQ D7
+H7 H4 HQ H2
+C3 S3 CQ C2
+ST SA SQ S6
+D6 DK DA S5
+CT SJ CJ C4
+- DJ - -
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ4.76.AJT852.K4 JT93.AT4.Q93.953 76.J9532.76.QT87 K852.KQ8.K4.AJ62"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1NT Pass 2D Pass
+2H Pass Pass X
+Pass 2S Pass Pass
+Pass
+[Play "S"]
+D7 D4 DT DQ
+S6 S2 SQ SJ
+H9 HK H7 H4
+S7 S5 SA S3
+HJ HQ H6 HT
+H2 SK S4 ST
+CT C2 C4 C9
+C7 CA CK C3
+H3 H8 D2 HA
+CQ C6 D5 C5
+D6 DK DA D3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "1"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ4.76.AJT852.K4 JT93.AT4.Q93.953 76.J9532.76.QT87 K852.KQ8.K4.AJ62"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D Pass Pass X
+Pass 1S Pass 2S
+Pass Pass Pass
+[Play "S"]
+D6 D4 DT DQ
+S6 S2 SQ ST
+D7 DK DA D3
+H5 H8 H6 HA
+S7 S8 D2 D9
+H2 S5 SA S3
+H3 HQ H7 H4
+C7 SK S4 SJ
+H9 HK D5 HT
+CT C2 C4 C9
+C8 CA CK C3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J52.KJ.AT9872.72 A76.T9765.J54.Q9 KQ9843.Q83.3.J43 T.A42.KQ6.AKT865"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+630"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass Pass 2S 3C
+3S 3NT Pass Pass
+Pass
+[Play "W"]
+SK ST S2 S6
+S9 H2 SJ S7
+D3 D6 D2 D4
+S3 DQ DA D5
+S4 DK DT DJ
+C4 C5 C7 CQ
+S8 H4 S5 SA
+C3 CA C2 C9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "2"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J52.KJ.AT9872.72 A76.T9765.J54.Q9 KQ9843.Q83.3.J43 T.A42.KQ6.AKT865"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+130"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+2C Pass 2D 3C
+Pass Pass Pass
+[Play "E"]
+HK H5 H3 HA
+C2 CQ C3 C5
+C7 C9 C4 CA
+D2 H6 CJ CK
+DA D4 D3 DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T972.K954.AQ4.AQ AQJ63.76.T763.75 5.AQ2.KJ98.KT642 K84.JT83.52.J983"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+420"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1NT Pass 2NT Pass
+3C Pass 3H Pass
+4H Pass Pass Pass
+[Play "E"]
+S4 S2 SA S5
+SK S7 S6 C2
+S8 S9 SQ H2
+H3 H4 H6 HA
+H8 H5 H7 HQ
+C3 CA C5 C4
+HT HK S3 C6
+C8 CQ C7 CT
+D2 D4 D3 DJ
+- - - CK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "3"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T972.K954.AQ4.AQ AQJ63.76.T763.75 5.AQ2.KJ98.KT642 K84.JT83.52.J983"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+420"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1C 1S X 2S
+4H Pass Pass Pass
+[Play "W"]
+SA S5 S4 S2
+H6 HA H3 H4
+H7 HQ H8 H5
+C5 C2 C3 CA
+S6 H2 SK S7
+C7 C4 C9 CQ
+S3 C6 HT HK
+D3 DJ D2 D4
+D6 CK C8 S9
+D7 D8 D5 DA
+DT DK HJ DQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q7532.8.Q97.K874 T.JT542.AKJT.QT5 86.Q73.8653.A962 AKJ94.AK96.42.J3"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+650"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 3NT Pass 4H
+Pass Pass Pass
+[Play "E"]
+S8 SA S2 ST
+H3 HA H8 H2
+H7 HK C8 H4
+S6 SK S5 C5
+C6 SJ SQ HT
+D3 D2 D7 DA
+D5 D4 D9 DK
+D6 H6 DQ DJ
+C2 S9 S3 CT
+CA C3 C4 CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "4"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q7532.8.Q97.K874 T.JT542.AKJT.QT5 86.Q73.8653.A962 AKJ94.AK96.42.J3"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1H Pass 2C
+Pass 2D Pass 2H
+Pass 2S Pass 2NT
+Pass 3C Pass 3D
+Pass 3S Pass 4C
+Pass 4D Pass 4H
+Pass Pass Pass
+[Play "E"]
+S8 SA S3 ST
+H3 HA H8 H2
+H7 HK C7 H4
+S6 SK S2 C5
+HQ SJ SQ HJ
+CA C3 C4 CT
+C2 CJ CK CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ8.KQ6.KQ92.875 A965.A532.AJ5.T3 T7.JT4.T876.KQ62 K432.987.43.AJ94"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D X 2D 2S
+Pass Pass Pass
+[Play "N"]
+DK D5 D6 D4
+HQ H2 H4 H7
+H6 HA HJ H8
+S8 S5 S7 SK
+D2 DJ D7 D3
+D9 DA D8 H9
+C8 CT CQ CA
+C7 C3 CK C9
+C5 S6 C2 C4
+SJ SA ST S2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "5"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ8.KQ6.KQ92.875 A965.A532.AJ5.T3 T7.JT4.T876.KQ62 K432.987.43.AJ94"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "4"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-300"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1NT Pass Pass Pass
+[Play "E"]
+S6 ST SK S8
+SA S7 S2 SQ
+S9 C2 S3 SJ
+DA D6 D3 DQ
+CT CK C4 C5
+DJ DT D4 D9
+C3 CQ CA C8
+H2 C6 C9 C7
+H3 H4 CJ H6
+HA HT H7 HK
+S5 D7 S4 D2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ942.K2.532.Q74 J73.A64.AT64.AJ3 KT6.T75.K987.986 85.QJ983.QJ.KT52"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+170"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1S X 2H X
+Pass Pass 2S 3H
+Pass Pass Pass
+[Play "E"]
+D2 D4 DK DJ
+SQ S3 S6 S5
+SA S7 ST S8
+S2 SJ SK H3
+HK HA H5 HQ
+H2 H4 H7 H9
+S4 H6 HT HJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "6"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ942.K2.532.Q74 J73.A64.AT64.AJ3 KT6.T75.K987.986 85.QJ983.QJ.KT52"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1S Pass 1NT Pass
+2C Pass 2S Pass
+Pass Pass
+[Play "S"]
+S7 S6 S5 S9
+S3 ST S8 SQ
+DA D7 DJ D5
+SJ SK H3 S2
+D6 D8 DQ D3
+HA H5 HQ HK
+H6 HT HJ H2
+H4 H7 H9 SA
+C3 C6 C5 S4
+D4 D9 C2 D2
+- DK - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:62.732.K98.KQT53 KJ.Q4.A65432.J72 8754.A865.T7.A86 AQT93.KJT9.QJ.94"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+600"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 1NT Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H5 H9 H2 HQ
+H6 HT H3 H4
+D7 DQ DK DA
+S4 S3 S2 SK
+- - - SJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "7"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:62.732.K98.KQT53 KJ.Q4.A65432.J72 8754.A865.T7.A86 AQT93.KJT9.QJ.94"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 2C Pass 2S
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+CK C2 C8 C4
+C5 C7 CA C9
+H2 H4 HA H9
+CT CJ C6 S9
+S2 SK S4 S3
+S6 SJ S5 SA
+H7 D2 S7 SQ
+H3 D3 S8 ST
+C3 HQ H5 HK
+CQ D4 H6 HJ
+D8 D5 H8 HT
+D9 D6 D7 DQ
+DK DA DT DJ
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K943.J642.T3.QJ6 AQ5.983.KQJ.5432 T82.AKQ.A964.AT7 J76.T75.8752.K98"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+120"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "S"]
+D7 D3 DQ DA
+H5 H2 H3 HA
+H7 H4 H9 HK
+HT H6 H8 HQ
+CK C6 C2 C7
+SJ SK SA S2
+D2 DT DJ D4
+D8 S3 DK D6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "8"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K943.J642.T3.QJ6 AQ5.983.KQJ.5432 T82.AKQ.A964.AT7 J76.T75.8752.K98"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "4"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-800"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1NT X Pass
+Pass XX Pass 2C
+X Pass Pass XX
+Pass 2D X Pass
+Pass XX Pass 2H
+X Pass Pass Pass
+[Play "W"]
+DT DK DA D5
+D3 DJ D4 D7
+H2 H3 HQ H7
+H4 DQ D6 D2
+H6 H8 HK H5
+HJ H9 HA HT
+S3 C2 D9 D8
+C6 C3 C7 CK
+S4 SQ S2 S6
+S9 SA S8 S7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J964.K84.9754.72 853.QJ763.T32.63 72.52.AQ8.AKJT54 AKQT.AT9.KJ6.Q98"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass Pass 1NT X
+Pass 2C 3C X
+Pass 3D Pass Pass
+Pass
+[Play "S"]
+CK C8 C2 C6
+H5 H9 HK H3
+CA C9 C7 C3
+H2 HT H8 HQ
+DA D6 D4 D2
+C4 CQ D9 DT
+D8 DJ D5 D3
+DQ DK D7 H6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "9"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J964.K84.9754.72 853.QJ763.T32.63 72.52.AQ8.AKJT54 AKQT.AT9.KJ6.Q98"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass Pass 1NT X
+Pass 2H 3C Pass
+Pass Pass
+[Play "W"]
+SA S4 S8 S2
+SK S6 S5 S7
+H9 HK H3 H2
+C9 C2 C3 CA
+C8 C7 C6 CK
+CQ H4 H7 CT
+HA H8 H6 H5
+HT D4 HJ C4
+ST SJ D2 CJ
+- - - C5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ5.JT92.K62.JT6 T.A643.53.AKQ953 A97432.87.JT94.7 Q86.KQ5.AQ87.842"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1C 2S X
+3S 4H Pass Pass
+Pass
+[Play "W"]
+SA S6 S5 ST
+S4 S8 SJ H3
+H8 HK H9 H4
+H7 H5 HT HA
+S2 HQ H2 H6
+C7 C2 C6 CA
+S3 C4 CT CK
+S7 C8 CJ CQ
+D4 D7 HJ C9
+S9 SQ SK C3
+D9 DQ D2 D3
+DT DA D6 D5
+DJ D8 DK C5
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "10"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KJ5.JT92.K62.JT6 T.A643.53.AKQ953 A97432.87.JT94.7 Q86.KQ5.AQ87.842"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+600"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1C 1S 2D
+2S 3C Pass 3S
+Pass 4D Pass 5C
+Pass Pass Pass
+[Play "W"]
+SA S6 S5 ST
+S2 SQ SK C3
+C7 C2 C6 CA
+S3 C4 CT CK
+H7 HK H2 H3
+S4 S8 SJ C5
+H8 HQ H9 H4
+S7 H5 HT HA
+S9 C8 HJ H6
+D4 DA D2 D3
+DJ D7 DK D5
+D9 D8 D6 C9
+DT DQ CJ CQ
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J6.8432.Q.AKQJ43 AT98.6.AJT84.T92 K7.AKQJT7.976.85 Q5432.95.K532.76"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1C 1D 1H 1S
+4H 4S 5H Pass
+Pass Pass
+[Play "E"]
+DK DQ DA D6
+S2 S6 SA S7
+S3 SJ ST SK
+H5 H2 H6 HA
+H9 H3 DJ HK
+- - - HQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "11"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J6.8432.Q.AKQJ43 AT98.6.AJT84.T92 K7.AKQJT7.976.85 Q5432.95.K532.76"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1C 1D 1H 1S
+2H 3H 4H 4S
+5C Pass 5H Pass
+Pass Pass
+[Play "E"]
+DK DQ DA D9
+S5 S6 SA S7
+S3 SJ S8 SK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:53.AK654.KQT4.83 AKQ6.932.J.AJT76 J97.JT87.7632.92 T842.Q.A985.KQ54"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+680"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1H 2C 3H X
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+HJ HQ HK H2
+D6 DA DK DJ
+S7 S2 S3 SA
+H7 S4 H5 H3
+S9 S8 S5 SK
+HT ST H4 H9
+D2 D5 D4 S6
+SJ D8 H6 SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "12"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:53.AK654.KQT4.83 AKQ6.932.J.AJT76 J97.JT87.7632.92 T842.Q.A985.KQ54"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1H 2C 4H 5C
+Pass Pass Pass
+[Play "E"]
+HJ HQ HK H3
+S9 S2 S5 SA
+H7 C4 H5 H2
+C9 C5 C3 CT
+HT CQ H4 H9
+C2 CK C8 CA
+H8 S4 H6 CJ
+D2 D5 D4 C7
+D3 D8 HA C6
+S7 S8 S3 SK
+SJ ST DT SQ
+D6 D9 DQ S6
+D7 DA DK DJ
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJ872.KJ94.53.A A93.AQ52.6.Q9876 T4.T76.AJ82.JT52 65.83.KQT974.K43"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1S Pass 1NT Pass
+2H Pass 2S Pass
+3S Pass Pass Pass
+[Play "E"]
+C6 CJ CK CA
+S3 ST S5 S2
+SA S4 S6 SJ
+D6 DA DK D3
+C7 C2 C3 S7
+S9 D2 D4 SK
+HA H6 H3 HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "13"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQJ872.KJ94.53.A A93.AQ52.6.Q9876 T4.T76.AJ82.JT52 65.83.KQT974.K43"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1S Pass 1NT Pass
+2H Pass 2S Pass
+3S Pass Pass Pass
+[Play "E"]
+C6 CJ CK CA
+S3 ST S5 S2
+SA S4 S6 SQ
+D6 DA D4 D5
+C8 C2 C4 SK
+S9 D2 H3 SJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQ4.QT83.AJ2.J84 AJ86.AK72.76.A72 9752.J65.K85.KQT T3.94.QT943.9653"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1NT X Pass 2D
+Pass Pass Pass
+[Play "E"]
+H8 HA H5 H4
+SK S6 S2 ST
+C4 C2 CQ C5
+DJ D6 D5 DT
+CJ CA CK C3
+DA D7 D8 D9
+C8 C7 CT C6
+HQ HK HJ H9
+H3 H2 H6 D3
+D2 H7 DK D4
+SQ SA S5 S3
+S4 SJ S7 C9
+HT S8 S9 DQ
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "14"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQ4.QT83.AJ2.J84 AJ86.AK72.76.A72 9752.J65.K85.KQT T3.94.QT943.9653"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1C X 1S Pass
+1NT Pass Pass 2D
+Pass Pass Pass
+[Play "E"]
+SK SA S2 S3
+DJ D6 D5 DT
+C4 C2 CQ C6
+DA D7 D8 DQ
+C8 CA CT C5
+SQ S6 S7 ST
+CJ C7 CK C9
+S4 SJ S9 H9
+H3 HA H5 H4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KJT873.3.J98.AK8 AQ9542.AT5.432.4 .KJ984.AQ7.JT962 6.Q762.KT65.Q753"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 3C Pass
+3S Pass Pass Pass
+[Play "W"]
+D2 D7 DK D9
+C4 C2 C5 CA
+HA H4 H7 H3
+D4 DQ D5 DJ
+H5 HK H2 C8
+S2 C6 C3 CK
+D3 DA D6 D8
+HT H8 H6 S3
+SA C9 S6 SK
+S4 CT C7 S7
+S5 H9 DT SJ
+S9 HJ HQ S8
+SQ CJ CQ ST
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "15"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KJT873.3.J98.AK8 AQ9542.AT5.432.4 .KJ984.AQ7.JT962 6.Q762.KT65.Q753"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1S Pass 2H Pass
+2S Pass 2NT Pass
+3S Pass Pass Pass
+[Play "W"]
+C4 C2 C3 C8
+HA H4 H2 H3
+D2 D7 DK D9
+S2 C6 C5 CA
+D3 DQ D5 D8
+H5 HK H6 DJ
+D4 DA D6 CK
+HT H8 H7 S3
+S4 C9 S6 SK
+S5 H9 C7 SJ
+S9 CT DT S7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A642.KQ6.98.Q987 J8..AKQJT52.K652 KQ5.JT8752.43.A3 T973.A943.76.JT4"]
+[Declarer "N"]
+[Contract "4D"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "3"]
+[Score "+130"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1D 2H Pass
+3H 4D Pass Pass
+Pass
+[Play "E"]
+HJ HA H6 S8
+D3 D6 D8 DA
+D4 D7 D9 DK
+C3 CJ CQ C2
+H2 H3 HK D2
+CA C4 C7 C5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.13"]
+[Board "16"]
+[West "Van Cleeff"]
+[North "Hoogenkamp"]
+[East "Jansma"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A642.KQ6.98.Q987 J8..AKQJT52.K652 KQ5.JT8752.43.A3 T973.A943.76.JT4"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+130"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1D 1H Pass
+2D 3D Pass Pass
+Pass
+[Play "E"]
+HJ HA H6 SJ
+D3 D6 D8 DA
+D4 D7 D9 DK
+C3 CJ CQ C2
+H8 H3 HK DQ
+CA C4 C7 C5
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "1"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ92.764.Q82.543 765.AQ932.KJ9.Q7 A8.JT8.AT4.AKT62 JT43.K5.7653.J98"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+90"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass 1H 1NT Pass
+Pass Pass
+[Play "W"]
+D7 D2 DJ DA
+D6 DQ DK D4
+C9 C3 CQ CA
+D5 D8 D9 DT
+S3 S2 S5 SA
+S4 SK S6 S8
+ST SQ S7 C2
+C8 C4 C7 CK
+HK H4 H2 HJ
+CJ C5 H3 C6
+SJ S9 H9 CT
+D3 H6 HQ H8
+H5 H7 HA HT
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "1"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ92.764.Q82.543 765.AQ932.KJ9.Q7 A8.JT8.AT4.AKT62 JT43.K5.7653.J98"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "Crash"]
+[Auction "N"]
+Pass 1H 2C X
+3C Pass Pass Pass
+[Play "W"]
+HK H4 H2 HT
+H5 H6 HA H8
+D6 H7 HQ HJ
+C8 D2 H3 D4
+D3 D8 DJ DA
+C9 C3 C7 CA
+CJ C4 CQ CK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "2"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T953.Q.QJ64.AK72 Q74.876.7.QT9865 AKJ862.KJ9.82.J4 .AT5432.AKT953.3"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-500"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1D Pass 1S 2H
+2S 3H 4S 5H
+X Pass Pass Pass
+[Play "E"]
+CA C5 C4 C3
+HQ H6 H9 HA
+D4 D7 D2 DA
+D6 C6 D8 DK
+DJ H7 HJ D5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "2"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T953.Q.QJ64.AK72 Q74.876.7.QT9865 AKJ862.KJ9.82.J4 .AT5432.AKT953.3"]
+[Declarer "E"]
+[Contract "5SX"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1NT Pass 4H X
+4S Pass Pass 4NT
+5S X Pass Pass
+Pass
+[Play "S"]
+D7 D2 DK D6
+H6 H9 HA HQ
+C5 D8 DA D4
+C6 C4 C3 CA
+S4 SA H2 ST
+C8 CJ H3 CK
+S7 SJ - S3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "3"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJT73.943.K.AK7 9865.QJ5.985.Q32 2.AKT62.QJT3.865 Q4.87.A7642.JT94"]
+[Declarer "N"]
+[Contract "5H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1S Pass 2H Pass
+4D Pass 4H Pass
+4NT Pass 5H Pass
+Pass Pass
+[Play "E"]
+CJ CA C2 C8
+H8 H3 H5 HA
+H7 H4 HJ HK
+DA DK D5 D3
+C4 CK C3 C5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "3"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJT73.943.K.AK7 9865.QJ5.985.Q32 2.AKT62.QJT3.865 Q4.87.A7642.JT94"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+480"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1S Pass 1NT Pass
+4S Pass Pass Pass
+[Play "W"]
+HQ HA H8 H4
+S5 S2 S4 SA
+S6 C5 SQ SK
+S8 C6 D7 SJ
+S9 C8 D6 ST
+D5 D3 DA DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "4"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ93..JT86.AQJ43 JT7.A.AK9.T87652 K5.K943.Q7543.K9 8642.QJT87652.2."]
+[Declarer "W"]
+[Contract "6CX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-800"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1C Pass 1H 2H
+2S Pass 2NT Pass
+3C Pass 3D Pass
+4D Pass 6C Pass
+Pass X Pass Pass
+Pass
+[Play "N"]
+DA D3 D2 D8
+HA H3 H2 C3
+C2 CK H5 C4
+C5 HK H6 DT
+C8 C9 H7 CQ
+DK D4 H8 DJ
+SJ S5 S2 SQ
+C6 H4 HT CA
+C7 H9 HJ CJ
+D9 DQ HQ D6
+CT D7 S4 S3
+S7 SK S6 S9
+ST D5 S8 SA
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "4"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ93..JT86.AQJ43 JT7.A.AK9.T87652 K5.K943.Q7543.K9 8642.QJT87652.2."]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+630"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "S"]
+S6 S3 ST SK
+D2 DJ DK D3
+- - DA D4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "5"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQT53.J52.A7 97.J876.974.KQT2 AKT5.9.K863.9865 QJ832.42.AQT.J43"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-200"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1H 2C X 2H
+4H X Pass Pass
+Pass
+[Play "E"]
+CK C5 C4 CA
+S7 SA S3 S6
+H6 H9 H2 H3
+C2 C6 CJ C7
+S9 SK SQ S4
+CT C8 C3 H5
+H7 C9 H4 HA
+H8 D3 S2 HK
+HJ D6 S8 HQ
+D4 DK DA D2
+CQ S5 SJ HT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "5"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:64.AKQT53.J52.A7 97.J876.974.KQT2 AKT5.9.K863.9865 QJ832.42.AQT.J43"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1H Pass 1S Pass
+2H Pass Pass Pass
+[Play "E"]
+CK C5 C3 CA
+H7 H9 H2 HA
+H8 S5 H4 HQ
+C2 C6 CJ C7
+S9 SA SQ S4
+CT C8 C4 H3
+D9 DK DA D5
+D4 D6 DQ D2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "6"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ5.K9.Q954.AQ76 A9432.QT65.2.J43 K6.A8.KT876.T852 T87.J7432.AJ3.K9"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1D 1S 2S X
+Pass Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+S8 SQ S3 S6
+DA D4 D2 DK
+S7 S5 S4 SK
+D3 DQ C4 DT
+DJ D9 H5 D6
+ST SJ SA C2
+- - S9 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "6"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ5.K9.Q954.AQ76 A9432.QT65.2.J43 K6.A8.KT876.T852 T87.J7432.AJ3.K9"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+660"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1D Pass 2C Pass
+3C Pass 3D Pass
+3NT Pass Pass Pass
+[Play "S"]
+S2 S6 ST SQ
+D2 DK DA D5
+SA SK S8 S5
+S3 C2 S7 SJ
+H5 HA H2 H9
+H6 D6 D3 D9
+S4 D7 DJ DQ
+S9 DT H3 D4
+C3 D8 H4 C7
+C4 C5 C9 CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "7"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K.AKJ987543.T4.5 QT54.QT6.AQ653.3 AJ83.2.K982.AT96 9762..J7.KQJ8742"]
+[Declarer "N"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "S"]
+4C Pass 6H Pass
+Pass Pass
+[Play "E"]
+CK C5 C3 CA
+C7 HA H6 H2
+C4 HK HT D2
+S2 SK S4 SA
+S6 H3 S5 S3
+D7 D4 DA D8
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "7"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:K.AKJ987543.T4.5 QT54.QT6.AQ653.3 AJ83.2.K982.AT96 9762..J7.KQJ8742"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+650"]
+[VisitTeam "Crash"]
+[Auction "S"]
+4H Pass Pass Pass
+[Play "W"]
+S5 S3 S6 SK
+H6 H2 CK HA
+HT D2 C2 HK
+C3 CA C4 C5
+S4 SA S2 D4
+SQ SJ S7 DT
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "8"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A8.KQJ.KQT8.QT64 63.A9852.43.AJ95 K97542.64.A9.K32 QJT.T73.J7652.87"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+450"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1NT Pass 2H Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+D3 D9 DJ DK
+S3 S2 SJ SA
+S6 SK ST S8
+D4 DA D7 DT
+HA H4 H7 HK
+H8 H6 HT HQ
+C5 C2 D2 D8
+H2 C3 H3 HJ
+- - - DQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "8"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A8.KQJ.KQT8.QT64 63.A9852.43.AJ95 K97542.64.A9.K32 QJT.T73.J7652.87"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+430"]
+[VisitTeam "Crash"]
+[Auction "W"]
+1D 1H 1S Pass
+1NT Pass 2H Pass
+2S Pass 3NT Pass
+Pass Pass
+[Play "N"]
+C9 C2 C8 CT
+S3 S2 ST SA
+S6 S9 SJ S8
+HA H4 HT HJ
+CA C3 C7 C4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "9"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:932.76.K7432.Q72 AJT4.KQ852.5.J63 865.94.JT8.AKT98 KQ7.AJT3.AQ96.54"]
+[Declarer "S"]
+[Contract "4CX"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-800"]
+[VisitTeam "Crash"]
+[Auction "N"]
+3D X Pass Pass
+XX Pass 4C X
+Pass Pass Pass
+[Play "W"]
+C4 C2 CJ CK
+C5 CQ C6 C8
+S7 C7 C3 CA
+DQ DK D5 DJ
+- D2 H5 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "9"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:932.76.K7432.Q72 AJT4.KQ852.5.J63 865.94.JT8.AKT98 KQ7.AJT3.AQ96.54"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+650"]
+[VisitTeam "Crash"]
+[Auction "N"]
+2C 2D 3C X
+Pass 3H Pass 4H
+Pass Pass Pass
+[Play "S"]
+CK C4 C7 C6
+CA C5 C2 C3
+CT HA CQ CJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "10"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A62.Q96.Q98765.2 KT74.AJT43.3.AK3 .852.KJ4.QJT9854 QJ9853.K7.AT2.76"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass 1H Pass 1S
+2D 4D X Pass
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+C2 CA C4 C7
+SA S4 C5 SQ
+D5 D3 DK DA
+D8 S7 D4 D2
+S6 ST CQ SJ
+D6 SK DJ DT
+H6 H3 H2 HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "10"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A62.Q96.Q98765.2 KT74.AJT43.3.AK3 .852.KJ4.QJT9854 QJ9853.K7.AT2.76"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+1430"]
+[VisitTeam "Crash"]
+[Auction "E"]
+Pass 1H 3C 3S
+Pass 4C Pass 4D
+Pass 4NT Pass 5C
+Pass 5D Pass 6H
+Pass 6S Pass Pass
+Pass
+[Play "E"]
+D6 D3 DK DA
+S2 S4 C5 S9
+D5 S7 D4 D2
+H6 HA H2 H7
+H9 H3 H5 HK
+D7 ST DJ DT
+SA SK CQ S3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "11"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ7.J976..KQT963 63.T2.QJ9876.852 KQ9.AK83.A42.AJ4 T8542.Q54.KT53.7"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-50"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C 2D X 4D
+4H Pass 4NT X
+5C Pass 5D X
+Pass Pass XX Pass
+6C Pass 7NT Pass
+Pass Pass
+[Play "E"]
+C7 C3 C2 CA
+D3 CT C5 C4
+S2 S7 S3 SK
+S8 SJ S6 S9
+S5 SA DQ SQ
+H4 H6 H2 HA
+D5 H7 D6 DA
+ST CK C8 CJ
+DT CQ HT H3
+S4 C9 D7 D2
+DK C6 D8 D4
+- H9 D9 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "11"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ7.J976..KQT963 63.T2.QJ9876.852 KQ9.AK83.A42.AJ4 T8542.Q54.KT53.7"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+990"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C Pass 1H Pass
+4H Pass 4NT Pass
+5C Pass 5D Pass
+5H Pass 5S Pass
+6H Pass 6NT Pass
+Pass Pass
+[Play "E"]
+D5 H6 DJ DA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "12"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9763.Q2.942.K72 J84.KJ96.AK863.T AT52.A43.JT.AQ93 Q.T875.Q75.J8654"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+420"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 1D X Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "N"]
+DK DT D7 D4
+CT CA C4 C2
+S4 S2 SQ SK
+S8 ST C5 S3
+SJ SA H5 S6
+D3 DJ DQ D2
+HK HA H8 HQ
+D6 C3 C6 CK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "12"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9763.Q2.942.K72 J84.KJ96.AK863.T AT52.A43.JT.AQ93 Q.T875.Q75.J8654"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Crash"]
+[Auction "W"]
+2D X 4S Pass
+Pass Pass
+[Play "S"]
+D5 D2 DK DT
+D7 D4 DA DJ
+C6 C2 CT CA
+SQ S3 S4 SA
+C8 CK S8 C3
+DQ D9 D8 S2
+C4 SK SJ ST
+H5 H2 HJ HA
+H7 S9 H9 S5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "13"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK92.T5.K832.AT8 84.KJ862.T97.752 QT753.AQ97.J.Q93 J6.43.AQ654.KJ64"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1NT Pass 2C Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+DT DJ DA D2
+C7 C9 C4 C8
+S4 S3 S6 SA
+S8 SQ SJ S2
+C2 C3 CJ CA
+D7 CQ D4 DK
+H2 HQ H3 H5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "13"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK92.T5.K832.AT8 84.KJ862.T97.752 QT753.AQ97.J.Q93 J6.43.AQ654.KJ64"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+680"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1D Pass 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "W"]
+C6 C8 C2 C3
+S6 SA S8 S3
+H4 H5 H2 HQ
+DA D2 D7 DJ
+H3 HT HJ HA
+SJ SK H8 H7
+D4 D3 DT S5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "14"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ82.Q9.J87.Q42 T73.A873.AT.8653 J54.T4.6543.KT97 96.KJ652.KQ92.AJ"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+170"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1NT Pass Pass 2D
+Pass 2H Pass Pass
+2S 3H Pass Pass
+Pass
+[Play "W"]
+S4 S6 SQ S7
+S5 S9 SA S3
+SJ H2 SK ST
+H4 H5 HQ HA
+HT HK H9 H3
+D3 D2 D7 DA
+D4 DK D8 DT
+- DQ DJ -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "14"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AKQ82.Q9.J87.Q42 T73.A873.AT.8653 J54.T4.6543.KT97 96.KJ652.KQ92.AJ"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "Crash"]
+[Auction "E"]
+1S Pass 1NT X
+Pass 2H 2S 3H
+Pass Pass Pass
+[Play "W"]
+S4 S6 SQ S3
+S5 S9 SA S7
+CK CA C2 C3
+H4 H2 H9 HA
+HT HJ HQ H3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "15"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K752.AJ.A4.AT653 QT3.T9.J96.KQJ74 J9864.743.K8753. A.KQ8652.QT2.982"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C Pass 1D 3H
+Pass Pass Pass
+[Play "S"]
+DA D6 D8 DQ
+D4 DJ DK DT
+HJ D9 D3 D2
+CA C4 S4 C2
+CT CK H4 C8
+S2 S3 S8 SA
+HA H9 H3 H2
+SK ST S6 H5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "15"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K752.AJ.A4.AT653 QT3.T9.J96.KQJ74 J9864.743.K8753. A.KQ8652.QT2.982"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+200"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1NT Pass 2H 3H
+3S Pass Pass Pass
+[Play "W"]
+CK H3 C8 CA
+D6 D3 D2 DA
+D9 DK DQ D4
+DJ D5 DT S5
+C7 S4 C9 C5
+S3 S6 SA S2
+C4 S8 C2 C3
+ST D7 H6 HJ
+CQ S9 H2 C6
+HT H4 HK HA
+CJ SJ H5 CT
+H9 H7 HQ S7
+SQ D8 H8 SK
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "16"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K732.J8.J873.AQ3 AQJT8.T5.64.T842 65.K9642.KT952.7 94.AQ73.AQ.KJ965"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "9"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+140"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+C7 C5 CQ CT
+DT C6 CA C4
+S5 C9 C3 C2
+D9 DQ D3 D6
+S6 S9 S2 S8
+H4 S4 S3 SA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "16"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K732.J8.J873.AQ3 AQJT8.T5.64.T842 65.K9642.KT952.7 94.AQ73.AQ.KJ965"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+460"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass 2H 2NT
+Pass 3H Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+CQ C2 C7 CK
+S3 S8 S5 S9
+CA C4 S6 C5
+D7 D4 DK DA
+S7 ST H2 S4
+- SA - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "17"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:62.AKQ5.AQ32.A32 AK53.JT982.7.T76 QJT9.3.T986.QJ54 874.764.KJ54.K98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+430"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1C 1H X Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "E"]
+HJ H3 H7 HA
+S3 S9 S8 S6
+D7 DT DK DA
+C7 CQ CK C2
+H2 C4 H6 HK
+C6 CJ C9 C3
+S5 D9 D4 D2
+H8 D6 D5 D3
+SA D8 DJ DQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "17"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:62.AKQ5.AQ32.A32 AK53.JT982.7.T76 QJT9.3.T986.QJ54 874.764.KJ54.K98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "+430"]
+[VisitTeam "Crash"]
+[Auction "N"]
+1D 1H X 2H
+3NT Pass Pass Pass
+[Play "E"]
+HJ H3 H6 HQ
+SK S9 S4 S6
+H8 D6 H7 HK
+SA ST S8 S2
+H9 D8 H4 HA
+C6 CQ CK C3
+D7 D9 D5 DQ
+C7 C4 C8 CA
+CT CJ C9 C2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "18"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J2.AQ986.762.J62 KQT74.T5432.A5.5 863.K7.KQ94.K983 A95.J.JT83.AQT74"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+2D Pass 2H Pass
+Pass Pass
+[Play "N"]
+DJ D2 DA D4
+S9 S2 SK S6
+HJ H6 H2 HK
+C7 HA H3 H7
+DT D6 D5 D9
+S5 SJ SQ S3
+CQ C2 C5 C3
+CA C6 S4 C8
+C4 CJ H4 C9
+SA H8 S7 S8
+- HQ - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "18"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:J2.AQ986.762.J62 KQT74.T5432.A5.5 863.K7.KQ94.K983 A95.J.JT83.AQT74"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "E"]
+2C Pass 2H Pass
+Pass Pass
+[Play "N"]
+HJ H6 H5 HK
+C7 HQ H4 H7
+D3 D2 D5 DK
+S5 SJ SQ S6
+S9 S2 ST S3
+SA H8 S4 S8
+DJ D7 DA D4
+C4 H9 SK C3
+D8 HA H2 C8
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "19"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A32.QJ96.K984 KT7.T84.A542.T62 Q832.KQJ95.T3.Q5 A964.76.K87.AJ73"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+110"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1NT Pass 2C Pass
+2D Pass 2H Pass
+Pass Pass
+[Play "E"]
+D7 D6 DA DT
+DK D9 D5 D3
+D8 DJ D4 S2
+H6 H2 H4 HQ
+H7 H3 H8 HJ
+S4 HA HT H5
+- DQ D2 S3
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "19"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J5.A32.QJ96.K984 KT7.T84.A542.T62 Q832.KQJ95.T3.Q5 A964.76.K87.AJ73"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT Pass 2C Pass
+2H Pass 4H Pass
+Pass Pass
+[Play "E"]
+D7 D6 DA D3
+SA S5 S7 S2
+S4 SJ SK S8
+DK D9 D2 DT
+CA C4 C2 C5
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "20"]
+[West "Jansma"]
+[North "Hoogenkamp"]
+[East "Van Cleeff"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.AJ8.8652.542 754.T97654.J.T87 J63.32.AT3.KJ963 AKT8.KQ.KQ974.AQ"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Hok 1"]
+[Room "Closed"]
+[Round "4"]
+[Score "+620"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass Pass 2D
+Pass 2S Pass 2NT
+Pass 3D Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "W"]
+D5 DJ DA D4
+C5 C7 CJ CA
+D2 C8 D3 DQ
+D6 CT DT DK
+H8 H4 H2 HQ
+HA H5 H3 HK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "20"]
+[West "Vis"]
+[North "Jansen"]
+[East "Versluis"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q92.AJ8.8652.542 754.T97654.J.T87 J63.32.AT3.KJ963 AKT8.KQ.KQ974.AQ"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Hok 1"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Crash"]
+[Auction "W"]
+Pass Pass 1C X
+1NT 2H Pass 3NT
+Pass Pass Pass
+[Play "W"]
+C2 C7 C9 CQ
+D5 DJ DA D4
+C4 C8 CK CA
+D2 H4 D3 DK
+D6 CT DT DQ
+*
+
+% PBN 1.0
+% EXPORT
+%
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "1"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8654.T6.K864.KJ9 KQ72.732.QJ.A853 J.AKJ94.AT9752.4 AT93.Q85.3.QT762"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+150"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 2D Pass
+Pass Pass
+[Play "W"]
+D3 D4 DJ DA
+C7 CK CA C4
+SA S4 S2 SJ
+S3 S5 SQ D5
+C2 DK DQ D2
+H5 H6 H2 HK
+H8 HT H3 HA
+HQ - - H4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "2"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQT7.K5.9875.JT2 J85.T63.642.AKQ6 632.AQJ982.3.984 A94.74.AKQJT.753"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass Pass 3H Pass
+Pass Pass
+[Play "N"]
+DK D5 D6 D3
+DA D7 D2 H2
+S4 SK S8 S6
+H4 HK H6 H8
+H7 H5 H3 HA
+DT D8 HT HQ
+S9 SQ S5 S2
+C7 CJ CQ C4
+C3 C2 CK C8
+C5 CT CA C9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "2"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQT7.K5.9875.JT2 J85.T63.642.AKQ6 632.AQJ982.3.984 A94.74.AKQJT.753"]
+[Declarer "W"]
+[Contract "3HX"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass Pass 3H X
+Pass Pass Pass
+[Play "N"]
+DA D5 D4 D3
+C3 C2 CQ C9
+C5 CT CA C8
+C7 CJ CK C4
+DK D9 D6 H8
+H7 HK H3 H2
+H4 H5 H6 HJ
+DQ D8 HT HA
+SA S7 S5 S2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "3"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K9762.654.742.42 A.J832.KT5.AK953 QT53.KQT97..T876 J84.A.AQJ9863.QJ"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result "13"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+2220"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1C 2H 3D
+Pass 4D Pass 4H
+Pass 4S Pass 4NT
+Pass 5D Pass 7NT
+Pass Pass Pass
+[Play "S"]
+H4 - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "3"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K9762.654.742.42 A.J832.KT5.AK953 QT53.KQT97..T876 J84.A.AQJ9863.QJ"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "13"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+1390"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1C 1H 2D
+Pass 2H Pass 4H
+Pass 6D Pass Pass
+Pass
+[Play "S"]
+S2 SA - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "4"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK94.QT.J7.QT986 732.AJ72.QT54.72 QJ6.654.A986.AJ5 T85.K983.K32.K43"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1C Pass 1D Pass
+1S Pass 2H Pass
+3C Pass 5C Pass
+Pass Pass
+[Play "N"]
+HA H4 H9 HT
+H2 H5 HK HQ
+HJ H6 H3 C8
+C2 C5 CK CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "4"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK94.QT.J7.QT986 732.AJ72.QT54.72 QJ6.654.A986.AJ5 T85.K983.K32.K43"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1C Pass 1D Pass
+1S Pass 2H Pass
+2NT Pass 3NT Pass
+Pass Pass
+[Play "N"]
+H2 H4 HK HT
+HA H5 H3 HQ
+HJ H6 H9 C9
+H7 D6 H8 D7
+S2 S6 S5 SA
+C7 CJ CK CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "5"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK53.JT.KJ96.632 J62.AQ954.4.AQT7 Q874.86.Q8753.94 T9.K732.AT2.KJ85"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D 1H 2D 3D
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+D3 DA D9 D4
+H6 HK HJ H4
+H8 H2 HT HA
+- - - HQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "5"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK53.JT.KJ96.632 J62.AQ954.4.AQT7 Q874.86.Q8753.94 T9.K732.AT2.KJ85"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+1D 1H 2D 3D
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+C9 C5 C6 CT
+H6 HK HT H4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "6"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K76.KQ964.KT87.T 85.3.AJ95.AQJ832 AQJ42.AJT7.642.K T93.852.Q3.97654"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1H 2C 4C 5C
+X Pass 5H Pass
+Pass Pass
+[Play "S"]
+CA CK C4 CT
+S8 S2 ST SK
+H3 HA H2 H4
+C2 HJ H5 H6
+C3 H7 H8 HK
+C8 HT C5 HQ
+S5 SA S3 S6
+CJ SQ S9 S7
+D5 SJ C6 D7
+D9 S4 C7 D8
+DA D2 D3 DK
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "6"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:K76.KQ964.KT87.T 85.3.AJ95.AQJ832 AQJ42.AJT7.642.K T93.852.Q3.97654"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1H 2C 4C 5C
+Pass 6C 6H Pass
+Pass Pass
+[Play "S"]
+CA CK C4 CT
+DA - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "7"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:87654.Q97.Q87.T6 AKQJ9.AK4.K2.KQ4 32.T832.J6.A9875 T.J65.AT9543.J32"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 3NT Pass 4NT
+Pass 6S Pass 6NT
+Pass Pass Pass
+[Play "N"]
+H3 HJ HQ HA
+C7 C2 C6 CK
+CA C3 CT CQ
+C5 CJ H7 C4
+S2 ST S4 SA
+S3 D3 S5 SK
+C8 D4 S6 SQ
+C9 D5 S7 SJ
+H8 H5 S8 S9
+D6 D9 D7 DK
+DJ DA D8 D2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "7"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:87654.Q97.Q87.T6 AKQJ9.AK4.K2.KQ4 32.T832.J6.A9875 T.J65.AT9543.J32"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+690"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 2C Pass 2D
+Pass 2S Pass 3D
+Pass 3NT Pass Pass
+Pass
+[Play "N"]
+C5 C2 CT CK
+CA C3 C6 CQ
+DJ D3 D7 DK
+C8 CJ H7 C4
+S3 ST S4 SA
+S2 D4 S5 SK
+- - - SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "8"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q742.T4.A4.AKJ84 A.A876.KQT2.Q973 JT3.KQJ3.J76.T65 K9865.952.9853.2"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+90"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1C Pass 1H Pass
+1S Pass 2C Pass
+Pass Pass
+[Play "N"]
+DK D6 D3 DA
+C3 C5 C2 CA
+C7 C6 D8 CK
+H6 H3 H9 HT
+CQ CT D5 C4
+SA S3 S5 S4
+HA HJ H2 H4
+DQ D7 D9 D4
+C9 HQ S6 CJ
+H7 ST SK S2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "8"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q742.T4.A4.AKJ84 A.A876.KQT2.Q973 JT3.KQJ3.J76.T65 K9865.952.9853.2"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "5"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-150"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+1C 1NT Pass 2H
+Pass 2S Pass Pass
+Pass
+[Play "E"]
+HK H2 HT H7
+HJ H5 H4 HA
+CT C2 C8 C7
+HQ H9 D4 H6
+H3 D3 S2 H8
+C6 S5 CA C3
+D7 D5 DA D2
+C5 S6 CK C9
+D6 D8 S4 DK
+ST SK C4 CQ
+S3 S8 S7 SA
+DJ D9 SQ DQ
+SJ S9 CJ DT
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "9"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J6.976.QT92.A764 5.AQT854.A3.KQJ3 AKT832..K865.982 Q974.KJ32.J74.T5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1H 1S 3H
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+SK S4 S6 S5
+D5 DJ DQ DA
+S3 HJ H6 H4
+S2 HK H7 HQ
+- H2 H9 HA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "9"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J6.976.QT92.A764 5.AQT854.A3.KQJ3 AKT832..K865.982 Q974.KJ32.J74.T5"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+620"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1H 3S Pass
+Pass X Pass 4H
+Pass Pass Pass
+[Play "S"]
+SA S4 SJ S5
+D6 D4 D9 DA
+D5 H2 H9 HT
+S8 HK H6 H4
+S2 S7 S6 H5
+S3 H3 H7 HQ
+C2 C5 C4 CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "10"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK976.J753.T843. J2.AT9.A72.AJ743 T4.KQ.KQ9.KQT865 Q853.8642.J65.92"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+150"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1C 2C Pass
+2S Pass 2NT Pass
+Pass Pass
+[Play "N"]
+H6 H3 H9 HK
+C2 H5 C3 CK
+S3 S6 SJ ST
+D5 D3 D7 DK
+H4 H7 HA HQ
+H2 HJ HT C5
+D6 D4 D2 DQ
+DJ DT DA D9
+C9 S7 CA C6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "10"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK976.J753.T843. J2.AT9.A72.AJ743 T4.KQ.KQ9.KQT865 Q853.8642.J65.92"]
+[Declarer "E"]
+[Contract "2D"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+90"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+Pass 1NT Pass Pass
+2C X Pass Pass
+2D Pass Pass Pass
+[Play "S"]
+D2 DK D6 D3
+HA HK H6 H3
+DA D9 D5 D4
+D7 DQ DJ DT
+C3 CK C9 S6
+H9 HQ H2 H5
+S2 ST S5 SA
+SJ S4 S3 SK
+C4 C5 SQ S9
+HT C6 S8 S7
+- - C2 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "11"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J632.T93.AKJ.T63 KQT854.Q7.987.A2 A7.A86.T543.QJ75 9.KJ542.Q62.K984"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1S Pass 1NT
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+CQ CK C6 C2
+SA S9 S2 S4
+C5 C4 CT CA
+H8 HJ HT H7
+C7 C8 C3 S5
+HA H2 H9 HQ
+DT DQ DK D7
+D3 D2 DJ D8
+D4 D6 DA D9
+- - H3 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "11"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J632.T93.AKJ.T63 KQT854.Q7.987.A2 A7.A86.T543.QJ75 9.KJ542.Q62.K984"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1S X XX
+Pass 2S Pass Pass
+Pass
+[Play "N"]
+CQ C4 C3 CA
+H6 HK H3 H7
+HA H2 HT HQ
+C5 CK C6 C2
+H8 HJ H9 D8
+SA S9 S3 S4
+DT DQ DA D9
+D3 D2 DK D7
+D4 D6 DJ S8
+S7 H4 S2 SK
+D5 H5 S6 SQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "12"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8.54.AQ9542.J986 AQJT72.A97.6.K32 K54.KQT82.KJT.Q7 963.J63.873.AT54"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+3D 3S Pass Pass
+Pass
+[Play "E"]
+HK H3 H4 HA
+S4 S3 S8 SA
+S5 S9 D2 S2
+SK S6 D4 S7
+DK D3 D5 D6
+DJ D7 DA ST
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "12"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8.54.AQ9542.J986 AQJT72.A97.6.K32 K54.KQT82.KJT.Q7 963.J63.873.AT54"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1S 2H Pass
+Pass X Pass 2S
+3D 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+DT D3 DA D6
+DJ D7 D4 S7
+S5 S3 S8 SA
+S4 S6 H4 ST
+C7 C4 C6 CK
+CQ CA C9 C3
+DK D8 D2 SJ
+SK S9 H5 S2
+HK H3 D5 HA
+HQ H6 - H9
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "13"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T9.Q984.J2.KT532 K.KJT65.83.AJ876 AQ7642.3.AKQ9.Q4 J853.A72.T7654.9"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1H X 2H
+3C Pass 3S Pass
+3NT Pass Pass Pass
+[Play "E"]
+H6 H3 HA H4
+HT C4 H7 H9
+HK S2 H2 H8
+H5 CQ D5 HQ
+SK SA S3 S9
+D3 D9 DT DJ
+C6 SQ S5 ST
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "13"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:T9.Q984.J2.KT532 K.KJT65.83.AJ876 AQ7642.3.AKQ9.Q4 J853.A72.T7654.9"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+140"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1H X 2H
+2NT 3H 3S Pass
+Pass Pass
+[Play "W"]
+HA H4 H5 H3
+H7 H8 HT S2
+S3 S9 SK S4
+H2 H9 HK S7
+S8 ST C7 SA
+S5 C2 C6 SQ
+C9 C3 CA CQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "14"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KT982.AQ52..K653 AQ74.4.K984.AT98 3.T986.QT753.QJ2 J65.KJ73.AJ62.74"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+110"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1S Pass 1NT Pass
+2H Pass Pass Pass
+[Play "S"]
+H4 H8 HK HA
+C8 CQ C4 C6
+SA S3 S6 SK
+D4 D5 DJ H2
+CA C2 C7 C5
+C9 CJ H3 C3
+CT H6 H7 HQ
+D8 D3 HJ CK
+S4 H9 SJ S2
+D9 DT DA H5
+- - - S8
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "14"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KT982.AQ52..K653 AQ74.4.K984.AT98 3.T986.QT753.QJ2 J65.KJ73.AJ62.74"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-50"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1S Pass Pass X
+Pass 2NT Pass Pass
+Pass
+[Play "W"]
+S3 S5 S8 SQ
+D5 DA H2 D4
+CJ C4 C3 CT
+HT HJ HQ H4
+CQ C7 C5 C9
+H8 H3 H5 S7
+C2 S6 CK CA
+DQ D2 S2 D9
+H6 H7 HA S4
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "15"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T53.QJ8.98753.75 Q4.K92.AJ64.AJ82 J2.AT76543.KT.KT AK9876..Q2.Q9643"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+450"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1D 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "S"]
+HQ H2 H5 S6
+S5 SQ S2 S7
+S3 S4 SJ SA
+ST D4 H3 SK
+C5 C2 CK CQ
+C7 CA CT C3
+- CJ H4 -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "15"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T53.QJ8.98753.75 Q4.K92.AJ64.AJ82 J2.AT76543.KT.KT AK9876..Q2.Q9643"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+480"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+Pass 1NT 2D 3H
+Pass 3NT Pass 4H
+X 4S Pass Pass
+Pass
+[Play "N"]
+HA S6 H8 H2
+S2 S9 S3 SQ
+SJ SA S5 S4
+H6 SK ST D4
+CK CQ C5 C2
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "16"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ2.8643.AT.QT53 T75.5.98632.9874 Q863.A9.KQ74.KJ2 K94.KQJT72.J5.A6"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass Pass 1NT 2H
+3NT Pass Pass Pass
+[Play "S"]
+HK H3 H5 HA
+CA C3 C4 C2
+HQ - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "16"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ2.8643.AT.QT53 T75.5.98632.9874 Q863.A9.KQ74.KJ2 K94.KQJT72.J5.A6"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-200"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass Pass 1NT 3H
+X Pass 3S Pass
+3NT Pass Pass Pass
+[Play "S"]
+HK H3 H5 H9
+H2 H4 D2 HA
+CA C3 C4 CK
+HQ - - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "17"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J96.J732.93.J985 AT.A65.Q86.AKQT3 K873.K9.AK754.76 Q542.QT84.JT2.42"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+180"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1C 1D X
+Pass 2NT Pass Pass
+Pass
+[Play "S"]
+D4 DJ D3 D8
+C7 C2 C5 CT
+C6 C4 C8 CA
+S8 S2 C9 CK
+S3 D2 CJ CQ
+S7 H4 H2 C3
+SK S4 S6 SA
+D5 SQ S9 ST
+DK DT D9 D6
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "17"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J96.J732.93.J985 AT.A65.Q86.AKQT3 K873.K9.AK754.76 Q542.QT84.JT2.42"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-100"]
+[VisitTeam "Hok 1"]
+[Auction "N"]
+Pass 1C 1D X
+Pass 2D Pass 2H
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+D4 DJ D9 D6
+C6 C2 C5 CA
+C7 C4 C8 CK
+S7 D2 C9 CQ
+DA DT D3 D8
+DK S2 S6 DQ
+D7 H4 S9 CT
+D5 S4 H7 H5
+S3 SQ SJ ST
+H9 H8 H2 HA
+S8 S5 H3 SA
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "18"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:5.A72.KQJ54.AJ53 AKQT.QJ8.T9832.7 4.KT654.76.K9842 J987632.93.A.QT6"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+790"]
+[VisitTeam "Hok 1"]
+[Auction "E"]
+1D 1S X 4S
+X Pass Pass Pass
+[Play "W"]
+D7 DA D4 D2
+S4 S2 S5 SA
+C4 CT CJ C7
+HK H3 H2 HQ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "19"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J7.KT4.JT842.AQ7 KQ32.A6.K93.KT84 T.QJ987532.A76.5 A98654..Q5.J9632"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "-300"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1D 1NT 4H 4S
+5H 5S 6H Pass
+Pass X Pass Pass
+Pass
+[Play "E"]
+SA S7 S2 ST
+C3 CA C4 C5
+S4 HT H6 H3
+S5 SJ SK H7
+S8 H4 HA H8
+DQ D2 D3 D6
+C2 CQ CK H2
+S6 HK S3 H5
+D5 DJ D9 D7
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "19"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J7.KT4.JT842.AQ7 KQ32.A6.K93.KT84 T.QJ987532.A76.5 A98654..Q5.J9632"]
+[Declarer "S"]
+[Contract "6HX"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "-500"]
+[VisitTeam "Hok 1"]
+[Auction "S"]
+1NT Pass 4D Pass
+4H Pass Pass 4S
+Pass Pass 5D Pass
+5H 5S Pass Pass
+6D X 6H Pass
+Pass X Pass Pass
+Pass
+[Play "W"]
+SK ST S5 S7
+HA H2 S9 H4
+H6 H3 S6 HK
+S2 H5 S4 SJ
+CK C5 C6 CQ
+C4 D6 CJ CA
+D3 D7 DQ DJ
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "20"]
+[West "Hoogenkamp"]
+[North "Jansen"]
+[East "Verhees"]
+[South "Westerhof"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q2.T986.Q954.T52 A8643.3.JT3.AK73 KJ97.Q52.K72.J84 T5.AKJ74.A86.Q96"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[HomeTeam "Crash"]
+[Room "Closed"]
+[Round "5"]
+[Score "+630"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 2NT
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+D4 DJ DK DA
+C5 CA C8 C6
+H6 H3 H5 HJ
+HT S3 H2 HK
+H9 S4 HQ HA
+H8 S6 S9 H7
+SQ SA S7 S5
+C2 C3 C4 CQ
+D5 S8 D7 H4
+CT CK CJ C9
+- C7 - -
+*
+
+[Event "1997 Dutch Teams Final"]
+[Site "Utrecht, The Netherlands NLD"]
+[Date "1997.12.14"]
+[Board "20"]
+[West "Jansma"]
+[North "Vis"]
+[East "Van Cleeff"]
+[South "Versluis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q2.T986.Q954.T52 A8643.3.JT3.AK73 KJ97.Q52.K72.J84 T5.AKJ74.A86.Q96"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[HomeTeam "Crash"]
+[Room "Open"]
+[Round "#"]
+[Score "+600"]
+[VisitTeam "Hok 1"]
+[Auction "W"]
+Pass 1S Pass 2H
+Pass 2S Pass 2NT
+Pass 3C Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Play "W"]
+D5 DJ DK DA
+S2 S3 S7 S5
+D4 D3 D7 D8
+SQ S4 S9 ST
+DQ DT D2 D6
+D9 S6 H2 H4
+HT H3 - -
+*
+

@@ -1,0 +1,4145 @@
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "1"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ983.Q6.J93.KQ9 Q4.AJ93.72.A7542 765.K82.AK85.863 AT2.T754.QT64.JT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1S
+Pass 2C Pass 2S
+AP
+[Play "N"]
+D7 -  -  -
+*
+[Description "1999 Vanderbilt"]
+[Stage "F:1"]
+[HomeTeam "Jacobs"]
+[VisitTeam "Robinson"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "1"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KJ983.Q6.J93.KQ9 Q4.AJ93.72.A7542 765.K82.AK85.863 AT2.T754.QT64.JT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+1NT AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "2"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T.Q83.KJT764.J72 A87.A954.Q92.K54 KJ932.J62.A3.A93 Q654.KT7.85.QT86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 2D AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "2"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T.Q83.KJT764.J72 A87.A954.Q92.K54 KJ932.J62.A3.A93 Q654.KT7.85.QT86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "E"]
+1S Pass 1NT AP
+[Play "N"]
+H4 H2 HT HQ
+S7 S2 SQ ST
+H5 H6 HK H3
+C5 C3 CT C2
+HA HJ H7 H8
+H9 C9 S4 C7
+C4 CA C6 CJ
+D2 DA D5 D4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "3"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJT2.83.AQ8.J542 K93.74.JT9765.T8 876.AKQT65.3.A97 A54.J92.K42.KQ63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "3"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:QJT2.83.AQ8.J542 K93.74.JT9765.T8 876.AKQT65.3.A97 A54.J92.K42.KQ63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1D Pass 3D 3H
+Pass 3NT AP
+[Play "N"]
+DT D3 DK DA
+DJ S6 D4 DQ
+H4 HA H2 H8
+H7 HK H9 H3
+D5 HQ HJ D8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "4"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKQ752.T8432.6.4 J4.KQJ.KJT8.AQ97 T9.965.A9742.T86 863.A7.Q53.KJ532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "4"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKQ752.T8432.6.4 J4.KQJ.KJT8.AQ97 T9.965.A9742.T86 863.A7.Q53.KJ532"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "10"]
+[Auction "W"]
+1S X Pass 3C
+Pass 3S Pass 4C
+AP
+[Play "W"]
+SQ S4 ST S3
+SK SJ S9 S6
+SA CA -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "5"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T7532.K72.T85.63 A6.Q5.KQJ62.AK87 J4.A9864.A9.QT54 KQ98.JT3.743.J92"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "9"]
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "5"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T7532.K72.T85.63 A6.Q5.KQJ62.AK87 J4.A9864.A9.QT54 KQ98.JT3.743.J92"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "10"]
+[Auction "N"]
+1C 1NT X Pass
+2D Pass 2S Pass
+3C Pass 3D AP
+[Play "E"]
+SJ S8 S7 SA
+DA D3 D5 DQ
+S4 SK S5 S6
+D9 D4 D8 DK
+H4 D7 DT DJ
+H6 HJ HK H5
+C5 C2 C6 CA
+H8 H3 H2 HQ
+CQ C9 C3 C7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "6"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT984.AQJ2.7.AJ8 AQ3.T75.KJT43.52 762.4.Q82.KQT976 K5.K9863.A965.43"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Auction "E"]
+Pass 1H 1S X
+2C Pass Pass 3H
+3S AP
+[Play "N"]
+C5 CK C4 CJ
+-  S6 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "6"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:JT984.AQJ2.7.AJ8 AQ3.T75.KJT43.52 762.4.Q82.KQT976 K5.K9863.A965.43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT 2D Pass
+2S AP
+[Play "S"]
+SK S4 S3 S6
+S5 S8 SA S2
+C4 S9 SQ S7
+DA D7 DT DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "7"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ86.JT4.KJ6.Q96 32.Q97.43.A87532 T754.A32.AQ82.J4 KJ9.K865.T975.KT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2NT
+AP
+[Play "N"]
+C5 C4 CK C6
+C2 CJ CT C9
+D4 D2 D5 DK
+D3 D8 D7 DJ
+S3 DQ D9 D6
+S2 DA DT S8
+H7 S4 S9 SQ
+CA S5 H8 CQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "7"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AQ86.JT4.KJ6.Q96 32.Q97.43.A87532 T754.A32.AQ82.J4 KJ9.K865.T975.KT"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2NT
+Pass 3NT AP
+[Play "N"]
+C2 C4 CT CQ
+D3 D8 D5 DJ
+D4 D2 D7 DK
+S2 DQ DT D6
+S3 DA D9 S6
+H7 S4 S9 SQ
+H9 S5 SJ SA
+C3 S7 SK S8
+C5 CJ CK C6
+HQ HA H6 HJ
+C7 ST H5 C9
+C8 H2 HK H4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "8"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J4.KJ8632.97.765 K2.T7.KQT63.AKQ3 QT976.AQ54.A42.9 A853.9.J85.JT842"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Auction "W"]
+Pass 1C X 2C
+4H 5C AP
+[Play "E"]
+HA H9 H8 HT
+C9 C2 C6 CA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "8"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J4.KJ8632.97.765 K2.T7.KQT63.AKQ3 QT976.AQ54.A42.9 A853.9.J85.JT842"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+2H 3D 4H AP
+[Play "N"]
+CA C9 CT C6
+DK DA D5 D7
+S2 S6 SA SJ
+DQ D2 DJ D9
+DT D4 D8 H2
+C3 H4 C4 C5
+H7 H5 H9 HJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "9"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K32.72.764.QJT92 85.QJ84.AJ.AK754 QT76.AKT6.K953.6 AJ94.953.QT82.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "N"]
+1NT AP
+[Play "E"]
+HK H3 H2 H4
+SQ SA S2 S5
+HA H5 H7 HQ
+S7 S4 SK S8
+C6 C3 CT C4
+D3 C8 CQ CK
+D5 D2 D4 DA
+DK D8 D6 DJ
+HT H9 D7 HJ
+H6 S9 C2 H8
+S6 -  -  C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "9"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K32.72.764.QJT92 85.QJ84.AJ.AK754 QT76.AKT6.K953.6 AJ94.953.QT82.83"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+1D Pass 1S Pass
+1NT AP
+[Play "E"]
+D3 D2 D6 DJ
+C6 C8 CQ C4
+D5 C3 CJ CA
+HK H3 H7 HQ
+SQ SA S2 S5
+HT H5 H2 H8
+D9 DT D4 DA
+HA H9 C2 H4
+ST SJ SK S8
+-  -  D7 -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "10"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:854.AJT84.AQ2.K7 J732.Q.T94.AQ852 AQ96.K3.J76.J943 KT.97652.K853.T6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 1NT Pass
+2NT Pass 3NT AP
+[Play "N"]
+C5 C3 CT CK
+HQ HK H2 H4
+C8 H3 H5 H8
+C2 D6 H6 HA
+DT S6 H7 HJ
+D4 DJ DK D2
+D9 D7 D3 DA
+S2 C4 H9 HT
+S3 C9 D5 DQ
+S7 SA ST S4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "10"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:854.AJT84.AQ2.K7 J732.Q.T94.AQ852 AQ96.K3.J76.J943 KT.97652.K853.T6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2H Pass
+3NT AP
+[Play "N"]
+C2 C3 CT CK
+HQ HK H2 H4
+D9 D6 D8 DQ
+CQ C4 C6 C7
+S7 S6 ST S5
+C5 H3 H7 H8
+D4 D7 D3 DA
+C8 C9 H5 HA
+S2 DJ H6 HJ
+DT S9 H9 HT
+S3 SA SK S4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "11"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ52.J95.J54.963 8764.T2.63.KJ852 Q9.873.KT98.AQ74 AT3.AKQ64.AQ72.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+2D Pass 2H Pass
+2S Pass 2NT Pass
+3NT AP
+[Play "E"]
+C4 CT C3 C2
+H3 HA H5 H2
+H7 HK H9 HT
+H8 HQ HJ D3
+D8 H4 D4 D6
+D9 H6 S5 S6
+S9 SA S2 S4
+SQ S3 SK S7
+DT ST SJ S8
+CQ D2 C9 CJ
+CA D7 C6 C5
+C7 DQ D5 C8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "11"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ52.J95.J54.963 8764.T2.63.KJ852 Q9.873.KT98.AQ74 AT3.AKQ64.AQ72.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+2D Pass 2H Pass
+3S Pass 3NT AP
+[Play "E"]
+SQ SA S5 S6
+H3 HA H9 H2
+H7 HK HJ HT
+H8 HQ H5 C2
+C4 H6 C3 D3
+DT H4 C9 C5
+CA CT C6 CK
+CQ D2 S2 C8
+S9 S3 SJ S4
+C7 ST SK S7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "12"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ84.QT42.AJT.K3 J52.65.K864.QT82 T93.9873.Q73.754 A76.AKJ.952.AJ96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "4"]
+[Auction "W"]
+1NT AP
+[Play "N"]
+C2 C4 CA C3
+C8 C5 C6 CK
+H6 H3 HJ HT
+CQ C7 C9 H2
+CT D3 CJ H4
+H5 H7 HK HQ
+SJ S3 S6 S4
+S5 S9 SA SQ
+D8 H8 HA DT
+-  -  D2 -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "12"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KQ84.QT42.AJT.K3 J52.65.K864.QT82 T93.9873.Q73.754 A76.AKJ.952.AJ96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+1NT AP
+[Play "N"]
+C2 C4 CA C3
+C8 C5 C9 CK
+H5 H3 HK HQ
+CT C7 CJ S4
+S2 S3 S6 SK
+H6 H7 HJ HT
+DK D3 D9 DJ
+CQ H8 C6 DT
+S5 S9 SA S8
+-  -  HA H2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "13"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQJ.74.A74.AQ873 AT76.KQ83.K86.62 5432.AT52.JT3.54 98.J96.Q952.KJT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1H X
+2H AP
+[Play "W"]
+SK S6 S3 S8
+H4 HQ H2 H6
+CQ C2 C5 CJ
+H7 H3 HA H9
+C3 H8 H5 HJ
+CA C6 C4 C9
+SJ SA S2 S9
+C7 HK HT D2
+SQ ST S4 D5
+DA -  -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "13"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQJ.74.A74.AQ873 AT76.KQ83.K86.62 5432.AT52.JT3.54 98.J96.Q952.KJT9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "7"]
+[Auction "N"]
+1D Pass 1NT 2C
+AP
+[Play "N"]
+HK HT H6 H7
+H3 HA H9 H4
+H8 H2 HJ C3
+S7 S2 S9 SQ
+SA S3 S8 SK
+S6 S4 D2 SJ
+D6 D3 D5 DA
+DK DT D9 D4
+C2 C4 CJ CQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "14"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K8532.96.743.T84 AQJT9.A32.Q92.93 6.KJ.KJT85.AKQ75 74.QT8754.A6.J62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "E"]
+1D 2H Pass 2NT
+3C Pass 3D 3H
+AP
+[Play "W"]
+D3 D9 DT DA
+S5 S9 S6 S7
+H6 HA HJ H4
+H9 H2 HK H5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "14"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K8532.96.743.T84 AQJT9.A32.Q92.93 6.KJ.KJT85.AKQ75 74.QT8754.A6.J62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Auction "E"]
+1D 2H Pass 3H
+AP
+[Play "W"]
+S2 S9 S6 S7
+C4 C3 CQ C6
+C8 C9 CA C2
+CT H2 CK CJ
+H6 HA HJ H4
+H9 H3 HK H5
+D4 D2 DK DA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "15"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A3.QJ542.A5.7632 K9752.K98.K42.T4 JT4.T73.T83.KJ95 Q86.A6.QJ976.AQ8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+1NT 2C 2H 3C
+3NT AP
+[Play "W"]
+H4 H8 HT H6
+H2 H9 H7 HA
+SA S2 S4 S6
+HQ HK H3 C8
+DA D2 D3 DQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "15"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:A3.QJ542.A5.7632 K9752.K98.K42.T4 JT4.T73.T83.KJ95 Q86.A6.QJ976.AQ8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1NT Pass 2H Pass
+2S Pass 2NT Pass
+4S AP
+[Play "W"]
+DA D2 D3 D6
+D5 DK D8 D7
+SA S2 S4 SQ
+C7 C4 CK CA
+S3 SK SJ S8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "16"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ.K875.A3.AK852 97532.QJ9.Q2.976 K8.64.KJT974.QJ3 JT64.AT32.865.T4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "10"]
+[Auction "W"]
+2NT Pass 4C Pass
+4D Pass 6NT AP
+[Play "N"]
+HQ H4 HA H5
+H9 H6 H2 HK
+C6 CQ C4 C2
+C7 C3 CT CK
+C9 CJ H3 C5
+DQ DJ D6 D3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "16"]
+[West "Katz"]
+[North "Woolsey"]
+[East "Jacobs"]
+[South "Stewart"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ.K875.A3.AK852 97532.QJ9.Q2.976 K8.64.KJT974.QJ3 JT64.AT32.865.T4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+2NT Pass 4C Pass
+4D Pass 6D AP
+[Play "N"]
+HQ H4 HA H8
+H9 H6 H2 HK
+D2 D4 D6 DA
+DQ DK D5 D3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "17"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT.T6543.643.QJ4 A9863.KQ987.K8.T KJ2.J.AJ9.AK9865 754.A2.QT752.732"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "N"]
+1S 2C 2S 3C
+3H 5C X AP
+[Play "S"]
+C2 CQ CT C5
+S4 SQ SA S2
+D7 D3 DK DA
+S5 ST S3 SK
+S7 D4 S6 SJ
+DT D6 D8 D9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "17"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:QT.T6543.643.QJ4 A9863.KQ987.K8.T KJ2.J.AJ9.AK9865 754.A2.QT752.732"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+1S X 2C Pass
+2H 3C Pass Pass
+3H Pass 3S AP
+[Play "E"]
+CA C2 CQ CT
+CK C3 C4 S3
+D9 DQ D3 D8
+DA D5 D4 DK
+HJ HA H3 H7
+S2 H2 H4 HK
+DJ D2 D6 S6
+SK D7 H5 HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "18"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT97643.53.AT82. .AKJ9.KJ64.QJ843 AJ8.T742.Q975.A6 K52.Q86.3.KT9752"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5SX"]
+[Result "9"]
+[Auction "E"]
+1NT Pass 4S X
+Pass 5C 5S Pass
+Pass X AP
+[Play "N"]
+HA H2 H8 H5
+HK H4 H6 H3
+H9 H7 HQ S3
+C4 SA S2 SQ
+D4 SJ SK S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "18"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT97643.53.AT82. .AKJ9.KJ64.QJ843 AJ8.T742.Q975.A6 K52.Q86.3.KT9752"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass Pass 3S X
+Pass 3NT AP
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "19"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:654.AKT.AT2.Q542 AQJT.754.J75.763 972.863.Q843.KJ8 K83.QJ92.K96.AT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "S"]
+1C Pass 1S Pass
+1NT AP
+[Play "W"]
+HA H4 H3 H9
+C2 C3 CK C9
+HK H5 H8 HQ
+C4 C7 CJ CT
+C5 C6 C8 CA
+S4 ST S2 S3
+HT H7 H6 HJ
+S5 D5 S7 H2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "19"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:654.AKT.AT2.Q542 AQJT.754.J75.763 972.863.Q843.KJ8 K83.QJ92.K96.AT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "S"]
+1NT AP
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "20"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT942.8.AJ73.J72 AQ83.53.Q5.T9643 J5.AT9642.K842.K 76.KQJ7.T96.AQ85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result "6"]
+[Auction "W"]
+2D Pass 2S X
+Pass 2NT AP
+[Play "E"]
+SJ S6 S4 SQ
+CK CA C7 C9
+HA HK H8 H3
+S5 S7 S9 SA
+H2 CQ C2 C3
+H4 HQ CJ H5
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "20"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT942.8.AJ73.J72 AQ83.53.Q5.T9643 J5.AT9642.K842.K 76.KQJ7.T96.AQ85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 2H AP
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "21"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q875.T9.AK9.AJ73 A32.AQ865.QT4.92 KT.KJ42.J653.Q65 J964.73.872.KT84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1H Pass Pass X
+Pass 2NT Pass 3NT
+AP
+[Play "S"]
+H7 H9 HQ HK
+D2 DA D4 D6
+S6 S5 S2 SK
+C4 CJ C2 C6
+C8 CA C9 C5
+CK C3 S3 CQ
+CT C7 H5 H2
+D7 DK DT D3
+H3 HT HA H4
+-  -  H8 HJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "21"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q875.T9.AK9.AJ73 A32.AQ865.QT4.92 KT.KJ42.J653.Q65 J964.73.872.KT84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "N"]
+1H Pass Pass X
+Pass 1NT AP
+[Play "S"]
+H7 H9 HQ HK
+C4 CA C9 C6
+CK C3 C2 CQ
+H3 HT HA H2
+S4 S5 H8 HJ
+D8 DA D4 D3
+S6 S7 SA ST
+-  -  H6 H4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "22"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q9732.A4.QJ964.7 KJ4.QT65.T8.QT95 A865.J82.2.AKJ82 T.K973.AK753.643"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+2H Pass 2NT Pass
+3S Pass 4D Pass
+4H Pass 4S AP
+[Play "S"]
+DA D4 D8 D2
+H3 HA H5 H2
+D3 D6 DT S5
+C3 C7 C5 CA
+C4 H4 C9 CK
+H7 S2 H6 H8
+D5 D9 CT S6
+C6 S7 CQ C2
+D7 DJ SJ SA
+HK S3 HT HJ
+DK DQ HQ S8
+H9 S9 SK CJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "22"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q9732.A4.QJ964.7 KJ4.QT65.T8.QT95 A865.J82.2.AKJ82 T.K973.AK753.643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+1C 1D 1S Pass
+3S Pass 4S AP
+[Play "N"]
+DT D2 DK D6
+H5 H2 H3 HA
+C5 CA C3 C7
+C9 CK C6 H4
+S4 SA ST S2
+SJ S5 D3 S7
+SK S6 D5 S3
+H6 H8 HK S9
+D8 HJ DA DJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "23"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K98.QJT.QJ92.AQ3 QJ3.A9875.74.K64 AT6542.K3.T3.J52 7.642.AK865.T987"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT Pass 4H
+Pass 4S AP
+[Play "N"]
+D7 D3 DK DJ
+D4 DT DA D2
+C4 C2 C9 CA
+SJ SA S7 S9
+S3 S2 D6 SK
+SQ C5 -  D9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "23"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K98.QJT.QJ92.AQ3 QJ3.A9875.74.K64 AT6542.K3.T3.J52 7.642.AK865.T987"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3S
+AP
+[Play "N"]
+C4 C2 C7 CQ
+SQ SA S7 S9
+D4 D3 D5 DQ
+H5 HK H2 HT
+D7 DT DA D2
+C6 C5 C8 CA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "24"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK5.653.AQJT2.97 J9.AJ874.K8.A632 QT8732.QT.954.K4 64.K92.763.QJT85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "9"]
+[Auction "W"]
+1D 1H 1S 2H
+X Pass 2S Pass
+Pass 3C 3S 4C
+AP
+[Play "E"]
+S8 S4 SA S9
+S2 S6 SK SJ
+D4 D3 DA D8
+D5 D6 D2 DK
+C4 C5 C7 CA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "24"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AK5.653.AQJT2.97 J9.AJ874.K8.A632 QT8732.QT.954.K4 64.K92.763.QJT85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+1NT 2H 3D Pass
+4S AP
+[Play "N"]
+HA HT H2 H5
+H8 HQ HK H6
+DK D4 D7 DQ
+CA C4 C5 C7
+HJ S2 H9 H3
+S9 S3 S4 SA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "25"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ.KQT953.J3.AJ8 T64.42.Q842.7653 KJ972.J.AT975.42 853.A876.K6.KQT9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass 1S Pass 3H
+Pass 4H AP
+[Play "N"]
+C5 C2 CQ CA
+H2 HJ H6 HQ
+H4 D5 H7 HK
+C3 D7 HA HT
+C6 C4 CK C8
+DQ DA D6 D3
+-  S2 S3 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "25"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ.KQT953.J3.AJ8 T64.42.Q842.7653 KJ972.J.AT975.42 853.A876.K6.KQT9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+Pass Pass 1C 1H
+Pass 1S Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "N"]
+C5 C2 CK C8
+C3 C4 CT CJ
+H4 HJ HA HK
+C6 D5 CQ CA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "26"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:543.AKJT75.QT5.J AKT2.Q4.AJ94.Q64 98.32.7632.A9832 QJ76.986.K8.KT75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 2D 2NT
+Pass 3C Pass 3D
+Pass 3H Pass 3S
+Pass 4S AP
+[Play "E"]
+H3 H6 HA H4
+H2 H8 HK HQ
+CA C5 CJ C6
+C9 C7 S3 C4
+-  -  H5 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "26"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:543.AKJT75.QT5.J AKT2.Q4.AJ94.Q64 98.32.7632.A9832 QJ76.986.K8.KT75"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 2H X
+Pass 3S Pass 4S
+AP
+[Play "W"]
+HA H4 H2 H6
+HK HQ H3 H8
+CJ C4 CA C5
+S4 C6 C9 C7
+S5 SA S8 S6
+S3 S2 S9 SQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "27"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ97632.942.4.87 K8.AKT753.J72.42 4.Q.AK98653.Q953 JT5.J86.QT.AKJT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1C 3S 4H AP
+[Play "E"]
+DA DT D4 D7
+DK DQ H2 D2
+S4 S5 SA S8
+HQ ST S6 SK
+D6 HJ -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "27"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ97632.942.4.87 K8.AKT753.J72.42 4.Q.AK98653.Q953 JT5.J86.QT.AKJT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+1C 3S 4H AP
+[Play "E"]
+DA DT D4 D2
+DK DQ H2 D7
+S4 S5 SA S8
+HQ ST SQ SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "28"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT6.J7.T6.AKQT95 KQ3.852.Q75.J843 J984.AK63.942.62 752.QT94.AKJ83.7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+2C Pass Pass X
+XX Pass Pass 2D
+Pass Pass 2H AP
+[Play "S"]
+DA D6 D7 D4
+H4 HJ H2 H3
+H9 H7 H5 HA
+HT DT H8 HK
+C7 CQ C3 C6
+HQ CK C4 C2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "28"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AT6.J7.T6.AKQT95 KQ3.852.Q75.J843 J984.AK63.942.62 752.QT94.AKJ83.7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "N"]
+SQ S4 S7 SA
+C4 C2 C7 CK
+C3 C6 S2 CQ
+SK S8 S5 S6
+DQ D2 D3 D6
+D7 D4 DJ DT
+D5 D9 DK C5
+S3 H3 DA C9
+H2 H6 D8 CT
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "29"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT754.5.A.QT5432 2.AKQT432.T75.97 K863.76.Q986432. AJ9.J98.KJ.AKJ86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "N"]
+3H Pass 4H 4S
+Pass Pass X AP
+[Play "N"]
+HA H6 H8 H5
+HK H7 H9 S4
+C7 S3 C6 C2
+D5 D2 DJ DA
+C9 S6 CJ C3
+D7 D3 DK S5
+DT S8 C8 C4
+H2 DQ S9 ST
+H3 SK CK C5
+S2 D9 HJ CT
+HQ D4 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "29"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QT754.5.A.QT5432 2.AKQT432.T75.97 K863.76.Q986432. AJ9.J98.KJ.AKJ86"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6HX"]
+[Result "9"]
+[Auction "N"]
+4D Pass 6H Pass
+Pass X AP
+[Play "W"]
+DA D5 D2 DJ
+C2 C7 H6 C6
+H5 D7 D3 DK
+C3 C9 H7 C8
+-  -  DQ HJ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "30"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:852.KQ.QJT84.T63 A43.JT82.K9.K975 KT7.543.A5.AJ842 QJ96.A976.7632.Q"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "8"]
+[Auction "E"]
+1NT Pass Pass X
+XX Pass 2D Pass
+Pass 2H AP
+[Play "W"]
+DQ D9 D5 D2
+S2 S3 SK S9
+HQ H2 H5 H6
+D4 DK DA D7
+HK H8 H4 HA
+D8 HT C2 D3
+C3 C5 C4 CQ
+S5 SA S7 S6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "30"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:852.KQ.QJT84.T63 A43.JT82.K9.K975 KT7.543.A5.AJ842 QJ96.A976.7632.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "E"]
+1C Pass 1NT AP
+[Play "N"]
+HT H3 HA HQ
+H8 H4 H7 HK
+C5 CJ CQ C3
+HJ H5 H9 D4
+H2 C2 H6 DJ
+S3 SK SQ S2
+C7 CA D2 C6
+DK D5 D3 DT
+D9 DA D6 DQ
+-  C4 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "31"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ2.Q987.T743.K7 Q97.T6542.5.QT32 K863.A.AKQJ6.J86 T54.KJ3.982.A954"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H Pass 2NT
+Pass 3NT AP
+[Play "N"]
+C2 C6 CA C7
+H2 HA HJ H7
+D5 DA D2 D3
+C3 DK D8 D4
+H4 DQ D9 D7
+S7 DJ C4 DT
+H6 D6 C5 H8
+SQ S3 S4 SJ
+H5 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "31"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:AJ2.Q987.T743.K7 Q97.T6542.5.QT32 K863.A.AKQJ6.J86 T54.KJ3.982.A954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "11"]
+[Auction "S"]
+Pass Pass Pass 1D
+Pass 1H Pass 1S
+Pass 2D Pass 3C
+Pass 4C Pass 5D
+AP
+[Play "S"]
+CA C7 C2 C6
+C4 CK CT C8
+D2 D3 D5 DQ
+D8 D4 H2 DA
+S4 SA S7 S3
+H3 H7 H4 HA
+C5 SJ CQ CJ
+-  -  C3 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "32"]
+[West "Woolsey"]
+[North "Lauria"]
+[East "Stewart"]
+[South "Versace"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJ85.AT6.J95.K95 74.J72.T863.A872 K96.KQ984.AQ74.J AT32.53.K2.QT643"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1D Pass 1H Pass
+1NT Pass 2D Pass
+2S Pass 4H AP
+[Play "S"]
+C3 C5 CA CJ
+CT C9 C7 H4
+H3 HT H2 HK
+H5 HA H7 H9
+C4 H6 HJ HQ
+SA S5 S4 SK
+C6 CK C2 D4
+S2 SQ S7 S6
+S3 SJ D3 S9
+DK DJ D6 D7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "32"]
+[West "Katz"]
+[North "Robinson"]
+[East "Jacobs"]
+[South "Boyd"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJ85.AT6.J95.K95 74.J72.T863.A872 K96.KQ984.AQ74.J AT32.53.K2.QT643"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1H Pass
+2C Pass 4H AP
+[Play "S"]
+C3 C5 CA CJ
+DK D5 D8 D4
+H3 H6 H2 HK
+H5 HA H7 H4
+C4 CK C2 S6
+C6 C9 C7 H8
+SA S5 S4 S9
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "33"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ93.8632.A8754. 86.KQ95.K32.T982 JT42.J74..AKQ753 A75.AT.QJT96.J64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 1D X
+2C 3S Pass 4S
+AP
+[Play "S"]
+DQ DA DK H4
+S5 SK S6 S2
+SA S3 S8 ST
+HA H2 H5 H7
+HT H3 HQ HJ
+S7 H6 H9 S4
+DJ D4 D3 SJ
+C4 H8 C2 CA
+C6 D5 C8 CK
+CJ D7 C9 CQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "33"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ93.8632.A8754. 86.KQ95.K32.T982 JT42.J74..AKQ753 A75.AT.QJT96.J64"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 1D 2D
+X 4S AP
+[Play "S"]
+DQ DA D3 H4
+S5 SK S6 S2
+SA S3 S8 SJ
+HA H2 H9 H7
+HT H3 HQ HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "34"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98.K8643.QJ642.T JT542.Q.KT853.73 AQ63.AJT52..J864 K7.97.A97.AKQ952"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+2D 3C 4H AP
+[Play "N"]
+C7 C4 CK CT
+C3 C6 CQ H3
+D3 H2 D7 D4
+HQ HA H7 H4
+D5 HJ H9 HK
+D8 HT D9 D2
+SJ S3 S7 S8
+S5 SQ SK S9
+DT H5 DA D6
+S2 SA C2 DQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "34"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98.K8643.QJ642.T JT542.Q.KT853.73 AQ63.AJT52..J864 K7.97.A97.AKQ952"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1H 2C 4H AP
+[Play "S"]
+CA CT C3 C6
+SK S8 S2 SA
+S7 S9 S4 SQ
+C2 H3 -  S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "35"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J732.T5.K532.863 9865.764.QT97.T9 KT4.J92.A6.QJ752 AQ.AKQ83.J84.AK4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1D Pass
+2H Pass 3C Pass
+3NT Pass 4H AP
+[Play "W"]
+H5 H6 HJ HK
+C3 C9 C2 CA
+C6 CT C5 CK
+C8 H7 C7 C4
+HT H4 H2 HQ
+S7 S5 H9 HA
+D2 D9 DA D8
+S2 S6 S4 SQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "35"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J732.T5.K532.863 9865.764.QT97.T9 KT4.J92.A6.QJ752 AQ.AKQ83.J84.AK4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "11"]
+[Auction "S"]
+2C Pass 2D Pass
+2NT AP
+[Play "W"]
+D2 DT D6 D4
+H5 H4 H9 HK
+D3 D7 DA DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "36"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK74.AQ94.T97.JT Q2.5.AKJ8.AQ9832 T985.KJ2.632.K64 J63.T8763.Q54.75"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Auction "W"]
+1D 2C Pass Pass
+X Pass 2S AP
+[Play "S"]
+C7 CT CA C4
+C5 CJ CQ CK
+S3 SA S2 S5
+S6 SK SQ S8
+H3 H4 H5 HK
+H6 H9 D8 HJ
+H7 HQ C2 H2
+H8 HA C3 D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "36"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK74.AQ94.T97.JT Q2.5.AKJ8.AQ9832 T985.KJ2.632.K64 J63.T8763.Q54.75"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "9"]
+[Auction "W"]
+1C Pass 1S Pass
+2S 2NT Pass 3D
+AP
+[Play "W"]
+DT D8 D3 DQ
+CT CQ CK C5
+H4 H5 HK H6
+SK S2 S8 S6
+SA SQ S5 S3
+H9 DJ H2 H3
+CJ CA C4 C7
+D7 DA D2 D4
+D9 DK D6 D5
+-  C9 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "37"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:9.QT96.JT975.K53 AT842.A5.K832.A8 J53.K843.AQ4.J62 KQ76.J72.6.QT974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1S Pass 4S AP
+[Play "E"]
+S3 S6 S9 ST
+C6 C4 C3 CA
+C2 CQ CK C8
+H3 H2 H6 HA
+S5 SQ D5 S4
+CJ C7 C5 H5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "37"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:9.QT96.JT975.K53 AT842.A5.K832.A8 J53.K843.AQ4.J62 KQ76.J72.6.QT974"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1S Pass 3S Pass
+4S AP
+[Play "E"]
+H4 H2 H9 HA
+HK H7 H6 H5
+S3 S6 S9 ST
+C2 C4 C3 CA
+C6 CQ CK C8
+DA D6 DJ DK
+D4 S7 D5 D2
+CJ C7 C5 SA
+S5 SQ -  S2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "38"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ7.Q6.AJ7.T9743 932.A87.Q985.A82 T54.J5432.432.Q6 AQ86.KT9.KT6.KJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+C4 C2 CQ CK
+D7 DQ D2 D6
+DJ D5 D3 DT
+C3 C8 C6 CJ
+DA D8 D4 DK
+C7 CA H2 C5
+S7 S2 S4 SA
+H6 HA H3 H9
+HQ D9 H4 S6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "38"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ7.Q6.AJ7.T9743 932.A87.Q985.A82 T54.J5432.432.Q6 AQ86.KT9.KT6.KJ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+C4 C2 CQ CK
+DA D8 D3 DK
+C7 C8 C6 CJ
+DJ DQ D2 D6
+SK S9 S4 SQ
+C9 CA H4 C5
+H6 H7 H2 H9
+HQ -  -  HT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "39"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:953.Q862.8743.QT T8.K4.QJT952.853 76.JT973.AK.AJ42 AKQJ42.A5.6.K976"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+1C Pass 1D 1H
+1S 3H 3NT Pass
+4S AP
+[Play "W"]
+H6 HK HJ H5
+CT C3 C2 CK
+D3 D9 DK D6
+H2 H4 HT HA
+CQ C5 C4 C6
+S3 S8 S6 S4
+S5 C8 CJ C9
+S9 ST S7 S2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "39"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:953.Q862.8743.QT T8.K4.QJT952.853 76.JT973.AK.AJ42 AKQJ42.A5.6.K976"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT X
+XX 2H 3D Pass
+3S AP
+[Play "W"]
+H6 H4 HT HA
+S3 ST S6 S2
+S5 S8 S7 SA
+S9 D2 H3 SK
+H2 HK H7 H5
+CT C3 C2 CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "40"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A6.T2.AT84.K7532 QJ942.Q75.Q63.QT K8.943.K952.AJ94 T753.AKJ86.J7.86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "10"]
+[Auction "W"]
+1C Pass 2C 2H
+3C AP
+[Play "N"]
+H5 H3 HK H2
+H7 H4 HA HT
+HQ H9 H8 C2
+CQ C4 C6 CK
+CT CA C8 C5
+S2 SK S3 S6
+S4 S8 S5 SA
+D3 DK DJ D4
+DQ D2 D7 D8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "40"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A6.T2.AT84.K7532 QJ942.Q75.Q63.QT K8.943.K952.AJ94 T753.AKJ86.J7.86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+1C Pass 1D 1H
+2D 2H X Pass
+3D AP
+[Play "S"]
+HA H2 H5 H4
+S5 SA S2 S8
+HK HT HQ H3
+S3 S6 S4 SK
+D7 DA D3 D2
+DJ D4 D6 DK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "41"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT.JT8.Q642.7632 A87.Q.AJ75.AKJ85 J2.K976.K83.QT94 K96543.A5432.T9."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "13"]
+[Auction "N"]
+1C Pass 1S Pass
+2C Pass 2D Pass
+2S Pass 3H Pass
+4D Pass 4H Pass
+4S Pass 6S AP
+[Play "W"]
+HJ HQ HK HA
+H8 S7 H6 H2
+C2 CA C4 H3
+C3 CK C9 D9
+D2 DA D3 DT
+C6 C5 CT S3
+HT S8 H7 H4
+C7 C8 CQ S5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "41"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:QT.JT8.Q642.7632 A87.Q.AJ75.AKJ85 J2.K976.K83.QT94 K96543.A5432.T9."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+1C Pass 1S Pass
+2D Pass 2H Pass
+2S Pass 3H Pass
+4H Pass 4S AP
+[Play "W"]
+D4 D5 DK DT
+H8 HQ H6 HA
+HT S7 H7 H3
+ST S8 S2 SK
+SQ SA SJ S4
+C2 CA C4 H2
+C3 CK C9 H4
+C6 CJ CQ S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "42"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:97.92.A82.AKJT72 A62.AKQ853.J943. QT854.JT.65.Q985 KJ3.764.KQT7.643"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C 1H
+1S 2H 3C 4H
+AP
+[Play "E"]
+C8 C3 CK H3
+HT H4 H2 HA
+HJ H6 H9 HK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "42"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:97.92.A82.AKJT72 A62.AKQ853.J943. QT854.JT.65.Q985 KJ3.764.KQT7.643"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1C 1H
+1S 2H X 4C
+Pass 4H AP
+[Play "E"]
+D6 DK DA D3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "43"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK72.652.QJ97.82 J54.K8.8643.JT94 Q983.743.A2.AQ76 T6.AQJT9.KT5.K53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Auction "S"]
+1H Pass 1NT Pass
+2C AP
+[Play "W"]
+SK S5 S3 S6
+SA S4 S9 ST
+S2 SJ SQ D5
+DQ D3 DA DT
+D7 D4 D2 DK
+H2 HK H3 HJ
+C2 CJ C6 C3
+D9 D6 H4 C5
+H5 H8 H7 HA
+H6 D8 C7 H9
+C8 C4 CA CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "43"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK72.652.QJ97.82 J54.K8.8643.JT94 Q983.743.A2.AQ76 T6.AQJT9.KT5.K53"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1H Pass Pass X
+Pass 1S X 2S
+AP
+[Play "N"]
+CJ CA C5 C8
+CT C6 C3 C2
+HK H3 H9 H2
+H8 H4 HT H6
+C4 C7 CK H5
+S4 S3 ST S2
+S5 S8 S6 SK
+SJ SQ D5 S7
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "44"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT652.AJ9.A53.Q6 8.8642.QJ2.K8543 AKJ94.KT.K87.J92 73.Q753.T964.AT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2NT Pass
+3C Pass 3D Pass
+3H Pass 4S AP
+[Play "N"]
+DQ D7 D6 DA
+S8 SA S3 S5
+C5 SK S7 S6
+H2 HK H5 H9
+H4 HT H3 HJ
+H6 D8 H7 HA
+D2 DK D4 D3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "44"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT652.AJ9.A53.Q6 8.8642.QJ2.K8543 AKJ94.KT.K87.J92 73.Q753.T964.AT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+1S Pass 2C Pass
+2S Pass 2NT Pass
+3NT Pass 4S AP
+[Play "N"]
+DJ D7 D6 DA
+S8 SA S3 S2
+H2 HT H3 HA
+H4 HK H5 H9
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "45"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T842.AQJ9.K86.Q7 AK96.K72.AT95.A3 53.54.42.KJT9652 QJ7.T863.QJ73.84"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+1C 2C X 3C
+X Pass 3D Pass
+3S Pass 4S AP
+[Play "E"]
+CT C4 CQ C3
+C6 C8 C7 CA
+S3 SQ S2 S6
+H4 H3 HA H7
+H5 H6 H9 HK
+S5 S7 S4 SA
+C2 SJ S8 S9
+D2 DQ D6 D5
+D4 DJ DK DA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "45"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:T842.AQJ9.K86.Q7 AK96.K72.AT95.A3 53.54.42.KJT9652 QJ7.T863.QJ73.84"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4CX"]
+[Result "7"]
+[Auction "N"]
+1D 2C 2D X
+2S Pass 3D 3NT
+X 4C Pass Pass
+X AP
+[Play "S"]
+SQ S2 S6 S5
+DQ DK DA D2
+S7 S4 SK S3
+SJ S8 S9 C6
+C4 CQ CA C2
+D3 D6 DT D4
+D7 ST SA CJ
+C8 C7 C3 CK
+H6 HQ HK H4
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "46"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ6.KJ65.KJ3.Q73 KT93.8.A965.J962 84.9732.Q842.AK5 Q752.AQT4.T7.T84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+2S Pass 3H AP
+[Play "N"]
+C6 CA C8 C7
+H8 H2 H4 HJ
+C2 CK C4 C3
+C9 H3 HA H5
+S3 H7 HT HK
+DA D2 D7 DK
+CJ C5 CT CQ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "46"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AJ6.KJ65.KJ3.Q73 KT93.8.A965.J962 84.9732.Q842.AK5 Q752.AQT4.T7.T84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C Pass 2H Pass
+2S Pass 3H Pass
+4H AP
+[Play "N"]
+C2 CA C8 C7
+H8 H2 H4 HJ
+C6 CK C4 C3
+D5 H3 HA H5
+S9 S4 S2 S6
+C9 C5 CT CQ
+D6 D2 D7 DK
+DA D4 DT DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "47"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:963.J7.T63.AT875 AKJ852.Q3..KQ963 T7.AKT64.Q9752.2 Q4.9852.AKJ84.J4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1C 1H
+2D Pass 2S 3H
+3S Pass 4S AP
+[Play "E"]
+HK H2 H7 H3
+HA H5 HJ HQ
+D5 DA D3 C3
+S7 S4 S3 SA
+ST SQ S6 S2
+D2 DK D6 C6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "47"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:963.J7.T63.AT875 AKJ852.Q3..KQ963 T7.AKT64.Q9752.2 Q4.9852.AKJ84.J4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1S 3C
+X 3D 4C Pass
+4S AP
+[Play "E"]
+HA H2 H7 H3
+HK H5 HJ HQ
+HT H8 C7 S2
+S7 SQ S3 S5
+D2 DA D3 C3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "48"]
+[West "Boyd"]
+[North "Weichsel"]
+[East "Robinson"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQJ54.KQJ8.K.J52 632.A632.AQ75.K4 KT97.94.T432.AQT 8.T75.J986.98763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 3S Pass
+4S AP
+[Play "N"]
+S3 S7 S8 SJ
+S2 S9 C7 S4
+S6 ST C3 SA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "48"]
+[West "Versace"]
+[North "Becker"]
+[East "Lauria"]
+[South "Kamil"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQJ54.KQJ8.K.J52 632.A632.AQ75.K4 KT97.94.T432.AQT 8.T75.J986.98763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1S Pass 2NT Pass
+3H Pass 4S AP
+[Play "N"]
+S3 S7 S8 SJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "49"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J963.KQT7.KQJT.Q KQ42.A982.9.A962 87.J6.65432.K873 AT5.543.A87.JT54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+2H Pass 2NT Pass
+3C AP
+[Play "E"]
+C3 C4 CQ CA
+D2 DA DT D9
+D3 D7 DJ C2
+S7 SA S3 S2
+D5 D8 DK C6
+CK C5 DQ C9
+D6 CT H7 H2
+C7 CJ HT H8
+S8 S5 S6 SK
+C8 ST S9 SQ
+D4 H3 HQ S4
+H6 H4 HK HA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "49"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J963.KQT7.KQJT.Q KQ42.A982.9.A962 87.J6.65432.K873 AT5.543.A87.JT54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+2H Pass 3C X
+Pass 3D AP
+[Play "S"]
+D8 DT D9 D4
+H3 H7 H9 HJ
+C5 CQ CA C3
+S5 S3 SK S8
+SA S6 S2 S7
+ST SJ SQ D2
+C4 DJ C2 C7
+H4 S9 S4 H6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "50"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:764.AJ4.J842.A82 A83.2.AKQ95.KT97 KQJT52.Q65.T.QJ3 9.KT9873.763.654"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1S Pass 1NT 2D
+2S Pass 3S AP
+[Play "S"]
+D3 D2 DQ DT
+C4 C2 C9 CQ
+S9 S4 SA SK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "50"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:764.AJ4.J842.A82 A83.2.AKQ95.KT97 KQJT52.Q65.T.QJ3 9.KT9873.763.654"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1S Pass 2S 3D
+3S AP
+[Play "S"]
+D3 D2 DQ DT
+H7 HJ H2 H6
+S9 S4 S3 SK
+H3 S6 SA SQ
+D7 D4 DA S2
+HT S7 S8 SJ
+C4 C8 CT ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "51"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:72.6.QJ9754.A964 AQ86.Q74.A86.JT2 J943.AKT.T2.Q853 KT5.J98532.K3.K7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 1S Pass
+2S Pass 4H AP
+[Play "W"]
+DQ D6 D2 DK
+H6 HQ HK H3
+DJ DA DT D3
+D5 D8 C5 H5
+S2 SQ S3 S5
+C6 H4 HA H8
+CA C2 C3 C7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "51"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:72.6.QJ9754.A964 AQ86.Q74.A86.JT2 J943.AKT.T2.Q853 KT5.J98532.K3.K7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1D Pass
+1H Pass 1NT Pass
+3H AP
+[Play "W"]
+DQ D6 D2 DK
+H6 HQ HK H3
+D4 DA DT D3
+D5 H4 HA H5
+CA C2 C5 C7
+C4 CT C3 CK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "52"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ2.A.A542.AK982 6.KT8765.3.T7543 T973.QJ2.KJT76.Q KJ854.943.Q98.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7D"]
+[Result "12"]
+[Auction "W"]
+1C Pass 1D Pass
+3H Pass 5D Pass
+7D AP
+[Play "S"]
+H9 HA H5 H2
+C6 C2 C3 CQ
+H3 D2 H6 HJ
+D8 D4 D3 DK
+H4 D5 HK HQ
+CJ CA C4 S3
+DQ CK C5 S7
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "52"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQ2.A.A542.AK982 6.KT8765.3.T7543 T973.QJ2.KJT76.Q KJ854.943.Q98.J6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+1C 2H Pass Pass
+X Pass 3H Pass
+4H Pass 4S Pass
+4NT Pass 5D Pass
+6D AP
+[Play "S"]
+H3 HA H6 H2
+D8 D2 D3 DK
+D9 DA C5 D6
+C6 C2 C3 CQ
+H4 C8 H5 HJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "53"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T942.92.Q32.QT85 Q7653.T43.AJ9.A7 A.KQ8.K7654.K632 KJ8.AJ765.T8.J94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass 1D Pass Pass
+1S Pass 2S AP
+[Play "E"]
+HK HA H9 H4
+SA SJ S2 S3
+C3 C4 C8 CA
+DK D8 D2 DJ
+C2 C9 CT C7
+C6 CJ C5 S5
+D4 DT DQ DA
+D5 SK S4 S6
+HQ H6 H2 HT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "53"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T942.92.Q32.QT85 Q7653.T43.AJ9.A7 A.KQ8.K7654.K632 KJ8.AJ765.T8.J94"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "9"]
+[Auction "N"]
+1S X 4S AP
+[Play "E"]
+HK H6 H2 H3
+H8 HA H9 H4
+SA S8 S2 S5
+C2 C9 CT CA
+D4 SJ S4 S3
+-  H5 -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "54"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QT753.Q985.754.9 KJ8.JT64.J2.KQJ7 42.A72.AKQ6.T852 A96.K3.T983.A643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "E"]
+1D Pass Pass X
+Pass 1NT AP
+[Play "W"]
+D4 D2 DK D3
+D7 DJ DA D9
+D5 H4 D6 DT
+C9 CK C2 C3
+H5 CQ C5 C4
+H8 H6 H2 HK
+S3 CJ C8 C6
+S5 C7 CT CA
+S7 S8 S2 SA
+ST SK S4 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "54"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:QT753.Q985.754.9 KJ8.JT64.J2.KQJ7 42.A72.AKQ6.T852 A96.K3.T983.A643"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S X
+Pass 3C AP
+[Play "W"]
+D4 D2 DQ D8
+ST SJ S4 S6
+C9 CQ C2 C3
+S3 CK C5 C4
+D7 DJ DK D3
+S5 S8 S2 SA
+H5 CJ C8 C6
+S7 C7 CT CA
+D5 -  -  DT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "55"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ4..KJ86543.JT3 652.J8542.Q.AK85 AQT87.AT6.972.74 93.KQ973.AT.Q962"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5DX"]
+[Result "9"]
+[Auction "S"]
+1H 3D 4H 5D
+Pass Pass X AP
+[Play "N"]
+CK C4 C9 C3
+S2 SA S3 S4
+DQ D2 DT DJ
+CA C7 C2 CT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "55"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:KJ4..KJ86543.JT3 652.J8542.Q.AK85 AQT87.AT6.972.74 93.KQ973.AT.Q962"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5HX"]
+[Result "10"]
+[Auction "S"]
+1H 2D 4H 4S
+Pass Pass 5C X
+Pass Pass 5H X
+AP
+[Play "W"]
+S4 S2 SA S9
+SJ S5 S7 S3
+SK S6 S8 DA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "56"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K3.T7542.AKT832. 652..J76.AQ86432 Q.KQ983.Q954.KJT AJT9874.AJ6..975"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6HX"]
+[Result "10"]
+[Auction "W"]
+1D 4C 4H 5C
+6H Pass Pass X
+AP
+[Play "S"]
+SA S3 S2 SQ
+S4 SK S6 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "56"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K3.T7542.AKT832. 652..J76.AQ86432 Q.KQ983.Q954.KJT AJT9874.AJ6..975"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5HX"]
+[Result "10"]
+[Auction "W"]
+1H 3C 4C 4S
+Pass Pass 5H X
+AP
+[Play "N"]
+S2 SQ SA S3
+S6 D4 SJ SK
+C3 HK HA H2
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "57"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A6.J8654.QJ.A875 5.Q972.K7543.KJ2 JT982.3.A982.643 KQ743.AKT.T6.QT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2C"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT Pass 2C AP
+[Play "W"]
+DQ D3 D2 D6
+C5 CK C3 C9
+SA S5 S2 SK
+CA C2 C4 CT
+C7 CJ C6 CQ
+H4 H2 H3 HA
+H5 H7 D9 HK
+H6 H9 S8 HT
+S6 D4 SJ SQ
+HJ D5 S9 S3
+H8 HQ ST S4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "57"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A6.J8654.QJ.A875 5.Q972.K7543.KJ2 JT982.3.A982.643 KQ743.AKT.T6.QT9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "N"]
+Pass Pass 1S Pass
+1NT AP
+[Play "E"]
+C4 C9 CA C2
+D2 D6 DQ D3
+C3 CQ C7 CJ
+-  CT -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "58"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT.AQ9862.K97.A .K543.QJT3.J7632 A86.JT.A86542.T8 J975432.7..KQ954"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1H Pass
+2D 3S 3NT AP
+[Play "N"]
+C3 C8 CQ CA
+D3 DA S2 D7
+H3 S6 S3 SQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "58"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:KQT.AQ9862.K97.A .K543.QJT3.J7632 A86.JT.A86542.T8 J975432.7..KQ954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "10"]
+[Auction "E"]
+Pass 4S X Pass
+5D Pass Pass X
+AP
+[Play "S"]
+CK CA C2 C8
+S2 DK D3 D2
+S3 D7 DQ DA
+C4 D9 C3 CT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "59"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A983.5.QJ32.J976 K2.Q97643.K5.A43 QJT65.K8.AT97.T2 74.AJT2.864.KQ85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1H 2S
+4H 4S AP
+[Play "S"]
+S7 SA S2 S5
+D4 DQ DK DA
+S4 S8 SK S6
+HA H5 HQ HK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "59"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A983.5.QJ32.J976 K2.Q97643.K5.A43 QJT65.K8.AT97.T2 74.AJT2.864.KQ85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1NT Pass 4H AP
+[Play "E"]
+SQ S4 SA S2
+DA D4 DQ DK
+DT D6 D3 D5
+D7 D8 DJ H3
+H8 H2 -  HQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "60"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:98543.AQ8.J74.Q5 Q7.T72.KT9.A8743 KT.K543.A832.JT9 AJ62.J96.Q65.K62"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S Pass 1NT AP
+[Play "S"]
+H6 HQ H2 H4
+SA S3 SQ SK
+HJ HA H7 H3
+SJ S4 S7 ST
+H9 H8 HT HK
+C6 CQ CA C9
+CK C5 C3 CT
+C2 S5 C8 CJ
+D5 D4 D9 DA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "61"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ.Q8765.KJ974.6 JT43.JT9.T32.A87 A762.2.AQ85.QT94 985.AK43.6.KJ532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "11"]
+[Auction "N"]
+Pass 1D X 1H
+1NT Pass Pass 3D
+AP
+[Play "S"]
+S5 SQ S4 S6
+S8 SK S3 S7
+D6 D4 D2 DQ
+S9 C6 ST SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "61"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:KQ.Q8765.KJ974.6 JT43.JT9.T32.A87 A762.2.AQ85.QT94 985.AK43.6.KJ532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Auction "N"]
+Pass 1C 1H Pass
+2H Pass Pass X
+Pass 2S Pass 3D
+AP
+[Play "N"]
+D3 DA D6 D4
+HT H2 H4 H5
+D2 D5 C2 D7
+S3 S6 S8 SQ
+HJ S2 H3 H6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "62"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:73.KT64.A82.J864 QJT86.Q98532.7.Q A94.AJ.QT43.A952 K52.7.KJ965.KT73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+1NT Pass Pass X
+Pass 2C X 2H
+Pass 2S Pass Pass
+3C AP
+[Play "S"]
+S2 S3 ST S4
+S5 S7 SJ SA
+SK C4 S6 S9
+H7 H4 H3 HJ
+C3 H6 H2 HA
+D5 D2 D7 DT
+C7 C6 CQ CA
+CK C8 H5 C2
+CT CJ H8 C5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "62"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:73.KT64.A82.J864 QJT86.Q98532.7.Q A94.AJ.QT43.A952 K52.7.KJ965.KT73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "6"]
+[Auction "E"]
+1NT 2C X XX
+Pass 2D AP
+[Play "W"]
+DA D7 D3 D5
+H4 H2 HJ H7
+H6 H3 HA D6
+S3 SQ S4 S5
+HT H5 C2 D9
+C4 CQ CA C3
+S7 S6 SA S2
+D2 S8 S9 SK
+D8 H8 D4 DJ
+C6 -  -  DK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "63"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:5.K53.J7642.K532 KQ7.A742.Q.QJT74 AJ942.Q6.AKT98.9 T863.JT98.53.A86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1D 1S
+AP
+[Play "S"]
+HJ H3 H4 HQ
+S3 S5 SQ SJ
+D3 D2 DQ DA
+S6 D4 S7 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "63"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:5.K53.J7642.K532 KQ7.A742.Q.QJT74 AJ942.Q6.AKT98.9 T863.JT98.53.A86"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 2H 2S
+3H Pass 4H AP
+[Play "E"]
+C9 C6 CK C4
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "64"]
+[West "Becker"]
+[North "Weichsel"]
+[East "Kamil"]
+[South "Sontag"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ65.AKJ5.T.7542 9.T732.K5432.A96 82.86.AQ987.QT83 AQT743.Q94.J6.KJ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "9"]
+[Auction "W"]
+1C Pass 1D 1S
+X Pass 2C AP
+[Play "N"]
+S9 S2 SA S5
+H2 H6 H4 HA
+D2 DA D6 DT
+C6 S8 ST SJ
+CA C3 CJ C2
+C9 C8 CK C4
+H3 H8 H9 HJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Vanderbilt Knockout Teams"]
+[Site "Vancouver BC:Vancouver Convention Center"]
+[Date "1999.03.??"]
+[Board "64"]
+[West "Versace"]
+[North "Stewart"]
+[East "Lauria"]
+[South "Woolsey"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KJ65.AKJ5.T.7542 9.T732.K5432.A96 82.86.AQ987.QT83 AQT743.Q94.J6.KJ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Auction "W"]
+1C Pass 1D 2S
+Pass Pass 3C AP
+[Play "N"]
+S9 S2 SA S5
+H3 H6 H4 HA
+C6 CQ CK C2
+C9 C3 CJ C4
+H2 H8 H9 HK
+D2 DQ D6 DT
+H7 S8 S3 SJ
+HT C8 -  H5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+

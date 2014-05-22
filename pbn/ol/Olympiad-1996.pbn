@@ -1,0 +1,8291 @@
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[HomeTeam "Indonesia"]
+[VisitTeam "France"]
+[Board "1"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:J.96432.JT9.Q853 K983.T85.K74.AKJ AQ742.KJ.AQ52.T2 T65.AQ7.863.9764"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Score "NS -50"]
+[Auction "N"]
+1S    Pass  Pass  1NT
+Pass  Pass  2H    Pass
+Pass  Pass
+[Play "W"]
+CA C2 C6 C3
+H5 HJ HQ H2
+CJ CT C4 C5
+H8 HK HA H3
+CK S2 C7 C8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "1"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:J.96432.JT9.Q853 K983.T85.K74.AKJ AQ742.KJ.AQ52.T2 T65.AQ7.863.9764"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS 50"]
+[Auction "N"]
+1S    Pass  Pass  1NT
+Pass  Pass  Pass
+[Play "N"]
+S2 S6 SJ SK
+C2 C4 C3 CA
+CT C6 C5 CK
+HK C7 CQ CJ
+D2 D3 DJ D4
+DQ D6 DT D7
+SA S5 C8 S3
+DA D8 D9 DK
+D5 -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "2"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:AKJ874.Q2.Q52.64 6.AJT86.K84.AQJ5 QT3.75.AJ9.KT982 952.K943.T763.73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS 170"]
+[Auction "E"]
+Pass  1S    X!    XX
+2H    Pass  2S    3S
+Pass  Pass  Pass
+[Play "W"]
+HA H5 H9 H2
+HJ H7 HK HQ
+CA C2 C7 C6
+CQ CK C3 C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "2"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:AKJ874.Q2.Q52.64 6.AJT86.K84.AQJ5 QT3.75.AJ9.KT982 952.K943.T763.73"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 620"]
+[Auction "E"]
+Pass  1S    2H    X
+3H    Pass  4H    4S
+Pass  Pass  Pass
+[Play "W"]
+S6 S3 S9 SK
+CA C2 C3 C4
+C5 CK C7 C6
+CJ C8 H9 S4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "3"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AK94.JT954.JT.JT 83.K86.A875.Q865 QJT765.AQ72..942 2.3.KQ96432.AK73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6SX"]
+[Result "11"]
+[Score "NS -100"]
+[Auction "S"]
+Pass  Pass  1S    2D
+3D!   3S!   4H    4NT
+5H    Pass! 5S    6D
+Pass  Pass  6S    X
+Pass  Pass  Pass
+[Play "E"]
+CA CT C8 C2
+DK DT DA S5
+S2 SA S3 S6
+D4 SK S8 ST
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "3"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AK94.JT954.JT.JT 83.K86.A875.Q865 QJT765.AQ72..942 2.3.KQ96432.AK73"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6SX"]
+[Result "11"]
+[Score "NS -100"]
+[Auction "S"]
+Pass  Pass  1S    2D
+3S    4D    4H    5D
+5S    6D    6H    Pass
+6S    Pass  Pass  X
+Pass  Pass  Pass
+[Play "E"]
+CA CT C8 C4
+CK CJ C5 C2
+DK DT D5 S5
+S2 SA S3 ST
+D2 SK S8 S6
+H3 HJ H6 H2
+D3 HT H8 H7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "4"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:K96.A2.QJ543.K72 AJT.J74.A76.T965 743.T98653.K98.8 Q852.KQ.T2.AQJ43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "W"]
+Pass  Pass  1C    1D
+X!    2D    X!    Pass
+3D    X     Pass  Pass
+XX    Pass  4C    Pass
+Pass  Pass
+[Play "S"]
+D4 DA D9 DT
+C2 CT C8 C4
+C7 C5 H5 CA
+CK C6 H6 CJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "4"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:K96.A2.QJ543.K72 AJT.J74.A76.T965 743.T98653.K98.8 Q852.KQ.T2.AQJ43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "10"]
+[Score "NS -180"]
+[Auction "W"]
+Pass  Pass  1S    Pass
+1NT   Pass  Pass  Pass
+[Play "N"]
+HT HQ HA H4
+H3 HK H2 H7
+S3 S2 S6 SJ
+C8 C3 CK CT
+D8 D2 DQ DA
+H5 DT D3 HJ
+-  -  -  C9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "5"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:AT96542.T74..AK4 KQ.AQ92.KT87.873 J87.KJ86.Q6543.6 3.53.AJ92.QJT952"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "10"]
+[Score "NS 100"]
+[Auction "N"]
+Pass  Pass  1S    X
+2H!   3C    4S    Pass
+Pass  5C    X     Pass
+Pass  Pass
+[Play "S"]
+SA SQ SJ S3
+HT HA H6 H5
+S2 SK S7 H3
+CK C3 C6 C9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "5"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:AT96542.T74..AK4 KQ.AQ92.KT87.873 J87.KJ86.Q6543.6 3.53.AJ92.QJT952"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS 650"]
+[Auction "N"]
+Pass  Pass  1S    X
+2S    4C    4S    Pass
+Pass  Pass
+[Play "W"]
+C7 C6 CT CA
+SQ S7 S3 SA
+HA H6 H3 HT
+H2 HJ H5 H4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "6"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AQ.A86.AKJ543.Q7 J75.J4.QT72.JT42 98643.K9752.986. KT2.QT3..AK98653"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Auction "E"]
+1C    X     Pass  1S
+2C    2D    3C    3H
+4C    Pass  Pass  4D
+Pass  5D    Pass  Pass
+Pass
+[Play "W"]
+CJ D6 C6 C7
+D2 D8 C8 DA
+C2 D9 C3 CQ
+S5 S3 S2 SQ
+D7 H2 C9 D3
+S7 S8 SK SA
+DT H5 C5 DK
+DQ S4 CK D4
+C4 S6 CA D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "6"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AQ.A86.AKJ543.Q7 J75.J4.QT72.JT42 98643.K9752.986. KT2.QT3..AK98653"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "E"]
+2C    X     3C    3S
+4C    4D    Pass  4H
+Pass  Pass  Pass
+[Play "E"]
+CA C7 C4 H2
+C3 DA D7 D8
+H3 H6 H4 HK
+C5 DK D2 D6
+C6 DJ DQ D9
+C8 CQ C2 H5
+HT HA HJ H7
+HQ D3 DT H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "7"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:KJ52.T98.42.QJ62 T4.A532.53.T8754 Q3.K76.KJT97.K93 A9876.QJ4.AQ86.A"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "7"]
+[Score "NS 100"]
+[Auction "S"]
+Pass  Pass  1D    X
+1S    2C    Pass  Pass
+Pass
+[Play "N"]
+SQ SA S2 S4
+S3 S9 SJ ST
+HK H4 H9 H2
+H7 HJ H8 H3
+H6 HQ HT HA
+D9 DQ D2 D3
+D7 DA D4 D5
+DT D6 CJ H5
+CK S6 SK CT
+DJ D8 CQ C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "7"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:KJ52.T98.42.QJ62 T4.A532.53.T8754 Q3.K76.KJT97.K93 A9876.QJ4.AQ86.A"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "1S"]
+[Result "9"]
+[Score "NS -140"]
+[Auction "S"]
+Pass  Pass  1D    1S
+Pass  Pass  Pass
+[Play "S"]
+D4 D3 DT DQ
+D2 D5 D9 DA
+H8 S4 D7 D6
+C2 C4 C3 CA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "8"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:9.QT987.A765.976 K653.AJ32.KQ9.J5 QJ72.K64.2.AT843 AT84.5.JT843.KQ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+1D    X     1S    Pass
+2S    X     4S    Pass
+Pass  Pass
+[Play "S"]
+H9 HA H4 H5
+C6 CJ CA C2
+DA DK D2 D4
+D7 DQ S2 D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "8"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:9.QT987.A765.976 K653.AJ32.KQ9.J5 QJ72.K64.2.AT843 AT84.5.JT843.KQ2"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+1D!   Pass  1S    Pass
+2S    Pass  4S    Pass
+Pass  Pass
+[Play "S"]
+HT HA H4 H5
+C6 CJ CA C2
+DA DQ D2 DT
+D5 DK S2 D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "9"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:T96.K865.AK54.AK KJ.Q9732.Q3.QT96 Q75.AJT.762.J843 A8432.4.JT98.752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Score "NS 150"]
+[Auction "N"]
+Pass  Pass  1NT   Pass
+Pass  Pass
+[Play "W"]
+H3 HT H4 H6
+C6 C3 C2 CA
+H2 HJ S8 H5
+H7 HA S2 H8
+D3 D2 D8 D5
+DQ D6 D9 DA
+C9 D7 DT DK
+SK S5 S3 S9
+SJ SQ SA S6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "9"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:T96.K865.AK54.AK KJ.Q9732.Q3.QT96 Q75.AJT.762.J843 A8432.4.JT98.752"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 400"]
+[Auction "N"]
+Pass  Pass  1NT   Pass
+2C!   Pass  2D    Pass
+2NT!  Pass  3H!   Pass
+3NT   Pass  Pass  Pass
+[Play "W"]
+H3 HT H4 H6
+D3 D2 D8 D5
+SK S5 S3 S6
+C9 C3 C5 CK
+H2 HJ S2 H5
+H7 HA S4 H8
+DQ D6 D9 DA
+C6 D7 DT DK
+SJ SQ SA S9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "10"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:AQ53.743.T8.AK72 9874.K92.K2.T864 T6.AQJ.AQJ9653.9 KJ2.T865.74.QJ53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS 640"]
+[Auction "E"]
+Pass  1NT   Pass  2NT!
+Pass  3C    Pass  5D!
+Pass  Pass  Pass
+[Play "E"]
+CQ CA C6 C9
+D4 DT DK DA
+D7 D8 D2 D3
+H6 H3 H2 HQ
+S2 SA S4 S6
+C3 CK C4 ST
+H5 H4 H9 HJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "10"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:AQ53.743.T8.AK72 9874.K92.K2.T864 T6.AQJ.AQJ9653.9 KJ2.T865.74.QJ53"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "13"]
+[Score "NS 720"]
+[Auction "E"]
+Pass  1C    Pass  1D
+Pass  1S    Pass  2H!
+Pass  3C    Pass  3D
+Pass  3H    Pass  3NT
+Pass  Pass  Pass
+[Play "E"]
+H5 H3 HK HA
+C3 CA C4 C9
+D4 D8 DK DA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "11"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:K95.Q842.KJ42.A3 AJ62.J65.965.QT5 84.K97.T8.K98762 QT73.AT3.AQ73.J4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Auction "S"]
+1NT   Pass  Pass  Pass
+[Play "W"]
+D9 DT DA D2
+SA S4 ST SK
+S2 S8 SQ S5
+SJ C2 S7 S9
+S6 C6 S3 H2
+H5 H9 HT HQ
+C5 CK C4 C3
+D5 D8 DQ DK
+HJ HK HA H4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "11"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:K95.Q842.KJ42.A3 AJ62.J65.965.QT5 84.K97.T8.K98762 QT73.AT3.AQ73.J4"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "6"]
+[Score "NS -50"]
+[Auction "S"]
+1D    Pass  1NT   Pass
+Pass  Pass
+[Play "E"]
+S3 S5 SJ S4
+CJ CA C5 C6
+C4 C3 CT CK
+D3 D2 CQ C9
+HA H2 H6 H9
+ST SK SA S8
+SQ S9 S6 C2
+S7 H4 S2 D8
+DA -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "12"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:K752.AQ6.AQ87.82 Q964.K42.J53.JT7 A.T873.KT6.AK964 JT83.J95.942.Q53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Auction "W"]
+Pass  1C    Pass  1D
+Pass  1H    Pass  3NT
+Pass  Pass  Pass
+[Play "W"]
+CJ CK C3 C2
+D3 D6 D2 DQ
+C7 C4 CQ C8
+S6 SA S8 S2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "12"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:K752.AQ6.AQ87.82 Q964.K42.J53.JT7 A.T873.KT6.AK964 JT83.J95.942.Q53"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Score "NS 600"]
+[Auction "W"]
+Pass  1C    Pass  1D
+Pass  1H    Pass  1S
+Pass  2C    Pass  3NT
+Pass  Pass  Pass
+[Play "W"]
+S4 SA S8 S2
+HK H3 H5 HQ
+S6 C4 ST S7
+SQ C6 S3 SK
+D3 D6 D2 DA
+D5 DK D4 D7
+H2 H7 H9 HA
+H4 HT HJ H6
+-  -  SJ -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "13"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:A76.43.7542.KT98 QT92.KJ72.AK83.7 K83.Q965.T.AQJ53 J54.AT8.QJ96.642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "N"]
+1C    Pass  1NT   X
+2C    2D    3C    3D
+Pass  Pass  Pass
+[Play "S"]
+C9 C7 CA C4
+CT D3 CQ C6
+SA ST S3 S4
+H4 H2 H9 HT
+S6 S2 SK SJ
+C8 D8 CJ C2
+D2 DA DT D6
+D4 DK H5 D9
+H3 H7 HQ HA
+D5 S9 C3 DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "13"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:A76.43.7542.KT98 QT92.KJ72.AK83.7 K83.Q965.T.AQJ53 J54.AT8.QJ96.642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "N"]
+1C    Pass  1D    X
+1H    Pass  2C    Pass
+Pass  Pass
+[Play "E"]
+C4 C8 C7 C3
+HT H3 H2 H9
+C2 C9 S2 C5
+HA H4 H7 HQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "14"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:AQ93.AK983.A54.J KT7.5.KT732.K743 82.QJT2.J96.AQ92 J654.764.Q8.T865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "11"]
+[Score "NS -50"]
+[Auction "E"]
+Pass  1H    Pass  2NT
+Pass  3D    Pass  3H
+Pass  3S    Pass  4C
+Pass  4D    Pass  4H
+Pass  4NT   Pass  5D
+Pass  6H    Pass  Pass
+Pass
+[Play "W"]
+H5 HQ H6 H3
+SK S2 S5 SQ
+ST S8 S4 SA
+CK CA C5 CJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "14"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:AQ93.AK983.A54.J KT7.5.KT732.K743 82.QJT2.J96.AQ92 J654.764.Q8.T865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "E"]
+Pass  1H    Pass  3H
+Pass  3S    Pass  4C
+Pass  4D    Pass  4H
+Pass  Pass  Pass
+[Play "W"]
+D2 D6 DQ DA
+CK CA C5 CJ
+C3 CQ C6 D4
+SK S2 S4 SQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "15"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:.KJT98.QJ985.985 76543.Q54.4.KQ73 AKJ82.7632.AT.JT QT9.A.K7632.A642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "S"]
+2H!   Pass  4H    Pass
+Pass  Pass
+[Play "W"]
+CK CT C6 C5
+C3 CJ CA C8
+CQ H2 C4 C9
+H4 H3 HA H8
+D4 DT D2 D5
+S3 SA S9 D8
+S4 SK ST D9
+S5 S2 SQ H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "15"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:.KJT98.QJ985.985 76543.Q54.4.KQ73 AKJ82.7632.AT.JT QT9.A.K7632.A642"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "S"]
+Pass  Pass  1S    Pass
+1NT   Pass  2H    X
+4H    Pass  Pass  Pass
+[Play "E"]
+D3 D5 D4 DT
+S9 C5 S3 SA
+ST C8 S4 SK
+SQ H8 S5 S2
+D2 D8 H4 DA
+CA C9 C3 CT
+D6 D9 HQ CJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "16"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:Q652.T76.T742.AQ AK873.832.986.96 J9.AKJ954.J.KJ32 T4.Q.AKQ53.T8754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass  1H    Pass  2H
+Pass  4H    Pass  Pass
+Pass
+[Play "E"]
+DA D2 D6 DJ
+DK D4 D9 H5
+HQ H6 H2 HK
+D3 H7 H3 HA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "16"]
+[West "Karwur"]
+[North "Mouiel"]
+[East "Sakul"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:Q652.T76.T742.AQ AK873.832.986.96 J9.AKJ954.J.KJ32 T4.Q.AKQ53.T8754"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "W"]
+Pass  1H    Pass  2H
+Pass  4H    Pass  Pass
+Pass
+[Play "E"]
+DA D2 D6 DJ
+DK D4 D8 H4
+HQ H6 H2 HA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[HomeTeam "Indonesia"]
+[VisitTeam "France"]
+[Board "17"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:A942.943.J754.32 53.KJ8765.AT32.7 QT87.AQ.K986.JT6 KJ6.T2.Q.AKQ9854"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4C"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "N"]
+1D    2C    Pass  2H
+Pass  3D    Pass  3H
+Pass  4C    Pass  Pass
+Pass
+[Play "S"]
+D4 DA D8 DQ
+SA S3 S8 SJ
+C2 C7 CT CA
+C3 H5 C6 CK
+D5 H7 CJ CQ
+H3 H6 D6 C9
+H9 S5 DK C8
+D7 H8 HQ C5
+H4 HJ HA H2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "17"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:A942.943.J754.32 53.KJ8765.AT32.7 QT87.AQ.K986.JT6 KJ6.T2.Q.AKQ9854"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "N"]
+1D    2C    Pass  2H
+Pass  3C    Pass  3H
+Pass  4H    Pass  Pass
+Pass
+[Play "N"]
+S8 SJ SA S3
+ST SK S2 S5
+D6 DQ D4 DA
+D8 H2 D5 D2
+S7 S6 S4 H5
+D9 HT D7 D3
+C6 CA C3 C7
+CT CK C2 DT
+CJ CQ S9 H6
+HQ C4 H3 H7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "18"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:K.T92.A642.JT984 J8542..KJ853.KQ5 9763.KQ85.T9.A62 AQT.AJ7643.Q7.73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "E"]
+1H    Pass  1S    Pass
+2H    Pass  Pass  Pass
+[Play "S"]
+CJ CK CA C3
+C4 CQ C6 C7
+C8 C5 C2 H3
+D2 DK D9 DQ
+SK S2 S3 SQ
+CT D3 DT H4
+D4 DJ H5 D7
+H2 S4 S6 ST
+C9 D5 HQ SA
+H9 S5 S7 H6
+DA -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "18"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:K.T92.A642.JT984 J8542..KJ853.KQ5 9763.KQ85.T9.A62 AQT.AJ7643.Q7.73"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Score "NS 100"]
+[Auction "E"]
+1H    Pass  1S    Pass
+2H    Pass  Pass  Pass
+[Play "S"]
+CJ CK CA C3
+C4 CQ C6 C7
+SK S2 S3 SQ
+C8 C5 C2 H3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "19"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:97.52.AKT873.653 KQT86.764.Q62.T9 A32.AKQT9.9.AK84 J54.J83.J54.QJ72"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS 430"]
+[Auction "S"]
+Pass  Pass  1C!   Pass
+1D!   Pass  1H    Pass
+2D    Pass  3NT   Pass
+Pass  Pass
+[Play "E"]
+S5 S7 SQ S3
+SJ S9 S6 S2
+D4 DA D2 D9
+D5 DK D6 C4
+H3 H2 H4 HA
+H8 H5 H6 HK
+HJ D3 H7 HQ
+S4 D7 SK HT
+C7 C3 CT H9
+DJ C5 S8 SA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "19"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:97.52.AKT873.653 KQT86.764.Q62.T9 A32.AKQT9.9.AK84 J54.J83.J54.QJ72"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Score "NS 920"]
+[Auction "S"]
+Pass  Pass  2C!   Pass
+3D!   Pass  3H    Pass
+4H    Pass  6D    Pass
+Pass  Pass
+[Play "W"]
+SK SA S4 S7
+D2 D9 D4 DA
+D6 C4 D5 DK
+H4 HA H3 H2
+H6 HK H8 H5
+H7 HQ HJ S9
+S6 S2 S5 D3
+DQ C8 DJ D7
+ST S3 SJ D8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "20"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:.AJT642.7632.A86 AQT73.9.AKQT.Q42 K4.873.J985.JT93 J98652.KQ5.4.K75"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+1S    Pass  4D!   Pass
+4S    Pass  Pass  Pass
+[Play "N"]
+CJ C5 C6 CQ
+S4 S2 H6 SA
+D5 D4 D2 DA
+D8 C7 D3 DK
+D9 CK D6 DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "20"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:.AJT642.7632.A86 AQT73.9.AKQT.Q42 K4.873.J985.JT93 J98652.KQ5.4.K75"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -620"]
+[Auction "W"]
+1C!   Pass  1S    2D
+4H!   Pass  4S    Pass
+Pass  Pass
+[Play "S"]
+D6 DA D5 D4
+H6 SA S4 S2
+D2 DK D8 C5
+CA C2 C3 CK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "21"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:KQ875.T87.Q2.AQ2 T94.K64.983.K765 AJ6.A3.J764.J983 32.QJ952.AKT5.T4"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "N"]
+Pass  Pass  1S    Pass
+2C!   2H    Pass! Pass
+2S    Pass  3S    Pass
+4S    Pass  Pass  Pass
+[Play "W"]
+H4 H3 HJ H8
+H6 HA H9 HT
+CK C3 CT CQ
+D3 D4 DK D2
+D8 D6 DA DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "21"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:KQ875.T87.Q2.AQ2 T94.K64.983.K765 AJ6.A3.J764.J983 32.QJ952.AKT5.T4"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3DX"]
+[Result "7"]
+[Score "NS 300"]
+[Auction "N"]
+Pass  Pass  1S    Pass
+2C!   Pass  2D!   Pass
+2S    X     Pass  3C
+X     3D    Pass  Pass
+X     Pass  Pass  Pass
+[Play "S"]
+D2 D3 D6 DT
+H7 HK HA H2
+S8 S4 SA S2
+SQ S9 S6 S3
+SK ST SJ D5
+DQ D8 D4 DA
+H8 H4 H3 HQ
+HT H6 D7 HJ
+S5 D9 DJ DK
+C2 C5 C3 H9
+CQ C6 C8 H5
+CA -  -  C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "22"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:Q8532.J8542.T7.2 T4.T9.QJ9854.T65 KJ76.KQ73.K.Q973 A9.A6.A632.AKJ84"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5D"]
+[Result "13"]
+[Score "NS -640"]
+[Auction "E"]
+1C    Pass  Pass  1NT
+X!    2H!   3D    Pass
+5D    Pass  Pass  Pass
+[Play "N"]
+S6 SA S2 S4
+DK DA D7 D8
+H3 D2 DT DQ
+CQ CA C2 CT
+C3 CK H2 C5
+H7 D3 S3 DJ
+C7 C8 H4 C6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "22"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:Q8532.J8542.T7.2 T4.T9.QJ9854.T65 KJ76.KQ73.K.Q973 A9.A6.A632.AKJ84"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "9"]
+[Score "NS -500"]
+[Auction "E"]
+1C!   1NT!  Pass  4H
+X!    Pass  5D    5H
+Pass  Pass  6D    6H
+X     Pass  Pass  Pass
+[Play "E"]
+CA C2 C5 C3
+H6 H2 H9 HK
+HA H4 HT H3
+DA D7 D4 DK
+SA -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "23"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:865.7.AKJT64.KT2 Q.QJT962.Q975.A6 AK93.K43..QJ9843 JT742.A85.832.75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5C"]
+[Result "11"]
+[Score "NS 600"]
+[Auction "S"]
+1D!   2H    3C    3H
+4D    Pass  5C    Pass
+Pass  Pass
+[Play "E"]
+HA H7 HQ H4
+S2 S5 SQ SA
+C5 C2 C6 CJ
+H8 CT H2 H3
+D2 DA D5 S3
+D3 DK D7 S9
+C7 CK CA C3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "23"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:865.7.AKJT64.KT2 Q.QJT962.Q975.A6 AK93.K43..QJ9843 JT742.A85.832.75"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Score "NS -100"]
+[Auction "S"]
+1D    1H    2C    2H
+3C    3H    3S    Pass
+4H    Pass  4S    Pass
+5C    Pass  6C    Pass
+Pass  Pass
+[Play "E"]
+HA H7 H2 H3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "24"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:Q.QJ7652.832.Q76 AT985.T93.AQT6.A 7632.AK84.97.K83 KJ4..KJ54.JT9542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Auction "W"]
+1S    Pass  2C    Pass
+2D    Pass  4S    Pass
+Pass  Pass
+[Play "N"]
+HA S4 H7 H3
+C8 C2 C7 CA
+H4 SJ H5 H9
+S2 SK SQ SA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "24"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:Q.QJ7652.832.Q76 AT985.T93.AQT6.A 7632.AK84.97.K83 KJ4..KJ54.JT9542"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "12"]
+[Score "NS -480"]
+[Auction "W"]
+1S    Pass  1NT   Pass
+2D    Pass  4S    Pass
+Pass  Pass
+[Play "N"]
+HA S4 H7 H3
+S2 SK SQ S5
+C3 C2 C7 CA
+H4 SJ H2 H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "25"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:K62.K876.J963.54 AT873.A9.T74.QT8 QJ9.QJ42.2.AKJ73 54.T53.AKQ85.962"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "N"]
+2C    Pass  Pass  Pass
+[Play "E"]
+DA D3 D4 D2
+S5 S2 ST SQ
+H3 HK HA H2
+HT H6 H9 HQ
+C2 C4 C8 CA
+C6 C5 CT CK
+S4 SK SA S9
+C9 S6 S3 SJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "25"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:K62.K876.J963.54 AT873.A9.T74.QT8 QJ9.QJ42.2.AKJ73 54.T53.AKQ85.962"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Score "NS 140"]
+[Auction "N"]
+1C    1D    1H    1S
+2H    Pass  Pass  3D
+3H    Pass  Pass  Pass
+[Play "W"]
+D4 D2 DK D3
+SA S9 S5 S2
+S3 SQ S4 S6
+HA H2 H3 HK
+S7 SJ HT SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "26"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:J5.KQ4.93.AT8642 A2.852.AQ8752.75 QT94.J973.64.KJ9 K8763.AT6.KJT.Q3"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "E"]
+1S    2C    2D    Pass
+2S    Pass  3D    Pass
+3H    Pass  3S    Pass
+4D    Pass  Pass  Pass
+[Play "N"]
+CK C3 C8 C5
+C9 CQ CA C7
+H7 HA HK H2
+S4 S3 S5 SA
+S9 SK SJ S2
+ST S6 D9 DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "26"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:J5.KQ4.93.AT8642 A2.852.AQ8752.75 QT94.J973.64.KJ9 K8763.AT6.KJT.Q3"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "10"]
+[Score "NS -130"]
+[Auction "E"]
+1S    Pass  1NT!  Pass
+2D!   Pass  4D    Pass
+Pass  Pass
+[Play "S"]
+HK H2 H3 HA
+S5 SA S4 S3
+SJ S2 S9 SK
+D9 DQ ST S6
+D3 D2 D4 DT
+C6 D5 D6 DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "27"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:KJ9.QJ972.K8.AKT AT843.KT5.T95.73 Q762.A83.AQJ.642 5.64.76432.QJ985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "6H"]
+[Result "10"]
+[Score "NS -100"]
+[Auction "S"]
+1C    Pass  1NT   Pass
+2H    Pass  2S    Pass
+3NT   Pass  4D    Pass
+4S    Pass  6H    Pass
+Pass  Pass
+[Play "W"]
+SA S2 S5 S9
+S8 S6 H4 SK
+C7 C2 C5 CA
+H5 H3 H6 HJ
+HT HA -  H2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "27"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:KJ9.QJ972.K8.AKT AT843.KT5.T95.73 Q762.A83.AQJ.642 5.64.76432.QJ985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Auction "S"]
+1H    Pass  1S    Pass
+2NT   Pass  3NT   Pass
+Pass  Pass
+[Play "W"]
+DT -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "28"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:62.AT5.QT54.T754 KQJ87.K764.K93.8 AT.QJ93.AJ76.K93 9543.82.82.AQJ62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Score "NS 300"]
+[Auction "W"]
+1S    X     4S    X
+Pass  Pass  Pass
+[Play "N"]
+HQ H2 HA H6
+DA D2 DT DK
+D6 D8 DQ D3
+H3 H8 H5 HK
+SA S3 S2 SK
+HJ S4 HT H4
+ST S5 S6 SQ
+C3 CA C5 C8
+CK CQ C4 D9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "28"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:62.AT5.QT54.T754 KQJ87.K764.K93.8 AT.QJ93.AJ76.K93 9543.82.82.AQJ62"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "W"]
+1S    X     2H!   Pass
+2S    Pass  Pass  2NT!
+3H    Pass  4S    Pass
+Pass  Pass
+[Play "N"]
+SA S3 S2 S7
+ST S4 S6 SK
+C3 CQ C5 C8
+C9 CA C4 H4
+CK C2 C7 S8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "29"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:J72.AT97.4.J9876 K4.KQJ84.AT3.K52 98653.65.KJ76.AQ AQT.32.Q9852.T43"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "N"]
+Pass  Pass  Pass  1H
+Pass  1NT   Pass  2C!
+Pass  2H    Pass  2NT
+Pass  3NT   Pass  Pass
+Pass
+[Play "S"]
+C9 C2 CQ C3
+SJ SK S9 ST
+H7 HK H5 H3
+HA HQ H6 H2
+S7 S4 S8 SA
+D4 DT DJ D2
+S2 H4 S5 SQ
+C8 DA D6 D8
+H9 HJ D7 D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "29"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:J72.AT97.4.J9876 K4.KQJ84.AT3.K52 98653.65.KJ76.AQ AQT.32.Q9852.T43"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "6"]
+[Score "NS 300"]
+[Auction "N"]
+Pass  Pass  Pass  1NT
+Pass  2NT   Pass  3NT
+Pass  Pass  Pass
+[Play "N"]
+S5 ST SJ SK
+D7 DQ D4 DT
+H6 H2 H7 HK
+D6 D2 S2 DA
+H5 H3 HA HQ
+S3 SQ S7 S4
+S6 SA C6 C2
+CA C3 C7 CK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "30"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:AQ985.T9.AT2.T64 64.KQ62.Q83.K972 JT32.4.KJ5.AJ853 K7.AJ8753.9764.Q"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "E"]
+2H    2S    4H    4S
+Pass  Pass  Pass
+[Play "W"]
+HK H4 HA HT
+C2 CA CQ C4
+S4 S2 S7 SA
+S6 SJ SK S5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "30"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:AQ985.T9.AT2.T64 64.KQ62.Q83.K972 JT32.4.KJ5.AJ853 K7.AJ8753.9764.Q"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+2H    Pass  3C!   Pass
+3NT!  Pass  4H    Pass
+Pass  Pass
+[Play "S"]
+SA S4 SJ S7
+S9 S6 S2 SK
+H9 H2 H4 HA
+HT HK C3 H3
+C4 C2 CA CQ
+DA D3 D5 D6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "31"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:QT85.AT95.95.953 K9642.KQ7.AJ7.42 J.8632.864.QJT86 A73.J4.KQT32.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "S"]
+Pass  1S    Pass  2D!
+Pass  2S    Pass  3S!
+Pass  4S    Pass  Pass
+Pass
+[Play "N"]
+CQ CK C3 C4
+SJ SA S5 S2
+C6 S3 S8 S9
+H3 S7 ST SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "31"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:QT85.AT95.95.953 K9642.KQ7.AJ7.42 J.8632.864.QJT86 A73.J4.KQT32.AK7"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "S"]
+Pass  1S    Pass  2D
+Pass  3D    Pass  3S
+Pass  4S    Pass  5C
+Pass  5S    Pass  Pass
+Pass
+[Play "N"]
+CQ CA C3 C4
+SJ SA S5 S2
+H3 S3 S8 S9
+H2 S7 ST SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "32"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:96.QT86532.76.A7 J2.K974.J2.QJT93 Q854.AJ.KQT8.K42 AKT73..A9543.865"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "W"]
+Pass  1NT   2D!   3D!
+Pass  3NT   Pass  4H
+Pass  Pass  Pass
+[Play "W"]
+CQ C2 C5 CA
+H4 HJ S3 H3
+H7 HA D3 H2
+CJ CK C6 C7
+C3 C4 C8 H5
+HK S4 D4 HQ
+DJ DK DA D6
+D2 DT D9 D7
+H9 DQ D5 S6
+SJ -  -  -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "32"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:96.QT86532.76.A7 J2.K974.J2.QJT93 Q854.AJ.KQT8.K42 AKT73..A9543.865"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "W"]
+Pass  1NT   2S    3D!
+Pass  3H    Pass  4H
+Pass  Pass  Pass
+[Play "E"]
+SA S6 SJ S5
+SK S9 S2 S4
+DA D6 D2 D8
+S3 HQ DJ S8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[HomeTeam "France"]
+[VisitTeam "Indonesia"]
+[Board "33"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:63.KQJ8542..QT63 AJ97.A.KJ962.A92 42.3.AQT753.KJ75 KQT85.T976.84.84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "N"]
+1D    Pass  4H    X
+Pass  4S    Pass  Pass
+Pass
+[Play "S"]
+HK HA H3 H6
+H2 D2 DT D4
+S3 D6 D3 D8
+C6 CA C5 C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "33"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:63.KQJ8542..QT63 AJ97.A.KJ962.A92 42.3.AQT753.KJ75 KQT85.T976.84.84"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "10"]
+[Score "NS -170"]
+[Auction "N"]
+Pass  Pass  3H    X
+Pass  3S    Pass  Pass
+Pass
+[Play "S"]
+HK HA H3 H6
+H2 D2 DT D4
+S3 D6 D3 D8
+C6 CA C5 C4
+S6 S7 S2 SK
+H4 SA S4 S5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "34"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:K9.K32.97642.JT5 AQ63.Q8765.KJ.72 J85.JT9.AQT5.984 T742.A4.83.AKQ63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "E"]
+1D    Pass  1H    Pass
+1S    Pass  4S    Pass
+Pass  Pass
+[Play "S"]
+CJ C2 C8 CQ
+S9 SQ S5 S4
+SK SA S8 S2
+C5 C7 C4 CA
+CT DJ C9 CK
+D2 DK D5 C6
+D4 H5 HJ C3
+H2 H6 H9 HA
+H3 H7 HT H4
+D6 S3 SJ S7
+D7 S6 DA D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "34"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:K9.K32.97642.JT5 AQ63.Q8765.KJ.72 J85.JT9.AQT5.984 T742.A4.83.AKQ63"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS 50"]
+[Auction "E"]
+1C    Pass  1H    Pass
+1S    Pass  4S    Pass
+Pass  Pass
+[Play "S"]
+D4 DJ DQ D3
+D9 DK DA D8
+C5 C2 C8 CA
+S9 SQ S5 S4
+SK SA S8 S2
+CT C7 C4 CK
+CJ H5 C9 CQ
+D2 H6 SJ C6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "35"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AJ532.A63.AJ.Q86 Q.KQ982.T97.J932 K964.T754.KQ6.A5 T87.J.85432.KT74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS 450"]
+[Auction "S"]
+1S    Pass  3C!   Pass
+3NT!  Pass  4D    Pass
+4H    Pass  5C!   X
+Pass  Pass  XX    Pass
+5D    Pass  5S    Pass
+Pass  Pass
+[Play "W"]
+C3 CA C7 C8
+SQ SK S7 S2
+H2 S4 S8 SA
+D7 S6 ST SJ
+D9 D6 D2 DA
+DT DK D3 DJ
+H9 DQ D4 H3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "35"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AJ532.A63.AJ.Q86 Q.KQ982.T97.J932 K964.T754.KQ6.A5 T87.J.85432.KT74"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 460"]
+[Auction "S"]
+1C!   Pass  1NT!  Pass
+2S    Pass  3S!   Pass
+3NT   Pass  Pass  Pass
+[Play "E"]
+D5 DJ D7 DQ
+S7 SA SQ S4
+S8 S2 H9 SK
+HJ HA H2 H4
+D2 H3 HQ H5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "36"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:AT6.Q64.AQ75.AK8 K952.KJ953.863.T Q8743.72.KJT.J32 J.AT8.942.Q97654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Score "NS -200"]
+[Auction "W"]
+Pass  Pass  Pass  1C
+X     1S    Pass  2NT
+Pass  3NT   Pass  Pass
+Pass
+[Play "W"]
+H5 H2 HA H4
+HK H7 HT HQ
+HJ S3 H8 H6
+H9 S4 C4 S6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "36"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:AT6.Q64.AQ75.AK8 K952.KJ953.863.T Q8743.72.KJT.J32 J.AT8.942.Q97654"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -100"]
+[Auction "W"]
+Pass  Pass  Pass  1C!
+Pass  1D!   Pass  1NT
+Pass  2H    Pass  2S
+Pass  3NT   Pass  4S
+Pass  Pass  Pass
+[Play "W"]
+CT CJ CQ CA
+D3 DK D2 D5
+S2 S3 SJ SA
+SK S4 HT ST
+H9 H2 HA H4
+S5 C2 C4 CK
+HK H7 H8 H6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "37"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:QT9.T876.K9.KQ62 K2.942.JT842.J97 A.AJ5.AQ76.AT843 J876543.KQ3.53.5"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "12"]
+[Score "NS 1370"]
+[Auction "N"]
+1C    3S    3NT   Pass
+4D    Pass  5C    Pass
+6C    Pass  Pass  Pass
+[Play "E"]
+HK H6 H2 HA
+C5 CK C7 C3
+S3 CQ C9 C4
+S4 C2 CJ CA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "37"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:QT9.T876.K9.KQ62 K2.942.JT842.J97 A.AJ5.AQ76.AT843 J876543.KQ3.53.5"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Score "NS 660"]
+[Auction "N"]
+1C!   2S    2NT   Pass
+3C    Pass  3S    X
+3NT   Pass  Pass  Pass
+[Play "W"]
+SK SA S3 S9
+H2 H5 HK H6
+D2 D6 D3 DK
+H4 HJ HQ H7
+H9 HA H3 H8
+C7 C3 C5 CK
+C9 CA S4 C2
+CJ C4 S5 CQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "38"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:AKT53.KQJ.T.QT87 Q9.954.AJ9653.A2 J72.72.Q84.KJ965 864.AT863.K72.43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Score "NS -50"]
+[Auction "E"]
+Pass  1S    Pass  2S
+Pass  3C    Pass  4S
+Pass  Pass  Pass
+[Play "W"]
+DA D4 D7 DT
+DJ DQ DK S3
+H4 H2 HA HQ
+D3 D8 D2 S5
+CA C5 C4 CQ
+C2 CK C3 C7
+SQ S2 S4 ST
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "38"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:AKT53.KQJ.T.QT87 Q9.954.AJ9653.A2 J72.72.Q84.KJ965 864.AT863.K72.43"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Score "NS 420"]
+[Auction "E"]
+Pass  1S    2D    2S
+X!    3C    Pass  Pass
+3D    3S    Pass  4S
+Pass  Pass  Pass
+[Play "W"]
+H4 H2 HA HQ
+DA D4 D2 DT
+DJ DQ DK S3
+S9 S2 S4 SA
+SQ S7 S6 SK
+D3 SJ S8 S5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "39"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:Q8.AJ6.Q86.Q9732 J53.Q93.J7542.K8 T9742.K742.3.T64 AK6.T85.AKT9.AJ5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "S"]
+Pass  Pass  Pass  1C
+Pass  1D    Pass  1NT
+Pass  3NT   Pass  Pass
+Pass
+[Play "S"]
+C3 C8 CT CJ
+D6 D2 D3 DK
+D8 D4 S2 DA
+DQ D5 H2 DT
+C2 CK C4 C5
+S8 S3 S4 SA
+SQ S5 S7 SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "39"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:Q8.AJ6.Q86.Q9732 J53.Q93.J7542.K8 T9742.K742.3.T64 AK6.T85.AKT9.AJ5"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "10"]
+[Score "NS -630"]
+[Auction "S"]
+Pass  Pass  Pass  1D
+Pass  1NT   Pass  3NT
+Pass  Pass  Pass
+[Play "N"]
+ST SA S8 S3
+D3 DA D6 D2
+S2 DK D8 D4
+S4 D9 DQ D5
+HK H5 H6 H3
+CT CA C2 C8
+H2 H8 HJ HQ
+S7 SK SQ S5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "40"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:AQ98.A986.43.532 7.KQJT7532.J6.87 JT3.4.KQ852.Q964 K6542..AT97.AKJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Score "NS -420"]
+[Auction "W"]
+4H    Pass  Pass  Pass
+[Play "N"]
+DK DA D3 D6
+S3 SK SA S7
+DQ D7 D4 DJ
+SJ S2 S8 H2
+H4 S4 HA HQ
+ST S5 S9 H7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "40"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:AQ98.A986.43.532 7.KQJT7532.J6.87 JT3.4.KQ852.Q964 K6542..AT97.AKJT"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Score "NS -450"]
+[Auction "W"]
+4H    Pass  Pass  Pass
+[Play "N"]
+SJ S2 S8 S7
+ST S4 S9 H2
+H4 D7 H6 HK
+D2 D9 HA HQ
+DQ DA D4 D6
+S3 S5 SQ H3
+C9 CT H8 HJ
+D8 CJ H9 HT
+C6 CA C2 C7
+D5 S6 SA H5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "41"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:Q4.K98653.J742.2 AT72.2.KQ6.KQT63 J93.QJT74.A3.AJ5 K865.A.T985.9874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "N"]
+1H    Pass  4H    X
+Pass  4S    5H    Pass
+Pass  X     Pass  Pass
+Pass
+[Play "E"]
+S6 S4 SA S9
+C4 C2 CK CA
+HA H3 H2 HT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "41"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:Q4.K98653.J742.2 AT72.2.KQ6.KQT63 J93.QJT74.A3.AJ5 K865.A.T985.9874"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "9"]
+[Score "NS -300"]
+[Auction "N"]
+1H    Pass  4H    X
+Pass  4S    5H    Pass
+Pass  X     Pass  Pass
+Pass
+[Play "E"]
+DT D2 D6 DA
+HA H3 H2 HT
+D9 D4 DQ D3
+S5 S4 SA S3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "42"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:J2.98753.T5.Q542 Q984.QJT.Q74.AK3 AK7653.A2.A83.J6 T.K64.KJ962.T987"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Score "NS -100"]
+[Auction "E"]
+Pass  Pass  1D!   1S
+X!    Pass  1NT   X
+2D    Pass  Pass  2S
+Pass  Pass  Pass
+[Play "E"]
+CT C2 CK C6
+H6 H3 HT HA
+DJ D5 D7 D3
+HK H5 HJ H2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "42"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:J2.98753.T5.Q542 Q984.QJT.Q74.AK3 AK7653.A2.A83.J6 T.K64.KJ962.T987"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Score "NS 100"]
+[Auction "E"]
+Pass  Pass  1C    1S
+3C!   Pass  Pass  Pass
+[Play "N"]
+SA ST S2 S4
+D3 D2 DT DQ
+DA D6 D5 D4
+D8 DK C2 D7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "43"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:75.754.AQJT2.AT7 A632.J.87.QJ9542 KJ98.AK63.6543.8 QT4.QT982.K9.K63"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "7"]
+[Score "NS -150"]
+[Auction "S"]
+1D    Pass  1H    Pass
+1NT   Pass  3D    Pass
+3H    Pass  3S    Pass
+4H    Pass  Pass  Pass
+[Play "E"]
+C3 CA C2 C8
+SQ S5 S2 SJ
+CK C7 C4 H3
+D9 DQ D7 D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "43"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:75.754.AQJT2.AT7 A632.J.87.QJ9542 KJ98.AK63.6543.8 QT4.QT982.K9.K63"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "10"]
+[Score "NS -50"]
+[Auction "S"]
+1D!   Pass  1H    Pass
+2D    Pass  5D    Pass
+Pass  Pass
+[Play "W"]
+HJ HA H2 H4
+C2 C8 C3 CA
+C4 D3 C6 C7
+D7 D4 D9 DQ
+CJ D5 CK CT
+D8 D6 DK DA
+CQ H3 H8 H5
+C5 HK H9 H7
+S6 H6 HT D2
+S2 S8 S4 DJ
+S3 SJ SQ S5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "44"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:QT543.J5.AKJ876. AJ62.AQ98.T9.J87 8.T6432.Q2.KQ953 K97.K7.543.AT642"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "7"]
+[Score "NS -200"]
+[Auction "W"]
+1D!   Pass  1NT   2S
+Pass  Pass  3C    3D
+Pass  Pass  Pass
+[Play "W"]
+DT DQ D5 D7
+SJ S8 S9 ST
+D9 D2 D3 DJ
+C7 H2 D4 DA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "44"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:QT543.J5.AKJ876. AJ62.AQ98.T9.J87 8.T6432.Q2.KQ953 K97.K7.543.AT642"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Score "NS 50"]
+[Auction "W"]
+1C    Pass  2NT   Pass
+Pass  Pass
+[Play "S"]
+DK D9 DQ D3
+DA DT D2 D4
+DJ C7 H2 D5
+D8 S2 C3 C2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "45"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Open"]
+[Deal "S:J943.K862.T97.Q6 QT2.QJ94.KQJ.JT7 K8.T7.A86532.AK5 A765.A53.4.98432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "7"]
+[Score "NS 90"]
+[Auction "N"]
+1D    Pass  1H    Pass
+1NT   Pass  Pass  Pass
+[Play "E"]
+C3 CQ CJ C5
+D4 DT DJ DA
+S5 D9 DQ D2
+C2 C6 C7 CA
+S6 D7 DK D3
+C4 H2 CT CK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "45"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Room "Closed"]
+[Deal "S:J943.K862.T97.Q6 QT2.QJ94.KQJ.JT7 K8.T7.A86532.AK5 A765.A53.4.98432"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2D"]
+[Result "8"]
+[Score "NS 90"]
+[Auction "N"]
+1D!   Pass  1H    Pass
+2D    Pass  Pass  Pass
+[Play "E"]
+C3 CQ C7 C5
+D4 DT DJ DA
+C2 D7 DQ D2
+S7 D9 DK D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "46"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Open"]
+[Deal "S:T7.AQT743.AT3.AT K62.82.984.Q9542 J854.KJ.KQJ52.J7 AQ93.965.76.K863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "E"]
+Pass  1H    Pass  1S
+Pass  2H    Pass  4H
+Pass  Pass  Pass
+[Play "W"]
+C2 C7 CK CA
+H2 HK H5 H3
+H8 HJ H6 HA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "46"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Room "Closed"]
+[Deal "S:T7.AQT743.AT3.AT K62.82.984.Q9542 J854.KJ.KQJ52.J7 AQ93.965.76.K863"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "12"]
+[Score "NS 480"]
+[Auction "E"]
+Pass  1H    Pass  1S
+Pass  2H    Pass  4H
+Pass  Pass  Pass
+[Play "W"]
+D4 D2 D7 DA
+H2 HK H5 H3
+H8 HJ H6 H4
+C2 C7 C3 CA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "47"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Open"]
+[Deal "S:A632.J64.AQJ4.32 QJ754.83.832.876 K8.QT2.KT7.AQJT5 T9.AK975.965.K94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+1D    Pass  2C    2H
+Pass  Pass  3NT   Pass
+Pass  Pass
+[Play "E"]
+HK H4 H3 HT
+HA H6 H8 HQ
+H5 HJ S5 H2
+D5 D4 D2 DK
+D6 DA D3 D7
+D9 DQ D8 DT
+C4 C3 C6 CA
+-  -  -  CQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "47"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Room "Closed"]
+[Deal "S:A632.J64.AQJ4.32 QJ754.83.832.876 K8.QT2.KT7.AQJT5 T9.AK975.965.K94"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Score "NS -100"]
+[Auction "S"]
+1D!   Pass  2C    Pass
+2D    Pass  3NT   Pass
+Pass  Pass
+[Play "E"]
+H7 H4 H8 HT
+D9 D4 D2 DT
+D5 DJ D3 DK
+D6 DQ D8 D7
+C4 DA S4 H2
+HA H6 H3 HQ
+HK HJ S5 C5
+ST SA S7 S8
+CK C2 C6 CT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "48"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Open"]
+[Deal "S:J.J987632.7.9632 9873.Q.KJ6542.A8 QT6.A54.QT83.QT7 AK542.KT.A9.KJ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "11"]
+[Score "NS 100"]
+[Auction "W"]
+Pass  Pass  1C!   3H
+4D    Pass  4S    Pass
+5H    X     Pass  Pass
+6S    Pass  Pass  Pass
+[Play "S"]
+H2 HQ HA HT
+H3 D2 H5 HK
+SJ S3 S6 SA
+H6 S7 ST SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.10.31"]
+[Board "48"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Room "Closed"]
+[Deal "S:J.J987632.7.9632 9873.Q.KJ6542.A8 QT6.A54.QT83.QT7 AK542.KT.A9.KJ54"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Score "NS -650"]
+[Auction "W"]
+Pass  Pass  1S    Pass
+3D!   Pass  3H    Pass
+4C    Pass  4NT!  Pass
+5D!   Pass  5H!   Pass
+5S!   Pass  Pass  Pass
+[Play "S"]
+D7 D2 DT DA
+SJ S3 S6 SA
+H2 S7 ST SK
+H3 DK D3 D9
+C2 CA C7 C4
+C3 C8 CT CK
+C6 S8 CQ C5
+H6 D4 D8 S2
+C9 S9 SQ S4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "49"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQJ985.53.972.3 T43.KQJ7.AQ6.AK7 7.T8642.KJ3.QJT2 62.A9.T854.98654"]
+[Scoring "IMP"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+1C Pass Pass 1S
+1NT Pass Pass 2S
+Pass Pass 3C 3S
+AP
+[Play "N"]
+HK H2 H9 H5
+H7 H4 HA H3
+CK C2 C4 C3
+DA D3 D8 D7
+HJ H6 C5 S8
+S3 S7 S2 SJ
+S4 H8 S6 SA
+ST CT C8 SK
+*
+[Stage "Final Seg 4/8"]
+[HomeTeam "France"]
+[VisitTeam "Indonesia"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQJ985.53.972.3 T43.KQJ7.AQ6.AK7 7.T8642.KJ3.QJT2 62.A9.T854.98654"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "N"]
+1C =1= Pass 1D =2= 4S
+X AP
+[Note "1:strong"]
+[Note "2:neg"]
+[Play "N"]
+HK H2 HA H3
+CK C2 C5 C3
+CA CT C4 S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "50"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q4.Q52.AJ32.AQJ9 K963.83.QT4.T732 JT85.74.976.K654 A72.AKJT96.K85.8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "6"]
+[Auction "E"]
+Pass 1H 1NT Pass
+Pass 2H Pass Pass
+2S AP
+[Play "S"]
+HA H2 H8 H7
+C8 C9 CT CK
+S7 SQ SK S5
+S2 CJ C2 C5
+D5 D2 DT D7
+DK DA D4 D6
+SA CQ C7 C4
+HK H5 H3 H4
+D8 D3 DQ D9
+-  -  S3 S8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:Q4.Q52.AJ32.AQJ9 K963.83.QT4.T732 JT85.74.976.K654 A72.AKJT96.K85.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NTX"]
+[Result "6"]
+[Auction "E"]
+Pass 1H 1NT Pass
+Pass X AP
+[Play "N"]
+H8 H4 HK H2
+H3 H7 HA H5
+-  -  HJ HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "51"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ986.J6.AQ.KJ87 K.KQ972.T843.A42 Q532.T853.J7.T95 T74.A4.K9652.Q63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+Pass 1C =1= 1H Pass =2=
+Pass 1S Pass 2S
+AP
+[Note "1:strong"]
+[Note "2:0-5HCP or penalty pass"]
+[Play "N"]
+D8 D7 D2 DQ
+SK S2 S7 SA
+H2 S3 S4 SJ
+H7 SQ ST S6
+CA CT C3 C8
+HK H3 H4 H6
+H9 H5 HA HJ
+D3 DJ DK DA
+C4 C5 C6 CK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ986.J6.AQ.KJ87 K.KQ972.T843.A42 Q532.T853.J7.T95 T74.A4.K9652.Q63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Auction "S"]
+Pass 1S AP
+[Play "N"]
+HK H3 H4 H6
+H2 H5 HA HJ
+SK S2 S4 S9
+H7 H8 S7 SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "52"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:87.AJT72.K952.J3 Q64.8.A73.AQT754 AJ532.K94.QT8.92 KT9.Q653.J64.K86"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass 1C 1S X =1=
+Pass 2C Pass Pass
+X =2= Pass 2S AP
+[Note "1:neg"]
+[Note "2:t/o"]
+[Play "S"]
+C6 C3 CA C2
+H5 HT H8 H4
+ST S7 S6 SA
+S9 S8 S4 S2
+H3 H2 SQ HK
+C8 CJ CQ C9
+-  -  DA -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:87.AJT72.K952.J3 Q64.8.A73.AQT754 AJ532.K94.QT8.92 KT9.Q653.J64.K86"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass 2C Pass 2D =1=
+Pass 3C =2= AP
+[Note "1:Inquiry"]
+[Note "2:6 @C, minimum"]
+[Play "E"]
+C2 C6 CJ CA
+HK H3 H2 H8
+DT D4 D2 D3
+D8 D6 D5 DA
+C9 C8 C3 CQ
+DQ DJ D9 D7
+H4 H5 H7 C4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "53"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T9.KQJ6.QJ654.94 AKQ5..K987.J8752 6432.T84.T32.AK6 J87.A97532.A.QT3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1C Pass 1H Pass
+1S Pass 2D =1= Pass
+2NT Pass 3H Pass
+3NT AP
+[Note "1:4SF"]
+[Play "E"]
+CA C3 C4 C2
+D3 DA D5 D7
+C6 CQ C9 C5
+CK CT H6 CJ
+DT H2 D4 DK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T9.KQJ6.QJ654.94 AKQ5..K987.J8752 6432.T84.T32.AK6 J87.A97532.A.QT3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "N"]
+1D =1= Pass 1H Pass
+1S Pass 2C =2= Pass
+3C Pass 4S AP
+[Note "1:limited, 2+@D"]
+[Note "2:4SF"]
+[Play "E"]
+D2 DA D4 D7
+CK CT C9 C2
+H4 HA H6 D8
+CA CQ C4 C5
+C6 C3 S9 C7
+H8 H2 HK S5
+DT S7 D5 D9
+S2 S8 ST SA
+S3 SJ D6 SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "54"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A653.AK943.AJ54. JT97.J62.K87.A54 Q.QT85.Q632.J876 K842.7.T9.KQT932"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1C Pass
+1D 2C X 3C
+3H 4C 4H AP
+[Play "S"]
+CK H3 C4 C8
+S4 SA S7 SQ
+S2 S3 S9 H5
+DT DJ DK D3
+C9 H4 C5 C6
+S8 S5 ST H8
+D9 DA D7 D2
+SK S6 SJ HQ
+H7 HA H2 HT
+C3 HK H6 C7
+-  D4 D8 DQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:A653.AK943.AJ54. JT97.J62.K87.A54 Q.QT85.Q632.J876 K842.7.T9.KQT932"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1H Pass
+2H 3C 4C Pass
+4H AP
+[Play "N"]
+SJ SQ SK SA
+S7 H5 S2 S3
+DK D2 D9 DJ
+C4 C6 C9 H3
+S9 H8 S4 S5
+H2 HQ H7 H4
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "55"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:9842.T5.AQT72.75 QT.Q98742.J94.K9 AK63.K.K853.QT64 J75.AJ63.6.AJ832"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1D =1=
+X Pass 4H X
+AP
+[Note "1:limited, 2+@D"]
+[Play "E"]
+SA S5 S4 SQ
+SK S7 S2 ST
+D3 D6 DA D4
+DK H3 D7 DJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:9842.T5.AQT72.75 QT.Q98742.J94.K9 AK63.K.K853.QT64 J75.AJ63.6.AJ832"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+2D =1= Pass 4H AP
+[Note "1:12-16 HCP, short suit or 1435"]
+[Play "E"]
+SA -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "56"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J987.K97.J732.Q6 QT63.JT5.A654.T9 5.AQ632.T9.AJ853 AK42.84.KQ8.K742"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1H X
+2H 2S 3H 3S
+Pass 4S Pass Pass
+X AP
+[Play "E"]
+DT DK D3 D4
+S5 SA S8 S3
+H3 SK S9 S6
+HQ H4 H9 HT
+H2 H8 HK H5
+HA S2 H7 HJ
+D9 DQ D2 D5
+C3 D8 DJ DA
+CA C2 C6 CT
+C5 CK CQ C9
+C8 S4 SJ SQ
+CJ C4 S7 ST
+H6 C7 D7 D6
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J987.K97.J732.Q6 QT63.JT5.A654.T9 5.AQ632.T9.AJ853 AK42.84.KQ8.K742"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "W"]
+Pass Pass 1H X
+2H X =1= 3H 3S
+AP
+[Note "1:responsive"]
+[Play "W"]
+H7 HJ HA H4
+HK H5 H2 H8
+H9 HT HQ S2
+S7 S3 S5 SA
+S8 S6 C3 SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "57"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ976.QJT6.QJ2.3 AT42.98743.K543. Q8..A9.AKQJ87542 53.AK52.T876.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass 1C =1= Pass 1S
+Pass 2S =2= Pass 3C =3=
+Pass 3D =4= Pass 3S =5=
+Pass 4NT =6= Pass 5D =7=
+Pass 6C AP
+[Note "1:strong"]
+[Note "2:asking"]
+[Note "3:A, K or Q"]
+[Note "4:asking"]
+[Note "5:A,K or Q"]
+[Note "6:extras in @S/@D?"]
+[Note "7:yes something"]
+[Play "S"]
+HA H6 H3 C4
+C6 C3 H4 CA
+C9 S6 H7 CK
+CT S7 H8 CQ
+D8 HT D4 CJ
+H2 D2 D3 C8
+D6 HJ S2 C7
+H5 HQ H9 C5
+S5 SK SA SQ
+DT DJ D5 D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ976.QJT6.QJ2.3 AT42.98743.K543. Q8..A9.AKQJ87542 53.AK52.T876.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass 2C =1= Pass 2NT =2=
+Pass 4C Pass 4S =3=
+Pass 5C Pass 6C
+AP
+[Note "1:strong, game forcing"]
+[Note "2:8+HCP, no Aces"]
+[Note "3:@S contol, no @D control"]
+[Play "S"]
+HA H6 H3 C4
+C6 C3 H4 CA
+C9 S6 H7 CK
+CT S7 H8 CQ
+D8 HT D4 CJ
+H2 D2 D3 C8
+D6 HJ S2 C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "58"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:73.T98764.AJ.K96 Q964.AKJ2.QT9.Q3 J82.5.K863.AJ752 AKT5.Q3.7542.T84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1S Pass 2S
+AP
+[Play "W"]
+DA D9 D8 D2
+DJ DT DK D4
+S3 DQ D3 D5
+C6 C3 CA C4
+CK CQ C2 C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:73.T98764.AJ.K96 Q964.AKJ2.QT9.Q3 J82.5.K863.AJ752 AKT5.Q3.7542.T84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass Pass 1D =1=
+Pass 1S Pass 2S
+AP
+[Note "1:limited, 2+@D"]
+[Play "W"]
+HT H2 H5 HQ
+S3 S4 S2 SA
+S7 S6 S8 SK
+H4 SQ SJ S5
+H6 HA C2 H3
+H7 HK D6 C4
+H8 HJ C5 C8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "59"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK7.K74.T64.A762 JT9653.62.K75.KJ Q42.QT.QJ82.Q953 8.AJ9853.A93.T84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "5"]
+[Auction "S"]
+2H X Pass 3C =1=
+Pass 3NT AP
+[Note "1:construvtive"]
+[Play "N"]
+H6 HT HJ H4
+H2 HQ HA H7
+S5 C3 H8 HK
+D5 DQ DA D6
+D7 S2 H9 C6
+S3 D2 H5 C2
+S6 D8 H3 C7
+CJ C5 C4 CA
+S9 SQ S8 S7
+ST S4 D3 SA
+SJ DJ -  SK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK7.K74.T64.A762 JT9653.62.K75.KJ Q42.QT.QJ82.Q953 8.AJ9853.A93.T84"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+2H Pass 3H AP
+[Play "W"]
+SA S3 S2 S8
+H4 H2 HQ HA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{Declarer lost just a trump trick,two clubs, a spade and a diamond for one down}
+{}
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "60"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT952.97.K2.T843 3.Q8652.6.AK9765 A.AKT43.AQ974.Q2 KJ8764.J.JT853.J"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3CX"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1C 2S
+Pass Pass X Pass
+Pass 3C Pass Pass
+X AP
+[Play "E"]
+HA HJ H9 H2
+CQ CJ C4 CK
+SA S4 S2 S3
+DA D3 D2 D6
+D4 D5 DK C5
+HT S6 H7 H8
+HK S7 S5 H6
+H3 S8 C3 H5
+D7 SJ S9 C9
+C2 D8 CT CA
+H4 DT C8 HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:QT952.97.K2.T843 3.Q8652.6.AK9765 A.AKT43.AQ974.Q2 KJ8764.J.JT853.J"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3SX"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1H 2S
+Pass Pass X Pass
+Pass 3C X 3D
+X 3S X AP
+[Play "W"]
+H9 H2 HK HJ
+S2 S3 SA S4
+DK D6 D4 DT
+H7 HQ HA S6
+C3 CA C2 CJ
+C4 CK CQ D3
+C8 C5 D9 S7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "61"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8652.K6.J632.Q87 AKJ943.AJ94.T.64 Q7.QT753.974.J93 T.82.AKQ85.AKT52"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "13"]
+[Auction "N"]
+1S Pass 2D Pass
+2H Pass 3C Pass
+3S Pass 3NT Pass
+4S AP
+[Play "E"]
+C9 CA C8 C4
+S7 ST S2 SA
+SQ C2 S5 SK
+C3 H2 S6 SJ
+H3 C5 S8 S9
+D4 DA D3 DT
+D7 DK D2 H4
+D9 DQ D6 H9
+-  D8 DJ S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:8652.K6.J632.Q87 AKJ943.AJ94.T.64 Q7.QT753.974.J93 T.82.AKQ85.AKT52"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "N"]
+1S Pass 2D =1= Pass
+2H Pass 2NT Pass
+3S Pass 3NT AP
+[Note "1:Game forcing"]
+[Play "W"]
+C7 C4 CJ CA
+S5 SJ SQ ST
+C8 C6 C9 CK
+H6 HA H3 H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "62"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT84.J.T875.8732 963.AK763.962.KQ J72.T9.AQ3.JT965 AQ5.Q8542.KJ4.A4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1NT Pass 2D =1=
+Pass 3H Pass 4H
+AP
+[Note "1:4+@H"]
+[Play "W"]
+D5 D2 DA D4
+DT D6 D3 DK
+HJ HA H9 H5
+C3 H3 HT HQ
+C2 CQ C5 CA
+C7 CK C6 C4
+D7 D9 DQ DJ
+ST S3 S2 S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT84.J.T875.8732 963.AK763.962.KQ J72.T9.AQ3.JT965 AQ5.Q8542.KJ4.A4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6HX"]
+[Result "11"]
+[Auction "E"]
+Pass 1NT Pass 2D =1=
+Pass 2S Pass 3NT
+Pass 4C Pass 4H
+Pass 4S Pass 5H
+Pass 6C Pass 6H
+X AP
+[Note "1:5+@H or other strong hands"]
+[Play "E"]
+DA D4 D5 D2
+D3 DJ D7 D6
+H9 H2 HJ HA
+HT H4 C2 HK
+DQ DK D8 D9
+C5 CA C3 CQ
+C6 C4 C7 CK
+S2 S5 S8 S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "63"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KJ93.J.Q9874.AK4 A2.AK98.AK5.J965 84.T6542.T32.T32 QT765.Q73.J6.Q87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass 1D =1= X 1H
+1S Pass 1NT Pass
+3NT AP
+[Note "1:limited, 2+@D"]
+[Play "E"]
+H6 H3 HJ HK
+C3 CQ CK C6
+D2 DJ D9 D5
+CT C7 C4 C5
+S8 ST SJ SA
+H4 H7 S3 H8
+H5 HQ D4 H9
+C2 C8 CA C9
+-  -  D8 -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:KJ93.J.Q9874.AK4 A2.AK98.AK5.J965 84.T6542.T32.T32 QT765.Q73.J6.Q87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+Pass 1D X Pass
+1S Pass 1NT Pass
+3S Pass 4S AP
+[Play "W"]
+CA C5 C2 C7
+CK C6 C3 C8
+C4 C9 CT CQ
+-  -  -  S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "64"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J986.J8.T65.Q865 K52.A3.KQJ92.942 T.KQ9754.843.A73 AQ743.T62.A7.KJT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 1H 1S
+Pass 1NT Pass 2H
+Pass 2S Pass 4S
+AP
+[Play "W"]
+HJ H3 HQ H6
+CQ C2 C3 CT
+C6 C4 CA CJ
+H8 HA H7 H2
+S6 S2 ST SA
+S9 SK H4 S3
+D6 D2 D8 DA
+-  -  -  HT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J986.J8.T65.Q865 K52.A3.KQJ92.942 T.KQ9754.843.A73 AQ743.T62.A7.KJT"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "10"]
+[Auction "W"]
+Pass 1D =1= 2H 2S
+Pass 3S Pass 4S
+AP
+[Note "1:Limited,2+@D"]
+[Play "W"]
+HJ HA H7 H2
+S6 S2 ST SA
+S8 S5 D3 SQ
+D5 D2 D4 DA
+D6 DK D8 D7
+DT DQ H4 H6
+S9 DJ H5 HT
+H8 H3 HQ S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "65"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK8.KQT975.74.Q8 Q432.AJ4.KT6.J65 75.8.QJ532.AK743 JT96.632.A98.T92"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[HomeTeam "France"]
+[Room "Open"]
+[Stage "Seg 5/8"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+1H Pass 1NT Pass
+2H Pass Pass Pass
+[Play "E"]
+D6 DJ DA D4
+S2 S5 SJ SA
+S3 S7 S6 SK
+S4 H8 S9 S8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK8.KQT975.74.Q8 Q432.AJ4.KT6.J65 75.8.QJ532.AK743 JT96.632.A98.T92"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1H Pass 1NT Pass
+2H Pass Pass Pass
+[Play "E"]
+S4 S5 S9 SA
+S2 S7 S6 SK
+S3 H8 ST S8
+C5 C3 C2 CQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "66"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T8.AJ6542.3.KT42 52.T9.KQJT752.A7 AQ93.KQ8.A94.Q53 KJ764.73.86.J986"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2D 3D 4H Pass
+Pass Pass
+[Play "N"]
+D8 D3 DT DA
+H3 H2 H9 HK
+D6 H4 D7 D4
+SJ ST S5 S3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T8.AJ6542.3.KT42 52.T9.KQJT752.A7 AQ93.KQ8.A94.Q53 KJ764.73.86.J986"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2H 3D 4H Pass
+Pass Pass
+[Play "S"]
+DK DA D8 D3
+HT HK H7 H2
+H9 HQ H3 H4
+D2 D4 D6 H6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "67"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ7.AT5.J6532.54 KJ85.J63.KQ8.JT8 T9.9842.AT4.KQ62 6432.KQ7.97.A973"]
+[Scoring "#"]
+[Declarer ""]
+[Contract "Pass"]
+[Result ""]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass Pass
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ7.AT5.J6532.54 KJ85.J63.KQ8.JT8 T9.9842.AT4.KQ62 6432.KQ7.97.A973"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+CJ CK CA C4
+C8 CQ C3 C5
+DQ D4 D7 DJ
+CT C2 C7 S7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "68"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K3.KJ9862.9.J984 AQ9.A7.AT874.AK7 J6.Q3.KQJ653.632 T87542.T54.2.QT5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2NT Pass 3H
+X 3S Pass 4S
+Pass Pass Pass
+[Play "E"]
+DK D2 D9 DA
+S6 S2 S3 SA
+D5 H4 SK DT
+H3 H5 HJ HA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K3.KJ9862.9.J984 AQ9.A7.AT874.AK7 J6.Q3.KQJ653.632 T87542.T54.2.QT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+2H X 3H Pass
+Pass X Pass 4S
+Pass Pass Pass
+[Play "W"]
+D9 DA D3 D2
+S3 SA S6 S2
+SK D4 D6 S4
+C8 CA C2 C5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "69"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ96.95.7.AKT542 T5.KT.KJ9643.QJ8 AK3.Q87643.A52.9 8742.AJ2.QT8.763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C 1D 1H 2D
+Pass Pass X Pass
+2S Pass 3H Pass
+Pass Pass
+[Play "W"]
+DT D7 D6 DA
+D8 H5 D3 D2
+C3 CA C8 C9
+C6 CK CJ D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJ96.95.7.AKT542 T5.KT.KJ9643.QJ8 AK3.Q87643.A52.9 8742.AJ2.QT8.763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C 1D 1H 2D
+Pass 3D X Pass
+3S Pass 4H Pass
+Pass Pass
+[Play "W"]
+D8 D7 DK DA
+DT H5 D3 D5
+C3 CA C8 C9
+C6 CK CJ D2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "70"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A95.AT6.Q74.J862 QT.KQ97.JT96.A43 KJ864.J83.A5.KT5 732.542.K832.Q97"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1D 1S Pass
+2D Pass 2S 3D
+3S Pass Pass Pass
+[Play "N"]
+D3 D4 D9 DA
+S2 SA SQ S4
+CQ C2 C3 CT
+H5 H6 HQ H8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A95.AT6.Q74.J862 QT.KQ97.JT96.A43 KJ864.J83.A5.KT5 732.542.K832.Q97"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "4"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1NT Pass Pass
+Pass
+[Play "W"]
+S6 S2 SA ST
+SK S3 S9 SQ
+S8 S7 S5 D9
+SJ H2 C6 H7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "71"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:4.AKQ83.Q942.983 KJT63.T.863.AQ72 Q2.97652.7.KJT54 A9875.J4.AKJT5.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H 1S 4H 5H
+Pass 5S Pass 6S
+Pass Pass Pass
+[Play "N"]
+D7 DA D4 D6
+S2 SA S4 ST
+SQ S5 H8 SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:4.AKQ83.Q942.983 KJT63.T.863.AQ72 Q2.97652.7.KJT54 A9875.J4.AKJT5.6"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1H 1S 4H 4S
+Pass Pass Pass
+[Play "N"]
+D7 DA D4 D3
+S2 S5 S4 SK
+SQ SA H8 S6
+H2 H4 HK HT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "72"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ74.943.T.KJ943 J83.AJ862.9762.7 T2.T75.J53.AQ852 K965.KQ.AKQ84.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1D
+2C X 4C 4S
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+C4 C7 CA CT
+SQ S3 ST S5
+SA S8 S2 S6
+S4 SJ D3 S9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ74.943.T.KJ943 J83.AJ862.9762.7 T2.T75.J53.AQ852 K965.KQ.AKQ84.T6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5D"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1D
+X 1H 2C X
+4C Pass Pass 4D
+Pass 5D Pass Pass
+Pass
+[Play "W"]
+C3 C7 CA C6
+SQ S3 ST S5
+SA S8 S2 S6
+S4 SJ D5 S9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "73"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:93.K5.T8654.9432 KQ7652.QJ3.J2.K7 JT.T862.AK73.JT8 A84.A974.Q9.AQ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2S Pass 3S
+Pass 4C Pass 4H
+X 4S Pass Pass
+Pass
+[Play "S"]
+DA D9 D4 D2
+DK DQ D8 DJ
+H2 HA H5 H3
+ST S4 S3 SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:93.K5.T8654.9432 KQ7652.QJ3.J2.K7 JT.T862.AK73.JT8 A84.A974.Q9.AQ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2S Pass 3H
+Pass 3S Pass 4S
+Pass Pass Pass
+[Play "S"]
+DA D9 D4 D2
+DK DQ DT DJ
+H2 HA H5 H3
+SJ S4 S9 SQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "74"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJ95.J64.KJ43.54 Q8.K987.AT75.Q82 KT643.AQ2.Q98.76 72.T53.62.AKJT93"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S Pass
+2C Pass 2D Pass
+2S Pass Pass 3C
+3S Pass Pass Pass
+[Play "N"]
+CA C4 C2 C6
+CK C5 C8 C7
+D6 D3 DT DQ
+S2 SA S8 S3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AJ95.J64.KJ43.54 Q8.K987.AT75.Q82 KT643.AQ2.Q98.76 72.T53.62.AKJT93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4C"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1S 3C
+3S 4C Pass Pass
+Pass
+[Play "E"]
+SA S8 S3 S7
+S5 SQ SK S2
+C4 C2 C7 CJ
+C5 C8 C6 CA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "75"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ2.J93.QJ98.Q62 Q6.AQ52.A62.T543 AT9854.K.K5.AJ87 73.T8764.T743.K9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CK C2 C4 CA
+S3 SK S6 S5
+S7 S2 SQ SA
+D3 DJ DA D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ2.J93.QJ98.Q62 Q6.AQ52.A62.T543 AT9854.K.K5.AJ87 73.T8764.T743.K9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C 1S Pass
+2S Pass 4S Pass
+Pass Pass
+[Play "E"]
+CK C2 C5 CA
+S3 SK S6 S4
+S7 S2 SQ SA
+D3 DQ DA D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "76"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9642.T9.AT63.J54 KJT875.832.4.K97 Q.KQJ7.KQ95.AT82 A3.A654.J872.Q63"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2S X 3S
+Pass Pass X Pass
+Pass Pass
+[Play "E"]
+HK HA HT H3
+SQ S3 S4 SJ
+HQ H4 H9 H2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9642.T9.AT63.J54 KJT875.832.4.K97 Q.KQJ7.KQ95.AT82 A3.A654.J872.Q63"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 2D X 2S
+Pass Pass 3D Pass
+4D Pass Pass Pass
+[Play "S"]
+SA S2 S8 SQ
+S3 S4 ST D5
+H6 H9 H3 H7
+DJ S6 S7 D9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "77"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J54.AT542.T.JT52 KQT.KQ7.9653.A74 97632.863.AJ.Q86 A8.J9.KQ8742.K93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 2D
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+S3 S8 SJ SQ
+DJ DK DT D3
+DA DQ S5 D6
+CQ CK C5 C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:J54.AT542.T.JT52 KQT.KQ7.9653.A74 97632.863.AJ.Q86 A8.J9.KQ8742.K93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1C Pass 1D
+Pass 1NT Pass 3NT
+Pass Pass Pass
+[Play "S"]
+S3 S8 SJ SQ
+DJ DK DT D5
+DA D2 H5 D6
+H8 H9 HA H7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "78"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A6.J763.QJT65.T9 K87.T2.87.AK8754 QJ2.KQ54.AK.Q632 T9543.A98.9432.J"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2C X 2H Pass
+4H Pass Pass Pass
+[Play "N"]
+CJ C9 CK C3
+S3 S6 S7 SQ
+H8 H3 H2 HQ
+HA H6 HT HK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A6.J763.QJT65.T9 K87.T2.87.AK8754 QJ2.KQ54.AK.Q632 T9543.A98.9432.J"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 3C X Pass
+3H Pass Pass Pass
+[Play "S"]
+CA C2 CJ CT
+C8 C3 H8 C9
+S8 S2 S4 SA
+D7 DK D2 D6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "79"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q742.QJ42.542.Q2 J6.A87.QJT7.AJ86 AKT983.T653.A6.T 5.K9.K983.K97543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D 1S 2C
+2S 3C 3H 5C
+Pass Pass Pass
+[Play "S"]
+S7 S6 SK S5
+H4 H7 H6 HK
+C2 C6 CT CK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q742.QJ42.542.Q2 J6.A87.QJT7.AJ86 AKT983.T653.A6.T 5.K9.K983.K97543"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5CX"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D 1S 2D
+2S Pass 4S 5C
+Pass Pass X Pass
+Pass Pass
+[Play "S"]
+HQ H7 H3 HK
+C2 C6 CT CK
+CQ CA ST C3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "80"]
+[West "Manoppo"]
+[North "Mari"]
+[East "Lasut"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T72.K76542.93.J2 Q.AQJ83.QJ2.AKT4 AK984.T.AK764.Q5 J653.9.T85.98763"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H 2H Pass
+2S X Pass 3C
+Pass Pass 3D Pass
+3S Pass Pass Pass
+[Play "N"]
+CA C5 C3 C2
+CK CQ C7 CJ
+SQ SA S3 S2
+D2 DA D5 D3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Panelewen"]
+[East "Multon"]
+[South "Watulingas"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:T72.K76542.93.J2 Q.AQJ83.QJ2.AKT4 AK984.T.AK764.Q5 J653.9.T85.98763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass 1H 3C Pass
+3S X Pass 4C
+Pass Pass Pass
+[Play "W"]
+D9 D2 DK DT
+D3 DJ DA D5
+C2 DQ D7 D8
+S2 SQ SK S3
+CJ CA D4 C9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "81"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:94.K8.AJ2.QT6543 76.QT32.KT875.AK AKJ832.654.Q4.87 QT5.AJ97.963.J92"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[HomeTeam "France"]
+[Room "Open"]
+[Stage "Final Seg 6/8"]
+[VisitTeam "Indonesia"]
+[Auction "N"]
+Pass 1D 2S Pass
+Pass Pass
+[Play "W"]
+D6 D2 DK D4
+C2 C3 CK C8
+CJ C4 CA C7
+HA H8 H2 H5
+C9 CQ S6 S8
+H9 HK H3 H4
+D3 DA D7 DQ
+D9 DJ D5 S2
+H7 S4 HT H6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:94.K8.AJ2.QT6543 76.QT32.KT875.AK AKJ832.654.Q4.87 QT5.AJ97.963.J92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D 1S X
+Pass 3H Pass Pass
+Pass
+[Play "S"]
+SA S5 S9 S6
+SK ST S4 S7
+SJ SQ H8 HT
+H4 H7 HK H2
+- - D2 -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "82"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K8.76.AKQ9875.K7 Q643.J98432.J6.Q T75.KT.T3.AJ9653 AJ92.AQ5.42.T842"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C Pass 2C Pass
+2D Pass 3C Pass
+3NT Pass Pass Pass
+[Play "S"]
+H4 HK HA H7
+H3 HT HQ H6
+H8 S5 H5 D5
+HJ S7 D2 D7
+H9 ST D4 D8
+H2 C3 S2 D9
+CQ C5 C4 CK
+D6 D3 S9 DA
+DJ DT SJ DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K8.76.AKQ9875.K7 Q643.J98432.J6.Q T75.KT.T3.AJ9653 AJ92.AQ5.42.T842"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "13"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D Pass 1NT Pass
+3NT Pass Pass Pass
+[Play "N"]
+HQ H6 H2 HK
+D2 DA D6 DT
+D4 DK DJ D3
+C2 DQ H3 C3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "83"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J932.52.K9764.A4 K.A763.Q.KQT7653 AQ85.J9.AJT52.92 T764.KQT84.83.J8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 2C 2D X
+5D Pass Pass X
+Pass Pass Pass
+[Play "E"]
+CJ CA CK C2
+D3 DK DQ DT
+D8 D4 C7 DJ
+C8 C4 CT C9
+H4 H2 HA H9
+S4 S3 SK SA
+HQ H5 H7 HJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:J932.52.K9764.A4 K.A763.Q.KQT7653 AQ85.J9.AJT52.92 T764.KQT84.83.J8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1C 1D 1H
+1S 3H 4S 5H
+5S Pass Pass Pass
+[Play "W"]
+CK C2 CJ CA
+SK SA S4 SJ
+DQ D2 D3 DK
+C3 S8 ST S2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "84"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKT93.Q763.T.Q97 J872.JT5.852.K42 5.K942.KQ74.JT83 Q64.A8.AJ963.A65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 1NT Pass
+2H Pass Pass Pass
+[Play "N"]
+H5 H2 HA H3
+HT HK H8 H6
+CK C3 C5 CQ
+HJ H4 D3 HQ
+C4 CJ CA C7
+S7 S5 S4 SA
+S2 D4 S6 SK
+D2 DK DA DT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKT93.Q763.T.Q97 J872.JT5.852.K42 5.K942.KQ74.JT83 Q64.A8.AJ963.A65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1S Pass 1NT Pass
+2H Pass 3H Pass
+Pass Pass
+[Play "N"]
+C2 C3 CA C7
+CK C8 C6 C9
+C4 CT C5 CQ
+- - - H3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "85"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT.AJT654.Q95.85 97.8.AKJ6.AQT964 Q643.KQ73.T87.J2 AJ852.92.432.K73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2H 3C 3H 3S
+Pass 4S Pass Pass
+Pass
+[Play "N"]
+HA H8 H7 H9
+D9 DA D7 D3
+ST S9 S3 S2
+D5 DJ D8 D4
+C8 C9 C2 CK
+H4 S7 H3 H2
+DQ DK DT D2
+SK D6 CJ S8
+C5 C4 S4 C7
+- - HK -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT.AJT654.Q95.85 97.8.AKJ6.AQT964 Q643.KQ73.T87.J2 AJ852.92.432.K73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5C"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2H 3C 3H 4C
+Pass 4H Pass 4S
+Pass 5C Pass Pass
+Pass
+[Play "S"]
+HK H2 H4 H8
+D7 D2 DQ DA
+C2 C3 C5 CA
+S3 S2 ST S7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "86"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q97.9.A6.AQ96432 KT32.KJ64.KJT.J7 AJ.AQ82.Q932.KT5 8654.T753.8754.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+2C =1= Pass 2NT =2= Pass
+3NT Pass Pass Pass
+[Note "1:6+@C or 5@C/4major"]
+[Note "2:forcing one round"]
+[Play "N"]
+D7 D6 DK D3
+D4 DA DJ D2
+C8 C2 CJ CK
+D5 S7 DT DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q97.9.A6.AQ96432 KT32.KJ64.KJT.J7 AJ.AQ82.Q932.KT5 8654.T753.8754.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1C X XX 1H
+2C Pass 3NT Pass
+Pass Pass
+[Play "N"]
+S6 S7 ST SJ
+C8 CQ C7 CT
+H3 H9 HJ HQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "87"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AK.K95.QJT83.864 T.8763.A2.AQJ972 J87653.AQT42.74. Q942.J.K965.KT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D 2C 2S 4C =1=
+Pass Pass 4H Pass
+Pass Pass
+[Note "1:preemptive"]
+[Play "E"]
+C3 C4 CA H2
+D6 DQ DA D7
+C5 C6 C9 H4
+DK D3 D2 D4
+CK C8 C7 HT
+HJ H5 H3 HA
+S2 SK ST S3
+D5 HK H6 HQ
+D9 DJ H7 S5
+CT H9 CQ S6
+- SA H8 S7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:AK.K95.QJT83.864 T.8763.A2.AQJ972 J87653.AQT42.74. Q942.J.K965.KT53"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D =1= 2C 2S 3C
+Pass Pass 3H 4C
+4H Pass Pass Pass
+[Note "1:limited 2+@D"]
+[Play "E"]
+CK - - -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "88"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:2.AK986.K65.AQT9 KT43.Q.AQ9832.76 A9765.J743.T7.K8 QJ8.T52.J4.J5432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C 2D 2S Pass
+3H Pass 4H Pass
+Pass Pass
+[Play "N"]
+HQ H3 H5 HA
+D9 HJ H2 H9
+C6 CK C2 C9
+C7 C8 C5 CA
+D2 D7 C3 CQ
+DA DT D4 DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:2.AK986.K65.AQT9 KT43.Q.AQ9832.76 A9765.J743.T7.K8 QJ8.T52.J4.J5432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1H 2D 3H Pass
+4H Pass Pass Pass
+[Play "N"]
+S3 SA S8 S2
+HQ H3 H2 HK
+C6 CK C2 C9
+C7 C8 C3 CA
+D9 D7 C4 CQ
+DA DT D4 DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "89"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ83.QJT2.QT5.96 JT742.873.A9.A75 965.K.KJ843.QT43 K.A9654.762.KJ82"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2C
+Pass 2H Pass Pass
+Pass
+[Play "N"]
+D5 DA D3 D6
+DT D9 DK D2
+H2 H3 HK HA
+DQ H7 D4 D7
+HT H8 S5 H4
+HQ S2 D8 H6
+HJ S4 S6 H5
+SA S7 S9 SK
+C9 C5 C4 CJ
+S3 ST - H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ83.QJT2.QT5.96 JT742.873.A9.A75 965.K.KJ843.QT43 K.A9654.762.KJ82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1D =1= Pass 1NT Pass
+Pass Pass
+[Note "1:limited 2+@D"]
+[Play "W"]
+H5 H2 H7 HK
+D2 DQ DA D3
+SK SA S2 S5
+HA HJ H8 S6
+C2 C6 CA C3
+- - SJ -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "90"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KT42.K.KQ975.QJT A3.QT765.842.K95 J965.8.J63.A8764 Q87.AJ9432.AT.32"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4HX"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D =1= Pass 1S 2H
+2S 4H X Pass
+Pass Pass
+[Note "1:limited 2+@D"]
+[Play "E"]
+CQ CK CA C3
+DQ D2 D3 DT
+CJ C5 C6 C2
+CT C9 C7 H2
+SK SA S6 SQ
+HK HQ H8 H3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KT42.K.KQ975.QJT A3.QT765.842.K95 J965.8.J63.A8764 Q87.AJ9432.AT.32"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D 1H 1S 2D =1=
+2S Pass Pass 4H
+Pass Pass Pass
+[Note "1:@H support, invitational +"]
+[Play "W"]
+D3 DT DQ D2
+CA C2 CQ CK
+S5 SQ SK SA
+H8 HA HK H5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "91"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A43.9532.AK952.Q QJ.AKJ8.74.76542 85.QT764.JT.AK98 KT9762..Q863.JT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D 1H Pass 1S
+Pass 2C X 2S
+Pass Pass Pass
+[Play "S"]
+S4 SJ S5 S2
+H2 HA H4 C3
+H3 HK H6 CT
+DK D4 DT DQ
+CQ C2 CK CJ
+- - S8 -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A43.9532.AK952.Q QJ.AKJ8.74.76542 85.QT764.JT.AK98 KT9762..Q863.JT3"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1D =1= 1H Pass 1S
+Pass 2C X Pass
+Pass 2S Pass Pass
+Pass
+[Note "1:limited, 2+@D"]
+[Play "S"]
+DA D4 DT D3
+CQ C2 C9 C3
+DK D7 DJ D6
+D2 SQ H4 D8
+H2 HA H6 CT
+H3 HK H7 CJ
+H5 H8 HT S2
+- - - DQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "92"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q932.J94.Q973.QT A84.QT762.A6.985 JT6.853.K4.AJ632 K75.AK.JT852.K74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1D =1= Pass
+1S Pass Pass 1NT
+Pass Pass Pass
+[Note "1:limited,2+@D"]
+[Play "W"]
+D3 D6 DK D5
+S3 SA SJ S5
+D7 DA D4 D2
+H9 H2 H5 HA
+DQ H6 C6 DJ
+S2 S4 ST SK
+D9 S8 H3 DT
+H4 C5 C2 D8
+S9 C8 S6 S7
+SQ C9 C3 C4
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:Q932.J94.Q973.QT A84.QT762.A6.985 JT6.853.K4.AJ632 K75.AK.JT852.K74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1NT
+Pass 2D =1= Pass 2H
+Pass 2NT Pass 3NT
+Pass Pass Pass
+[Note "1:usually 5+@H"]
+[Play "W"]
+D3 D6 DK D2
+CT C5 C2 C4
+CQ C8 CA C7
+S2 S4 SJ SK
+D7 DA D4 D5
+H4 H2 H3 HA
+H9 H6 H5 HK
+DQ S8 C3 DJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "93"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:72.J97632.6.AJ42 A65.KQ8.AJT53.T8 KJ93.T.KQ842.Q76 QT84.A54.97.K953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Play "S"]
+D4 D7 D6 D3
+DQ D9 H6 D5
+HT H4 H2 HK
+DK C3 H3 DJ
+D2 S4 C4 DA
+SK S8 S7 S5
+S3 SQ S2 S6
+D8 H5 HJ HQ
+S9 C5 H7 DT
+C6 CK CA CT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:72.J97632.6.AJ42 A65.KQ8.AJT53.T8 KJ93.T.KQ842.Q76 QT84.A54.97.K953"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2HX"]
+[Result "6"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1D Pass 1S
+Pass 1NT Pass Pass
+2H Pass Pass X
+Pass Pass Pass
+[Play "E"]
+CT C6 C3 CJ
+DA D2 D7 D6
+C8 C7 C5 CA
+SA S3 S4 S2
+H8 HT HA H2
+S5 CQ CK C2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "94"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:76.JT642.KJ.7654 8.AK53.Q43.AKQJT AQT9.97.A8652.82 KJ5432.Q8.T97.93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "7"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C 1D 1S
+Pass 2H Pass 2S
+Pass 2NT Pass 3S
+Pass Pass Pass
+[Play "E"]
+DK D3 D6 D9
+DJ DQ DA D7
+S6 D4 D8 DT
+H4 HA H9 H8
+S7 S8 ST SK
+- - - S2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:76.JT642.KJ.7654 8.AK53.Q43.AKQJT AQT9.97.A8652.82 KJ5432.Q8.T97.93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1C =1= 1D X =2=
+XX 2C Pass 2S
+Pass 2NT Pass 3S
+Pass 3NT Pass Pass
+Pass
+[Note "1:strong"]
+[Note "2:5+HCP,bal or 5-7HCP unbal"]
+[Play "W"]
+SA S2 S6 S8
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "95"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KJT632.K.KJ32.QT 4.J76532.Q.K9876 Q85.AT94.T86.543 A97.Q8.A9754.AJ2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 2S 3D
+3S Pass Pass Pass
+[Play "W"]
+DQ D6 D4 DK
+S4 S5 SA SJ
+C9 D8 D7 D2
+H2 H4 H8 HK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KJT632.K.KJ32.QT 4.J76532.Q.K9876 Q85.AT94.T86.543 A97.Q8.A9754.AJ2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1S Pass 1NT =1= Pass
+2D Pass 2S Pass
+Pass Pass
+[Note "1:forcing one round"]
+[Play "W"]
+H2 H4 HQ HK
+S4 SQ SA S6
+DQ D6 D4 D2
+H3 HT H8 CT
+C6 S8 S9 ST
+H5 S5 S7 SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "96"]
+[West "Manoppo"]
+[North "Mouiel"]
+[East "Lasut"]
+[South "Levy"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J95.QJ9.AJ8.AT97 Q.8642.T9765.K86 K843.T53.KQ42.53 AT762.AK7.3.QJ42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass Pass Pass
+[Play "N"]
+D6 D2 D3 DJ
+SQ SK SA S9
+CK C3 C2 CT
+D5 D4 S2 DA
+H6 H3 HK HJ
+H2 H5 HA H9
+H8 HT H7 HQ
+D7 DK S6 D8
+D9 DQ CQ S5
+C6 C5 C4 C9
+C8 S3 S7 SJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.01"]
+[Board "#"]
+[West "Szwarc"]
+[North "Sakul"]
+[East "Multon"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:J95.QJ9.AJ8.AT97 Q.8642.T9765.K86 K843.T53.KQ42.53 AT762.AK7.3.QJ42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C Pass 1S Pass
+1NT Pass Pass Pass
+[Play "N"]
+D6 D2 D3 D8
+SQ SK SA S5
+H2 H3 H7 H9
+D5 D4 S2 DA
+D7 DQ S6 DJ
+D9 DK C2 C7
+H4 S3 S7 S9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "97"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A8.KJ7.A9743.974 KQT.QT.JT6.KJ832 J76432.8542.Q5.A 95.A963.K82.QT65"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1D =1= 1S X =2= XX
+1NT AP
+[Note "1:limited, 2+@D"]
+[Note "2:negative"]
+[Play "E"]
+S4 S5 SA ST
+S3 S9 S8 SK
+CA C5 C4 C3
+DQ DK DA D6
+D5 D2 D4 DJ
+H5 H3 HK HQ
+*
+[Stage "Final Seg 7/8"]
+[HomeTeam "Indonesia"]
+[VisitTeam "France"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A8.KJ7.A9743.974 KQT.QT.JT6.KJ832 J76432.8542.Q5.A 95.A963.K82.QT65"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1H Pass
+1NT AP
+[Play "E"]
+S4 S5 SA ST
+S3 S9 S8 SK
+CA C5 C4 C3
+DQ DK DA D6
+D5 D2 D4 DJ
+H5 H3 HK HQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "98"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T85.T7.QJ96.KQJ2 J9763.Q8543..973 Q.962.KT75.A8654 AK42.AKJ.A8432.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+Pass 1C =1= Pass 1D =2=
+Pass 2D Pass 2S
+Pass 4C =3= X 4S
+AP
+[Note "1:strong"]
+[Note "2:negative"]
+[Note "3:splinter"]
+[Play "E"]
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T85.T7.QJ96.KQJ2 J9763.Q8543..973 Q.962.KT75.A8654 AK42.AKJ.A8432.T"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 2H Pass 4H
+Pass 4S Pass Pass
+Pass
+[Play "E"]
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "99"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J.KQJ874.874.K63 98542.5.AKT9.Q74 AKQ73.T62.QJ.A52 T6.A93.6532.JT98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 2H Pass 4H
+AP
+[Play "N"]
+DA DJ D2 D4
+DK DQ D3 D7
+C4 C2 C8 CK
+-  -  -  HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J.KQJ874.874.K63 98542.5.AKT9.Q74 AKQ73.T62.QJ.A52 T6.A93.6532.JT98"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 2H Pass 4H
+AP
+[Play "N"]
+DA DJ D2 D4
+DK DQ D3 D7
+C4 C2 C8 CK
+-  -  -  HK
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "100"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:976.Q97.QT9842.J 4.AK652.K3.97643 T85.JT843.J.QT52 AKQJ32..A765.AK8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6C"]
+[Result "11"]
+[Auction "W"]
+Pass 1H Pass 1S
+Pass 2C Pass 2D =1=
+Pass 3C Pass 4NT =2=
+Pass 5D =3= Pass 5NT
+Pass 6C AP
+[Note "1:4SF"]
+[Note "2:Ace ask"]
+[Note "3:one ace"]
+[Play "E"]
+DJ D5 DT DK
+C5 C8 CJ C3
+S5 DA DQ D3
+C2 CA D2 C4
+CT CK D4 C6
+-  D6 D8 C7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:976.Q97.QT9842.J 4.AK652.K3.97643 T85.JT843.J.QT52 AKQJ32..A765.AK8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "13"]
+[Auction "W"]
+Pass 1H Pass 2S
+Pass 2NT Pass 3D
+Pass 3H Pass 4C
+Pass 4D Pass 5C
+Pass 5H Pass 6S
+AP
+[Play "W"]
+CJ C3 C2 CA
+S6 S4 S5 SA
+S7 C4 S8 SK
+S9 C6 ST SQ
+-  -  -  SJ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "101"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.8653.T94.KT7532 JT652.AKJ94.A62. KQ93.Q.K8753.AJ8 A874.T72.QJ.Q964"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "N"]
+1S 1NT 2S 2NT =1=
+4S X AP
+[Note "1:puppet to 3C"]
+[Play "E"]
+HQ H2 H6 HA
+SQ SA C5 ST
+S3 HT H3 H4
+CA C4 C2 S2
+S9 H7 H5 HK
+SK S4 C3 S5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:.8653.T94.KT7532 JT652.AKJ94.A62. KQ93.Q.K8753.AJ8 A874.T72.QJ.Q964"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4SX"]
+[Result "11"]
+[Auction "N"]
+1S 2D 2S 4D =1=
+4S X AP
+[Note "1:premptive"]
+[Play "E"]
+D3 DJ D4 D2
+SQ S4 C2 ST
+HQ H2 H3 HK
+S9 SA C3 S2
+D5 DQ D9 DA
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "102"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q762.Q.K9.AKQ852 KT5.AKJ5.8742.T4 A9.T8632.AJT3.J3 J843.974.Q65.976"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1C 1H 1NT Pass
+3NT AP
+[Play "N"]
+HK H2 H4 HQ
+HJ H3 H7 S2
+D8 D3 DQ DK
+C4 CJ C7 C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q762.Q.K9.AKQ852 KT5.AKJ5.8742.T4 A9.T8632.AJT3.J3 J843.974.Q65.976"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 2C =1= Pass
+2NT Pass 5C AP
+[Note "1:6+@C"]
+[Play "N"]
+HA H2 H4 HQ
+S5 S9 SJ SQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+{Although West made 12 tricks, there was an appeal by North that he had been given mis-information about declarer\\'s spade holding. This was upheld by the Director who changed the score to 5@C down 1}
+{}
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "103"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJT6.K54.T.KQJ84 952.J2.K862.AT95 KQ874.763.7543.3 3.AQT98.AQJ9.762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "S"]
+1H Pass Pass 1S
+2D 4S X AP
+[Play "S"]
+C6 CK CA C3
+HA H4 HJ H6
+HQ HK H2 H7
+S3 SJ S5 S4
+C7 CQ C9 H3
+DJ DT D8 D3
+HT H5 D2 S7
+H9 S6 S2 SQ
+D9 ST D6 D4
+C2 CJ C5 D5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AJT6.K54.T.KQJ84 952.J2.K862.AT95 KQ874.763.7543.3 3.AQT98.AQJ9.762"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4D"]
+[Result "8"]
+[Auction "S"]
+1H 2C Pass Pass
+2D 2S 3C 3S
+Pass Pass 4D AP
+[Play "W"]
+CK CA C3 C2
+HK HJ H3 H8
+CQ C5 H6 C6
+CJ C9 H7 C7
+H4 H2 D3 H9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "104"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJT86.K83.T752.7 AQ542.T5.AK94.J3 73.J764.J86.AK52 9.AQ92.Q3.QT9864"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass 1S Pass 1NT =1=
+Pass 2D Pass 3NT
+AP
+[Note "1:forcing one round"]
+[Play "W"]
+SK SA S3 S9
+C7 CJ CA C6
+ST S2 S7 H2
+SJ SQ H6 H9
+H3 C3 C2 CQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJT86.K83.T752.7 AQ542.T5.AK94.J3 73.J764.J86.AK52 9.AQ92.Q3.QT9864"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "11"]
+[Auction "W"]
+Pass 1S Pass 2C
+Pass 2D Pass 3C
+AP
+[Play "W"]
+H3 H5 HJ HQ
+D7 D4 D6 DQ
+D2 DA D8 D3
+D5 DK DJ H2
+H8 HT H4 HA
+HK C3 H6 H9
+S6 SA S7 S9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "105"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q842.76.842.AK86 KJ9.985.KQ3.7532 T653.AKT432.J5.T A7.QJ.AT976.QJ94"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1D =1= Pass
+1NT 2H 3C AP
+[Note "1:limited, 2+@D"]
+[Play "W"]
+H7 H5 HA HJ
+H6 H8 HK HQ
+D2 H9 HT C9
+S8 SK S6 S7
+CK C2 CT CQ
+S2 S9 S3 SA
+D4 DK DJ D7
+D8 DQ D5 D6
+S4 SJ S5 C4
+CA C3 H2 CJ
+C8 C5 H3 D9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:Q842.76.842.AK86 KJ9.985.KQ3.7532 T653.AKT432.J5.T A7.QJ.AT976.QJ94"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1D Pass
+1NT 2H AP
+[Play "S"]
+CQ CA C2 CT
+C4 CK C3 D5
+HJ H7 H8 HA
+HQ H6 H5 HK
+D6 D2 H9 HT
+-  -  -  S3
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "106"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J4.AQT4.AJT.8742 T976.875.K8642.3 A32.62.Q9753.KJT KQ85.KJ93..AQ965"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "E"]
+Pass 2H =1= Pass 2S
+AP
+[Note "1:11-16HCp,4@S/5@H or 3-suiter short in diamonds"]
+[Play "E"]
+D3 H3 DA D4
+D5 H9 DJ DK
+H6 HK HA H7
+H2 HJ HQ H8
+CJ S5 HT H5
+CT CA C7 C3
+CK C5 C2 S9
+S3 SK S4 S7
+S2 CQ C4 D6
+D7 S8 DT D2
+SA C9 C8 D8
+DQ -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J4.AQT4.AJT.8742 T976.875.K8642.3 A32.62.Q9753.KJT KQ85.KJ93..AQ965"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1HX"]
+[Result "8"]
+[Auction "E"]
+Pass 1C Pass 1D
+Pass 1H Pass Pass
+X AP
+[Play "W"]
+SJ S6 SA SQ
+HQ H5 H2 HJ
+S4 S7 S2 S5
+DT D2 D3 H3
+C2 C3 CT CA
+C4 H7 CJ C5
+DJ D4 D5 H9
+C7 H8 CK C6
+DA D6 D7 HK
+H4 S9 S3 SK
+HA ST H6 C9
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "107"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJT8.T975..95432 975.62.AK5432.A8 AK643.KQ8.Q6.KQ6 2.AJ43.JT987.JT7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5DX"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1D =1= X
+2D Pass 3D X
+Pass 4D Pass 4S
+Pass Pass 5D X
+AP
+[Note "1:limited, 2+@D"]
+[Play "E"]
+SA S2 SQ S5
+D6 DT C2 D3
+DQ D7 C3 DA
+HQ H3 HT H6
+S6 D8 S8 S7
+S3 D9 C4 DK
+H8 HJ H5 H2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJT8.T975..95432 975.62.AK5432.A8 AK643.KQ8.Q6.KQ6 2.AJ43.JT987.JT7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass Pass 1D X
+3D Pass 3NT Pass
+Pass 4C Pass 4S
+AP
+[Play "S"]
+DJ S8 D5 D6
+C7 C3 CA C6
+HA H5 H2 HK
+DT ST D2 DQ
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "108"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9.JT8.J982.AK764 KT75.K975.Q63.J8 832.Q6432.54.QT5 AQJ64.A.AKT7.932"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1NT Pass 2S
+Pass 3S Pass 4S
+AP
+[Play "W"]
+CA C8 C5 C3
+CK CJ CT C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:9.JT8.J982.AK764 KT75.K975.Q63.J8 832.Q6432.54.QT5 AQJ64.A.AKT7.932"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 2H X
+4C Pass Pass 4S
+AP
+[Play "W"]
+CA C8 C5 C3
+CK CJ CT C2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "109"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJ.AQJ94.8.T9542 842.6.T9542.KJ76 A97653.T7.AJ6.Q8 KT.K8532.KQ73.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+Pass 1S X XX
+2D Pass Pass 2H
+Pass 2S 3D AP
+[Play "E"]
+HT H2 HJ H6
+CQ CA C2 CJ
+DA DK D8 D2
+H7 H8 HQ D4
+S7 SK SQ S4
+D6 DQ C4 D5
+C8 C3 C9 CK
+S3 D3 C5 C6
+DJ H3 H4 D9
+SA ST SJ S2
+S9 D7 H9 S8
+S5 H5 HA DT
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJ.AQJ94.8.T9542 842.6.T9542.KJ76 A97653.T7.AJ6.Q8 KT.K8532.KQ73.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2DX"]
+[Result "9"]
+[Auction "N"]
+Pass 1S X XX
+1NT Pass Pass X
+2D X AP
+[Play "E"]
+HT H2 HJ H6
+DJ DK D8 D9
+H7 H3 H9 D2
+S3 SK SQ S2
+C8 CA C2 C6
+CQ C3 C4 CK
+S5 D3 C5 C7
+SA ST SJ S4
+DA D7 H4 D4
+D6 DQ C9 D5
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "110"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT75.QJ.A542.J32 A32.A8.QJ97.K964 J984.K953.K63.87 Q6.T7642.T8.AQT5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "7"]
+[Auction "E"]
+Pass Pass Pass 1D =1=
+Pass 1H Pass 1NT
+Pass 2H AP
+[Note "1:limited, 2+@D"]
+[Play "W"]
+C2 C4 C7 CT
+HJ HA H5 H4
+HQ H8 H3 H2
+D5 DQ DK D8
+SK SA S8 SQ
+DA D7 D3 DT
+S5 S2 SJ S6
+CJ C6 C8 CA
+-  -  -  H7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT75.QJ.A542.J32 A32.A8.QJ97.K964 J984.K953.K63.87 Q6.T7642.T8.AQT5"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1D =1= Pass
+1H Pass 1S AP
+[Note "1:limited, 2+@D"]
+[Play "N"]
+S2 S4 SQ SK
+SA S8 S6 S5
+S3 S9 H2 S7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "111"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:97432.T95.J8.Q64 85.73.K92.987532 AKJ.AQJ62.AQ76.A QT6.K84.T543.KJT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass Pass Pass 2D =1=
+Pass 2H =2= Pass 2NT
+Pass 3NT AP
+[Note "1:strong artificial forcing to game"]
+[Note "2:negative"]
+[Play "S"]
+D5 DJ DK DA
+H4 H5 H3 HA
+H8 H9 H7 H2
+HK HT C3 H6
+D3 D8 D9 DQ
+CJ S2 C2 HQ
+S6 S3 C5 HJ
+DT S4 D2 D7
+D4 -  -  -
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:97432.T95.J8.Q64 85.73.K92.987532 AKJ.AQJ62.AQ76.A QT6.K84.T543.KJT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass Pass Pass 1C =1=
+Pass 1D =2= Pass 1H =3=
+Pass 1S =4= Pass 2D =5=
+Pass 2S Pass 3H =6=
+Pass 4H AP
+[Note "1:strong"]
+[Note "2:negative"]
+[Note "3:artificial, forcing one round"]
+[Note "4:0-4HCP"]
+[Note "5:forcing one round"]
+[Note "6:game forcing"]
+[Play "S"]
+H4 HT H3 H2
+D3 DJ DK DA
+D4 D8 D2 DQ
+D5 H9 D9 D6
+CT C4 C2 CA
+DT H5 H7 D7
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "112"]
+[West "Levy"]
+[North "Lasut"]
+[East "Mouiel"]
+[South "Manoppo"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ3.4.A62.A98763 KJ9872.73.95.K54 T5.KQ65.KQT873.2 64.AJT982.J4.QJT"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5DX"]
+[Result "11"]
+[Auction "W"]
+1C 1S X =1= 2H
+3C Pass 3D 3H
+3S X 3NT X
+4D Pass 5D X
+AP
+[Note "1:negative"]
+[Play "S"]
+S6 S3 SJ ST
+HA H4 H7 HQ
+S4 SA S7 S5
+CJ CA C5 C2
+CQ C3 CK D7
+D4 D2 D5 DQ
+DJ DA D9 DT
+CT C6 C4 D8
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Karwur"]
+[North "Mari"]
+[East "Sakul"]
+[South "Bompis"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ3.4.A62.A98763 KJ9872.73.95.K54 T5.KQ65.KQT873.2 64.AJT982.J4.QJT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3SX"]
+[Result "7"]
+[Auction "W"]
+2C Pass 2D =1= 2H
+3C 3S Pass Pass
+X AP
+[Note "1:Inquiry"]
+[Play "E"]
+C2 CQ CA C5
+HQ HA H4 H3
+S5 S4 S3 SK
+ST S6 SQ S2
+*
+[Description "#"]
+[Stage "#"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "113"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A98.QJT9.9873.93 76542.A4.AQ52.J5 QJ3.K762.4.KQ864 KT.853.KJT6.AT72"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[HomeTeam "Indonesia"]
+[Room "Open"]
+[Stage "Final Seg 8/8"]
+[VisitTeam "France"]
+[Auction "N"]
+Pass 1S Pass 2C
+Pass 2D Pass 2H
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+C4 C2 C9 CJ
+SJ SK SA S4
+H7 H3 HT H4
+H2 H5 HJ HA
+D4 DK D3 D2
+S3 DJ D7 D5
+C6 D6 D8 DA
+C8 DT D9 DQ
+CQ CA C3 C5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A98.QJT9.9873.93 76542.A4.AQ52.J5 QJ3.K762.4.KQ864 KT.853.KJT6.AT72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+Pass 1S Pass 1NT =1=
+Pass Pass 2C X
+Pass Pass 2H X
+Pass Pass Pass
+[Note "1:forcing one round"]
+[Play "W"]
+SK SA S2 S3
+CA C3 C5 CK
+ST S8 S4 SQ
+C2 C9 CJ CQ
+C7 H9 HA C4
+H3 S9 S5 SJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "114"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T65432.Q5.Q73.Q9 Q97.T6.KT2.KT875 J.AKJ984.A8.A643 AK8.732.J9654.J2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 2C Pass
+2H Pass 3H Pass
+Pass Pass
+[Play "N"]
+H3 H5 HT HJ
+D6 D3 D2 DA
+D9 DQ DK D8
+H2 HQ H6 HA
+H7 S2 DT HK
+C2 CQ CK C3
+SK S3 S7 SJ
+DJ D7 C5 H4
+- - - H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:T65432.Q5.Q73.Q9 Q97.T6.KT2.KT875 J.AKJ984.A8.A643 AK8.732.J9654.J2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1H Pass
+1S Pass 3H Pass
+Pass Pass
+[Play "N"]
+SA S2 S7 SJ
+H3 H5 HT HJ
+D6 D3 D2 DA
+D9 DQ DK D8
+H2 HQ H6 HA
+H7 S3 DT HK
+C2 CQ CK C3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "115"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJ.A76.A9872.43 QT842.QT98.3.JT6 93.42.JT654.AQ72 765.KJ53.KQ.K985"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass Pass Pass
+[Play "W"]
+S4 S3 S5 SJ
+D3 D4 DQ D2
+SQ S9 S6 SA
+S2 D5 DK DA
+S8 DT C5 D9
+ST DJ C8 D7
+C6 D6 H5 D8
+CT CQ CK C3
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AKJ.A76.A9872.43 QT842.QT98.3.JT6 93.42.JT654.AQ72 765.KJ53.KQ.K985"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1NT Pass 2NT Pass
+3NT Pass Pass Pass
+[Play "W"]
+S4 S3 S7 SJ
+D3 D6 DQ D2
+S2 S9 S6 SA
+HT D4 DK DA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "116"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT43.T9.AQ964.74 AQJ5.KJ3.T753.32 862.A54.K2.AKQ96 97.Q8762.J8.JT85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2H =1= Pass 2S =2= Pass
+2NT =3= Pass 3C =4= Pass
+3NT =5= Pass Pass Pass
+[Note "1:4+@S"]
+[Note "2:<4@S"]
+[Note "3:Only 4@s,8+ HCP"]
+[Note "4:Splinter asking"]
+[Note "5:no splinter"]
+[Play "S"]
+H6 H9 HK H5
+HQ HT HJ H4
+H8 S3 H3 HA
+C5 C4 C2 CA
+C8 C7 C3 CK
+CT S4 S5 CQ
+D8 D4 D3 DK
+DJ DQ D5 D2
+H2 DA D7 S2
+S7 D6 DT S6
+S9 ST SA S8
+H7 SK SJ C6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KT43.T9.AQ964.74 AQJ5.KJ3.T753.32 862.A54.K2.AKQ96 97.Q8762.J8.JT85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4C"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass 1NT Pass
+2C Pass 2D Pass
+3NT X =1= 4C Pass
+Pass Pass
+[Note "1:Asks for @S lead"]
+[Play "N"]
+C3 CA C5 C4
+C2 CK C8 C7
+H3 CQ CT S3
+S5 C6 CJ H9
+SJ S2 S9 ST
+D3 DK D8 D4
+HJ C9 H2 D6
+HK HA H6 HT
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "117"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKJ843.T5.AT7.72 752.AK9632.KJ.84 T96.J8.Q986.AJ65 Q.Q74.5432.KQT93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5HX"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S 2H 2S 4C =1=
+4S 5H X Pass
+Pass Pass
+[Note "1:fit showing"]
+[Play "S"]
+S6 SQ SK S2
+DQ D2 D7 DJ
+D6 D3 DA DK
+S9 H4 SJ S5
+D8 D4 DT H2
+CA C3 C2 C8
+C5 CK C7 C4
+H8 H7 H5 HK
+HJ HQ HT H3
+C6 CQ S3 S7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKJ843.T5.AT7.72 752.AK9632.KJ.84 T96.J8.Q986.AJ65 Q.Q74.5432.KQT93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S 2H 2S 3S
+Pass 4H Pass Pass
+Pass
+[Play "S"]
+ST SQ SK S2
+DQ D2 D7 DJ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "118"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ63.AJT8.AKJ5.6 KT854.Q96432.Q.Q 9..T9742.AJ98542 J72.K75.863.KT73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5CX"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D 1S 3C =1= Pass
+3NT 4H 4S Pass
+4NT Pass 5C X
+Pass Pass Pass
+[Note "1:weak, natural"]
+[Play "N"]
+HK HA H4 D2
+C3 C6 CQ CA
+CK S3 H2 CJ
+SJ SA S4 S9
+D3 DA DQ D4
+H7 H8 H3 C4
+CT - - C9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ63.AJT8.AKJ5.6 KT854.Q96432.Q.Q 9..T9742.AJ98542 J72.K75.863.KT73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+1D 2D =1= 6D Pass
+Pass Pass
+[Note "1:@H = @S"]
+[Play "S"]
+CQ CA C3 C6
+DQ CJ C7 S3
+S5 S9 SJ SQ
+H2 D2 D3 DA
+H3 D9 D6 D5
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "119"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ5.JT8.9.AQT984 T.K74.KQT8732.J5 A8742.A965.64.62 J963.Q32.AJ5.K73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+2C =1= 2D X =2= 2NT
+Pass 3D Pass Pass
+Pass
+[Note "1:6+@C"]
+[Note "2:negative"]
+[Play "N"]
+C6 C3 CQ C5
+H6 HQ HJ H4
+D4 D5 D9 DQ
+D6 DA C4 D8
+C2 C7 CA CJ
+S2 S3 SQ ST
+H5 H2 HT H7
+HA H3 H8 HK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ5.JT8.9.AQT984 T.K74.KQT8732.J5 A8742.A965.64.62 J963.Q32.AJ5.K73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5C"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+1C 3D X 4D
+5C Pass Pass Pass
+[Play "W"]
+ST SA S3 S5
+C5 C2 C3 CQ
+CJ C6 C7 CA
+D8 S2 S6 SK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "120"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ642.932.AJT3.4 K8.AQ765.84.J982 T75.4.K9762.K753 Q93.KJT8.Q5.AQT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1D =1=
+1S 2H 2S 3H
+3S 4H Pass Pass
+Pass
+[Note "1:limited 2+@D"]
+[Play "E"]
+S5 S3 SJ SK
+ST SQ SA S8
+D7 D5 DA D4
+DK DQ D3 D8
+D2 HT DT C2
+H4 HK H3 H5
+S7 H8 H2 HQ
+D6 HJ H9 HA
+C3 C6 C4 C9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AJ642.932.AJT3.4 K8.AQ765.84.J982 T75.4.K9762.K753 Q93.KJT8.Q5.AQT6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1C
+1S 2H Pass 3H
+Pass 4H Pass Pass
+Pass
+[Play "E"]
+S7 S3 SJ SK
+C3 CA C4 C2
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "121"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ94.A4.AK64.A96 8762.K98.9853.K8 AJT5.T63.Q.QJ732 3.QJ752.JT72.T54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "7S"]
+[Result "11"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1C =1= Pass 2C Pass
+2NT Pass 3S Pass
+4D =2= Pass 4S Pass
+4NT =3= Pass 5D =4= Pass
+5H =5= X Pass =6= Pass
+7S Pass Pass Pass
+[Note "1:strong"]
+[Note "2:cue bid"]
+[Note "3:waiting"]
+[Note "4:cue bid"]
+[Note "5:cue bid"]
+[Note "6:interpreted as encouraging"]
+[Play "W"]
+HQ HA H8 H6
+S3 S4 S2 SJ
+H7 SK S6 S5
+D7 D4 D3 DQ
+C4 C6 CK CQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQ94.A4.AK64.A96 8762.K98.9853.K8 AJT5.T63.Q.QJ732 3.QJ752.JT72.T54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+2NT Pass 3C Pass
+3S Pass 5D =1= Pass
+6D Pass 6S Pass
+Pass Pass
+[Note "1:splinter"]
+[Play "E"]
+S2 S5 S3 S9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "122"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J43.74.AJ5.J9643 985.QT96.QT3.AT2 KQ.A85.K962.K875 AT762.KJ32.874.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1D 1S
+Pass 2S Pass Pass
+2NT =1= Pass 3C Pass
+Pass Pass
+[Note "1:typically 3@D/5+@C"]
+[Play "N"]
+H3 H4 HQ H5
+CQ C3 C2 C5
+HJ H7 H6 HA
+SA S3 S5 SK
+H2 C4 H9 H8
+S6 S4 S8 SQ
+D7 DA D3 D2
+D4 DJ DQ DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J43.74.AJ5.J9643 985.QT96.QT3.AT2 KQ.A85.K962.K875 AT762.KJ32.874.Q"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass Pass 1NT Pass
+Pass Pass
+[Play "N"]
+S6 S3 S8 SK
+CQ C3 C2 CK
+D4 C9 CT C5
+S2 S4 S9 SQ
+H3 C4 CA C8
+- - S5 -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "123"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:732.52.A7.KT9742 AK8.T86.JT864.A6 65.J974.Q9532.Q3 QJT94.AKQ3.K.J85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1NT Pass 2C =1=
+X Pass Pass 3H =2=
+Pass 4S Pass 5S =3=
+Pass 6C =4= Pass 6S
+Pass Pass Pass
+[Note "1:puppet"]
+[Note "2:5+@S/4+@H,game forcing"]
+[Note "3:no @C control"]
+[Note "4:@CA"]
+[Play "S"]
+C9 CA C3 C5
+H2 H6 H4 HK
+H5 H8 H7 HA
+S3 SA S5 S9
+DA D4 D3 DK
+C7 C6 CQ C8
+S7 HT HJ HQ
+S2 SK S6 ST
+- DJ - -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:732.52.A7.KT9742 AK8.T86.JT864.A6 65.J974.Q9532.Q3 QJT94.AKQ3.K.J85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT Pass 2C
+X 2D Pass 3H =1=
+Pass 3S Pass 4S
+Pass Pass Pass
+[Note "1:5+@S/4+@H, game forcing"]
+[Play "N"]
+CQ C5 C7 CA
+C3 CJ CK C6
+S5 S4 S2 SK
+S6 SQ S3 S8
+D2 C8 C9 SA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "124"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8.AT96.AJ74.JT7 QT9.2.KQ96.KQ864 6532.J8543.32.A2 KJ74.KQ7.T85.953"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1D Pass 1H Pass
+2H Pass Pass Pass
+[Play "S"]
+C5 CJ CQ CA
+C3 CT CK C2
+C9 C7 C4 D2
+HQ HA H2 H3
+S7 S8 ST S3
+S4 SA S9 S2
+D5 DA D6 D3
+D8 D4 DK H4
+SJ H6 SQ S5
+DT D7 D9 H8
+SK H9 C6 S6
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A8.AT96.AJ74.JT7 QT9.2.KQ96.KQ864 6532.J8543.32.A2 KJ74.KQ7.T85.953"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1NT Pass 2C Pass
+2H Pass Pass Pass
+[Play "N"]
+H2 H3 HQ HA
+S9 S2 S4 SA
+ST S3 SJ S8
+C4 H4 HK H6
+- - H7 H9
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "125"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQT875.Q2.J65.8 92.J764.A43.T765 J4.AK93.T97.QJ94 63.T85.KQ82.AK32"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+1S Pass 1NT =1= Pass
+3NT =2= Pass 4S Pass
+Pass Pass
+[Note "1:forcing one round"]
+[Note "2:Long solid spades, non forcing"]
+[Play "E"]
+C7 C4 CK C8
+C5 C9 CA S5
+S2 SJ S3 S7
+S9 S4 S6 SA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AKQT875.Q2.J65.8 92.J764.A43.T765 J4.AK93.T97.QJ94 63.T85.KQ82.AK32"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "N"]
+4S Pass Pass Pass
+[Play "E"]
+H4 H3 HT HQ
+S2 SJ S3 S5
+S9 S4 S6 SA
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "126"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q7632.K3.652.KJ2 A.QT642.A983.A84 KJT94.A75.K74.QT 85.J98.QJT.97653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 1S Pass
+4S Pass Pass Pass
+[Play "N"]
+DQ D2 DA D4
+DT D5 D3 DK
+C7 C2 CA CQ
+DJ D6 D8 D7
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q7632.K3.652.KJ2 A.QT642.A983.A84 KJT94.A75.K74.QT 85.J98.QJT.97653"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "E"]
+Pass 1H 1S Pass
+2S X Pass 3H
+3S Pass Pass Pass
+[Play "N"]
+DQ D2 DA D4
+- - D3 DK
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "127"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT85.AT7.Q7.9843 A32.K5.A965.T752 964.QJ94.832.KJ6 KQ7.8632.KJT4.AQ"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass Pass Pass 1NT
+Pass 3NT Pass Pass
+Pass
+[Play "S"]
+SJ S2 S4 SQ
+D7 DA D2 D4
+DQ D5 D8 DJ
+H7 HK H4 H2
+C3 D6 D3 DK
+C4 D9 S6 DT
+S5 SA S9 S7
+- C2 C6 CQ
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:JT85.AT7.Q7.9843 A32.K5.A965.T752 964.QJ94.832.KJ6 KQ7.8632.KJT4.AQ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "S"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+Pass Pass Pass
+[Play "N"]
+H4 H2 HA H5
+H9 H3 HT HK
+D2 DT DQ D5
+- - H7 -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "128"]
+[West "Levy"]
+[North "Sakul"]
+[East "Mouiel"]
+[South "Karwur"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K964.A4.A2.76432 JT.T8.QJ9876.A85 Q73.J76532.K4.QJ A852.KQ9.T53.KT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2D"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Open"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+Pass Pass Pass 1D =1=
+Pass 2D =2= Pass Pass
+Pass
+[Note "1:limited, 2+@D"]
+[Note "2:5+@D, constructive"]
+[Play "W"]
+C2 C5 CJ CK
+D2 DQ DK D3
+C7 CA CQ C9
+HA HT H6 HK
+C6 C8 D4 CT
+S9 ST S3 SA
+DA D6 H2 D5
+SK SJ - -
+*
+
+[Event "10th World Bridge Team Olympiad 1996 Final"]
+[Site "Rhodes Greece"]
+[Date "1996.11.02"]
+[Board "#"]
+[West "Watulinga"]
+[North "Multon"]
+[East "Panelewen"]
+[South "Szwarc"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K964.A4.A2.76432 JT.T8.QJ9876.A85 Q73.J76532.K4.QJ A852.KQ9.T53.KT9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NTX"]
+[Result "8"]
+[Description "#"]
+[HomeTeam "#"]
+[Room "Closed"]
+[Stage "#"]
+[VisitTeam "#"]
+[Auction "W"]
+1C 1D 1H 2NT
+Pass 3D Pass 3NT
+X Pass Pass Pass
+[Play "W"]
+S4 ST SQ S2
+C2 CA CQ C9
+DA D6 D4 DT
+SK SJ S3 S5
+C3 C5 CJ CK
+D2 D7 DK D3
+*
+

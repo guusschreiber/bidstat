@@ -1,0 +1,5732 @@
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9652.543.QJ3.AK2 8.KQJT97.9742.76 KT.A62.AK.JT9843 AQJ743.8.T865.Q5"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+3H 3NT AP
+[Play "S"]
+SQ S2 S8 SK
+C5 CA C6 C3
+D5 D3 D2 DK
+CQ CK C7 CJ
+S3 C2 HK C8
+-  -  -  C9
+*
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:9652.543.QJ3.AK2 8.KQJT97.9742.76 KT.A62.AK.JT9843 AQJ743.8.T865.Q5"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+3H 3NT AP
+[Play "S"]
+H8 H3 HT HA
+C5 CA C6 C4
+D5 D3 D2 DK
+CQ CK C7 CJ
+S3 C2 H7 CT
+S4 H4 D4 C9
+S7 H5 D7 C8
+D6 S2 D9 C3
+D8 DJ S8 DA
+-  -  -  SK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K75.AK952.QJ.T75 J982.3.852.AKJ98 AQT43.T876.9763. 6.QJ4.AKT4.Q6432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C 1H X =1=
+4H AP
+[Note "1:4!ss"]
+[Play "N"]
+CK H6 C3 C5
+H3 HT H4 HA
+C9 H7 HJ HK
+S2 SQ S6 S5
+S8 S3 C2 SK
+S9 ST HQ S7
+D8 D3 DK DJ
+D2 D6 DA DQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:K75.AK952.QJ.T75 J982.3.852.AKJ98 AQT43.T876.9763. 6.QJ4.AKT4.Q6432"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1D 1H X =1=
+4H AP
+[Note "1:4 or 5 !S"]
+[Play "N"]
+CA H6 C3 C5
+H3 H7 H4 HA
+S2 S3 S6 SK
+C8 H8 HJ HK
+S8 ST C2 S5
+S9 SA HQ S7
+D2 D3 DK DJ
+D5 D6 DA DQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:9.Q64.J842.QT954 AQ.JT75.A9753.82 KJ6.AK832.KT.AJ6 T875432.9.Q6.K73"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "9"]
+[Auction "S"]
+2H Pass 2S 2NT
+AP
+[Play "S"]
+S2 S9 SA S6
+S3 H4 SQ SK
+C3 C4 C2 CA
+C7 C5 C8 CJ
+CK C9 D5 C6
+S4 D2 D3 SJ
+H9 HQ H5 H2
+S5 CQ H7 DT
+-  CT D7 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:9.Q64.J842.QT954 AQ.JT75.A9753.82 KJ6.AK832.KT.AJ6 T875432.9.Q6.K73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "S"]
+2D =1= Pass 3H 3NT
+4S Pass Pass X
+AP
+[Note "1:Multi"]
+[Play "W"]
+C4 C2 CA C7
+H6 H5 HK H9
+HQ H7 H3 D6
+D4 DA DT DQ
+H4 HT HA S2
+S9 -  -  S3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A.QJ98.A985.KJ93 J94.K5.T64.QT876 QT63.T7642.KJ3.5 K8752.A3.Q72.A42"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1H Pass
+3H Pass 4H AP
+[Play "S"]
+D2 D5 DT DJ
+C4 CK C8 C5
+D7 D8 D4 DK
+DQ DA D6 D3
+S2 SA S4 S3
+C2 C3 C6 H2
+S5 H8 S9 S6
+CA C9 C7 H4
+S7 H9 SJ ST
+HA CJ CQ H6
+H3 HJ HK H7
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A.QJ98.A985.KJ93 J94.K5.T64.QT876 QT63.T7642.KJ3.5 K8752.A3.Q72.A42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+1NT Pass 2C Pass
+2H Pass 4H AP
+[Play "N"]
+C7 C5 CA C3
+HK H2 H3 HJ
+DT DJ DQ DA
+H5 H4 HA H9
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT4.JT72.QJ83.K7 J82.AQ5.AT954.QT K9.K9843.K.98432 Q7653.6.762.AJ65"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "6"]
+[Auction "N"]
+1D 1H 1S =1= 2NT
+3S AP
+[Note "1:5+!ss"]
+[Play "W"]
+HJ HA H3 H6
+CK CQ C4 C5
+HT H5 H4 S3
+S4 SJ SK S5
+H7 HQ HK S6
+DJ D4 DK D2
+C7 CT C2 C6
+SA S2 S9 SQ
+ST S8 C3 S7
+H2 D5 H9 D6
+D3 D9 H8 D7
+-  -  C9 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT4.JT72.QJ83.K7 J82.AQ5.AT954.QT K9.K9843.K.98432 Q7653.6.762.AJ65"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "9"]
+[Auction "N"]
+1D 1H X =1= 3D
+Pass 3H AP
+[Note "1:4 or 5!s"]
+[Play "S"]
+D6 D3 D9 DK
+C5 CK CT C3
+C6 C7 CQ C4
+H6 H2 H5 HK
+CJ H7 S2 C8
+D2 DQ DA H3
+S7 HT HQ H4
+S3 HJ HA H8
+S5 S4 S8 SK
+S6 SA SJ S9
+-  DJ -  -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:865.J3.A43.AQ832 J942.A4.QJ82.T94 QT3.KQ952.T6.J76 AK7.T876.K975.K5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass 1D Pass 1S
+Pass 1NT AP
+[Play "W"]
+C3 C4 CJ CK
+D4 DQ D6 D5
+S8 S2 S3 SK
+DA D2 DT D7
+CQ C9 C6 C5
+CA CT C7 H6
+C8 H4 H5 H7
+C2 S4 H2 -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:865.J3.A43.AQ832 J942.A4.QJ82.T94 QT3.KQ952.T6.J76 AK7.T876.K975.K5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass 1C Pass 1S
+Pass 1NT AP
+[Play "W"]
+C3 CT CJ CK
+D4 DQ D6 D5
+DA D8 DT DK
+CA C4 C6 C5
+CQ C9 C7 D7
+C8 S2 H2 H6
+C2 H4 H5 H7
+H3 HA HQ H8
+D3 DJ H9 D9
+S5 D2 HK HT
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT84.A9432.JT73. J93.J.Q8.AQ98643 A76.QT87.A4.KJT5 K52.K65.K9652.72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3CX"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 3C Pass
+Pass X AP
+[Play "E"]
+H8 H5 HA HJ
+SA S2 S4 S3
+S7 SK S8 S9
+H7 HK H2 SJ
+HQ H6 H9 C4
+DA D2 D3 DQ
+D4 DK D7 D8
+S6 S5 SQ C6
+CT C2 H3 C3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:QT84.A9432.JT73. J93.J.Q8.AQ98643 A76.QT87.A4.KJT5 K52.K65.K9652.72"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2CX"]
+[Result "6"]
+[Auction "S"]
+Pass Pass 2C Pass
+Pass X AP
+[Play "E"]
+H8 H5 HA HJ
+HT HK H9 S3
+HQ H6 H2 C6
+DA D2 D3 DQ
+D4 DK D7 D8
+CT C2 H3 C8
+S6 S2 SQ S9
+H7 D5 DJ SJ
+-  -  DT -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q8754.J75.7652.K K96.AQT3.3.JT932 T3.98.AQJ984.AQ8 AJ2.K642.KT.7654"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4D"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1D Pass
+1S X 3D =1= 3H
+4D AP
+[Note "1:max 2!ss"]
+[Play "S"]
+H4 H5 HA H8
+HK H7 H3 H9
+SA S4 S6 S3
+C4 CK C9 C8
+DT D2 D3 DA
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q8754.J75.7652.K K96.AQT3.3.JT932 T3.98.AQJ984.AQ8 AJ2.K642.KT.7654"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1D X
+1S 2D 3D Pass
+4D 4H AP
+[Play "E"]
+ST SJ SQ SK
+H8 H2 H5 HA
+H9 HK H7 H3
+D4 H4 HJ HQ
+CQ C4 CK CJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:97.QT974.A92.QT7 QJ53.AJ3.J843.A4 AK8.8.Q76.KJ9652 T642.K652.KT5.83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "10"]
+[Auction "N"]
+1D 2C X 2D
+2S Pass Pass 3C
+AP
+[Play "S"]
+C3 C7 CA C2
+C8 CT C4 C5
+H2 H4 H3 H8
+D5 DA D3 D6
+DK D2 D4 DQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:97.QT974.A92.QT7 QJ53.AJ3.J843.A4 AK8.8.Q76.KJ9652 T642.K652.KT5.83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+1C 2C Pass 3C
+AP
+[Play "S"]
+C3 C7 CA C2
+S2 S7 S3 SA
+H2 H4 HJ H8
+DK DA D3 D6
+C8 CQ C4 C5
+S4 S9 S5 SK
+S6 CT SJ S8
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:9642.653.Q4.KT63 AT7.QJ4.KT5.8754 QJ853.AK87.J7.A9 K.T92.A98632.QJ2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "7"]
+[Auction "E"]
+1H Pass 1S Pass
+3S AP
+[Play "N"]
+D5 D7 DA D4
+DK DJ D2 DQ
+C4 C9 CJ CK
+S7 SQ SK S2
+H4 HA H9 H6
+SA SJ D3 S4
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:9642.653.Q4.KT63 AT7.QJ4.KT5.8754 QJ853.AK87.J7.A9 K.T92.A98632.QJ2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+1S Pass 3S AP
+[Play "S"]
+CQ C3 C4 CA
+CJ CK C5 C9
+C2 CT C7 D7
+D2 C6 C8 DJ
+D3 D4 D5 S3
+SK S2 S7 S5
+D9 DQ DK S8
+D6 S4 SA SQ
+-  -  ST SJ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T872.KT65.J2.K52 A4.AQJ84.A7654.T 953.7.KT98.Q8764 KQJ6.932.Q3.AJ93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+1C Pass 1H Pass
+1S Pass 2D Pass
+2H Pass 4H AP
+[Play "E"]
+S3 S6 S2 SA
+H7 H2 H5 HA
+C4 H9 H6 HQ
+D8 DQ D2 D5
+S5 SK S8 S4
+S9 SQ S7 D4
+C6 SJ ST D7
+C7 CA C2 CT
+C8 C3 CK H4
+D9 D3 DJ DA
+DT H3 HT D6
+-  -  HK -
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T872.KT65.J2.K52 A4.AQJ84.A7654.T 953.7.KT98.Q8764 KQJ6.932.Q3.AJ93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "S"]
+1C Pass 1H Pass
+1NT =1= Pass 3D Pass
+3NT AP
+[Note "1:12-14 bal"]
+[Play "W"]
+S8 SA S9 S6
+D2 D4 DK D3
+HT HJ H7 H9
+DJ D5 D8 DQ
+H5 H8 C6 H3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:753.JT854.754.62 Q9864..AK96.Q875 J.AK6.QT83.AJ943 AKT2.Q9732.J2.KT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "12"]
+[Auction "W"]
+Pass 1S X 4S
+AP
+[Play "E"]
+HA H2 H8 S4
+CA CT C2 C5
+D3 D2 D7 D9
+SJ SA S3 S6
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:753.JT854.754.62 Q9864..AK96.Q875 J.AK6.QT83.AJ943 AKT2.Q9732.J2.KT"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass 1S X 4S
+AP
+[Play "E"]
+HA H2 H8 S4
+C4 CT C2 C5
+SJ SA S3 S6
+H6 H3 H4 S8
+CA CK C6 C7
+CJ D2 S5 C8
+D3 DJ D4 DA
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K954.A76.AT3.A63 AT86.8432.982.42 732.KJ.KJ65.QJT7 QJ.QT95.Q74.K985"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 3NT AP
+[Play "N"]
+H3 HJ HQ HA
+D2 D5 DQ DT
+H4 HK H5 H7
+C2 CQ CK CA
+C4 CJ C5 C6
+D9 D6 D4 DA
+D8 DK D7 D3
+S6 DJ SQ S4
+S8 S2 SJ S5
+H2 C7 H9 H6
+H8 S3 HT C3
+ST CT C8 S9
+SA S7 C9 SK
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K954.A76.AT3.A63 AT86.8432.982.42 732.KJ.KJ65.QJT7 QJ.QT95.Q74.K985"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 3NT AP
+[Play "N"]
+H4 HJ HQ H6
+H2 HK H5 H7
+C2 CQ C5 C3
+C4 CJ C8 C6
+D2 D5 D7 DT
+S6 C7 C9 CA
+D8 D6 D4 DA
+H3 S2 H9 HA
+D9 DK DQ D3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:JT952.J.864.QJ86 Q83.K53.QJ932.94 AK64.A972.AK.AT3 7.QT864.T75.K752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1D Pass
+2NT Pass 3H Pass
+4C Pass 4H =1= Pass
+4S AP
+[Note "1:transfer"]
+[Play "S"]
+D5 D4 DJ DK
+S7 S2 S3 SA
+H6 S5 S8 SK
+H4 HJ H3 HA
+H8 S9 H5 H2
+CK CQ C4 C3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:JT952.J.864.QJ86 Q83.K53.QJ932.94 AK64.A972.AK.AT3 7.QT864.T75.K752"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+2C Pass 3D Pass
+3NT AP
+[Play "S"]
+H6 HJ HK H2
+H8 D4 H5 H7
+HT C6 H3 HA
+S7 S2 S3 SA
+D5 S5 S8 SK
+C2 S9 SQ S4
+CK -  C4 C3
+*
+[Description "#"]
+[Stage "1_6"]
+[HomeTeam "\\'T Onstein 2"]
+[VisitTeam "Het Witte Huis +20"]
+[Room "Closed"]
+
+% PBN created by BFC f2.lin P
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K2.63.Q9864.AJT5 AQJ9654.98..K986 T873.AJ.AKJ75.32 .KQT7542.T32.Q74"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+3H Pass 3S Pass
+4H AP
+[Play "W"]
+D4 H8 D5 D2
+S2 S4 S3 H2
+D6 H9 D7 D3
+SK SA S7 DT
+H3 SQ S8 C4
+D8 C6 DA H4
+H6 S5 HA HK
+CA C8 C2 C7
+C5 C9 C3 CQ
+-  -  -  HQ
+*
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:K2.63.Q9864.AJT5 AQJ9654.98..K986 T873.AJ.AKJ75.32 .KQT7542.T32.Q74"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "S"]
+3H Pass 4S AP
+[Play "E"]
+DK D2 D8 S4
+S3 D3 S2 SA
+S7 H2 SK SJ
+C2 C4 C5 C8
+S8 H4 D4 SQ
+HJ HK H3 H8
+C3 C7 CT CK
+HA H5 H6 H9
+ST -  -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:64.AJT92.KT73.T7 Q973.6.A652.QJ92 2.Q843.Q984.A643 AKJT85.K75.J.K85"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 2D Pass 4S
+AP
+[Play "W"]
+S6 S3 S2 -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:64.AJT92.KT73.T7 Q973.6.A652.QJ92 2.Q843.Q984.A643 AKJT85.K75.J.K85"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1S
+Pass 4S AP
+[Play "W"]
+D7 DA D4 DJ
+HA H6 H3 HK
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A5.T952.83.AT987 QJ986.Q73.J54.53 73.K864.AQ97.KJ4 KT42.AJ.KT62.Q62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1D Pass 1H
+1S 2H =1= 3H Pass
+3S AP
+[Note "1:exactly 4!hs"]
+[Play "E"]
+H6 HJ H2 HQ
+S3 S2 SA SJ
+H4 HA H5 H3
+S7 S4 S5 S9
+D7 DT D3 D4
+C4 C2 C9 C5
+CK C6 C7 C3
+CJ CQ CA S6
+D9 DK D8 D5
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A5.T952.83.AT987 QJ986.Q73.J54.53 73.K864.AQ97.KJ4 KT42.AJ.KT62.Q62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1D Pass 1H
+1S 2H 2S 3H
+Pass Pass 3S AP
+[Play "E"]
+H6 HJ H2 HQ
+S3 S2 SA S9
+H4 HA H5 H3
+S7 S4 S5 SJ
+C4 CQ CA C3
+CJ C2 CT C5
+CK C6 C7 S6
+D7 DT D3 D5
+-  ST -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT872.K3.Q97.J54 AKJ93.AJT7.KT.Q8 65.Q2.A8654.T973 4.98654.J32.AK62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1S 1NT
+Pass 2D Pass 4H
+AP
+[Play "E"]
+S6 S4 SQ SA
+H2 H4 H3 HA
+S5 D2 S2 SK
+HQ D3 S7 SJ
+DA DJ D7 DT
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:QT872.K3.Q97.J54 AKJ93.AJT7.KT.Q8 65.Q2.A8654.T973 4.98654.J32.AK62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 1S 1NT
+Pass 2D Pass 2S =1=
+Pass 4H AP
+[Note "1:Max with 4!H"]
+[Play "W"]
+S2 SA S5 S4
+C4 C8 C3 CA
+H3 HJ HQ H4
+C5 CQ C7 C2
+S7 S3 S6 H5
+HK HA H2 H6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "19"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A984.6.K92.JT964 532.J9832.Q5.AK5 76.KQ4.AJT83.Q32 KQJT.AT75.764.87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1H Pass
+2D Pass 2H Pass
+Pass X Pass 3D
+3H AP
+[Play "E"]
+C2 C7 C9 CA
+H4 H5 H6 H9
+HQ HA S4 H2
+S6 SK S8 S2
+S7 SQ SA S3
+D3 D4 DK D5
+DA D6 D9 DQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.A42.QJ9652.Q92 QT97543.J.T73.J8 A62.K.K84.AKT653 K8.QT987653.A.74"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6C"]
+[Result "12"]
+[Auction "W"]
+Pass 2H 3C 3H
+4NT Pass 5NT Pass
+6C AP
+[Play "S"]
+DA D2 D7 D4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J.A42.QJ9652.Q92 QT97543.J.T73.J8 A62.K.K84.AKT653 K8.QT987653.A.74"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6D"]
+[Result "12"]
+[Auction "W"]
+2C =1= Pass 2NT 3H
+3NT Pass 4NT Pass
+5C Pass 6D AP
+[Note "1:Weak !D or strong"]
+[Play "S"]
+HT H2 HJ HK
+DA D2 D7 D4
+H5 -  -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K3.QT64.T54.QJ96 Q8.J9753.K73.852 JT94.AK82.QJ.KT7 A7652..A9862.A43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "6"]
+[Auction "N"]
+Pass 1D 1S X
+Pass 2H AP
+[Play "S"]
+S2 S3 SQ S4
+DA D4 D7 DQ
+D2 D5 DK DJ
+SA SK S8 S9
+S5 HT HJ ST
+CA C6 C5 C7
+S6 HQ -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:K3.QT64.T54.QJ96 Q8.J9753.K73.852 JT94.AK82.QJ.KT7 A7652..A9862.A43"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+Pass 1C 1S X
+Pass 2H AP
+[Play "S"]
+SA S3 S8 S4
+S5 SK SQ ST
+S2 H4 H5 HA
+C4 CQ C2 C7
+DA D4 D7 DQ
+D2 D5 DK DJ
+CA C6 C5 CK
+D8 DT D3 CT
+C3 CJ C8 S9
+-  C9 H9 SJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AJ76.K9874.K9.A3 94.T532.AT4.T964 Q83.AQ6.65.KQJ72 KT52.J.QJ8732.85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+1D Pass 2C Pass
+2D Pass 2H Pass
+2NT =1= Pass 3C Pass
+3NT AP
+[Note "1: "]
+[Play "S"]
+D3 DK DA D5
+DJ D9 DT D6
+DQ S6 D4 S3
+D8 S7 -  -
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AJ76.K9874.K9.A3 94.T532.AT4.T964 Q83.AQ6.65.KQJ72 KT52.J.QJ8732.85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5H"]
+[Result "11"]
+[Auction "E"]
+1NT Pass 2C Pass
+2D Pass 3S =1= Pass
+4H Pass 4NT Pass
+5C Pass 5H AP
+[Note "1:4!S5!H"]
+[Play "S"]
+DQ D9 D4 D5
+D8 DK DA D6
+D2 H4 DT S3
+HJ H7 H3 HA
+C5 CA C4 C2
+D3 H8 H5 H6
+D7 H9 H2 HQ
+S2 SA S4 S8
+-  HK HT SQ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q3.Q986.A64.KQ92 T862.AT32.JT2.73 J54.K74.K93.J865 AK97.J5.Q875.AT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1S"]
+[Result "8"]
+[Auction "S"]
+1D Pass 1H Pass
+1S AP
+[Play "W"]
+CK C3 C5 C4
+C2 C7 CJ CA
+S3 S2 S4 SK
+SQ S6 S5 SA
+D6 DJ DK D5
+H6 S8 SJ S7
+-  -  D9 D7
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q3.Q986.A64.KQ92 T862.AT32.JT2.73 J54.K74.K93.J865 AK97.J5.Q875.AT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1C Pass 1D Pass
+1H Pass 1NT Pass
+2S AP
+[Play "W"]
+CK C7 C5 C4
+C2 C3 CJ CA
+CQ S2 C6 CT
+DA DJ D3 D5
+D6 D2 DK D7
+D4 DT D9 DQ
+H6 HT HK H5
+HQ HA H4 HJ
+S3 ST S4 SA
+SQ S6 S5 SK
+-  -  -  S9
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K52.Q87.A8.J9742 3.KJ4.T9732.AKT6 AQJT96.9653.J5.3 874.AT2.KQ64.Q85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Auction "W"]
+Pass 1D 3S X
+4S Pass Pass 5D
+AP
+[Play "E"]
+C3 C5 CJ CA
+D5 DK DA D3
+DJ C8 C9 CT
+SA S4 S2 S3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K52.Q87.A8.J9742 3.KJ4.T9732.AKT6 AQJT96.9653.J5.3 874.AT2.KQ64.Q85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "10"]
+[Auction "W"]
+Pass 1D 3S 4D
+4S Pass Pass 5D
+AP
+[Play "E"]
+C3 C5 CJ CA
+D5 DK DA D3
+DJ C8 C9 CT
+SA S4 S2 S3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ873.6432.Q9.Q2 QT42.7.J.AKT9853 A.A95.KT87543.64 965.KQJT8.A62.J7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Auction "N"]
+1C 1D 1H 1S
+2C 2D 2H 3D
+Pass Pass 3H AP
+[Play "W"]
+DQ DJ D8 D2
+H4 H7 HA H8
+S3 S2 SA S5
+D9 C3 DT DA
+H2 C5 H5 HK
+H6 S4 H9 HQ
+H3 ST D3 HJ
+C2 CA C4 CJ
+CQ CK C6 C7
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ873.6432.Q9.Q2 QT42.7.J.AKT9853 A.A95.KT87543.64 965.KQJT8.A62.J7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3D"]
+[Result "8"]
+[Auction "N"]
+2C 2D 2H X
+3C 3D AP
+[Play "S"]
+HK H2 H7 HA
+S5 S3 S4 SA
+DA D9 DJ D3
+HQ H3 C8 H5
+HJ H4 C3 H9
+CJ C2 CK C4
+C7 CQ CA C6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK64.Q63.Q73.Q63 Q8532.J85.JT62.A 9.AK97.AK98.JT82 JT7.T42.54.K9754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S Pass
+2H =1= Pass 3NT AP
+[Note "1:short in !ss,15-17"]
+[Play "N"]
+S2 S9 ST S6
+S5 C2 SJ S4
+S8 C8 S7 SA
+CA CT C5 C3
+S3 H7 C4 SK
+-  -  -  C6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:AK64.Q63.Q73.Q63 Q8532.J85.JT62.A 9.AK97.AK98.JT82 JT7.T42.54.K9754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1S Pass
+2C Pass 3NT AP
+[Play "N"]
+S3 S9 ST S4
+S2 C2 S7 S6
+S8 C8 SJ SA
+CA CT C4 C3
+S5 H7 C5 SK
+H5 -  -  C6
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A63.3.KQ974.9876 KT7.J765.3.AKQ42 J852.AKT984.J5.T Q94.Q2.AT862.J53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 1C 3H
+AP
+[Play "S"]
+C3 C6 CQ CT
+S4 S3 ST S2
+S9 SA SK S5
+HQ H3 H6 HT
+SQ S6 S7 S8
+DA D4 D3 D5
+D2 D7 H7 DJ
+C5 C7 CA H4
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A63.3.KQ974.9876 KT7.J765.3.AKQ42 J852.AKT984.J5.T Q94.Q2.AT862.J53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "7"]
+[Auction "S"]
+Pass Pass 2C 2H
+3C 3D Pass 3H
+AP
+[Play "S"]
+C5 C6 CK CT
+C3 C7 C4 H4
+H2 H3 H5 HA
+HQ S3 H6 HK
+DA D4 D3 DJ
+S9 S6 SK S2
+CJ C8 CA H8
+D6 D9 H7 D5
+S4 SA S7 S5
+D2 DK HJ S8
+SQ -  ST SJ
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "Verhees"]
+[North "T.Bakkeren"]
+[East "V Prooijen"]
+[South "F.Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.A9432.A93.A7632 J43.QT65.T8764.4 AKT86.J8.52.KT85 Q9752.K7.KQJ.QJ9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Auction "W"]
+2H Pass 2S Pass
+3C Pass 4C Pass
+5C AP
+[Play "N"]
+D4 D5 DJ DA
+C4 CK C9 C2
+S4 SA S5 D3
+S3 SK S7 D9
+HT H8 H7 H2
+SJ S6 S2 C3
+D7 C5 CJ CA
+H5 HJ HK HA
+H6 C8 CQ H3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:.A9432.A93.A7632 J43.QT65.T8764.4 AKT86.J8.52.KT85 Q9752.K7.KQJ.QJ9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "11"]
+[Auction "W"]
+1H Pass 1S Pass
+2C Pass 2D Pass
+3C Pass 5C AP
+[Play "N"]
+D8 D2 DJ DA
+C4 CK C9 C2
+S3 SA S2 D3
+S4 SK S5 D9
+HT H8 H7 H2
+SJ S6 S7 C3
+H5 HJ HK HA
+D4 C5 CJ CA
+H6 C8 -  H3
+*
+[Description "#"]
+[Stage "2_6"]
+[HomeTeam "\\'T Onstein 2 +32"]
+[VisitTeam "Het Witte Huis +46"]
+[Room "Closed"]
+
+% PBN created by BFC f3.lin P
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A98654.8.63.KJ75 2.AQJ632.J984.A3 KQJT7.7.AK2.QT96 3.KT954.QT75.842"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5S"]
+[Result "11"]
+[Auction "N"]
+1H 1S 4H 4S
+5H X Pass 5S
+AP
+[Play "S"]
+H5 H8 HA H7
+-  -  D4 -
+*
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A98654.8.63.KJ75 2.AQJ632.J984.A3 KQJT7.7.AK2.QT96 3.KT954.QT75.842"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HX"]
+[Result "8"]
+[Auction "N"]
+1H 1S 4H 4S
+5H X AP
+[Play "E"]
+DK D5 D3 D8
+DA D7 D6 D9
+D2 DT H8 D4
+SJ S3 SA S2
+C6 C2 C5 CA
+H7 -  -  HQ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ93.AQT95.QT2.J 865.J.AJ43.KT863 AQ42.2.K985.Q972 T7.K87643.76.A54"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1H Pass
+1S Pass 4C Pass
+4S AP
+[Play "S"]
+H7 HA HJ H2
+H3 H5 C6 S2
+C5 CJ CK C2
+S7 S9 S6 S4
+HK H9 C3 D5
+D6 D2 DJ DK
+ST S3 S5 SA
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KJ93.AQT95.QT2.J 865.J.AJ43.KT863 AQ42.2.K985.Q972 T7.K87643.76.A54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2HX"]
+[Result "5"]
+[Auction "E"]
+1D 1H Pass 1NT
+Pass 2H X AP
+[Play "W"]
+CJ C3 C2 CA
+D2 DJ DK D6
+HQ HJ H2 H3
+S3 S5 SA S7
+SJ S6 S2 ST
+DQ DA D5 D7
+S9 S8 S4 H4
+H5 C6 C7 C4
+DT D3 D8 H6
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ53.JT873.K.A95 T.AQ9.J96543.J73 KJ96.K54.A87.T42 8742.62.QT2.KQ86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1H Pass 2H
+Pass 2S Pass 2NT
+Pass 3H Pass 3NT
+Pass 4H AP
+[Play "N"]
+ST S6 S2 SA
+D3 D7 DT DK
+H9 HK H2 H3
+D4 DA D2 C5
+HQ H4 H6 H8
+C7 C2 CQ CA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AQ53.JT873.K.A95 T.AQ9.J96543.J73 KJ96.K54.A87.T42 8742.62.QT2.KQ86"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+Pass 1S Pass 2D
+Pass 2H Pass 4S
+AP
+[Play "N"]
+D4 D7 DQ DK
+H9 HK H2 H3
+HQ H4 H6 HJ
+C3 C4 CQ C5
+C7 C2 C6 CA
+ST S6 S2 SA
+D6 SK S4 S3
+D3 DA D2 C9
+HA H5 DT H7
+DJ D8 S7 SQ
+D5 S9 C8 H8
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ5.KT54.KQJT76. J93.3.985.QT8643 AT8762.AQ62.3.J2 4.J987.A42.AK975"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1D Pass 1S X
+XX =1= 2C 4S AP
+[Note "1:exactly 3!ss"]
+[Play "S"]
+CA S5 C8 C2
+DA DK D9 D3
+CK SK C3 CJ
+S4 SQ S3 S2
+H7 H4 H3 HA
+D4 D6 S9 SA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ5.KT54.KQJT76. J93.3.985.QT8643 AT8762.AQ62.3.J2 4.J987.A42.AK975"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "11"]
+[Auction "W"]
+1H Pass 2NT 3C
+4C 5C 5H Pass
+6H AP
+[Play "N"]
+C4 C2 CK H4
+H3 H2 H7 HK
+C6 HA H8 H5
+C8 CJ CA HT
+S3 S2 S4 SK
+S9 S6 H9 SQ
+D5 D3 DA D6
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:JT3.AK3.K64.AQ95 A875.Q92.JT52.64 K94.JT75.AQ98.83 Q62.864.73.KJT72"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2C X 2D =1=
+Pass 3NT AP
+[Note "1: "]
+[Play "N"]
+C4 C3 CK CA
+H2 H5 H4 HA
+H9 H7 H6 HK
+HQ HT H8 H3
+S5 S4 SQ S3
+SA S9 S6 ST
+S7 SK S2 SJ
+C6 HJ C2 C5
+D2 DA D3 D4
+D5 D8 D7 DK
+DT DQ C7 D6
+S8 C8 CT CQ
+DJ D9 CJ C9
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:JT3.AK3.K64.AQ95 A875.Q92.JT52.64 K94.JT75.AQ98.83 Q62.864.73.KJT72"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2C Pass 2D
+Pass 3NT AP
+[Play "N"]
+S5 S4 SQ ST
+S7 S9 S6 SJ
+H2 H5 H4 HA
+D2 DQ D3 D6
+HQ HJ H6 H3
+SA SK S2 S3
+S8 C3 C2 C5
+C6 C8 CK CA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT76.J654.J.AT83 Q985.K7.A9853.Q9 4.A98.KQT72.7652 KJ32.QT32.64.KJ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass 1C =1= Pass
+1D X 1H 2S
+AP
+[Note "1:2+!cs"]
+[Play "E"]
+DK D4 DJ DA
+C2 C4 C3 CQ
+C5 CJ CA C9
+HA H2 H4 H7
+DQ D6 CT D3
+D2 CK S6 D5
+H9 H3 H5 HK
+S4 SJ SA S5
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:AT76.J654.J.AT83 Q985.K7.A9853.Q9 4.A98.KQT72.7652 KJ32.QT32.64.KJ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "E"]
+Pass Pass Pass 1D
+Pass 1H X 1S
+Pass 2S AP
+[Play "E"]
+S4 S2 S6 S9
+HA H2 H4 HK
+C2 C4 CT CQ
+C5 CK CA C9
+D2 D4 DJ D5
+C6 S3 SA S5
+C7 SJ S7 S8
+D7 D6 ST D3
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q9.JT53.952.A943 J53.AQ9.AT6.QT62 KT8762.862.Q.K87 A4.K74.KJ8743.J5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1D Pass 2D Pass
+2H Pass 3NT AP
+[Play "E"]
+S6 S4 SQ S5
+S2 SA S9 S3
+DQ D3 D2 DA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q9.JT53.952.A943 J53.AQ9.AT6.QT62 KT8762.862.Q.K87 A4.K74.KJ8743.J5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "S"]
+1D Pass 3NT AP
+[Play "E"]
+S7 S4 SQ S5
+S6 SA S9 S3
+H8 H4 H3 HQ
+DQ DK D2 D6
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A96.A3.J954.AQ72 K3.Q7.AK62.JT543 JT74.KJ542.QT7.8 Q852.T986.83.K96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 2H =1= AP
+[Note "1:5!hs-4!ss"]
+[Play "S"]
+D3 D4 DK DT
+D8 D5 DA DQ
+H6 D9 D2 D7
+C9 CA C5 C8
+H8 HA H7 H2
+H9 H3 HQ HK
+HT C2 C3 HJ
+S2 S9 SK S4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A96.A3.J954.AQ72 K3.Q7.AK62.JT543 JT74.KJ542.QT7.8 Q852.T986.83.K96"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "W"]
+1NT Pass 2C Pass
+2D Pass 2NT AP
+[Play "N"]
+C4 C8 CK C2
+C3 H2 C9 CA
+D2 DT D3 D4
+DK DQ D8 D5
+CJ S4 C6 CQ
+DA D7 S2 DJ
+CT S7 S5 C7
+C5 ST H6 S6
+S3 SJ SQ SA
+D6 H4 S8 D9
+H7 H5 H8 HA
+HQ HK H9 H3
+SK HJ HT S9
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A3.AKJT62.K76.Q8 QJ2.97.AQJ8.K642 K64.854.T52.JT95 T9875.Q3.943.A73"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+1C Pass 1D 1H
+Pass =1= Pass 1S 2H
+Pass Pass X Pass
+2S AP
+[Note "1: "]
+[Play "W"]
+HK H7 H8 H3
+HA H9 H4 HQ
+C8 C2 C5 CA
+D7 DQ D2 D4
+SA SQ S6 S8
+CQ CK CT C3
+S3 SJ SK S5
+H2 C4 C9 C7
+-  -  CJ ST
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A3.AKJT62.K76.Q8 QJ2.97.AQJ8.K642 K64.854.T52.JT95 T9875.Q3.943.A73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3H"]
+[Result "10"]
+[Auction "N"]
+1D Pass 1S 2H
+2S Pass Pass 3H
+AP
+[Play "N"]
+SQ S4 S5 SA
+H7 H4 H3 HA
+H9 H5 HQ HK
+C2 C5 CA C8
+DJ D2 D4 D7
+SJ SK S7 S3
+CK C9 C3 CQ
+S2 S6 S8 HT
+-  -  -  H2
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K.K43.2.AKQJ6432 Q9864.95.J973.T7 AJ7532.A86.K4.95 T.QJT72.AQT865.8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7C"]
+[Result "12"]
+[Auction "E"]
+1S 2S 4NT Pass
+5S Pass 6C Pass
+6D X 7C AP
+[Play "N"]
+D3 DK DA D2
+-  -  DQ -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:K.K43.2.AKQJ6432 Q9864.95.J973.T7 AJ7532.A86.K4.95 T.QJT72.AQT865.8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6S"]
+[Result "9"]
+[Auction "E"]
+1S 2S X Pass =1=
+3S Pass 4H =2= Pass
+5D Pass 6S AP
+[Note "1:Undiscussed"]
+[Note "2:Good hand with !S fpenseur9:  5@D seems to make EW but can it be bid"]
+[Play "S"]
+C8 CA C7 C5
+ST SK S4 S2
+H2 H3 H5 HA
+D5 C2 S6 SA
+D6 CK CT C9
+H7 CQ S8 SJ
+D8 C3 S9 S3
+HT HK H9 H6
+HJ CJ SQ H8
+DQ D2 D3 D4
+DA -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T.J9.AJ9732.T985 AK8.AT8753.QT8.4 QJ6432.K642.K.A7 975.Q.654.KQJ632"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "6"]
+[Auction "S"]
+Pass 2C 2H 2S
+3C Pass 3H AP
+[Play "E"]
+DK D4 D2 D8
+S2 S5 ST SK
+H2 HQ H9 HA
+H4 C2 HJ HT
+CA C3 C5 C4
+SQ S7 D3 SA
+HK D5 -  H7
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T.J9.AJ9732.T985 AK8.AT8753.QT8.4 QJ6432.K642.K.A7 975.Q.654.KQJ632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3SX"]
+[Result "7"]
+[Auction "S"]
+3C Pass 3H 3S
+Pass Pass X AP
+[Play "S"]
+CK C5 C4 CA
+S7 ST SK S2
+HQ H9 HA H2
+S5 HJ H3 H4
+CJ C8 H5 C7
+D4 D2 D8 DK
+S9 D3 SA SQ
+C2 D7 HT HK
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:JT.A98654.75.764 AK973.32.AKT.J83 Q54.KQJT.Q642.K5 862.7.J983.AQT92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+2D 2S 4H AP
+[Play "S"]
+S6 ST SK S5
+D8 D5 DK D2
+S2 SJ SA S4
+D3 D7 DA D4
+CA C4 C3 CK
+D9 -  -  -
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:JT.A98654.75.764 AK973.32.AKT.J83 Q54.KQJT.Q642.K5 862.7.J983.AQT92"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3HX"]
+[Result "8"]
+[Auction "W"]
+Pass 1S Pass 2S
+Pass Pass X Pass
+3H X AP
+[Play "N"]
+SK S4 S2 ST
+DK D2 D3 D5
+DA D4 D8 D7
+SA S5 S6 SJ
+DT D6 D9 H4
+H2 HT H7 HA
+H3 HJ C2 H5
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:JT8763.J6.T5.843 A52.Q7.K98.KJ752 K4.K853.A732.AT9 Q9.AT942.QJ64.Q6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1H Pass
+1NT Pass 2C Pass
+2D Pass 2H AP
+[Play "W"]
+SJ S2 SK S9
+S6 S5 S4 SQ
+C8 CK CA C6
+DT DK D3 D6
+H6 H7 H3 HA
+HJ HQ H5 H4
+C4 C2 C9 CQ
+S3 C5 HK H9
+D5 D8 D7 DQ
+C3 C7 H8 HT
+S7 D9 DA D4
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:JT8763.J6.T5.843 A52.Q7.K98.KJ752 K4.K853.A732.AT9 Q9.AT942.QJ64.Q6"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "N"]
+1C =1= Pass 1H Pass
+1NT Pass 2C =2= Pass
+2D =3= Pass 2H =4= Pass
+2S Pass 3NT AP
+[Note "1:2+"]
+[Note "2:Forces 2!D"]
+[Note "3:Forced"]
+[Note "4:Invitational with 5!H"]
+[Play "E"]
+D2 D4 DT DK
+C9 CQ C3 C5
+CA C6 C4 CJ
+H3 H9 HJ HQ
+D3 D6 D5 D9
+H5 HT H6 H7
+DA DJ S6 D8
+HK HA S8 C2
+D7 DQ C8 S2
+S4 S9 S3 SA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "F.Bakkeren"]
+[North "Paulissen"]
+[East "T.Bakkeren"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT72.T4.9542.QJ6 Q85.A765.KT7.T84 AJ6.KJ3.J86.9732 943.Q982.AQ3.AK5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT Pass 2C
+Pass 2H Pass 2NT
+AP
+[Play "W"]
+D4 D7 D8 DQ
+H4 HA H3 H9
+HT H5 HJ HQ
+S2 H6 HK H8
+C6 C4 C2 CA
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "Verhees"]
+[North "Bertens"]
+[East "Van Prooij"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:KT72.T4.9542.QJ6 Q85.A765.KT7.T84 AJ6.KJ3.J86.9732 943.Q982.AQ3.AK5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+Pass 1NT Pass 3NT
+AP
+[Play "W"]
+S2 SQ SA S3
+S7 S5 SJ S4
+ST S8 S6 S9
+SK H5 H3 C5
+CJ C4 C2 CK
+H4 HA HJ H2
+HT H6 HK H8
+*
+[Description "#"]
+[Stage "3_6"]
+[HomeTeam "Het Witte Huis +47"]
+[VisitTeam "\\'T Onstein 2 +69"]
+[Room "Closed"]
+
+% PBN created by BFC f4.lin P
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T832.9.KQ972.Q63 5.87542.3.KJ8754 AQ4.AKQ.J865.AT2 KJ976.JT63.AT4.9"]
+[Scoring "IMP"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "10"]
+[Auction "S"]
+Pass 2C Pass 2NT
+Pass 3C =1= X 5D
+AP
+[Note "1:minimum"]
+[Play "S"]
+C9 C3 CJ CA
+H3 H9 H4 HA
+H6 C6 H2 HQ
+HT CQ H5 HK
+S7 D2 C4 CT
+D4 DK D3 D5
+DA D7 H7 DJ
+DT DQ H8 D6
+S6 S2 S5 SA
+S9 D9 C5 C2
+-  S3 C7 -
+*
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:T832.9.KQ972.Q63 5.87542.3.KJ8754 AQ4.AKQ.J865.AT2 KJ976.JT63.AT4.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 3C X
+Pass 3D Pass 3NT
+AP
+[Play "S"]
+S6 S2 S5 SQ
+D4 DK D3 D5
+DA D2 H4 DJ
+C9 C3 CJ CA
+-  -  -  C2
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT62.9762.Q54.98 J.AJ8.J762.AJT73 A973.K5.AT9.K652 Q854.QT43.K83.Q4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+Pass 1D Pass 1H
+Pass 2H X Pass
+2S AP
+[Play "N"]
+D2 D9 DK D5
+SJ S3 S5 SK
+C3 CK C4 C9
+C7 C2 CQ C8
+H8 HK H3 H6
+CT C5 D8 S2
+D6 DA D3 D4
+CJ C6 H4 S6
+HJ H5 HT H9
+D7 DT S4 DQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KT62.9762.Q54.98 J.AJ8.J762.AJT73 A973.K5.AT9.K652 Q854.QT43.K83.Q4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass 1C =1= Pass 1H
+Pass 2H X Pass
+2S AP
+[Note "1:2+!C"]
+[Play "N"]
+SJ SA S4 S2
+C3 S9 S5 S6
+DJ D9 D8 D4
+D2 DT DK D5
+D6 DA D3 DQ
+H8 S3 S8 ST
+HA H5 H3 H2
+HJ HK H4 H6
+C7 S7 SQ SK
+CT CK C4 C8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A854.JT654.AKJ.9 J93.KQ9.QT95432. KQT7.A2.87.AQ652 62.873.6.KJT8743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "10"]
+[Auction "N"]
+Pass 1C =1= 2C X
+2D 2S Pass 4S
+X AP
+[Note "1:2+!cs"]
+[Play "S"]
+D6 DA D3 D8
+S2 S4 S3 SK
+H7 H4 H9 HA
+H3 H5 HQ H2
+S6 DJ D2 D7
+C4 C9 S9 C2
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:A854.JT654.AKJ.9 J93.KQ9.QT95432. KQT7.A2.87.AQ652 62.873.6.KJT8743"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "N"]
+3D X Pass 4D
+Pass 4S AP
+[Play "S"]
+D6 DA D2 D7
+H3 H4 H9 HA
+H7 HT HQ H2
+S2 DJ D3 D8
+CJ C9 S3 C2
+C4 DK D4 SK
+S6 S4 S9 SQ
+C3 SA SJ S7
+H8 H6 HK ST
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ76.KQ953..T52 T943.A64.987.QJ6 85.JT7.KQ65.AK43 A2.82.AJT432.987"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2D X 4H AP
+[Play "N"]
+D8 DK DA H3
+H4 HJ H2 H5
+S4 S5 S2 SQ
+HA H7 H8 HK
+H6 HT D2 H9
+S3 S8 SA S6
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:KQJ76.KQ953..T52 T943.A64.987.QJ6 85.JT7.KQ65.AK43 A2.82.AJT432.987"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+1D Pass 1S Pass
+1NT Pass 4H AP
+[Play "N"]
+CQ CA C9 C5
+S3 S5 S2 SQ
+S4 S8 SA SK
+C6 CK C8 C2
+D7 DK DA H3
+ST HT C7 S6
+D8 DQ D2 CT
+D9 D5 D3 H5
+S9 HJ D4 S7
+HA H7 H2 HK
+CJ C3 DT H9
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "19"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQ876.J5.J5.T762 A4.AK86.AK9632.8 J32.QT732..AJ953 T95.94.QT874.KQ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5D"]
+[Result "12"]
+[Auction "S"]
+Pass Pass 1D 1H
+3D Pass 3H Pass
+4C Pass 4H =1= Pass
+4NT =2= Pass 5D AP
+[Note "1:optional RKC"]
+[Note "2:0 keycards"]
+[Play "E"]
+CA C4 CT C8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "19"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:KQ876.J5.J5.T762 A4.AK86.AK9632.8 J32.QT732..AJ953 T95.94.QT874.KQ4"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "6D"]
+[Result "12"]
+[Auction "S"]
+Pass Pass 1D 1H
+2H Pass 4NT Pass
+5C Pass 5H Pass
+6D AP
+[Play "E"]
+H2 H4 HJ HA
+-  -  -  DA
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.AJ62.A92.AK752 762.Q.Q86543.JT6 AJT95.K8753.T.94 Q843.T94.KJ7.Q83"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1S Pass
+2H Pass 3H Pass
+3NT Pass 4D X
+XX ! Pass 4NT Pass
+5D Pass 5S Pass
+5NT Pass 6H AP
+[Play "N"]
+D5 DT DK DA
+HQ H3 H4 HA
+D3 H5 H9 HJ
+D4 HK HT H2
+S6 S5 S3 SK
+D6 H7 D7 D2
+S2 SA S4 D9
+S7 SJ S8 C2
+C6 ST SQ H6
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K.AJ62.A92.AK752 762.Q.Q86543.JT6 AJT95.K8753.T.94 Q843.T94.KJ7.Q83"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "13"]
+[Auction "W"]
+1C Pass 3S Pass
+4C Pass 4H Pass
+4S Pass 5D Pass
+6H AP
+[Play "S"]
+D7 DA D6 DT
+H4 HA HQ H3
+-  HJ -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T2.AQ.AQT64.AT42 Q95.9532.K982.K8 J74.KJT64.5.J975 AK863.87.J73.Q63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1NT
+Pass 2D Pass 2H
+AP
+[Play "N"]
+CK C5 C6 CA
+H2 H4 H7 HA
+H3 HK H8 HQ
+H5 HJ D3 D4
+-  HT S6 -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T2.AQ.AQT64.AT42 Q95.9532.K982.K8 J74.KJT64.5.J975 AK863.87.J73.Q63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1S 2D
+2S Pass Pass 3C
+AP
+[Play "N"]
+S5 S4 SK S2
+S9 S7 SA ST
+SQ SJ S6 C2
+C8 C5 C3 CA
+CK C7 C6 C4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:9852.KT974.J2.87 AKJT4..KQT3.J652 Q6.Q8.9876.KQT94 73.AJ6532.A54.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3CXX"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2H Pass 3C
+X XX AP
+[Play "E"]
+CK CA C7 C2
+S6 S3 S2 SA
+SQ S7 S5 SK
+D7 DA D2 D3
+D6 D4 DJ DK
+C4 H2 S8 ST
+HQ HA H4 S4
+-  H3 -  -
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:9852.KT974.J2.87 AKJT4..KQT3.J652 Q6.Q8.9876.KQT94 73.AJ6532.A54.A3"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+Pass 1H Pass 1S
+Pass 2H Pass 2NT =1=
+Pass 3H Pass 3NT
+AP
+[Note "1:Alerted by Ton, not Frank"]
+[Play "E"]
+CQ CA C7 C5
+SQ S3 S2 SJ
+HQ HA H4 C2
+S6 S7 S5 SK
+C4 H2 S8 SA
+CT C3 S9 ST
+D6 H3 H7 S4
+D7 D4 D2 DK
+D8 DA DJ D3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT.KT74.987.T73 72.Q9852.AQ3.Q85 98.J6.T542.AJ964 QJ6543.A3.KJ6.K2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "S"]
+1S Pass 1NT Pass
+2S AP
+[Play "W"]
+H7 HQ H6 H3
+SK S2 S8 SQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:AKT.KT74.987.T73 72.Q9852.AQ3.Q85 98.J6.T542.AJ964 QJ6543.A3.KJ6.K2"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+1S Pass 1NT Pass
+2S AP
+[Play "W"]
+D7 DA D2 D6
+SK S2 S8 SQ
+D9 DQ D4 DJ
+SA S7 S9 SJ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:73.QT6542.Q.7643 K654.AJ9.T52.T92 J98.K3.KJ73.KQJ5 AQT2.87.A9864.A8"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "8"]
+[Auction "W"]
+2D Pass 2H X
+Pass 2S 3H 3S
+Pass 4S AP
+[Play "E"]
+CK CA C7 C2
+D3 D4 DQ D5
+CJ C8 C3 C9
+DK DA S3 D2
+H3 H7 H6 HA
+S9 SA S7 S4
+S8 S2 H2 SK
+DJ D6 H4 DT
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:73.QT6542.Q.7643 K654.AJ9.T52.T92 J98.K3.KJ73.KQJ5 AQT2.87.A9864.A8"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1NT Pass
+2H Pass Pass 2S
+AP
+[Play "W"]
+DQ D2 D3 DA
+S3 S4 S8 SQ
+S7 SK S9 S2
+C4 S5 SJ SA
+H2 DT DJ D4
+C3 C2 CQ CA
+C7 D5 DK D9
+C6 C9 CK C8
+-  -  CJ ST
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ95.7.KQ86.JT42 A43.AT4.AT75.K85 Q.KQJ8653.94.A76 T8762.92.J32.Q93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Auction "N"]
+1NT 3H AP
+[Play "S"]
+S8 S5 S4 SQ
+H2 H7 HA HK
+CQ C2 C8 C7
+D3 DK DA D4
+S2 S9 SA H3
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KJ95.7.KQ86.JT42 A43.AT4.AT75.K85 Q.KQJ8653.94.A76 T8762.92.J32.Q93"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3H"]
+[Result "10"]
+[Auction "N"]
+1NT 3H AP
+[Play "S"]
+S2 S5 SA SQ
+CQ C2 C8 C7
+C9 CJ CK CA
+C3 CT C5 C6
+S6 SK S3 D4
+S7 SJ S4 D9
+H2 H7 H4 HK
+H9 D6 HA HQ
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T8.QT987.AKQJT.5 QJ76.A6.874.AKQ8 A954.KJ.932.JT43 K32.5432.65.9762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1H X
+XX Pass 2D Pass
+2H AP
+[Play "N"]
+CA C3 C6 C5
+CQ C4 C2 H7
+H6 HK H2 H8
+HA HJ H3 HQ
+S6 SA S2 S8
+D4 D2 D5 DA
+-  -  -  HT
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T8.QT987.AKQJT.5 QJ76.A6.874.AKQ8 A954.KJ.932.JT43 K32.5432.65.9762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 2D X
+2H AP
+[Play "S"]
+C6 C5 CQ C3
+S2 S8 SJ SA
+H2 H7 HA HK
+SK ST S6 S4
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A42.98.AJT76.QJ7 Q753.KT52.K9.A53 J9.64.Q842.KT642 KT86.AQJ73.53.98"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "S"]
+Pass 1D X 2NT
+4H AP
+[Play "W"]
+CQ CA C2 C8
+H8 H2 H4 HQ
+H9 HT H6 HJ
+DA D9 D2 D3
+CJ C3 CK C9
+C7 C5 CT H7
+D6 DK D4 D5
+S2 S3 S9 SK
+S4 S5 SJ S8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A42.98.AJT76.QJ7 Q753.KT52.K9.A53 J9.64.Q842.KT642 KT86.AQJ73.53.98"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+Pass 1D X Pass
+4H AP
+[Play "W"]
+CQ CA C4 C8
+H8 H2 H4 HA
+H9 HK H6 H3
+C7 C3 CK C9
+DA D9 D2 D3
+CJ C5 C2 H7
+S4 SQ S9 S6
+D6 DK D4 D5
+SA S3 SJ SK
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "Westra"]
+[North "Paulissen"]
+[East "Bertens"]
+[South "Jansma"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J74.K752.943.K86 962.AT84.Q8.A973 AK85.J93.AT2.J54 QT3.Q6.KJ765.QT2"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "W"]
+Pass Pass 1C Pass
+1H Pass 1NT AP
+[Play "S"]
+D6 D3 DQ DA
+SQ S4 S2 S5
+DK D4 D8 D2
+DJ D9 S6 DT
+D5 H2 H4 C4
+D7 S7 C3 H3
+CQ CK CA C5
+C2 C6 C7 CJ
+S3 SJ S9 SA
+ST H5 H8 SK
+H6 -  -  S8
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "Verhees"]
+[North "T Bakkeren"]
+[East "V Prooijen"]
+[South "F Bakkeren"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:J74.K752.943.K86 962.AT84.Q8.A973 AK85.J93.AT2.J54 QT3.Q6.KJ765.QT2"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "4"]
+[Auction "W"]
+Pass Pass 1D Pass
+1H Pass 1S Pass
+1NT AP
+[Play "N"]
+C3 CJ CQ CK
+S6 SA S3 S4
+HA H3 H6 HK
+C7 C4 CT C8
+DQ DA D6 D4
+S2 SK ST S7
+S9 S5 SQ SJ
+D8 D2 DK D3
+H4 H9 HQ H2
+*
+[Description "#"]
+[Stage "4_6"]
+[HomeTeam "Het Witte Huis +70"]
+[VisitTeam "\\'T Onstein 2 +108"]
+[Room "Closed"]
+
+% PBN created by BFC f5.lin P
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQ2.43.QT975.A7 763..KJ863.KQJT6 85.KQT98762..432 JT94.AJ5.A42.985"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "5CX"]
+[Result "8"]
+[Auction "N"]
+Pass 4H Pass Pass
+4NT Pass 5C X
+AP
+[Play "W"]
+CA CT C4 C5
+SQ S3 S5 S4
+SK S6 S8 S9
+SA S7 H2 ST
+S2 CJ H6 SJ
+C7 C6 C2 C9
+D5 D3 C3 DA
+H3 D6 HK HA
+*
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "1"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AKQ2.43.QT975.A7 763..KJ863.KQJT6 85.KQT98762..432 JT94.AJ5.A42.985"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+2NT =1= Pass 3D Pass
+Pass 3H Pass 3NT
+Pass 4H AP
+[Note "1:Minors"]
+[Play "S"]
+C5 CA CK C3
+-  H3 D3 HQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:9874.AKQJ74.3.72 AKQ6.2.T742.AJ83 J.8653.A65.KQT94 T532.T9.KQJ98.65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4HX"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 4H X
+AP
+[Play "N"]
+SK SJ S5 S4
+D7 DA DK D3
+H2 H3 H9 HA
+CA C4 C5 C2
+D2 D5 DJ H4
+-  -  -  HK
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "2"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:9874.AKQJ74.3.72 AKQ6.2.T742.AJ83 J.8653.A65.KQT94 T532.T9.KQJ98.65"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5H"]
+[Result "11"]
+[Auction "E"]
+Pass Pass 4H X
+XX 4S Pass Pass
+5H AP
+[Play "N"]
+SK SJ S5 S4
+D7 DA D8 D3
+H2 H3 HT HQ
+S6 H5 H9 HA
+CA C4 C5 C2
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A6.AK432.QJ92.K6 843.J8.AKT874.A5 KQT97..63.Q98732 J52.QT9765.5.JT4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+2D 2H X 2S
+Pass 2NT Pass 3C
+Pass 3S AP
+[Play "S"]
+D5 DQ DA D6
+H5 D2 DK D3
+SJ D9 D4 ST
+CJ C6 CA C2
+C4 DJ D8 S9
+CT CK C5 C3
+S2 SA S3 S7
+S5 S6 S4 SK
+-  -  -  SQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "3"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:A6.AK432.QJ92.K6 843.J8.AKT874.A5 KQT97..63.Q98732 J52.QT9765.5.JT4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+3H AP
+[Play "W"]
+DQ DA D6 D5
+D2 DK D3 S2
+DJ DT S7 S5
+SA S3 S9 SJ
+S6 S4 SQ H7
+CK CA C2 CT
+C6 C5 CQ C4
+-  -  SK HT
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:73.K754.AQ5.JT73 AQ86.T2.K94.A862 KT9542.QJ.JT3.94 J.A9863.8762.KQ5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1C =1= Pass 1H
+Pass 1S Pass 1NT
+AP
+[Note "1:2+!cs"]
+[Play "W"]
+H4 H2 HJ HA
+H5 HT HQ H6
+C3 C2 C4 CK
+HK S6 S2 H9
+C7 C8 C9 CQ
+H7 D4 S4 H8
+S3 C6 D3 H3
+S7 S8 SK SJ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "4"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:73.K754.AQ5.JT73 AQ86.T2.K94.A862 KT9542.QJ.JT3.94 J.A9863.8762.KQ5"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+Pass 1D 2S 3D
+Pass 3H AP
+[Play "E"]
+DJ D2 D5 DK
+HJ HA H4 H2
+HQ H3 H5 HT
+DT D6 DA D4
+D3 D7 DQ D9
+S2 SJ S3 SA
+C4 CK C3 C2
+-  H9 HK -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q.A876.K753.QJ43 K765.KQT3.T6.987 A83.J42.AQ982.A5 JT942.95.J4.KT62"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "5D"]
+[Result "12"]
+[Auction "N"]
+Pass 1NT Pass 2S
+Pass 2NT Pass 3S
+Pass 4D Pass 5D
+AP
+[Play "S"]
+SJ SQ SK SA
+S4 D3 S6 S3
+D4 DK D6 D2
+DJ D5 DT DA
+ST D7 S5 S8
+C2 C3 C9 CA
+S2 H6 S7 DQ
+H5 H7 C7 D9
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "5"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:Q.A876.K753.QJ43 K765.KQT3.T6.987 A83.J42.AQ982.A5 JT942.95.J4.KT62"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "N"]
+Pass 1NT Pass 2C
+Pass 2D Pass 3NT
+AP
+[Play "S"]
+SJ SQ SK S3
+S9 C3 S5 S8
+S2 H6 S7 SA
+D4 DK D6 D2
+DJ D3 DT DQ
+C2 D5 C9 DA
+C6 D7 H3 D8
+CK CQ C7 C5
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:763.AT53.T9532.2 AK52..KQJ6.JT976 J9.K9762.4.AKQ43 QT84.QJ84.A87.85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "9"]
+[Auction "E"]
+1H Pass 4H X
+AP
+[Play "S"]
+S8 S3 SA SJ
+S4 S6 SK S9
+SQ S7 S5 H6
+D8 DT DJ D4
+DA D2 D6 H2
+H4 H3 S2 HK
+C5 C2 C7 CA
+C8 D3 C6 CK
+-  -  -  CQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "6"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:763.AT53.T9532.2 AK52..KQJ6.JT976 J9.K9762.4.AKQ43 QT84.QJ84.A87.85"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1H Pass 3H X
+4H X =1= Pass 4S
+AP
+[Note "1:Alerted by N, not S"]
+[Play "E"]
+CK C5 C2 C6
+CA C8 H3 C7
+C4 H4 S6 C9
+SJ SQ S3 S2
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K6.AQJ6.AK6.J985 J72.3.QT542.AQ63 A854.KT854.93.42 QT93.972.J87.KT7"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass 1C Pass 1D
+Pass 1NT Pass 2D
+Pass 2H Pass 2S
+Pass 3H Pass 4H
+AP
+[Play "N"]
+D2 D3 DJ DK
+S2 S4 S3 SK
+S7 SA S9 S6
+SJ S5 ST H6
+D4 D9 D7 DA
+D5 H4 D8 D6
+DT S8 SQ HQ
+H3 H5 H2 HA
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "7"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:K6.AQJ6.AK6.J985 J72.3.QT542.AQ63 A854.KT854.93.42 QT93.972.J87.KT7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass 1C Pass 1H
+Pass 2NT Pass 3C
+Pass 4H AP
+[Play "S"]
+ST SK S7 S5
+H2 HA H3 H5
+H7 HQ D5 H4
+S3 S6 S2 SA
+S9 H6 SJ S4
+D7 DA D2 D3
+D8 DK D4 D9
+DJ D6 DT H8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:93.K84.AK542.T53 T64.93.97.Q87642 K852.AJ6.J3.AKJ9 AQJ7.QT752.QT86."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "W"]
+Pass Pass 1NT 2C
+3NT AP
+[Play "S"]
+H5 H8 H9 HJ
+D6 DA D7 D3
+S7 C3 C2 CA
+H2 HK H3 H6
+H7 CT C7 C9
+SJ C5 C4 CJ
+D8 D2 C8 CK
+HT H4 C6 HA
+DQ DK D9 DJ
+-  D4 -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "8"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:93.K84.AK542.T53 T64.93.97.Q87642 K852.AJ6.J3.AKJ9 AQJ7.QT752.QT86."]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2SX"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1NT 2C
+X Pass Pass 2D
+X 2S X AP
+[Play "E"]
+S2 S7 S9 ST
+H6 HQ HK H3
+S5 SJ S3 S4
+HA H2 H4 H9
+CK H5 C5 C6
+S8 SQ D5 S6
+SK SA D2 D7
+HJ H7 H8 C2
+DJ DQ DA D9
+C9 HT C3 C7
+CA D6 CT C4
+CJ D8 D4 CQ
+D3 DT DK C8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:6.K8432.J9862.K6 AQT43.J9.5.J9842 J975.T6.AQT.AQ53 K82.AQ75.K743.T7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+2S ! Pass 3S AP
+[Play "E"]
+HT H5 HK HJ
+H6 H7 H2 H9
+C3 CT CK C4
+CQ C7 C6 C9
+DA D3 D6 D5
+C5 S8 D9 C2
+DT DK D2 C8
+DQ D4 D8 S3
+CA SK H8 CJ
+S5 D7 DJ S4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "9"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:6.K8432.J9862.K6 AQT43.J9.5.J9842 J975.T6.AQT.AQ53 K82.AQ75.K743.T7"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass 1C X 1H
+2S AP
+[Play "E"]
+HT H5 HK HJ
+DA D3 D6 D5
+H6 H7 H2 H9
+S5 S2 S6 SA
+C3 CT CK C2
+S7 HQ H3 C4
+S9 S8 D2 SQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:6.KQT65.AK753.Q6 Q752.J83.QJ4.KT9 JT843.A74.T8.A82 AK9.92.962.J7543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "12"]
+[Auction "E"]
+Pass Pass 1H Pass
+2C Pass 4H AP
+[Play "N"]
+H3 H4 H9 HT
+D4 D8 D2 DA
+DJ DT D6 DK
+DQ HA D9 D3
+H8 H7 H2 HK
+HJ S3 C5 HQ
+S2 S4 C3 D7
+CT S8 S9 D5
+CK ST C4 H6
+-  -  -  H5
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "10"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:6.KQT65.AK753.Q6 Q752.J83.QJ4.KT9 JT843.A74.T8.A82 AK9.92.962.J7543"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass Pass 1H Pass
+2C Pass 2S Pass
+2NT Pass 3D Pass
+4H AP
+[Play "N"]
+S5 S3 SK S6
+D4 D8 D6 DK
+DJ DT D2 DA
+DQ C2 D9 D3
+S7 ST SA H5
+H3 HA H2 H6
+H8 H4 H9 HK
+-  -  -  HQ
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ8.43.KJ975.987 94.8762.AQ6.J432 QT62.T9.T42.AKT6 A753.AKQJ5.83.Q5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Auction "S"]
+1H Pass 3C Pass
+3D Pass 3H AP
+[Play "W"]
+H4 H2 H9 HJ
+H3 H6 HT HA
+D7 DQ D2 D3
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "11"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ8.43.KJ975.987 94.8762.AQ6.J432 QT62.T9.T42.AKT6 A753.AKQJ5.83.Q5"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+1C 1D X 2D
+2H Pass 4H AP
+[Play "W"]
+D5 DQ D4 D3
+S8 S4 S2 S5
+DK DA D2 D8
+H3 H2 H9 HA
+H4 H6 HT HK
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK986.J74.8.T842 J3.9853.KJ5.QJ76 T542.Q.Q942.K953 Q7.AKT62.AT763.A"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "W"]
+Pass Pass 1NT X
+2H X 2S 4H
+4S Pass Pass X
+AP
+[Play "S"]
+HK H4 H9 HQ
+CA C2 C6 C3
+D3 D8 DK D2
+S7 C4 CQ CK
+SQ SA S3 S2
+-  SK SJ S4
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "12"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK986.J74.8.T842 J3.9853.KJ5.QJ76 T542.Q.Q942.K953 Q7.AKT62.AT763.A"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4SX"]
+[Result "8"]
+[Auction "W"]
+Pass Pass Pass 1C
+1S X 3S 4H
+4S Pass Pass X
+AP
+[Play "N"]
+H5 HQ HK H4
+S3 S2 S7 SK
+H3 S4 H2 H7
+SJ S5 SQ SA
+C6 C9 CA C2
+DK D2 D6 D8
+DJ D4 D3 S6
+CJ CK -  C8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q952.QJ7.8653.93 KT63.AKT4.AK72.8 A8.8653.QJ.KQJT6 J74.92.T94.A7542"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1D Pass 1NT Pass
+3NT AP
+[Play "W"]
+S2 S3 S8 SJ
+S5 S6 SA S4
+C3 C8 CT CA
+S9 ST H3 S7
+SQ SK H5 H2
+D3 DA DJ D4
+D5 DK DQ D9
+D6 D2 H6 DT
+HJ HA H8 H9
+H7 HK C6 C2
+-  D7 -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "13"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:Q952.QJ7.8653.93 KT63.AKT4.AK72.8 A8.8653.QJ.KQJT6 J74.92.T94.A7542"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2CX"]
+[Result "5"]
+[Auction "N"]
+1C 2C Pass Pass
+X AP
+[Play "S"]
+H9 HQ HK H5
+C5 C9 C8 C6
+CA C3 S6 CQ
+H2 HJ HA H3
+S4 H7 HT H8
+C2 S2 H4 H6
+D9 D3 DK DJ
+D4 D5 DA DQ
+DT D6 D7 CJ
+C4 D8 S3 CT
+C7 S5 D2 CK
+S7 S9 ST SA
+SJ SQ SK S8
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K5432.A98.K.AK84 AJ.Q754.AT95.Q62 T876.K62.J643.95 Q9.JT3.Q872.JT73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S X
+3S Pass 4S AP
+[Play "N"]
+H5 HK HJ H9
+SA S6 S9 SK
+H4 H6 HT HA
+SJ S7 SQ S2
+C6 C5 C3 CA
+C2 C9 C7 CK
+CQ S8 CT C8
+DA D3 D2 DK
+HQ H2 H3 H8
+D5 -  -  -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "14"]
+[West "F Bakkeren"]
+[North "V Prooijen"]
+[East "T Bakkeren"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:K5432.A98.K.AK84 AJ.Q754.AT95.Q62 T876.K62.J643.95 Q9.JT3.Q872.JT73"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S X
+3S AP
+[Play "N"]
+H5 HK H3 H8
+SA S6 S9 SK
+H4 H2 HT HA
+SJ S7 SQ S2
+-  -  HJ -
+*
+[Description "#"]
+[Stage "5_6"]
+[HomeTeam "\\'T Onstein 2 +150"]
+[VisitTeam "Het Witte Huis +87"]
+[Room "Closed"]
+
+% PBN created by BFC f6.lin P
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QT9865.JT3.T8.65 K32.952.AQ3.AKQ7 J.AQ764.KJ72.J98 A74.K8.9654.T432"]
+[Scoring "IMP"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1C 1H
+1S X ! 2S Pass
+2NT Pass 3NT AP
+[Play "W"]
+HJ H2 H6 HK
+C6 CA C9 C2
+C5 CK C8 C3
+S5 CQ CJ C4
+ST C7 D2 CT
+D8 DQ DK D4
+HT H5 HA H8
+H3 H9 HQ D5
+*
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "15"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QT9865.JT3.T8.65 K32.952.AQ3.AKQ7 J.AQ764.KJ72.J98 A74.K8.9654.T432"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "S"]
+Pass 2H 2NT Pass
+3NT AP
+[Play "E"]
+H4 HK HJ H2
+C8 C2 C5 CQ
+C9 C3 C6 CA
+CJ C4 ST CK
+D7 CT S5 C7
+DK D4 D8 DQ
+H6 H8 HT H5
+HQ S4 H3 H9
+HA D5 DT -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:JT96.752.QT4.Q93 K874.AQJ.987.KT4 A532.9643.K5.J72 Q.KT8.AJ632.A865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1C Pass 1D
+Pass 1H Pass 2C
+Pass 2NT Pass 3NT
+AP
+[Play "E"]
+C7 C8 CQ CK
+D5 DJ DQ D9
+SA SQ S6 S4
+S2 H8 S9 S7
+S3 D2 SJ SK
+CJ CA C3 CT
+C2 C5 C9 C4
+S5 D3 ST S8
+DK DA D4 D7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "16"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:JT96.752.QT4.Q93 K874.AQJ.987.KT4 A532.9643.K5.J72 Q.KT8.AJ632.A865"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "W"]
+Pass 1D =1= Pass 2C
+Pass 2NT Pass 3NT
+AP
+[Note "1:0+!d"]
+[Play "E"]
+H4 H8 H7 HQ
+D5 D2 DT D7
+SA SQ S6 S4
+S2 C5 S9 S7
+S5 C6 SJ SK
+DK D3 D4 D8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q.AJT762.K953.AJ 8652.K83.A4.KT82 KJT7.Q94.Q2.Q543 A943.5.JT876.976"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass 2C 2H
+Pass 3H Pass 4H
+AP
+[Play "N"]
+DA D2 D8 D5
+D4 DQ D6 D3
+HK HQ H5 H6
+C2 C3 C9 CJ
+H8 H9 D7 D9
+H3 H4 S3 HA
+S2 S7 S4 HJ
+S6 C4 C7 HT
+-  -  -  H7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "17"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q.AJT762.K953.AJ 8652.K83.A4.KT82 KJT7.Q94.Q2.Q543 A943.5.JT876.976"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 2C =1= Pass 2D
+Pass 2H Pass 2NT =2=
+Pass 3H Pass 4H
+AP
+[Note "1:good rasie with !h"]
+[Note "2:0-1!s"]
+[Play "N"]
+DA D2 D8 D5
+D4 DQ D6 D3
+HK H9 H5 H2
+H3 H4 D7 H6
+S2 S7 SA SQ
+-  -  C7 CA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98.T732.QT765.52 QJ.8654.AJ4.K943 AKT6532.Q.32.A87 74.AKJ9.K98.QJT6"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "8"]
+[Auction "E"]
+1S X Pass 2S
+3S AP
+[Play "S"]
+HK H2 H4 HQ
+S4 S8 SJ SK
+CT C2 C3 C8
+S7 S9 SQ SA
+D9 DT DJ D2
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "18"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98.T732.QT765.52 QJ.8654.AJ4.K943 AKT6532.Q.32.A87 74.AKJ9.K98.QJT6"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3C"]
+[Result "9"]
+[Auction "E"]
+1S X Pass 1NT =1=
+2S Pass Pass X
+Pass 3C AP
+[Note "1:any 8+"]
+[Play "W"]
+S9 SJ SK S4
+H2 H4 HQ HA
+C2 C3 CA CJ
+S8 SQ SA S7
+C5 C4 C7 CQ
+D6 CK C8 C6
+H3 H5 S2 HK
+D5 DA -  D8
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "19"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ8.AJ872.AJ3.QT Q932.95.2.AJ9632 KT.Q3.Q8765.8754 7654.KT64.KT94.K"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Auction "S"]
+Pass 1NT X =1= Pass
+2D 2H AP
+[Note "1:4M-5m"]
+[Play "N"]
+D2 D5 DT DJ
+S2 SK S4 S8
+S3 ST S5 SA
+SQ H3 S6 SJ
+H5 HQ H4 H2
+C2 C4 CK CT
+H9 D6 D4 D3
+CA C5 D9 CQ
+CJ C7 DK H7
+C3 D7 -  DA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "19"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:AJ8.AJ872.AJ3.QT Q932.95.2.AJ9632 KT.Q3.Q8765.8754 7654.KT64.KT94.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "7"]
+[Auction "S"]
+Pass 1NT 3C AP
+[Play "E"]
+SK S4 S8 S2
+ST S5 SA S3
+C4 S6 SJ SQ
+HQ HK HA H5
+H3 H4 HJ H9
+C5 H6 H2 D2
+C7 CK CT C2
+-  D9 -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQJ5.J7.KJ865.A7 K8.AKT43.AT.J964 T94.Q962.742.853 7632.85.Q93.KQT2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2HX"]
+[Result "8"]
+[Auction "W"]
+1NT 2H Pass Pass
+X AP
+[Play "E"]
+ST S2 S5 SK
+H2 H5 H7 HA
+H6 H8 HJ HK
+C5 CK CA C4
+S4 S3 SA S8
+S9 S6 SQ H3
+C3 C2 C7 CJ
+C8 CQ D6 C6
+H9 CT D5 C9
+HQ S7 D8 H4
+D7 D3 DJ DA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "20"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AQJ5.J7.KJ865.A7 K8.AKT43.AT.J964 T94.Q962.742.853 7632.85.Q93.KQT2"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "9"]
+[Auction "W"]
+1D 1H Pass Pass
+X 2C AP
+[Play "E"]
+C5 CK CA C4
+C3 CT C7 C6
+D7 DQ DK DA
+D4 D3 DJ DT
+S4 S2 SA S8
+S9 S3 S5 SK
+C8 CQ D6 C9
+D2 D9 D5 H3
+-  H5 -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:93.AK9842.K62.32 AQ8.J75.QJT5.A98 KJ52.6.A743.KQ65 T764.QT3.98.JT74"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1D"]
+[Result "4"]
+[Auction "N"]
+1D AP
+[Play "E"]
+CK C4 C2 CA
+H6 HT HK H5
+CQ C7 C3 C8
+C6 CT D6 C9
+SK S4 S3 SQ
+S2 S6 S9 SA
+D3 H3 H9 H7
+SJ S7 D2 S8
+-  -  HA HJ
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "21"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:93.AK9842.K62.32 AQ8.J75.QJT5.A98 KJ52.6.A743.KQ65 T764.QT3.98.JT74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "5"]
+[Auction "N"]
+1D Pass 1S 2H
+X Pass 2S AP
+[Play "W"]
+HK H5 H6 H3
+C2 C8 CQ C7
+D2 D5 DA D8
+DK DT D3 D9
+HA H7 D4 HT
+H8 HJ S2 HQ
+D6 DJ D7 CJ
+S3 SA S5 S4
+S9 S8 SJ S6
+H2 SQ SK S7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q964.2.QJT.KQ764 KT72.76.K532.J82 AJ83.A43.9874.A9 5.KQJT985.A6.T53"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "E"]
+1C 4H X AP
+[Play "W"]
+DQ D2 D4 DA
+S4 SK SA S5
+C4 C2 CA C5
+CQ C8 C9 C3
+CK CJ S3 CT
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "22"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:Q964.2.QJT.KQ764 KT72.76.K532.J82 AJ83.A43.9874.A9 5.KQJT985.A6.T53"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1D 4H X Pass
+4S AP
+[Play "S"]
+HK H2 H6 HA
+HT S4 H7 H4
+S5 SQ SK SA
+H9 S6 S2 SJ
+C3 C4 C2 CA
+CT CK C8 C9
+C5 CQ CJ D4
+HQ C6 S7 S8
+H5 S9 ST H3
+DA DT D2 D7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T76.AT6432.AK.A8 83.Q85.QJT4.Q975 KQ42.J.9832.JT42 AJ95.K97.765.K63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "8"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 2H AP
+[Play "N"]
+DQ D2 D7 DA
+S3 SK SA S7
+D4 D3 D5 DK
+HQ HJ H7 H3
+S8 SQ S5 S6
+DJ D9 D6 H2
+C9 S2 SJ ST
+C5 S4 S9 C8
+CQ C2 C3 CA
+H5 C4 H9 H6
+C7 CT CK H4
+H8 D8 HK HA
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "23"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:T76.AT6432.AK.A8 83.Q85.QJT4.Q975 KQ42.J.9832.JT42 AJ95.K97.765.K63"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "5"]
+[Auction "S"]
+Pass 1H Pass 1S
+Pass 3NT =1= AP
+[Note "1:6!h and 3!s"]
+[Play "N"]
+DQ D2 D7 DK
+S8 SK SA S6
+D4 D3 D5 DA
+S3 S2 SJ ST
+CQ C2 C6 C8
+DJ D8 D6 H4
+DT D9 H7 H2
+C5 C4 C3 CA
+C7 SQ -  S7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.J963.T43.QJ942 T9632.KQ4.K952.5 KJ4.T852.Q876.T6 Q875.A7.AJ.AK873"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass 1D 1NT
+Pass 2H Pass 2NT =1=
+Pass 4S AP
+[Note "1:max with 4!ss"]
+[Play "E"]
+CT CA C4 C5
+H2 H7 H3 HK
+S4 S5 SA S2
+C6 C3 CQ S3
+SK S7 -  S6
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "24"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A.J963.T43.QJ942 T9632.KQ4.K952.5 KJ4.T852.Q876.T6 Q875.A7.AJ.AK873"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+Pass Pass Pass 1C
+Pass 1S Pass 1NT
+Pass 2C Pass 2D
+Pass 2S =1= Pass 2NT
+Pass 3D Pass 3S
+Pass 3NT Pass 4S
+AP
+[Note "1:4-5!s, 3!h, 4-5!d, 1!c"]
+[Play "E"]
+H5 H7 HJ HQ
+S4 S5 SA S2
+C6 CA CJ C5
+D6 DJ D4 DK
+SK S7 D3 S3
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A5.J.Q94.AJT6532 K84.A84.J875.874 J962.Q52.AKT2.KQ QT73.KT9763.63.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6C"]
+[Result "12"]
+[Auction "N"]
+Pass 1NT 2H 2NT
+3H Pass Pass 6C
+AP
+[Play "N"]
+HA H2 H3 HJ
+H8 H5 H9 C2
+C4 CQ C9 C3
+C7 CK H6 CA
+C8 S2 H7 CJ
+S8 S6 HT CT
+S4 S9 S3 C6
+H4 SJ S7 C5
+SK HQ ST SA
+D5 DA D3 D4
+D7 D2 D6 DQ
+D8 DT -  D9
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "25"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:A5.J.Q94.AJT6532 K84.A84.J875.874 J962.Q52.AKT2.KQ QT73.KT9763.63.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "12"]
+[Auction "N"]
+Pass 1NT 3H 4C
+4H Pass Pass 5C
+AP
+[Play "N"]
+HA H2 H3 HJ
+H8 H5 HT C2
+C7 CQ C9 C3
+C4 CK H7 CA
+C8 S2 H6 CJ
+H4 S6 S3 CT
+D5 DT D3 D4
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J8652.K7654.3.Q5 A3.QT9.7642.KJ72 4.J832.AK95.T864 KQT97.A.QJT8.A93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+Pass 1S Pass 1NT
+Pass 2D Pass 3D
+Pass 3NT AP
+[Play "E"]
+H2 HA H4 H9
+C4 C3 C5 CJ
+S4 S7 S6 SA
+D5 SK S8 S3
+D9 SQ S5 D2
+C6 ST SJ D6
+HJ S9 H7 HT
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "26"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J8652.K7654.3.Q5 A3.QT9.7642.KJ72 4.J832.AK95.T864 KQT97.A.QJT8.A93"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1C X 1H
+2H X Pass 2NT
+Pass 3NT AP
+[Play "E"]
+H3 HA H4 H9
+S4 ST S5 S3
+D5 S7 S8 SA
+C4 C9 CQ C2
+H8 D8 HK HT
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:974.T54.AQ954.Q8 T86.KJ.72.JT7543 KJ52.Q876.J8.AK2 AQ3.A932.KT63.96"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2C"]
+[Result "8"]
+[Auction "S"]
+1D Pass 1NT X
+Pass Pass 2C AP
+[Play "E"]
+DJ DK DA D2
+SJ SQ S7 S8
+CK C6 C8 CT
+H6 H2 HT HJ
+H7 H3 H4 HK
+C2 C9 CQ CJ
+D8 D3 DQ D7
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "27"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:974.T54.AQ954.Q8 T86.KJ.72.JT7543 KJ52.Q876.J8.AK2 AQ3.A932.KT63.96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4HX"]
+[Result "8"]
+[Auction "S"]
+1D Pass 1NT X
+Pass 2D Pass 2H
+Pass 3H Pass 4H
+AP
+[Play "S"]
+C9 CQ C3 C2
+C6 C8 CT CA
+D3 D4 D2 DJ
+D6 DQ D7 D8
+DK DA HJ HQ
+H3 H4 C4 CK
+DT D5 S6 H6
+H2 H5 HK H8
+-  -  S8 -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "Jansma"]
+[North "Bertens"]
+[East "Paulissen"]
+[South "Westra"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9753.962.J832.A JT64.AK3.6.T9854 A2.Q7.AQ974.KQJ3 Q8.JT854.KT5.762"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1C Pass
+1S Pass 2D Pass
+3D Pass 3NT AP
+[Play "S"]
+HJ H2 HK H7
+H5 H6 HA HQ
+HT H9 H3 D4
+H8 S3 -  -
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Open"]
+
+[Event "Final Dutch Teams Championships"]
+[Site "Utrecht NLD"]
+[Date "2012.02.04"]
+[Board "28"]
+[West "F. Bakkere"]
+[North "Prooijen"]
+[East "T. Bakkere"]
+[South "Verhees"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K9753.962.J832.A JT64.AK3.6.T9854 A2.Q7.AQ974.KQJ3 Q8.JT854.KT5.762"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "10"]
+[Auction "W"]
+2S Pass 2NT Pass
+3D AP
+[Play "N"]
+HA H7 H8 H6
+HK HQ H4 H2
+*
+[Description "#"]
+[Stage "6_6"]
+[HomeTeam "\\'T Onstein 2 +155"]
+[VisitTeam "Het Witte Huis +136"]
+[Room "Closed"]
+

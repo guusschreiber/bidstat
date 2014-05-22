@@ -1,0 +1,4260 @@
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "1"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:JT9.KJ974.J3.753 KQ862.8.Q5.AKQJ6 A53.A52.K8642.94 74.QT63.AT97.T82"]
+[Scoring "IMP"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "11"]
+[Auction "N"]
+1S Pass 1NT Pass
+2C Pass 2S Pass
+3C AP
+[Play "E"]
+D4 DT D3 D5
+SA S4 SJ SK
+D2 DA DJ DQ
+S3 S7 ST SQ
+S5 C8 S9 S2
+-  CT -  -
+*
+[Description "1996 Spingold"]
+[Stage "F:1"]
+[HomeTeam "Nickell"]
+[VisitTeam "Schwartz"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "1"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:JT9.KJ974.J3.753 KQ862.8.Q5.AKQJ6 A53.A52.K8642.94 74.QT63.AT97.T82"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "N"]
+1S Pass 1NT Pass
+3C Pass 3NT AP
+[Play "W"]
+H7 H8 HA H3
+H9 S2 H5 H6
+D3 D5 DK DA
+S9 SK SA S4
+HJ S6 H2 HT
+HK S8 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "2"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ.AQJ95.8765.AQ KJ65.K642.QT9.K6 9842.83.KJ43.T32 T73.T7.A2.J98754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 2NT Pass
+3C Pass 3H Pass
+3NT AP
+[Play "N"]
+D9 D3 DA D5
+SK S2 S3 SQ
+S5 S4 S7 SA
+H2 H3 H7 HA
+HK H8 HT HJ
+S6 S8 ST D8
+CK C2 C7 CQ
+SJ S9 -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "2"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:AQ.AQJ95.8765.AQ KJ65.K642.QT9.K6 9842.83.KJ43.T32 T73.T7.A2.J98754"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "7"]
+[Auction "E"]
+Pass Pass 1C Pass
+1H Pass 1NT AP
+[Play "N"]
+S5 S2 S7 SQ
+D9 DJ DA D7
+S6 S4 S3 SA
+DQ DK D2 D8
+H2 H3 H7 HA
+HK H8 HT HQ
+CK C2 C7 CQ
+SJ S9 ST D5
+DT D3 C4 D6
+C6 C3 C8 CA
+H4 CT -  H5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "3"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT94.K.QJ763.JT6 AK72.AQ53.92.KQ2 3.JT72.AT54.A953 Q865.9864.K8.874"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "8"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 3H AP
+[Play "W"]
+SJ S2 S3 SQ
+HK HA H2 H6
+D3 D2 D5 DK
+C6 CK CA C7
+CT CQ C3 C8
+D7 D9 DA D8
+CJ C2 C5 C4
+DJ H3 D4 S5
+-  HQ H7 H4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "3"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:JT94.K.QJ763.JT6 AK72.AQ53.92.KQ2 3.JT72.AT54.A953 Q865.9864.K8.874"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1C"]
+[Result "5"]
+[Auction "S"]
+Pass Pass 1C AP
+[Play "E"]
+HJ H4 HK HA
+S3 S5 SJ SA
+C5 S6 S4 S2
+H7 H9 C6 H3
+C3 S8 S9 SK
+HT H6 CT H5
+C9 SQ ST S7
+DA D8 D3 D2
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "4"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A83.T852.QT952.8 T95..K873.AKQJ76 KQJ7.AKJ94.A.T54 642.Q763.J64.932"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass 1C X Pass
+1H 2C 4H AP
+[Play "N"]
+CA C5 C2 C8
+CK C4 C3 H2
+C6 HA H3 H5
+C7 CT C9 H8
+CJ HJ -  HT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "4"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A83.T852.QT952.8 T95..K873.AKQJ76 KQJ7.AKJ94.A.T54 642.Q763.J64.932"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass 1C X Pass
+1H 2C 4H AP
+[Play "N"]
+CK C4 C2 C8
+CA C5 C3 H2
+C6 HJ -  H5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "5"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T92.AQ5.AT7653.2 KQ76.3.J42.T8754 854.764.K8.AJ963 AJ3.KJT982.Q9.KQ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H 2D
+Pass Pass 2H Pass
+Pass 2NT Pass 3D
+AP
+[Play "N"]
+H3 H4 H8 HQ
+C4 CA CQ C2
+C8 C3 CK D3
+D4 D8 D9 DA
+D2 DK DQ D7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "5"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:T92.AQ5.AT7653.2 KQ76.3.J42.T8754 854.764.K8.AJ963 AJ3.KJT982.Q9.KQ"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "9"]
+[Auction "N"]
+Pass Pass 1H 2D
+Pass Pass 2H Pass
+Pass 3D AP
+[Play "N"]
+H3 H4 HT HQ
+C4 CA CK C2
+C5 C3 CQ D3
+D2 D8 D9 DA
+D4 DK DQ D5
+-  CJ -  -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "6"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T64.53.KQT.JT863 KQJ7.AK8742.5.K5 A982.J96.A4.A972 53.QT.J987632.Q4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "E"]
+1C 3D AP
+[Play "W"]
+CJ CK CA C4
+S4 S7 SA S3
+C3 C5 C2 CQ
+H3 HA H6 HT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "6"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T64.53.KQT.JT863 KQJ7.AK8742.5.K5 A982.J96.A4.A972 53.QT.J987632.Q4"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3D"]
+[Result "8"]
+[Auction "E"]
+1S 3D AP
+[Play "W"]
+S4 SK SA S3
+S6 SQ S2 S5
+DQ D5 D4 DJ
+CJ C5 CA C4
+ST S7 S8 D6
+DT H2 DA D9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "7"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT8.KQ.A943.AKT4 KQ97.AJ53.QT6.Q5 654.T9742.82.962 A32.86.KJ75.J873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "6"]
+[Auction "S"]
+Pass 1NT Pass 2D
+Pass 2H AP
+[Play "N"]
+SK S4 S3 ST
+SQ S5 S2 S8
+S7 S6 SA SJ
+C5 C2 C3 CA
+HA H2 H6 HQ
+CQ C6 C7 CK
+DT C9 CJ C4
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "7"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT8.KQ.A943.AKT4 KQ97.AJ53.QT6.Q5 654.T9742.82.962 A32.86.KJ75.J873"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "1NT"]
+[Result "5"]
+[Auction "S"]
+Pass 1NT AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "8"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT75.QT.A962.86 QJ.K875.T53.AKJ4 9832.42.J74.Q752 64.AJ963.KQ8.T93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "W"]
+1S X 3S 4H
+AP
+[Play "W"]
+SK SJ S3 S4
+SA SQ S2 S6
+C6 CK C2 C3
+HT H5 H2 HA
+HQ HK H4 H3
+ST H7 S8 H9
+C8 C4 CQ C9
+DA -  D4 DK
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "8"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKT75.QT.A962.86 QJ.K875.T53.AKJ4 9832.42.J74.Q752 64.AJ963.KQ8.T93"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "W"]
+1S X Pass 3H
+AP
+[Play "W"]
+SK SJ S3 S4
+SA SQ S8 S6
+C6 CA C7 C3
+HT HK H2 H3
+HQ H5 H4 HA
+C8 C4 CQ CT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "9"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:43.KJ87.AJ854.75 KQ72.QT94.T6.AJ3 A95.A32.32.QT842 JT86.65.KQ97.K96"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 1S Pass
+2S AP
+[Play "W"]
+S3 S2 S5 S6
+HK H4 H2 H5
+S4 SK SA S8
+C7 S7 S9 ST
+H7 H9 HA H6
+C5 -  C4 C6
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "9"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:43.KJ87.AJ854.75 KQ72.QT94.T6.AJ3 A95.A32.32.QT842 JT86.65.KQ97.K96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "5"]
+[Auction "N"]
+1C Pass 1S Pass
+2S Pass Pass X
+Pass 2NT AP
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "10"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T6542.K7.Q73.Q74 KJ3.64.A984.KT65 A7.QJT953.K62.J9 Q98.A82.JT5.A832"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+2H Pass Pass X
+XX 2NT Pass 3C
+Pass 3NT AP
+[Play "W"]
+HK H4 HQ H2
+H7 H6 H9 HA
+S2 SK SA S8
+S4 D4 HJ H8
+S5 D8 HT DT
+S6 C5 H5 C2
+ST S3 H3 C3
+DQ DA D2 D5
+D3 SJ S7 SQ
+D7 D9 D6 S9
+C4 C6 C9 CA
+-  -  -  C8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "10"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T6542.K7.Q73.Q74 KJ3.64.A984.KT65 A7.QJT953.K62.J9 Q98.A82.JT5.A832"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1D Pass
+1H 1NT AP
+[Play "W"]
+S6 SK SA S8
+ST SJ S7 S9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "11"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.AKQJ2.A62.T52 K3.943.KQJT95.Q8 AJ9874.T76.843.A Q52.85.7.KJ97643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "S"]
+3C 3H Pass 4C
+Pass 4H AP
+[Play "N"]
+DK D3 D7 D2
+DQ D4 H5 D6
+C8 CA C7 C2
+H4 H6 H8 HA
+SK SA S2 S6
+H3 H7 C6 HK
+S3 SJ SQ ST
+-  -  S5 HQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "11"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T6.AKQJ2.A62.T52 K3.943.KQJT95.Q8 AJ9874.T76.843.A Q52.85.7.KJ97643"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+3C 3H Pass 4H
+AP
+[Play "N"]
+DK D3 D7 D2
+DJ D4 C7 DA
+SK SA S2 ST
+S3 SJ SQ S6
+C8 CA C6 C2
+-  S9 S5 HA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "12"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:98752.J95.87.K85 T4.AQT.65432.974 3.8643.AKQJ9.AJT AKQJ6.K72.T.Q632"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2C"]
+[Result "6"]
+[Auction "W"]
+Pass Pass 1D 1S
+Pass Pass X Pass
+2C AP
+[Play "N"]
+ST S3 SJ S2
+S4 CT SQ S5
+D2 DQ DT D8
+D5 DA C2 D7
+HQ H3 H2 HJ
+HA H4 H7 H5
+D3 D9 CQ H9
+HT CJ SK S7
+D4 DK C6 C8
+D6 CA S6 S9
+C7 DJ C3 C5
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "12"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:98752.J95.87.K85 T4.AQT.65432.974 3.8643.AKQJ9.AJT AKQJ6.K72.T.Q632"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1H 1S
+Pass Pass 2D Pass
+2H Pass 2NT AP
+[Play "S"]
+SA S2 S4 S3
+S6 S7 ST CJ
+C3 C5 C4 CA
+DT D7 D2 DA
+C2 D8 D3 DK
+C6 S5 D4 DQ
+H7 S8 D5 DJ
+CQ S9 D6 D9
+SK CK -  CT
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "13"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJT874.Q53.2.QT6 K.984.AJ54.A9732 96532.JT2.63.KJ8 A.AK76.KQT987.54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "7D"]
+[Result "12"]
+[Auction "N"]
+1D Pass 3C Pass
+3D Pass 4D Pass
+4NT Pass 5H Pass
+5S Pass 7D AP
+[Play "E"]
+HJ HA H3 H4
+D3 DK D2 D4
+D6 DQ SQ D5
+C8 C5 C6 C2
+H2 HK H5 H8
+CJ C4 CT CA
+CK D7 -  C3
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "13"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:QJT874.Q53.2.QT6 K.984.AJ54.A9732 96532.JT2.63.KJ8 A.AK76.KQT987.54"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6D"]
+[Result "12"]
+[Auction "N"]
+1C Pass 1D 1S
+2D 3S 4H Pass
+5C Pass 5NT Pass
+6D AP
+[Play "W"]
+SQ SK S2 SA
+D2 D4 D3 DK
+C6 CA C8 C4
+CT C2 CK C5
+H3 H4 H2 HA
+S4 DJ D6 D7
+CQ C3 CJ D8
+-  -  -  D9
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "14"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK8542.AJ94.Q6.6 QT96.K8.A843.A32 7.QT52.JT2.QJ987 J3.763.K975.KT54"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1S Pass
+1NT Pass 2H AP
+[Play "N"]
+DA D2 D5 D6
+D3 DT DK DQ
+D4 DJ D7 C6
+S6 S7 S3 SA
+S9 H5 SJ S2
+HK HT H3 H4
+C2 C7 CT H9
+SQ H2 H6 S4
+C3 C8 CK HJ
+H8 HQ H7 HA
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "14"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:AK8542.AJ94.Q6.6 QT96.K8.A843.A32 7.QT52.JT2.QJ987 J3.763.K975.KT54"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H X
+3H Pass 4H AP
+[Play "N"]
+ST S7 S3 SK
+S6 H2 SJ S2
+HK HQ H6 H4
+C2 CJ CK C6
+DA D2 D5 D6
+D3 DT DK DQ
+C3 C7 C4 H9
+S9 HT C5 S4
+H8 H5 H3 HJ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "15"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QT93.Q3.854.AJT5 AKJ865.T7.932.96 72.A54.K76.KQ432 4.KJ9862.AQJT.87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1H Pass 1S 2C
+2H 3C 3H AP
+[Play "W"]
+CA C6 C4 C7
+CJ C9 CQ C8
+D4 D2 D6 DQ
+S3 SK S7 S4
+S9 SA S2 DJ
+D5 D3 D7 DT
+D8 D9 DK DA
+H3 H7 HA H8
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "15"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:QT93.Q3.854.AJT5 AKJ865.T7.932.96 72.A54.K76.KQ432 4.KJ9862.AQJT.87"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "9"]
+[Auction "S"]
+1H Pass 1S 2C
+2H 3C 3H AP
+[Play "W"]
+CA C6 C4 C7
+CJ C9 CQ C8
+S9 SJ S7 S4
+H3 H7 H4 H2
+HQ HT HA H6
+-  -  S2 -
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "16"]
+[West "Schwartz"]
+[North "Nickell"]
+[East "Sontag"]
+[South "Freeman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:7.AQJ32.KJ9.8763 KT954.765.A.AQT9 AQ8.84.QT53.J542 J632.KT9.87642.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "W"]
+1H 1S 1NT 3S
+AP
+[Play "E"]
+H8 H9 HJ H5
+SQ S2 S7 S4
+H4 HT HQ H6
+C2 HK HA H7
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "16"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:7.AQJ32.KJ9.8763 KT954.765.A.AQT9 AQ8.84.QT53.J542 J632.KT9.87642.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "8"]
+[Auction "W"]
+1H 1S 1NT 2S
+AP
+[Play "E"]
+H8 H9 HJ H5
+SQ S2 S7 S5
+SA S3 H2 S4
+S8 S6 H3 ST
+C4 CK C3 C9
+D5 D2 D9 DA
+C2 HT C6 CA
+C5 HK C7 CQ
+*
+[Description "#"]
+[Stage "F:1"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "17"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:8.98.AKJ754.6543 AKQ952.K65.Q6.KT JT3.QJT3.82.AQJ7 764.A742.T93.982"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+1C Pass 1D 2D
+2S AP
+[Play "E"]
+D8 D3 DK D6
+CA C2 C5 CK
+CJ C8 C6 CT
+D2 D9 DA DQ
+HJ DT DJ H5
+C7 C9 D7 SA
+S3 S4 S8 SK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "17"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:8.98.AKJ754.6543 AKQ952.K65.Q6.KT JT3.QJT3.82.AQJ7 764.A742.T93.982"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "8"]
+[Auction "N"]
+1S Pass 1NT 2D
+X Pass 2S Pass
+3S AP
+[Play "E"]
+D8 D9 DK D6
+H3 H2 H9 HK
+S3 S4 S8 SA
+ST S6 C3 SK
+SJ S7 H8 SQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "18"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T85..QJT2.KJT753 62.98762.AK65.62 A94.AKQJ3.98.AQ8 KQJ73.T54.743.94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1NT Pass
+3NT AP
+[Play "N"]
+DA D8 D3 D2
+C6 -  -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "18"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:T85..QJT2.KJT753 62.98762.AK65.62 A94.AKQJ3.98.AQ8 KQJ73.T54.743.94"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "11"]
+[Auction "E"]
+1H Pass 1NT Pass
+3NT AP
+[Play "N"]
+DK D8 D3 DT
+S6 SA SK S5
+H2 HA H4 C3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "19"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T53.K.KQ952.J543 KJ87.AT97.T84.76 A92.Q862.A73.AK8 Q64.J543.J6.QT92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1D 1NT
+Pass 3NT AP
+[Play "S"]
+H3 HK HA H6
+H4 S3 HT HQ
+DJ D2 D8 DA
+D6 DK D4 D3
+S4 DQ DT D7
+C2 D5 C7 H2
+S6 D9 C6 S2
+C9 C3 H7 CA
+CT C4 S7 CK
+SQ S5 S8 SA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "19"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:T53.K.KQ952.J543 KJ87.AT97.T84.76 A92.Q862.A73.AK8 Q64.J543.J6.QT92"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "S"]
+Pass Pass 1H 1NT
+2H 3NT AP
+[Play "S"]
+H3 HK HA H2
+S6 S3 SJ S2
+SQ S5 S7 S9
+S4 ST SK SA
+D6 DK D4 D3
+DJ D2 D8 DA
+H4 C3 H7 HQ
+CT DQ DT D7
+H5 D9 H9 H6
+HJ D5 HT H8
+-  C4 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "20"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:743.KQJT6.K86.A3 KQ9.A42.AT9752.5 865.853.3.KJ9864 AJT2.97.QJ4.QT72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1H 2D 2H 3C
+Pass 3H Pass 3S
+Pass 4H Pass 4S
+AP
+[Play "W"]
+HK HA H8 H7
+S3 SK S6 S2
+S4 S9 S5 SJ
+DK DA D3 DQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "20"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:743.KQJT6.K86.A3 KQ9.A42.AT9752.5 865.853.3.KJ9864 AJT2.97.QJ4.QT72"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "W"]
+1H 2D Pass 3C
+Pass 3H Pass 3S
+Pass 4S AP
+[Play "W"]
+HK HA H3 H7
+S3 S9 S5 SJ
+D6 D2 D3 DQ
+S4 SQ S6 S2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "21"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A.A5.KQ65.AK9643 KJ643.J9.T43.Q85 T8.KQ7642.AJ.J72 Q9752.T83.9872.T"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "13"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 3D
+Pass 3H Pass 4S
+X Pass Pass XX
+Pass 5H Pass 7H
+AP
+[Play "S"]
+S2 SA S6 S8
+H3 HA HJ H2
+H8 H5 H9 HK
+HT C3 S3 HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "21"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:A.A5.KQ65.AK9643 KJ643.J9.T43.Q85 T8.KQ7642.AJ.J72 Q9752.T83.9872.T"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "7H"]
+[Result "13"]
+[Auction "N"]
+Pass 1H Pass 2C
+Pass 2H Pass 3H
+Pass 4H Pass 4NT
+Pass 5S Pass 7H
+AP
+[Play "S"]
+H3 HA H9 H2
+H8 H5 HJ HK
+HT C3 S3 HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "22"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K3.J5.7543.A7432 QT764.KQ9.Q9.QJ5 92.763.KJT86.KT8 AJ85.AT842.A2.96"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass 1H Pass 2NT
+Pass 4H AP
+[Play "W"]
+D4 DQ DK DA
+H5 HK H3 H2
+SK SQ S2 S5
+C2 CQ CK C6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "22"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:K3.J5.7543.A7432 QT764.KQ9.Q9.QJ5 92.763.KJT86.KT8 AJ85.AT842.A2.96"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result "11"]
+[Auction "E"]
+Pass 1H Pass 1NT
+AP
+[Play "E"]
+DT D2 D3 DQ
+S9 SA S3 SQ
+S2 S5 SK S4
+D6 DA D4 D9
+D8 SJ C2 S6
+C8 S8 C4 ST
+H3 -  -  S7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "23"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J7.K43.64.AJT832 A9.AJT72.AQJT72. 8542.98.K53.K965 KQT63.Q65.98.Q74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 1C Pass
+1H Pass 2D Pass
+2S Pass 3H Pass
+4H AP
+[Play "W"]
+CA H2 C5 C4
+H3 HA H8 H5
+HK HJ H9 H6
+CJ H7 C6 C7
+D4 DA D3 D8
+D6 DQ DK D9
+C2 D2 D5 HQ
+S7 SA S2 S3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "23"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:J7.K43.64.AJT832 A9.AJT72.AQJT72. 8542.98.K53.K965 KQT63.Q65.98.Q74"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5H"]
+[Result "11"]
+[Auction "S"]
+Pass Pass 2D Pass
+2H Pass 3H Pass
+3NT Pass 4H Pass
+5H AP
+[Play "W"]
+CA H2 C5 C4
+S7 S9 S2 SK
+D4 DQ DK D8
+CT H7 C6 C7
+HK HJ H8 H5
+SJ SA S8 S3
+-  HT H9 H6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "24"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K986.AJ.A8742.64 J54.T95.J3.AK972 Q73.743.KT96.QJ3 AT2.KQ862.Q5.T85"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "1NT"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1NT AP
+[Play "S"]
+H6 HJ HT H4
+D5 D2 D3 DK
+DQ DA DJ DT
+SA S6 S5 SQ
+HK HA H5 H3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "24"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K986.AJ.A8742.64 J54.T95.J3.AK972 Q73.743.KT96.QJ3 AT2.KQ862.Q5.T85"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3D"]
+[Result "8"]
+[Auction "W"]
+1D Pass 1NT Pass
+2D Pass Pass 2H
+Pass Pass 3D AP
+[Play "N"]
+CK C3 C5 C4
+HT H3 HQ HA
+D3 D6 D5 DA
+DJ DK DQ D2
+CA CJ C8 C6
+H5 H4 HK HJ
+H9 H7 H8 D7
+C2 D9 H2 D4
+C7 CQ CT S6
+-  SQ -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "25"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K543.KQ3.JT.K942 Q97.T82.5432.753 AJ862.9764.AK9.6 T.AJ5.Q876.AQJT8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass 1S 2C 2NT
+Pass 3C Pass 4S
+AP
+[Play "S"]
+D7 DJ D5 D9
+ST SK S7 S6
+C8 S3 S9 SJ
+H5 S4 SQ SA
+CA C2 C7 C6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "25"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:K543.KQ3.JT.K942 Q97.T82.5432.753 AJ862.9764.AK9.6 T.AJ5.Q876.AQJT8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "N"]
+Pass 1S 2C 3C
+Pass 3H Pass 3S
+Pass 4S AP
+[Play "S"]
+D6 DJ D3 D9
+ST SK S7 S2
+C8 S3 S9 SJ
+H5 S4 SQ SA
+CA C2 C3 C6
+CQ CK C5 H4
+D7 DT D2 DA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "26"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:873.A82.K83.8742 96542.J963.J.KJT AKQJ.QT75.AT7.A3 T.K4.Q96542.Q965"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "10"]
+[Auction "E"]
+2NT Pass 3NT AP
+[Play "S"]
+D5 D3 DJ DA
+H4 HA H3 H5
+HK H2 H6 HT
+DQ DK S4 D7
+D9 H8 HJ HQ
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "26"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:873.A82.K83.8742 96542.J963.J.KJT AKQJ.QT75.AT7.A3 T.K4.Q96542.Q965"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+1D Pass 1NT Pass
+3NT AP
+[Play "N"]
+S6 SJ ST S3
+S2 SQ D2 S7
+S4 SK D6 S8
+H3 H5 H4 HA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "27"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT762.QT754.53.7 J94.AJ962.J.Q854 5.K8.QT974.AKJ32 KQ83.3.AK862.T96"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "6"]
+[Auction "S"]
+1D Pass 1H Pass
+1S Pass Pass 2C
+2D Pass 2H Pass
+2S AP
+[Play "W"]
+C7 C4 CJ CT
+SA S4 S5 S3
+S2 SJ C2 S8
+D3 DJ DQ DA
+D5 H2 D4 DK
+ST H6 D7 D2
+S6 S9 C3 SQ
+S7 C5 D9 SK
+H4 HA H8 H3
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "27"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT762.QT754.53.7 J94.AJ962.J.Q854 5.K8.QT974.AKJ32 KQ83.3.AK862.T96"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2HX"]
+[Result "7"]
+[Auction "S"]
+1D 2D Pass 2H
+Pass Pass X AP
+[Play "S"]
+H3 H4 H9 HK
+S3 SA S4 S5
+SK S2 S9 H8
+C6 C7 C4 CA
+C9 D3 C5 CK
+CT H7 C8 C2
+S8 S6 SJ D4
+DK D5 DJ DQ
+SQ S7 CQ C3
+DA HT HJ D7
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "28"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:65.85432.AQ8.Q93 AT7.AKJ9.KJ65.J8 8.QT76.T9732.AT7 KQJ9432..4.K6542"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "5S"]
+[Result "11"]
+[Auction "W"]
+Pass 1C Pass 1H
+Pass 1NT Pass 2S
+Pass 4S Pass 5H
+Pass 5S AP
+[Play "W"]
+DA D5 DT D4
+C3 C8 CA C2
+-  -  D2 -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "28"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:65.85432.AQ8.Q93 AT7.AKJ9.KJ65.J8 8.QT76.T9732.AT7 KQJ9432..4.K6542"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5S"]
+[Result "11"]
+[Auction "W"]
+Pass 1NT Pass 2H
+Pass 2S Pass 3C
+Pass 3S Pass 4C
+Pass 4NT Pass 5D
+X 5S AP
+[Play "E"]
+DT D4 DA D5
+S8 SK S5 S7
+D2 S2 S6 SA
+H6 SQ H3 H9
+H7 S3 H2 ST
+HT C2 H4 HA
+HQ C4 H5 HK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "29"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K52.KJT8632.J5.6 A7.7.KT3.AT87532 J94.A4.AQ96.KQJ4 QT863.Q95.8742.9"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4H"]
+[Result "9"]
+[Auction "N"]
+2C 2NT Pass 3D
+Pass 3H Pass 4H
+AP
+[Play "S"]
+C9 C6 CA C4
+D2 D5 DT DA
+H5 HK H7 H4
+H9 H3 CT HA
+HQ DJ C8 CK
+D4 S2 DK D6
+S3 S5 SA S4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "29"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:K52.KJT8632.J5.6 A7.7.KT3.AT87532 J94.A4.AQ96.KQJ4 QT863.Q95.8742.9"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "10"]
+[Auction "N"]
+1C 1NT Pass 2C
+X Pass Pass 4H
+AP
+[Play "N"]
+CA C4 C9 C6
+DT DA D4 D5
+C3 CK HQ HK
+H7 H4 H5 HJ
+C5 HA H9 H2
+C2 CQ D2 DJ
+C7 CJ S3 S2
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "30"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.32.Q654.AKQ8743 KQ8753.JT96.A98. T9.Q875.JT32.J65 AJ642.AK4.K7.T92"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "6S"]
+[Result "13"]
+[Auction "E"]
+Pass 1NT Pass 2H
+Pass 3S 4C 4NT
+Pass 5S Pass 6S
+AP
+[Play "W"]
+CA SK C6 C2
+C3 S3 S9 SJ
+C4 SQ ST S2
+H2 H6 H5 HA
+D4 DA D2 D7
+H3 H9 H7 H4
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "30"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:.32.Q654.AKQ8743 KQ8753.JT96.A98. T9.Q875.JT32.J65 AJ642.AK4.K7.T92"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7CX"]
+[Result "8"]
+[Auction "E"]
+Pass 1S 4C 5C
+6C Pass Pass X
+Pass 6H 7C Pass
+Pass X AP
+[Play "N"]
+HJ HQ HK H2
+D9 D2 DK D4
+DA D3 D7 D5
+D8 DT C2 D6
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "31"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.AQT432.AJ83.AK7 AJ542.5.Q54.Q932 K63.K876.KT.T865 QT987.J9.9762.J4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Auction "S"]
+Pass 1H 1S 2S
+3S 4D Pass 4H
+Pass 4S Pass 5C
+Pass 5S Pass 6D
+Pass 6H AP
+[Play "N"]
+SA S3 S8 H2
+H5 H8 H9 HA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "31"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:.AQT432.AJ83.AK7 AJ542.5.Q54.Q932 K63.K876.KT.T865 QT987.J9.9762.J4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "13"]
+[Auction "S"]
+Pass 1H 1S 3H
+Pass 6H AP
+[Play "N"]
+SA S3 S8 H2
+H5 H6 H9 HA
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "32"]
+[West "Smith"]
+[North "Rodwell"]
+[East "Robinson"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:852.AT9874.J5.AQ KJ.J652.832.KJ94 Q963.KQ.AT9764.6 AT74.3.KQ.T87532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "W"]
+1H Pass 2D X
+2H 4C 4H 5C
+X AP
+[Play "E"]
+HK H3 H7 H6
+DA DQ D5 D3
+D4 DK DJ D8
+C6 C8 CA C4
+-  -  CQ CK
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "32"]
+[West "Hamman"]
+[North "Soloway"]
+[East "Wolff"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:852.AT9874.J5.AQ KJ.J652.832.KJ94 Q963.KQ.AT9764.6 AT74.3.KQ.T87532"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5CX"]
+[Result "10"]
+[Auction "W"]
+1H Pass 2D X
+2H 4C 4H 5C
+Pass Pass X AP
+[Play "E"]
+HK H3 H4 H5
+DA DQ D5 D3
+C6 C2 -  -
+*
+[Description "#"]
+[Stage "F:2"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "33"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ2.K973.J98.KT8 T87543.T.QT6.A92 J96.AJ62.K53.763 K.Q854.A742.QJ54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "2S"]
+[Result "7"]
+[Auction "N"]
+Pass Pass 1H Pass
+1S Pass 1NT Pass
+2S AP
+[Play "E"]
+C3 CJ CK CA
+S6 SK SA S5
+DK DA D8 DT
+HJ H4 H3 HT
+C7 C4 CT C2
+C6 CQ C8 C9
+S9 C5 H7 D6
+D5 D7 D9 DQ
+SJ H5 S2 ST
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "33"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AQ2.K973.J98.KT8 T87543.T.QT6.A92 J96.AJ62.K53.763 K.Q854.A742.QJ54"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "6"]
+[Auction "N"]
+Pass Pass Pass 1D
+Pass 1H Pass 2H
+Pass Pass 2NT Pass
+3C AP
+[Play "E"]
+C3 CQ C8 C2
+HJ H4 H3 HT
+C7 C5 CT CA
+D5 DA D8 D6
+H6 H5 H7 C9
+S9 SK SA S3
+C6 C4 CK S5
+H2 H8 HK S4
+HA HQ H9 S7
+SJ D2 -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "34"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98762.875.AQ3.J4 Q3.62.JT865.A872 AKJ5.KQJ.94.KT63 T4.AT943.K72.Q95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "10"]
+[Auction "E"]
+1NT Pass 2H Pass
+3D Pass 3H Pass
+3S Pass 4S AP
+[Play "S"]
+S4 S2 SQ SA
+ST S6 S3 SK
+HA H5 H6 HK
+H9 H7 H2 HQ
+H3 H8 D6 HJ
+D7 DQ DJ D4
+CQ CJ C2 C3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "34"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:98762.875.AQ3.J4 Q3.62.JT865.A872 AKJ5.KQJ.94.KT63 T4.AT943.K72.Q95"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "E"]
+1C Pass 1D Pass
+1NT Pass 2H Pass
+3S Pass 4S AP
+[Play "S"]
+ST S2 S3 SJ
+S4 S6 SQ SA
+HA H5 H6 HK
+HT H7 H2 HJ
+H4 H8 D6 HQ
+D2 DQ DJ D9
+C5 CJ C2 CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "35"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J9.A9654.AK96.J3 KQT82.QJ.J.AKQ64 65.KT873.Q8732.7 A743.2.T54.T9852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass 1H X 4H
+4S AP
+[Play "W"]
+DA DJ D8 D4
+HA HJ HT H2
+C3 CA C7 C8
+S9 SK S5 S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "35"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:J9.A9654.AK96.J3 KQT82.QJ.J.AKQ64 65.KT873.Q8732.7 A743.2.T54.T9852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass 1H 2H 4H
+4S AP
+[Play "W"]
+DA DJ D8 D4
+HA HJ HT H2
+C3 CA C7 C2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "36"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q3.42.AJ432.Q843 T62.AK85.T5.AT75 AK4.JT963.K.K962 J9875.Q7.Q9876.J"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "7"]
+[Auction "W"]
+Pass Pass 1H Pass
+1NT Pass 2C Pass
+2H AP
+[Play "S"]
+D7 D2 DT DK
+HQ H2 H5 H9
+S9 S3 S2 SK
+H7 H4 HK HT
+SJ SQ ST S4
+CJ C3 C5 CK
+D6 D3 H8 H3
+S5 D4 HA H6
+S7 DJ S6 SA
+D8 C8 CT C2
+-  -  CA -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "36"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q3.42.AJ432.Q843 T62.AK85.T5.AT75 AK4.JT963.K.K962 J9875.Q7.Q9876.J"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "2S"]
+[Result "7"]
+[Auction "W"]
+Pass 1C 1H 1S
+Pass 2S AP
+[Play "W"]
+H4 HA HJ H7
+D4 D5 DK D7
+H2 H5 H3 HQ
+C3 CA C2 CJ
+DJ DT HT D6
+C4 C5 C9 S5
+D3 C7 S4 DQ
+SQ H8 H6 S9
+D2 S6 C6 D8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "37"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:63.AQJ62.AQJ2.62 T8.9743.K65.AQT7 KQ92.8.T943.K953 AJ754.KT5.87.J84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "8"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2D
+AP
+[Play "N"]
+ST SK SA S6
+DK D3 D7 DQ
+S8 SQ S4 S3
+H3 H8 H5 HA
+C7 CK C4 C2
+D5 D4 D8 DJ
+H7 C3 HK HQ
+CT C5 CJ C6
+-  -  S5 H2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "37"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:63.AQJ62.AQJ2.62 T8.9743.K65.AQT7 KQ92.8.T943.K953 AJ754.KT5.87.J84"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Auction "N"]
+Pass Pass Pass 1H
+Pass 1S Pass 2D
+AP
+[Play "N"]
+ST SK SA S3
+DK D3 D7 D2
+D5 D4 D8 DJ
+H3 H8 H5 HA
+H4 C3 HK HQ
+CA C5 C4 C6
+D6 D9 S5 DQ
+H7 C9 HT HJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "38"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T73.QJ985.96.AT4 AQ.A73.543.KQ962 KJ852.KT6.J87.83 964.42.AKQT2.J75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 3NT AP
+[Play "E"]
+S5 S6 ST SQ
+D7 DA D6 D4
+D8 DK D9 D5
+C3 C5 CA C6
+-  -  S7 -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "38"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:T73.QJ985.96.AT4 AQ.A73.543.KQ962 KJ852.KT6.J87.83 964.42.AKQT2.J75"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "E"]
+Pass Pass Pass 1NT
+Pass 3NT AP
+[Play "E"]
+S5 S4 ST SQ
+D7 DA D6 D4
+D8 DK D9 D3
+DJ DQ C4 D5
+-  DT CT -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "39"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q73.KQJ7.Q7.QJ32 96.A65.KT864.K76 AJ8542.983.A.AT8 KT.T42.J9532.954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass Pass Pass 1S
+Pass 2C Pass 4S
+AP
+[Play "S"]
+D3 DQ DK DA
+ST S3 S6 SA
+SK S7 S9 S2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "39"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:Q73.KQJ7.Q7.QJ32 96.A65.KT864.K76 AJ8542.983.A.AT8 KT.T42.J9532.954"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "11"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 1NT Pass 2D
+Pass 2S Pass 3NT
+Pass 4S AP
+[Play "S"]
+D3 D7 DK DA
+ST S3 S6 SA
+SK S7 S9 SJ
+C4 -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "40"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT973.8.KQJ3.T62 A65.J9.96.AKQ843 KJ.KQ3.AT852.J95 842.AT76542.74.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "10"]
+[Auction "W"]
+Pass 2C Pass 2H
+Pass 2NT Pass 3H
+Pass 4H AP
+[Play "W"]
+DK D6 D5 D4
+DQ D9 D2 D7
+S3 SA SJ S2
+H8 HJ HQ HA
+C2 CA C5 C7
+C6 CK C9 S4
+CT CQ CJ S8
+S7 H9 H3 H2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "40"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QT973.8.KQJ3.T62 A65.J9.96.AKQ843 KJ.KQ3.AT852.J95 842.AT76542.74.7"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4HX"]
+[Result "10"]
+[Auction "W"]
+Pass 1C 1D 3H
+3S 4H X AP
+[Play "W"]
+DK D6 D5 D4
+D3 D9 DA D7
+S3 SA SK S2
+H8 H9 H3 H2
+C6 CA C5 C7
+C2 CQ C9 S4
+CT CK CJ S8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "41"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQ874.Q96.J843.J AJ.AK532.AQ62.Q8 932.T74.9.AT9542 T65.J8.KT75.K763"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "N"]
+1C Pass 1D Pass
+1H Pass 1NT Pass
+2H Pass 2NT Pass
+3NT AP
+[Play "W"]
+S7 SJ S2 S5
+D3 DQ D9 D5
+D4 DA C2 D7
+CJ CQ C5 C3
+S4 C8 C9 CK
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "41"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:KQ874.Q96.J843.J AJ.AK532.AQ62.Q8 932.T74.9.AT9542 T65.J8.KT75.K763"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "8"]
+[Auction "N"]
+1H Pass 1NT Pass
+3D Pass 3H Pass
+3NT Pass 4D Pass
+4H AP
+[Play "E"]
+D9 DT DJ DA
+H4 HJ HQ H2
+H7 D5 D3 D6
+CA C3 CJ C8
+CT C6 H6 CQ
+HT D7 D8 D2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "42"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T.K9872.A985.AQ4 KQ84.AQ653.KT.62 6532..Q732.KT953 AJ97.JT4.J64.J87"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2D"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H Pass
+1NT Pass 2D AP
+[Play "N"]
+SK S3 S9 ST
+S4 S5 SA D5
+C2 C3 C7 CA
+C6 C5 C8 CQ
+H3 D2 HJ H2
+S8 S2 S7 D8
+H5 D3 HT H7
+DT CK CJ C4
+DK D7 D4 DA
+H6 DQ H4 H9
+SQ S6 SJ D9
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "42"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:T.K9872.A985.AQ4 KQ84.AQ653.KT.62 6532..Q732.KT953 AJ97.JT4.J64.J87"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3S"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1H 1S
+Pass 3S AP
+[Play "E"]
+S6 S7 ST SK
+S2 S9 H2 S4
+S5 SA H9 SQ
+S3 SJ D8 S8
+C3 HJ H8 H3
+D2 HT HK HA
+D3 H4 H7 HQ
+-  -  -  H6
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "43"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QT2.AJ753.AJ863. K984.98.97.A8643 AJ653.T64.T2.Q72 7.KQ2.KQ54.KJT95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Auction "S"]
+1D 1H X 2H
+3C 3D 4C AP
+[Play "W"]
+S2 SK SA S7
+HA H8 HT HK
+HJ H9 H4 HQ
+H3 C8 H6 H2
+DA D7 D2 DK
+SQ S4 S3 C5
+D6 D9 DT DQ
+D8 C6 C7 D4
+ST S8 S5 C9
+H5 CA C2 CT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "43"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QT2.AJ753.AJ863. K984.98.97.A8643 AJ653.T64.T2.Q72 7.KQ2.KQ54.KJT95"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4C"]
+[Result "9"]
+[Auction "S"]
+1D 1H X 2D
+3C 3D 4C AP
+[Play "W"]
+S2 SK SA S7
+HA H8 H4 HK
+SQ S4 S5 C5
+H7 CA C2 C9
+DA D7 D2 DK
+ST S8 S6 CT
+D3 D9 DT DQ
+D6 C3 C7 D5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "44"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8765.A5.T73.AK74 AKJ.JT9.AK6.Q862 Q4.K73.Q54.JT953 T932.Q8642.J982."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "8"]
+[Auction "W"]
+1C X 2C 2H
+Pass 2NT Pass 3S
+Pass 4H AP
+[Play "W"]
+CK C2 C9 H2
+S5 SJ SQ S2
+S6 SK S4 S9
+HA HJ H3 H4
+S7 SA H7 S3
+H5 H9 HK H6
+C4 C6 C3 H8
+D3 -  -  DJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "44"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:8765.A5.T73.AK74 AKJ.JT9.AK6.Q862 Q4.K73.Q54.JT953 T932.Q8642.J982."]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "10"]
+[Auction "W"]
+1NT X 2C Pass
+3C X Pass 3H
+AP
+[Play "W"]
+CK C2 CJ H2
+H5 H9 HK H4
+CA C6 C5 D2
+D7 DA D4 D8
+HA HT H3 H6
+D3 DK D5 D9
+-  HJ H7 H8
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "45"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ765.65.AJ3.QJ8 QT2.AQT4.T84.T75 843.K87.K976.963 K9.J932.Q52.AK42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1H 1S
+2H 2S AP
+[Play "N"]
+HA H7 H2 H5
+HQ HK H3 H6
+C5 C3 C4 CQ
+S2 S3 S9 SA
+ST S4 SK S5
+H4 H8 HJ S6
+C7 C6 CK CJ
+CT C9 C2 C8
+SQ S8 H9 S7
+HT D6 CA SJ
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "45"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AJ765.65.AJ3.QJ8 QT2.AQT4.T84.T75 843.K87.K976.963 K9.J932.Q52.AK42"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "2S"]
+[Result "8"]
+[Auction "N"]
+Pass Pass 1C 1S
+X 2S AP
+[Play "N"]
+C5 C3 CA C8
+CT C6 C2 CQ
+S2 S3 S9 SA
+ST S4 SK S6
+C7 C9 CK CJ
+HA H7 H2 H5
+H4 HK H3 H6
+HT H8 H9 S5
+D4 DK D2 D3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "46"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT92..Q4.AK86543 AJ853.Q4.82.QT92 K6.AT972.AT63.J7 74.KJ8653.KJ975."]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "6"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 3C Pass
+3NT AP
+[Play "S"]
+D7 D4 D8 DT
+H5 CA C2 C7
+S4 S2 S3 SK
+S7 S9 SJ S6
+H3 CK CQ CJ
+H6 ST SA H2
+D9 C3 CT D3
+D5 C4 C9 H7
+DK DQ D2 D6
+DJ C5 S5 DA
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "46"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:QT92..Q4.AK86543 AJ853.Q4.82.QT92 K6.AT972.AT63.J7 74.KJ8653.KJ975."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "5C"]
+[Result "9"]
+[Auction "E"]
+1H Pass 2C Pass
+2D Pass 2S Pass
+3C Pass 3NT Pass
+4C Pass 5C AP
+[Play "N"]
+D8 DA D7 D4
+H4 HA H5 DQ
+C2 C7 D5 CA
+S3 S6 S4 S9
+SA SK S7 S2
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "47"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:8542.KT84.8.AQ85 QT97.953.Q7.JT74 AJ3.QJ7.AJ6532.3 K6.A62.KT94.K962"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "7"]
+[Auction "S"]
+1D X Pass Pass
+XX Pass 1S Pass
+Pass 2C Pass 3NT
+AP
+[Play "S"]
+C2 CQ C7 C3
+HA H4 H3 HQ
+C6 C5 CT D2
+CK CA C4 D3
+S6 S2 S7 S3
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "47"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:8542.KT84.8.AQ85 QT97.953.Q7.JT74 AJ3.QJ7.AJ6532.3 K6.A62.KT94.K962"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "1DX"]
+[Result "5"]
+[Auction "S"]
+1D X AP
+[Play "W"]
+D8 D7 DA D4
+CQ C4 C3 C6
+CA C7 H7 C9
+C8 CT D2 CK
+HK H3 HQ H2
+C5 CJ D3 C2
+S8 DQ D5 D9
+S2 S7 SA SK
+H4 H5 HJ HA
+S5 SQ S3 S6
+-  S9 SJ DT
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "48"]
+[West "Smith"]
+[North "Wolff"]
+[East "Robinson"]
+[South "Hamman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:JT6.T43.T97.8543 K875.AQ852.J84.Q 32.9.AKQ6532.AK2 AQ94.KJ76..JT976"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "5HXX"]
+[Result "12"]
+[Auction "W"]
+Pass 2H 3H 4H
+Pass Pass 5D 5H
+Pass Pass X XX
+AP
+[Play "E"]
+CK C6 C8 CQ
+CA C7 C3 H2
+D5 H6 D7 D4
+H9 HK H3 H5
+D2 H7 H4 HQ
+DQ HJ D9 D8
+C2 CJ C4 DJ
+D3 CT C5 S5
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "48"]
+[West "Rodwell"]
+[North "Soloway"]
+[East "Meckstroth"]
+[South "Goldman"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:JT6.T43.T97.8543 K875.AQ852.J84.Q 32.9.AKQ6532.AK2 AQ94.KJ76..JT976"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "W"]
+Pass 1H 3H X
+Pass Pass 4D 4H
+AP
+[Play "E"]
+DK H6 D7 D8
+CA C6 C3 CQ
+S3 S4 SJ SK
+H9 HK H4 H2
+D2 HJ H3 H5
+CK CJ C4 D4
+DA -  -  -
+*
+[Description "#"]
+[Stage "F:3"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "49"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:63.QT853.J975.Q4 J42.642.Q6.AT653 AQT9875.J.A82.K9 K.AK97.KT43.J872"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3C"]
+[Result "9"]
+[Auction "N"]
+Pass 1S X Pass
+2C 2S 3C AP
+[Play "E"]
+HJ HA H5 H4
+DA DK D7 D6
+SA SK S6 S4
+ST C2 S3 S2
+C9 C7 C4 CA
+D2 D3 D5 DQ
+CK C8 CQ C3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "49"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:63.QT853.J975.Q4 J42.642.Q6.AT653 AQT9875.J.A82.K9 K.AK97.KT43.J872"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3S"]
+[Result "9"]
+[Auction "N"]
+Pass 1S X Pass
+2C 3S AP
+[Play "S"]
+HA H3 H2 HJ
+C2 C4 CA CK
+SK S3 S2 SA
+C8 CQ C3 C9
+H7 S6 SJ SQ
+D4 H5 S4 ST
+CJ H8 H4 S8
+H9 D5 H6 S7
+D3 D7 C5 S5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "50"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A874.2.KT73.JT74 Q32.K8.6542.AK53 J95.J643.J98.Q98 KT6.AQT975.AQ.62"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "10"]
+[Auction "E"]
+Pass 1C Pass 1H
+Pass 1S Pass 1NT
+Pass 4H AP
+[Play "E"]
+D8 DQ DK D5
+C9 C2 C4 CA
+D9 DA D3 D4
+H3 HQ H2 H8
+H4 H5 S4 HK
+DJ H7 D7 D6
+S5 S6 S7 SQ
+C8 C6 C7 CK
+CQ H9 CT C5
+S9 ST SA S2
+-  -  CJ C3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "50"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "W:A874.2.KT73.JT74 Q32.K8.6542.AK53 J95.J643.J98.Q98 KT6.AQT975.AQ.62"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "E"]
+Pass 1H Pass 2C
+Pass 2H Pass 2NT
+Pass 3H Pass 4H
+AP
+[Play "W"]
+D3 D2 DJ DQ
+H2 HK H3 H5
+S4 H8 H4 HA
+S7 D4 H6 HQ
+C4 D5 HJ HT
+D7 D6 D9 DA
+S8 SQ S5 S6
+SA S2 S9 ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "51"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:4.AQJT98.QT752.K KT53.K53.A6.AJ76 A98.62.843.QT543 QJ762.74.KJ9.982"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1H X Pass
+1S 2H X 3C
+3H Pass 3S AP
+[Play "W"]
+HA H3 H6 H7
+HQ HK H2 H4
+S4 S3 S8 SQ
+H8 SK SA S7
+D2 ST S9 S2
+HJ H5 C4 C8
+CK CA C3 C2
+D5 DA D3 D9
+D7 D6 D4 DK
+-  -  -  C9
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "51"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "W:4.AQJT98.QT752.K KT53.K53.A6.AJ76 A98.62.843.QT543 QJ762.74.KJ9.982"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3S"]
+[Result "9"]
+[Auction "S"]
+Pass 1H X Pass
+1S 2H 2S Pass
+3D Pass 3S AP
+[Play "W"]
+D2 D6 D8 DJ
+S4 SK SA S2
+HT HK H6 H7
+HQ S3 S8 SJ
+D5 ST S9 SQ
+CK CA C3 C9
+D7 DA D4 D9
+HA S5 C4 S6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "52"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.A8.T8.JT97532 Q72.QT643.A3.KQ8 KJT5.KJ7.KJ96.A6 A943.952.Q7542.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 1NT 2H
+3C AP
+[Play "N"]
+H3 HJ H5 H8
+H6 H7 H9 HA
+CQ CA C4 CJ
+H4 HK H2 D8
+CK C6 D7 CT
+S2 SK SA S6
+SQ S5 S3 S8
+DA -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "52"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:86.A8.T8.JT97532 Q72.QT643.A3.KQ8 KJT5.KJ7.KJ96.A6 A943.952.Q7542.4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3C"]
+[Result "9"]
+[Auction "W"]
+Pass 1H 1NT 2H
+3C AP
+[Play "N"]
+H4 HJ H2 H8
+H3 H7 H5 HA
+CK CA C4 CJ
+H6 HK H9 D8
+CQ C6 D2 C9
+S2 SK SA S6
+SQ S5 S3 S8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "53"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT64.7.T653.JT54 85.AK4.AK98.A962 KQ2.Q9.QJ42.Q873 J973.JT86532.7.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1C Pass 1D Pass
+1NT Pass 2D Pass
+3H Pass 4H AP
+[Play "E"]
+D2 D7 DT DA
+H9 H2 H7 HA
+C3 CK C5 C6
+HQ HJ D3 HK
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "53"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "W:AT64.7.T653.JT54 85.AK4.AK98.A962 KQ2.Q9.QJ42.Q873 J973.JT86532.7.K"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "4H"]
+[Result "11"]
+[Auction "N"]
+1C Pass 2H Pass
+4H AP
+[Play "W"]
+D3 DK D4 D7
+H7 HA H9 H2
+S4 HK HQ HJ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "54"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ93.QT98.AK5.Q7 62.KJ6.QT742.A98 QT.A7532.3.KJT43 A8754.4.J986.652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2D Pass 2H Pass
+3C Pass 4H AP
+[Play "N"]
+D2 D3 DJ DA
+H6 HA H4 HT
+HJ H3 S4 H9
+S6 ST SA S3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "54"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "W:KJ93.QT98.AK5.Q7 62.KJ6.QT742.A98 QT.A7532.3.KJT43 A8754.4.J986.652"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "4H"]
+[Result "9"]
+[Auction "E"]
+Pass Pass 1NT Pass
+2D Pass 2H Pass
+4D Pass 4H AP
+[Play "N"]
+S6 ST SA S3
+S2 SQ S5 SK
+C8 CK C2 C7
+H6 HA H4 H8
+-  H2 -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "55"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT9.K9532.53.T82 A87653.J.KT.Q743 4.Q64.AQ76.AJ965 KQ2.AT87.J9842.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1S X
+XX 2H 4S AP
+[Play "E"]
+H4 HA H5 HJ
+DQ D2 D5 DT
+H6 H7 H9 S6
+DA D4 D3 DK
+HQ H8 H2 S3
+S4 SK SJ S5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "55"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "W:JT9.K9532.53.T82 A87653.J.KT.Q743 4.Q64.AQ76.AJ965 KQ2.AT87.J9842.K"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "4S"]
+[Result "10"]
+[Auction "S"]
+1D Pass 1S 2C
+X Pass 4S AP
+[Play "E"]
+H4 HA H5 HJ
+DQ D2 D5 DT
+H6 H7 H9 S3
+S4 SK SJ S6
+D6 D4 D3 DK
+CA CK C2 C4
+HQ H8 H2 S5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "56"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K.A874.AKT52.752 T52.K963.Q7.AJ93 AQJ83.QT.96.QT86 9764.J52.J843.K4"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1D Pass 1S Pass
+1NT Pass 2C Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "N"]
+C3 C6 CK C2
+D7 D6 D3 DA
+S5 S3 S4 SK
+C9 CT C4 C5
+S2 SA S6 C7
+ST SQ S7 H4
+H3 SJ S9 H7
+H6 S8 H2 H8
+DQ D9 D4 DK
+CJ -  -  DT
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "56"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K.A874.AKT52.752 T52.K963.Q7.AJ93 AQJ83.QT.96.QT86 9764.J52.J843.K4"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+1H Pass 1S Pass
+2D Pass 2NT Pass
+3NT AP
+[Play "S"]
+H2 H4 HK HT
+H5 H7 H3 HQ
+D4 D2 DQ D9
+HJ HA H6 C6
+S7 SK S2 SA
+S4 C5 S5 SQ
+S6 C2 ST SJ
+-  -  -  D6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "57"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ762.A9.J3.KQT4 5.QJT72.AKT7.987 KJT.K863.Q62.AJ6 9843.54.9854.532"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result "12"]
+[Auction "N"]
+1H Pass 1S 1NT
+2D 3NT AP
+[Play "N"]
+HJ -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "57"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "W:AQ762.A9.J3.KQT4 5.QJT72.AKT7.987 KJT.K863.Q62.AJ6 9843.54.9854.532"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "4S"]
+[Result "12"]
+[Auction "N"]
+1H X Pass 2H
+Pass 2NT Pass 3H
+Pass 3S Pass 4S
+AP
+[Play "S"]
+H5 HA H2 H3
+S3 S2 S5 SK
+S4 S6 C7 ST
+S8 SQ H7 SJ
+S9 SA HT D6
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "58"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J643.Q973.T754.6 KQ9.KJT.Q.J75432 75.652.A863.KQT8 AT82.A84.KJ92.A9"]
+[Scoring "#"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1C Pass 1NT
+Pass 3C Pass 3D
+Pass 3NT AP
+[Play "E"]
+D3 D2 D7 DQ
+CT CA C6 C4
+CQ C9 H7 C2
+H6 H4 HQ HK
+H5 HA H3 HT
+D6 DK D4 C3
+DA DJ D5 C5
+D8 D9 DT S9
+S5 S2 S3 SK
+S7 S8 -  SQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "58"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "W:J643.Q973.T754.6 KQ9.KJT.Q.J75432 75.652.A863.KQT8 AT82.A84.KJ92.A9"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "E"]
+Pass 1NT Pass 2S
+Pass 2NT Pass 3NT
+AP
+[Play "W"]
+H3 HT H2 H4
+D4 DQ D3 D2
+H7 HJ H6 HA
+D5 C2 DA DK
+H9 HK H5 H8
+S3 SK S5 S2
+S4 SQ S7 ST
+S6 S9 D6 SA
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "59"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT2.JT87.A84.T94 J7.93.Q63.Q76532 5.AKQ542.K752.AK KQ98643.6.JT9.J8"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+3H Pass 3S X
+Pass 4H Pass 4S
+Pass 5D Pass 5S
+Pass 6H AP
+[Play "N"]
+SJ -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "59"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT2.JT87.A84.T94 J7.93.Q63.Q76532 5.AKQ542.K752.AK KQ98643.6.JT9.J8"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "6H"]
+[Result "12"]
+[Auction "S"]
+3S Pass Pass X
+Pass 3NT Pass 4H
+Pass 4S Pass 6H
+AP
+[Play "S"]
+DJ D4 D6 -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "60"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.AK.AQJ3.KQJ4 J.JT65.K8742.T92 865.32.95.A87653 T97432.Q9874.T6."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "7C"]
+[Result "12"]
+[Auction "W"]
+2C Pass 2D Pass
+4NT Pass 5D Pass
+6C Pass 7C AP
+[Play "N"]
+SJ -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "60"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AKQ.AK.AQJ3.KQJ4 J.JT65.K8742.T92 865.32.95.A87653 T97432.Q9874.T6."]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result "13"]
+[Auction "W"]
+1C Pass 1H Pass
+2C Pass 3C Pass
+6NT AP
+[Play "N"]
+D4 D9 DT DQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "61"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKT7.J3.87642.84 985.KQ5.AQ9.Q965 J2.AT972.K3.AT32 Q643.864.JT5.KJ7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "9"]
+[Auction "N"]
+1D 1H X 2H
+AP
+[Play "S"]
+H8 H3 HQ HA
+S6 S7 S5 SJ
+H6 HJ HK H2
+C7 C4 C9 CA
+H4 D2 H5 HT
+S4 SA S9 S2
+S3 SK S8 C2
+-  D4 -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "61"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "W:AKT7.J3.87642.84 985.KQ5.AQ9.Q965 J2.AT972.K3.AT32 Q643.864.JT5.KJ7"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2H"]
+[Result "8"]
+[Auction "N"]
+1C 1H X Pass
+1NT Pass Pass 2H
+AP
+[Play "S"]
+CK C4 C6 C3
+H6 H3 HQ HA
+S4 S7 S5 SJ
+C7 C8 C5 CA
+CJ HJ C9 C2
+S3 SA S8 S2
+S6 SK S9 CT
+D5 D2 DQ DK
+H4 D4 HK HT
+DT D6 DA D3
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "62"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:64.73.KQT64.AK64 AQ5.Q952.9752.T2 J932.KT6.A.QJ853 KT87.AJ84.J83.97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "8"]
+[Auction "E"]
+1C Pass 2C Pass
+3C Pass 3D Pass
+3NT AP
+[Play "S"]
+S7 S4 SQ S2
+S8 S6 SA S3
+ST C4 S5 S9
+SK D4 H9 SJ
+HA -  -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "62"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:64.73.KQT64.AK64 AQ5.Q952.9752.T2 J932.KT6.A.QJ853 KT87.AJ84.J83.97"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result "5"]
+[Auction "E"]
+1S Pass 2D Pass
+2NT Pass 3NT AP
+[Play "S"]
+S7 S4 SQ S2
+HA H3 H2 HK
+H4 H7 HQ H6
+S8 S6 SA S3
+ST D4 S5 S9
+SK D6 D2 SJ
+HJ DT -  -
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "63"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J653.AT74.A532.K AKQ7.932.J76.T62 9842.K6.T4.AJ854 T.QJ85.KQ98.Q973"]
+[Scoring "#"]
+[Declarer "E"]
+[Contract "2S"]
+[Result "8"]
+[Auction "S"]
+Pass 1D Pass 1S
+Pass 2S AP
+[Play "S"]
+ST SJ SK S2
+C7 S3 SA S4
+C3 S5 SQ S8
+C9 S6 S7 S9
+DQ D2 D7 DT
+DK D3 D6 D4
+D8 DA DJ C4
+CQ CK C2 C5
+H5 H4 H3 HK
+H8 H7 C6 CA
+HQ D5 CT CJ
+-  -  -  C8
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "63"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "W:J653.AT74.A532.K AKQ7.932.J76.T62 9842.K6.T4.AJ854 T.QJ85.KQ98.Q973"]
+[Scoring "#"]
+[Declarer "W"]
+[Contract "3S"]
+[Result "8"]
+[Auction "S"]
+Pass 1S Pass 2S
+X Pass 2NT 3S
+AP
+[Play "N"]
+SQ S2 ST S3
+SA S4 H8 S5
+SK S8 C3 S6
+S7 S9 D8 SJ
+DJ D4 D9 D3
+D7 DT DQ DA
+D6 C4 DK D2
+C2 C5 C7 CK
+C6 C8 H5 D5
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "64"]
+[West "Soloway"]
+[North "Rodwell"]
+[East "Goldman"]
+[South "Meckstroth"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q876.5.AJT9432.3 AJ9.A83.75.KQJ94 K543.JT642.Q.A76 T2.KQ97.K86.T852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result "9"]
+[Auction "W"]
+Pass 1C Pass 2D
+X Pass Pass 2H
+Pass 3C Pass 3NT
+AP
+[Play "W"]
+DJ D5 DQ DK
+C3 CK C6 C8
+S6 CQ CA C5
+DA C4 C7 CT
+H5 H3 H2 HK
+D2 CJ S3 C2
+D3 C9 H4 D6
+DT H8 HT HQ
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Open"]
+
+[Event "Spingold Knockout Teams"]
+[Site "Miami Beach FL:Americana Hotel"]
+[Date "1996.08.??"]
+[Board "64"]
+[West "Wolff"]
+[North "Sontag"]
+[East "Hamman"]
+[South "Schwartz"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q876.5.AJT9432.3 AJ9.A83.75.KQJ94 K543.JT642.Q.A76 T2.KQ97.K86.T852"]
+[Scoring "#"]
+[Declarer "S"]
+[Contract "3H"]
+[Result "7"]
+[Auction "W"]
+3D X Pass 3H
+AP
+[Play "W"]
+C3 CJ CA C5
+D2 D5 DQ D6
+H5 C4 C6 C2
+DA D7 S5 D8
+DJ HA C7 DK
+D3 H8 H2 H7
+S6 H3 HT HQ
+D4 C9 H4 CT
+S7 S9 SK S2
+SQ SA S4 ST
+*
+[Description "#"]
+[Stage "F:4"]
+[HomeTeam "#"]
+[VisitTeam "#"]
+[Room "Closed"]
+
